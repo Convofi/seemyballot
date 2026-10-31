@@ -1,0 +1,32 @@
+{
+  "state": "OR",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Oregon Secretary of State's official November 3, 2026 General Election Voters' Pamphlet, whose candidate list shows Governor as the only statewide office and no statewide measures this fall. Confirm on your official sample ballot.",
+  "sources": [
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Pages/default.aspx"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Oregon allows cross-nomination: Tina Kotek is also nominated by the Working Families Party and Christine Drazan by the Libertarian Party; only each candidate's first-listed party is shown here.",
+    "Statewide nonpartisan offices (Supreme Court, Court of Appeals, Tax Court, Commissioner of the Bureau of Labor and Industries) do not appear in the November pamphlet's candidate list; Oregon fills these at the May primary when a candidate wins a majority.",
+    "No statewide ballot measures are on the November 3, 2026 ballot; local measures are not yet loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          { "key": "or-gov-2026-smith-brett", "name": "Brett Smith", "party": "Green", "incumbent": false },
+          { "key": "or-gov-2026-kotek-tina", "name": "Tina Kotek", "party": "Democratic", "incumbent": true },
+          { "key": "or-gov-2026-drazan-christine", "name": "Christine Drazan", "party": "Republican", "incumbent": false }
+        ],
+        "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": { "senate": {}, "house": {} },
+  "counties": {}
+}
