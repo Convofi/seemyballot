@@ -1,26 +1,133 @@
 @import "tailwindcss";
 
+/*
+ * Design tokens. Every component uses these (via the Tailwind names mapped in
+ * @theme below), never raw palette colors, so light and dark stay in step.
+ * All text pairs are >= 4.5:1 on paper, surface and surface-2 in both themes.
+ */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  color-scheme: light;
+  --paper: #faf9f7; /* page background */
+  --surface: #ffffff; /* cards */
+  --surface-2: #f3f1ed; /* insets, skeletons, callouts */
+  --ink: #1c1b19; /* primary text */
+  --ink-2: #4d4a45; /* secondary text */
+  --ink-3: #6a665f; /* meta, footnotes */
+  --line: #e7e4de; /* hairlines */
+  --line-strong: #cfcbc3; /* input borders */
+  --accent: #1d4a94; /* links and actions only */
+  --accent-hover: #143870;
+  --accent-solid: #1d4a94; /* primary button fill */
+  --accent-solid-hover: #163b78;
+  --on-accent: #ffffff;
+  --danger: #9e2a1c;
+  --danger-soft: #fbf0ed;
+  --danger-line: #efcfc7;
+  --yes: #1f5a3a;
+  --yes-soft: #edf5ef;
+  --no: #8c3519;
+  --no-soft: #faf0eb;
+  --party-dem: #2a5db0;
+  --party-rep: #b8352a;
+  --party-lib: #c7951a;
+  --party-grn: #3b8a4a;
+  --party-other: #8a867e;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    color-scheme: dark;
+    --paper: #1b1a19;
+    --surface: #232220;
+    --surface-2: #2c2a28;
+    --ink: #eeece8;
+    --ink-2: #c2beb7;
+    --ink-3: #a29e96;
+    --line: #363431;
+    --line-strong: #4a4743;
+    --accent: #9dbcf2;
+    --accent-hover: #c0d4f7;
+    --accent-solid: #3d6cc0;
+    --accent-solid-hover: #4a79cc;
+    --on-accent: #ffffff;
+    --danger: #f2a99c;
+    --danger-soft: #3a2420;
+    --danger-line: #5a3530;
+    --yes: #a6d9b8;
+    --yes-soft: #1f2e25;
+    --no: #f2b9a2;
+    --no-soft: #36251e;
+    --party-dem: #6f9be6;
+    --party-rep: #e0786c;
+    --party-lib: #e3b850;
+    --party-grn: #72bf80;
+    --party-other: #9c988f;
   }
 }
 
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-solid: var(--accent-solid);
+  --color-accent-solid-hover: var(--accent-solid-hover);
+  --color-on-accent: var(--on-accent);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-danger-line: var(--danger-line);
+  --color-yes: var(--yes);
+  --color-yes-soft: var(--yes-soft);
+  --color-no: var(--no);
+  --color-no-soft: var(--no-soft);
+  --color-party-dem: var(--party-dem);
+  --color-party-rep: var(--party-rep);
+  --color-party-lib: var(--party-lib);
+  --color-party-grn: var(--party-grn);
+  --color-party-other: var(--party-other);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  /* Reading size for positions, summaries and notes: between sm (14) and base (16). */
+  --text-md: 0.9375rem;
+  --text-md--line-height: 1.5rem;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Inline text link: the only place the accent appears besides buttons. */
+  .link {
+    color: var(--accent);
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    text-decoration-color: color-mix(in srgb, var(--accent) 45%, transparent);
+  }
+  .link:hover {
+    color: var(--accent-hover);
+    text-decoration-color: currentColor;
+  }
 }
