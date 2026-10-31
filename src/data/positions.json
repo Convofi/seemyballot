@@ -1,4 +1,39 @@
 {
+ "H0OH03137": {
+  "name": "Cleophus Dulaney",
+  "website": "https://www.votedulaney.org/",
+  "bio": null,
+  "positions": [
+   {
+    "topic": "Housing gentrification",
+    "stance": "\"Gentrification of housing in my district.\"",
+    "sourceUrl": "https://www.votedulaney.org/issues"
+   },
+   {
+    "topic": "Affordable housing",
+    "stance": "\"The city is facing a significant, worsening shortage of affordable housing, with the Mid-Ohio Regional Planning Commission (MORPC) projecting a population of 3 million by 2050.\"",
+    "sourceUrl": "https://www.votedulaney.org/issues"
+   },
+   {
+    "topic": "Police relations",
+    "stance": "\"Better relationship with our police force.\"",
+    "sourceUrl": "https://www.votedulaney.org/issues"
+   },
+   {
+    "topic": "Homelessness and addiction",
+    "stance": "\"Homelessness and opioid addiction rehab.\"",
+    "sourceUrl": "https://www.votedulaney.org/issues"
+   },
+   {
+    "topic": "Property taxes",
+    "stance": "\"Property taxes and home improvement grants.\"",
+    "sourceUrl": "https://www.votedulaney.org/issues"
+   }
+  ],
+  "status": "ok",
+  "generatedAt": "2026-10-31",
+  "method": "manual"
+ },
  "H2OH03125": {
   "name": "Joyce Beatty",
   "website": "https://beattyforcongress.com/",
@@ -34,40 +69,40 @@
   "generatedAt": "2026-10-31",
   "method": "manual"
  },
- "H0OH03137": {
-  "name": "Cleophus Dulaney",
-  "website": "https://www.votedulaney.org/",
-  "bio": null,
+ "H2OH15228": {
+  "name": "Mike Carey",
+  "website": "https://www.careyforcongress.com/",
+  "bio": "Mike Carey is the U.S. Representative for Ohio's 15th Congressional District; before that, he served as a military officer and spent more than 20 years as an executive at an Ohio-based energy company.",
   "positions": [
    {
-    "topic": "Housing gentrification",
-    "stance": "\"Gentrification of housing in my district.\"",
-    "sourceUrl": "https://www.votedulaney.org/issues"
+    "topic": "Local community investment",
+    "stance": "Says his top priority is \"strengthening Ohio communities by promoting economic growth, public safety, and opportunity for working families,\" including bringing federal funding back to local projects.",
+    "sourceUrl": "https://www.careyforcongress.com/priorities"
    },
    {
-    "topic": "Affordable housing",
-    "stance": "\"The city is facing a significant, worsening shortage of affordable housing, with the Mid-Ohio Regional Planning Commission (MORPC) projecting a population of 3 million by 2050.\"",
-    "sourceUrl": "https://www.votedulaney.org/issues"
+    "topic": "Cost of living and taxes",
+    "stance": "Says he is working to lower living costs by \"reducing taxes, creating good-paying jobs, and fighting inflation,\" citing the Working Families Tax Cuts law, including no taxes on tips or overtime.",
+    "sourceUrl": "https://www.careyforcongress.com/priorities"
    },
    {
-    "topic": "Police relations",
-    "stance": "\"Better relationship with our police force.\"",
-    "sourceUrl": "https://www.votedulaney.org/issues"
+    "topic": "Social Security",
+    "stance": "Says he is \"committed to strengthening Social Security and ensuring seniors receive the benefits they have earned,\" including fixing Social Security Administration overpayment notices.",
+    "sourceUrl": "https://www.careyforcongress.com/priorities"
    },
    {
-    "topic": "Homelessness and addiction",
-    "stance": "\"Homelessness and opioid addiction rehab.\"",
-    "sourceUrl": "https://www.votedulaney.org/issues"
+    "topic": "Public safety and border",
+    "stance": "Says he \"supports law enforcement, secure borders, and policies that keep Ohio families and neighborhoods safe,\" citing his votes for the Laken Riley Act and the HALT Fentanyl Act.",
+    "sourceUrl": "https://www.careyforcongress.com/priorities"
    },
    {
-    "topic": "Property taxes",
-    "stance": "\"Property taxes and home improvement grants.\"",
-    "sourceUrl": "https://www.votedulaney.org/issues"
+    "topic": "Veterans and first responders",
+    "stance": "Says veterans, law enforcement, and first responders \"deserve the respect, resources, and care they've earned,\" citing bills that support EMS grants and health savings accounts for veterans.",
+    "sourceUrl": "https://www.careyforcongress.com/priorities"
    }
   ],
   "status": "ok",
-  "generatedAt": "2026-10-31",
-  "method": "manual"
+  "generatedAt": "2026-10-31T22:15:48.100Z",
+  "method": "claude"
  },
  "S6OH00163": {
   "name": "Sherrod Brown",

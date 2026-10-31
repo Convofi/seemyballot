@@ -52,7 +52,7 @@ const MAJOR = new Set(["DEM", "REP"]);
 const OFFICE = { S: "U.S. Senate", H: "U.S. House" };
 
 function displayName(raw) {
-  const [last = "", first = ""] = raw.split(",", 2).map((s) => s.trim());
+  const [last = "", first = ""] = (raw ?? "").split(",", 2).map((s) => s.trim());
   const strip = (s) =>
     s.split(/\s+/).filter((w) => !/^(MR|MRS|MS|MISS|DR|REP|SEN|HON|REV|PROF)\.?$/i.test(w));
   const title = (w) => w.toLowerCase().replace(/(^|[-'])([a-z])/g, (_, a, c) => a + c.toUpperCase());
