@@ -185,7 +185,7 @@ function hostname(url: string): string {
 function Positions({ data }: { data: CandidatePositions }) {
   const found = data.status === "ok" && data.positions.length > 0;
   return (
-    <details className="mt-1 text-sm">
+    <details className="mt-1 text-sm" open={found}>
       <summary className="cursor-pointer py-1 text-neutral-600 dark:text-neutral-400">
         {found ? "Where they stand" : "About"}
       </summary>
