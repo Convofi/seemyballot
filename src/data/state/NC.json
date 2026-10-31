@@ -1,0 +1,130 @@
+{
+  "state": "NC",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide judicial contests from the NC State Board of Elections 2026 general election candidate list, and amendment wording from the NCSBE statewide referendum list and the ratified session laws on ncleg.gov. Confirm on your official sample ballot.",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest_federal_and_state.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/statewide_referendums_20261103.pdf",
+    "https://www.nccourts.gov/courts/supreme-court/meet-the-justices",
+    "https://www.nccourts.gov/courts/court-of-appeals/biographies-of-the-judges"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded",
+    "North Carolina's Council of State offices (governor, attorney general, etc.) are not on the 2026 ballot; they are elected in presidential years.",
+    "Superior Court and District Court judges, district attorneys and other district-level races are not loaded.",
+    "Candidate campaign websites are not included.",
+    "Incumbent flags are based on the NC Judicial Branch court rosters checked on 2026-10-31."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Associate Justice of the Supreme Court (Seat 1)",
+        "candidates": [
+          {
+            "key": "nc-supreme-court-seat-1-2026-earls-anita",
+            "name": "Anita Earls",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "nc-supreme-court-seat-1-2026-stevens-sarah",
+            "name": "Sarah Stevens",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+      },
+      {
+        "office": "Judge of the Court of Appeals (Seat 1)",
+        "candidates": [
+          {
+            "key": "nc-court-of-appeals-seat-1-2026-byrne-michael",
+            "name": "Michael C. Byrne",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "nc-court-of-appeals-seat-1-2026-arrowood-john",
+            "name": "John S. Arrowood",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+      },
+      {
+        "office": "Judge of the Court of Appeals (Seat 2)",
+        "candidates": [
+          {
+            "key": "nc-court-of-appeals-seat-2-2026-bell-george",
+            "name": "George Cooper Bell",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "nc-court-of-appeals-seat-2-2026-hampson-tobias",
+            "name": "Tobias (Toby) Hampson",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+      },
+      {
+        "office": "Judge of the Court of Appeals (Seat 3)",
+        "candidates": [
+          {
+            "key": "nc-court-of-appeals-seat-3-2026-collins-craig",
+            "name": "Craig Collins",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "nc-court-of-appeals-seat-3-2026-walczyk-christine",
+            "name": "Christine Marie Walczyk",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment: Photo ID for Voting",
+        "title": "Constitutional amendment to require all voters, not just those presenting to vote in person, to present photo identification before voting.",
+        "summary": "Referred by the General Assembly (Session Law 2024-58, Senate Bill 921), this amendment would change Article VI of the North Carolina Constitution so that the photo ID requirement, which now covers only voters offering to vote in person, applies to all voters, including those voting by mail. The General Assembly would still write the specific ID rules by law, which may include exceptions. It would take effect when the results are certified.",
+        "yesMeans": "You favor requiring every voter, including absentee and mail voters, to present photo identification before voting, under rules and exceptions set by state law.",
+        "noMeans": "You oppose the amendment; the constitution's photo ID requirement continues to apply only to voters voting in person.",
+        "source": "https://www.ncleg.gov/Sessions/2023/Bills/Senate/PDF/S921v3.pdf",
+        "moreInfo": "https://ballotpedia.org/North_Carolina_Require_Voter_Identification_Amendment_(2026)"
+      },
+      {
+        "id": "Constitutional Amendment: Maximum Income Tax Rate of 3.5%",
+        "title": "Constitutional amendment to keep the State income tax rate from being raised higher than three and one-half percent (3.5%).",
+        "summary": "Referred by the General Assembly (Session Law 2026-4, Senate Bill 1080), this amendment would lower the maximum state income tax rate allowed by the North Carolina Constitution from 7% to 3.5%. Raising the rate above 3.5% later would require another constitutional amendment approved by voters. If approved, it would apply to tax years beginning on or after January 1, 2027.",
+        "yesMeans": "You favor lowering the constitutional cap on the state income tax rate from 7% to 3.5%.",
+        "noMeans": "You oppose the amendment; the constitutional cap on the state income tax rate stays at 7%.",
+        "source": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S1080v3.pdf",
+        "moreInfo": "https://ballotpedia.org/North_Carolina_Reduce_Income_Tax_Rate_Cap_from_7%25_to_3.5%25_Amendment_(2026)"
+      },
+      {
+        "id": "Constitutional Amendment: Property Tax Levy Limit",
+        "title": "Constitutional amendment requiring limits on property tax increases by local governments.",
+        "summary": "Referred by the General Assembly (Session Law 2026-5, House Bill 1089), this amendment would add a sentence to Article V of the North Carolina Constitution requiring the General Assembly to pass general laws limiting how much local property tax levies may increase. Those laws may include exceptions; the amendment itself does not set the size of the limit. It would take effect when the results are certified.",
+        "yesMeans": "You favor requiring the General Assembly to pass laws limiting how much counties, cities and other local governments can increase property tax levies.",
+        "noMeans": "You oppose the amendment; the constitution would not require the General Assembly to limit local property tax increases.",
+        "source": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1089v3.pdf",
+        "moreInfo": "https://ballotpedia.org/North_Carolina_Property_Tax_Levy_Limit_Amendment_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
