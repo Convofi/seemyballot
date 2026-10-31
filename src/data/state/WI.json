@@ -1,0 +1,137 @@
+{
+  "state": "WI",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Portage County Clerk's official November 3, 2026 sample ballot and statewide Type C referendum notice (the Wisconsin Elections Commission site blocked automated access). Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web",
+    "https://www.co.portage.wi.gov/DocumentCenter/View/7368/Type-C-Notice-for-Ref-for-November-2026-General-Election_Final-12-PT",
+    "https://www.co.portage.wi.gov/693/Election-Information",
+    "https://farmingtonwaup.gov/wp-content/uploads/2026/09/Type-C-Notice-of-Referendum-for-2026-General-Election.pdf",
+    "https://ballotpedia.org/Wisconsin_2026_ballot_measures"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "elections.wi.gov and myvote.wi.gov returned HTTP 403 on 2026-10-31, so statewide candidates come from the Portage County official sample ballot (statewide contests are identical on every Wisconsin ballot) rather than the Elections Commission's certified candidate list.",
+    "Registered write-in candidates for statewide offices are not listed.",
+    "Wisconsin Supreme Court and Court of Appeals elections are held in April, so no judicial contests are on this ballot."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "wi-gov-2026-tiffany-tom",
+            "name": "Tom Tiffany",
+            "party": "Republican",
+            "runningMate": "David Varnam",
+            "incumbent": false
+          },
+          {
+            "key": "wi-gov-2026-crowley-david",
+            "name": "David Crowley",
+            "party": "Democratic",
+            "runningMate": "Sarah Godlewski",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "wi-ag-2026-toney-eric",
+            "name": "Eric Toney",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "wi-ag-2026-kaul-josh",
+            "name": "Josh Kaul",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "wi-sos-2026-schroeder-jay",
+            "name": "Jay Schroeder",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "wi-sos-2026-zamarripa-jocasta",
+            "name": "JoCasta Zamarripa",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "wi-sos-2026-karas-pete",
+            "name": "Pete Karas",
+            "party": "Green",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "wi-treas-2026-leiber-john",
+            "name": "John S. Leiber",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "wi-treas-2026-xiong-yee",
+            "name": "Yee Leng Xiong",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Question 1",
+        "title": "Partial veto",
+        "summary": "Referred by the Legislature, this constitutional amendment would bar the governor from using the partial veto on a spending bill to create or increase any tax or fee, or to authorize one. It would also stop a partial veto from letting local governments, such as school districts, raise their own taxes or fees.",
+        "yesMeans": "The constitution would be amended so the governor's partial veto could not create, increase or authorize the creation or increase of any tax or fee.",
+        "noMeans": "The constitution is not changed; the governor's current partial veto power stays as it is.",
+        "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7368/Type-C-Notice-for-Ref-for-November-2026-General-Election_Final-12-PT",
+        "moreInfo": "https://ballotpedia.org/Wisconsin_2026_ballot_measures"
+      },
+      {
+        "id": "Question 2",
+        "title": "Freedom to gather in places of worship during an emergency",
+        "summary": "Referred by the Legislature, this constitutional amendment would add to the religious liberty section a ban on the state or any local government ordering places of worship closed, or forbidding gatherings in them, in response to a state of emergency, including a public health emergency. Today officials may limit religious gatherings during an emergency as long as religious and secular gatherings are treated the same.",
+        "yesMeans": "The constitution would be amended to prohibit state and local governments from closing or prohibiting gatherings in places of worship during a state of emergency.",
+        "noMeans": "The constitution is not changed; officials could still limit gatherings in places of worship during an emergency on the same terms as secular gatherings.",
+        "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7368/Type-C-Notice-for-Ref-for-November-2026-General-Election_Final-12-PT",
+        "moreInfo": "https://ballotpedia.org/Wisconsin_2026_ballot_measures"
+      },
+      {
+        "id": "Question 3",
+        "title": "Governmental entity discrimination prohibited",
+        "summary": "Referred by the Legislature, this constitutional amendment would create a new section barring state and local governmental entities, including public schools and universities, from discriminating against or granting preferential treatment to any individual or group based on race, sex, color, ethnicity or national origin in public employment, education, contracting or administration. The Attorney General's explanatory statement says this appears to set a stricter standard than current state and federal law, with exceptions for keeping federal program eligibility, complying with federal law, and sex-based qualifications reasonably necessary to normal operations.",
+        "yesMeans": "The constitution would be amended to prohibit governmental entities from discriminating or granting preferential treatment based on race, sex, color, ethnicity or national origin in public employment, education, contracting or administration.",
+        "noMeans": "The constitution is not changed; current state and federal anti-discrimination standards continue to apply.",
+        "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7368/Type-C-Notice-for-Ref-for-November-2026-General-Election_Final-12-PT",
+        "moreInfo": "https://ballotpedia.org/Wisconsin_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
