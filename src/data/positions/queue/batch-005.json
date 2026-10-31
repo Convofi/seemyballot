@@ -1,0 +1,307 @@
+{
+ "batch": "005",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-005.json",
+ "candidates": [
+  {
+   "key": "S6SD01117",
+   "name": "Brian Bengs",
+   "party": "Independent",
+   "office": "U.S. Senate, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6SD01117/",
+   "status": "pending"
+  },
+  {
+   "key": "ca-gov-2026-becerra-xavier",
+   "name": "Xavier Becerra",
+   "party": "Democratic",
+   "office": "Governor, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-gov-2026-hilton-steve",
+   "name": "Steve Hilton",
+   "party": "Republican",
+   "office": "Governor, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-ltgov-2026-ma-fiona",
+   "name": "Fiona Ma",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-ltgov-2026-romero-gloria",
+   "name": "Gloria Romero",
+   "party": "Republican",
+   "office": "Lieutenant Governor, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-gov-2026-abbott-greg",
+   "name": "Greg Abbott",
+   "party": "Republican",
+   "office": "Governor, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-gov-2026-hinojosa-gina",
+   "name": "Gina Hinojosa",
+   "party": "Democratic",
+   "office": "Governor, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-ltgov-2026-patrick-dan",
+   "name": "Dan Patrick",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-ltgov-2026-goodwin-vikki",
+   "name": "Vikki Goodwin",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-gov-2026-donalds-byron",
+   "name": "Byron Donalds",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-gov-2026-jolly-david",
+   "name": "David Jolly",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-gov-2026-hochul-kathy",
+   "name": "Kathy C. Hochul",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-gov-2026-blakeman-bruce",
+   "name": "Bruce A. Blakeman",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "pa-gov-2026-shapiro-josh",
+   "name": "Josh Shapiro",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Pennsylvania",
+   "state": "PA",
+   "knownWebsite": "https://joshshapiro.org/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "pa-gov-2026-garrity-stacy",
+   "name": "Stacy Garrity",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Pennsylvania",
+   "state": "PA",
+   "knownWebsite": "https://garrityforpa.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-gov-2026-pritzker-jb",
+   "name": "JB Pritzker",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-gov-2026-bailey-darren",
+   "name": "Darren Bailey",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-gov-2026-jackson-rick",
+   "name": "Rick Jackson",
+   "party": "Republican",
+   "office": "Governor, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-gov-2026-bottoms-keisha",
+   "name": "Keisha Lance Bottoms",
+   "party": "Democratic",
+   "office": "Governor, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-ltgov-2026-dolezal-greg",
+   "name": "Greg Dolezal",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-ltgov-2026-mclaurin-josh",
+   "name": "Josh McLaurin",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-gov-2026-benson-jocelyn",
+   "name": "Jocelyn Benson",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-gov-2026-james-john",
+   "name": "John James",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-gov-2026-hobbs-katie",
+   "name": "Katie Hobbs",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://katiehobbs.org/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-gov-2026-biggs-andy",
+   "name": "Andy Biggs",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://biggsforarizona.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-gov-2026-healey-maura",
+   "name": "Maura Healey",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-gov-2026-minogue-michael",
+   "name": "Michael Roger Minogue",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-blackburn-marsha",
+   "name": "Marsha Blackburn",
+   "party": "Republican",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-green-jerri",
+   "name": "Jerri Green",
+   "party": "Democratic",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-gov-2026-moore-wes",
+   "name": "Wes Moore",
+   "party": "Democratic",
+   "office": "Governor / Lt. Governor, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://wesmoore.com/",
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

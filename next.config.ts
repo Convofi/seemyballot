@@ -4,9 +4,10 @@ const nextConfig: NextConfig = {
   /* config options here */
   cacheComponents: true,
   partialPrefetching: true,
-  // /api/state-ballot reads these from disk at request time.
+  // These routes read these from disk at request time.
   outputFileTracingIncludes: {
-    "/api/state-ballot": ["./src/data/state/*.json"],
+    "/api/state-ballot": ["./src/data/state/*.json", "./src/data/positions/*.json"],
+    "/api/contests": ["./src/data/positions/*.json"],
   },
   turbopack: {
     rules: {

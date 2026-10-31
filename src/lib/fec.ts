@@ -181,7 +181,7 @@ function nomineeOnly(n: Nominee): Candidate {
     incumbent: false,
     fecUrl: null,
     writeIn: n.writeIn ?? false,
-    positions: null,
+    positions: getPositions(`wiki:${slug}`),
   };
 }
 

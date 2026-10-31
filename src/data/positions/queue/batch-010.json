@@ -1,0 +1,307 @@
+{
+ "batch": "010",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-010.json",
+ "candidates": [
+  {
+   "key": "H6CA03158",
+   "name": "Richard Pan",
+   "party": "Democratic",
+   "office": "U.S. House, California District 6",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA03158/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA05195",
+   "name": "Doris Matsui",
+   "party": "Democratic",
+   "office": "U.S. House, California District 7",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA05195/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA07175",
+   "name": "Mai Vang",
+   "party": "Democratic",
+   "office": "U.S. House, California District 7",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA07175/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA10149",
+   "name": "John Garamendi",
+   "party": "Democratic",
+   "office": "U.S. House, California District 8",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA10149/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA00153",
+   "name": "Rudy Recile",
+   "party": "Republican",
+   "office": "U.S. House, California District 8",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA00153/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA10126",
+   "name": "Josh Harder",
+   "party": "Democratic",
+   "office": "U.S. House, California District 9",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA10126/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA09101",
+   "name": "John McBride",
+   "party": "Republican",
+   "office": "U.S. House, California District 9",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA09101/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA10073",
+   "name": "Mark DeSaulnier",
+   "party": "Democratic",
+   "office": "U.S. House, California District 10",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA10073/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA10187",
+   "name": "Jeff Frese",
+   "party": "Republican",
+   "office": "U.S. House, California District 10",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA10187/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA11268",
+   "name": "Connie Chan",
+   "party": "Democratic",
+   "office": "U.S. House, California District 11",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA11268/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA11116",
+   "name": "Scott Wiener",
+   "party": "Democratic",
+   "office": "U.S. House, California District 11",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA11116/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA12154",
+   "name": "Lateefah Simon",
+   "party": "Democratic",
+   "office": "U.S. House, California District 12",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA12154/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA12209",
+   "name": "Jamie Joyce",
+   "party": "Democratic",
+   "office": "U.S. House, California District 12",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA12209/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA13115",
+   "name": "Adam Gray",
+   "party": "Democratic",
+   "office": "U.S. House, California District 13",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA13115/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA09093",
+   "name": "Kevin Lincoln",
+   "party": "Republican",
+   "office": "U.S. House, California District 13",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA09093/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA14163",
+   "name": "Melissa Hernandez",
+   "party": "Democratic",
+   "office": "U.S. House, California District 14",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA14163/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA15213",
+   "name": "Aisha Wahab",
+   "party": "Democratic",
+   "office": "U.S. House, California District 14",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA15213/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA14162",
+   "name": "Kevin Mullin",
+   "party": "Democratic",
+   "office": "U.S. House, California District 15",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA14162/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA15194",
+   "name": "Charles Hoelter",
+   "party": "Republican",
+   "office": "U.S. House, California District 15",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA15194/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA16197",
+   "name": "Sam Liccardo",
+   "party": "Democratic",
+   "office": "U.S. House, California District 16",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA16197/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA16176",
+   "name": "Peter Soulé",
+   "party": "Republican",
+   "office": "U.S. House, California District 16",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA16176/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA12055",
+   "name": "Ro Khanna",
+   "party": "Democratic",
+   "office": "U.S. House, California District 17",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA12055/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA17193",
+   "name": "Ritesh Tandon",
+   "party": "Republican",
+   "office": "U.S. House, California District 17",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA17193/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA16049",
+   "name": "Zoe Lofgren",
+   "party": "Democratic",
+   "office": "U.S. House, California District 18",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA16049/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA18172",
+   "name": "Shane Lewis",
+   "party": "Republican",
+   "office": "U.S. House, California District 18",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA18172/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA20152",
+   "name": "Jimmy Panetta",
+   "party": "Democratic",
+   "office": "U.S. House, California District 19",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA20152/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA19154",
+   "name": "Peter Coe Verbica",
+   "party": "Republican",
+   "office": "U.S. House, California District 19",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA19154/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA20181",
+   "name": "Vince Fong",
+   "party": "Republican",
+   "office": "U.S. House, California District 20",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA20181/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA20228",
+   "name": "Sandra Van Scotter",
+   "party": "Democratic",
+   "office": "U.S. House, California District 20",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA20228/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA20082",
+   "name": "Jim Costa",
+   "party": "Democratic",
+   "office": "U.S. House, California District 21",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA20082/",
+   "status": "pending"
+  }
+ ]
+}

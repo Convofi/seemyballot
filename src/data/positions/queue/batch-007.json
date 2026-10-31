@@ -1,0 +1,307 @@
+{
+ "batch": "007",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-007.json",
+ "candidates": [
+  {
+   "key": "ks-gov-2026-holscher-cindy",
+   "name": "Cindy Holscher",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-gov-2026-masterson-ty",
+   "name": "Ty Masterson",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nm-gov-2026-hull-greggory",
+   "name": "Greggory D. Hull",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nm-gov-2026-haaland-deb",
+   "name": "Deb Haaland",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-gov-2026-pillen-jim",
+   "name": "Jim Pillen",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-gov-2026-walz-lynne",
+   "name": "Lynne Walz",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-gov-2026-little-brad",
+   "name": "Brad Little",
+   "party": "Republican",
+   "office": "Governor, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-gov-2026-pickens-terri",
+   "name": "Terri Pickens",
+   "party": "Democratic",
+   "office": "Governor, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-ltgov-2026-bedke-scott",
+   "name": "Scott Bedke",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-ltgov-2026-myricks-eric",
+   "name": "Eric Myricks",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-gov-2026-cordery-gary",
+   "name": "Gary Cordery",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Hawaii",
+   "state": "HI",
+   "knownWebsite": "https://www.garycorderyforgovernor.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-gov-2026-green-josh",
+   "name": "Josh Green",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Hawaii",
+   "state": "HI",
+   "knownWebsite": "https://joshgreenforhawaii.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nh-gov-2026-warmington-cinde",
+   "name": "Cinde Warmington",
+   "party": "Democratic",
+   "office": "Governor, New Hampshire",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nh-gov-2026-ayotte-kelly",
+   "name": "Kelly Ayotte",
+   "party": "Republican",
+   "office": "Governor, New Hampshire",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "me-gov-2026-charles-robert",
+   "name": "Robert B. Charles",
+   "party": "Republican",
+   "office": "Governor, Maine",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "me-gov-2026-pingree-hannah",
+   "name": "Hannah M. Pingree",
+   "party": "Democratic",
+   "office": "Governor, Maine",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-gov-2026-guckian-aaron",
+   "name": "Aaron C. Guckian",
+   "party": "Republican",
+   "office": "Governor, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-gov-2026-foulkes-helena",
+   "name": "Helena Buonanno Foulkes",
+   "party": "Democratic",
+   "office": "Governor, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-ltgov-2026-loughlin-john",
+   "name": "John J. Loughlin, II",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-ltgov-2026-matos-sabina",
+   "name": "Sabina Matos",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-gov-2026-rhoden-larry",
+   "name": "Larry Rhoden",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-gov-2026-ahlers-dan",
+   "name": "Dan Ahlers",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-gov-2026-dixon-pat",
+   "name": "Pat Dixon",
+   "party": "Libertarian",
+   "office": "Governor, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-ltgov-2026-cristo-anthony",
+   "name": "Anthony Cristo",
+   "party": "Libertarian",
+   "office": "Lieutenant Governor, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-ltgov-2026-mccormick-kevin",
+   "name": "Kevin McCormick",
+   "party": "Green",
+   "office": "Lieutenant Governor, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-gov-2026-jewett-scott",
+   "name": "Scott Eckhard Jewett",
+   "party": "Libertarian",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-gov-2026-abrams-dean",
+   "name": "Dean Ocean Abrams",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-gov-2026-burkett-charles",
+   "name": "Charles Burkett",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-gov-2026-datto-jeffrey",
+   "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-gov-2026-dimanche-moliere",
+   "name": "Moliere \"Moe\" Dimanche",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

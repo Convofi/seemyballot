@@ -1,0 +1,307 @@
+{
+ "batch": "009",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-009.json",
+ "candidates": [
+  {
+   "key": "sc-gov-2026-hakim-walid",
+   "name": "Walid Hakim",
+   "party": "Green",
+   "office": "Governor and Lieutenant Governor, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-gov-2026-addison-michael",
+   "name": "Michael Addison",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-gov-2026-smith-brett",
+   "name": "Brett Smith",
+   "party": "Green",
+   "office": "Governor, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-gov-2026-bush-orlando",
+   "name": "Orlando Lynn Bush",
+   "party": "Independent",
+   "office": "Governor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-gov-2026-brooks-robert",
+   "name": "Robert E Brooks Sr",
+   "party": "Independent",
+   "office": "Governor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-gov-2026-griffin-jerry",
+   "name": "Jerry Griffin",
+   "party": "Independent",
+   "office": "Governor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-gov-2026-ford-danielle",
+   "name": "Danielle Ford",
+   "party": "Independent",
+   "office": "Governor, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-ltgov-2026-hansen-janine",
+   "name": "Janine Hansen",
+   "party": "Other",
+   "office": "Lieutenant Governor, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-gov-2026-shelby-colt",
+   "name": "Colt Shelby",
+   "party": "Libertarian",
+   "office": "Governor, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-ltgov-2026-kalagias-michael",
+   "name": "Michael Kalagias",
+   "party": "Libertarian",
+   "office": "Lieutenant Governor, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-gov-2026-beard-rick",
+   "name": "Rick Beard",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-gov-2026-lindstrom-brett",
+   "name": "Brett Lindstrom",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-gov-2026-pro-life-marvin",
+   "name": "Pro-Life (formerly known as Marvin Richardson)",
+   "party": "Other",
+   "office": "Governor, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-gov-2026-sand-paul",
+   "name": "Paul Sand",
+   "party": "Libertarian",
+   "office": "Governor, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-gov-2026-stegner-john",
+   "name": "John R. Stegner",
+   "party": "Independent",
+   "office": "Governor, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nh-gov-2026-villee-stephen",
+   "name": "Stephen Villee",
+   "party": "Libertarian",
+   "office": "Governor, New Hampshire",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "me-gov-2026-bennett-rick",
+   "name": "Rick Bennett",
+   "party": "Independent",
+   "office": "Governor, Maine",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-gov-2026-block-kenneth",
+   "name": "Kenneth Block",
+   "party": "Independent",
+   "office": "Governor, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-gov-2026-gotra-jasjit",
+   "name": "Jasjit S. Gotra",
+   "party": "Independent",
+   "office": "Governor, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-gov-2026-reynolds-cd",
+   "name": "C. D. Reynolds",
+   "party": "Independent",
+   "office": "Governor, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6CA01285",
+   "name": "James Gallagher",
+   "party": "Republican",
+   "office": "U.S. House, California District 1",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA01285/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA01269",
+   "name": "Mike McGuire",
+   "party": "Democratic",
+   "office": "U.S. House, California District 1",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA01269/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA06259",
+   "name": "Jared Huffman",
+   "party": "Democratic",
+   "office": "U.S. House, California District 2",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA06259/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA02309",
+   "name": "Robin Littau",
+   "party": "Republican",
+   "office": "U.S. House, California District 2",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA02309/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA03078",
+   "name": "Ami Bera",
+   "party": "Democratic",
+   "office": "U.S. House, California District 3",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA03078/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA03174",
+   "name": "Robb Tucker",
+   "party": "Republican",
+   "office": "U.S. House, California District 3",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA03174/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA01109",
+   "name": "Mike Thompson",
+   "party": "Democratic",
+   "office": "U.S. House, California District 4",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA01109/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA04222",
+   "name": "Eric Jones",
+   "party": "Democratic",
+   "office": "U.S. House, California District 4",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA04222/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA04152",
+   "name": "Tom McClintock",
+   "party": "Republican",
+   "office": "U.S. House, California District 5",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA04152/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA05377",
+   "name": "Michael Masuda",
+   "party": "Democratic",
+   "office": "U.S. House, California District 5",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA05377/",
+   "status": "pending"
+  }
+ ]
+}

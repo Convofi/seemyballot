@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Fill src/data/positions.json with each likely federal candidate's own stated
+// Fill src/data/positions/999-script.json with each likely federal candidate's own stated
 // positions, read from their official campaign website by Claude (web search +
 // web fetch, server-side), then link-checked here.
 //
@@ -12,13 +12,15 @@
 // (statewide, legislative, county, municipal) and keys them by their slug.
 //
 // Candidates = the "likely" tier of src/data/fec2026.json (same rules as
-// src/lib/fec.ts). Resumable: keys already "ok" are skipped (hand-written
-// "manual" entries are never overwritten); the file is saved after each one.
-import { readFile, writeFile } from "node:fs/promises";
+// src/lib/fec.ts). Resumable: keys already "ok" in any src/data/positions/*.json
+// file are skipped (hand-written "manual" entries are never redone); the file
+// is saved after each one.
+import { readdir, readFile, writeFile } from "node:fs/promises";
 import Anthropic from "@anthropic-ai/sdk";
 
 const FEC = new URL("../src/data/fec2026.json", import.meta.url);
-const OUT = new URL("../src/data/positions.json", import.meta.url);
+const DIR = new URL("../src/data/positions/", import.meta.url);
+const OUT = new URL("999-script.json", DIR);
 const MODEL = "claude-opus-5-5";
 const CONCURRENCY = 3;
 const ATTEMPTS = 3;
@@ -301,6 +303,12 @@ try {
 } catch {
   // first run
 }
+// Entries written by others (seed, research-agent batches) count as done too.
+const existing = { ...data };
+for (const f of (await readdir(DIR)).filter((f) => f.endsWith(".json")).sort()) {
+  for (const [k, v] of Object.entries(JSON.parse(await readFile(new URL(f, DIR), "utf8"))))
+    if (existing[k]?.status !== "ok" && existing[k]?.method !== "manual") existing[k] = v;
+}
 
 let saving = Promise.resolve();
 const save = () =>
@@ -309,7 +317,7 @@ const save = () =>
     return writeFile(OUT, JSON.stringify(sorted, null, 1) + "\n");
   }));
 
-const todo = list.filter((c) => data[c.key]?.status !== "ok" && data[c.key]?.method !== "manual");
+const todo = list.filter((c) => existing[c.key]?.status !== "ok" && existing[c.key]?.method !== "manual");
 console.log(`${todo.length} candidate(s) to look up.`);
 const client = new Anthropic();
 

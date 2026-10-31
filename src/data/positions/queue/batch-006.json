@@ -1,0 +1,307 @@
+{
+ "batch": "006",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-006.json",
+ "candidates": [
+  {
+   "key": "md-gov-2026-cox-dan",
+   "name": "Dan Cox",
+   "party": "Republican",
+   "office": "Governor / Lt. Governor, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-gov-2026-tiffany-tom",
+   "name": "Tom Tiffany",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-gov-2026-crowley-david",
+   "name": "David Crowley",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-gov-2026-marx-victor",
+   "name": "Victor Marx",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-gov-2026-weiser-phil",
+   "name": "Phil Weiser",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-gov-2026-klobuchar-amy",
+   "name": "Amy Klobuchar",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-gov-2026-demuth-lisa",
+   "name": "Lisa Demuth",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-gov-2026-wilson-alan",
+   "name": "Alan Wilson",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-gov-2026-johnson-jermaine",
+   "name": "Jermaine Johnson",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-gov-2026-jones-doug",
+   "name": "Doug Jones",
+   "party": "Democratic",
+   "office": "Governor, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-gov-2026-tuberville-tommy",
+   "name": "Tommy Tuberville",
+   "party": "Republican",
+   "office": "Governor, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-ltgov-2026-ensler-phillip",
+   "name": "Phillip Ensler",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-ltgov-2026-wahl-john",
+   "name": "John Wahl",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-gov-2026-kotek-tina",
+   "name": "Tina Kotek",
+   "party": "Democratic",
+   "office": "Governor, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-gov-2026-drazan-christine",
+   "name": "Christine Drazan",
+   "party": "Republican",
+   "office": "Governor, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-gov-2026-mazzei-mike",
+   "name": "Mike Mazzei",
+   "party": "Republican",
+   "office": "Governor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-gov-2026-munson-cyndi",
+   "name": "Cyndi Munson",
+   "party": "Democratic",
+   "office": "Governor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-ltgov-2026-shannon-tw",
+   "name": "T. W. Shannon",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-ltgov-2026-forbes-kelly",
+   "name": "Kelly Forbes",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-gov-2026-lamont-ned",
+   "name": "Ned Lamont",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-gov-2026-fazio-ryan",
+   "name": "Ryan Fazio",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-gov-2026-lahn-zach",
+   "name": "Zach Lahn",
+   "party": "Republican",
+   "office": "Governor and Lieutenant Governor, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-gov-2026-sand-rob",
+   "name": "Rob Sand",
+   "party": "Democratic",
+   "office": "Governor and Lieutenant Governor, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-gov-2026-ford-aaron",
+   "name": "Aaron D. Ford",
+   "party": "Democratic",
+   "office": "Governor, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-gov-2026-lombardo-joseph",
+   "name": "Joseph Lombardo",
+   "party": "Republican",
+   "office": "Governor, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-ltgov-2026-anthony-stavros",
+   "name": "Stavros Anthony",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-ltgov-2026-jauregui-sandra",
+   "name": "Sandra Jauregui",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-gov-2026-sanders-sarah",
+   "name": "Sarah Huckabee Sanders",
+   "party": "Republican",
+   "office": "Governor, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-gov-2026-love-fred",
+   "name": "Fred Love",
+   "party": "Democratic",
+   "office": "Governor, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-ltgov-2026-rutledge-leslie",
+   "name": "Leslie Rutledge",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

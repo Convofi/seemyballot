@@ -1,0 +1,307 @@
+{
+ "batch": "004",
+ "createdAt": "2026-10-31T22:43:23.779Z",
+ "output": "src/data/positions/batch-004.json",
+ "candidates": [
+  {
+   "key": "wiki:christopher-baum",
+   "name": "Christopher Baum",
+   "party": "Other",
+   "office": "U.S. Senate, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "S6CO00556",
+   "name": "Bob Chew",
+   "party": "Other",
+   "office": "U.S. Senate, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6CO00556/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:blake-huber",
+   "name": "Blake Huber",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "S6CO00564",
+   "name": "Adam Withrow",
+   "party": "Other",
+   "office": "U.S. Senate, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6CO00564/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MN00481",
+   "name": "Marisa Simonetti",
+   "party": "Independent",
+   "office": "U.S. Senate, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MN00481/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MN00572",
+   "name": "Rebecca Whiting",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MN00572/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:mark-hackett",
+   "name": "Mark Hackett",
+   "party": "Other",
+   "office": "U.S. Senate, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "S6SC04247",
+   "name": "Kasie Whitener",
+   "party": "Libertarian",
+   "office": "U.S. Senate, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6SC04247/",
+   "status": "pending"
+  },
+  {
+   "key": "S6KY00377",
+   "name": "Christopher Campbell",
+   "party": "Other",
+   "office": "U.S. Senate, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6KY00377/",
+   "status": "pending"
+  },
+  {
+   "key": "S0OR00378",
+   "name": "Gary Dye",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0OR00378/",
+   "status": "pending"
+  },
+  {
+   "key": "S2OR00234",
+   "name": "Chris Henry",
+   "party": "Other",
+   "office": "U.S. Senate, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S2OR00234/",
+   "status": "pending"
+  },
+  {
+   "key": "S6OK04205",
+   "name": "Ron Meinhardt",
+   "party": "Independent",
+   "office": "U.S. Senate, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6OK04205/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:curtis-stinnett",
+   "name": "Curtis Stinnett",
+   "party": "Independent",
+   "office": "U.S. Senate, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wiki:sevier-white",
+   "name": "Sevier White",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "S6IA00181",
+   "name": "Thomas Laehn",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6IA00181/",
+   "status": "pending"
+  },
+  {
+   "key": "S6AR00223",
+   "name": "Jeff Wadlin",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6AR00223/",
+   "status": "pending"
+  },
+  {
+   "key": "S4MS00187",
+   "name": "Ty Pinkins",
+   "party": "Independent",
+   "office": "U.S. Senate, Mississippi",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4MS00187/",
+   "status": "pending"
+  },
+  {
+   "key": "S2KS00154",
+   "name": "David Graham",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S2KS00154/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NE00202",
+   "name": "Chuck Conboy",
+   "party": "Other",
+   "office": "U.S. Senate, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NE00202/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NE00152",
+   "name": "Mike Marvin",
+   "party": "Other",
+   "office": "U.S. Senate, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NE00152/",
+   "status": "pending"
+  },
+  {
+   "key": "S4NE00207",
+   "name": "Dan Osborn",
+   "party": "Independent",
+   "office": "U.S. Senate, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4NE00207/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NE00210",
+   "name": "Robin Richards",
+   "party": "Other",
+   "office": "U.S. Senate, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NE00210/",
+   "status": "pending"
+  },
+  {
+   "key": "S6ID00146",
+   "name": "Todd Achilles",
+   "party": "Independent",
+   "office": "U.S. Senate, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6ID00146/",
+   "status": "pending"
+  },
+  {
+   "key": "S0ID00172",
+   "name": "Natalie Fleming",
+   "party": "Independent",
+   "office": "U.S. Senate, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0ID00172/",
+   "status": "pending"
+  },
+  {
+   "key": "S6ID00187",
+   "name": "Matt Loesby",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6ID00187/",
+   "status": "pending"
+  },
+  {
+   "key": "S6WV00204",
+   "name": "S. Marshall Wilson",
+   "party": "Other",
+   "office": "U.S. Senate, West Virginia",
+   "state": "WV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6WV00204/",
+   "status": "pending"
+  },
+  {
+   "key": "S2NH00223",
+   "name": "Edmond J. LaPlante Jr.",
+   "party": "Other",
+   "office": "U.S. Senate, New Hampshire",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S2NH00223/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MT00261",
+   "name": "Kyle Austin",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Montana",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MT00261/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MT00287",
+   "name": "Seth Bodnar",
+   "party": "Independent",
+   "office": "U.S. Senate, Montana",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MT00287/",
+   "status": "pending"
+  },
+  {
+   "key": "S6RI00288",
+   "name": "Michael Bahry",
+   "party": "Independent",
+   "office": "U.S. Senate, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6RI00288/",
+   "status": "pending"
+  }
+ ]
+}

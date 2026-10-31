@@ -1,0 +1,307 @@
+{
+ "batch": "001",
+ "createdAt": "2026-10-31T22:43:23.778Z",
+ "output": "src/data/positions/batch-001.json",
+ "candidates": [
+  {
+   "key": "S6TX00388",
+   "name": "Ken Paxton",
+   "party": "Republican",
+   "office": "U.S. Senate, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6TX00388/",
+   "status": "pending"
+  },
+  {
+   "key": "S6TX00479",
+   "name": "James Talarico",
+   "party": "Democratic",
+   "office": "U.S. Senate, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6TX00479/",
+   "status": "pending"
+  },
+  {
+   "key": "S6FL00640",
+   "name": "Ashley Moody",
+   "party": "Republican",
+   "office": "U.S. Senate (special election), Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6FL00640/",
+   "status": "pending"
+  },
+  {
+   "key": "S6FL00830",
+   "name": "Angie Nixon",
+   "party": "Democratic",
+   "office": "U.S. Senate (special election), Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6FL00830/",
+   "status": "pending"
+  },
+  {
+   "key": "S6IL00458",
+   "name": "Juliana Stratton",
+   "party": "Democratic",
+   "office": "U.S. Senate, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6IL00458/",
+   "status": "pending"
+  },
+  {
+   "key": "S6IL00615",
+   "name": "Don Tracy",
+   "party": "Republican",
+   "office": "U.S. Senate, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6IL00615/",
+   "status": "pending"
+  },
+  {
+   "key": "S8GA00180",
+   "name": "Jon Ossoff",
+   "party": "Democratic",
+   "office": "U.S. Senate, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S8GA00180/",
+   "status": "pending"
+  },
+  {
+   "key": "S6GA00390",
+   "name": "Mike Collins",
+   "party": "Republican",
+   "office": "U.S. Senate, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6GA00390/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NC00407",
+   "name": "Roy Cooper",
+   "party": "Democratic",
+   "office": "U.S. Senate, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NC00407/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NC00415",
+   "name": "Michael Whatley",
+   "party": "Republican",
+   "office": "U.S. Senate, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NC00415/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MI00418",
+   "name": "Abdul El-Sayed",
+   "party": "Democratic",
+   "office": "U.S. Senate, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MI00418/",
+   "status": "pending"
+  },
+  {
+   "key": "S4MI00595",
+   "name": "Mike Rogers",
+   "party": "Republican",
+   "office": "U.S. Senate, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4MI00595/",
+   "status": "pending"
+  },
+  {
+   "key": "S4NJ00185",
+   "name": "Cory Booker",
+   "party": "Democratic",
+   "office": "U.S. Senate, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4NJ00185/",
+   "status": "pending"
+  },
+  {
+   "key": "S4NJ00532",
+   "name": "Justin Murphy",
+   "party": "Republican",
+   "office": "U.S. Senate, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4NJ00532/",
+   "status": "pending"
+  },
+  {
+   "key": "S6VA00093",
+   "name": "Mark Warner",
+   "party": "Democratic",
+   "office": "U.S. Senate, Virginia",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6VA00093/",
+   "status": "pending"
+  },
+  {
+   "key": "S8VA00321",
+   "name": "Bert Mizusawa",
+   "party": "Republican",
+   "office": "U.S. Senate, Virginia",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S8VA00321/",
+   "status": "pending"
+  },
+  {
+   "key": "S4MA00028",
+   "name": "Ed Markey",
+   "party": "Democratic",
+   "office": "U.S. Senate, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4MA00028/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MA00304",
+   "name": "John Deaton",
+   "party": "Republican",
+   "office": "U.S. Senate, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MA00304/",
+   "status": "pending"
+  },
+  {
+   "key": "S0TN00169",
+   "name": "Bill Hagerty",
+   "party": "Republican",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0TN00169/",
+   "status": "pending"
+  },
+  {
+   "key": "S4TN00542",
+   "name": "Marquita Bradshaw",
+   "party": "Democratic",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4TN00542/",
+   "status": "pending"
+  },
+  {
+   "key": "S0CO00575",
+   "name": "John Hickenlooper",
+   "party": "Democratic",
+   "office": "U.S. Senate, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0CO00575/",
+   "status": "pending"
+  },
+  {
+   "key": "S6CO00507",
+   "name": "Mark Baisley",
+   "party": "Republican",
+   "office": "U.S. Senate, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6CO00507/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MN00440",
+   "name": "Peggy Flanagan",
+   "party": "Democratic",
+   "office": "U.S. Senate, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MN00440/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MN00556",
+   "name": "Michele Tafoya",
+   "party": "Republican",
+   "office": "U.S. Senate, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MN00556/",
+   "status": "pending"
+  },
+  {
+   "key": "S6SC04239",
+   "name": "Annie Andrews",
+   "party": "Democratic",
+   "office": "U.S. Senate, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6SC04239/",
+   "status": "pending"
+  },
+  {
+   "key": "S6SC04437",
+   "name": "Darline Graham",
+   "party": "Republican",
+   "office": "U.S. Senate, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6SC04437/",
+   "status": "pending"
+  },
+  {
+   "key": "S6AL00476",
+   "name": "Barry Moore",
+   "party": "Republican",
+   "office": "U.S. Senate, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6AL00476/",
+   "status": "pending"
+  },
+  {
+   "key": "S6AL00518",
+   "name": "Everett Wess",
+   "party": "Democratic",
+   "office": "U.S. Senate, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6AL00518/",
+   "status": "pending"
+  },
+  {
+   "key": "S6LA00615",
+   "name": "Jamie Davis",
+   "party": "Democratic",
+   "office": "U.S. Senate, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6LA00615/",
+   "status": "pending"
+  },
+  {
+   "key": "S6LA00664",
+   "name": "Julia Letlow",
+   "party": "Republican",
+   "office": "U.S. Senate, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6LA00664/",
+   "status": "pending"
+  }
+ ]
+}

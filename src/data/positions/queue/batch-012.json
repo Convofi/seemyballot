@@ -1,0 +1,307 @@
+{
+ "batch": "012",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-012.json",
+ "candidates": [
+  {
+   "key": "H6CA36208",
+   "name": "Houston Brignano",
+   "party": "Republican",
+   "office": "U.S. House, California District 36",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA36208/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA37304",
+   "name": "Sydney Kamlager-Dove",
+   "party": "Democratic",
+   "office": "U.S. House, California District 37",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA37304/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA37339",
+   "name": "Samantha Mota",
+   "party": "Democratic",
+   "office": "U.S. House, California District 37",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA37339/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA31212",
+   "name": "Pedro Casas",
+   "party": "Republican",
+   "office": "U.S. House, California District 38",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA31212/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA38139",
+   "name": "Hilda Solis",
+   "party": "Democratic",
+   "office": "U.S. House, California District 38",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA38139/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA43245",
+   "name": "Mark Takano",
+   "party": "Democratic",
+   "office": "U.S. House, California District 39",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA43245/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA39145",
+   "name": "Steve Manos",
+   "party": "Republican",
+   "office": "U.S. House, California District 39",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA39145/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA37023",
+   "name": "Ken Calvert",
+   "party": "Republican",
+   "office": "U.S. House, California District 40",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA37023/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA39240",
+   "name": "Young Kim",
+   "party": "Republican",
+   "office": "U.S. House, California District 40",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA39240/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA39078",
+   "name": "Linda Sánchez",
+   "party": "Democratic",
+   "office": "U.S. House, California District 41",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA39078/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA38260",
+   "name": "Mitch Clemmons",
+   "party": "Republican",
+   "office": "U.S. House, California District 41",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA38260/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA47188",
+   "name": "Robert Garcia",
+   "party": "Democratic",
+   "office": "U.S. House, California District 42",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA47188/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA48172",
+   "name": "Brian Burley",
+   "party": "Republican",
+   "office": "U.S. House, California District 42",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA48172/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA23011",
+   "name": "Maxine Waters",
+   "party": "Democratic",
+   "office": "U.S. House, California District 43",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA23011/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA43188",
+   "name": "Cristian Morales",
+   "party": "Republican",
+   "office": "U.S. House, California District 43",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA43188/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA44103",
+   "name": "Nanette Barragán",
+   "party": "Democratic",
+   "office": "U.S. House, California District 44",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA44103/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA44210",
+   "name": "Genevieve Angel",
+   "party": "Republican",
+   "office": "U.S. House, California District 44",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA44210/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA45170",
+   "name": "Derek Tran",
+   "party": "Democratic",
+   "office": "U.S. House, California District 45",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA45170/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA45191",
+   "name": "Chuong Vo",
+   "party": "Republican",
+   "office": "U.S. House, California District 45",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA45191/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA46116",
+   "name": "Lou Correa",
+   "party": "Democratic",
+   "office": "U.S. House, California District 46",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA46116/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA46137",
+   "name": "David Pan",
+   "party": "Republican",
+   "office": "U.S. House, California District 46",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA46137/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA47085",
+   "name": "Dave Min",
+   "party": "Democratic",
+   "office": "U.S. House, California District 47",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA47085/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA47114",
+   "name": "Jenny Le Roux",
+   "party": "Republican",
+   "office": "U.S. House, California District 47",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA47114/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA49128",
+   "name": "Jim Desmond",
+   "party": "Republican",
+   "office": "U.S. House, California District 48",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA49128/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA48310",
+   "name": "Marni von Wilpert",
+   "party": "Democratic",
+   "office": "U.S. House, California District 48",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA48310/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA49058",
+   "name": "Mike Levin",
+   "party": "Democratic",
+   "office": "U.S. House, California District 49",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA49058/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA49169",
+   "name": "Armen Kurdian",
+   "party": "Republican",
+   "office": "U.S. House, California District 49",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA49169/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA52089",
+   "name": "Scott Peters",
+   "party": "Democratic",
+   "office": "U.S. House, California District 50",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA52089/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA50324",
+   "name": "Steve Cohen",
+   "party": "Republican",
+   "office": "U.S. House, California District 50",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA50324/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA49074",
+   "name": "Sara Jacobs",
+   "party": "Democratic",
+   "office": "U.S. House, California District 51",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA49074/",
+   "status": "pending"
+  }
+ ]
+}

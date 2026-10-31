@@ -1,0 +1,307 @@
+{
+ "batch": "003",
+ "createdAt": "2026-10-31T22:43:23.779Z",
+ "output": "src/data/positions/batch-003.json",
+ "candidates": [
+  {
+   "key": "S4SD00049",
+   "name": "Mike Rounds",
+   "party": "Republican",
+   "office": "U.S. Senate, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4SD00049/",
+   "status": "pending"
+  },
+  {
+   "key": "S4AK00214",
+   "name": "Dan S. Sullivan",
+   "party": "Republican",
+   "office": "U.S. Senate, Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4AK00214/",
+   "status": "pending"
+  },
+  {
+   "key": "S8AK00140",
+   "name": "Gerald L. Heikes",
+   "party": "Republican",
+   "office": "U.S. Senate, Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S8AK00140/",
+   "status": "pending"
+  },
+  {
+   "key": "S6AK00276",
+   "name": "Mary Peltola",
+   "party": "Democratic",
+   "office": "U.S. Senate, Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6AK00276/",
+   "status": "pending"
+  },
+  {
+   "key": "S6AK00326",
+   "name": "Daniel J. Sullivan Jr.",
+   "party": "Republican",
+   "office": "U.S. Senate, Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6AK00326/",
+   "status": "pending"
+  },
+  {
+   "key": "S6WY00217",
+   "name": "James Byrd",
+   "party": "Democratic",
+   "office": "U.S. Senate, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6WY00217/",
+   "status": "pending"
+  },
+  {
+   "key": "S6WY00209",
+   "name": "Harriet Hageman",
+   "party": "Republican",
+   "office": "U.S. Senate, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6WY00209/",
+   "status": "pending"
+  },
+  {
+   "key": "S4TX00888",
+   "name": "Ted Brown",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4TX00888/",
+   "status": "pending"
+  },
+  {
+   "key": "S6FL00863",
+   "name": "Neil J. Gillespie",
+   "party": "Independent",
+   "office": "U.S. Senate (special election), Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6FL00863/",
+   "status": "pending"
+  },
+  {
+   "key": "S6IL00680",
+   "name": "Whitfield Harrington Jr.",
+   "party": "Other",
+   "office": "U.S. Senate, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6IL00680/",
+   "status": "pending"
+  },
+  {
+   "key": "S0NC00335",
+   "name": "Shannon W. Bray",
+   "party": "Libertarian",
+   "office": "U.S. Senate, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0NC00335/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NC00563",
+   "name": "Michael Dublin",
+   "party": "Green",
+   "office": "U.S. Senate, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NC00563/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MI00442",
+   "name": "Lydia Christensen",
+   "party": "Libertarian",
+   "office": "U.S. Senate, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MI00442/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MI00590",
+   "name": "Walter P. Kristy",
+   "party": "Other",
+   "office": "U.S. Senate, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MI00590/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MI00566",
+   "name": "Tim Long",
+   "party": "Other",
+   "office": "U.S. Senate, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MI00566/",
+   "status": "pending"
+  },
+  {
+   "key": "S4MI00512",
+   "name": "Douglas P. Marsh",
+   "party": "Green",
+   "office": "U.S. Senate, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4MI00512/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NJ00495",
+   "name": "Eduardo Castillo",
+   "party": "Other",
+   "office": "U.S. Senate, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NJ00495/",
+   "status": "pending"
+  },
+  {
+   "key": "S0NJ00258",
+   "name": "Veronica Fernandez",
+   "party": "Other",
+   "office": "U.S. Senate, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0NJ00258/",
+   "status": "pending"
+  },
+  {
+   "key": "S4NJ00144",
+   "name": "Joanne Kuniansky",
+   "party": "Other",
+   "office": "U.S. Senate, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4NJ00144/",
+   "status": "pending"
+  },
+  {
+   "key": "S8MA00268",
+   "name": "Shiva Ayyadurai",
+   "party": "Independent",
+   "office": "U.S. Senate, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S8MA00268/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MA00288",
+   "name": "Joe Tache",
+   "party": "Other",
+   "office": "U.S. Senate, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MA00288/",
+   "status": "pending"
+  },
+  {
+   "key": "S4TN00583",
+   "name": "Tharon Chandler",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4TN00583/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:andrew-gerena",
+   "name": "Andrew Gerena",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wiki:jeremy-hearn",
+   "name": "Jeremy Hearn",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "S6TN00372",
+   "name": "Robert Jones",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6TN00372/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:james-macon-iii",
+   "name": "James Macon III",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "S6TN00364",
+   "name": "Yoshi Matthews",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6TN00364/",
+   "status": "pending"
+  },
+  {
+   "key": "S6TN00331",
+   "name": "Andrew Mixon",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6TN00331/",
+   "status": "pending"
+  },
+  {
+   "key": "S6TN00398",
+   "name": "David Sutman Jr.",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6TN00398/",
+   "status": "pending"
+  },
+  {
+   "key": "S6TN00414",
+   "name": "Catherine Whitson",
+   "party": "Independent",
+   "office": "U.S. Senate, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6TN00414/",
+   "status": "pending"
+  }
+ ]
+}

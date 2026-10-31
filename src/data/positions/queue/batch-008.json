@@ -1,0 +1,307 @@
+{
+ "batch": "008",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-008.json",
+ "candidates": [
+  {
+   "key": "fl-gov-2026-russo-frank",
+   "name": "Frank J. Russo",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "pa-gov-2026-krawchuk-ken",
+   "name": "Ken Krawchuk",
+   "party": "Libertarian",
+   "office": "Governor and Lieutenant Governor, Pennsylvania",
+   "state": "PA",
+   "knownWebsite": "https://www.kenk4pa.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-gov-2026-corbett-collin",
+   "name": "Collin Corbett",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-gov-2026-hudson-anthony",
+   "name": "Anthony Hudson",
+   "party": "Libertarian",
+   "office": "Governor and Lieutenant Governor, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-gov-2026-brandenburg-donna",
+   "name": "Donna Brandenburg",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-gov-2026-campbell-douglas",
+   "name": "Douglas Campbell",
+   "party": "Green",
+   "office": "Governor and Lieutenant Governor, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-gov-2026-lombardo-risa",
+   "name": "Risa Lombardo",
+   "party": "Green",
+   "office": "Governor and Lieutenant Governor, Arizona",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-gov-2026-hourihan-teri-ann",
+   "name": "Teri Ann Hourihan",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://teriann4azgov.org/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-gov-2026-james-andrea",
+   "name": "Andrea James",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-abidi-misam",
+   "name": "Misam Abidi",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-brewer-dean",
+   "name": "Dean Brewer",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-brown-ray",
+   "name": "Ray Brown",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-hatley-david",
+   "name": "David Hatley",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-jackson-wendell",
+   "name": "Wendell Jackson",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-morgan-charles",
+   "name": "Charles Van Morgan",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-murphy-eddie",
+   "name": "Eddie Lee Murphy",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-pinkston-lauren",
+   "name": "Lauren Pinkston",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-scoggin-victor",
+   "name": "Victor L. Scoggin",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-seeman-dave",
+   "name": "Dave Seeman",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-smithson-karl",
+   "name": "Karl Knox Smithson",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-taylor-webb",
+   "name": "L. Webb Taylor",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-gov-2026-vick-robert",
+   "name": "Robert C. Vick",
+   "party": "Independent",
+   "office": "Governor, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-gov-2026-ellis-andy",
+   "name": "Andy Ellis",
+   "party": "Green",
+   "office": "Governor / Lt. Governor, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.gogreen2026.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-gov-2026-white-cathy",
+   "name": "Cathy White",
+   "party": "Other",
+   "office": "Governor / Lt. Governor, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-gov-2026-hamilton-stephen",
+   "name": "Stephen T. Hamilton",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-gov-2026-mulder-eric",
+   "name": "Eric Mulder",
+   "party": "Libertarian",
+   "office": "Governor and Lieutenant Governor, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-gov-2026-peckman-jeff",
+   "name": "Jeff Peckman",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-gov-2026-underwood-erik",
+   "name": "Erik Underwood",
+   "party": "Other",
+   "office": "Governor and Lieutenant Governor, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-gov-2026-lopez-greg",
+   "name": "Greg Lopez",
+   "party": "Independent",
+   "office": "Governor and Lieutenant Governor, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-gov-2026-young-steven",
+   "name": "Steven Young",
+   "party": "Green",
+   "office": "Governor and Lieutenant Governor, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

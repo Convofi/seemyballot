@@ -1,0 +1,307 @@
+{
+ "batch": "002",
+ "createdAt": "2026-10-31T22:43:23.779Z",
+ "output": "src/data/positions/batch-002.json",
+ "candidates": [
+  {
+   "key": "S6KY00286",
+   "name": "Andy Barr",
+   "party": "Republican",
+   "office": "U.S. Senate, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6KY00286/",
+   "status": "pending"
+  },
+  {
+   "key": "S6KY00385",
+   "name": "Charles Booker",
+   "party": "Democratic",
+   "office": "U.S. Senate, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6KY00385/",
+   "status": "pending"
+  },
+  {
+   "key": "S8OR00207",
+   "name": "Jeff Merkley",
+   "party": "Democratic",
+   "office": "U.S. Senate, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S8OR00207/",
+   "status": "pending"
+  },
+  {
+   "key": "S6OR05218",
+   "name": "David Brock Smith",
+   "party": "Republican",
+   "office": "U.S. Senate, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6OR05218/",
+   "status": "pending"
+  },
+  {
+   "key": "S6OK04247",
+   "name": "Kevin Hern",
+   "party": "Republican",
+   "office": "U.S. Senate, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6OK04247/",
+   "status": "pending"
+  },
+  {
+   "key": "S6OK04163",
+   "name": "N'Kiyla Jasmine Thomas",
+   "party": "Democratic",
+   "office": "U.S. Senate, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6OK04163/",
+   "status": "pending"
+  },
+  {
+   "key": "S6IA00314",
+   "name": "Ashley Hinson",
+   "party": "Republican",
+   "office": "U.S. Senate, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6IA00314/",
+   "status": "pending"
+  },
+  {
+   "key": "S6IA00298",
+   "name": "Josh Turek",
+   "party": "Democratic",
+   "office": "U.S. Senate, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6IA00298/",
+   "status": "pending"
+  },
+  {
+   "key": "S4AR00103",
+   "name": "Tom Cotton",
+   "party": "Republican",
+   "office": "U.S. Senate, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4AR00103/",
+   "status": "pending"
+  },
+  {
+   "key": "S6AR00199",
+   "name": "Hallie Shoffner",
+   "party": "Democratic",
+   "office": "U.S. Senate, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6AR00199/",
+   "status": "pending"
+  },
+  {
+   "key": "S8MS00261",
+   "name": "Cindy Hyde-Smith",
+   "party": "Republican",
+   "office": "U.S. Senate, Mississippi",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S8MS00261/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MS00133",
+   "name": "Scott Colom",
+   "party": "Democratic",
+   "office": "U.S. Senate, Mississippi",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MS00133/",
+   "status": "pending"
+  },
+  {
+   "key": "S0KS00315",
+   "name": "Roger Marshall",
+   "party": "Republican",
+   "office": "U.S. Senate, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0KS00315/",
+   "status": "pending"
+  },
+  {
+   "key": "S6KS00312",
+   "name": "Adam Hamilton",
+   "party": "Democratic",
+   "office": "U.S. Senate, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6KS00312/",
+   "status": "pending"
+  },
+  {
+   "key": "S0NM00058",
+   "name": "Ben Ray Luján",
+   "party": "Democratic",
+   "office": "U.S. Senate, New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0NM00058/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NM01186",
+   "name": "Larry Marker",
+   "party": "Republican",
+   "office": "U.S. Senate, New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NM01186/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NE00129",
+   "name": "Pete Ricketts",
+   "party": "Republican",
+   "office": "U.S. Senate, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NE00129/",
+   "status": "pending"
+  },
+  {
+   "key": "S8ID00092",
+   "name": "Jim Risch",
+   "party": "Republican",
+   "office": "U.S. Senate, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S8ID00092/",
+   "status": "pending"
+  },
+  {
+   "key": "S4WV00159",
+   "name": "Shelley Moore Capito",
+   "party": "Republican",
+   "office": "U.S. Senate, West Virginia",
+   "state": "WV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4WV00159/",
+   "status": "pending"
+  },
+  {
+   "key": "S6WV00188",
+   "name": "Rachel Fetty Anderson",
+   "party": "Democratic",
+   "office": "U.S. Senate, West Virginia",
+   "state": "WV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6WV00188/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NH00141",
+   "name": "Chris Pappas",
+   "party": "Democratic",
+   "office": "U.S. Senate, New Hampshire",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NH00141/",
+   "status": "pending"
+  },
+  {
+   "key": "S6NH00208",
+   "name": "John E. Sununu",
+   "party": "Republican",
+   "office": "U.S. Senate, New Hampshire",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6NH00208/",
+   "status": "pending"
+  },
+  {
+   "key": "S6ME00159",
+   "name": "Susan Collins",
+   "party": "Republican",
+   "office": "U.S. Senate, Maine",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6ME00159/",
+   "status": "pending"
+  },
+  {
+   "key": "S6ME00464",
+   "name": "Troy Jackson",
+   "party": "Democratic",
+   "office": "U.S. Senate, Maine",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6ME00464/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MT00295",
+   "name": "Kurt Alme",
+   "party": "Republican",
+   "office": "U.S. Senate, Montana",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MT00295/",
+   "status": "pending"
+  },
+  {
+   "key": "S6MT00253",
+   "name": "Alani Bankhead",
+   "party": "Democratic",
+   "office": "U.S. Senate, Montana",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6MT00253/",
+   "status": "pending"
+  },
+  {
+   "key": "S6RI00163",
+   "name": "Jack Reed",
+   "party": "Democratic",
+   "office": "U.S. Senate, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6RI00163/",
+   "status": "pending"
+  },
+  {
+   "key": "S4RI00051",
+   "name": "Raymond McKay",
+   "party": "Republican",
+   "office": "U.S. Senate, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S4RI00051/",
+   "status": "pending"
+  },
+  {
+   "key": "S0DE00092",
+   "name": "Chris Coons",
+   "party": "Democratic",
+   "office": "U.S. Senate, Delaware",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S0DE00092/",
+   "status": "pending"
+  },
+  {
+   "key": "S6DE00206",
+   "name": "Michael Katz",
+   "party": "Republican",
+   "office": "U.S. Senate, Delaware",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/S6DE00206/",
+   "status": "pending"
+  }
+ ]
+}

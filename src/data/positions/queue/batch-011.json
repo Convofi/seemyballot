@@ -1,0 +1,307 @@
+{
+ "batch": "011",
+ "createdAt": "2026-10-31T22:43:23.780Z",
+ "output": "src/data/positions/batch-011.json",
+ "candidates": [
+  {
+   "key": "H6CA13199",
+   "name": "Kyle Kirkland",
+   "party": "Republican",
+   "office": "U.S. House, California District 21",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA13199/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA20094",
+   "name": "David Valadao",
+   "party": "Republican",
+   "office": "U.S. House, California District 22",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA20094/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA22190",
+   "name": "Randy Villegas",
+   "party": "Democratic",
+   "office": "U.S. House, California District 22",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA22190/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA08135",
+   "name": "Jay Obernolte",
+   "party": "Republican",
+   "office": "U.S. House, California District 23",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA08135/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA23230",
+   "name": "Tessa Lynn Hodge",
+   "party": "Democratic",
+   "office": "U.S. House, California District 23",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA23230/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA24303",
+   "name": "Salud Carbajal",
+   "party": "Democratic",
+   "office": "U.S. House, California District 24",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA24303/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA24345",
+   "name": "Bob Smith",
+   "party": "Republican",
+   "office": "U.S. House, California District 24",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA24345/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA36439",
+   "name": "Raul Ruiz",
+   "party": "Democratic",
+   "office": "U.S. House, California District 25",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA36439/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA25219",
+   "name": "Joe Males",
+   "party": "Republican",
+   "office": "U.S. House, California District 25",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA25219/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA26241",
+   "name": "Sam Gallucci",
+   "party": "Republican",
+   "office": "U.S. House, California District 26",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA26241/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA26266",
+   "name": "Jacqui Irwin",
+   "party": "Democratic",
+   "office": "U.S. House, California District 26",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA26266/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA27111",
+   "name": "George Whitesides",
+   "party": "Democratic",
+   "office": "U.S. House, California District 27",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA27111/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA27306",
+   "name": "Jason Gibbs",
+   "party": "Republican",
+   "office": "U.S. House, California District 27",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA27306/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA32101",
+   "name": "Judy Chu",
+   "party": "Democratic",
+   "office": "U.S. House, California District 28",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA32101/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA28127",
+   "name": "April Verlato",
+   "party": "Republican",
+   "office": "U.S. House, California District 28",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA28127/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA29141",
+   "name": "Luz Rivas",
+   "party": "Democratic",
+   "office": "U.S. House, California District 29",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA29141/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA29100",
+   "name": "Angelica Dueñas",
+   "party": "Democratic",
+   "office": "U.S. House, California District 29",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA29100/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA30149",
+   "name": "Laura Friedman",
+   "party": "Democratic",
+   "office": "U.S. House, California District 30",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA30149/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA30250",
+   "name": "Scott Meyers",
+   "party": "Republican",
+   "office": "U.S. House, California District 30",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA30250/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA39151",
+   "name": "Eric Ching",
+   "party": "Republican",
+   "office": "U.S. House, California District 31",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA39151/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA39174",
+   "name": "Gil Cisneros",
+   "party": "Democratic",
+   "office": "U.S. House, California District 31",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA39174/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA24113",
+   "name": "Brad Sherman",
+   "party": "Democratic",
+   "office": "U.S. House, California District 32",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA24113/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA32137",
+   "name": "Larry Thompson",
+   "party": "Republican",
+   "office": "U.S. House, California District 32",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA32137/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA31125",
+   "name": "Pete Aguilar",
+   "party": "Democratic",
+   "office": "U.S. House, California District 33",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA31125/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA33114",
+   "name": "Stephanie Vargas",
+   "party": "Republican",
+   "office": "U.S. House, California District 33",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA33114/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CA34266",
+   "name": "Jimmy Gomez",
+   "party": "Democratic",
+   "office": "U.S. House, California District 34",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CA34266/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA34286",
+   "name": "Angela Gonzales-Torres",
+   "party": "Democratic",
+   "office": "U.S. House, California District 34",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA34286/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA35031",
+   "name": "Norma Torres",
+   "party": "Democratic",
+   "office": "U.S. House, California District 35",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA35031/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CA35146",
+   "name": "Mike Cargile",
+   "party": "Republican",
+   "office": "U.S. House, California District 35",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CA35146/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CA33119",
+   "name": "Ted Lieu",
+   "party": "Democratic",
+   "office": "U.S. House, California District 36",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CA33119/",
+   "status": "pending"
+  }
+ ]
+}
