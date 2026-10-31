@@ -1,8 +1,8 @@
 import type { NextRequest } from "next/server";
-import { getFederalContests } from "@/lib/fec";
+import { getFederalContests, MissingDataError } from "@/lib/fec";
 
-// FEC filings change slowly. Server-side caching lives in getFederalContests
-// (`use cache` + cacheLife("hours")); this lets browsers/CDN cache for an hour.
+// Reads the static FEC snapshot (src/data/fec2026.json); no network here.
+// Browsers/CDN may cache for an hour.
 const ONE_HOUR = 60 * 60;
 
 // 50 states + DC. FEC uses the same USPS codes.
@@ -37,10 +37,11 @@ export async function GET(request: NextRequest) {
     return Response.json(contests, {
       headers: { "Cache-Control": `public, max-age=${ONE_HOUR}, s-maxage=${ONE_HOUR}` },
     });
-  } catch {
+  } catch (e) {
+    if (!(e instanceof MissingDataError)) throw e;
     return Response.json(
-      { error: "Federal candidate data (FEC) is unavailable. Please try again." },
-      { status: 502 },
+      { error: "Federal candidate data isn't loaded for this area yet." },
+      { status: 503 },
     );
   }
 }

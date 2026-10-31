@@ -1,13 +1,9 @@
-import { cacheLife } from "next/cache";
 import { SENATE_2026_STATES } from "@/data/senate2026";
+import fec2026 from "@/data/fec2026.json";
 
-// OpenFEC: https://api.open.fec.gov/developers/
-// We use /candidates/ rather than /candidates/search/: on 2026-10-31 the search
-// endpoint returned only 1 of 4 OH-03 filers and dropped the Republican
-// nominee (Cleophus Dulaney, who has no principal committee on file).
-const ENDPOINT = "https://api.open.fec.gov/v1/candidates/";
+// Static snapshot of OpenFEC /candidates/ (all 2026 House + Senate filers,
+// raw flags kept) written by `npm run fetch-fec`. No network at runtime.
 const ELECTION_YEAR = 2026;
-const MAX_PAGES = 10;
 
 export type Party = "Democratic" | "Republican" | "Libertarian" | "Green" | "Independent" | "Other";
 
@@ -44,15 +40,23 @@ type FecCandidate = {
   name: string;
   party: string | null;
   incumbent_challenge: string | null;
+  candidate_status: string | null;
   has_raised_funds: boolean;
-  last_file_date: string | null;
   inactive_election_years: number[] | null;
+  last_file_date: string | null;
 };
 
-type FecPage = {
-  results: FecCandidate[];
-  pagination: { pages: number };
+type Snapshot = {
+  fetchedAt: string | null;
+  /** Fetch units ("S", "H-OH", ...) and whether every page was pulled. */
+  progress: Record<string, { done: boolean }>;
+  races: Record<string, FecCandidate[]>;
 };
+
+const DATA = fec2026 as Snapshot;
+
+/** Thrown when the snapshot doesn't cover the requested race yet. */
+export class MissingDataError extends Error {}
 
 const PARTIES: Record<string, Party> = {
   DEM: "Democratic",
@@ -150,60 +154,45 @@ function dedupe(rows: FecCandidate[]): FecCandidate[] {
   return [...byPerson.values()];
 }
 
-async function fetchCandidates(state: string, office: "S" | "H", district: string) {
-  const rows: FecCandidate[] = [];
-  for (let page = 1; page <= MAX_PAGES; page++) {
-    const params = new URLSearchParams({
-      api_key: process.env.FEC_API_KEY ?? "DEMO_KEY",
-      election_year: String(ELECTION_YEAR),
-      state,
-      office,
-      per_page: "100",
-      sort: "name",
-      page: String(page),
-    });
-    if (office === "H") params.set("district", district);
-    const res = await fetch(`${ENDPOINT}?${params}`, {
-      signal: AbortSignal.timeout(10_000),
-    });
-    if (!res.ok) throw new Error(`FEC returned ${res.status}`);
-    const data = (await res.json()) as FecPage;
-    rows.push(...data.results);
-    if (page >= data.pagination.pages) break;
+function candidatesFor(state: string, office: "S" | "H", district: string): Candidate[] {
+  const rows = DATA.races[`${state}-${office}-${district}`];
+  if (!rows) {
+    // No rows: either nobody filed, or this unit hasn't been fetched yet.
+    const unit = office === "S" ? "S" : `H-${state}`;
+    if (!DATA.progress[unit]?.done) {
+      throw new MissingDataError(`FEC snapshot does not include ${state}-${office}-${district} yet`);
+    }
+    return [];
   }
-  // FEC order (sort=name) is by last name.
-  return dedupe(rows).filter(keep).map(toCandidate);
+  const sorted = [...rows].sort((a, b) => a.name.localeCompare(b.name)); // by last name
+  return dedupe(sorted).filter(keep).map(toCandidate);
 }
 
 /**
  * Federal contests for a state and (optional) congressional district.
  * districtNumber: "3" -> district 03; "0" -> at-large / DC delegate ("00");
- * null -> House not requested. Throws on FEC errors (so failures aren't cached).
+ * null -> House not requested. Throws MissingDataError if the snapshot
+ * doesn't cover the race.
  */
 export async function getFederalContests(
   stateAbbr: string,
   districtNumber: string | null,
 ): Promise<FederalContests> {
-  "use cache";
-  cacheLife("hours");
-
   const state = stateAbbr.toUpperCase();
   const senateKind = SENATE_2026_STATES[state];
   const district = districtNumber === null ? null : districtNumber.padStart(2, "0");
 
-  const [senate, house] = await Promise.all([
-    senateKind ? fetchCandidates(state, "S", "00") : null,
-    district ? fetchCandidates(state, "H", district) : null,
-  ]);
-
   return {
-    senate: senate && {
-      office: "S",
-      special: senateKind === "special",
-      district: "00",
-      candidates: senate,
-    },
-    house:
-      house && district ? { office: "H", special: false, district, candidates: house } : null,
+    senate: senateKind
+      ? {
+          office: "S",
+          special: senateKind === "special",
+          district: "00",
+          candidates: candidatesFor(state, "S", "00"),
+        }
+      : null,
+    house: district
+      ? { office: "H", special: false, district, candidates: candidatesFor(state, "H", district) }
+      : null,
   };
 }
