@@ -1,3 +1,4 @@
+import "server-only";
 import positions from "@/data/positions.json";
 
 // Candidates' own stated positions, taken from their official campaign sites.
