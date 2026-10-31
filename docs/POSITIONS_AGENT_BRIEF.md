@@ -171,3 +171,15 @@ node scripts/positions-queue.mjs batch 12 --size 30 # next 12 non-overlapping ba
 The app reads every `src/data/positions/*.json` at request time, so a committed
 batch shows up without a rebuild of the data. Files merge in name order; an
 `ok` entry is never replaced by a non-`ok` one.
+
+## Finding the official site without web search
+
+Web search quota is shared across agents and may be exhausted. Use these, in order:
+
+1. **FEC committee record** (federal candidates). The principal campaign committee usually lists the website:
+   `curl -s "https://api.open.fec.gov/v1/candidate/<FEC_ID>/committees/?api_key=$FEC_API_KEY&designation=P" | python3 -c "import json,sys;print([c.get('website') for c in json.load(sys.stdin)['results']])"`
+   (`FEC_API_KEY` is in `.env.local`: `export $(grep FEC_API_KEY .env.local)`.) Treat it as a hint; still verify the page names the candidate and the office.
+2. **Wikipedia election page** for the race: the "External links" / "Official campaign websites" section lists sites for nominees.
+3. **`knownWebsite`** in the queue file (from state certified lists), when present.
+4. **Guess-and-verify** common patterns (`firstlast.com`, `lastforcongress.com`, `lastforgovernor.com`, `votelast.com`) with `curl -sIL`; accept only if the page clearly names the candidate and office.
+Never use a party's page, a PAC page, or a social profile as the website.
