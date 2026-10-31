@@ -1,0 +1,336 @@
+{
+  "state": "OK",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates and State Questions are from the Oklahoma State Election Board's November 2026 list of elections and the Secretary of State's certified ballot titles; judicial retention names come from courtfacts.org because the official list names only the seats. Confirm on your official sample ballot.",
+  "sources": [
+    "https://hosting.okelections.gov/electionlist.html",
+    "https://oklahoma.gov/elections/voters/military-overseas-voters/2026-election-notice-general-election.html",
+    "https://oklahoma.gov/elections/elections-results/state-question-info.html",
+    "https://www.sos.ok.gov/documents/questions/845.pdf",
+    "https://www.sos.ok.gov/documents/questions/847.pdf",
+    "https://courtfacts.org/retentionballot/",
+    "https://www.batesline.com/archives/2026/10/2026-oklahoma-judicial-retention.html"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "State Auditor and Inspector is on the 2026 general election notice but does not appear on the State Election Board's list of contested races, which suggests the race was settled before November (unopposed candidates are not printed on Oklahoma ballots); it is not shown.",
+    "Judicial retention: the official election list names the nine seats but not the judges; names come from courtfacts.org and BatesLine (unofficial) and are marked unverified.",
+    "District attorney (Districts 14, 18, 20, 23), district judge and associate district judge races are not loaded.",
+    "The State Election Board's list labels SQ 845 as Legislative Referendum 378; the Secretary of State's filings call it Legislative Referendum 379."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "ok-gov-2026-mazzei-mike",
+            "name": "Mike Mazzei",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-gov-2026-munson-cyndi",
+            "name": "Cyndi Munson",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ok-gov-2026-bush-orlando",
+            "name": "Orlando Lynn Bush",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "ok-gov-2026-brooks-robert",
+            "name": "Robert E Brooks Sr",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "ok-gov-2026-griffin-jerry",
+            "name": "Jerry Griffin",
+            "party": "Independent",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ok-ltgov-2026-shannon-tw",
+            "name": "T. W. Shannon",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-ltgov-2026-forbes-kelly",
+            "name": "Kelly Forbes",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ok-ag-2026-echols-jon",
+            "name": "Jon Echols",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-ag-2026-coffey-nick",
+            "name": "Nick Coffey",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "ok-treas-2026-byrd-cindy",
+            "name": "Cindy Byrd",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-treas-2026-perry-kiefer",
+            "name": "Kiefer Perry",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "Superintendent of Public Instruction",
+        "candidates": [
+          {
+            "key": "ok-supt-2026-franklin-robert",
+            "name": "Robert Franklin",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-supt-2026-marshall-jennettie",
+            "name": "Jennettie Marshall",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "Commissioner of Labor",
+        "candidates": [
+          {
+            "key": "ok-labor-2026-west-kevin",
+            "name": "Kevin West",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-labor-2026-dawson-kevin",
+            "name": "Kevin Dawson",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ok-labor-2026-hall-mike",
+            "name": "Mike Hall",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "Insurance Commissioner",
+        "candidates": [
+          {
+            "key": "ok-ins-2026-sullivan-bob",
+            "name": "Bob Sullivan",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-ins-2026-macintyre-craig",
+            "name": "Craig MacIntyre",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "Corporation Commissioner",
+        "candidates": [
+          {
+            "key": "ok-corp-2026-boles-brad",
+            "name": "Brad Boles",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ok-corp-2026-eastman-rhonda",
+            "name": "Rhonda Eastman",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://hosting.okelections.gov/electionlist.html"
+      },
+      {
+        "office": "Supreme Court District 1 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-sc1-2026-kane-john",
+            "name": "M. John Kane IV",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Supreme Court District 4 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-sc4-2026-jett-travis",
+            "name": "Travis Jett",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Supreme Court District 6 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-sc6-2026-kuehn-dana",
+            "name": "Dana Kuehn",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Supreme Court District 9 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-sc9-2026-darby-richard",
+            "name": "Richard Darby",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Court of Criminal Appeals District 2 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-cca2-2026-hudson-robert",
+            "name": "Robert Hudson",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Court of Civil Appeals District 1, Office 1 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-coca1-1-2026-hixon-stacie",
+            "name": "Stacie Hixon",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Court of Civil Appeals District 1, Office 2 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-coca1-2-2026-wiseman-jane",
+            "name": "Jane Wiseman",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Court of Civil Appeals District 2, Office 1 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-coca2-1-2026-barnes-deborah",
+            "name": "Deborah Barnes",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      },
+      {
+        "office": "Court of Civil Appeals District 2, Office 2 (retention: vote Yes or No on keeping the incumbent)",
+        "candidates": [
+          {
+            "key": "ok-coca2-2-2026-huber-james",
+            "name": "James Huber",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://courtfacts.org/retentionballot/",
+        "verified": false
+      }
+    ],
+    "measures": [
+      {
+        "id": "State Question 845",
+        "title": "Legislative Referendum 379: Judicial Nominating Commission",
+        "summary": "Referred by the Legislature (HJR 1024), this constitutional amendment restructures the 15-member Judicial Nominating Commission, which screens applicants for appellate and some trial judgeships. The governor and the Oklahoma Bar Association would each appoint six members (one from each current congressional district), and at least eight of those members would choose three at-large members; any number of commissioners could be licensed attorneys. It also changes term lengths, removes party-membership limits for the governor's and at-large appointees, lets commissioners serve consecutive terms, and drops the bar on commissioners' immediate family practicing law.",
+        "yesMeans": "You approve changing how Judicial Nominating Commission members are chosen, who may serve, and how long they serve, as described in the ballot title.",
+        "noMeans": "You reject the amendment, and the commission keeps its current structure based on the 1967 congressional districts and current membership rules.",
+        "source": "https://www.sos.ok.gov/documents/questions/845.pdf",
+        "moreInfo": "https://oklahoma.gov/elections/elections-results/state-question-info.html"
+      },
+      {
+        "id": "State Question 847",
+        "title": "Legislative Referendum 381: Real property valuation",
+        "summary": "Referred by the Legislature (SJR 39), this constitutional amendment lowers the yearly cap on increases in a property's taxable fair cash value starting in tax year 2027: from 5% to 4% for most real property, and from 3% to 1.75% for homesteads and agricultural land. It also replaces the 'senior freeze' for homeowners 65 and older: instead of a full freeze for those under an income limit, increases would be capped at 1.75% a year, reduced to 1.4%, 1.05%, 0.7%, 0.35% or 0% depending on household income compared with the area median income set by HUD.",
+        "yesMeans": "You approve lowering the annual caps on property value increases and replacing the senior valuation freeze with an income-based sliding cap.",
+        "noMeans": "You reject the amendment, and the current 5% and 3% caps and the current senior valuation freeze stay in place.",
+        "source": "https://www.sos.ok.gov/documents/questions/847.pdf",
+        "moreInfo": "https://oklahoma.gov/elections/elections-results/state-question-info.html"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
