@@ -134,8 +134,8 @@ function chromeRenders(url) {
   return new Promise((resolve) => {
     execFile(
       CHROME,
-      ["--headless=new", "--disable-gpu", "--virtual-time-budget=8000", "--dump-dom", url],
-      { timeout: 30_000, maxBuffer: 20 * 1024 * 1024 },
+      ["--headless=new", "--disable-gpu", "--virtual-time-budget=25000", "--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36", "--dump-dom", url],
+      { timeout: 60_000, maxBuffer: 20 * 1024 * 1024 },
       (err, stdout) => {
         if (err || !stdout) return resolve(false);
         const text = stdout.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<[^>]+>/g, " ");
