@@ -1,0 +1,382 @@
+{
+  "state": "CO",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Colorado Secretary of State's official 2026 general election candidate list and ballot order, and the Legislative Council's 2026 Blue Book for the 14 statewide measures. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+    "https://www.coloradosos.gov/pubs/elections/vote/generalBallotOrder.html",
+    "https://www.coloradosos.gov/pubs/elections/vote/generalPetitionCandidates.html",
+    "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+    "https://leg.colorado.gov/bluebook",
+    "https://ballotpedia.org/Colorado_2026_ballot_measures"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "State Board of Education (districts 1, 3, 7) and CU Regent (districts 2, 6, 7) races are by district and are not loaded; no at-large CU Regent seat is on the 2026 ballot.",
+    "District and county judge retention questions are not loaded.",
+    "Front Range Passenger Rail District Ballot Issue 7A (only in certain Front Range areas) and other local measures are not loaded.",
+    "Candidates within each office are listed in the Secretary of State's ballot-order drawing order for party tiers; the printed ballot is the final authority. Minor parties (American Constitution, Unity, Approval Voting, Forward) are shown as 'Other' and unaffiliated candidates as 'Independent'.",
+    "Certified write-in candidates: the official list (last updated September 15, 2026) shows none for these statewide offices."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "co-gov-2026-marx-victor",
+            "name": "Victor Marx",
+            "party": "Republican",
+            "runningMate": "George Washington Markert",
+            "incumbent": false
+          },
+          {
+            "key": "co-gov-2026-weiser-phil",
+            "name": "Phil Weiser",
+            "party": "Democratic",
+            "runningMate": "Lesley Dahlkemper",
+            "incumbent": false
+          },
+          {
+            "key": "co-gov-2026-hamilton-stephen",
+            "name": "Stephen T. Hamilton",
+            "party": "Other",
+            "runningMate": "James K Treibert",
+            "incumbent": false
+          },
+          {
+            "key": "co-gov-2026-mulder-eric",
+            "name": "Eric Mulder",
+            "party": "Libertarian",
+            "runningMate": "Wayne Harlos",
+            "incumbent": false
+          },
+          {
+            "key": "co-gov-2026-peckman-jeff",
+            "name": "Jeff Peckman",
+            "party": "Other",
+            "runningMate": "T.J. Cole",
+            "incumbent": false
+          },
+          {
+            "key": "co-gov-2026-underwood-erik",
+            "name": "Erik Underwood",
+            "party": "Other",
+            "runningMate": "Frank Atwood",
+            "incumbent": false
+          },
+          {
+            "key": "co-gov-2026-lopez-greg",
+            "name": "Greg Lopez",
+            "party": "Independent",
+            "runningMate": "Taralyn Romero",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "co-sos-2026-gonzalez-amanda",
+            "name": "Amanda Gonzalez",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "co-sos-2026-wiley-james",
+            "name": "James Wiley",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "co-sos-2026-vadney-sean",
+            "name": "Sean Vadney",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "co-sos-2026-campbell-amanda",
+            "name": "Amanda Campbell",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "co-sos-2026-landry-celeste",
+            "name": "Celeste Landry",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "co-treas-2026-bridges-jeff",
+            "name": "Jeff Bridges",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "co-treas-2026-grantham-kevin",
+            "name": "Kevin Grantham",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "co-treas-2026-barr-jodie",
+            "name": "Jodie Barr",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "co-treas-2026-sturgis-marilee",
+            "name": "Marilee Langner Sturgis",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "co-ag-2026-allen-michael",
+            "name": "Michael J. Allen",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "co-ag-2026-griswold-jena",
+            "name": "Jena Griswold",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Colorado Supreme Court: retain Justice William W. Hood, III? (yes/no retention vote)",
+        "candidates": [
+          {
+            "key": "co-supreme-court-2026-hood-william",
+            "name": "William W. Hood, III",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Colorado Court of Appeals: retain Judge Rebecca Rankin Freyre? (yes/no retention vote)",
+        "candidates": [
+          {
+            "key": "co-court-of-appeals-2026-freyre-rebecca",
+            "name": "Rebecca Rankin Freyre",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Colorado Court of Appeals: retain Judge Elizabeth L. Harris? (yes/no retention vote)",
+        "candidates": [
+          {
+            "key": "co-court-of-appeals-2026-harris-elizabeth",
+            "name": "Elizabeth L. Harris",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Colorado Court of Appeals: retain Judge Katharine E. Lum? (yes/no retention vote)",
+        "candidates": [
+          {
+            "key": "co-court-of-appeals-2026-lum-katharine",
+            "name": "Katharine E. Lum",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Colorado Court of Appeals: retain Judge Pax Moultrie? (yes/no retention vote)",
+        "candidates": [
+          {
+            "key": "co-court-of-appeals-2026-moultrie-pax",
+            "name": "Pax Moultrie",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Colorado Court of Appeals: retain Judge Karl L. Schock? (yes/no retention vote)",
+        "candidates": [
+          {
+            "key": "co-court-of-appeals-2026-schock-karl",
+            "name": "Karl L. Schock",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      },
+      {
+        "office": "Colorado Court of Appeals: retain Judge Grant Sullivan? (yes/no retention vote)",
+        "candidates": [
+          {
+            "key": "co-court-of-appeals-2026-sullivan-grant",
+            "name": "Grant Sullivan",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Amendment 81",
+        "title": "Law Enforcement Communication with Federal Immigration Authorities",
+        "summary": "This citizen-initiated constitutional amendment would require law enforcement to notify the U.S. Department of Homeland Security when a person is charged with a violent crime, or with any crime if they have a prior felony conviction, and law enforcement cannot determine that the person is lawfully present in the United States. It needs 55 percent of the vote to pass.",
+        "yesMeans": "Law enforcement must notify federal immigration authorities after filing certain criminal charges against people who are not confirmed to be lawfully present.",
+        "noMeans": "Current law stays: cooperation with federal immigration authorities is allowed in some criminal matters, but state and local involvement in civil immigration enforcement stays limited.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 82",
+        "title": "Constitutional Right to Purchase and Sell Natural Gas",
+        "summary": "This citizen-initiated constitutional amendment would give consumers a right to buy natural gas for cooking or heating in homes and businesses, and give distributors and utilities a right to sell it to them. It needs 55 percent of the vote to pass.",
+        "yesMeans": "Establishes a state constitutional right to buy and sell natural gas for use in homes and businesses.",
+        "noMeans": "Current laws and regulations on buying and selling natural gas stay in place.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 83",
+        "title": "Constitutional Right to Hunt and Fish",
+        "summary": "This citizen-initiated constitutional amendment would create a right to hunt, fish and harvest most state-managed fish and wildlife by traditional methods, and make hunting and fishing the preferred way to manage those populations. The state could still regulate hunting, fishing and wildlife management for conservation, public safety, or to preserve future opportunities; it needs 55 percent of the vote to pass.",
+        "yesMeans": "Establishes a state constitutional right to hunt and fish.",
+        "noMeans": "Hunting and fishing continue as allowed under existing state and federal law.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 84",
+        "title": "Mail Ballot Voter Identification",
+        "summary": "This citizen-initiated constitutional amendment would require voters in federal and state elections to sign their mail ballot envelope and also write the last four digits of their Social Security number or their Colorado driver's license or ID card number on it. Voters could fix missing or incorrect information, but the ballot could not be counted until the problem is fixed; it needs 55 percent of the vote to pass.",
+        "yesMeans": "Voters must provide identification information with their mail ballot in addition to their signature.",
+        "noMeans": "The current signature-only verification system for mail ballots continues.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 85",
+        "title": "Plain Language Ballot Titles",
+        "summary": "This citizen-initiated constitutional amendment would require all state and local ballot questions to be written in plain language at no more than an 8th-grade reading level. It would also bar state statutes from requiring conflicting language in citizen-initiated ballot questions, and needs 55 percent of the vote to pass.",
+        "yesMeans": "Ballot titles must be written in plain language at an eighth-grade reading level, and no law may interfere with this requirement.",
+        "noMeans": "Current law stays: ballot titles must use plain language, but no specific reading-level standard is set.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 86",
+        "title": "Requirements for Off-Cycle Congressional Redistricting",
+        "summary": "This citizen-initiated constitutional amendment would restate Colorado's current congressional redistricting process and bar changes to a final congressional map unless at least three public meetings are held, the changes do not divide communities of interest or purposely favor a party, and both the Independent Congressional Redistricting Commission and the Colorado Supreme Court approve. It needs 55 percent of the vote to pass.",
+        "yesMeans": "Any new congressional districts proposed outside a scheduled redistricting year must be approved by the Colorado Independent Congressional Redistricting Commission.",
+        "noMeans": "The current requirements for redrawing congressional districts every ten years continue.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 87",
+        "title": "Graduated Income Tax",
+        "summary": "This citizen-initiated measure would replace Colorado's flat income tax with graduated rates based on income, raising an estimated $2.7 billion a year, while keeping the 4.4% rate on income from selling a primary home. The Blue Book estimates average taxes would fall for incomes up to $1 million and rise above that; the new money would go to K-12 education, health care, and early childhood care and education, exempt from the state revenue limit. It passes with a majority vote.",
+        "yesMeans": "Creates a graduated state income tax that raises revenue, spends the new money on K-12 education, health care and early childhood programs, and exempts it from the state's revenue limit.",
+        "noMeans": "Keeps the current constitutional requirement for a single flat state income tax rate.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition NN",
+        "title": "Keep and Spend Money for Education and Other Purposes",
+        "summary": "Referred by the legislature, this measure would let the state keep and spend revenue that would otherwise be refunded to taxpayers under TABOR, up to a new, higher limit tied to state spending on public education. For ten years the money would go to K-12 education (teacher pay and retention, smaller classes, career and technical courses and more) and programs that support children, then to K-12 education and other purposes set by the legislature, with required audits and reporting.",
+        "yesMeans": "The state may keep some or all revenue that would otherwise be refunded under TABOR and spend it on K-12 education, programs that support children, and other purposes.",
+        "noMeans": "Current TABOR refunds and current funding levels for K-12 education, children's programs and other state purposes stay the same.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition 132",
+        "title": "Increase Penalties for Fentanyl Crimes",
+        "summary": "This citizen-initiated statute would raise the felony classifications for distributing, manufacturing, selling or possessing fentanyl and certain synthetic opioids, and require treatment for certain drug felonies based on the amount possessed. It would also narrow or eliminate sentencing options that currently reduce penalties for some fentanyl-related offenses.",
+        "yesMeans": "Possession of any amount of fentanyl becomes a felony, any fentanyl distribution carries a mandatory minimum 8-year prison sentence, and options to reduce some penalties are eliminated.",
+        "noMeans": "Minor fentanyl possession stays a misdemeanor, distribution penalties stay tiered by quantity, and options to reduce some penalties remain.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition 133",
+        "title": "Penalties for Human Trafficking of a Minor",
+        "summary": "This citizen-initiated statute would expand the crime of human trafficking of a minor for sexual servitude to include knowingly trading anything of value to buy or sell sexual activity with a minor. It would raise the penalty to life in prison without parole.",
+        "yesMeans": "Child sex trafficking is punished by life in prison without parole, and the crime expands to include buying sexual activity with a minor.",
+        "noMeans": "Existing felony penalties for child sex trafficking remain: 8 to 48 years in prison plus mandatory parole.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition 134",
+        "title": "Male and Female Participation in School and Collegiate Sports",
+        "summary": "This citizen-initiated statute would require K-12 schools, colleges and athletic associations to designate every team or sport as male, female or coeducational, and limit participants to teams of their biological sex or coed teams, with an exception letting females join a male team when no female team exists. It would bar government and accrediting bodies from penalizing schools for keeping separate female teams, and let the education commissioner enforce it for K-12 districts.",
+        "yesMeans": "All school-based teams and sports must be designated for biological males, biological females or mixed, and schools and districts must adopt sex-eligibility policies.",
+        "noMeans": "Schools, districts and athletic associations may keep setting their own eligibility policies consistent with current state and federal law.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition 135",
+        "title": "Prohibit Surgery on Minors in Response to Perception of Sex or Gender",
+        "summary": "This citizen-initiated statute would prohibit health care professionals and others from performing or providing surgery on a minor for the purpose of altering the minor's biological sex characteristics. It would also bar state or federal funds, Medicaid or insurance from paying for such surgery.",
+        "yesMeans": "Surgeries on minors to alter biological sex characteristics in response to a minor's perception of sex or gender are prohibited, and government funds and health insurance may not pay for them.",
+        "noMeans": "Colorado law continues to protect access to these surgeries for minors and allows public and private insurance to pay for them.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition 136",
+        "title": "Income Tax Rate Limit",
+        "summary": "This citizen-initiated statute would cap the state income tax rate for individuals and corporations at 4.4 percent of federal taxable income, the current rate. It passes with a majority vote.",
+        "yesMeans": "The current 4.4 percent state income tax rate becomes the maximum rate in state law.",
+        "noMeans": "The income tax rate stays 4.4 percent, without a new statutory cap.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition 137",
+        "title": "Direct Sporting Goods Sales Tax Revenue for Conservation",
+        "summary": "This citizen-initiated statute would let the state keep and spend a portion of existing state sales tax revenue from sporting goods and equipment, exempt from the state revenue limit, on water, land and forest conservation, wildfire prevention and outdoor recreation. It does not raise taxes, and the conservation money could be reduced if needed to preserve funding for certain tax credits.",
+        "yesMeans": "Existing sales tax revenue from sporting goods is directed to conservation, wildfire risk mitigation and outdoor recreation programs and exempted from state revenue limits.",
+        "noMeans": "Sporting goods sales tax revenue stays in the general budget under the revenue limit, spent as the legislature decides or refunded to taxpayers when required.",
+        "source": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+        "moreInfo": "https://ballotpedia.org/Colorado_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
