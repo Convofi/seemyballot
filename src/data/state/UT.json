@@ -1,0 +1,129 @@
+{
+  "state": "UT",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Utah Lieutenant Governor's amended 2026 General Election Certification and the official 2026 Voter Information Pamphlet; Utah has no statewide executive offices on the 2026 ballot. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.utah.gov/pmn/files/1492833.pdf",
+    "https://www.utah.gov/pmn/files/1494271.pdf",
+    "https://vote.utah.gov/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "No statewide executive offices are on the 2026 ballot (Utah elects its governor and other statewide officers in presidential years).",
+    "State Board of Education races (elected by district) not yet loaded.",
+    "District, juvenile and justice court judge retention questions (by district or locality) not yet loaded.",
+    "The certification lists no statewide citizen initiatives or referendums for 2026."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Justice of the Supreme Court of Utah (retention: vote Yes or No)",
+        "candidates": [
+          {
+            "key": "ut-sc-2026-pohlman-jill",
+            "name": "Jill M. Pohlman",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.utah.gov/pmn/files/1492833.pdf"
+      },
+      {
+        "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+        "candidates": [
+          {
+            "key": "ut-coa-2026-christiansen-forster-michele",
+            "name": "Michele M. Christiansen Forster",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.utah.gov/pmn/files/1492833.pdf"
+      },
+      {
+        "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+        "candidates": [
+          {
+            "key": "ut-coa-2026-mortensen-david",
+            "name": "David Ned Mortensen",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.utah.gov/pmn/files/1492833.pdf"
+      },
+      {
+        "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+        "candidates": [
+          {
+            "key": "ut-coa-2026-luthy-john",
+            "name": "John David Luthy",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.utah.gov/pmn/files/1492833.pdf"
+      },
+      {
+        "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+        "candidates": [
+          {
+            "key": "ut-coa-2026-harris-ryan",
+            "name": "Ryan M. Harris",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.utah.gov/pmn/files/1492833.pdf"
+      },
+      {
+        "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+        "candidates": [
+          {
+            "key": "ut-coa-2026-oliver-amy",
+            "name": "Amy Jo Oliver",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.utah.gov/pmn/files/1492833.pdf"
+      },
+      {
+        "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+        "candidates": [
+          {
+            "key": "ut-coa-2026-orme-gregory",
+            "name": "Gregory Keith Orme",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.utah.gov/pmn/files/1492833.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment A",
+        "title": "Proposal to Amend Utah Constitution - Publication Amendments (H.J.R. 10, 2025)",
+        "summary": "The Utah Constitution now requires proposed constitutional amendments to be published in a newspaper in each county for two months before the general election. Amendment A would instead require publication for 60 days immediately before the general election in a manner set by state law. If it passes, H.B. 481 (2025) would have the Lieutenant Governor post the full text on the Utah Public Notice Website and the Lieutenant Governor's website; legislative analysts estimate savings of up to $1.4 million every two years.",
+        "yesMeans": "Proposed amendments would be published for 60 days before the election as set by state law (online, under H.B. 481) instead of in newspapers. Takes effect January 1, 2027.",
+        "noMeans": "The Constitution keeps requiring proposed amendments to be published in newspapers in each county for two months before the election.",
+        "source": "https://www.utah.gov/pmn/files/1494271.pdf"
+      },
+      {
+        "id": "Constitutional Amendment B",
+        "title": "Proposal to Amend Utah Constitution - Statewide Initiatives (S.J.R. 2, 2025)",
+        "summary": "Most citizen-proposed statewide initiatives in Utah pass with a simple majority. Amendment B would require at least 60% voter approval for initiatives voted on after November 1, 2026 that create a new tax, expand an existing tax, raise a tax rate, or change a property tax rate so it falls less than it would under existing law. It would not change the vote needed for other initiatives.",
+        "yesMeans": "Citizen initiatives that increase taxes compared to existing law would need at least 60% of the vote to pass. Takes effect November 23, 2026.",
+        "noMeans": "Citizen initiatives that increase taxes would continue to pass with a simple majority.",
+        "source": "https://www.utah.gov/pmn/files/1494271.pdf"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
