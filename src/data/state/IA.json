@@ -1,0 +1,184 @@
+{
+  "state": "IA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide races, the three Court of Appeals retention questions and Amendment 1 are from the Cerro Gordo and Benton County Auditors' official 2026 general election candidate lists (the Iowa Secretary of State's site blocked automated access), cross-checked against the Iowa Judicial Branch. Confirm on your official sample ballot.",
+  "sources": [
+    "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf",
+    "https://www.bentoncountyia.gov/files/auditor/state_candidate_list2026_25149.pdf",
+    "https://www.iowacourts.gov/newsroom/news-releases/information-about-iowas-2026-judicial-retention-elections",
+    "https://www.iowacourts.gov/iowa-courts/court-of-appeals/judges/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "District court and district associate judge retention questions (vary by judicial election district) not yet loaded.",
+    "sos.iowa.gov returned HTTP 403 on 2026-10-31, so the statewide list comes from two county auditors' official copies of the general election candidate list rather than the Secretary of State's PDF; no write-in candidates are listed.",
+    "No Iowa Supreme Court justice is up for retention in 2026 (the Iowa Judicial Branch says three appellate judges are on every ballot, all Court of Appeals judges)."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ia-gov-2026-lahn-zach",
+            "name": "Zach Lahn",
+            "party": "Republican",
+            "runningMate": "Derek Wulf",
+            "incumbent": false
+          },
+          {
+            "key": "ia-gov-2026-sand-rob",
+            "name": "Rob Sand",
+            "party": "Democratic",
+            "runningMate": "Dave Muhlbauer",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "ia-sos-2026-pate-paul",
+            "name": "Paul D. Pate",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ia-sos-2026-peterman-ryan",
+            "name": "Ryan Peterman",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Auditor of State",
+        "candidates": [
+          {
+            "key": "ia-aud-2026-cournoyer-chris",
+            "name": "Chris Cournoyer",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ia-aud-2026-wettach-taylor",
+            "name": "Taylor Wettach",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Treasurer of State",
+        "candidates": [
+          {
+            "key": "ia-treas-2026-smith-roby",
+            "name": "Roby Smith",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ia-treas-2026-norwood-john",
+            "name": "John Norwood",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Secretary of Agriculture",
+        "candidates": [
+          {
+            "key": "ia-ag-sec-2026-naig-mike",
+            "name": "Mike Naig",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ia-ag-sec-2026-jones-chris",
+            "name": "Chris Jones",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ia-ag-2026-bird-brenna",
+            "name": "Brenna Bird",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ia-ag-2026-willems-nate",
+            "name": "Nate Willems",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Court of Appeals Judge - Retention: shall Sharon Soorholtz Greer be retained? (Yes/No)",
+        "candidates": [
+          {
+            "key": "ia-coa-2026-soorholtz-greer-sharon",
+            "name": "Sharon Soorholtz Greer",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Court of Appeals Judge - Retention: shall John M. Sandy be retained? (Yes/No)",
+        "candidates": [
+          {
+            "key": "ia-coa-2026-sandy-john",
+            "name": "John M. Sandy",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      },
+      {
+        "office": "Court of Appeals Judge - Retention: shall Julie A. Schumacher be retained? (Yes/No)",
+        "candidates": [
+          {
+            "key": "ia-coa-2026-schumacher-julie",
+            "name": "Julie A. Schumacher",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment 1",
+        "title": "Two-thirds legislative vote to raise or create income taxes",
+        "summary": "This amendment, proposed by the Iowa Legislature, would add a section to the Iowa Constitution requiring a two-thirds vote of the members elected to each chamber to pass a bill that raises the individual or corporate income tax rate (or another tax based on income or legal and special reserves), or that creates a new state tax on income. The rule would not apply to taxes local governments choose to impose. Any lawsuit claiming such a bill was not properly passed would have to be filed within one year of enactment.",
+        "yesMeans": "You approve adding the two-thirds supermajority requirement for income tax increases and new income taxes to the Iowa Constitution.",
+        "noMeans": "You reject the amendment; income tax increases and new income taxes could still pass the Legislature by a simple majority.",
+        "source": "https://cerrogordo.gov/files/candidate_list/2026_general_election_38511.pdf",
+        "moreInfo": "https://ballotpedia.org/Iowa_Amendment_1,_Two-Thirds_Legislative_Vote_Requirement_for_Income_Tax_Increase_Bills_Amendment_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
