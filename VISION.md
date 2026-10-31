@@ -27,6 +27,6 @@ Next.js (App Router, TypeScript), Tailwind, deployed on Vercel. No database in v
 
 ## Success criteria
 - A real address in any of the 50 states returns correct districts in < 2s.
-- Federal contests are 100% correct for any address (verified against FEC).
+- Federal contests show every active FEC-registered 2026 candidate for the voter's seat, clearly labeled as "filed with the FEC, confirm on your official ballot". Never a guessed or omitted major candidate.
 - Any contest we can't source shows the fallback, never a guess.
 - Lighthouse mobile performance > 90.
