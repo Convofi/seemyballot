@@ -1,0 +1,75 @@
+{
+  "state": "MT",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Montana Secretary of State's official candidate filing list for the 2026 federal general election and its list of ballot issues qualified for the 2026 general election. Confirm on your official sample ballot.",
+  "sources": [
+    "https://candidatefiling.mt.gov/candidatefiling/CandidateList.aspx?e=450002987",
+    "https://sosmt.gov/elections/ballot_issues/proposed-2026-ballot-issues/",
+    "https://sosmt.gov/elections/vip/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Montana has no statewide executive offices on the 2026 ballot; Public Service Commission races are by district and are not loaded.",
+    "District court judge races and retention questions are by judicial district and are not loaded.",
+    "The Secretary of State's website (sosmt.gov) blocked automated access on 2026-10-31; the qualified ballot issue list was read from its 2026-10-19 Internet Archive snapshot, and the Voter Information Pamphlet's exact ballot statements could not be loaded, so measure summaries are written from the official issue descriptions and published measure text."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Supreme Court Justice #4 (nonpartisan)",
+        "candidates": [
+          {
+            "key": "mt-sc4-2026-eddy-amy",
+            "name": "Amy Eddy",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://amyeddyforjustice.com/"
+          },
+          {
+            "key": "mt-sc4-2026-wilson-dan",
+            "name": "Dan Wilson",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://wilsonforjustice.com/"
+          }
+        ],
+        "source": "https://candidatefiling.mt.gov/candidatefiling/CandidateList.aspx?e=450002987"
+      }
+    ],
+    "measures": [
+      {
+        "id": "CI-132",
+        "title": "Constitutional Initiative No. 132 (CI-132)",
+        "summary": "A citizen-initiated constitutional amendment that adds a new section to Article VII of the Montana Constitution stating: \"Judicial elections shall remain nonpartisan.\" Montana elects its Supreme Court justices and district judges without party labels today, but that is set by state law rather than the constitution.",
+        "yesMeans": "You want the constitution to require that judicial elections stay nonpartisan, so changing that would take another constitutional amendment.",
+        "noMeans": "You want to leave the constitution unchanged; judicial elections stay nonpartisan under current law, which the Legislature could change.",
+        "source": "https://sosmt.gov/elections/ballot_issues/proposed-2026-ballot-issues/",
+        "moreInfo": "https://ballotpedia.org/Montana_2026_ballot_measures"
+      },
+      {
+        "id": "CI-133",
+        "title": "Constitutional Initiative No. 133 (CI-133)",
+        "summary": "A citizen-initiated constitutional amendment that adds a fundamental right to initiative and referendum to Montana's Declaration of Rights, so government may burden it only for a compelling interest by the least restrictive means. It requires impartial, predictable, open and timely processes for ballot issues, including deadlines for approving petitions and ballot statements and for resolving legal challenges, ample time to gather signatures, no disqualifying petitions over minor or technical issues, the ability for voters to withdraw their signatures, and no use of government resources to support or oppose a ballot issue.",
+        "yesMeans": "You want these protections and deadlines for citizen initiatives and referendums added to the Montana Constitution.",
+        "noMeans": "You want to keep the current initiative and referendum process, which the Legislature can continue to change by law.",
+        "source": "https://sosmt.gov/elections/ballot_issues/proposed-2026-ballot-issues/",
+        "moreInfo": "https://ballotpedia.org/Montana_2026_ballot_measures"
+      },
+      {
+        "id": "I-194",
+        "title": "Initiative No. 194 (I-194)",
+        "summary": "A citizen-initiated state law that limits the powers of \"artificial persons\" (corporations, nonprofits, trusts, partnerships, trade associations and similar entities doing business in Montana) so they exclude contributing anything of value to candidate elections, supporting or opposing political parties, or supporting or opposing state or local ballot issues. Violating it would forfeit the entity's privileges to do business in Montana. It does not apply to news, commentary or editorial content, or to the state, local governments, individuals, political committees or public corporations.",
+        "yesMeans": "You want to enact these limits on political spending by corporations, nonprofits and other entities doing business in Montana.",
+        "noMeans": "You want to keep current Montana campaign finance law unchanged.",
+        "source": "https://sosmt.gov/elections/ballot_issues/proposed-2026-ballot-issues/",
+        "moreInfo": "https://ballotpedia.org/Montana_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
