@@ -1,0 +1,441 @@
+{
+  "state": "TX",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Texas Secretary of State's final ballot certification, sample ballot and certified write-in list for the November 3, 2026 general election (certified August 28, 2026). Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sos.state.tx.us/elections/laws/2026-november-general-election.shtml",
+    "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf",
+    "https://www.sos.state.tx.us/elections/forms/2026-sample-ballot.pdf",
+    "https://www.sos.state.tx.us/elections/forms/2026-write-In-ballot-cert.pdf",
+    "https://www.txcourts.gov/15thcoa/about-the-court/justices/",
+    "https://en.wikipedia.org/wiki/2026_Texas_elections"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded",
+    "U.S. House, State Board of Education, State Senate, State House, regional courts of appeals, district judges and district attorneys are district-level and not included here.",
+    "No statewide propositions are on the November 3, 2026 Texas ballot (Texas constitutional amendments were voted on in November 2025); none appear on the Secretary of State's certification or sample ballot.",
+    "Candidate list reflects the Secretary of State's August 28, 2026 certification; later withdrawals or court-ordered changes, if any, are not reflected.",
+    "Write-in candidates for Governor and Lieutenant Governor are from the Secretary of State's certified write-in list; party is shown as Other because the list does not give one.",
+    "Incumbent flags come from Wikipedia and the Fifteenth Court of Appeals' own justices page, not from the certification.",
+    "Candidate campaign websites were not checked and are not shown."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "tx-gov-2026-abbott-greg",
+            "name": "Greg Abbott",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-gov-2026-hinojosa-gina",
+            "name": "Gina Hinojosa",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-gov-2026-dixon-pat",
+            "name": "Pat Dixon",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "tx-gov-2026-giles-edward",
+            "name": "Edward Earl Giles",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "tx-gov-2026-mack-jenn",
+            "name": "Jenn Mack",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "tx-gov-2026-majoishingra-jinghpaw",
+            "name": "Jinghpaw Majoishingra",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "tx-gov-2026-miller-mike",
+            "name": "Mike Miller",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "tx-ltgov-2026-patrick-dan",
+            "name": "Dan Patrick",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-ltgov-2026-goodwin-vikki",
+            "name": "Vikki Goodwin",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-ltgov-2026-cristo-anthony",
+            "name": "Anthony Cristo",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "tx-ltgov-2026-mccormick-kevin",
+            "name": "Kevin McCormick",
+            "party": "Green",
+            "incumbent": false
+          },
+          {
+            "key": "tx-ltgov-2026-espinosa-arturo",
+            "name": "Arturo Espinosa",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "tx-ltgov-2026-samuelson-stephen",
+            "name": "Stephen Samuelson",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "tx-ag-2026-middleton-mayes",
+            "name": "Mayes Middleton",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "tx-ag-2026-johnson-nathan",
+            "name": "Nathan Johnson",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-ag-2026-oxford-tom",
+            "name": "Tom Oxford",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Comptroller of Public Accounts",
+        "candidates": [
+          {
+            "key": "tx-comptroller-2026-huffines-don",
+            "name": "Don Huffines",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "tx-comptroller-2026-eckhardt-sarah",
+            "name": "Sarah Eckhardt",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-comptroller-2026-echavarria-garza-alonzo",
+            "name": "V. Alonzo Echavarria-Garza",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "tx-comptroller-2026-faizi-shehla",
+            "name": "Shehla Faizi",
+            "party": "Green",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Commissioner of the General Land Office",
+        "candidates": [
+          {
+            "key": "tx-land-2026-buckingham-dawn",
+            "name": "Dawn Buckingham",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-land-2026-flores-benjamin",
+            "name": "Benjamin Flores",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-land-2026-snider-neill",
+            "name": "Neill Snider",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Commissioner of Agriculture",
+        "candidates": [
+          {
+            "key": "tx-agriculture-2026-sheets-nate",
+            "name": "Nate Sheets",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "tx-agriculture-2026-tucker-clayton",
+            "name": "Clayton Tucker",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-agriculture-2026-kelly-austin",
+            "name": "Austin R. Kelly",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Railroad Commissioner",
+        "candidates": [
+          {
+            "key": "tx-rrc-2026-french-bo",
+            "name": "Bo French",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "tx-rrc-2026-rosenthal-jon",
+            "name": "Jon Rosenthal",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-rrc-2026-dibianca-arthur",
+            "name": "Arthur DiBianca",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Chief Justice, Supreme Court",
+        "candidates": [
+          {
+            "key": "tx-sc-chief-2026-blacklock-jimmy",
+            "name": "Jimmy Blacklock",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-sc-chief-2026-ellis-maggie",
+            "name": "Maggie Ellis",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Justice, Supreme Court, Place 2, Unexpired Term",
+        "candidates": [
+          {
+            "key": "tx-sc-2-2026-sullivan-james",
+            "name": "James P. Sullivan",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-sc-2-2026-kelly-chari",
+            "name": "Chari Kelly",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Justice, Supreme Court, Place 7",
+        "candidates": [
+          {
+            "key": "tx-sc-7-2026-hawkins-kyle",
+            "name": "Kyle Hawkins",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-sc-7-2026-hawkins-kristen",
+            "name": "Kristen Hawkins",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Justice, Supreme Court, Place 8",
+        "candidates": [
+          {
+            "key": "tx-sc-8-2026-busby-brett",
+            "name": "Brett Busby",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-sc-8-2026-triana-gisela",
+            "name": "Gisela D. Triana",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Judge, Court of Criminal Appeals, Place 3",
+        "candidates": [
+          {
+            "key": "tx-cca-3-2026-smith-thomas",
+            "name": "Thomas Smith",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "tx-cca-3-2026-anyiam-okey",
+            "name": "Okey Anyiam",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tx-cca-3-2026-ash-mark",
+            "name": "Mark Ash",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Judge, Court of Criminal Appeals, Place 4",
+        "candidates": [
+          {
+            "key": "tx-cca-4-2026-yeary-kevin",
+            "name": "Kevin Patrick Yeary",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-cca-4-2026-riley-audra",
+            "name": "Audra Riley",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Judge, Court of Criminal Appeals, Place 9",
+        "candidates": [
+          {
+            "key": "tx-cca-9-2026-messinger-john",
+            "name": "John Messinger",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "tx-cca-9-2026-taylor-holly",
+            "name": "Holly Taylor",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Chief Justice, 15th Court of Appeals District",
+        "candidates": [
+          {
+            "key": "tx-coa15-chief-2026-brister-scott",
+            "name": "Scott Brister",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-coa15-chief-2026-zimmerer-jerry",
+            "name": "Jerry Zimmerer",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Justice, 15th Court of Appeals District, Place 2",
+        "candidates": [
+          {
+            "key": "tx-coa15-2-2026-field-scott",
+            "name": "Scott K. Field",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-coa15-2-2026-baker-tom",
+            "name": "Tom Baker",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      },
+      {
+        "office": "Justice, 15th Court of Appeals District, Place 3",
+        "candidates": [
+          {
+            "key": "tx-coa15-3-2026-farris-april",
+            "name": "April Farris",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "tx-coa15-3-2026-meyer-marc",
+            "name": "Marc M. Meyer",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
