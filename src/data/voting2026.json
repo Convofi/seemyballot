@@ -88,16 +88,17 @@
     "registrationDeadlinePassed": true,
     "registrationNote": "The deadline was Oct 5, 2026. There is no way left to register for the Nov 3 election.",
     "voterId": "Bring photo ID, such as an Arkansas driver's license or state ID, U.S. passport, military ID, Arkansas college ID, concealed carry license, public assistance ID, or a free voter verification card from your county clerk; without it you vote a provisional ballot that counts only if you show ID to the county clerk or election commission by noon Monday, Nov 9.",
-    "lineRule": "If you are in line when polls close, you can still vote.",
+    "lineRule": "If you are in line when polls close at 7:30 PM, stay in line: you can still vote.",
     "sources": [
       "http://www.sos.arkansas.gov/uploads/elections/2026_Election_Calendar_Rev._6-2025_.pdf",
       "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
       "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/voting-in-arkansas",
       "https://media.ark.org/pulaskiclerk/New_Combined_KeyDates2026_Pref.-Gen.pdf",
-      "https://uaex.uada.edu/business-communities/voter-education/docs/elections-in-arkansas-handout-2026.pdf"
+      "https://uaex.uada.edu/business-communities/voter-education/docs/elections-in-arkansas-handout-2026.pdf",
+      "https://sbec.arkansas.gov/wp-content/uploads/2026-Poll-Worker-Guide-CLEAN-10-28-25.pdf"
     ],
-    "sourceNote": "The list of accepted photo IDs and the Monday-noon cure deadline come from the University of Arkansas Extension 2026 voter handout, not the Secretary of State site. The in-line-at-closing rule was not confirmed on an official page.",
-    "verifiedAt": "2026-10-31T22:11:25Z"
+    "sourceNote": "The list of accepted photo IDs and the Monday-noon cure deadline come from the University of Arkansas Extension 2026 voter handout, not the Secretary of State site.",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "AZ": {
     "name": "Arizona",
@@ -223,15 +224,16 @@
     "registrationDeadlinePassed": false,
     "registrationNote": "The regular registration deadline was Oct 16, 2026. You can still register and vote on Nov 3 at your town's Same-Day Registration site.",
     "voterId": "Poll workers will ask for ID, but photo ID is not required; a Social Security card or any pre-printed ID showing your name and address, signature, or photo works, and if you have no ID you can usually sign an affidavit instead (some first-time voters who registered by mail must show ID or a document with their address, or vote provisionally).",
-    "lineRule": "If you are in line when polls close at 8:00 PM, you can still vote.",
+    "lineRule": "If you are in line when polls close at 8 PM, you can still vote.",
     "sources": [
       "https://portal.ct.gov/governor/news/press-releases/2026/10-2026/governor-lamont-and-secretary-thomas-remind-voters-that-a-14-day-period-of-in-person-early-voting",
       "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
       "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
-      "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration"
+      "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration",
+      "https://www.cga.ct.gov/current/pub/chap_146.htm#sec_9-174"
     ],
-    "sourceNote": "The general line rule at regular polling places is confirmed on the official page only for Same-Day Registration sites (in line by 8:00 PM).",
-    "verifiedAt": "2026-10-31T22:05:19Z"
+    "sourceNote": "Line rule confirmed from Conn. Gen. Stat. 9-174(a).",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "DC": {
     "name": "District of Columbia",
@@ -423,17 +425,18 @@
     "registrationDeadlinePassed": false,
     "registrationNote": "The pre-registration deadline was Oct 19, 2026. You can still register and vote at your polling place on Election Day.",
     "voterId": "Bring an Iowa driver's license or non-operator ID, U.S. passport, military or veteran ID, tribal ID, or your signed Iowa Voter ID PIN card; without one you can vote a provisional ballot and show ID later.",
-    "lineRule": "If you are in line when polls close, you can still vote.",
+    "lineRule": "If you are at your polling place when polls close at 8 PM, you can still vote.",
     "sources": [
       "https://www.marioncountyiowa.gov/elections/info/2026_general_election_2026_11_03/",
       "https://jaspercountyelections.iowa.gov/elections/info/november_3rd_general_election_2026_11_03/",
       "https://jaspercountyelections.iowa.gov/vote/id/",
       "https://jaspercountyelections.iowa.gov/vote/absentee/",
       "https://jaspercountyelections.iowa.gov/vote/register/",
-      "https://www.ncsl.org/elections-and-campaigns/polling-places"
+      "https://www.ncsl.org/elections-and-campaigns/polling-places",
+      "https://www.legis.iowa.gov/docs/code/49.pdf"
     ],
-    "sourceNote": "sos.iowa.gov returned 403 to both WebFetch and curl, so facts come from official county auditor sites (Marion, Jasper), which apply state law. The in-line-at-closing rule was not confirmed on an official page.",
-    "verifiedAt": "2026-10-31T22:08:43Z"
+    "sourceNote": "sos.iowa.gov returned 403 to both WebFetch and curl, so facts come from official county auditor sites (Marion, Jasper), which apply state law.",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "ID": {
     "name": "Idaho",
@@ -534,7 +537,7 @@
     "registrationDeadlinePassed": true,
     "registrationNote": "The deadline was Oct 5, 2026 (close of business in person, midnight online). If you are not registered, you cannot vote in this election.",
     "voterId": "Bring a photo ID issued by Indiana or the U.S. government that shows your name and is current or expired after Nov 5, 2024, such as an Indiana driver's license, Indiana ID card, military ID, or U.S. passport; college and school IDs are no longer accepted.",
-    "lineRule": "If you are in line when polls close at 6 PM, you can still vote.",
+    "lineRule": "If you are in line when polls close at 6 PM local time, you can still vote.",
     "sources": [
       "https://www.in.gov/sos/elections/voter-information/ways-to-vote/absentee-voting/",
       "https://www.in.gov/sos/elections/voter-information/photo-id-law/",
@@ -542,10 +545,11 @@
       "https://www.in.gov/counties/clarkcountyclerkofcourts/voting-and-elections/important-dates",
       "https://enr.indianavoters.in.gov/site/Content/documents/2024%20General%20Election%20More%20Information%20Document%20_Final.pdf",
       "https://ebench-dev.greeninfo.org/state/indiana/statute/3-11-8-11",
-      "https://www.ipm.org/2020-11-02/election-day-dos-and-donts"
+      "https://www.ipm.org/2020-11-02/election-day-dos-and-donts",
+      "https://iga.in.gov/ic/2025/Title_3.pdf"
     ],
-    "sourceNote": "2026 dates and poll hours are from the state's 2026 election calendar as republished on Clark County's official in.gov page; the state's 2026 voter guide PDF could not be text-extracted. The line rule (IC 3-11-8-11) was confirmed only from secondary statute summaries and a 2020 public radio report, not an official page. The Central-time county list is from the state's 2024 election results notes.",
-    "verifiedAt": "2026-10-31T22:14:50Z"
+    "sourceNote": "2026 dates and poll hours are from the state's 2026 election calendar as republished on Clark County's official in.gov page; the state's 2026 voter guide PDF could not be text-extracted. The Central-time county list is from the state's 2024 election results notes. Line rule confirmed from Ind. Code 3-11-8-11 (hours: IC 3-11-8-8).",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "KS": {
     "name": "Kansas",
@@ -571,16 +575,17 @@
     "registrationDeadlinePassed": true,
     "registrationNote": "The deadline was Oct 13, 2026. There is no way left to register for the Nov 3 election.",
     "voterId": "Bring photo ID, such as a driver's license or ID card from any state, U.S. passport, military ID, or certain tribal, government employee, student, concealed carry, or public assistance IDs (voters 65 and older may use an expired ID); without one you vote a provisional ballot that counts only if you show ID before the county canvass.",
-    "lineRule": "If you are in line when polls close, you can still vote.",
+    "lineRule": "If you are in line when your polling place closes (7 PM local time in most counties; your county may set different hours, closing no later than 8 PM Central or 7 PM Mountain), you can still vote.",
     "sources": [
       "https://sos.ks.gov/Pubs/Elections/2026-General-Election-Dates-2.pdf",
       "https://sos.ks.gov/elections/voter-information.html",
       "https://wycovoteskck.gov/2026-general-election",
       "https://www.kcur.org/2026-10-12/how-to-vote-in-kansas-novembers-election-deadlines-are-coming-soon",
-      "https://www.hppr.org/hppr-news/2026-10-07/appeals-court-kansas-mail-in-ballots-will-be-accepted-for-three-days-after-november-election"
+      "https://www.hppr.org/hppr-news/2026-10-07/appeals-court-kansas-mail-in-ballots-will-be-accepted-for-three-days-after-november-election",
+      "https://www.kssos.org/Pubs/Elections/Guides/voter_rights.pdf"
     ],
-    "sourceNote": "The mail-ballot request deadline and the 3-day grace period status come from news reports (KCUR, HPPR), not an official page: an Oct 7, 2026 appeals court ruling kept the grace period in place for November while the challenge to 2025's SB 4 continues. The Nov 2 noon end of advance voting comes from Wyandotte County's official page. The in-line-at-closing rule was not confirmed on an official page.",
-    "verifiedAt": "2026-10-31T22:13:22Z"
+    "sourceNote": "The mail-ballot request deadline and the 3-day grace period status come from news reports (KCUR, HPPR), not an official page: an Oct 7, 2026 appeals court ruling kept the grace period in place for November while the challenge to 2025's SB 4 continues. The Nov 2 noon end of advance voting comes from Wyandotte County's official page.",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "KY": {
     "name": "Kentucky",
@@ -885,16 +890,17 @@
     "registrationDeadlinePassed": true,
     "registrationNote": "The deadline was Oct 5, 2026 (in person, or mail applications postmarked by then). There is no way left to register for the Nov 3 election.",
     "voterId": "Bring photo ID, such as a Mississippi driver's license or state ID, U.S. passport, military or tribal photo ID, government employee ID, Mississippi college student ID, or a free Mississippi Voter ID Card; without it you vote an affidavit ballot that counts only if you show ID at the Circuit Clerk's office within five business days.",
-    "lineRule": "If you are in line when polls close, you can still vote.",
+    "lineRule": "If you are in line when polls close at 7 PM, you can still vote.",
     "sources": [
       "https://www.sos.ms.gov/content/documents/elections/yallvotedocs/2026%20Mississippi%20Voter%20Information%20Guide.pdf",
       "https://sos.ms.gov/content/documents/elections/yallvotedocs/Step-by-Step%20Voter%20Guide%20to%20Absentee%20Voting.pdf",
       "https://www.wlox.com/2026/09/15/changes-absentee-in-person-voting-registration-deadline-looms/",
       "https://fedsoc.org/case/watson-v-republican-national-committee",
-      "https://policyrisk.com/state-bill/MS-HB908-2026"
+      "https://policyrisk.com/state-bill/MS-HB908-2026",
+      "https://www.sos.ms.gov/node/1859"
     ],
-    "sourceNote": "The official mail-ballot rule (postmarked by Election Day, received within five business days) comes from the Secretary of State's 2024 absentee guide; Nov 10, 2026 is computed from that rule. The U.S. Supreme Court upheld this window in Watson v. RNC (June 29, 2026). A 2026 law (HB 908) would move the deadline only if federal law were found to preempt it, which the Court did not find. In-person absentee dates come from a WLOX news report. The mail-ballot request deadline and the in-line-at-closing rule were not confirmed on an official page.",
-    "verifiedAt": "2026-10-31T22:12:20Z"
+    "sourceNote": "The official mail-ballot rule (postmarked by Election Day, received within five business days) comes from the Secretary of State's 2024 absentee guide; Nov 10, 2026 is computed from that rule. The U.S. Supreme Court upheld this window in Watson v. RNC (June 29, 2026). A 2026 law (HB 908) would move the deadline only if federal law were found to preempt it, which the Court did not find. In-person absentee dates come from a WLOX news report. The mail-ballot request deadline",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "MT": {
     "name": "Montana",
@@ -920,7 +926,7 @@
     "registrationDeadlinePassed": false,
     "registrationNote": "Regular registration closed Oct 5, 2026. Late registration at your county election office runs through noon Monday, Nov 2, and again on Election Day until 8:00 PM.",
     "voterId": "Bring a Montana driver's license or state ID, U.S. passport, military ID, tribal photo ID, Montana concealed carry permit, or a Montana university system or NAIA school photo ID; any other photo ID must be paired with a current bill, bank statement, paycheck, or government document showing your address, and without ID you can vote a provisional ballot.",
-    "lineRule": "If you are in line when polls close at 8:00 PM, you can still vote.",
+    "lineRule": "If you are in line when polls close at 8 PM, stay in line: you can still vote.",
     "sources": [
       "https://mca.legmt.gov/bills/mca/title_0130/chapter_0010/part_0010/section_0060/0130-0010-0010-0060.html",
       "https://mca.legmt.gov/bills/mca/title_0130/chapter_0130/part_0010/section_0140/0130-0130-0010-0140.html",
@@ -929,10 +935,11 @@
       "https://mca.legmt.gov/bills/mca/title_0130/chapter_0130/part_0020/section_0010/0130-0130-0020-0010.html",
       "https://mca.legmt.gov/bills/mca/title_0130/chapter_0020/part_0030/section_0040/0130-0020-0030-0040.html",
       "https://montanafreepress.org/2026/05/11/judge-blocks-election-day-voter-registration-changes/",
-      "https://www.ncsl.org/elections-and-campaigns/polling-places"
+      "https://www.ncsl.org/elections-and-campaigns/polling-places",
+      "https://sosmt.gov/Portals/142/Elections/Documents/Officials/DIR-4-08.pdf"
     ],
-    "sourceNote": "sosmt.gov blocked all fetches (firewall 403). Used the Montana Code Annotated 2025 (official legislature site) and news reporting. The Oct 5 regular registration deadline is from search results (30 days before the election), not an official page. The SB 490 injunction (May 11, 2026) is from Montana Free Press; I found no later ruling, so confirm late-registration hours with your county. The line rule comes from Montana Free Press reporting of Secretary of State guidance, not an official page.",
-    "verifiedAt": "2026-10-31T22:12:46Z"
+    "sourceNote": "sosmt.gov blocked all fetches (firewall 403). Used the Montana Code Annotated 2025 (official legislature site) and news reporting. The Oct 5 regular registration deadline is from search results (30 days before the election), not an official page. The SB 490 injunction (May 11, 2026) is from Montana Free Press; I found no later ruling, so confirm late-registration hours with your county. Line rule confirmed from Montana SOS Election Directive #04-08 (under MCA 13-1-202); hours MCA 13-1-106.",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "NC": {
     "name": "North Carolina",
@@ -1163,15 +1170,16 @@
     "registrationDeadlinePassed": false,
     "registrationNote": "Registration by mail or in person closed Oct 6, 2026, and online registration to vote by mail closed Oct 20, 2026. You can still register online or in person through Nov 3 and vote in person.",
     "voterId": "Most voters do not need ID; you must show ID only if your sample ballot label says 'ID Required' or you are registering on the same day.",
-    "lineRule": "If you are in line when polls close at 7:00 PM, you can still vote.",
+    "lineRule": "If you are in line when polls close at 7 PM, you can still vote (and still register and vote if you are in line to do so).",
     "sources": [
       "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:62013096-adbe-425d-b324-ce5f4717b513/original/as/election-guide-26g.pdf",
       "https://www.ncsl.org/elections-and-campaigns/polling-places",
       "https://knpr.org/knpr/2020-06-10/polls-close-voters-waiting-will-still-vote",
-      "https://thisisreno.com/2024/11/nevadans-back-photo-id-requirement-for-voting-question-will-return-in-2026/"
+      "https://thisisreno.com/2024/11/nevadans-back-photo-id-requirement-for-voting-question-will-return-in-2026/",
+      "https://www.leg.state.nv.us/NRS/NRS-293.html#NRS293Sec305"
     ],
-    "sourceNote": "nvsos.gov returned empty pages, so dates come from Clark County's official 2026 General Election guide (state law sets the early voting, registration, and mail deadlines). The line rule comes from secondary sources (news reports), not an official page. A voter ID constitutional amendment (Question 7) is on the 2026 ballot and is not in effect for this election.",
-    "verifiedAt": "2026-10-31T22:09:59Z"
+    "sourceNote": "nvsos.gov returned empty pages, so dates come from Clark County's official 2026 General Election guide (state law sets the early voting, registration, and mail deadlines). A voter ID constitutional amendment (Question 7) is on the 2026 ballot and is not in effect for this election. Line rule confirmed from NRS 293.305 (hours: NRS 293.273).",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "NY": {
     "name": "New York",
@@ -1516,17 +1524,18 @@
     "registrationDeadlinePassed": true,
     "registrationNote": "The deadline was Oct 5, 2026. There is no way left to register for the Nov 3 election.",
     "voterId": "Bring a Texas driver's license, Texas Election Identification Certificate, Texas personal ID card, Texas handgun license, U.S. military ID with photo, U.S. citizenship certificate with photo, or U.S. passport (expired no more than 4 years, or any length of time if you are 70 or older); if you do not have one and cannot reasonably get one, bring a document like a utility bill, bank statement, paycheck, or voter registration certificate and sign a Reasonable Impediment Declaration.",
-    "lineRule": "If you are inside or waiting to enter your polling place at 7:00 PM, you can still vote.",
+    "lineRule": "If you are in line or waiting to enter your polling place when polls close at 7 PM, you can still vote.",
     "sources": [
       "https://www.sos.texas.gov/elections/voter/important-election-dates.shtml",
       "https://www.sos.texas.gov/elections/voter/reqabbm.shtml",
       "https://www.votetexas.gov/voting/need-id.html",
       "https://www.votetexas.gov/voting/where.html",
       "https://www.votetexas.gov/voting/early-voting.html",
-      "https://texas.public.law/statutes/tex._election_code_section_41.032"
+      "https://texas.public.law/statutes/tex._election_code_section_41.032",
+      "https://www.sos.texas.gov/elections/forms/pol-sub/7-30f.pdf"
     ],
-    "sourceNote": "The line rule comes from the text of Texas Election Code 41.032(a) (\"inside or waiting to enter the polling place at 7 p.m.\") as shown in search results from texas.public.law. The official statute site would not render, and the Secretary of State's poll-worker PDF (7-30f) could not be parsed. The Central/Mountain time note comes from general knowledge, not a page we read.",
-    "verifiedAt": "2026-10-31T22:07:17Z"
+    "sourceNote": "The Central/Mountain time note comes from general knowledge, not a page we read. Line rule confirmed from Tex. Elec. Code 41.032; Texas SOS Closing the Polling Place checklist (Form 7-30f).",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "UT": {
     "name": "Utah",
@@ -1551,17 +1560,18 @@
     "registrationDeadlinePassed": false,
     "registrationNote": "The deadline to register and get a ballot by mail was Oct 23, 2026. You can still register and vote a provisional ballot in person at a vote center on Election Day.",
     "voterId": "Bring one valid photo ID with your name (such as a Utah driver license, state ID, U.S. passport, or military ID; tribal ID need not have a photo), or two documents that together show your name and current address.",
-    "lineRule": "If you are in line when polls close, you can still vote.",
+    "lineRule": "If you arrive at your polling place by 8 PM, you can still vote.",
     "sources": [
       "https://vote.utah.gov/voter-id-requirements/",
       "https://prod.saltlakecounty.gov/clerk/elections/2026elections/",
       "https://www.saltlakecounty.gov/clerk/elections/vote-in-person/early-voting",
       "https://www.cachecounty.gov/elections/voter-info/dates-deadlines.html",
       "https://millardcounty.gov/wp-content/uploads/2026/08/NOTICE-OF-DATES-LOCATIONS-OF-THE-GENERAL-ELECTION-2026.pdf",
-      "https://www.ncsl.org/elections-and-campaigns/polling-places"
+      "https://www.ncsl.org/elections-and-campaigns/polling-places",
+      "https://le.utah.gov/xcode/Title20A/Chapter1/20A-1-S302.html"
     ],
-    "sourceNote": "Most of vote.utah.gov was blocked (Cloudflare error) except the voter ID page, so dates come from official county clerk pages (Salt Lake, Cache, Millard). Registration deadline: Cache County lists Oct 23; Millard County's notice says 'Friday, October 22' (Oct 22, 2026 is a Thursday), so Oct 23 is used. The statewide end of early voting and the line rule were not confirmed on an official page.",
-    "verifiedAt": "2026-10-31T22:07:43Z"
+    "sourceNote": "Most of vote.utah.gov was blocked (Cloudflare error) except the voter ID page, so dates come from official county clerk pages (Salt Lake, Cache, Millard). Registration deadline: Cache County lists Oct 23; Millard County's notice says 'Friday, October 22' (Oct 22, 2026 is a Thursday), so Oct 23 is used. The statewide end of early voting was not confirmed on an official page. Line rule confirmed from Utah Code 20A-1-302(2).",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   },
   "VA": {
     "name": "Virginia",
@@ -1763,7 +1773,7 @@
     "registrationDeadlinePassed": false,
     "registrationNote": "Regular registration closed Oct 19, 2026. You can still register in person at your county clerk's office and vote absentee through Nov 2, or register and vote at your polling place on Nov 3.",
     "voterId": "Bring an ID: a Wyoming or other-state driver's license or ID card, tribal ID, U.S. passport, military ID, a University of Wyoming, Wyoming community college, or Wyoming public school student ID, a Medicare or Medicaid card, or a Wyoming concealed firearm permit; free state IDs are available at Driver Services.",
-    "lineRule": "If you are in line at 7:00 PM, you can still vote.",
+    "lineRule": "If you are at the polls waiting to vote when they close at 7 PM, you can still vote.",
     "sources": [
       "https://sos.wyo.gov/Elections/Docs/2026/2026_Key_Election_Dates.pdf",
       "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
@@ -1772,9 +1782,10 @@
       "https://sos.wyo.gov/Elections/Legislation/2025.aspx",
       "https://www.ncsl.org/elections-and-campaigns/polling-places",
       "https://www.ncsl.org/elections-and-campaigns/voter-id",
-      "https://ebench-dev.greeninfo.org/state/wyoming/statute/22-13-117"
+      "https://ebench-dev.greeninfo.org/state/wyoming/statute/22-13-117",
+      "https://wyoleg.gov/statutes/compress/title22.pdf"
     ],
-    "sourceNote": "Poll hours come from NCSL, and the line rule comes from a reproduction of W.S. 22-13-117 (via search), because no Secretary of State page I read stated them. NCSL says a voter without ID gets a provisional ballot and must show ID to the county clerk by the next business day; the Secretary of State page did not say this.",
-    "verifiedAt": "2026-10-31T22:18:22Z"
+    "sourceNote": "Poll hours come from NCSL because no Secretary of State page I read stated them. NCSL says a voter without ID gets a provisional ballot and must show ID to the county clerk by the next business day; the Secretary of State page did not say this. Line rule confirmed from Wyo. Stat. 22-13-117.",
+    "verifiedAt": "2026-10-31T22:25:14Z"
   }
 }
