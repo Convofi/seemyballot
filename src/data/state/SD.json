@@ -1,0 +1,193 @@
+{
+  "state": "SD",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the South Dakota Secretary of State's 2026 General Election Candidate List and 2026 Ballot Question Pamphlet (titles and explanations by the Attorney General). Confirm on your official sample ballot.",
+  "sources": [
+    "https://vip.sdsos.gov/candidatelist.aspx?eid=774",
+    "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Ballot%20Question%20Information/2026%20Ballot%20Question%20Files/2026%20BQ/2026GeneralBQPamphletFINAL.pdf",
+    "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026-ballot-questions.aspx",
+    "https://sdsos.gov/elections-voting/election-resources/current-elected-officials.aspx"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "The Attorney General race has a single candidate (Lance Russell) on the Secretary of State's list.",
+    "No Supreme Court retention question: no justice's term expires in 2026 on the Secretary of State's current elected officials list.",
+    "Candidate websites not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "sd-gov-2026-rhoden-larry",
+            "name": "Larry Rhoden",
+            "party": "Republican",
+            "runningMate": "Tony Venhuizen",
+            "incumbent": true
+          },
+          {
+            "key": "sd-gov-2026-ahlers-dan",
+            "name": "Dan Ahlers",
+            "party": "Democratic",
+            "runningMate": "Steven McCleerey",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "sd-sos-2026-baxter-heather",
+            "name": "Heather Baxter",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "sd-sos-2026-lesnar-tamara",
+            "name": "Tamara J. Lesnar",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "sd-sos-2026-davis-terrence",
+            "name": "Terrence Davis",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "sd-ag-2026-russell-lance",
+            "name": "Lance Russell",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+      },
+      {
+        "office": "State Auditor",
+        "candidates": [
+          {
+            "key": "sd-aud-2026-barranco-catherine",
+            "name": "Catherine Barranco",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "sd-aud-2026-cool-tom",
+            "name": "Tom Cool",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "sd-treas-2026-hull-melissa",
+            "name": "Melissa Hull",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "sd-treas-2026-kuipers-margaret",
+            "name": "Margaret Kuipers",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+      },
+      {
+        "office": "Commissioner of School and Public Lands",
+        "candidates": [
+          {
+            "key": "sd-spl-2026-greenfield-brock",
+            "name": "Brock Greenfield",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "sd-spl-2026-mettler-raeann",
+            "name": "Raeann Mettler",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+      },
+      {
+        "office": "Public Utilities Commissioner",
+        "candidates": [
+          {
+            "key": "sd-puc-2026-haggar-don",
+            "name": "Don Haggar",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "sd-puc-2026-kloucek-frank",
+            "name": "Frank Kloucek",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment I",
+        "title": "An Amendment to the South Dakota Constitution that Repeals Expanded Medicaid Coverage if Federal Funding for the Program Drops below 90%.",
+        "summary": "Placed on the ballot by the 2025 Legislature (HJR 5001). In 2022 voters added Medicaid expansion to the constitution, covering adults 18 to 64 with incomes at or below 133% of the federal poverty level (plus a 5% income disregard), and federal law currently pays 90% of its cost. This amendment would end the constitutional requirement for expanded coverage if the federal share drops below 90%, returning Medicaid to covering only low-income children, pregnant women, disabled individuals and the elderly unless the state chose otherwise.",
+        "yesMeans": "You want expanded Medicaid coverage to end under the constitution if federal funding for it falls below 90%.",
+        "noMeans": "You want to leave the South Dakota Constitution as it is.",
+        "source": "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Ballot%20Question%20Information/2026%20Ballot%20Question%20Files/2026%20BQ/2026GeneralBQPamphletFINAL.pdf",
+        "moreInfo": "https://ballotpedia.org/South_Dakota_2026_ballot_measures"
+      },
+      {
+        "id": "Constitutional Amendment J",
+        "title": "An Amendment to the South Dakota Constitution Clarifying that an Individual Must Be a Citizen of the United States to be Eligible to Vote.",
+        "summary": "Placed on the ballot by the 2025 Legislature (SJR 503). Article VII, Section 2 of the constitution already lists U.S. citizenship among the qualifications to vote in state elections. This amendment adds people who are not U.S. citizens to the list of those disqualified from voting, alongside mental incompetence and felony conviction.",
+        "yesMeans": "You want the constitution to state expressly that people who are not U.S. citizens are disqualified from voting.",
+        "noMeans": "You want to leave the South Dakota Constitution as it is.",
+        "source": "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Ballot%20Question%20Information/2026%20Ballot%20Question%20Files/2026%20BQ/2026GeneralBQPamphletFINAL.pdf",
+        "moreInfo": "https://ballotpedia.org/South_Dakota_2026_ballot_measures"
+      },
+      {
+        "id": "Constitutional Amendment K",
+        "title": "An Amendment to the South Dakota Constitution Establishing the Trust for Unclaimed Property Fund.",
+        "summary": "Placed on the ballot by the 2025 Legislature (SJR 505). Unclaimed intangible property, such as bank deposits, refunds, stocks and insurance proceeds left unclaimed for more than three years, is held by the State Treasurer for its owners. This amendment would create a constitutional trust fund for that property, with part of the fund's interest and income distributed to the state general fund in amounts the Legislature sets to promote the fund's growth.",
+        "yesMeans": "You want to create a constitutional trust fund for unclaimed property, with part of its earnings going to the general fund.",
+        "noMeans": "You want to leave the South Dakota Constitution as it is.",
+        "source": "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Ballot%20Question%20Information/2026%20Ballot%20Question%20Files/2026%20BQ/2026GeneralBQPamphletFINAL.pdf",
+        "moreInfo": "https://ballotpedia.org/South_Dakota_2026_ballot_measures"
+      },
+      {
+        "id": "Constitutional Amendment L",
+        "title": "An Amendment to the South Dakota Constitution Requiring that a Proposed Constitutional Amendment or Revision Receive an Affirmative Vote of Sixty Percent of the Votes Cast.",
+        "summary": "Placed on the ballot by the 2025 Legislature (HJR 5003). Today a proposed constitutional amendment or revision becomes part of the South Dakota Constitution if a simple majority of voters approve it. This amendment would require future constitutional amendments and revisions to receive at least 60% of the votes cast to take effect.",
+        "yesMeans": "You want future constitutional amendments and revisions to need 60% of the votes cast to pass.",
+        "noMeans": "You want to leave the South Dakota Constitution as it is.",
+        "source": "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026%20Ballot%20Question%20Information/2026%20Ballot%20Question%20Files/2026%20BQ/2026GeneralBQPamphletFINAL.pdf",
+        "moreInfo": "https://ballotpedia.org/South_Dakota_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
