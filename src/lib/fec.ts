@@ -25,7 +25,10 @@ export type Contest = {
   special: boolean;
   /** FEC district code: "00" for Senate and at-large/delegate House seats. */
   district: string;
-  candidates: Candidate[];
+  /** Incumbent, raised money, or the only DEM/REP option for their party. */
+  likely: Candidate[];
+  /** Every other active filer (may have withdrawn or lost a primary). */
+  other: Candidate[];
 };
 
 export type FederalContests = {
@@ -100,25 +103,34 @@ export function formatName(raw: string): string {
   return [...firstWords, ...lastWords, ...suffixes].join(" ");
 }
 
+const MAJOR = new Set(["DEM", "REP"]);
+
 /**
- * Noise filter. FEC lists every Form 2 filer, so we keep a filer when ANY of:
- *  - they have raised money (has_raised_funds), or
- *  - FEC lists them as the incumbent, or
- *  - they filed as a Democrat or Republican.
- * The last rule exists because major-party nominees in safe seats often never
- * report money (OH-03 Republican nominee, 2026). We'd rather show an extra
- * primary loser than omit a nominee.
- * We drop filers whose inactive_election_years includes 2026: FEC sets this
- * for candidates who told it they aren't running (e.g. retiring incumbents).
+ * FEC sets inactive_election_years for candidates who told it they aren't
+ * running (e.g. retiring incumbents), so those are dropped entirely.
  */
-function keep(c: FecCandidate): boolean {
-  if (c.inactive_election_years?.includes(ELECTION_YEAR)) return false;
-  return (
-    c.has_raised_funds ||
-    c.incumbent_challenge === "I" ||
-    c.party === "DEM" ||
-    c.party === "REP"
-  );
+function active(c: FecCandidate): boolean {
+  return !c.inactive_election_years?.includes(ELECTION_YEAR);
+}
+
+/**
+ * Split a race into likely candidates and other filers. Likely = incumbent,
+ * raised money, or a DEM/REP filer whose party has no money-raiser in this
+ * race (nominees in safe seats often report nothing, e.g. OH-03 GOP, 2026).
+ * Likely is sorted incumbent first, then DEM/REP, then others; ties by last name.
+ */
+function split(rows: FecCandidate[]): { likely: FecCandidate[]; other: FecCandidate[] } {
+  const fundedParties = new Set(rows.filter((r) => r.has_raised_funds).map((r) => r.party));
+  const isLikely = (r: FecCandidate) =>
+    r.incumbent_challenge === "I" ||
+    r.has_raised_funds ||
+    (MAJOR.has(r.party ?? "") && !fundedParties.has(r.party));
+  const rank = (r: FecCandidate) =>
+    r.incumbent_challenge === "I" ? 0 : MAJOR.has(r.party ?? "") ? 1 : 2;
+  return {
+    likely: rows.filter(isLikely).sort((a, b) => rank(a) - rank(b)),
+    other: rows.filter((r) => !isLikely(r)),
+  };
 }
 
 function toCandidate(c: FecCandidate): Candidate {
@@ -154,7 +166,7 @@ function dedupe(rows: FecCandidate[]): FecCandidate[] {
   return [...byPerson.values()];
 }
 
-function candidatesFor(state: string, office: "S" | "H", district: string): Candidate[] {
+function candidatesFor(state: string, office: "S" | "H", district: string) {
   const rows = DATA.races[`${state}-${office}-${district}`];
   if (!rows) {
     // No rows: either nobody filed, or this unit hasn't been fetched yet.
@@ -162,10 +174,12 @@ function candidatesFor(state: string, office: "S" | "H", district: string): Cand
     if (!DATA.progress[unit]?.done) {
       throw new MissingDataError(`FEC snapshot does not include ${state}-${office}-${district} yet`);
     }
-    return [];
+    return { likely: [], other: [] };
   }
-  const sorted = [...rows].sort((a, b) => a.name.localeCompare(b.name)); // by last name
-  return dedupe(sorted).filter(keep).map(toCandidate);
+  // FEC names are "LAST, FIRST", so this is last-name order; split's sort is stable.
+  const sorted = [...rows].sort((a, b) => a.name.localeCompare(b.name));
+  const { likely, other } = split(dedupe(sorted).filter(active));
+  return { likely: likely.map(toCandidate), other: other.map(toCandidate) };
 }
 
 /**
@@ -188,11 +202,11 @@ export async function getFederalContests(
           office: "S",
           special: senateKind === "special",
           district: "00",
-          candidates: candidatesFor(state, "S", "00"),
+          ...candidatesFor(state, "S", "00"),
         }
       : null,
     house: district
-      ? { office: "H", special: false, district, candidates: candidatesFor(state, "H", district) }
+      ? { office: "H", special: false, district, ...candidatesFor(state, "H", district) }
       : null,
   };
 }
