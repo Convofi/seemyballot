@@ -1,0 +1,189 @@
+{
+  "state": "SC",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates are from the South Carolina State Election Commission's official candidate search for the November 3, 2026 Statewide General Election (candidates with Active status); we found no statewide ballot questions this year. Confirm on your official sample ballot.",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://scvotes.gov/voters/2026prep/",
+    "https://www.scstatehouse.gov/sess126_2025-2026/bills/582.htm"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "County and school district ballot questions (e.g. local sales tax and bond referendums) not yet loaded.",
+    "No statewide ballot questions: none appeared in our checks (the Legislature's 2026 Act 245 only ratified the voter-qualification amendment approved by voters in 2024, and a nonpartisan listing showed only county and school district questions), but we could not load an official statewide question list or sample ballot from scvotes.gov.",
+    "No statewide judicial races: South Carolina's Supreme Court and Court of Appeals judges are elected by the General Assembly, not by voters.",
+    "Party labels: United Citizens Party candidates are shown as Other.",
+    "No certified write-in candidates are listed."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "sc-gov-2026-wilson-alan",
+            "name": "Alan Wilson",
+            "party": "Republican",
+            "runningMate": "Mike Reichenbach",
+            "incumbent": false
+          },
+          {
+            "key": "sc-gov-2026-johnson-jermaine",
+            "name": "Jermaine Johnson",
+            "party": "Democratic",
+            "runningMate": "Sam Skardon",
+            "incumbent": false
+          },
+          {
+            "key": "sc-gov-2026-hakim-walid",
+            "name": "Walid Hakim",
+            "party": "Green",
+            "runningMate": "Arnold E Karr",
+            "incumbent": false
+          },
+          {
+            "key": "sc-gov-2026-addison-michael",
+            "name": "Michael Addison",
+            "party": "Other",
+            "runningMate": "Candace Brewer",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "sc-sos-2026-hammond-mark",
+            "name": "Mark Hammond",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "sc-sos-2026-belton-jason",
+            "name": "Jason Belton",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "sc-treas-2026-loftis-curtis",
+            "name": "Curtis Loftis",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "sc-treas-2026-coe-vincent",
+            "name": "Vincent Coe",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "sc-ag-2026-stumbo-david",
+            "name": "David Stumbo",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "sc-ag-2026-hricik-richard",
+            "name": "Richard Hricik",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+      },
+      {
+        "office": "Comptroller General",
+        "candidates": [
+          {
+            "key": "sc-comp-2026-burkhold-mike",
+            "name": "Mike Burkhold",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "sc-comp-2026-boozer-tiffany",
+            "name": "Tiffany Boozer",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+      },
+      {
+        "office": "State Superintendent of Education",
+        "candidates": [
+          {
+            "key": "sc-supt-2026-weaver-ellen",
+            "name": "Ellen Weaver",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "sc-supt-2026-wright-sylvia",
+            "name": "Sylvia Wright",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "sc-supt-2026-ojuok-baba",
+            "name": "Baba Amin Ojuok",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+      },
+      {
+        "office": "Commissioner of Agriculture",
+        "candidates": [
+          {
+            "key": "sc-ag-comm-2026-simpson-cody",
+            "name": "Cody Simpson",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "sc-ag-comm-2026-blanding-deshawn",
+            "name": "DeShawn Blanding",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "sc-ag-comm-2026-sullens-michael",
+            "name": "Michael Sullens",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "sc-ag-comm-2026-nelums-chris",
+            "name": "Chris Nelums",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
