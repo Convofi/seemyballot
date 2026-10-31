@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "fetch-fec": "node scripts/fetch-fec.mjs"
   },
   "dependencies": {
     "next": "16.4.3",
