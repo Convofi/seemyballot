@@ -1,0 +1,144 @@
+{
+  "state": "MD",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Maryland State Board of Elections' 2026 general election statewide candidate list, certified county ballots and ballot questions page. Confirm on your official sample ballot.",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html",
+    "https://elections.maryland.gov/elections/2026/general_ballots/2026_General_Ballot_Certification_Memo.pdf",
+    "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf",
+    "https://elections.maryland.gov/elections/2026/ballot_questions.html",
+    "https://elections.maryland.gov/elections/2026/2026_Ballot_Question_SBE_Letter.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Justice, Supreme Court of Maryland (Circuit 4) retention of Peter Killough is not shown: it appears only on Prince George's County ballots.",
+    "County charter amendments and bond questions (e.g., Anne Arundel, Baltimore City, Baltimore County, Howard, Montgomery) are not shown.",
+    "Question 3's ballot language was rewritten by Supreme Court of Maryland order (Sept. 3, 2026) and the ballot carries no official FOR/AGAINST explanation; the yes/no text here is our plain-English reading of the official language."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor / Lt. Governor",
+        "candidates": [
+          {
+            "key": "md-gov-2026-moore-wes",
+            "name": "Wes Moore",
+            "party": "Democratic",
+            "runningMate": "Aruna Miller",
+            "incumbent": true,
+            "website": "https://wesmoore.com/"
+          },
+          {
+            "key": "md-gov-2026-cox-dan",
+            "name": "Dan Cox",
+            "party": "Republican",
+            "runningMate": "Rob Krop",
+            "incumbent": false
+          },
+          {
+            "key": "md-gov-2026-ellis-andy",
+            "name": "Andy Ellis",
+            "party": "Green",
+            "runningMate": "Owen Silverman Andrews",
+            "incumbent": false,
+            "website": "https://www.gogreen2026.com/"
+          },
+          {
+            "key": "md-gov-2026-white-cathy",
+            "name": "Cathy White",
+            "party": "Other",
+            "runningMate": "Cathy Permut",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html"
+      },
+      {
+        "office": "Comptroller",
+        "candidates": [
+          {
+            "key": "md-comp-2026-lierman-brooke",
+            "name": "Brooke Elizabeth Lierman",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://brookelierman.com/"
+          },
+          {
+            "key": "md-comp-2026-dunn-sonya",
+            "name": "Sonya Dunn",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.votesonyadunn.com/"
+          }
+        ],
+        "source": "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "md-ag-2026-brown-anthony",
+            "name": "Anthony G. Brown",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://anthonybrown.com/"
+          },
+          {
+            "key": "md-ag-2026-rutledge-james",
+            "name": "James B. Rutledge, III",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html"
+      },
+      {
+        "office": "Judge, Appellate Court of Maryland At Large (retention: vote Yes or No on continuance in office)",
+        "candidates": [
+          {
+            "key": "md-app-at-large-2026-friedman-dan",
+            "name": "Dan Friedman",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Question 1",
+        "title": "Arbitration Reform for State Employees Act of 2026",
+        "summary": "This constitutional amendment, passed by the General Assembly, would require the Governor's proposed state budget to include the money needed to carry out each collective bargaining agreement with state employees. That applies to wages, hours, benefits and other terms of employment, whether they were agreed to by both sides or ordered by a neutral decision-maker (arbitrator).",
+        "yesMeans": "The Governor has to include enough money in the proposed state budget to cover the pay and benefits in agreements with state employees, whether those terms were negotiated or decided by a neutral decision-maker.",
+        "noMeans": "The law about funding agreements between the State and state employees stays the same.",
+        "source": "https://elections.maryland.gov/elections/2026/ballot_questions.html",
+        "moreInfo": "https://ballotpedia.org/Maryland_Question_1,_State_Employee_Collective_Bargaining_and_Budget_Amendment_(2026)"
+      },
+      {
+        "id": "Question 2",
+        "title": "Temporary Appointments on the Commission on Judicial Disabilities",
+        "summary": "This constitutional amendment, passed by the General Assembly, would allow temporary substitutes on the Commission on Judicial Disabilities, which handles complaints about judges, when a member is recused or disqualified or a member's term expires. The Commission Chair could recall a former member, or the Governor, at the Chair's request, could appoint a temporary substitute or extend a current member's term until a permanent replacement is appointed.",
+        "yesMeans": "Temporary appointments to the Commission are allowed when a member is recused or disqualified or a term ends without a replacement; only people who meet the constitutional eligibility requirements can be recalled or appointed.",
+        "noMeans": "Current membership rules for the Commission stay the same, and temporary appointments are not allowed.",
+        "source": "https://elections.maryland.gov/elections/2026/ballot_questions.html",
+        "moreInfo": "https://ballotpedia.org/Maryland_Question_2,_Commission_on_Judicial_Disabilities_Vacancies_Amendment_(2026)"
+      },
+      {
+        "id": "Question 3",
+        "title": "Electoral Districts – General Assembly and Representatives in Congress",
+        "summary": "This constitutional amendment, passed by the General Assembly in its 2026 special session, would make the Maryland Constitution's districting requirements apply only to state Senate and House of Delegates districts, and would state that nothing in the Maryland Constitution sets criteria for congressional district boundaries. It would also let the General Assembly give the Supreme Court of Maryland original jurisdiction to review the state's congressional districting plan. The ballot wording was set by a Supreme Court of Maryland order dated September 3, 2026.",
+        "yesMeans": "The state constitution's districting requirements would apply only to General Assembly districts, the constitution would set no criteria for congressional district boundaries, and the General Assembly could give the Supreme Court of Maryland original jurisdiction over challenges to the congressional map.",
+        "noMeans": "The Maryland Constitution's districting provisions are not changed.",
+        "source": "https://elections.maryland.gov/elections/2026/ballot_questions.html",
+        "moreInfo": "https://ballotpedia.org/Maryland_Question_3,_Provide_That_Nothing_in_State_Constitution_Establishes_Criteria_for_Congressional_Redistricting_Amendment_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
