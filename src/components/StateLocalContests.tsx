@@ -1,16 +1,13 @@
-import {
-  getCountyBallot,
-  getLegislativeContests,
-  getMunicipalBallot,
-  getStateBallot,
-  type BallotCandidate,
-  type BallotContest,
-  type BallotMeasure,
-} from "@/lib/stateBallot";
-import { getPositions } from "@/lib/positions";
-import CandidatePositions from "@/components/CandidatePositions";
+"use client";
 
-export { hasStateBallot, hasCountyBallot } from "@/lib/stateBallot";
+import { useEffect, useState, type ReactNode } from "react";
+import type {
+  BallotMeasure,
+  StateBallotCandidate as BallotCandidate,
+  StateBallotContest as BallotContest,
+  StateBallotResponse as Data,
+} from "@/lib/stateBallot";
+import CandidatePositions from "@/components/CandidatePositions";
 
 type Props = {
   /** Two-letter state code, e.g. "OH". */
@@ -24,12 +21,18 @@ type Props = {
   /** District numbers, e.g. "15" / "1". */
   stateSenateDistrict: string | null;
   stateHouseDistrict: string | null;
+  /** Shown instead when we have no data for this state (or it fails to load). */
+  fallback: ReactNode;
+  /** Shown after the state contests when we have no data for this county. */
+  localFallback: ReactNode;
 };
+
+type Result = { url: string } & ({ data: Data } | { missing: true } | { error: string });
 
 /**
  * State, legislative, county and municipal contests plus ballot measures, in
- * ballot order. Renders nothing when we have no data for this state; sections
- * with no data for this voter are omitted.
+ * ballot order, fetched from /api/state-ballot. Sections with no data for
+ * this voter are omitted.
  */
 export default function StateLocalContests({
   state,
@@ -38,15 +41,66 @@ export default function StateLocalContests({
   place,
   stateSenateDistrict,
   stateHouseDistrict,
+  fallback,
+  localFallback,
 }: Props) {
-  const ballot = getStateBallot(state);
-  if (!ballot) return null;
+  const qs = new URLSearchParams({ state });
+  if (county) qs.set("county", county);
+  if (place) qs.set("place", place);
+  if (stateSenateDistrict) qs.set("sd", stateSenateDistrict);
+  if (stateHouseDistrict) qs.set("hd", stateHouseDistrict);
+  const url = `/api/state-ballot?${qs}`;
+  const [result, setResult] = useState<Result | null>(null);
 
-  const legislative = getLegislativeContests(ballot, stateSenateDistrict, stateHouseDistrict);
-  const countyBallot = getCountyBallot(ballot, county);
-  const municipal = getMunicipalBallot(ballot, county, place);
+  useEffect(() => {
+    let cancelled = false;
+    fetch(url)
+      .then(async (res) => {
+        if (res.status === 404) {
+          if (!cancelled) setResult({ url, missing: true });
+          return;
+        }
+        if (!res.ok) throw new Error();
+        const data = (await res.json()) as Data;
+        if (!cancelled) setResult({ url, data });
+      })
+      .catch(() => {
+        if (!cancelled) setResult({ url, error: "State and local ballot data is unavailable right now. Please try again." });
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [url]);
 
-  const legislativeContests = [legislative.senate, legislative.house].filter(
+  const current = result?.url === url ? result : null;
+
+  if (!current) {
+    return (
+      <section className="mt-6" aria-busy="true">
+        <h2 className="text-lg font-semibold">{stateName} and local contests</h2>
+        <p className="mt-4 rounded-lg border border-neutral-200 p-5 text-neutral-600 dark:border-neutral-800 dark:text-neutral-400">
+          Loading state and local contests…
+        </p>
+      </section>
+    );
+  }
+  if ("missing" in current) return fallback;
+  if ("error" in current) {
+    return (
+      <>
+        <p className="mt-6 rounded-lg border border-red-300 bg-red-50 p-4 text-red-900 dark:border-red-800 dark:bg-red-950 dark:text-red-100">
+          {current.error}
+        </p>
+        {fallback}
+      </>
+    );
+  }
+
+  const ballot = current.data;
+  const countyBallot = ballot.county;
+  const municipal = ballot.municipal;
+
+  const legislativeContests = [ballot.legislative.senate, ballot.legislative.house].filter(
     (c): c is BallotContest => c !== null,
   );
   const measures = [
@@ -56,28 +110,31 @@ export default function StateLocalContests({
   ];
 
   return (
-    <section className="mt-6">
-      <h2 className="text-lg font-semibold">{stateName} and local contests</h2>
-      <p className="mt-1 text-sm text-neutral-600 dark:text-neutral-400">{ballot.notice}</p>
+    <>
+      <section className="mt-6">
+        <h2 className="text-lg font-semibold">{stateName} and local contests</h2>
+        <p className="mt-1 text-sm text-neutral-600 dark:text-neutral-400">{ballot.notice}</p>
 
-      <ContestGroup title="Statewide" contests={ballot.statewide.contests} />
-      <ContestGroup title="State legislature" contests={legislativeContests} />
-      <ContestGroup title={county ?? "County"} contests={countyBallot?.contests ?? []} />
-      <ContestGroup title={place ?? "City"} contests={municipal?.contests ?? []} />
+        <ContestGroup title="Statewide" contests={ballot.statewide.contests} />
+        <ContestGroup title="State legislature" contests={legislativeContests} />
+        <ContestGroup title={county ?? "County"} contests={countyBallot?.contests ?? []} />
+        <ContestGroup title={place ?? "City"} contests={municipal?.contests ?? []} />
 
-      {measures.length > 0 && (
-        <>
-          <h3 className="mt-8 text-base font-semibold">Issues and measures</h3>
-          {measures.map((m) => (
-            <MeasureCard key={m.id + m.title} measure={m} />
-          ))}
-        </>
-      )}
+        {measures.length > 0 && (
+          <>
+            <h3 className="mt-8 text-base font-semibold">Issues and measures</h3>
+            {measures.map((m) => (
+              <MeasureCard key={m.id + m.title} measure={m} />
+            ))}
+          </>
+        )}
 
-      {countyBallot?.note && (
-        <p className="mt-4 text-sm text-neutral-600 dark:text-neutral-400">{countyBallot.note}</p>
-      )}
-    </section>
+        {countyBallot?.note && (
+          <p className="mt-4 text-sm text-neutral-600 dark:text-neutral-400">{countyBallot.note}</p>
+        )}
+      </section>
+      {!ballot.hasCounty && localFallback}
+    </>
   );
 }
 
@@ -120,7 +177,7 @@ const pill =
 
 function CandidateRow({ candidate: c }: { candidate: BallotCandidate }) {
   // No entry = not looked up yet (e.g. write-ins); show nothing rather than imply absence.
-  const positions = c.writeIn ? null : getPositions(c.key);
+  const positions = c.positions;
   return (
     <li className="py-3">
       <div className="flex flex-wrap items-center gap-x-2 gap-y-1">

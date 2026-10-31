@@ -1,8 +1,13 @@
-import OH from "@/data/state/OH.json";
+import "server-only";
+import { readFile } from "node:fs/promises";
+import path from "node:path";
+import type { CandidatePositions } from "@/lib/positions";
 
 // Per-state ballots below the federal level, hand-built from official
 // certified lists (see each file's `sources`). One JSON file per state in
 // src/data/state/; states without a file have no data (show the fallback).
+// Server-only: files are read from disk per request by /api/state-ballot so
+// no state's data ships to the browser. Client code may `import type` only.
 
 export type BallotParty =
   | "Democratic"
@@ -76,21 +81,35 @@ export type StateBallot = {
   counties: Record<string, CountyBallot>;
 };
 
-const BALLOTS: Record<string, StateBallot> = {
-  OH: OH as StateBallot,
+// What /api/state-ballot returns: one voter's slice, positions attached.
+export type StateBallotCandidate = BallotCandidate & { positions: CandidatePositions | null };
+export type StateBallotContest = Omit<BallotContest, "candidates"> & { candidates: StateBallotCandidate[] };
+export type StateBallotSection = { contests: StateBallotContest[]; measures: BallotMeasure[] };
+
+/** Just this voter's slice of the state ballot. */
+export type StateBallotResponse = {
+  notice: string;
+  statewide: StateBallotSection;
+  legislative: { senate: StateBallotContest | null; house: StateBallotContest | null };
+  /** null when we have no data for this county. */
+  county: (StateBallotSection & { note?: string }) | null;
+  municipal: StateBallotSection | null;
+  hasCounty: boolean;
+  gaps: string[];
 };
 
-export function getStateBallot(stateAbbr: string): StateBallot | null {
-  return BALLOTS[stateAbbr.toUpperCase()] ?? null;
-}
+const STATE_DIR = path.join(process.cwd(), "src", "data", "state");
 
-export function hasStateBallot(stateAbbr: string): boolean {
-  return getStateBallot(stateAbbr) !== null;
-}
-
-/** True when we have county-level (and possibly municipal) data for this county. */
-export function hasCountyBallot(stateAbbr: string, county: string | null): boolean {
-  return getCountyBallot(getStateBallot(stateAbbr), county) !== null;
+/** Reads src/data/state/{ST}.json; null when the state has no file. */
+export async function readStateBallot(stateAbbr: string): Promise<StateBallot | null> {
+  const st = stateAbbr.toUpperCase();
+  if (!/^[A-Z]{2}$/.test(st)) return null;
+  try {
+    return JSON.parse(await readFile(path.join(STATE_DIR, `${st}.json`), "utf8")) as StateBallot;
+  } catch (e) {
+    if ((e as NodeJS.ErrnoException).code === "ENOENT") return null;
+    throw e;
+  }
 }
 
 export function getCountyBallot(ballot: StateBallot | null, county: string | null): CountyBallot | null {

@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import type { District, LookupResult } from "@/lib/census";
 import FederalContests from "@/components/FederalContests";
 import { HowToVote, OfficialFallback } from "@/components/HowToVote";
-import StateLocalContests, { hasCountyBallot, hasStateBallot } from "@/components/StateLocalContests";
+import StateLocalContests from "@/components/StateLocalContests";
 import { VotingLogistics } from "@/components/VotingLogistics";
 
 type Status =
@@ -138,34 +138,40 @@ function Results({ result: r }: { result: LookupResult }) {
         }
       />
 
-      {hasStateBallot(r.state.abbr) && (
-        <StateLocalContests
-          state={r.state.abbr}
-          stateName={r.state.name}
-          county={r.county}
-          place={r.place}
-          stateSenateDistrict={r.stateSenateDistrict?.number ?? null}
-          stateHouseDistrict={r.stateHouseDistrict?.number ?? null}
-        />
-      )}
-      {!hasCountyBallot(r.state.abbr, r.county) && (
-        <section className="mt-6 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
-          <h2 className="text-lg font-semibold">
-            {hasStateBallot(r.state.abbr) ? "Local contests" : "State and local contests"}
-          </h2>
-          <OfficialFallback
+      <StateLocalContests
+        state={r.state.abbr}
+        stateName={r.state.name}
+        county={r.county}
+        place={r.place}
+        stateSenateDistrict={r.stateSenateDistrict?.number ?? null}
+        stateHouseDistrict={r.stateHouseDistrict?.number ?? null}
+        fallback={
+          <LocalFallback
             state={r.state.abbr}
-            what={
-              hasStateBallot(r.state.abbr)
-                ? "county and city race or local issue details"
-                : "state legislature, local race, or ballot measure details"
-            }
+            title="State and local contests"
+            what="state legislature, local race, or ballot measure details"
           />
-        </section>
-      )}
+        }
+        localFallback={
+          <LocalFallback
+            state={r.state.abbr}
+            title="Local contests"
+            what="county and city race or local issue details"
+          />
+        }
+      />
 
       <VotingLogistics state={r.state.abbr} />
       <HowToVote state={r.state.abbr} />
     </>
+  );
+}
+
+function LocalFallback({ state, title, what }: { state: string; title: string; what: string }) {
+  return (
+    <section className="mt-6 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+      <h2 className="text-lg font-semibold">{title}</h2>
+      <OfficialFallback state={state} what={what} />
+    </section>
   );
 }
