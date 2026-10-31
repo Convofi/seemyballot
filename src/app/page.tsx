@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import type { District, LookupResult } from "@/lib/census";
 import FederalContests from "@/components/FederalContests";
 import { HowToVote, OfficialFallback } from "@/components/HowToVote";
+import { PollingPlace } from "@/components/PollingPlace";
 import StateLocalContests from "@/components/StateLocalContests";
 import { VotingLogistics } from "@/components/VotingLogistics";
 
@@ -161,6 +162,7 @@ function Results({ result: r }: { result: LookupResult }) {
         }
       />
 
+      <PollingPlace address={r.matchedAddress} />
       <VotingLogistics state={r.state.abbr} />
       <HowToVote state={r.state.abbr} />
     </>
