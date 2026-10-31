@@ -1,0 +1,936 @@
+{
+  "AR": {
+    "name": "Arkansas",
+    "pollHours": {
+      "open": "7:30 AM",
+      "close": "7:30 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-19",
+      "end": "2026-11-02",
+      "note": "Weekdays 8 AM to 6 PM and Saturdays 10 AM to 4 PM; no Sundays. Early voting ends at 5 PM on Monday, Nov 2. Off-site locations and hours vary by county; check your county clerk."
+    },
+    "mailBallot": {
+      "whoCanVote": "excuse required",
+      "requestDeadline": "Received by Oct 27, 2026 (by mail, fax, or email); in person by close of business Oct 30, 2026",
+      "returnDeadline": "Received by 7:30 PM on Election Day (by mail)",
+      "note": "You qualify if you will be away on Election Day, are ill or disabled, or are military/overseas. If you hand-deliver your ballot, the county clerk must receive it by close of business Friday, Oct 30. Include a copy of your photo ID."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Arkansas does not offer same-day registration. Registered voters who moved to a new county can update their registration, including on Election Day.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 5, 2026. There is no way left to register for the Nov 3 election.",
+    "voterId": "Bring photo ID, such as an Arkansas driver's license or state ID, U.S. passport, military ID, Arkansas college ID, concealed carry license, public assistance ID, or a free voter verification card from your county clerk; without it you vote a provisional ballot that counts only if you show ID to the county clerk or election commission by noon Monday, Nov 9.",
+    "lineRule": "If you are in line when polls close, you can still vote.",
+    "sources": [
+      "http://www.sos.arkansas.gov/uploads/elections/2026_Election_Calendar_Rev._6-2025_.pdf",
+      "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting",
+      "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information/voting-in-arkansas",
+      "https://media.ark.org/pulaskiclerk/New_Combined_KeyDates2026_Pref.-Gen.pdf",
+      "https://uaex.uada.edu/business-communities/voter-education/docs/elections-in-arkansas-handout-2026.pdf"
+    ],
+    "sourceNote": "The list of accepted photo IDs and the Monday-noon cure deadline come from the University of Arkansas Extension 2026 voter handout, not the Secretary of State site. The in-line-at-closing rule was not confirmed on an official page.",
+    "verifiedAt": "2026-10-31T22:11:25Z"
+  },
+  "AZ": {
+    "name": "Arizona",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "7:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-07",
+      "end": "2026-10-30",
+      "note": "In-person early voting ended at 7:00 PM Friday, Oct 30. Locations vary by county; check your county. From then until 5:00 PM Monday, Nov 2, you can vote early only if you sign a statement that an emergency keeps you from voting on Election Day."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by 5:00 PM on Oct 23, 2026",
+      "returnDeadline": "Received by 7:00 PM on Election Day",
+      "note": "Postmarks do not count; officials suggested mailing by Oct 27. Now, drop your signed ballot at any drop box, early voting site, or polling place/vote center in your county by 7 PM Nov 3."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Arizona does not offer Election Day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 5, 2026 (11:59 PM). If you are not registered, you cannot vote in this election.",
+    "voterId": "Bring one ID showing your name and current address (Arizona driver's license, Arizona ID, tribal ID, or other government ID), or two documents with your name and address such as a utility bill and bank statement; without proper ID you can vote a provisional or conditional provisional ballot.",
+    "lineRule": "If you are in line when polls close at 7 PM, you can still vote.",
+    "sources": [
+      "https://www.azcleanelections.gov/november-3-2026",
+      "https://www.azcleanelections.gov/november-3-2026/maricopa",
+      "https://www.azcleanelections.gov/how-to-vote/what-id-do-i-need-at-the-polls",
+      "https://www.azcleanelections.gov/how-to-vote",
+      "https://www.azleg.gov/ars/16/00565.htm",
+      "https://www.azleg.gov/ars/16/00548.htm",
+      "https://www.azleg.gov/ars/16/00542.htm",
+      "https://www.azleg.gov/ars/16/00579.htm"
+    ],
+    "sourceNote": "azsos.gov (Secretary of State) and Maricopa County election pages returned 403 to every fetch. Dates and hours come from the Citizens Clean Elections Commission (a state agency, azcleanelections.gov) and the Arizona Revised Statutes on azleg.gov.",
+    "verifiedAt": "2026-10-31T22:09:32Z"
+  },
+  "CA": {
+    "name": "California",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-05",
+      "end": "2026-11-02",
+      "note": "Early voting sites could open Oct 5; in Voter's Choice Act counties, vote centers open by Oct 24. Varies by county; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "all-mail state",
+      "returnDeadline": "Postmarked on or before Nov 3, received by Nov 10, 2026",
+      "note": "Every active registered voter is mailed a ballot. You can also return it at a drop box, vote center, or any polling place in your county by 8:00 PM on Election Day."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can still register and vote (conditional, or Same Day, voter registration) at your county elections office, a vote center, or a polling place through Election Day. Your ballot is counted once your registration is verified.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The regular deadline was Oct 19, 2026. From Oct 20 through Nov 3, you can still register and vote in person with Same Day (conditional) registration.",
+    "voterId": "Most voters do not need to show ID; if you are voting for the first time and registered by mail without a driver's license or Social Security number, bring ID or a document with your name and address.",
+    "lineRule": "If you are in line at 8:00 PM when polls close, you can still vote.",
+    "sources": [
+      "https://www.sos.ca.gov/elections/upcoming-elections/general-election-november-3-2026/key-dates-deadlines",
+      "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-dr-shirley-n-weber-phd-encourages-californians-vote-early-2026-general-election",
+      "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/secretary-state-shirley-n-weber-phd-shares-voter-tips-californias-june-2-2026-primary-election",
+      "https://www.sos.ca.gov/elections/voting-resources/voting-california/where-and-how-vote-incorrect"
+    ],
+    "sourceNote": "The 8:00 PM line rule comes from the Secretary of State's June 2, 2026 primary voter-tips release, not a general-election page. The rule is set by statute.",
+    "verifiedAt": "2026-10-31T22:05:01Z"
+  },
+  "CO": {
+    "name": "Colorado",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "7:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-19",
+      "end": "2026-11-02",
+      "note": "Vote in person at any Voter Service and Polling Center in your county. Centers open by Oct 19 and stay open through Election Day, except Sundays and the first Saturday of the period. Locations and hours vary by county; check GoVoteColorado.gov."
+    },
+    "mailBallot": {
+      "whoCanVote": "all-mail state",
+      "returnDeadline": "Received by your county clerk by 7:00 PM on Election Day, Nov 3, 2026",
+      "note": "Every active voter is mailed a ballot. Postmarks do not count, so this close to Election Day use a drop box or drop-off location. If there is a signature or ID problem, you have until 11:59 PM on Nov 11, 2026 to fix it."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register and vote in person at a Voter Service and Polling Center in your county through 7:00 PM on Election Day. Bring an acceptable ID.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The deadline to register and still get a ballot by mail was Oct 26, 2026. You can still register and vote in person at a Voter Service and Polling Center through Election Day.",
+    "voterId": "Bring a Colorado driver's license or state ID, U.S. passport, military ID, or another listed ID; a utility bill, bank statement, paycheck, or government document from the last 60 days with your name and a Colorado address also works.",
+    "lineRule": "If you are in line by 7:00 PM, you can still vote.",
+    "sources": [
+      "https://www.sos.state.co.us/pubs/elections/calendars/2026ElectionCalendar.pdf",
+      "https://www.sos.state.co.us/pubs/elections/FAQs/ElectionDay.html",
+      "https://www.sos.state.co.us/pubs/elections/FAQs/mailBallotsFAQ.html",
+      "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+      "https://www.coloradosos.gov/pubs/elections/vote/acceptableFormsOfID.html"
+    ],
+    "verifiedAt": "2026-10-31T22:09:39Z"
+  },
+  "CT": {
+    "name": "Connecticut",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "8:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-19",
+      "end": "2026-11-01",
+      "note": "Every day, usually 10 AM to 6 PM; open 8 AM to 8 PM on Oct 27 and Oct 29. No early voting on Nov 2. Each town has its own early voting site, which may differ from your Election Day polling place."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Nov 2, 2026",
+      "returnDeadline": "Received by 8:00 PM on Election Day",
+      "note": "Return by mail, at your town's secure drop box, or in person to your Town Clerk. You can fix (cure) a problem with your ballot until 8:00 PM on Election Day."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register and vote on Election Day at your town's designated Same-Day Registration site (not your regular polling place). Bring proof of identity and proof of residence. You must be in line by 8:00 PM.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The regular registration deadline was Oct 16, 2026. You can still register and vote on Nov 3 at your town's Same-Day Registration site.",
+    "voterId": "Poll workers will ask for ID, but photo ID is not required; a Social Security card or any pre-printed ID showing your name and address, signature, or photo works, and if you have no ID you can usually sign an affidavit instead (some first-time voters who registered by mail must show ID or a document with their address, or vote provisionally).",
+    "lineRule": "If you are in line when polls close at 8:00 PM, you can still vote.",
+    "sources": [
+      "https://portal.ct.gov/governor/news/press-releases/2026/10-2026/governor-lamont-and-secretary-thomas-remind-voters-that-a-14-day-period-of-in-person-early-voting",
+      "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
+      "https://portal.ct.gov/sots/election-services/faq/faq---voter-identification",
+      "https://portal.ct.gov/sots/election-services/election-day-registration/election-day-registration"
+    ],
+    "sourceNote": "The general line rule at regular polling places is confirmed on the official page only for Same-Day Registration sites (in line by 8:00 PM).",
+    "verifiedAt": "2026-10-31T22:05:19Z"
+  },
+  "FL": {
+    "name": "Florida",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "7:00 PM",
+      "note": "Local time. Most of Florida is on Eastern time; much of the Panhandle west of the Apalachicola River is on Central time."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-19",
+      "end": "2026-11-01",
+      "note": "Every county must hold early voting Oct 24-31. Counties could add days as early as Oct 19 and as late as Nov 1. Varies by county; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Request by 5:00 PM on Oct 22, 2026 for a ballot to be mailed; you can still pick up your own ballot at your Supervisor of Elections office through Election Day (an emergency affidavit is required from Oct 24 on)",
+      "returnDeadline": "Received by 7:00 PM local time on Election Day (postmarks do not count)",
+      "note": "You can drop off your ballot at your Supervisor of Elections office drop boxes until 7:00 PM on Election Day, or at early voting site drop boxes during early voting. If your signature is missing or does not match, you have until 5:00 PM on Nov 5 to fix it."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Florida does not have same-day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 5, 2026. There is no way left to register for the Nov 3 election.",
+    "voterId": "Bring a current, valid photo ID with your signature, such as a Florida driver's license or ID card, U.S. passport, debit or credit card, military, student, or government employee ID; if the photo ID has no signature, bring a second ID that does; without ID you can vote a provisional ballot.",
+    "lineRule": "If you are in line at 7:00 PM when polls close, you can still vote.",
+    "sources": [
+      "https://dos.fl.gov/elections/for-voters/election-dates/",
+      "https://dos.fl.gov/elections/for-voters/voting/early-voting/",
+      "https://dos.fl.gov/elections/for-voters/voting/vote-by-mail/",
+      "https://dos.fl.gov/elections/for-voters/voting/election-day-voting/"
+    ],
+    "sourceNote": "WebFetch got 403 on www.dos.fl.gov, so we read the official pages with curl instead. The optional early-voting dates (Oct 19 and Nov 1) are our math from the statewide rule on the page (15th to 2nd day before the election). The time-zone note comes from general knowledge.",
+    "verifiedAt": "2026-10-31T22:07:58Z"
+  },
+  "GA": {
+    "name": "Georgia",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "7:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-13",
+      "end": "2026-10-30",
+      "note": "Ends Friday, Oct 30. Sites, hours, and weekend days vary by county; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by your county by Oct 23, 2026",
+      "returnDeadline": "Received by 7:00 PM on Election Day",
+      "note": "Drop boxes are only inside early voting sites during early voting hours (ending Oct 30). After that, mail it or deliver it to your county registrar's office by 7:00 PM on Nov 3."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Georgia does not offer same-day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 5, 2026. Registration is closed for this election.",
+    "voterId": "Bring a physical photo ID such as a Georgia driver's license (even if expired), a state or federal ID card, a free Georgia voter ID card, a U.S. passport, a government employee photo ID, a military ID, or a tribal photo ID; without one you can vote a provisional ballot and must show ID to your county registrar within three days.",
+    "lineRule": "If you are in line by 7:00 PM, you can still vote.",
+    "sources": [
+      "https://georgia.gov/georgia-election-guide",
+      "https://www.ncsl.org/elections-and-campaigns/voter-id"
+    ],
+    "sourceNote": "The Secretary of State site (sos.ga.gov) blocked all fetches (403). Dates, hours, mail rules and the in-line rule come from the official state portal georgia.gov. The list of accepted IDs comes from NCSL (Ga. Code 21-2-417); NCSL also notes a 2025 law (HB 296) requiring the ID to be a physical card, not a digital ID.",
+    "verifiedAt": "2026-10-31T22:09:47Z"
+  },
+  "HI": {
+    "name": "Hawaii",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "7:00 PM",
+      "note": "Hawaii votes by mail. These are Election Day hours for in-person voter service centers. Mail ballots and drop box ballots must arrive by 7:00 PM."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-20",
+      "end": "2026-11-02",
+      "note": "In-person voting at voter service centers, Monday through Saturday (no Sundays), usually 8:00 AM to 4:30 PM. A few sites on Maui and Oahu have shorter schedules; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "all-mail state",
+      "returnDeadline": "Received by 7:00 PM on Election Day (Nov 3, 2026); postmarks do not count",
+      "note": "Ballots were mailed around Oct 16. Drop boxes (places of deposit) are open through 7:00 PM on Nov 3. Sign the return envelope or your ballot will not count."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register and vote in person at any voter service center in your county through 7:00 PM on Election Day.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The paper application deadline was Oct 26, 2026. You can still register and vote in person at a voter service center through Nov 3. Online registration (needs a Hawaii driver license or state ID) is also listed as available at any time.",
+    "voterId": "Most voters do not need ID; if you are a first-time Hawaii voter who registered by mail without a Hawaii license, state ID, or Social Security number, bring a photo ID or a current bill, bank statement, paycheck, or government document with your name and address.",
+    "lineRule": "If you are in line at a voter service center by 7:00 PM, you can still vote.",
+    "sources": [
+      "https://elections.hawaii.gov/?p=20785",
+      "https://elections.hawaii.gov/?p=10513",
+      "https://elections.hawaii.gov/register-to-vote/registration/",
+      "https://elections.hawaii.gov/voting/voting-in-hawaii/",
+      "https://elections.hawaii.gov/?p=21633",
+      "https://www.ncsl.org/elections-and-campaigns/voter-id"
+    ],
+    "sourceNote": "The ID rule for first-time mail registrants comes from Office of Elections registration guidance (search excerpt) and NCSL; no official page fetched stated in-person ID rules directly. The 7:00 PM line rule is from the Office of Elections 2026 primary news release.",
+    "verifiedAt": "2026-10-31T22:08:16Z"
+  },
+  "IA": {
+    "name": "Iowa",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-14",
+      "end": "2026-11-02",
+      "note": "In-person absentee voting at your county auditor's office, weekdays during office hours, ending 5:00 PM Nov 2. Some auditors are also open Saturday, Oct 31; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by 5:00 PM on Oct 19, 2026",
+      "returnDeadline": "Received by 8:00 PM on Election Day",
+      "note": "A postmark is not enough; the county auditor must have your ballot by 8:00 PM Nov 3. You can return it in person to the auditor's office."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register and vote on Election Day at the polling place for your current address. Bring proof of identity and proof of residence (an Iowa driver's license with your current address covers both), or have a registered voter from your precinct attest for you.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The pre-registration deadline was Oct 19, 2026. You can still register and vote at your polling place on Election Day.",
+    "voterId": "Bring an Iowa driver's license or non-operator ID, U.S. passport, military or veteran ID, tribal ID, or your signed Iowa Voter ID PIN card; without one you can vote a provisional ballot and show ID later.",
+    "lineRule": "If you are in line when polls close, you can still vote.",
+    "sources": [
+      "https://www.marioncountyiowa.gov/elections/info/2026_general_election_2026_11_03/",
+      "https://jaspercountyelections.iowa.gov/elections/info/november_3rd_general_election_2026_11_03/",
+      "https://jaspercountyelections.iowa.gov/vote/id/",
+      "https://jaspercountyelections.iowa.gov/vote/absentee/",
+      "https://jaspercountyelections.iowa.gov/vote/register/",
+      "https://www.ncsl.org/elections-and-campaigns/polling-places"
+    ],
+    "sourceNote": "sos.iowa.gov returned 403 to both WebFetch and curl, so facts come from official county auditor sites (Marion, Jasper), which apply state law. The in-line-at-closing rule was not confirmed on an official page.",
+    "verifiedAt": "2026-10-31T22:08:43Z"
+  },
+  "IL": {
+    "name": "Illinois",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "7:00 PM",
+      "note": "Central Time statewide."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-09-24",
+      "end": "2026-11-02",
+      "note": "Starts Sept 24 at election authority offices; other permanent sites open by Oct 19 and must be open weekends. Varies by county; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by mail by Oct 29, 2026; in person at your election office by Nov 2, 2026",
+      "returnDeadline": "Postmarked by Nov 3, received by Nov 17, 2026",
+      "note": "You can also return it to a county drop box or your election office by 7:00 PM on Election Day. Some drop boxes close earlier."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "Grace period registration lets you register and vote at the same time through Election Day. Bring two IDs, one showing your current address. On Election Day, it is offered at your election office and, in many counties, at your home precinct polling place; check your county.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Regular registration closed Oct 6, 2026, and online registration closed Oct 18, 2026. You can still register and vote in person through Nov 3 with grace period registration.",
+    "voterId": "Most registered voters do not need to show ID; bring two IDs (one with your current address) if you are registering on the spot, and some first-time voters who registered by mail may be asked for ID.",
+    "lineRule": "If you are in line when polls close, you can still vote.",
+    "sources": [
+      "https://www.elections.il.gov/Main/CalendarEventsAll.aspx",
+      "https://www.elections.il.gov/Main/FAQ.aspx",
+      "https://effinghamcountyil.gov/wp-content/uploads/2025/07/2026-Election-Campaign-Finance-Calendar.pdf",
+      "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/08/11032026GeneralElectionImportantDates.pdf",
+      "https://www.ilga.gov/Documents/legislation/ilcs/documents/001000050K17-1.htm",
+      "https://illinoisattorneygeneral.gov/dA/4b98baab20/202211-07%20MONITOR%20GENERAL%20ELECTION.pdf",
+      "https://www.ncsl.org/elections-and-campaigns/voter-id",
+      "https://www.nbcchicago.com/news/local/chicago-politics/whats-on-your-ballot-and-what-do-you-need-to-vote-last-minute-illinois-voting-guide/3909122/"
+    ],
+    "sourceNote": "The State Board's calendar page returned errors for date searches, so the full 2026 calendar was read from the Board-issued PDF (amended July 9, 2025) hosted by Effingham County, cross-checked with the DeKalb County clerk and the Board's live calendar list. The in-line rule is from an Illinois Attorney General notice citing 10 ILCS 5/17-1. The polling-place ID details for grace period registration come from news coverage (NBC Chicago) and NCSL; the Chicago election board site blocked fetches. The U.S. Supreme Court's June 2026 Watson v. RNC ruling left post-Election Day receipt of postmarked ballots in place.",
+    "verifiedAt": "2026-10-31T22:06:57Z"
+  },
+  "ME": {
+    "name": "Maine",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "8:00 PM",
+      "note": "Opening time varies by town: between 6:00 AM and 8:00 AM, or as late as 10:00 AM in towns under 500 people. All polls close at 8:00 PM (towns under 100 people may close once everyone has voted). Ask your town clerk for your opening time."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-05",
+      "end": "2026-10-29",
+      "note": "In-person absentee voting at your town or city clerk's office, no reason needed. Hours vary by town."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by your town clerk by Oct 29, 2026 (unless special circumstances apply)",
+      "returnDeadline": "Received by your town or city clerk by 8:00 PM on Election Day (Nov 3, 2026); postmarks do not count",
+      "note": "You can mail it, hand it to your clerk, or use a local ballot drop box. If your ballot has not arrived, you can go to the polls on Nov 3 to cancel it and vote in person."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register in person at your town office or city hall, or at the polls, through the close of polls on Election Day. Bring ID and proof of where you live.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Mail and online registration closed Oct 13, 2026, and registration at the BMV closed Oct 27, 2026. In-person registration stays open through 8:00 PM on Election Day.",
+    "voterId": "Maine does not require ID to vote; if you are registering for the first time, bring a photo ID, birth certificate, Social Security card, or a document with your name and Maine address such as a utility bill or bank statement.",
+    "lineRule": "If you are at the polling place when polls close at 8:00 PM, you can still vote.",
+    "sources": [
+      "https://www.maine.gov/sos/elections-voting/state-of-maine-voter-guide",
+      "https://www.maine.gov/sos/elections-voting/absentee-voting",
+      "https://www.maine.gov/sos/news/maine-voters-can-request-absentee-ballots-nov-3-election-starting-today-ballots-will-be-mailed",
+      "https://www.maine.gov/sos/news/person-no-excuse-absentee-voting-underway-maine",
+      "https://legislature.maine.gov/statutes/21-A/title21-Asec626.html",
+      "https://www.ncsl.org/elections-and-campaigns/voter-id"
+    ],
+    "sourceNote": "WebFetch was blocked (403) by maine.gov; the same official pages were read with curl.",
+    "verifiedAt": "2026-10-31T22:11:18Z"
+  },
+  "MI": {
+    "name": "Michigan",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "note": "Local time. Most of Michigan is on Eastern Time; four Upper Peninsula counties on the Wisconsin border use Central Time."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-24",
+      "end": "2026-11-01",
+      "note": "Every community must offer early voting Oct 24 to Nov 1. Some communities chose to start earlier (up to 29 days before the election) or to add Monday, Nov 2. Sites and hours vary; check your city or township clerk at Michigan.gov/Vote."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Online or by mail: received by 5:00 PM Friday, Oct 30, 2026. In person at your clerk's office: by 4:00 PM Monday, Nov 2, 2026",
+      "returnDeadline": "Received by 8:00 PM on Election Day",
+      "note": "You can return it to your clerk's drop box or clerk's office by 8:00 PM on Election Day, or bring it to your early voting site through Nov 1. Mailing it this close to the election is not recommended."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register in person at your city or township clerk's office through 8:00 PM on Election Day with proof of residency, then vote there with an absentee ballot or at your polling place.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Online and mail registration closed Oct 19, 2026. From Oct 20 through Nov 3, 2026, you can still register in person at your local clerk's office with proof of residency.",
+    "voterId": "You will be asked for a photo ID such as a Michigan driver's license or state ID (expired is OK), another state's license, a U.S. passport, or a military, student, tribal or government photo ID; if you don't have one, you can sign an affidavit and vote a regular ballot.",
+    "lineRule": "If you are in line when polls close at 8:00 PM, you can still vote.",
+    "sources": [
+      "https://www.michigan.gov/sos/elections/voting",
+      "https://www.michigan.gov/sos/elections/voting/early-in-person-voting",
+      "https://www.michigan.gov/sos/elections/voting/absentee-voting",
+      "https://www.michigan.gov/sos/elections/voting/vote-on-election-day",
+      "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+    ],
+    "sourceNote": "The Secretary of State lists only the mandatory early voting dates (Oct 24 to Nov 1, 2026). The optional earlier start and the Monday option are described as rules, not 2026 dates, so they are not used in start/end. Mail request deadlines are stated as 'Friday before Election Day' and 'the day before Election Day'; the 2026 calendar dates were filled in from that rule. The Central Time note for the Upper Peninsula is general knowledge; the official page says only 'local time'.",
+    "verifiedAt": "2026-10-31T22:11:39Z"
+  },
+  "MN": {
+    "name": "Minnesota",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "note": "Some towns with fewer than 500 residents open as late as 10:00 AM. Check your polling place."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-09-18",
+      "end": "2026-11-02",
+      "note": "In-person absentee voting began Sept 18. New in 2026, Early Voting (you put your ballot in the counter yourself) began Oct 16. Every county has at least one location; hours vary, so check your county election office."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "No firm deadline is listed; the state recommended applying by Oct 20, 2026. It is now too late to count on mail, so vote early in person by Nov 2 or at the polls.",
+      "returnDeadline": "Received by Election Day, Nov 3, 2026; if you drop it off yourself, by 5:00 PM on Election Day",
+      "note": "Postmarks do not count. Drop it off at the office that sent it or a ballot drop box. Do not bring an absentee ballot to your polling place. A witness must sign your ballot envelope."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register at your polling place on Election Day with proof of residence, such as a Minnesota driver's license or ID with your current address, or a photo ID plus a recent bill. You can also register when you vote early in person.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Pre-registration closed 20 days before the election (Oct 14, 2026). You can still register when you vote early in person through Nov 2, or at your polling place on Election Day.",
+    "voterId": "If you are already registered at your current address and name, you do not need ID; if you are registering or updating, bring proof of residence, such as a Minnesota driver's license or ID with your current address.",
+    "lineRule": "If you are in line by 8:00 PM, you can still vote.",
+    "sources": [
+      "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-in-person/",
+      "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/vote-early-by-mail/",
+      "https://www.sos.mn.gov/elections-voting/other-ways-to-vote/return-your-ballot/",
+      "https://www.sos.mn.gov/elections-voting/election-day-voting/voting-hours/",
+      "https://www.sos.mn.gov/elections-voting/election-day-voting/do-i-need-to-bring-id/",
+      "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/",
+      "https://www.sos.mn.gov/elections-voting/register-to-vote/register-on-paper/"
+    ],
+    "sourceNote": "sos.mn.gov blocked direct fetches with a bot-check page. All content came from Internet Archive copies of these official pages, taken Sept 25 to Oct 30, 2026. The Oct 14 pre-registration close date is calculated from the official rule that registration closes 20 days before the election.",
+    "verifiedAt": "2026-10-31T22:11:41Z"
+  },
+  "NC": {
+    "name": "North Carolina",
+    "pollHours": {
+      "open": "6:30 AM",
+      "close": "7:30 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-15",
+      "end": "2026-10-31",
+      "note": "Early voting ends at 3:00 PM on Saturday, Oct 31. You can vote at any early voting site in your county. Sites and hours vary by county; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by 5:00 PM on Oct 20, 2026",
+      "returnDeadline": "Received by 7:30 PM on Election Day",
+      "note": "Include a copy of your photo ID (or an ID Exception Form) with your ballot. You can also hand it in at your county board of elections office, or at an early voting site while it is open."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "Only during early voting (Oct 15 to 3:00 PM Oct 31) at an early voting site in your county, with proof of where you live. It is not available on Election Day for most voters.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The regular deadline was 5:00 PM on Oct 9, 2026. Same-day registration at early voting sites ended at 3:00 PM on Saturday, Oct 31, 2026. Registration is now closed for this election.",
+    "voterId": "Bring a photo ID such as a North Carolina driver's license or DMV ID (unexpired or expired one year or less), a U.S. passport, a free voter ID from your county board, an approved student or government employee ID, or a military, veterans or tribal photo ID; if you have none, you can still vote by filling out an ID Exception Form.",
+    "lineRule": "If you are in line at your assigned polling place at 7:30 PM, you can still vote.",
+    "sources": [
+      "https://www.ncsbe.gov/voting/upcoming-election",
+      "https://www.ncsbe.gov/news/events/election-day-2026-general-election",
+      "https://www.ncsbe.gov/voting/vote-early-person",
+      "https://www.ncsbe.gov/voting/vote-mail",
+      "https://www.ncsbe.gov/voting/voter-id",
+      "https://www.ncsbe.gov/registering/how-register/register-person-during-early-voting"
+    ],
+    "verifiedAt": "2026-10-31T22:10:26Z"
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "8:00 PM",
+      "note": "Hours vary by town or city. By law, polls must open by 11:00 AM and cannot close before 7:00 PM. Many places run 7:00 AM to 7:00 PM; Nashua has used 6:00 AM to 8:00 PM. Check your town clerk."
+    },
+    "earlyVoting": {
+      "available": false,
+      "note": "New Hampshire has no in-person early voting. Voters with a qualifying reason can request an absentee ballot from their town or city clerk."
+    },
+    "mailBallot": {
+      "whoCanVote": "excuse required",
+      "requestDeadline": "Request from your town or city clerk by Nov 2, 2026 (the day before the election); a photo ID is required to apply",
+      "returnDeadline": "Received by your town or city clerk by 5:00 PM on Nov 3, 2026 if mailed; by 5:00 PM on Nov 2 if delivered in person",
+      "note": "Allowed reasons include being away on Election Day, disability or illness, religious observance, work or caregiving duties, and a winter storm warning."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register at your polling place on Election Day. Bring proof of U.S. citizenship (such as a birth certificate, passport, or naturalization papers), plus proof of age, identity, and where you live.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Registration before the election closes at your town's last supervisors of the checklist session, 6 to 13 days before Nov 3 (dates vary by town). You can still register at your polling place on Election Day with proof of citizenship.",
+    "voterId": "Bring a photo ID: a driver's license or non-driver ID from any state, a U.S. passport or passport card, or a military ID (expired up to 5 years, or any age if you are 65 or older); student IDs are no longer accepted, and without ID you can vote only if an election official personally knows you.",
+    "lineRule": "If you are in line when polls close, you can still vote.",
+    "sources": [
+      "https://gc.nh.gov/rsa/html/LXIII/659/659-4.htm",
+      "https://gc.nh.gov/rsa/html/LXIII/659/659-13.htm",
+      "https://gc.nh.gov/rsa/html/LXIII/654/654-12.htm",
+      "https://gc.nh.gov/rsa/html/LXIII/654/654-8.htm",
+      "https://www.dover.nh.gov/government/open-government/election-information/2026-general-election/",
+      "https://www.nhpr.org/nh-news/2026-10-14/absentee-ballots-newhampshire-nh-election-voting",
+      "https://www.ncsl.org/elections-and-campaigns/voter-id",
+      "https://www.ncsl.org/elections-and-campaigns/polling-places",
+      "https://law.justia.com/codes/new-hampshire/title-lxiii/chapter-654/section-654-7-a"
+    ],
+    "sourceNote": "sos.nh.gov blocked all fetches (403). Used NH statutes (gc.nh.gov), the City of Dover's 2026 general election page, NHPR, and NCSL instead. The 6:00 AM/8:00 PM range is from search results (Nashua, Green Papers), not an official page. The 6-to-13-day registration window is from Vote411, not an official page. The line rule is from RSA 654:7-a (via Justia) and NHPR reporting of Secretary of State guidance.",
+    "verifiedAt": "2026-10-31T22:09:35Z"
+  },
+  "NJ": {
+    "name": "New Jersey",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "8:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-24",
+      "end": "2026-11-01",
+      "note": "Mon–Sat 10 AM–8 PM, Sun 10 AM–6 PM. Vote at any early voting site in your county; no appointment needed."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "By mail: received by Oct 27, 2026. In person at your County Clerk's office: by 3:00 PM on Nov 2, 2026",
+      "returnDeadline": "Postmarked by Nov 3, received by 8:00 PM Nov 9, 2026; in person or drop box by 8:00 PM on Election Day",
+      "note": "Return it to a county drop box or your county Board of Elections by 8 PM Nov 3. If your signature is missing or doesn't match, the county will send a cure form."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "New Jersey does not offer Election Day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 13, 2026 (21 days before the election). If you are not registered, you cannot vote in this election.",
+    "voterId": "Most voters do not need ID; some first-time voters who registered by mail without a verified driver's license or SSN number must show ID (a photo ID or a current document like a utility bill or bank statement with your name and address) or vote a provisional ballot.",
+    "lineRule": "If you are in line when polls close at 8 PM, you must be allowed to vote.",
+    "sources": [
+      "https://www.nj.gov/state/elections/vote.shtml",
+      "https://nj.gov/state/elections/vote-faq.shtml",
+      "https://www.nj.gov/state/elections/assets/pdf/posters-bill-of-rights/2026-11-bill-of-rights-poster-english.pdf"
+    ],
+    "verifiedAt": "2026-10-31T22:05:09Z"
+  },
+  "NV": {
+    "name": "Nevada",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "7:00 PM",
+      "note": "You can vote at any vote center in your county on Election Day."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-17",
+      "end": "2026-10-30",
+      "note": "Hours and sites vary by county; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "all-mail state",
+      "returnDeadline": "Postmarked by Nov 3, received by 5:00 PM on Nov 7, 2026",
+      "note": "Active voters were mailed a ballot automatically. You can also drop it off at any early voting site or, on Election Day, any vote center until 7:00 PM."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register and vote in person at an early voting site or Election Day vote center. Bring a valid Nevada driver's license, Nevada ID card, DMV interim document, or Nevada tribal ID; if it does not show your current address, also bring proof of residence such as a recent utility bill or bank statement.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Registration by mail or in person closed Oct 6, 2026, and online registration to vote by mail closed Oct 20, 2026. You can still register online or in person through Nov 3 and vote in person.",
+    "voterId": "Most voters do not need ID; you must show ID only if your sample ballot label says 'ID Required' or you are registering on the same day.",
+    "lineRule": "If you are in line when polls close at 7:00 PM, you can still vote.",
+    "sources": [
+      "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:62013096-adbe-425d-b324-ce5f4717b513/original/as/election-guide-26g.pdf",
+      "https://www.ncsl.org/elections-and-campaigns/polling-places",
+      "https://knpr.org/knpr/2020-06-10/polls-close-voters-waiting-will-still-vote",
+      "https://thisisreno.com/2024/11/nevadans-back-photo-id-requirement-for-voting-question-will-return-in-2026/"
+    ],
+    "sourceNote": "nvsos.gov returned empty pages, so dates come from Clark County's official 2026 General Election guide (state law sets the early voting, registration, and mail deadlines). The line rule comes from secondary sources (news reports), not an official page. A voter ID constitutional amendment (Question 7) is on the 2026 ballot and is not in effect for this election.",
+    "verifiedAt": "2026-10-31T22:09:59Z"
+  },
+  "NY": {
+    "name": "New York",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "9:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-24",
+      "end": "2026-11-01",
+      "note": "Early voting has ended. Sites and hours varied by county."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "By mail or online by Oct 24, 2026; in person at your county board of elections by Nov 2, 2026",
+      "returnDeadline": "Postmarked by Nov 3, received by Nov 10, 2026",
+      "note": "Any voter can use an early mail ballot; an absentee ballot needs a reason. You can also drop off your ballot at any poll site in your county or at your county board of elections before 9:00 PM on Election Day."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "New York does not have Election Day registration. The only same-day option was 'Golden Day' on Oct 24, 2026, the first day of early voting, and it has passed.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 24, 2026, which was also Golden Day (register and vote the same day). There is no way left to register for the Nov 3 election.",
+    "voterId": "Most voters do not need to show ID; only first-time voters who did not provide ID when they registered must show a photo ID or a recent utility bill, bank statement, paycheck, or government check, and without it you can still vote an affidavit ballot.",
+    "lineRule": "If you are in line by 9:00 PM, you can stay in line and vote.",
+    "sources": [
+      "https://ag.ny.gov/election-key-dates",
+      "https://portal.311.nyc.gov/article/?kanumber=KA-03691",
+      "https://www.nycvotes.org/how-to-vote/vote-by-mail"
+    ],
+    "sourceNote": "elections.ny.gov (State Board of Elections) blocked both WebFetch and curl with a Cloudflare challenge (403). We used the NY Attorney General's 2026 key-dates page for all dates, NYC's official 311 page for poll hours, ID, and the line rule, and NYC Votes (NYC Campaign Finance Board) for early mail versus absentee eligibility. The NYC pages are written for the city, but these are statewide statutory rules.",
+    "verifiedAt": "2026-10-31T22:09:22Z"
+  },
+  "OH": {
+    "name": "Ohio",
+    "pollHours": {
+      "open": "6:30 AM",
+      "close": "7:30 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-06",
+      "end": "2026-11-01",
+      "note": "In-person early voting is at your county board of elections (or its early voting center). Ohio sets the same hours statewide; the last day is Sunday, Nov 1 (1:00-5:00 PM). There is no early voting on Monday, Nov 2."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by your county board of elections by 8:30 PM on Oct 27, 2026",
+      "returnDeadline": "Received by 7:30 PM on Election Day",
+      "note": "New in 2026: mailed ballots that arrive after 7:30 PM on Election Day are not counted, even if postmarked in time. You can also drop it in your county board's secure drop box; you cannot turn it in at a polling place."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Ohio does not offer same-day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 5, 2026. Registration is closed for this election; if you register now, it applies to the next election.",
+    "voterId": "Bring an unexpired photo ID: Ohio driver's license, state ID or BMV interim ID, U.S. passport or passport card, or U.S. military, Ohio National Guard, or VA ID; without one you can vote a provisional ballot and must show ID at your board of elections within four days.",
+    "lineRule": "If you are in line when polls close, you can still vote.",
+    "sources": [
+      "https://vote.franklincountyohio.gov/",
+      "https://vote.franklincountyohio.gov/voters/absentee-and-early-voting",
+      "https://vote.franklincountyohio.gov/getmedia/530b5727-6332-42e2-8e0b-c981a3c9d87d/AbsenteeEV-scheduleNOV-2026-(1).pdf",
+      "https://vote.franklincountyohio.gov/voters/identification-requirements",
+      "https://starkcountyohio.gov/government/offices/board_of_elections/voting_information/by_mail.php",
+      "https://starkcountyohio.gov/government/offices/board_of_elections/voter_registration.php",
+      "https://codes.ohio.gov/ohio-revised-code/section-3501.32",
+      "https://www.ncsl.org/elections-and-campaigns/voter-id"
+    ],
+    "sourceNote": "The Ohio Secretary of State site (ohiosos.gov) blocked all fetches with a security challenge. Dates and rules come from official county board of elections pages (Franklin and Stark counties). Poll hours and the in-line rule are from R.C. 3501.32 (codes.ohio.gov). The four-day provisional-ID window is from NCSL. The rule that mailed ballots must arrive by 7:30 PM on Election Day comes from Senate Bill 293 (R.C. 3509.05(D)), effective March 20, 2026.",
+    "verifiedAt": "2026-10-31T22:08:27Z"
+  },
+  "PA": {
+    "name": "Pennsylvania",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    "earlyVoting": {
+      "available": false,
+      "note": "Pennsylvania has no traditional early voting. Until 5:00 PM on Oct 27, 2026, you could apply for a mail ballot at your county election office, then fill it out and hand it in there the same day. That deadline has passed."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by 5:00 PM on Oct 27, 2026",
+      "returnDeadline": "Received by your county election office by 8:00 PM on Election Day (postmarks do not count)",
+      "note": "Return it by mail, at a county drop box, or at your county election office. You must return your own ballot unless you have a disability and named an agent in writing. Sign and date the outer envelope, or your ballot will not be counted."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Pennsylvania does not have same-day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 19, 2026. There is no way left to register for the Nov 3 election.",
+    "voterId": "Most voters do not need to show ID; if you are voting at your polling place for the first time, bring a photo ID (such as a PA driver's license or PennDOT ID, U.S. passport, military, student, or employee ID) or a non-photo ID with your name and address (such as a voter registration card, current utility bill, bank statement, paycheck, or government check).",
+    "lineRule": "If you are in line by 8:00 PM, you can vote.",
+    "sources": [
+      "https://www.pa.gov/agencies/vote/elections/upcoming-elections",
+      "https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/mail-ballot-before-election-day",
+      "https://www.pa.gov/agencies/vote/voter-support/mail-in-and-absentee-ballot/return-ballot",
+      "https://www.pa.gov/agencies/vote/voter-support/elections-faqs",
+      "https://www.pa.gov/agencies/vote/voter-support/new-voters",
+      "https://www.pa.gov/agencies/vote/voter-support/rules-at-the-polls"
+    ],
+    "verifiedAt": "2026-10-31T22:10:26Z"
+  },
+  "TN": {
+    "name": "Tennessee",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "note": "Opening time varies by county (7:00, 8:00, or 9:00 AM local). All polls close at the same moment: 8:00 PM Eastern / 7:00 PM Central. Check your county's opening time on GoVoteTN.gov."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-14",
+      "end": "2026-10-29",
+      "note": "Early voting has ended. Sites and hours varied by county."
+    },
+    "mailBallot": {
+      "whoCanVote": "excuse required",
+      "requestDeadline": "Received by your county election commission by Oct 24, 2026",
+      "returnDeadline": "Received by your county election commission by the close of polls on Election Day",
+      "note": "You need an approved reason, such as being 60 or older, being out of your county during early voting and all of Election Day, or illness or disability. You must return it by mail or carrier (USPS, FedEx, UPS); hand delivery is not allowed."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Tennessee does not offer Election Day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 5, 2026. If you are not registered, you cannot vote in this election.",
+    "voterId": "Bring a photo ID issued by Tennessee or the federal government, such as a Tennessee driver's license, passport, or military ID (expired is OK); college student IDs, out-of-state licenses, and local-government IDs are not accepted.",
+    "lineRule": "If you are in line when polls close, you will be allowed to vote.",
+    "sources": [
+      "https://sos.tn.gov/elections/calendar",
+      "https://sos.tn.gov/govotetn",
+      "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/2026-11-03%20Poll%20Opening%20by%20County.pdf",
+      "https://sos.tn.gov/elections/guides/guide-to-absentee-voting",
+      "https://sos.tn.gov/press-releases/secretary-hargett-reminds-tennesseans-tomorrow-is-the-last-day-to-vote-early-more",
+      "https://sos.tn.gov/newsroom/press-releases/everything-voters-need-to-know-for-the-august-6-election-this-thursday"
+    ],
+    "sourceNote": "The line rule is quoted from the Secretary of State's Aug 6, 2026 election press release; it is a standing rule, not specific to that election.",
+    "verifiedAt": "2026-10-31T22:10:48Z"
+  },
+  "TX": {
+    "name": "Texas",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "7:00 PM",
+      "note": "Local time. Most of Texas is on Central time; El Paso and Hudspeth counties are on Mountain time."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-19",
+      "end": "2026-10-30",
+      "note": "Early voting has ended. You could vote at any early voting location in your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "excuse required",
+      "requestDeadline": "Received (not postmarked) by Oct 23, 2026",
+      "returnDeadline": "Received by 7:00 PM on Election Day, or postmarked by 7:00 PM on Nov 3 and received by 5:00 PM on Nov 4, 2026",
+      "note": "You can vote by mail only if you are 65 or older, sick or disabled, out of the county for early voting and Election Day, expected to give birth within three weeks of Election Day, or confined in jail but otherwise eligible."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "Texas does not have same-day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 5, 2026. There is no way left to register for the Nov 3 election.",
+    "voterId": "Bring a Texas driver's license, Texas Election Identification Certificate, Texas personal ID card, Texas handgun license, U.S. military ID with photo, U.S. citizenship certificate with photo, or U.S. passport (expired no more than 4 years, or any length of time if you are 70 or older); if you do not have one and cannot reasonably get one, bring a document like a utility bill, bank statement, paycheck, or voter registration certificate and sign a Reasonable Impediment Declaration.",
+    "lineRule": "If you are inside or waiting to enter your polling place at 7:00 PM, you can still vote.",
+    "sources": [
+      "https://www.sos.texas.gov/elections/voter/important-election-dates.shtml",
+      "https://www.sos.texas.gov/elections/voter/reqabbm.shtml",
+      "https://www.votetexas.gov/voting/need-id.html",
+      "https://www.votetexas.gov/voting/where.html",
+      "https://www.votetexas.gov/voting/early-voting.html",
+      "https://texas.public.law/statutes/tex._election_code_section_41.032"
+    ],
+    "sourceNote": "The line rule comes from the text of Texas Election Code 41.032(a) (\"inside or waiting to enter the polling place at 7 p.m.\") as shown in search results from texas.public.law. The official statute site would not render, and the Secretary of State's poll-worker PDF (7-30f) could not be parsed. The Central/Mountain time note comes from general knowledge, not a page we read.",
+    "verifiedAt": "2026-10-31T22:07:17Z"
+  },
+  "UT": {
+    "name": "Utah",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "note": "Election Day voting is at county vote centers."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-20",
+      "end": "2026-10-31",
+      "note": "Varies by county; check your county. Early voting began about two weeks before Election Day; most counties end on Friday, Oct 30 (Salt Lake County also has Saturday, Oct 31, 10 AM to 2 PM at the Government Center)."
+    },
+    "mailBallot": {
+      "whoCanVote": "all-mail state",
+      "returnDeadline": "Received by 8:00 PM on Election Day",
+      "note": "Utah no longer counts mailed ballots that arrive after Election Day, even if postmarked on time. Use a county drop box or a vote center by 8:00 PM on Nov 3 instead of mailing late."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register at an Election Day vote center and vote a provisional ballot. Bring one ID proving who you are and one proving where you live.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The deadline to register and get a ballot by mail was Oct 23, 2026. You can still register and vote a provisional ballot in person at a vote center on Election Day.",
+    "voterId": "Bring one valid photo ID with your name (such as a Utah driver license, state ID, U.S. passport, or military ID; tribal ID need not have a photo), or two documents that together show your name and current address.",
+    "lineRule": "If you are in line when polls close, you can still vote.",
+    "sources": [
+      "https://vote.utah.gov/voter-id-requirements/",
+      "https://prod.saltlakecounty.gov/clerk/elections/2026elections/",
+      "https://www.saltlakecounty.gov/clerk/elections/vote-in-person/early-voting",
+      "https://www.cachecounty.gov/elections/voter-info/dates-deadlines.html",
+      "https://millardcounty.gov/wp-content/uploads/2026/08/NOTICE-OF-DATES-LOCATIONS-OF-THE-GENERAL-ELECTION-2026.pdf",
+      "https://www.ncsl.org/elections-and-campaigns/polling-places"
+    ],
+    "sourceNote": "Most of vote.utah.gov was blocked (Cloudflare error) except the voter ID page, so dates come from official county clerk pages (Salt Lake, Cache, Millard). Registration deadline: Cache County lists Oct 23; Millard County's notice says 'Friday, October 22' (Oct 22, 2026 is a Thursday), so Oct 23 is used. The statewide end of early voting and the line rule were not confirmed on an official page.",
+    "verifiedAt": "2026-10-31T22:07:43Z"
+  },
+  "VA": {
+    "name": "Virginia",
+    "pollHours": {
+      "open": "6:00 AM",
+      "close": "7:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-09-18",
+      "end": "2026-10-31",
+      "note": "Ended 5:00 PM Saturday, Oct 31, 2026, at your local registrar's office or satellite sites. No early voting on Nov 2."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by your local registrar by 5:00 PM on Oct 23, 2026",
+      "returnDeadline": "Postmarked by Nov 3, received by noon Nov 6, 2026; in person or at a drop-off location by 7:00 PM on Election Day",
+      "note": "You can return your ballot to your registrar's office or a local drop-off location by 7 PM Nov 3. Emergency absentee voting in person is available until 2 PM Nov 2 only for certain late emergencies."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register at your polling place on Election Day and vote a provisional ballot, which counts once your registration is approved.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The regular deadline was Oct 23, 2026 (5 PM in person, 11:59 PM online). After that, you can still register and vote a provisional ballot in person at your polling place on Election Day.",
+    "voterId": "Show an acceptable ID such as a Virginia driver's license (expired is OK), passport, or student ID; if you have none, you can sign an ID Confirmation Statement and still vote a regular ballot.",
+    "lineRule": "If you are in line at 7:00 PM, you will be allowed to vote.",
+    "sources": [
+      "https://www.elections.virginia.gov/casting-a-ballot/calendars-schedules/upcoming-elections.html",
+      "https://www.elections.virginia.gov/casting-a-ballot/",
+      "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/",
+      "https://www.elections.virginia.gov/casting-a-ballot/early-voting-office-locations/",
+      "https://www.elections.virginia.gov/registration/same-day-voter-registration/",
+      "https://www.elections.virginia.gov/registration/voterid/",
+      "https://www.elections.virginia.gov/registration/how-to-register/",
+      "https://www.elections.virginia.gov/media/castyourballot/deadlines-calendars/2026-Deadlines-Calendar-(10-13-26).xlsx"
+    ],
+    "verifiedAt": "2026-10-31T22:06:15Z"
+  },
+  "WA": {
+    "name": "Washington",
+    "pollHours": {
+      "open": "8:00 AM",
+      "close": "8:00 PM",
+      "note": "Washington votes by mail; there are no traditional polling places. County voting centers are open during business hours (opening time varies by county; 8:00 AM is typical but not set by state law) and close at 8:00 PM on Election Day. Drop boxes close at 8:00 PM."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-16",
+      "end": "2026-11-02",
+      "note": "All voters get a ballot by mail. You can also vote in person at a county voting center from Oct 16 through Election Day (until 8 PM on Nov 3). Hours vary by county; check your county."
+    },
+    "mailBallot": {
+      "whoCanVote": "all-mail state",
+      "returnDeadline": "In a drop box or voting center by 8:00 PM on Election Day, or postmarked by Nov 3 and received by Nov 23, 2026",
+      "note": "No stamp needed. The state advises mailing more than a week before Election Day, so this close to the election a drop box or voting center is safest; if you mail it, ask a postal clerk to postmark it."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register or update your registration in person at a county voting center or elections office until 8 PM on Election Day and vote then.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The online and mail deadline was Oct 26, 2026. You can still register in person at a voting center or county elections office until 8 PM on Nov 3.",
+    "voterId": "No ID is needed to vote by mail; your signature is checked. At a voting center, show a photo ID (driver's license, state ID, student, tribal, or employer ID) or sign a declaration; without ID you vote a provisional ballot counted if your signature matches.",
+    "lineRule": "If you are inside or in line at a voting center at 8:00 PM, you must be allowed to vote. Drop boxes close at 8:00 PM sharp.",
+    "sources": [
+      "https://www.sos.wa.gov/elections/elections-calendar/dates-and-deadlines",
+      "https://www.sos.wa.gov/sites/default/files/2026-10/GeneralElectionFacts2026.pdf",
+      "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-voting-mail",
+      "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-about-elections",
+      "https://www.sos.wa.gov/elections/voters/voter-registration/register-vote-washington",
+      "https://www.sos.wa.gov/about-office/news/2026/us-supreme-court-rules-favor-accepting-ballots-postmarked-time-received-after-election-day",
+      "https://app.leg.wa.gov/rcw/default.aspx?cite=29A.40.160",
+      "https://app.leg.wa.gov/rcw/default.aspx?cite=29A.40.091",
+      "https://app.leg.wa.gov/rcw/default.aspx?cite=29A.60.190"
+    ],
+    "sourceNote": "The Nov 23 receipt date is derived from state law (RCW 29A.60.190: postmarked ballots received by the day before county certification) and the state's Nov 24 certification date. The line rule and voting-center ID rule come from RCW 29A.40.160.",
+    "verifiedAt": "2026-10-31T22:08:12Z"
+  },
+  "WI": {
+    "name": "Wisconsin",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-20",
+      "end": "2026-11-01",
+      "note": "In-person absentee voting at your municipal clerk's office. Days and hours vary by city, village, or town, and some offices offer only limited hours; check MyVote or your clerk."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Received by your municipal clerk by 5:00 PM on Oct 29, 2026 (photo ID copy required with request)",
+      "returnDeadline": "Received by your municipal clerk by 8:00 PM on Election Day, Nov 3, 2026",
+      "note": "Return by mail or deliver it to your municipal clerk. Postmarks do not count; a ballot that arrives after 8:00 PM on Nov 3 is not counted."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register at your polling place on Election Day, Nov 3, 2026, from 7:00 AM to 8:00 PM. Bring a proof of residence document.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Online and mail registration closed Oct 14, 2026. In-person registration at your municipal clerk's office closed at 5:00 PM on Oct 30, 2026. You can still register at your polling place on Election Day with proof of residence.",
+    "voterId": "Bring a Wisconsin driver's license or state ID card, U.S. passport, military ID, tribal ID, veterans ID, naturalization certificate issued within 2 years, or a qualifying Wisconsin college or university ID; an expired license, state ID, military ID, or passport works only if it expired after the Nov 5, 2024 general election.",
+    "lineRule": "If you are in line when polls close at 8:00 PM, you can still vote.",
+    "sources": [
+      "https://myvote.wi.gov/en-us/Voter-Deadlines",
+      "https://docs.legis.wisconsin.gov/document/statutes/6.78(4)",
+      "https://docs.legis.wisconsin.gov/document/statutes/5.02(6m)",
+      "https://townofgrant-portage.wi.gov/2026-general-election-information/"
+    ],
+    "sourceNote": "elections.wi.gov and myvote.wi.gov returned 403 to direct fetches. Deadlines came from the Internet Archive copy of the official MyVote Voter Deadlines page (snapshot Oct 23, 2026). Poll hours, the line rule, and photo ID rules came from the Wisconsin Statutes (6.78 and 5.02(6m)) on docs.legis.wisconsin.gov.",
+    "verifiedAt": "2026-10-31T22:08:24Z"
+  },
+  "WV": {
+    "name": "West Virginia",
+    "pollHours": {
+      "open": "6:30 AM",
+      "close": "7:30 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-21",
+      "end": "2026-10-31",
+      "note": "Early voting ends Saturday, Oct 31 at 5:00 PM. Held at the county courthouse, an annex, or a designated community location."
+    },
+    "mailBallot": {
+      "whoCanVote": "excuse required",
+      "requestDeadline": "Received by your county clerk by Oct 28, 2026",
+      "returnDeadline": "Postmarked by Nov 3, received by Nov 9, 2026 (hand-deliver to the county clerk by Nov 2)",
+      "note": "Excuses include illness or disability, travel, school, or work away from your county. Ballots cannot be returned at polling places; one person may hand-deliver no more than two voters' ballots."
+    },
+    "sameDayRegistration": false,
+    "sameDayRegistrationNote": "West Virginia does not offer same-day registration.",
+    "registrationDeadlinePassed": true,
+    "registrationNote": "The deadline was Oct 13, 2026. No registration option remains for Nov 3.",
+    "voterId": "Bring a valid, unexpired photo ID, such as a West Virginia or other state driver's license or ID, U.S. passport, military ID, or a photo student ID from a West Virginia school; without one you can vote a provisional ballot, and county clerks issue free voter ID cards.",
+    "lineRule": "If you are in line when polls close at 7:30 PM, you will get a waiting-voter permit and can still vote.",
+    "sources": [
+      "https://sos.wv.gov/elections/Pages/GoVoteWV.aspx",
+      "https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx",
+      "https://sos.wv.gov/be-registered-and-ready",
+      "https://code.wvlegislature.gov/3-1-31/",
+      "https://code.wvlegislature.gov/3-1-32/",
+      "https://code.wvlegislature.gov/3-3-1/"
+    ],
+    "sourceNote": "Poll hours, line rule, and absentee excuse list come from the West Virginia Code (official legislature site) because the Secretary of State pages fetched did not state them.",
+    "verifiedAt": "2026-10-31T22:05:56Z"
+  }
+}
