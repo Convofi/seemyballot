@@ -1,0 +1,107 @@
+{
+  "state": "MO",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Missouri Secretary of State's certified candidate list for the November 3, 2026 general election (certified August 25, 2026) and its 2026 Ballot Measures page with official ballot titles and fair ballot language. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf",
+    "https://www.sos.mo.gov/petitions/2026BallotMeasures"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Missouri Court of Appeals retention questions (Eastern, Southern and Western Districts) and circuit judge retention questions are voted on by district or circuit, not statewide, and are not loaded.",
+    "No certified write-in candidates are shown; the Secretary of State's certified list does not include them."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "State Auditor",
+        "candidates": [
+          {
+            "key": "mo-auditor-2026-fitzpatrick-scott",
+            "name": "Scott Fitzpatrick",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "mo-auditor-2026-wilson-quentin",
+            "name": "Quentin Wilson",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "mo-auditor-2026-coffell-dustin",
+            "name": "Dustin Coffell",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf"
+      },
+      {
+        "office": "Judge of the Missouri Supreme Court (retention: vote yes or no on whether to retain)",
+        "candidates": [
+          {
+            "key": "mo-supreme-court-2026-wilson-paul",
+            "name": "Paul C. Wilson",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Amendment 3",
+        "title": "Repeal the 2024 reproductive healthcare rights amendment; allow abortion only in limited cases; prohibit gender transition procedures for minors",
+        "summary": "Referred by the General Assembly (HCS HJR 73), this amendment would repeal the abortion-rights section voters added to the Missouri Constitution in 2024 (Article I, Section 36). It would allow abortion to be limited to medical emergencies, fetal anomalies, and rape or incest before twelve weeks, allow laws regulating abortion, require parental or judicial consent for minors, and bar public funding of abortion except in limited cases. It would also prohibit gender transition surgeries, cross-sex hormones and puberty blockers for minors, with exceptions for specific medical conditions.",
+        "yesMeans": "You approve repealing the 2024 reproductive healthcare rights amendment, allowing abortion to be restricted to medical emergencies, rape and incest under twelve weeks, and fetal anomalies, and prohibiting gender transition procedures for minors.",
+        "noMeans": "The 2024 amendment stays in place, abortion remains available through fetal viability, and gender transition procedures for minors are not prohibited by this amendment.",
+        "source": "https://www.sos.mo.gov/petitions/2026BallotMeasures",
+        "moreInfo": "https://ballotpedia.org/Missouri_Amendment_3,_Prohibit_Abortion_and_Gender_Transition_Procedures_for_Minors_Amendment_(2026)"
+      },
+      {
+        "id": "Amendment 6",
+        "title": "Make initiative and referendum a fundamental right and restrict legislative changes to voter-approved laws",
+        "summary": "Proposed by initiative petition, this amendment would make the initiative and referendum process a fundamental right and allow courts to revise ballot summaries through lawsuits. The legislature could not weaken initiative or referendum powers, and could change or repeal a voter-enacted law, or pass a law similar to one voters rejected by referendum, only with at least 80% of both chambers and voter approval. Current signature requirements and simple-majority approval would stay the same.",
+        "yesMeans": "Lawmakers could no longer directly amend laws passed by initiative; any change would need at least 80% of each chamber and a vote of the people, and the legislature could not limit the initiative and referendum process. Current signature and majority-vote requirements stay the same.",
+        "noMeans": "The current constitutional provisions on initiatives and referenda stay as they are.",
+        "source": "https://www.sos.mo.gov/petitions/2026BallotMeasures",
+        "moreInfo": "https://ballotpedia.org/Missouri_Amendment_6,_Initiative_and_Referendum_Powers_and_Legislative_Change_Requirements_Amendment_(2026)"
+      },
+      {
+        "id": "Amendment 7",
+        "title": "Create a permanent public endowment fund (Show-Me Prosperity Fund) to replace state-imposed taxes",
+        "summary": "Referred by the General Assembly (SS SCS SJR 95), this amendment would create the Show-Me Prosperity Fund, a permanent public endowment meant to eventually support state government in place of state taxes. The legislature could not spend from the fund until the State Treasurer certifies its investment earnings are enough to eliminate state-imposed taxes; spending would then be capped at 3% of the fund's five-year average value and the eliminated taxes could not be reimposed, unless the fund becomes insolvent or falls short. It would have no immediate effect on taxes.",
+        "yesMeans": "You approve creating the Show-Me Prosperity Fund with the goal of eliminating state-imposed taxes once its investment earnings are large enough.",
+        "noMeans": "The Missouri Constitution is not amended and no such endowment fund is created.",
+        "source": "https://www.sos.mo.gov/petitions/2026BallotMeasures",
+        "moreInfo": "https://ballotpedia.org/Missouri_Amendment_7,_Creation_of_Show-Me_Prosperity_Investment_Fund_for_State_Tax_Reduction_and_Elimination_Amendment_(2026)"
+      },
+      {
+        "id": "Amendment 8",
+        "title": "Preserve the election of county sheriffs and limit their removal",
+        "summary": "Referred by the General Assembly (CCS HCS SS SJR 87), this amendment would put in the Missouri Constitution the requirement, now in state law, that each county elect a sheriff every four years. It would also add sheriffs' duties to the Constitution and allow an elected sheriff to be removed only through a writ of quo warranto brought by the Attorney General.",
+        "yesMeans": "Counties would be constitutionally required to elect a sheriff every four years, sheriffs' duties would be written into the Constitution, and a sheriff could be removed only through a quo warranto action by the Attorney General.",
+        "noMeans": "The Constitution is not amended; current state laws on electing sheriffs to four-year terms and on their duties and removal stay in effect unless changed by law.",
+        "source": "https://www.sos.mo.gov/petitions/2026BallotMeasures",
+        "moreInfo": "https://ballotpedia.org/Missouri_Amendment_8,_Require_Election_of_County_Sheriffs_Amendment_(2026)"
+      },
+      {
+        "id": "Proposition A",
+        "title": "Referendum on House Bill No. 1 (2025 Second Extraordinary Session): new congressional district map",
+        "summary": "Placed on the ballot by referendum petition, this asks voters whether to approve the congressional district map the General Assembly passed in a 2025 special session. The law repeals the map enacted in 2022 and replaces it with new boundaries for Missouri's eight U.S. House districts.",
+        "yesMeans": "You approve the 2025 law, and the new congressional district boundaries take effect.",
+        "noMeans": "The 2025 law is rejected, and the congressional district boundaries enacted in 2022 stay in place.",
+        "source": "https://www.sos.mo.gov/petitions/2026BallotMeasures",
+        "moreInfo": "https://ballotpedia.org/Missouri_Proposition_A,_Congressional_Map_Referendum_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
