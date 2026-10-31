@@ -127,12 +127,31 @@ const missing = [...queued.keys()].filter((k) => !(k in data));
 for (const k of missing) fail(k, "queued key has no entry (use a not-found status rather than leaving it out)");
 
 // ---------- links ----------
+import { execFile } from "node:child_process";
+const CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+const CHALLENGE = /just a moment|checking your browser|403 forbidden|access denied|attention required/i;
+function chromeRenders(url) {
+  return new Promise((resolve) => {
+    execFile(
+      CHROME,
+      ["--headless=new", "--disable-gpu", "--virtual-time-budget=8000", "--dump-dom", url],
+      { timeout: 30_000, maxBuffer: 20 * 1024 * 1024 },
+      (err, stdout) => {
+        if (err || !stdout) return resolve(false);
+        const text = stdout.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<[^>]+>/g, " ");
+        resolve(text.replace(/\s+/g, " ").trim().length > 400 && !CHALLENGE.test(stdout.slice(0, 5000)));
+      },
+    );
+  });
+}
 async function check(url) {
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
       const res = await fetch(url, { headers: BROWSER_HEADERS, redirect: "follow", signal: AbortSignal.timeout(20_000) });
       await res.body?.cancel();
       if (res.status >= 200 && res.status < 400) return null;
+      // Bot walls answer 403 to plain fetches but often render in a real browser.
+      if (res.status === 403 && (await chromeRenders(url))) return null;
       if (attempt === 2 || res.status < 500) return `HTTP ${res.status}`;
     } catch (e) {
       if (attempt === 2) return e.cause?.code ?? e.name ?? String(e);

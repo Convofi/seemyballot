@@ -195,3 +195,7 @@ Web search quota is shared across agents and may be exhausted. Use these, in ord
 3. **`knownWebsite`** in the queue file (from state certified lists), when present.
 4. **Guess-and-verify** common patterns (`firstlast.com`, `lastforcongress.com`, `lastforgovernor.com`, `votelast.com`) with `curl -sIL`; accept only if the page clearly names the candidate and office.
 Never use a party's page, a PAC page, or a social profile as the website.
+
+## Sites that answer 403 to curl but render in headless Chrome
+
+The merge-check now accepts a `sourceUrl` or `website` that returns HTTP 403 to a plain fetch **if headless Chrome renders real page content** (not a "Just a moment" / "Checking your browser" challenge). So when `curl` gets a 403, read the site with `--dump-dom`; if the issues page renders, research the candidate normally with status `ok`. Use `website_unreachable` only when headless Chrome also fails.
