@@ -1,0 +1,248 @@
+{
+  "state": "NM",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the New Mexico Secretary of State's 2026 General Election contest/candidate list and the Secretary of State's 2026 General Election Voter Guide. Confirm on your official sample ballot.",
+  "sources": [
+    "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99",
+    "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+    "https://www.nmlegis.gov/Publications/New_Mexico_State_Government/Constitutional_Amendment/Constitutional_Amendments_2026.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "District court and Metropolitan Court retention questions, magistrate judges and Public Education Commission districts are district- or county-based and not loaded.",
+    "Constitutional amendment titles are shortened where the full ballot title is very long; see the Voter Guide for the exact wording."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "nm-gov-2026-hull-greggory",
+            "name": "Greggory D. Hull",
+            "party": "Republican",
+            "incumbent": false,
+            "runningMate": "David M. Gallegos"
+          },
+          {
+            "key": "nm-gov-2026-haaland-deb",
+            "name": "Deb Haaland",
+            "party": "Democratic",
+            "incumbent": false,
+            "runningMate": "Stephanie Garcia Richard"
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "nm-sos-2026-lopez-askin-amanda",
+            "name": "Amanda López Askin",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "nm-sos-2026-goolsby-ramona",
+            "name": "Ramona L. Goolsby",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "nm-ag-2026-torrez-raul",
+            "name": "Raúl Torrez",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "nm-ag-2026-kane-samuel",
+            "name": "Samuel Isaiah Kane, Sr.",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "State Auditor",
+        "candidates": [
+          {
+            "key": "nm-aud-2026-lawrence-joshua",
+            "name": "Joshua James Ryan Lawrence",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "nm-aud-2026-maestas-joseph",
+            "name": "Joseph M. Maestas",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "nm-treas-2026-ellison-james",
+            "name": "James F. Ellison",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "nm-treas-2026-montoya-laura",
+            "name": "Laura M. Montoya",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "Commissioner of Public Lands",
+        "candidates": [
+          {
+            "key": "nm-lands-2026-perry-michael",
+            "name": "Michael Jack Perry",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "nm-lands-2026-sanchez-juan",
+            "name": "Juan de Jesus Sanchez, III",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "Judge of the Court of Appeals, Position 1",
+        "candidates": [
+          {
+            "key": "nm-coa-pos1-2026-houghton-kris",
+            "name": "Kris Houghton",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "Supreme Court Justice retention: David K. Thomson (Yes/No vote to retain; 57% Yes needed)",
+        "candidates": [
+          {
+            "key": "nm-sc-retain-2026-thomson-david",
+            "name": "David K. Thomson",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "Supreme Court Justice retention: Shannon Bacon (Yes/No vote to retain; 57% Yes needed)",
+        "candidates": [
+          {
+            "key": "nm-sc-retain-2026-bacon-shannon",
+            "name": "Shannon Bacon",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      },
+      {
+        "office": "Court of Appeals Judge retention: J. Miles Hanisee (Yes/No vote to retain; 57% Yes needed)",
+        "candidates": [
+          {
+            "key": "nm-coa-retain-2026-hanisee-miles",
+            "name": "J. Miles Hanisee",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=99"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment 1",
+        "title": "Proposing an amendment to Article 4, Section 22 of the Constitution of New Mexico to require the governor to provide veto messages on all bills vetoed in whole or in part and to provide that all bills passed by the legislature and not acted on by the governor will become law",
+        "summary": "Placed on the ballot by the Legislature, this amendment would end the governor's \"pocket veto,\" where a bill passed in the last three days of a session dies if the governor simply does not sign it. Instead, such a bill would become law unless the governor issues a veto with a written, substantive explanation within 20 days after the Legislature adjourns.",
+        "yesMeans": "A vote FOR requires written explanations for all vetoes and makes unsigned bills become law automatically.",
+        "noMeans": "A vote AGAINST keeps the current rules, under which the governor can block late-session bills by not acting on them.",
+        "source": "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+        "moreInfo": "https://ballotpedia.org/New_Mexico_2026_ballot_measures"
+      },
+      {
+        "id": "Constitutional Amendment 2",
+        "title": "Proposing to amend Article 7, Section 1 of the Constitution of New Mexico to remove the requirement that school elections be separate from partisan elections",
+        "summary": "Placed on the ballot by the Legislature, this amendment would remove the constitutional requirement that school elections be held separately from partisan elections. School districts could put bond and mill levy questions on general election ballots, and the Legislature could allow school board elections to be held with partisan elections.",
+        "yesMeans": "A vote FOR allows school elections and school tax questions to be held at the same time as partisan elections such as the November general election.",
+        "noMeans": "A vote AGAINST keeps school elections separate from partisan elections.",
+        "source": "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+        "moreInfo": "https://ballotpedia.org/New_Mexico_2026_ballot_measures"
+      },
+      {
+        "id": "Constitutional Amendment 3",
+        "title": "Proposing an amendment to Article 12, Section 13 of the Constitution of New Mexico to establish nominating committees to provide lists of nominees to the governor for appointment of nonstudent members to the boards of regents of state educational institutions",
+        "summary": "Placed on the ballot by the Legislature, this amendment would create bipartisan or nonpartisan nominating committees for each of the 10 state universities and other state educational institutions, and the governor would have to appoint nonstudent regents from those committees' lists. Student regents would be chosen from a list supplied by the elected student government rather than the institution's president, and nonstudent regents could not have changed party registration in the 12 months before appointment.",
+        "yesMeans": "A vote FOR limits the governor's regent appointments to nominees chosen by nominating committees and student governments.",
+        "noMeans": "A vote AGAINST keeps the current system, in which the governor appoints regents (with Senate approval) subject to only a few qualifications.",
+        "source": "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+        "moreInfo": "https://ballotpedia.org/New_Mexico_2026_ballot_measures"
+      },
+      {
+        "id": "Constitutional Amendment 4",
+        "title": "Proposing to amend Article 4, Section 10 of the Constitution of New Mexico to allow legislative compensation that is limited to the median household income for New Mexico",
+        "summary": "Placed on the ballot by the Legislature, this amendment would allow New Mexico legislators, who now receive only per diem and mileage, to be paid a salary set by law of up to the state's annual median household income (about $68,000 in 2026). Pay would have to drop if the median income falls and could rise only if it rises; the change would take effect when the Legislature seated in 2029 takes office, and it would remove the ban on other perquisites or allowances.",
+        "yesMeans": "A vote FOR allows legislators to receive a salary capped at New Mexico's median household income, starting in 2029.",
+        "noMeans": "A vote AGAINST keeps New Mexico's unpaid citizen legislature, with members receiving only per diem and mileage.",
+        "source": "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+        "moreInfo": "https://ballotpedia.org/New_Mexico_2026_ballot_measures"
+      },
+      {
+        "id": "Bond Question 1",
+        "title": "Senior Citizen Facility Improvement, Construction and Equipment Acquisition Bonds",
+        "summary": "Asks whether the state may issue up to $21,582,213 in general obligation bonds for senior citizen facility improvement, construction and equipment projects. The bonds would be repaid through a statewide property tax levy.",
+        "yesMeans": "A vote FOR authorizes up to $21,582,213 in state bonds for senior citizen facilities, repaid by property taxes.",
+        "noMeans": "A vote AGAINST denies authority to issue these bonds.",
+        "source": "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+        "moreInfo": "https://ballotpedia.org/New_Mexico_2026_ballot_measures"
+      },
+      {
+        "id": "Bond Question 2",
+        "title": "Library Acquisition Bonds",
+        "summary": "Asks whether the state may issue up to $19,324,188 in general obligation bonds for academic, public school, public and tribal library resource acquisitions. The bonds would be repaid through a statewide property tax levy.",
+        "yesMeans": "A vote FOR authorizes up to $19,324,188 in state bonds for library acquisitions, repaid by property taxes.",
+        "noMeans": "A vote AGAINST denies authority to issue these bonds.",
+        "source": "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+        "moreInfo": "https://ballotpedia.org/New_Mexico_2026_ballot_measures"
+      },
+      {
+        "id": "Bond Question 3",
+        "title": "Higher Education, Special Schools and Tribal Schools Capital Improvement and Acquisition Bonds",
+        "summary": "Asks whether the state may issue up to $352,225,379 in general obligation bonds for capital improvements and acquisitions at higher education institutions, special schools and tribal schools. The bonds would be repaid through a statewide property tax levy.",
+        "yesMeans": "A vote FOR authorizes up to $352,225,379 in state bonds for higher education, special school and tribal school projects, repaid by property taxes.",
+        "noMeans": "A vote AGAINST denies authority to issue these bonds.",
+        "source": "https://www.sos.nm.gov/wp-content/uploads/2026/09/2026-Voter-Guide-English.pdf",
+        "moreInfo": "https://ballotpedia.org/New_Mexico_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
