@@ -1,0 +1,58 @@
+{
+  "state": "VA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "No state executive or judicial offices are on Virginia's 2026 ballot; the three statewide constitutional amendment questions are from the Virginia Department of Elections' official referendum list and explanations for voters. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/",
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-all-offices/",
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-2026-proposed-constitutional-amendments/",
+    "https://www.elections.virginia.gov/election-law/referenda/",
+    "https://www.elections.virginia.gov/election-law/proposed-constitutional-amendment-question-1/",
+    "https://www.elections.virginia.gov/election-law/proposed-constitutional-amendment-question-2/",
+    "https://www.elections.virginia.gov/election-law/proposed-constitutional-amendment-question-3/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Virginia elects its Governor, Lieutenant Governor and Attorney General in odd-numbered years and its Supreme Court justices are chosen by the General Assembly, so there are no statewide state offices on the 2026 ballot (the Department of Elections' all-offices list (rev. 10/9/2026) shows only the U.S. Senate race as statewide).",
+    "House of Delegates District 20 special election is not loaded.",
+    "Local referendums (e.g., county and city bond questions) are not loaded."
+  ],
+  "statewide": {
+    "contests": [],
+    "measures": [
+      {
+        "id": "Question 1",
+        "title": "Fundamental right to reproductive freedom (Article I, Section 11-A)",
+        "summary": "Referred by the General Assembly, this amendment would add to the Virginia Constitution's Bill of Rights a fundamental right to make and carry out decisions about one's own prenatal care, childbirth, postpartum care, birth control, abortion, miscarriage management and fertility care. The state could limit that right only for a compelling state interest using the least restrictive means, and could not punish people for their own pregnancy outcomes or for helping someone else exercise the right with that person's consent. The state could regulate abortion in the third trimester, but could not ban an abortion a physician judges medically needed to protect the patient's life or physical or mental health, or when the fetus is not viable.",
+        "yesMeans": "You approve adding a fundamental right to reproductive freedom to the Virginia Constitution, with third-trimester abortion regulation allowed subject to the stated exceptions.",
+        "noMeans": "You reject the amendment, and the Virginia Constitution is not changed; reproductive health care would continue to be governed by state law.",
+        "source": "https://www.elections.virginia.gov/election-law/proposed-constitutional-amendment-question-1/",
+        "moreInfo": "https://ballotpedia.org/Virginia_Question_1,_Right_to_Reproductive_Freedom_Amendment_(2026)"
+      },
+      {
+        "id": "Question 2",
+        "title": "Marriage (Article I, Section 15-A)",
+        "summary": "Referred by the General Assembly, this amendment would remove the Virginia Constitution's ban on same-sex marriage and civil unions, which has been unenforceable since the U.S. Supreme Court's 2015 Obergefell v. Hodges decision but remains in the text. It would replace the ban with language calling marriage a vital personal right, barring the state from denying a marriage license to two adults because of their sex, gender or race, and requiring all lawful marriages between two adults to be recognized and treated equally under the law.",
+        "yesMeans": "You approve removing the same-sex marriage ban from the Virginia Constitution and adding a right for two adults to marry regardless of sex, gender or race, with equal treatment of all lawful marriages.",
+        "noMeans": "You reject the amendment, and the existing same-sex marriage ban stays in the Virginia Constitution (it remains unenforceable as long as Obergefell v. Hodges stands).",
+        "source": "https://www.elections.virginia.gov/election-law/proposed-constitutional-amendment-question-2/",
+        "moreInfo": "https://ballotpedia.org/Virginia_Question_2,_Remove_Constitutional_Same-Sex_Marriage_Ban_Amendment_(2026)"
+      },
+      {
+        "id": "Question 3",
+        "title": "Qualifications of voters (Article II, Section 1)",
+        "summary": "Referred by the General Assembly, this amendment would add a fundamental right to vote for qualified Virginians to the state constitution. Today a person convicted of any felony loses the right to vote for life unless the Governor restores it; under the amendment, a person would lose the right to vote only while incarcerated for a felony and would automatically regain it upon release. It would also replace the current bar on voting by people a court has found 'mentally incompetent' with a narrower bar that applies only to people a court finds lack the capacity to understand the act of voting.",
+        "yesMeans": "You approve adding a fundamental right to vote to the Virginia Constitution and automatically restoring voting rights to people with felony convictions when they are released from incarceration.",
+        "noMeans": "You reject the amendment; people convicted of a felony would continue to lose the right to vote unless the Governor or other appropriate authority restores it, and the current mental-incompetence rule stays.",
+        "source": "https://www.elections.virginia.gov/election-law/proposed-constitutional-amendment-question-3/",
+        "moreInfo": "https://ballotpedia.org/Virginia_Question_3,_Voting_Rights_Restoration_for_Felons_Upon_Release_Amendment_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
