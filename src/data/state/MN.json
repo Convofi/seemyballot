@@ -1,0 +1,119 @@
+{
+  "state": "MN",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide races and the constitutional amendment are from official Minnesota Secretary of State sample ballots (myballotmn.sos.mn.gov) for Washington and Dakota counties, with amendment details from Laws 2026, chapter 114. Confirm on your official sample ballot.",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf",
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/815BD7DA-871D-4006-9E71-A57019E43483.pdf",
+    "https://www.revisor.mn.gov/laws/2026/0/114/",
+    "https://www.house.mn.gov/NewLaws/story/2026/5733"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "District court judge races (elected by judicial district, not statewide) not yet loaded.",
+    "sos.mn.gov and candidates.sos.mn.gov blocked automated access on 2026-10-31, so the statewide list was read from two official sample ballots rather than the certified candidate list; no certified write-in candidates are listed."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          { "key": "mn-gov-2026-klobuchar-amy", "name": "Amy Klobuchar", "party": "Democratic", "runningMate": "Ben Schierer", "incumbent": false },
+          { "key": "mn-gov-2026-demuth-lisa", "name": "Lisa Demuth", "party": "Republican", "runningMate": "Ryan Wilson", "incumbent": false },
+          { "key": "mn-gov-2026-young-steven", "name": "Steven Young", "party": "Green", "runningMate": "Jane Kirby", "incumbent": false }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          { "key": "mn-sos-2026-simon-steve", "name": "Steve Simon", "party": "Democratic", "incumbent": true },
+          { "key": "mn-sos-2026-kuhl-stennes-seth", "name": "Seth Kuhl-Stennes", "party": "Green", "incumbent": false },
+          { "key": "mn-sos-2026-jude-tad", "name": "Tad Jude", "party": "Republican", "incumbent": false },
+          { "key": "mn-sos-2026-tangen-george", "name": "George \"Chip\" Tangen", "party": "Libertarian", "incumbent": false }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "State Auditor",
+        "candidates": [
+          { "key": "mn-aud-2026-jensen-scott", "name": "Scott Jensen", "party": "Republican", "incumbent": false },
+          { "key": "mn-aud-2026-filipovich-zack", "name": "Zack Filipovich", "party": "Democratic", "incumbent": false },
+          { "key": "mn-aud-2026-reeves-jay", "name": "Jay Reeves", "party": "Other", "incumbent": false }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          { "key": "mn-ag-2026-ellison-keith", "name": "Keith Ellison", "party": "Democratic", "incumbent": true },
+          { "key": "mn-ag-2026-schutz-ronald", "name": "Ronald J. Schutz", "party": "Republican", "incumbent": false }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Associate Justice 1 - Supreme Court",
+        "candidates": [
+          { "key": "mn-sc1-2026-hennesy-sarah", "name": "Sarah Hennesy", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Associate Justice 4 - Supreme Court",
+        "candidates": [
+          { "key": "mn-sc4-2026-thissen-paul", "name": "Paul Thissen", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Judge 1 - Court of Appeals",
+        "candidates": [
+          { "key": "mn-coa1-2026-bentley-elizabeth", "name": "Elizabeth Bentley", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Judge 7 - Court of Appeals",
+        "candidates": [
+          { "key": "mn-coa7-2026-bond-rachel", "name": "Rachel Bond", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Judge 13 - Court of Appeals",
+        "candidates": [
+          { "key": "mn-coa13-2026-cochran-jeanne", "name": "Jeanne Cochran", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Judge 15 - Court of Appeals",
+        "candidates": [
+          { "key": "mn-coa15-2026-ross-kevin", "name": "Kevin G. Ross", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      },
+      {
+        "office": "Judge 18 - Court of Appeals",
+        "candidates": [
+          { "key": "mn-coa18-2026-harris-japaul", "name": "JaPaul J. Harris", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/1C47DC63-064E-4A35-9330-50286DCE9536.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment",
+        "title": "Increasing funding to school districts",
+        "summary": "Proposed by the Legislature (Laws 2026, chapter 114), this amendment rewrites the Minnesota Constitution's permanent school fund section so the fund is managed as a perpetual resource designed to pay out annual distributions to school districts while preserving its purchasing power. If adopted, a companion law sets each year's distribution at 4.5 percent of the fund's average net asset value over the previous three fiscal years, starting with aid paid in fiscal year 2028. Under Minnesota law, leaving this question blank counts the same as a No vote.",
+        "yesMeans": "You approve changing the Constitution to increase payouts from the permanent school fund to all school districts, effective July 1, 2027.",
+        "noMeans": "You reject the amendment, and the permanent school fund keeps its current constitutional rules and payout method.",
+        "source": "https://www.revisor.mn.gov/laws/2026/0/114/",
+        "moreInfo": "https://www.house.mn.gov/NewLaws/story/2026/5733"
+      }
+    ]
+  },
+  "legislative": { "senate": {}, "house": {} },
+  "counties": {}
+}
