@@ -1,0 +1,8303 @@
+{
+ "fetchedAt": "2026-10-31T22:25:43.789Z",
+ "races": {
+  "AK-H-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Alaska",
+   "revisionId": 1382855006,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Nick Begich III",
+     "party": "Republican"
+    },
+    {
+     "name": "Eric Hafner",
+     "party": "Democratic"
+    },
+    {
+     "name": "James C. \"Jim\" McDermott",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Bill Hill",
+     "party": "Independent"
+    }
+   ]
+  },
+  "AK-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+   "revisionId": 1383036266,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Dan S. Sullivan",
+     "party": "Republican"
+    },
+    {
+     "name": "Daniel J. Sullivan Jr.",
+     "party": "Republican"
+    },
+    {
+     "name": "Gerald L. Heikes",
+     "party": "Republican"
+    },
+    {
+     "name": "Mary Peltola",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AL-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+   "revisionId": 1382919989,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jerry Carl",
+     "party": "Republican"
+    },
+    {
+     "name": "Clyde Jones",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AL-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+   "revisionId": 1382919989,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Shomari Figures",
+     "party": "Democratic"
+    },
+    {
+     "name": "Rhett Marques",
+     "party": "Republican"
+    }
+   ]
+  },
+  "AL-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+   "revisionId": 1382919989,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Rogers",
+     "party": "Republican"
+    },
+    {
+     "name": "Lee McInnis",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AL-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+   "revisionId": 1382919989,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Robert Aderholt",
+     "party": "Republican"
+    },
+    {
+     "name": "Amanda Pusczek",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AL-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+   "revisionId": 1382919989,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Dale Strong",
+     "party": "Republican"
+    },
+    {
+     "name": "Andrew Sneed",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AL-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+   "revisionId": 1382919989,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Gary Palmer",
+     "party": "Republican"
+    },
+    {
+     "name": "Maurice Mercer",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AL-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+   "revisionId": 1382919989,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Terri Sewell",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ammie Akin",
+     "party": "Republican"
+    }
+   ]
+  },
+  "AL-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
+   "revisionId": 1382939228,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Barry Moore",
+     "party": "Republican"
+    },
+    {
+     "name": "Everett Wess",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AR-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+   "revisionId": 1382855440,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rick Crawford",
+     "party": "Republican"
+    },
+    {
+     "name": "Terri Yarbrough",
+     "party": "Democratic"
+    },
+    {
+     "name": "Steve Parsons",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "AR-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+   "revisionId": 1382855440,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "French Hill",
+     "party": "Republican"
+    },
+    {
+     "name": "Chris Jones",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AR-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+   "revisionId": 1382855440,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Steve Womack",
+     "party": "Republican"
+    },
+    {
+     "name": "Robb Ryerse",
+     "party": "Democratic"
+    },
+    {
+     "name": "Bobby Wilson",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "AR-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+   "revisionId": 1382855440,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Bruce Westerman",
+     "party": "Republican"
+    },
+    {
+     "name": "James Russell",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AR-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
+   "revisionId": 1383022576,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tom Cotton",
+     "party": "Republican"
+    },
+    {
+     "name": "Hallie Shoffner",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jeff Wadlin",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "AZ-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jay Feely",
+     "party": "Republican"
+    },
+    {
+     "name": "Amish Shah",
+     "party": "Democratic"
+    },
+    {
+     "name": "Monica Alponte",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "AZ-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Eli Crane",
+     "party": "Republican"
+    },
+    {
+     "name": "Jonathan Nez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Curtis Goodwin",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "AZ-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Yassamin Ansari",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jacob Parkman",
+     "party": "Republican"
+    },
+    {
+     "name": "Alan Aversa",
+     "party": "Other"
+    },
+    {
+     "name": "David Redkey",
+     "party": "Green"
+    }
+   ]
+  },
+  "AZ-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Greg Stanton",
+     "party": "Democratic"
+    },
+    {
+     "name": "Zuhdi Jasser",
+     "party": "Republican"
+    },
+    {
+     "name": "Tisha Benoit",
+     "party": "Other"
+    }
+   ]
+  },
+  "AZ-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mark Lamb",
+     "party": "Republican"
+    },
+    {
+     "name": "Elizabeth Lee",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AZ-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Juan Ciscomani",
+     "party": "Republican"
+    },
+    {
+     "name": "JoAnna Mendoza",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jereme Peters",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Gary Swing",
+     "party": "Green"
+    }
+   ]
+  },
+  "AZ-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Adelita Grijalva",
+     "party": "Democratic"
+    },
+    {
+     "name": "Daniel Butierez",
+     "party": "Republican"
+    }
+   ]
+  },
+  "AZ-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Abraham Hamadeh",
+     "party": "Republican"
+    },
+    {
+     "name": "Bernadette Greene-Placentia",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "AZ-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+   "revisionId": 1382918620,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Paul Gosar",
+     "party": "Republican"
+    },
+    {
+     "name": "Danielle Sterbinsky",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "James Gallagher",
+     "party": "Republican"
+    },
+    {
+     "name": "Mike McGuire",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jared Huffman",
+     "party": "Democratic"
+    },
+    {
+     "name": "Robin Littau",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Ami Bera",
+     "party": "Democratic"
+    },
+    {
+     "name": "Robb Tucker",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Eric Jones",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Thompson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Michael Masuda",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tom McClintock",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Kevin Kiley",
+     "party": "Independent"
+    },
+    {
+     "name": "Richard Pan",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Doris Matsui",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mai Vang",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "John Garamendi",
+     "party": "Democratic"
+    },
+    {
+     "name": "Rudy Recile",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Josh Harder",
+     "party": "Democratic"
+    },
+    {
+     "name": "John McBride",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Mark DeSaulnier",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jeff Frese",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Connie Chan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Scott Wiener",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jamie Joyce",
+     "party": "Democratic"
+    },
+    {
+     "name": "Lateefah Simon",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Adam Gray",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kevin Lincoln",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Melissa Hernandez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Aisha Wahab",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-15": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Charles Hoelter",
+     "party": "Republican"
+    },
+    {
+     "name": "Kevin Mullin",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-16": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Sam Liccardo",
+     "party": "Democratic"
+    },
+    {
+     "name": "Peter Soulé",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-17": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Ro Khanna",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ritesh Tandon",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-18": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Shane Lewis",
+     "party": "Republican"
+    },
+    {
+     "name": "Zoe Lofgren",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-19": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jimmy Panetta",
+     "party": "Democratic"
+    },
+    {
+     "name": "Peter Coe Verbica",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-20": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Vince Fong",
+     "party": "Republican"
+    },
+    {
+     "name": "Sandra Van Scotter",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-21": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jim Costa",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kyle Kirkland",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-22": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "David Valadao",
+     "party": "Republican"
+    },
+    {
+     "name": "Randy Villegas",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-23": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Tessa Lynn Hodge",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jay Obernolte",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-24": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Salud Carbajal",
+     "party": "Democratic"
+    },
+    {
+     "name": "Bob Smith",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-25": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Joe Males",
+     "party": "Republican"
+    },
+    {
+     "name": "Raul Ruiz",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-26": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Sam Gallucci",
+     "party": "Republican"
+    },
+    {
+     "name": "Jacqui Irwin",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-27": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jason Gibbs",
+     "party": "Republican"
+    },
+    {
+     "name": "George Whitesides",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-28": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Judy Chu",
+     "party": "Democratic"
+    },
+    {
+     "name": "April Verlato",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-29": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Angelica Dueñas",
+     "party": "Democratic"
+    },
+    {
+     "name": "Luz Rivas",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-30": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Laura Friedman",
+     "party": "Democratic"
+    },
+    {
+     "name": "Scott Meyers",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-31": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Eric Ching",
+     "party": "Republican"
+    },
+    {
+     "name": "Gil Cisneros",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-32": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Brad Sherman",
+     "party": "Democratic"
+    },
+    {
+     "name": "Larry Thompson",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-33": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Pete Aguilar",
+     "party": "Democratic"
+    },
+    {
+     "name": "Stephanie Vargas",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-34": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jimmy Gomez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Angela Gonzales-Torres",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-35": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Mike Cargile",
+     "party": "Republican"
+    },
+    {
+     "name": "Norma Torres",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-36": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Houston Brignano",
+     "party": "Republican"
+    },
+    {
+     "name": "Ted Lieu",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-37": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Sydney Kamlager-Dove",
+     "party": "Democratic"
+    },
+    {
+     "name": "Samantha Mota",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-38": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Pedro Casas",
+     "party": "Republican"
+    },
+    {
+     "name": "Hilda Solis",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-39": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Steve Manos",
+     "party": "Republican"
+    },
+    {
+     "name": "Mark Takano",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-40": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Ken Calvert",
+     "party": "Republican"
+    },
+    {
+     "name": "Young Kim",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-41": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Mitch Clemmons",
+     "party": "Republican"
+    },
+    {
+     "name": "Linda Sánchez",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-42": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Brian Burley",
+     "party": "Republican"
+    },
+    {
+     "name": "Robert Garcia",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-43": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Cristian Morales",
+     "party": "Republican"
+    },
+    {
+     "name": "Maxine Waters",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-44": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Genevieve Angel",
+     "party": "Republican"
+    },
+    {
+     "name": "Nanette Barragán",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-45": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Derek Tran",
+     "party": "Democratic"
+    },
+    {
+     "name": "Chuong Vo",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-46": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Lou Correa",
+     "party": "Democratic"
+    },
+    {
+     "name": "David Pan",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CA-H-47": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jenny Le Roux",
+     "party": "Republican"
+    },
+    {
+     "name": "Dave Min",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-48": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jim Desmond",
+     "party": "Republican"
+    },
+    {
+     "name": "Marni von Wilpert",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-49": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Armen Kurdian",
+     "party": "Republican"
+    },
+    {
+     "name": "Mike Levin",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-50": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Steve Cohen",
+     "party": "Republican"
+    },
+    {
+     "name": "Scott Peters",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-51": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Ricardo Cabrera",
+     "party": "Republican"
+    },
+    {
+     "name": "Sara Jacobs",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CA-H-52": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California",
+   "revisionId": 1382883719,
+   "via": "overview_table",
+   "candidates": [
+    {
+     "name": "Jeff Belle",
+     "party": "Republican"
+    },
+    {
+     "name": "Juan Vargas",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CO-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Shimon Blau",
+     "party": "Independent"
+    },
+    {
+     "name": "Chad Humphrey",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Melat Kiros",
+     "party": "Democratic"
+    },
+    {
+     "name": "Critter Milton",
+     "party": "Other"
+    },
+    {
+     "name": "Christy Peterson",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CO-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Joe Neguse",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kelley Dennison",
+     "party": "Republican"
+    },
+    {
+     "name": "Gaylon Kent",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "CO-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jeff Hurd",
+     "party": "Republican"
+    },
+    {
+     "name": "Dwayne Romero",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CO-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lauren Boebert",
+     "party": "Republican"
+    },
+    {
+     "name": "Eileen Laubacher",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CO-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jeff Crank",
+     "party": "Republican"
+    },
+    {
+     "name": "Jessica Killin",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CO-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jason Crow",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jason Clark",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CO-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brittany Pettersen",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tim Bennett",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CO-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+   "revisionId": 1382934300,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Gabe Evans",
+     "party": "Republican"
+    },
+    {
+     "name": "Manny Rutinel",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "CO-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+   "revisionId": 1382698367,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John Hickenlooper",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mark Baisley",
+     "party": "Republican"
+    },
+    {
+     "name": "Christopher Baum",
+     "party": "Other"
+    },
+    {
+     "name": "Bob Chew",
+     "party": "Other"
+    },
+    {
+     "name": "Blake Huber",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Adam Withrow",
+     "party": "Other"
+    }
+   ]
+  },
+  "CT-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+   "revisionId": 1382470623,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Luke Bronin",
+     "party": "Democratic"
+    },
+    {
+     "name": "Amy Chai",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CT-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+   "revisionId": 1382470623,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Joe Courtney",
+     "party": "Democratic"
+    },
+    {
+     "name": "George Austin",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CT-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+   "revisionId": 1382470623,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Rosa DeLauro",
+     "party": "Democratic"
+    },
+    {
+     "name": "Christopher Lancia",
+     "party": "Republican"
+    },
+    {
+     "name": "Thomas Egan",
+     "party": "Independent"
+    }
+   ]
+  },
+  "CT-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+   "revisionId": 1382470623,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Jim Himes",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Goldstein",
+     "party": "Republican"
+    }
+   ]
+  },
+  "CT-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+   "revisionId": 1382470623,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Jahana Hayes",
+     "party": "Democratic"
+    },
+    {
+     "name": "Chris Shea",
+     "party": "Republican"
+    }
+   ]
+  },
+  "DC-H-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_the_District_of_Columbia",
+   "revisionId": 1381780295,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Robert White",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kymone Freeman",
+     "party": "Green"
+    },
+    {
+     "name": "Denise Rosado",
+     "party": "Republican"
+    }
+   ]
+  },
+  "DE-H-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Delaware",
+   "revisionId": 1383069669,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Sarah McBride",
+     "party": "Democratic"
+    },
+    {
+     "name": "Joseph Arminio",
+     "party": "Republican"
+    }
+   ]
+  },
+  "DE-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+   "revisionId": 1383069693,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chris Coons",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Katz",
+     "party": "Republican"
+    }
+   ]
+  },
+  "FL-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jimmy Patronis",
+     "party": "Republican"
+    },
+    {
+     "name": "Gay Valimont",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tyler Davis",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Austin Rogers",
+     "party": "Republican"
+    },
+    {
+     "name": "Amanda Green",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "FL-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kat Cammack",
+     "party": "Republican"
+    },
+    {
+     "name": "Seth Harp",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Klein",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Aaron Bean",
+     "party": "Republican"
+    },
+    {
+     "name": "LaShonda Holloway",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Sell",
+     "party": "Other"
+    },
+    {
+     "name": "Todd Schaefer",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John Rutherford",
+     "party": "Republican"
+    },
+    {
+     "name": "Rachel Grage",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "FL-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Randy Fine",
+     "party": "Republican"
+    },
+    {
+     "name": "Eric Yonce",
+     "party": "Democratic"
+    },
+    {
+     "name": "Andrew Parrott",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Michael Gist",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ryan Elijah",
+     "party": "Republican"
+    },
+    {
+     "name": "Bale Dalton",
+     "party": "Democratic"
+    },
+    {
+     "name": "Christopher Dennison",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "FL-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Haridopolos",
+     "party": "Republican"
+    },
+    {
+     "name": "Jennifer Jenkins",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "FL-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Darren Soto",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dan Green",
+     "party": "Republican"
+    }
+   ]
+  },
+  "FL-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Maxwell Frost",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "FL-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Joe Strada",
+     "party": "Republican"
+    },
+    {
+     "name": "James Pericola",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ralph Groves",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "FL-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Gus Bilirakis",
+     "party": "Republican"
+    },
+    {
+     "name": "Kimberly Overman",
+     "party": "Democratic"
+    },
+    {
+     "name": "Branden Scrivener",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Anna Paulina Luna",
+     "party": "Republican"
+    },
+    {
+     "name": "Leela Gray",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tony D'Arrigo",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kathy Castor",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Beltran",
+     "party": "Republican"
+    },
+    {
+     "name": "Brian Lambert",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "FL-H-15": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Laurel Lee",
+     "party": "Republican"
+    },
+    {
+     "name": "Robert People",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "FL-H-16": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Sydney Gruters",
+     "party": "Republican"
+    },
+    {
+     "name": "Kelly Kirschner",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mark Davis",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-17": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Greg Steube",
+     "party": "Republican"
+    },
+    {
+     "name": "Matthew Montavon",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Quirk",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-18": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Scott Franklin",
+     "party": "Republican"
+    },
+    {
+     "name": "Curtis Gibson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Deva Simmons",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-19": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jim Schwartzel",
+     "party": "Republican"
+    },
+    {
+     "name": "Victor Arias",
+     "party": "Democratic"
+    },
+    {
+     "name": "Seth Haskins",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-20": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Debbie Wasserman Schultz",
+     "party": "Democratic"
+    },
+    {
+     "name": "Brent Andersen",
+     "party": "Republican"
+    },
+    {
+     "name": "Kedner Maxime",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-21": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brian Mast",
+     "party": "Republican"
+    },
+    {
+     "name": "James Martin",
+     "party": "Democratic"
+    },
+    {
+     "name": "Alexander Cooke",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-22": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Pia Dandiya",
+     "party": "Democratic"
+    },
+    {
+     "name": "Casey Askar",
+     "party": "Republican"
+    }
+   ]
+  },
+  "FL-H-23": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lois Frankel",
+     "party": "Democratic"
+    },
+    {
+     "name": "Deborah Adeimy",
+     "party": "Republican"
+    }
+   ]
+  },
+  "FL-H-24": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Oliver Gilbert",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mayonna Te Brown",
+     "party": "Republican"
+    },
+    {
+     "name": "Andy Daro",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-25": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jared Moskowitz",
+     "party": "Democratic"
+    },
+    {
+     "name": "Scott Singer",
+     "party": "Republican"
+    },
+    {
+     "name": "Peter Jassenoff",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "FL-H-26": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mario Díaz-Balart",
+     "party": "Republican"
+    },
+    {
+     "name": "Nicole Locklin",
+     "party": "Democratic"
+    },
+    {
+     "name": "Deborah Ann Meidinger Hosey",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-H-27": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "María Elvira Salazar",
+     "party": "Republican"
+    },
+    {
+     "name": "Eliott Rodriguez",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "FL-H-28": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+   "revisionId": 1383070756,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Carlos Giménez",
+     "party": "Republican"
+    },
+    {
+     "name": "Phil Ehr",
+     "party": "Democratic"
+    },
+    {
+     "name": "Eddy Rojas",
+     "party": "Independent"
+    }
+   ]
+  },
+  "FL-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+   "revisionId": 1383079280,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ashley Moody",
+     "party": "Republican"
+    },
+    {
+     "name": "Angie Nixon",
+     "party": "Democratic"
+    },
+    {
+     "name": "Neil J. Gillespie",
+     "party": "Independent"
+    }
+   ]
+  },
+  "GA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jim Kingston",
+     "party": "Republican"
+    },
+    {
+     "name": "Amanda Hollowell",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Sanford Bishop",
+     "party": "Democratic"
+    },
+    {
+     "name": "Matt Day",
+     "party": "Republican"
+    }
+   ]
+  },
+  "GA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brian Jack",
+     "party": "Republican"
+    },
+    {
+     "name": "Maura Keller",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Hank Johnson",
+     "party": "Democratic"
+    },
+    {
+     "name": "James Duffe",
+     "party": "Republican"
+    }
+   ]
+  },
+  "GA-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Nikema Williams",
+     "party": "Democratic"
+    },
+    {
+     "name": "John Salvesen",
+     "party": "Republican"
+    }
+   ]
+  },
+  "GA-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lucy McBath",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kevin Martin",
+     "party": "Republican"
+    }
+   ]
+  },
+  "GA-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rich McCormick",
+     "party": "Republican"
+    },
+    {
+     "name": "Anthony Kozycki",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Austin Scott",
+     "party": "Republican"
+    },
+    {
+     "name": "Kelly Esti",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Andrew Clyde",
+     "party": "Republican"
+    },
+    {
+     "name": "Caitlyn Gegan",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Houston Gaines",
+     "party": "Republican"
+    },
+    {
+     "name": "Pamela DeLancy",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John Cowan",
+     "party": "Republican"
+    },
+    {
+     "name": "Chris Harden",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rick Allen",
+     "party": "Republican"
+    },
+    {
+     "name": "Ceretta Smith",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jasmine Clark",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jonathan Chavez",
+     "party": "Republican"
+    }
+   ]
+  },
+  "GA-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+   "revisionId": 1383071588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Clay Fuller",
+     "party": "Republican"
+    },
+    {
+     "name": "Shawn Harris",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "GA-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+   "revisionId": 1383071329,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jon Ossoff",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Collins",
+     "party": "Republican"
+    }
+   ]
+  },
+  "HI-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii",
+   "revisionId": 1381768843,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Ed Case",
+     "party": "Democratic"
+    },
+    {
+     "name": "Adriel Lam",
+     "party": "Republican"
+    },
+    {
+     "name": "Nathan Berning",
+     "party": "Independent"
+    },
+    {
+     "name": "Jordan Conley",
+     "party": "Green"
+    }
+   ]
+  },
+  "HI-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii",
+   "revisionId": 1381768843,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Jill Tokuda",
+     "party": "Democratic"
+    },
+    {
+     "name": "Brenton Awa",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+   "revisionId": 1382960298,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mariannette Miller-Meeks",
+     "party": "Republican"
+    },
+    {
+     "name": "Christina Bohannan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Bridgford",
+     "party": "Independent"
+    }
+   ]
+  },
+  "IA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+   "revisionId": 1382960298,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Joe Mitchell",
+     "party": "Republican"
+    },
+    {
+     "name": "Lindsay James",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dave Bushaw",
+     "party": "Independent"
+    }
+   ]
+  },
+  "IA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+   "revisionId": 1382960298,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Zach Nunn",
+     "party": "Republican"
+    },
+    {
+     "name": "Sarah Trone Garriott",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+   "revisionId": 1382960298,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chris McGowan",
+     "party": "Republican"
+    },
+    {
+     "name": "Dave Dawson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IA-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+   "revisionId": 1383068027,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ashley Hinson",
+     "party": "Republican"
+    },
+    {
+     "name": "Josh Turek",
+     "party": "Democratic"
+    },
+    {
+     "name": "Thomas Laehn",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "ID-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho",
+   "revisionId": 1382490588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Russ Fulcher",
+     "party": "Republican"
+    },
+    {
+     "name": "Kaylee Peterson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Brendan Gomez",
+     "party": "Other"
+    },
+    {
+     "name": "Sarah Zabel Peterson",
+     "party": "Independent"
+    }
+   ]
+  },
+  "ID-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho",
+   "revisionId": 1382490588,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Simpson",
+     "party": "Republican"
+    },
+    {
+     "name": "Ellie Gilbreath",
+     "party": "Democratic"
+    },
+    {
+     "name": "Will Johanson",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Carta Sierra Peterson",
+     "party": "Other"
+    },
+    {
+     "name": "Emre Houser",
+     "party": "Independent"
+    },
+    {
+     "name": "Tripp Hutchinson",
+     "party": "Independent"
+    }
+   ]
+  },
+  "ID-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
+   "revisionId": 1382544118,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jim Risch",
+     "party": "Republican"
+    },
+    {
+     "name": "Todd Achilles",
+     "party": "Independent"
+    },
+    {
+     "name": "Matt Loesby",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Natalie Fleming",
+     "party": "Independent"
+    }
+   ]
+  },
+  "IL-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jonathan Jackson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Christian Maxwell",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Donna Miller",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Noack",
+     "party": "Republican"
+    },
+    {
+     "name": "Ashley Banks",
+     "party": "Independent"
+    }
+   ]
+  },
+  "IL-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Delia Ramirez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Angel Oakley",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Patty Garcia",
+     "party": "Democratic"
+    },
+    {
+     "name": "Lupe Castillo",
+     "party": "Republican"
+    },
+    {
+     "name": "Ed Hershey",
+     "party": "Other"
+    },
+    {
+     "name": "Chris Getty",
+     "party": "Independent"
+    },
+    {
+     "name": "Lindsay Church",
+     "party": "Independent"
+    }
+   ]
+  },
+  "IL-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Quigley",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tommy Hanson",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Sean Casten",
+     "party": "Democratic"
+    },
+    {
+     "name": "Niki Conforti",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "La Shawn Ford",
+     "party": "Democratic"
+    },
+    {
+     "name": "Chad Koppie",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Melissa Bean",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jennifer Davis",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Daniel Biss",
+     "party": "Democratic"
+    },
+    {
+     "name": "John Elleson",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Brad Schneider",
+     "party": "Democratic"
+    },
+    {
+     "name": "Carl Lambrecht",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Bill Foster",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jeff Walter",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Bost",
+     "party": "Republican"
+    },
+    {
+     "name": "Julie Fortier",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IL-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Nikki Budzinski",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jeff Wilson",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Lauren Underwood",
+     "party": "Democratic"
+    },
+    {
+     "name": "James Marter",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-H-15": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Mary Miller",
+     "party": "Republican"
+    },
+    {
+     "name": "Jennifer Todd",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IL-H-16": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Darin LaHood",
+     "party": "Republican"
+    },
+    {
+     "name": "Paul Nolley",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IL-H-17": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+   "revisionId": 1382916418,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Eric Sorensen",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dillan Vancil",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IL-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
+   "revisionId": 1382939595,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Juliana Stratton",
+     "party": "Democratic"
+    },
+    {
+     "name": "Don Tracy",
+     "party": "Republican"
+    },
+    {
+     "name": "Whitfield Harrington Jr.",
+     "party": "Other"
+    }
+   ]
+  },
+  "IN-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Frank Mrvan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Barb Regnitz",
+     "party": "Republican"
+    }
+   ]
+  },
+  "IN-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Rudy Yakym",
+     "party": "Republican"
+    },
+    {
+     "name": "Jamee Decio",
+     "party": "Democratic"
+    },
+    {
+     "name": "William Henry",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "IN-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Marlin Stutzman",
+     "party": "Republican"
+    },
+    {
+     "name": "Kelly Thompson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IN-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jim Baird",
+     "party": "Republican"
+    },
+    {
+     "name": "Drew Cox",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IN-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Victoria Spartz",
+     "party": "Republican"
+    },
+    {
+     "name": "J.D. Ford",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IN-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jefferson Shreve",
+     "party": "Republican"
+    },
+    {
+     "name": "Cynthia Wirth",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IN-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "André Carson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Patrick McAuley",
+     "party": "Republican"
+    },
+    {
+     "name": "James Sceniak",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "IN-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mark Messmer",
+     "party": "Republican"
+    },
+    {
+     "name": "Mary Allen",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "IN-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana",
+   "revisionId": 1383067073,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Erin Houchin",
+     "party": "Republican"
+    },
+    {
+     "name": "Brad Meyer",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tonya Hudson",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Floyd Taylor",
+     "party": "Independent"
+    }
+   ]
+  },
+  "KS-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+   "revisionId": 1382856541,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tracey Mann",
+     "party": "Republican"
+    },
+    {
+     "name": "Lauren Reinhold",
+     "party": "Democratic"
+    },
+    {
+     "name": "Steven Jacob",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "KS-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+   "revisionId": 1382856541,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Derek Schmidt",
+     "party": "Republican"
+    },
+    {
+     "name": "Don Coover",
+     "party": "Democratic"
+    },
+    {
+     "name": "John Hauer",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "KS-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+   "revisionId": 1382856541,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Sharice Davids",
+     "party": "Democratic"
+    },
+    {
+     "name": "Eric Jenkins",
+     "party": "Republican"
+    },
+    {
+     "name": "Steven A. Hohe",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "KS-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+   "revisionId": 1382856541,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ron Estes",
+     "party": "Republican"
+    },
+    {
+     "name": "Katy Tyndell",
+     "party": "Democratic"
+    },
+    {
+     "name": "Drew Cranmer",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "KS-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+   "revisionId": 1383034251,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Roger Marshall",
+     "party": "Republican"
+    },
+    {
+     "name": "Adam Hamilton",
+     "party": "Democratic"
+    },
+    {
+     "name": "David Graham",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "KY-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "revisionId": 1382957484,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "James R. Comer",
+     "party": "Republican"
+    },
+    {
+     "name": "John \"Drew\" Williams",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "KY-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "revisionId": 1382957484,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "S. Brett Guthrie",
+     "party": "Republican"
+    },
+    {
+     "name": "Megan Wingfield",
+     "party": "Democratic"
+    },
+    {
+     "name": "Thomas A. Loecken",
+     "party": "Independent"
+    }
+   ]
+  },
+  "KY-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "revisionId": 1382957484,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Morgan McGarvey",
+     "party": "Democratic"
+    },
+    {
+     "name": "Maria Teresa Rodriguez",
+     "party": "Republican"
+    }
+   ]
+  },
+  "KY-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "revisionId": 1382957484,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ed Gallrein",
+     "party": "Republican"
+    },
+    {
+     "name": "Melissa Claire Strange",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jeremy Todd",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "KY-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "revisionId": 1382957484,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Hal Rogers",
+     "party": "Republican"
+    },
+    {
+     "name": "Ned Pillersdorf",
+     "party": "Democratic"
+    },
+    {
+     "name": "Gerardo Serrano",
+     "party": "Independent"
+    },
+    {
+     "name": "Mikel Wein",
+     "party": "Independent"
+    }
+   ]
+  },
+  "KY-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+   "revisionId": 1382957484,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ralph Alvarado",
+     "party": "Republican"
+    },
+    {
+     "name": "Zach Dembo",
+     "party": "Democratic"
+    },
+    {
+     "name": "Pete Lynch",
+     "party": "Other"
+    },
+    {
+     "name": "Jay J. Bowman",
+     "party": "Independent"
+    }
+   ]
+  },
+  "KY-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
+   "revisionId": 1383049517,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Andy Barr",
+     "party": "Republican"
+    },
+    {
+     "name": "Charles Booker",
+     "party": "Democratic"
+    },
+    {
+     "name": "Christopher Campbell",
+     "party": "Other"
+    }
+   ]
+  },
+  "LA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+   "revisionId": 1383035948,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Randall Arrington",
+     "party": "Republican"
+    },
+    {
+     "name": "E. Glass",
+     "party": "Independent"
+    },
+    {
+     "name": "Lauren Jewett",
+     "party": "Democratic"
+    },
+    {
+     "name": "Steve Scalise",
+     "party": "Republican"
+    }
+   ]
+  },
+  "LA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+   "revisionId": 1383035948,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lisa Ballay",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Walker Beach",
+     "party": "Independent"
+    },
+    {
+     "name": "Troy Carter",
+     "party": "Democratic"
+    },
+    {
+     "name": "Renada Collins",
+     "party": "Democratic"
+    },
+    {
+     "name": "Peter Williams",
+     "party": "Republican"
+    }
+   ]
+  },
+  "LA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+   "revisionId": 1383035948,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kate Cotten",
+     "party": "Republican"
+    },
+    {
+     "name": "John Day",
+     "party": "Democratic"
+    },
+    {
+     "name": "Priscilla Gonzalez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Clay Higgins",
+     "party": "Republican"
+    },
+    {
+     "name": "Tia LeBrun",
+     "party": "Independent"
+    },
+    {
+     "name": "Caleb Walker",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "LA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+   "revisionId": 1383035948,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Conrad Cable",
+     "party": "Democratic"
+    },
+    {
+     "name": "Matt Gromlich",
+     "party": "Democratic"
+    },
+    {
+     "name": "Gordan Heslop",
+     "party": "Republican"
+    },
+    {
+     "name": "Mike Johnson",
+     "party": "Republican"
+    },
+    {
+     "name": "Mike Nichols",
+     "party": "Republican"
+    }
+   ]
+  },
+  "LA-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+   "revisionId": 1383035948,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Stewart Cathey Jr.",
+     "party": "Republican"
+    },
+    {
+     "name": "Misti Cordell",
+     "party": "Republican"
+    },
+    {
+     "name": "Michael Echols",
+     "party": "Republican"
+    },
+    {
+     "name": "Gabe Firment",
+     "party": "Republican"
+    },
+    {
+     "name": "Austin Magee",
+     "party": "Republican"
+    },
+    {
+     "name": "Oscar Dantzler",
+     "party": "Republican"
+    },
+    {
+     "name": "Dan McKay",
+     "party": "Democratic"
+    },
+    {
+     "name": "Patricia Moore",
+     "party": "Democratic"
+    },
+    {
+     "name": "Antonio Wilson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "LA-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+   "revisionId": 1383035948,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Monique Appeaning",
+     "party": "Republican"
+    },
+    {
+     "name": "Chauna Banks",
+     "party": "Democratic"
+    },
+    {
+     "name": "Rufus Craig",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Larry Davis",
+     "party": "Republican"
+    },
+    {
+     "name": "Rick Edmonds",
+     "party": "Republican"
+    },
+    {
+     "name": "Pat Forbes",
+     "party": "Democratic"
+    },
+    {
+     "name": "Lindsay Garcia",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Mebruer",
+     "party": "Republican"
+    },
+    {
+     "name": "Blake Miguez",
+     "party": "Republican"
+    },
+    {
+     "name": "Stephen Wagley",
+     "party": "Republican"
+    }
+   ]
+  },
+  "LA-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
+   "revisionId": 1382940350,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Julia Letlow",
+     "party": "Republican"
+    },
+    {
+     "name": "Jamie Davis",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Richard Neal",
+     "party": "Democratic"
+    },
+    {
+     "name": "Nadia Milleron",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Jim McGovern",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Lori Trahan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Gary Grossi",
+     "party": "Republican"
+    },
+    {
+     "name": "Dennis R. Conlon",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Jake Auchincloss",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tom Stalcup",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MA-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Katherine Clark",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MA-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Dan Koh",
+     "party": "Democratic"
+    },
+    {
+     "name": "Micah Jones",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MA-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Ayanna Pressley",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MA-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Stephen Lynch",
+     "party": "Democratic"
+    },
+    {
+     "name": "Robert Burke",
+     "party": "Republican"
+    },
+    {
+     "name": "Rasheed Nicholas Walters",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MA-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+   "revisionId": 1382774388,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Bill Keating",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tyler MacAllister",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MA-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
+   "revisionId": 1382941284,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ed Markey",
+     "party": "Democratic"
+    },
+    {
+     "name": "John Deaton",
+     "party": "Republican"
+    },
+    {
+     "name": "Joe Tache",
+     "party": "Other"
+    },
+    {
+     "name": "Shiva Ayyadurai",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MD-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Andy Harris",
+     "party": "Republican"
+    },
+    {
+     "name": "Dan Schwartz",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MD-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Johnny Olszewski",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dave Wallace",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MD-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Sarah Elfreth",
+     "party": "Democratic"
+    },
+    {
+     "name": "Berney Flowers",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MD-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Glenn Ivey",
+     "party": "Democratic"
+    },
+    {
+     "name": "George McDermott",
+     "party": "Republican"
+    },
+    {
+     "name": "Sam Husseini",
+     "party": "Green"
+    }
+   ]
+  },
+  "MD-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Adrian Boafo",
+     "party": "Democratic"
+    },
+    {
+     "name": "Chris Chaffee",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MD-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "April McClain Delaney",
+     "party": "Democratic"
+    },
+    {
+     "name": "Robin Ficker",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MD-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kweisi Mfume",
+     "party": "Democratic"
+    },
+    {
+     "name": "Scott Collier",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MD-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+   "revisionId": 1382898492,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jamie Raskin",
+     "party": "Democratic"
+    },
+    {
+     "name": "Cheryl Riley",
+     "party": "Republican"
+    }
+   ]
+  },
+  "ME-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine",
+   "revisionId": 1382773871,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chellie Pingree",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ronald Russell",
+     "party": "Republican"
+    }
+   ]
+  },
+  "ME-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine",
+   "revisionId": 1382773871,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Matthew Dunlap",
+     "party": "Democratic"
+    },
+    {
+     "name": "Paul LePage",
+     "party": "Republican"
+    }
+   ]
+  },
+  "ME-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
+   "revisionId": 1383063533,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Susan Collins",
+     "party": "Republican"
+    },
+    {
+     "name": "Troy Jackson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MI-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jack Bergman",
+     "party": "Republican"
+    },
+    {
+     "name": "Callie Barr",
+     "party": "Democratic"
+    },
+    {
+     "name": "Arnett Satterla",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Doc Kovaly",
+     "party": "Other"
+    },
+    {
+     "name": "LaVeta Davenport",
+     "party": "Green"
+    },
+    {
+     "name": "Liz Hakola",
+     "party": "Other"
+    },
+    {
+     "name": "Zebulon Featherly",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MI-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John Moolenaar",
+     "party": "Republican"
+    },
+    {
+     "name": "Benjamin Ambrose",
+     "party": "Democratic"
+    },
+    {
+     "name": "Charlotta Magoon",
+     "party": "Green"
+    },
+    {
+     "name": "Richard Sills",
+     "party": "Other"
+    }
+   ]
+  },
+  "MI-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Hillary Scholten",
+     "party": "Democratic"
+    },
+    {
+     "name": "Terri DeBoer",
+     "party": "Republican"
+    },
+    {
+     "name": "Joe Jock",
+     "party": "Green"
+    }
+   ]
+  },
+  "MI-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Bill Huizenga",
+     "party": "Republican"
+    },
+    {
+     "name": "Sean McCann",
+     "party": "Democratic"
+    },
+    {
+     "name": "Shafina Che Barnett",
+     "party": "Green"
+    }
+   ]
+  },
+  "MI-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tim Walberg",
+     "party": "Republican"
+    },
+    {
+     "name": "Christian Vukasovich",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ronald A. Muszynski",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Sharon Marie Reiner",
+     "party": "Other"
+    },
+    {
+     "name": "Jim Bronke",
+     "party": "Green"
+    }
+   ]
+  },
+  "MI-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Debbie Dingell",
+     "party": "Democratic"
+    },
+    {
+     "name": "Heather Smiley",
+     "party": "Republican"
+    },
+    {
+     "name": "Timothy Teagan",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Mike Mickevicius",
+     "party": "Other"
+    },
+    {
+     "name": "Clyde Shabazz",
+     "party": "Green"
+    },
+    {
+     "name": "Linda Rayburn",
+     "party": "Other"
+    }
+   ]
+  },
+  "MI-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tom Barrett",
+     "party": "Republican"
+    },
+    {
+     "name": "William Lawrence",
+     "party": "Democratic"
+    },
+    {
+     "name": "Shane Dedrick",
+     "party": "Green"
+    }
+   ]
+  },
+  "MI-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kristen McDonald Rivet",
+     "party": "Democratic"
+    },
+    {
+     "name": "Thomas J. Smith",
+     "party": "Republican"
+    },
+    {
+     "name": "C. Mia Pettus",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Jim Casha",
+     "party": "Green"
+    },
+    {
+     "name": "Kathy Goodwin",
+     "party": "Other"
+    }
+   ]
+  },
+  "MI-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lisa McClain",
+     "party": "Republican"
+    },
+    {
+     "name": "Ray Pooley",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kevin Vayko",
+     "party": "Libertarian"
+    },
+    {
+     "name": "John Vlahos",
+     "party": "Other"
+    },
+    {
+     "name": "Destiny Clayton",
+     "party": "Green"
+    },
+    {
+     "name": "Jim Walkowicz",
+     "party": "Other"
+    }
+   ]
+  },
+  "MI-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Michael Bouchard Jr.",
+     "party": "Republican"
+    },
+    {
+     "name": "Christina Hines",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Saliba",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Kwabena Nkromo",
+     "party": "Green"
+    },
+    {
+     "name": "Andrea L. Kirby",
+     "party": "Other"
+    }
+   ]
+  },
+  "MI-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jeremy Moss",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ethan Baker",
+     "party": "Republican"
+    },
+    {
+     "name": "Farid Ishac",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Ryan Teasdale",
+     "party": "Green"
+    },
+    {
+     "name": "Anil Kumar",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MI-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rashida Tlaib",
+     "party": "Democratic"
+    },
+    {
+     "name": "James D. Hooper",
+     "party": "Republican"
+    },
+    {
+     "name": "Marc Sosnowski",
+     "party": "Other"
+    },
+    {
+     "name": "Brenda K. Sanders",
+     "party": "Green"
+    },
+    {
+     "name": "Gary Walkowicz",
+     "party": "Other"
+    }
+   ]
+  },
+  "MI-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+   "revisionId": 1383053353,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Donavan McKinney",
+     "party": "Democratic"
+    },
+    {
+     "name": "T.P. Nykoriak",
+     "party": "Republican"
+    },
+    {
+     "name": "Chris Dardzinski",
+     "party": "Other"
+    },
+    {
+     "name": "Raelynn Light",
+     "party": "Green"
+    },
+    {
+     "name": "Simone R. Coleman",
+     "party": "Other"
+    }
+   ]
+  },
+  "MI-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
+   "revisionId": 1383021024,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Abdul El-Sayed",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Rogers",
+     "party": "Republican"
+    },
+    {
+     "name": "Lydia Christensen",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Tim Long",
+     "party": "Other"
+    },
+    {
+     "name": "Douglas P. Marsh",
+     "party": "Green"
+    },
+    {
+     "name": "Walter P. Kristy",
+     "party": "Other"
+    }
+   ]
+  },
+  "MN-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Brad Finstad",
+     "party": "Republican"
+    },
+    {
+     "name": "Jake Johnson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MN-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Matt Little",
+     "party": "Democratic"
+    },
+    {
+     "name": "Eric Pratt",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MN-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Kelly Morrison",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tyler Bass",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MN-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Betty McCollum",
+     "party": "Democratic"
+    },
+    {
+     "name": "Paul Wikstrom",
+     "party": "Republican"
+    }
+   ]
+  },
+  "MN-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Ilhan Omar",
+     "party": "Democratic"
+    },
+    {
+     "name": "John Nagel",
+     "party": "Republican"
+    },
+    {
+     "name": "DeVelle Jackson",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MN-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Tom Emmer",
+     "party": "Republican"
+    },
+    {
+     "name": "Doug Chapin",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MN-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Michelle Fischbach",
+     "party": "Republican"
+    },
+    {
+     "name": "Erik Osberg",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MN-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+   "revisionId": 1383044562,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Pete Stauber",
+     "party": "Republican"
+    },
+    {
+     "name": "Trina Swanson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "MN-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+   "revisionId": 1383077031,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Peggy Flanagan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michele Tafoya",
+     "party": "Republican"
+    },
+    {
+     "name": "Marisa Simonetti",
+     "party": "Independent"
+    },
+    {
+     "name": "Rebecca Whiting",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Wesley Bell",
+     "party": "Democratic"
+    },
+    {
+     "name": "Paul Berry",
+     "party": "Republican"
+    },
+    {
+     "name": "Tom Schmitz",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Ann Wagner",
+     "party": "Republican"
+    },
+    {
+     "name": "Fred Wellman",
+     "party": "Democratic"
+    },
+    {
+     "name": "Brandon Coulter Daugherty",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Bob Onder",
+     "party": "Republican"
+    },
+    {
+     "name": "Bethany Mann",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jim Higgins",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Mark Alford",
+     "party": "Republican"
+    },
+    {
+     "name": "Jordan Herrera",
+     "party": "Democratic"
+    },
+    {
+     "name": "Thomas Holbrook",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Emanuel Cleaver",
+     "party": "Democratic"
+    },
+    {
+     "name": "Rick Brattin",
+     "party": "Republican"
+    },
+    {
+     "name": "Randall \"Randy\" Langkraehr",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Chris Stigall",
+     "party": "Republican"
+    },
+    {
+     "name": "Josh Smead",
+     "party": "Democratic"
+    },
+    {
+     "name": "Andy Maidment",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Eric Burlison",
+     "party": "Republican"
+    },
+    {
+     "name": "Missi Hesketh",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kevin Craig",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MO-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+   "revisionId": 1382933578,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Jason Smith",
+     "party": "Republican"
+    },
+    {
+     "name": "Christopher Reichard",
+     "party": "Democratic"
+    },
+    {
+     "name": "Rebecca Sharpe Lombard",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MS-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi",
+   "revisionId": 1383057272,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Trent Kelly",
+     "party": "Republican"
+    },
+    {
+     "name": "Cliff Johnson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Johnny Baucom",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MS-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi",
+   "revisionId": 1383057272,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Bennie Thompson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ron Eller",
+     "party": "Republican"
+    },
+    {
+     "name": "Bennie Foster",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MS-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi",
+   "revisionId": 1383057272,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Michael Guest",
+     "party": "Republican"
+    },
+    {
+     "name": "Michael Chiaradio",
+     "party": "Democratic"
+    },
+    {
+     "name": "Erik Kiehle",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "MS-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi",
+   "revisionId": 1383057272,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Mike Ezell",
+     "party": "Republican"
+    },
+    {
+     "name": "Jeffrey Hulum III",
+     "party": "Democratic"
+    },
+    {
+     "name": "Carl Boyanton",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MS-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
+   "revisionId": 1383055947,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Cindy Hyde-Smith",
+     "party": "Republican"
+    },
+    {
+     "name": "Scott Colom",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ty Pinkins",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MT-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana",
+   "revisionId": 1382919473,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Aaron Flint",
+     "party": "Republican"
+    },
+    {
+     "name": "Sam Forstag",
+     "party": "Democratic"
+    },
+    {
+     "name": "Nick Sheedy",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Kimberly Persico",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MT-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana",
+   "revisionId": 1382919473,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Troy Downing",
+     "party": "Republican"
+    },
+    {
+     "name": "Brian Miller",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Eisenhauer",
+     "party": "Independent"
+    }
+   ]
+  },
+  "MT-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
+   "revisionId": 1382965628,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kurt Alme",
+     "party": "Republican"
+    },
+    {
+     "name": "Alani Bankhead",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kyle Austin",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Seth Bodnar",
+     "party": "Independent"
+    }
+   ]
+  },
+  "NC-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Don Davis",
+     "party": "Democratic"
+    },
+    {
+     "name": "Laurie Buckhout",
+     "party": "Republican"
+    },
+    {
+     "name": "Tom Bailey",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Deborah Ross",
+     "party": "Democratic"
+    },
+    {
+     "name": "Eugene Douglass",
+     "party": "Republican"
+    },
+    {
+     "name": "Matthew Laszacs",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Brian McGinnis",
+     "party": "Other",
+     "writeIn": true
+    }
+   ]
+  },
+  "NC-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Greg Murphy",
+     "party": "Republican"
+    },
+    {
+     "name": "Raymond Smith Jr.",
+     "party": "Democratic"
+    },
+    {
+     "name": "Daniel Cavender",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Valerie Foushee",
+     "party": "Democratic"
+    },
+    {
+     "name": "Max Ganorkar",
+     "party": "Republican"
+    },
+    {
+     "name": "Guy Meilleur",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Virginia Foxx",
+     "party": "Republican"
+    },
+    {
+     "name": "Chuck Hubbard",
+     "party": "Democratic"
+    },
+    {
+     "name": "Robert Luffman",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Addison McDowell",
+     "party": "Republican"
+    },
+    {
+     "name": "Cyril Jefferson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NC-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "David Rouzer",
+     "party": "Republican"
+    },
+    {
+     "name": "Kimberly Hardy",
+     "party": "Democratic"
+    },
+    {
+     "name": "Maad Abu-Ghazalah",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mark Harris",
+     "party": "Republican"
+    },
+    {
+     "name": "Colby Watson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Bo Whitehead",
+     "party": "Green"
+    }
+   ]
+  },
+  "NC-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Richard Hudson",
+     "party": "Republican"
+    },
+    {
+     "name": "Richard Ojeda",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NC-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Pat Harrigan",
+     "party": "Republican"
+    },
+    {
+     "name": "Ashley Bell",
+     "party": "Democratic"
+    },
+    {
+     "name": "Steve Feldman",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jennifer Balkcom",
+     "party": "Republican"
+    },
+    {
+     "name": "Jamie Ager",
+     "party": "Democratic"
+    },
+    {
+     "name": "Travis Groo",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Alma Adams",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jack Codiga",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NC-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brad Knott",
+     "party": "Republican"
+    },
+    {
+     "name": "Paul Barringer",
+     "party": "Democratic"
+    },
+    {
+     "name": "Steven Swinton",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NC-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+   "revisionId": 1382921712,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tim Moore",
+     "party": "Republican"
+    },
+    {
+     "name": "LaKesha Womack",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NC-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+   "revisionId": 1382844720,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Michael Whatley",
+     "party": "Republican"
+    },
+    {
+     "name": "Roy Cooper",
+     "party": "Democratic"
+    },
+    {
+     "name": "Shannon W. Bray",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Michael Dublin",
+     "party": "Green"
+    }
+   ]
+  },
+  "ND-H-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_North_Dakota",
+   "revisionId": 1382592840,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Julie Fedorchak",
+     "party": "Republican"
+    },
+    {
+     "name": "Trygve Hammer",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NE-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+   "revisionId": 1382862489,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Flood",
+     "party": "Republican"
+    },
+    {
+     "name": "Chris Backemeyer",
+     "party": "Democratic"
+    },
+    {
+     "name": "Nik Sandman",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Daniel Hartong",
+     "party": "Other"
+    }
+   ]
+  },
+  "NE-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+   "revisionId": 1382862489,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brinker Harding",
+     "party": "Republican"
+    },
+    {
+     "name": "Denise Powell",
+     "party": "Democratic"
+    },
+    {
+     "name": "Eric Foreman",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NE-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+   "revisionId": 1382862489,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Adrian Smith",
+     "party": "Republican"
+    },
+    {
+     "name": "Becky Stille",
+     "party": "Democratic"
+    },
+    {
+     "name": "David Else",
+     "party": "Other"
+    },
+    {
+     "name": "Macey Budke",
+     "party": "Other"
+    },
+    {
+     "name": "Mark Cohen",
+     "party": "Independent"
+    }
+   ]
+  },
+  "NE-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+   "revisionId": 1383060552,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Pete Ricketts",
+     "party": "Republican"
+    },
+    {
+     "name": "Dan Osborn",
+     "party": "Independent"
+    },
+    {
+     "name": "Mike Marvin",
+     "party": "Other"
+    },
+    {
+     "name": "Chuck Conboy",
+     "party": "Other"
+    },
+    {
+     "name": "Robin Richards",
+     "party": "Other"
+    }
+   ]
+  },
+  "NH-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire",
+   "revisionId": 1383077168,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Stefany Shaheen",
+     "party": "Democratic"
+    },
+    {
+     "name": "Anthony DiLorenzo",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NH-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire",
+   "revisionId": 1383077168,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Maggie Goodlander",
+     "party": "Democratic"
+    },
+    {
+     "name": "Lily Tang Williams",
+     "party": "Republican"
+    },
+    {
+     "name": "Robbie Mahrou",
+     "party": "Independent"
+    }
+   ]
+  },
+  "NH-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+   "revisionId": 1383076846,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chris Pappas",
+     "party": "Democratic"
+    },
+    {
+     "name": "John E. Sununu",
+     "party": "Republican"
+    },
+    {
+     "name": "Edmond J. LaPlante Jr.",
+     "party": "Other"
+    }
+   ]
+  },
+  "NJ-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Donald Norcross",
+     "party": "Democratic"
+    },
+    {
+     "name": "Damon Galdo",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NJ-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jeff Van Drew",
+     "party": "Republican"
+    },
+    {
+     "name": "Zack Mullock",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ramon Mora Jr.",
+     "party": "Independent"
+    }
+   ]
+  },
+  "NJ-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Herb Conaway",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael McGuire",
+     "party": "Republican"
+    },
+    {
+     "name": "Ryan Michael Kelly",
+     "party": "Other"
+    },
+    {
+     "name": "Steven Welzer",
+     "party": "Green"
+    }
+   ]
+  },
+  "NJ-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chris Smith",
+     "party": "Republican"
+    },
+    {
+     "name": "Rachel Peace",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NJ-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Josh Gottheimer",
+     "party": "Democratic"
+    },
+    {
+     "name": "Sean Kirrane",
+     "party": "Republican"
+    },
+    {
+     "name": "Adam Rueda",
+     "party": "Other"
+    }
+   ]
+  },
+  "NJ-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Frank Pallone",
+     "party": "Democratic"
+    },
+    {
+     "name": "Hillary Herzig",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NJ-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Thomas Kean Jr.",
+     "party": "Republican"
+    },
+    {
+     "name": "Rebecca Bennett",
+     "party": "Democratic"
+    },
+    {
+     "name": "Seamus Patrick O'Toole",
+     "party": "Other"
+    }
+   ]
+  },
+  "NJ-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rob Menendez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Aristotle Eliopoulos",
+     "party": "Independent"
+    },
+    {
+     "name": "Craig Honts",
+     "party": "Other"
+    },
+    {
+     "name": "Da’Shone Hughey",
+     "party": "Other"
+    }
+   ]
+  },
+  "NJ-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Nellie Pou",
+     "party": "Democratic"
+    },
+    {
+     "name": "Rosie Pino",
+     "party": "Republican"
+    },
+    {
+     "name": "Terrisa Bukovinac",
+     "party": "Other"
+    }
+   ]
+  },
+  "NJ-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "LaMonica McIver",
+     "party": "Democratic"
+    },
+    {
+     "name": "Carmen Bucco",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NJ-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Analilia Mejia",
+     "party": "Democratic"
+    },
+    {
+     "name": "Joe Hathaway",
+     "party": "Republican"
+    },
+    {
+     "name": "Alan B. Bond",
+     "party": "Other"
+    }
+   ]
+  },
+  "NJ-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+   "revisionId": 1382945843,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Adam Hamawy",
+     "party": "Democratic"
+    },
+    {
+     "name": "Gregg Mele",
+     "party": "Republican"
+    },
+    {
+     "name": "Andres Jinete",
+     "party": "Green"
+    },
+    {
+     "name": "Winston Jordan",
+     "party": "Other"
+    }
+   ]
+  },
+  "NJ-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+   "revisionId": 1382938100,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Cory Booker",
+     "party": "Democratic"
+    },
+    {
+     "name": "Justin Murphy",
+     "party": "Republican"
+    },
+    {
+     "name": "Veronica Fernandez",
+     "party": "Other"
+    },
+    {
+     "name": "Joanne Kuniansky",
+     "party": "Other"
+    },
+    {
+     "name": "Eduardo Castillo",
+     "party": "Other"
+    }
+   ]
+  },
+  "NM-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+   "revisionId": 1383076003,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Melanie Stansbury",
+     "party": "Democratic"
+    },
+    {
+     "name": "Didi Okapareke",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NM-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+   "revisionId": 1383076003,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Gabe Vasquez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Greg Cunningham",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NM-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+   "revisionId": 1383076003,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Teresa Leger Fernández",
+     "party": "Democratic"
+    },
+    {
+     "name": "Martin Zamora",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NM-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
+   "revisionId": 1383075444,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ben Ray Luján",
+     "party": "Democratic"
+    },
+    {
+     "name": "Larry Marker",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NV-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "revisionId": 1382921177,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Dina Titus",
+     "party": "Democratic"
+    },
+    {
+     "name": "Carrie Buck",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NV-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "revisionId": 1382921177,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "David Flippo",
+     "party": "Republican"
+    },
+    {
+     "name": "Teresa Benitez-Thompson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Lynn Chapman",
+     "party": "Independent"
+    }
+   ]
+  },
+  "NV-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "revisionId": 1382921177,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Susie Lee",
+     "party": "Democratic"
+    },
+    {
+     "name": "Martin O'Donnell",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NV-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+   "revisionId": 1382921177,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Steven Horsford",
+     "party": "Democratic"
+    },
+    {
+     "name": "Cody Whipple",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Nick LaLota",
+     "party": "Republican"
+    },
+    {
+     "name": "Chris Gallant",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NY-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Andrew Garbarino",
+     "party": "Republican"
+    },
+    {
+     "name": "Patrick Halpin",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NY-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tom Suozzi",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike LiPetri",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Laura Gillen",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jeanine Driscoll",
+     "party": "Republican"
+    },
+    {
+     "name": "Blay Tarnoff",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "NY-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Gregory Meeks",
+     "party": "Democratic"
+    },
+    {
+     "name": "George Marsh",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Grace Meng",
+     "party": "Democratic"
+    },
+    {
+     "name": "Joseph Chou",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Claire Valdez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Melvin Rivera",
+     "party": "Republican"
+    },
+    {
+     "name": "Priscilla Ghaznavi",
+     "party": "Other"
+    }
+   ]
+  },
+  "NY-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Hakeem Jeffries",
+     "party": "Democratic"
+    },
+    {
+     "name": "Lewis Mizrahi",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Yvette Clarke",
+     "party": "Democratic"
+    },
+    {
+     "name": "Joel Anabilah-Azumah",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brad Lander",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jennifer Moore",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Nicole Malliotakis",
+     "party": "Republican"
+    },
+    {
+     "name": "Michael DeCillis",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NY-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Micah Lasher",
+     "party": "Democratic"
+    },
+    {
+     "name": "Caroline Shinkle",
+     "party": "Republican"
+    },
+    {
+     "name": "Wilneida Negron",
+     "party": "Other"
+    },
+    {
+     "name": "Karen Ortiz",
+     "party": "Other"
+    }
+   ]
+  },
+  "NY-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Darializa Avila Chevalier",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jomo Williams",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Alexandria Ocasio-Cortez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Diamant Hysenaj",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-15": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ritchie Torres",
+     "party": "Democratic"
+    },
+    {
+     "name": "Stylo Sapaskis",
+     "party": "Republican"
+    },
+    {
+     "name": "Gonzalo Duran",
+     "party": "Other"
+    },
+    {
+     "name": "Andre Easton",
+     "party": "Other"
+    },
+    {
+     "name": "Jose Vega",
+     "party": "Other"
+    }
+   ]
+  },
+  "NY-H-16": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "George Latimer",
+     "party": "Democratic"
+    },
+    {
+     "name": "Joseph Cinquemani",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-17": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Lawler",
+     "party": "Republican"
+    },
+    {
+     "name": "Cait Conley",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NY-H-18": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Pat Ryan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jacqueline Auringer",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-19": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Josh Riley",
+     "party": "Democratic"
+    },
+    {
+     "name": "Peter Oberacker",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-20": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Paul Tonko",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ralph Ambrosio",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-21": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Anthony Constantino",
+     "party": "Republican"
+    },
+    {
+     "name": "Blake Gendebien",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NY-H-22": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John Mannion",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kailee Buller",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-23": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Nick Langworthy",
+     "party": "Republican"
+    },
+    {
+     "name": "Aaron Gies",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NY-H-24": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Claudia Tenney",
+     "party": "Republican"
+    },
+    {
+     "name": "Alissa Ellman",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "NY-H-25": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Joseph Morelle",
+     "party": "Democratic"
+    },
+    {
+     "name": "Virginia McIntyre",
+     "party": "Republican"
+    }
+   ]
+  },
+  "NY-H-26": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+   "revisionId": 1383016091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tim Kennedy",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dennis Hannon",
+     "party": "Republican"
+    }
+   ]
+  },
+  "OH-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Greg Landsman",
+     "party": "Democratic"
+    },
+    {
+     "name": "Eric Conroy",
+     "party": "Republican"
+    },
+    {
+     "name": "Nathan Weise",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "OH-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "David Taylor",
+     "party": "Republican"
+    },
+    {
+     "name": "Jennifer Mazzuckelli",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OH-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Joyce Beatty",
+     "party": "Democratic"
+    },
+    {
+     "name": "Cleophus Dulaney",
+     "party": "Republican"
+    }
+   ]
+  },
+  "OH-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jim Jordan",
+     "party": "Republican"
+    },
+    {
+     "name": "Joshua Kolasinski",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tracey Tackett",
+     "party": "Independent"
+    }
+   ]
+  },
+  "OH-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Bob Latta",
+     "party": "Republican"
+    },
+    {
+     "name": "Brian Shaver",
+     "party": "Democratic"
+    },
+    {
+     "name": "Michael Veloff",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "OH-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Michael Rulli",
+     "party": "Republican"
+    },
+    {
+     "name": "Elizabeth Kirtley",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OH-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Max Miller",
+     "party": "Republican"
+    },
+    {
+     "name": "Brian Poindexter",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OH-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Warren Davidson",
+     "party": "Republican"
+    },
+    {
+     "name": "Vanessa Enoch",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OH-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Marcy Kaptur",
+     "party": "Democratic"
+    },
+    {
+     "name": "Derek Merrin",
+     "party": "Republican"
+    },
+    {
+     "name": "Matthew Althaus",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "OH-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Turner",
+     "party": "Republican"
+    },
+    {
+     "name": "Kristina Knickerbocker",
+     "party": "Democratic"
+    },
+    {
+     "name": "Thomas McMasters",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "OH-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Shontel Brown",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mike Krichner",
+     "party": "Republican"
+    }
+   ]
+  },
+  "OH-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Troy Balderson",
+     "party": "Republican"
+    },
+    {
+     "name": "Jerrad Christian",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OH-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Emilia Sykes",
+     "party": "Democratic"
+    },
+    {
+     "name": "Carey Coleman",
+     "party": "Republican"
+    },
+    {
+     "name": "Sandeep Dixit",
+     "party": "Independent"
+    }
+   ]
+  },
+  "OH-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "David Joyce",
+     "party": "Republican"
+    },
+    {
+     "name": "Maria Jukic",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OH-H-15": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+   "revisionId": 1382897568,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Carey",
+     "party": "Republican"
+    },
+    {
+     "name": "Don Leonard",
+     "party": "Democratic"
+    },
+    {
+     "name": "Brennan Barrington",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "OH-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
+   "revisionId": 1383081091,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jon Husted",
+     "party": "Republican"
+    },
+    {
+     "name": "Sherrod Brown",
+     "party": "Democratic"
+    },
+    {
+     "name": "Bill Redpath",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Greg Levy",
+     "party": "Independent"
+    }
+   ]
+  },
+  "OK-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+   "revisionId": 1382924664,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mark Tedford",
+     "party": "Republican"
+    },
+    {
+     "name": "John Croisant",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OK-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+   "revisionId": 1382924664,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Josh Brecheen",
+     "party": "Republican"
+    },
+    {
+     "name": "Brandon Wade",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ronnie Hopkins",
+     "party": "Independent"
+    }
+   ]
+  },
+  "OK-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+   "revisionId": 1382924664,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Frank Lucas",
+     "party": "Republican"
+    },
+    {
+     "name": "Suzie Byrd",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OK-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+   "revisionId": 1382924664,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tom Cole",
+     "party": "Republican"
+    },
+    {
+     "name": "Mitchell Jacob",
+     "party": "Democratic"
+    },
+    {
+     "name": "Rocco Bonacci",
+     "party": "Independent"
+    }
+   ]
+  },
+  "OK-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+   "revisionId": 1382924664,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Stephanie Bice",
+     "party": "Republican"
+    },
+    {
+     "name": "Jena Nelson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Robert Henri",
+     "party": "Independent"
+    },
+    {
+     "name": "Austin Nieves",
+     "party": "Independent"
+    }
+   ]
+  },
+  "OK-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
+   "revisionId": 1382941943,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kevin Hern",
+     "party": "Republican"
+    },
+    {
+     "name": "N'Kiyla Jasmine Thomas",
+     "party": "Democratic"
+    },
+    {
+     "name": "Sevier White",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Ron Meinhardt",
+     "party": "Independent"
+    },
+    {
+     "name": "Curtis Stinnett",
+     "party": "Independent"
+    }
+   ]
+  },
+  "OR-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "revisionId": 1382605853,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Suzanne Bonamici",
+     "party": "Democratic"
+    },
+    {
+     "name": "Barbara Kahl",
+     "party": "Republican"
+    }
+   ]
+  },
+  "OR-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "revisionId": 1382605853,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Cliff Bentz",
+     "party": "Republican"
+    },
+    {
+     "name": "Chris Beck",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "OR-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "revisionId": 1382605853,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Maxine Dexter",
+     "party": "Democratic"
+    },
+    {
+     "name": "Loran Ayles",
+     "party": "Republican"
+    }
+   ]
+  },
+  "OR-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "revisionId": 1382605853,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Val Hoyle",
+     "party": "Democratic"
+    },
+    {
+     "name": "Monique DeSpain",
+     "party": "Republican"
+    },
+    {
+     "name": "Justin Filip",
+     "party": "Green"
+    }
+   ]
+  },
+  "OR-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "revisionId": 1382605853,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Janelle Bynum",
+     "party": "Democratic"
+    },
+    {
+     "name": "Patti Adair",
+     "party": "Republican"
+    },
+    {
+     "name": "Andrea Townsend",
+     "party": "Green"
+    }
+   ]
+  },
+  "OR-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+   "revisionId": 1382605853,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Andrea Salinas",
+     "party": "Democratic"
+    },
+    {
+     "name": "David Russ",
+     "party": "Republican"
+    }
+   ]
+  },
+  "OR-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
+   "revisionId": 1383077496,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jeff Merkley",
+     "party": "Democratic"
+    },
+    {
+     "name": "David Brock Smith",
+     "party": "Republican"
+    },
+    {
+     "name": "Gary Dye",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Chris Henry",
+     "party": "Other"
+    }
+   ]
+  },
+  "PA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brian Fitzpatrick",
+     "party": "Republican"
+    },
+    {
+     "name": "Bob Harvie",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brendan Boyle",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jessica Arriaga",
+     "party": "Republican"
+    }
+   ]
+  },
+  "PA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chris Rabb",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dennis Mahoney",
+     "party": "Independent"
+    }
+   ]
+  },
+  "PA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Madeleine Dean",
+     "party": "Democratic"
+    },
+    {
+     "name": "Aurora Stuski",
+     "party": "Republican"
+    }
+   ]
+  },
+  "PA-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mary Gay Scanlon",
+     "party": "Democratic"
+    },
+    {
+     "name": "Nicholas Manganaro",
+     "party": "Republican"
+    }
+   ]
+  },
+  "PA-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chrissy Houlahan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Marty Young",
+     "party": "Republican"
+    }
+   ]
+  },
+  "PA-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ryan Mackenzie",
+     "party": "Republican"
+    },
+    {
+     "name": "Bob Brooks",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rob Bresnahan",
+     "party": "Republican"
+    },
+    {
+     "name": "Paige Cognetti",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Dan Meuser",
+     "party": "Republican"
+    },
+    {
+     "name": "Rachel Wallace",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Scott Perry",
+     "party": "Republican"
+    },
+    {
+     "name": "Janelle Stelson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lloyd Smucker",
+     "party": "Republican"
+    },
+    {
+     "name": "Nancy Mannion",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Summer Lee",
+     "party": "Democratic"
+    },
+    {
+     "name": "James Hayes",
+     "party": "Republican"
+    }
+   ]
+  },
+  "PA-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John Joyce",
+     "party": "Republican"
+    },
+    {
+     "name": "Beth Farnham",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Guy Reschenthaler",
+     "party": "Republican"
+    },
+    {
+     "name": "Alan Bradstock",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-15": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Glenn Thompson",
+     "party": "Republican"
+    },
+    {
+     "name": "Ray Bilger",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-16": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Kelly",
+     "party": "Republican"
+    },
+    {
+     "name": "Justin Wagner",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "PA-H-17": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+   "revisionId": 1382925084,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chris Deluzio",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tony Guy",
+     "party": "Republican"
+    }
+   ]
+  },
+  "RI-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Rhode_Island",
+   "revisionId": 1382619674,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Gabe Amo",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kellie Keenan",
+     "party": "Republican"
+    },
+    {
+     "name": "Pedro DeSouza",
+     "party": "Independent"
+    }
+   ]
+  },
+  "RI-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Rhode_Island",
+   "revisionId": 1382619674,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Seth Magaziner",
+     "party": "Democratic"
+    },
+    {
+     "name": "Victor Mellor",
+     "party": "Republican"
+    }
+   ]
+  },
+  "RI-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+   "revisionId": 1382830606,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jack Reed",
+     "party": "Democratic"
+    },
+    {
+     "name": "Raymond McKay",
+     "party": "Republican"
+    },
+    {
+     "name": "Michael Bahry",
+     "party": "Independent"
+    }
+   ]
+  },
+  "SC-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+   "revisionId": 1382925960,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jenny Costa Honeycutt",
+     "party": "Republican"
+    },
+    {
+     "name": "Nancy Lacore",
+     "party": "Democratic"
+    },
+    {
+     "name": "Bill Reeside Jr.",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Margo Ellis",
+     "party": "Other"
+    }
+   ]
+  },
+  "SC-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+   "revisionId": 1382925960,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Joe Wilson",
+     "party": "Republican"
+    },
+    {
+     "name": "Zyon Khalifa",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "SC-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+   "revisionId": 1382925960,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Sheri Biggs",
+     "party": "Republican"
+    },
+    {
+     "name": "Eunice Lehmacher",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "SC-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+   "revisionId": 1382925960,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "William Timmons",
+     "party": "Republican"
+    },
+    {
+     "name": "Courtney McClain",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jessica Ethridge",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "SC-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+   "revisionId": 1382925960,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Wes Climer",
+     "party": "Republican"
+    },
+    {
+     "name": "Mallory Dittmer",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "SC-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+   "revisionId": 1382925960,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jim Clyburn",
+     "party": "Democratic"
+    },
+    {
+     "name": "John Peterson",
+     "party": "Republican"
+    }
+   ]
+  },
+  "SC-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+   "revisionId": 1382925960,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Russell Fry",
+     "party": "Republican"
+    },
+    {
+     "name": "John Vincent",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "SC-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+   "revisionId": 1383045328,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Darline Graham",
+     "party": "Republican"
+    },
+    {
+     "name": "Annie Andrews",
+     "party": "Democratic"
+    },
+    {
+     "name": "Kasie Whitener",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Mark Hackett",
+     "party": "Other"
+    }
+   ]
+  },
+  "SD-H-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_South_Dakota",
+   "revisionId": 1382876916,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Marty Jackley",
+     "party": "Republican"
+    },
+    {
+     "name": "Nicole Gronli",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jack Pittman",
+     "party": "Independent"
+    }
+   ]
+  },
+  "SD-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
+   "revisionId": 1383039474,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Rounds",
+     "party": "Republican"
+    },
+    {
+     "name": "Brian Bengs",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Diana Harshbarger",
+     "party": "Republican"
+    },
+    {
+     "name": "Kristi Burke",
+     "party": "Democratic"
+    },
+    {
+     "name": "Joshua Ray Ashburn",
+     "party": "Independent"
+    },
+    {
+     "name": "Richard G. Baker",
+     "party": "Independent"
+    },
+    {
+     "name": "Billy Cody",
+     "party": "Independent"
+    },
+    {
+     "name": "Chris Campbell",
+     "party": "Independent"
+    },
+    {
+     "name": "Tyler Brice Mitchell McClain",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Tim Burchett",
+     "party": "Republican"
+    },
+    {
+     "name": "Michaela Barnett",
+     "party": "Democratic"
+    },
+    {
+     "name": "Bruce Fine",
+     "party": "Independent"
+    },
+    {
+     "name": "Adam Heimerman",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Chuck Fleischmann",
+     "party": "Republican"
+    },
+    {
+     "name": "Anna Golladay",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dean Arnold",
+     "party": "Independent"
+    },
+    {
+     "name": "Jean Howard-Hill",
+     "party": "Independent"
+    },
+    {
+     "name": "Rodney Joe King",
+     "party": "Independent"
+    },
+    {
+     "name": "Donnie Lynn Ownby",
+     "party": "Independent"
+    },
+    {
+     "name": "Edward John Roland",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Scott DesJarlais",
+     "party": "Republican"
+    },
+    {
+     "name": "Victoria Broderick",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jacob Anders",
+     "party": "Independent"
+    },
+    {
+     "name": "Clay Faircloth",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Charlie Hatcher",
+     "party": "Republican"
+    },
+    {
+     "name": "Chaz Molder",
+     "party": "Democratic"
+    },
+    {
+     "name": "James A. Johnson",
+     "party": "Independent"
+    },
+    {
+     "name": "Micheál O'Leary",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Johnny Garrett",
+     "party": "Republican"
+    },
+    {
+     "name": "Mike Croley",
+     "party": "Democratic"
+    },
+    {
+     "name": "Chris Monday",
+     "party": "Independent"
+    },
+    {
+     "name": "Angus Purdy",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Matt Van Epps",
+     "party": "Republican"
+    },
+    {
+     "name": "Darden Copeland",
+     "party": "Democratic"
+    },
+    {
+     "name": "Andrew J. Koontz",
+     "party": "Independent"
+    },
+    {
+     "name": "Lowell Reynolds",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "David Kustoff",
+     "party": "Republican"
+    },
+    {
+     "name": "Heidi Kuhn",
+     "party": "Democratic"
+    },
+    {
+     "name": "Adam D. Austill",
+     "party": "Independent"
+    },
+    {
+     "name": "Wendell \"Wells\" Blankenship",
+     "party": "Independent"
+    },
+    {
+     "name": "Antonio Futch",
+     "party": "Independent"
+    },
+    {
+     "name": "Pamela Jeanine \"P.\" Moses",
+     "party": "Independent"
+    },
+    {
+     "name": "Horace Taylor",
+     "party": "Independent"
+    },
+    {
+     "name": "Henry J. Ward II",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+   "revisionId": 1382712392,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Justin Pearson",
+     "party": "Democratic"
+    },
+    {
+     "name": "Brent Taylor",
+     "party": "Republican"
+    },
+    {
+     "name": "Dennis Clark",
+     "party": "Independent"
+    },
+    {
+     "name": "Michelle Davis Head",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TN-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
+   "revisionId": 1383041243,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Bill Hagerty",
+     "party": "Republican"
+    },
+    {
+     "name": "Marquita Bradshaw",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tharon Chandler",
+     "party": "Independent"
+    },
+    {
+     "name": "Andrew Gerena",
+     "party": "Independent"
+    },
+    {
+     "name": "Jeremy Hearn",
+     "party": "Independent"
+    },
+    {
+     "name": "Robert Jones",
+     "party": "Independent"
+    },
+    {
+     "name": "James Macon III",
+     "party": "Independent"
+    },
+    {
+     "name": "Yoshi Matthews",
+     "party": "Independent"
+    },
+    {
+     "name": "David Sutman Jr.",
+     "party": "Independent"
+    },
+    {
+     "name": "Catherine Whitson",
+     "party": "Independent"
+    },
+    {
+     "name": "Andrew Mixon",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TX-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Nathaniel Moran",
+     "party": "Republican"
+    },
+    {
+     "name": "Yolanda Prince",
+     "party": "Democratic"
+    },
+    {
+     "name": "Sonia Canciola",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TX-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Steve Toth",
+     "party": "Republican"
+    },
+    {
+     "name": "Shaun Finnie",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Keith Self",
+     "party": "Republican"
+    },
+    {
+     "name": "Evan Hunt",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Pat Fallon",
+     "party": "Republican"
+    },
+    {
+     "name": "Jason Pearce",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lance Gooden",
+     "party": "Republican"
+    },
+    {
+     "name": "Chelsey Hockett",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jake Ellzey",
+     "party": "Republican"
+    },
+    {
+     "name": "Danny Minton",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Lizzie Fletcher",
+     "party": "Democratic"
+    },
+    {
+     "name": "Alexander Hale",
+     "party": "Republican"
+    },
+    {
+     "name": "Espoir Ngabo",
+     "party": "Green"
+    }
+   ]
+  },
+  "TX-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jessica Steinmann",
+     "party": "Republican"
+    },
+    {
+     "name": "Laura Jones",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Leticia Gutierrez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Alex Mealer",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chris Gober",
+     "party": "Republican"
+    },
+    {
+     "name": "Caitlin Rourk",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "August Pfluger",
+     "party": "Republican"
+    },
+    {
+     "name": "Claire Reynolds",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-12": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Craig Goldman",
+     "party": "Republican"
+    },
+    {
+     "name": "Angela Rodriguez Prilliman",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-13": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ronny Jackson",
+     "party": "Republican"
+    },
+    {
+     "name": "Mark Nair",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-14": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Randy Weber",
+     "party": "Republican"
+    },
+    {
+     "name": "Thurman Bartie",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-15": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Monica De La Cruz",
+     "party": "Republican"
+    },
+    {
+     "name": "Bobby Pulido",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-16": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Veronica Escobar",
+     "party": "Democratic"
+    },
+    {
+     "name": "Adam Bauman",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-17": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Pete Sessions",
+     "party": "Republican"
+    },
+    {
+     "name": "Casey Shepard",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-18": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Christian Menefee",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ronald Whitfield",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-19": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Tom Sell",
+     "party": "Republican"
+    },
+    {
+     "name": "Kyle Rable",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-20": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Joaquin Castro",
+     "party": "Democratic"
+    },
+    {
+     "name": "Edgardo Baez",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-21": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mark Teixeira",
+     "party": "Republican"
+    },
+    {
+     "name": "Kristin Hook",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-22": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Trever Nehls",
+     "party": "Republican"
+    },
+    {
+     "name": "Marquette Greene-Scott",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-23": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brandon Herrera",
+     "party": "Republican"
+    },
+    {
+     "name": "Katy Padilla Stout",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-24": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Beth Van Duyne",
+     "party": "Republican"
+    },
+    {
+     "name": "Kevin Burge",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-25": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Roger Williams",
+     "party": "Republican"
+    },
+    {
+     "name": "Dione Sims",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-26": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brandon Gill",
+     "party": "Republican"
+    },
+    {
+     "name": "Steven Shook",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-27": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Michael Cloud",
+     "party": "Republican"
+    },
+    {
+     "name": "Tanya Lloyd",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dan McQueen",
+     "party": "Independent"
+    }
+   ]
+  },
+  "TX-H-28": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Henry Cuellar",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tano Tijerina",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-29": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Sylvia Garcia",
+     "party": "Democratic"
+    },
+    {
+     "name": "Martha Fierro",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-30": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Frederick Haynes III",
+     "party": "Democratic"
+    },
+    {
+     "name": "Everett Jackson",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-31": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John Carter",
+     "party": "Republican"
+    },
+    {
+     "name": "Justin Early",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-32": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Dan Barrios",
+     "party": "Democratic"
+    },
+    {
+     "name": "Jace Yarbrough",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-33": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Colin Allred",
+     "party": "Democratic"
+    },
+    {
+     "name": "Patrick Gillespie",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-34": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Vicente Gonzalez",
+     "party": "Democratic"
+    },
+    {
+     "name": "Eric Flores",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-35": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Johnny Garcia",
+     "party": "Democratic"
+    },
+    {
+     "name": "Carlos De La Cruz",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-36": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Brian Babin",
+     "party": "Republican"
+    },
+    {
+     "name": "Rhonda Hart",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-H-37": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Greg Casar",
+     "party": "Democratic"
+    },
+    {
+     "name": "Lauren Peña",
+     "party": "Republican"
+    }
+   ]
+  },
+  "TX-H-38": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+   "revisionId": 1382928098,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jon Bonck",
+     "party": "Republican"
+    },
+    {
+     "name": "Melissa McDonough",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "TX-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+   "revisionId": 1383045105,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ken Paxton",
+     "party": "Republican"
+    },
+    {
+     "name": "James Talarico",
+     "party": "Democratic"
+    },
+    {
+     "name": "Ted Brown",
+     "party": "Libertarian"
+    }
+   ]
+  },
+  "UT-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+   "revisionId": 1382668794,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Riley Owen",
+     "party": "Republican"
+    },
+    {
+     "name": "Ben McAdams",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "UT-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+   "revisionId": 1382668794,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Blake Moore",
+     "party": "Republican"
+    },
+    {
+     "name": "Peter Crosby",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "UT-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+   "revisionId": 1382668794,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Celeste Maloy",
+     "party": "Republican"
+    },
+    {
+     "name": "Kent Udell",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "UT-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+   "revisionId": 1382668794,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mike Kennedy",
+     "party": "Republican"
+    },
+    {
+     "name": "Jonny Larsen",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "VA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rob Wittman",
+     "party": "Republican"
+    },
+    {
+     "name": "Shannon Taylor",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "VA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jen Kiggans",
+     "party": "Republican"
+    },
+    {
+     "name": "Elaine Luria",
+     "party": "Democratic"
+    },
+    {
+     "name": "Matt Baker",
+     "party": "Independent"
+    },
+    {
+     "name": "Bishop Staten",
+     "party": "Independent"
+    }
+   ]
+  },
+  "VA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Bobby Scott",
+     "party": "Democratic"
+    },
+    {
+     "name": "Edwin Rivera",
+     "party": "Republican"
+    },
+    {
+     "name": "Makiba Gaines",
+     "party": "Independent"
+    },
+    {
+     "name": "Steve Woll",
+     "party": "Independent"
+    }
+   ]
+  },
+  "VA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Jennifer McClellan",
+     "party": "Democratic"
+    },
+    {
+     "name": "Robert Murray",
+     "party": "Republican"
+    },
+    {
+     "name": "Joan Andrews Bell",
+     "party": "Independent"
+    }
+   ]
+  },
+  "VA-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "John McGuire",
+     "party": "Republican"
+    },
+    {
+     "name": "Tom Perriello",
+     "party": "Democratic"
+    },
+    {
+     "name": "Cooke Harvey",
+     "party": "Independent"
+    }
+   ]
+  },
+  "VA-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Ben Cline",
+     "party": "Republican"
+    },
+    {
+     "name": "Beth Macy",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "VA-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Eugene Vindman",
+     "party": "Democratic"
+    },
+    {
+     "name": "Doug Ollivant",
+     "party": "Republican"
+    },
+    {
+     "name": "Alaha Ahrar",
+     "party": "Independent"
+    },
+    {
+     "name": "Joshua Ertle",
+     "party": "Independent"
+    },
+    {
+     "name": "Taner Lopez",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Randall Terry",
+     "party": "Independent"
+    }
+   ]
+  },
+  "VA-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Don Beyer",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tony Sabio",
+     "party": "Republican"
+    },
+    {
+     "name": "Shelly Arnoldi",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Tim Sharman",
+     "party": "Independent"
+    }
+   ]
+  },
+  "VA-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Morgan Griffith",
+     "party": "Republican"
+    },
+    {
+     "name": "Joy Powers",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "VA-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Suhas Subramanyam",
+     "party": "Democratic"
+    },
+    {
+     "name": "Dave Beckwith",
+     "party": "Republican"
+    },
+    {
+     "name": "Ahsen Malik",
+     "party": "Independent"
+    }
+   ]
+  },
+  "VA-H-11": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+   "revisionId": 1383062572,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "James Walkinshaw",
+     "party": "Democratic"
+    },
+    {
+     "name": "Arthur Purves",
+     "party": "Republican"
+    },
+    {
+     "name": "Dianne Blais",
+     "party": "Green"
+    }
+   ]
+  },
+  "VA-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
+   "revisionId": 1382673527,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Mark Warner",
+     "party": "Democratic"
+    },
+    {
+     "name": "Bert Mizusawa",
+     "party": "Republican"
+    }
+   ]
+  },
+  "VT-H-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Vermont",
+   "revisionId": 1382960577,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Becca Balint",
+     "party": "Democratic"
+    },
+    {
+     "name": "Gerald Malloy",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Suzan DelBene",
+     "party": "Democratic"
+    },
+    {
+     "name": "Mary Silva",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Rick Larsen",
+     "party": "Democratic"
+    },
+    {
+     "name": "Edwin H. Feller",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Marie Gluesenkamp Perez",
+     "party": "Democratic"
+    },
+    {
+     "name": "John Braun",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Amanda McKinney",
+     "party": "Republican"
+    },
+    {
+     "name": "John Duresky",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WA-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Michael Baumgartner",
+     "party": "Republican"
+    },
+    {
+     "name": "Carmela Conroy",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WA-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Emily Randall",
+     "party": "Democratic"
+    },
+    {
+     "name": "Teresa Fox",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Pramila Jayapal",
+     "party": "Democratic"
+    },
+    {
+     "name": "Nirav Sheth",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Kim Schrier",
+     "party": "Democratic"
+    },
+    {
+     "name": "Spencer Meline",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-09": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Adam Smith",
+     "party": "Democratic"
+    },
+    {
+     "name": "Doug Basler",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WA-H-10": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+   "revisionId": 1383008130,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Marilyn Strickland",
+     "party": "Democratic"
+    },
+    {
+     "name": "Chris D. Chung",
+     "party": "Republican"
+    }
+   ]
+  },
+  "WI-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Bryan Steil",
+     "party": "Republican"
+    },
+    {
+     "name": "Mitchell Berman",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WI-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Mark Pocan",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WI-H-03": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Derrick Van Orden",
+     "party": "Republican"
+    },
+    {
+     "name": "Rebecca Cooke",
+     "party": "Democratic"
+    },
+    {
+     "name": "Alexander Kent",
+     "party": "Independent"
+    },
+    {
+     "name": "Rustin Provance",
+     "party": "Independent"
+    }
+   ]
+  },
+  "WI-H-04": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Gwen Moore",
+     "party": "Democratic"
+    },
+    {
+     "name": "Tim Rogers",
+     "party": "Republican"
+    },
+    {
+     "name": "Arthur Burks",
+     "party": "Independent"
+    }
+   ]
+  },
+  "WI-H-05": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Scott Fitzgerald",
+     "party": "Republican"
+    },
+    {
+     "name": "Andrew Beck",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WI-H-06": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Glenn Grothman",
+     "party": "Republican"
+    },
+    {
+     "name": "Brad Smith",
+     "party": "Democratic"
+    },
+    {
+     "name": "Matthew Arndt",
+     "party": "Green"
+    },
+    {
+     "name": "Elizabeth Fitzgibbon",
+     "party": "Independent"
+    },
+    {
+     "name": "Michael Thurow",
+     "party": "Independent"
+    }
+   ]
+  },
+  "WI-H-07": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Michael Alfonso",
+     "party": "Republican"
+    },
+    {
+     "name": "Fred Clark",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WI-H-08": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+   "revisionId": 1382935814,
+   "via": "primary_nominees",
+   "candidates": [
+    {
+     "name": "Tony Wied",
+     "party": "Republican"
+    },
+    {
+     "name": "Rick Crosson",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WV-H-01": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia",
+   "revisionId": 1382858408,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Carol Miller",
+     "party": "Republican"
+    },
+    {
+     "name": "Vince George",
+     "party": "Democratic"
+    },
+    {
+     "name": "Belinda Fox-Spencer",
+     "party": "Other"
+    }
+   ]
+  },
+  "WV-H-02": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia",
+   "revisionId": 1382858408,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Riley Moore",
+     "party": "Republican"
+    },
+    {
+     "name": "Ace Parsi",
+     "party": "Democratic"
+    }
+   ]
+  },
+  "WV-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
+   "revisionId": 1382667996,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Shelley Moore Capito",
+     "party": "Republican"
+    },
+    {
+     "name": "Rachel Fetty Anderson",
+     "party": "Democratic"
+    },
+    {
+     "name": "S. Marshall Wilson",
+     "party": "Other"
+    }
+   ]
+  },
+  "WY-H-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Wyoming",
+   "revisionId": 1382679515,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Chuck Gray",
+     "party": "Republican"
+    },
+    {
+     "name": "Jeffrey Haggit",
+     "party": "Other"
+    },
+    {
+     "name": "Shawn Johnson",
+     "party": "Libertarian"
+    },
+    {
+     "name": "Lisa Kinney",
+     "party": "Democratic"
+    },
+    {
+     "name": "Daniel Workman",
+     "party": "Independent"
+    }
+   ]
+  },
+  "WY-S-00": {
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
+   "revisionId": 1382942403,
+   "via": "election_box",
+   "candidates": [
+    {
+     "name": "Harriet Hageman",
+     "party": "Republican"
+    },
+    {
+     "name": "James Byrd",
+     "party": "Democratic"
+    }
+   ]
+  }
+ }
+}

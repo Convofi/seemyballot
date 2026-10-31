@@ -10,7 +10,8 @@
     "verify-links": "node scripts/verify-links.mjs",
     "fetch-fec": "node scripts/fetch-fec.mjs",
     "check-voting": "node scripts/check-voting.mjs",
-    "fetch-positions": "node scripts/fetch-positions.mjs"
+    "fetch-positions": "node scripts/fetch-positions.mjs",
+    "fetch-nominees": "node scripts/fetch-nominees.mjs"
   },
   "dependencies": {
     "next": "16.4.3",
