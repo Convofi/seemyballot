@@ -1,0 +1,25 @@
+{
+  "state": "MS",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "The Mississippi Secretary of State's statewide sample ballot for November 3, 2026 lists no statewide state offices and no statewide ballot measures; your ballot will have federal, judicial and possibly local contests. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://www.sos.ms.gov/elections-voting"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "No statewide executive offices, Supreme Court seats, or statewide ballot measures appear on the Secretary of State's composite sample ballot (dated 9-9-26).",
+    "District-based contests on that sample ballot are not loaded: Court of Appeals (District 1 Positions 1 and 2, District 2 Position 1, District 4 Position 2, District 5 Position 1), chancery and circuit court judgeships, and special elections for State House Districts 70 and 77 and District Attorney District 7.",
+    "Local referenda (e.g., county beer and wine options, school bond issues) are not loaded."
+  ],
+  "statewide": {
+    "contests": [],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
