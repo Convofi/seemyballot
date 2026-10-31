@@ -1,0 +1,148 @@
+{
+  "state": "TN",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Tennessee Secretary of State's November 2026 certified governor candidate list and its page on the three proposed constitutional amendments. Confirm on your official sample ballot.",
+  "sources": [
+    "https://sos.tn.gov/elections/2026-candidate-lists",
+    "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Governor_Nov2026.xlsx",
+    "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Governor_Nov2026.pdf",
+    "https://sos.tn.gov/elections/announcements/2026-proposed-constitutional-amendments"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded",
+    "Governor is Tennessee's only statewide elected executive office; appellate judges' retention elections are held at the August election, so no statewide judicial contest appears on the November ballot.",
+    "Certified write-in candidates for governor are not shown (the Secretary of State's list does not include any)."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "tn-gov-2026-blackburn-marsha",
+            "name": "Marsha Blackburn",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-green-jerri",
+            "name": "Jerri Green",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-abidi-misam",
+            "name": "Misam Abidi",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-brewer-dean",
+            "name": "Dean Brewer",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-brown-ray",
+            "name": "Ray Brown",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-hatley-david",
+            "name": "David Hatley",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-jackson-wendell",
+            "name": "Wendell Jackson",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-morgan-charles",
+            "name": "Charles Van Morgan",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-murphy-eddie",
+            "name": "Eddie Lee Murphy",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-pinkston-lauren",
+            "name": "Lauren Pinkston",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-scoggin-victor",
+            "name": "Victor L. Scoggin",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-seeman-dave",
+            "name": "Dave Seeman",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-smithson-karl",
+            "name": "Karl Knox Smithson",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-taylor-webb",
+            "name": "L. Webb Taylor",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "tn-gov-2026-vick-robert",
+            "name": "Robert C. Vick",
+            "party": "Independent",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos-prod.tnsosgovfiles.com/s3fs-public/document/Governor_Nov2026.xlsx"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment #1",
+        "title": "Denial of bail for certain serious offenses (Article I, Section 15)",
+        "summary": "Proposed by the General Assembly, this amendment would let a judge deny bail before trial to people charged with a capital offense, terrorism, second degree murder, aggravated rape of a child, aggravated rape, grave torture, or any offense that, as of November 3, 2026, requires serving at least 85% of a sentence, when the proof is evident or the presumption great. Today the Constitution allows denying bail only for capital offenses. Judges would have to state on the record their reasons for granting or denying bail in these cases.",
+        "yesMeans": "You approve the amendment, allowing courts to hold people charged with the listed offenses without bail before trial.",
+        "noMeans": "You reject the amendment; the current rule that everyone except those charged with capital offenses can be released on bail stays in place.",
+        "source": "https://sos.tn.gov/elections/announcements/2026-proposed-constitutional-amendments"
+      },
+      {
+        "id": "Constitutional Amendment #2",
+        "title": "Prohibit a state property tax (Article II, Section 28)",
+        "summary": "Proposed by the General Assembly, this amendment would add language to the Tennessee Constitution barring the Legislature from levying, authorizing, or permitting any state tax on real, personal, or mixed property. Tennessee does not currently levy a state property tax; local governments' property taxes are not addressed by this change.",
+        "yesMeans": "You approve adding a ban on any state-level property tax to the Constitution.",
+        "noMeans": "You reject the amendment; the Constitution is unchanged and does not expressly ban a state property tax.",
+        "source": "https://sos.tn.gov/elections/announcements/2026-proposed-constitutional-amendments"
+      },
+      {
+        "id": "Constitutional Amendment #3",
+        "title": "Rights of crime victims (Article I, Section 35)",
+        "summary": "Proposed by the General Assembly, this amendment would replace the Constitution's crime victims' rights section with an expanded list. New rights include fair treatment, participating in and being informed about parole, protection from harassment and abuse, being told the offender's minimum sentence and release date, and having safety considered before release; existing rights such as notice of proceedings, being present and heard, and restitution are kept or clarified. It does not limit prosecutors or courts, does not create a basis for vacating a conviction, and does not create a claim for damages against the state.",
+        "yesMeans": "You approve replacing the crime victims' rights section with the expanded list of rights.",
+        "noMeans": "You reject the amendment; the current crime victims' rights section stays as it is.",
+        "source": "https://sos.tn.gov/elections/announcements/2026-proposed-constitutional-amendments"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
