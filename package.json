@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "verify-links": "node scripts/verify-links.mjs",
-    "fetch-fec": "node scripts/fetch-fec.mjs"
+    "fetch-fec": "node scripts/fetch-fec.mjs",
+    "fetch-positions": "node scripts/fetch-positions.mjs"
   },
   "dependencies": {
     "next": "16.4.3",
@@ -16,6 +17,7 @@
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^1.3.0",
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
