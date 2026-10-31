@@ -1,0 +1,26 @@
+{
+  "state": "NJ",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "New Jersey has no statewide offices or statewide public questions on the November 3, 2026 ballot, per the NJ Division of Elections 2026 election page and the Sussex County Clerk's official sample ballots. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.nj.gov/state/elections/election-information-2026.shtml",
+    "https://www.sussex.nj.us/936/2026-November-3-General-Election-Sample-",
+    "https://www.sussex.nj.us/DocumentCenter/View/4738/Andover-Township"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "No statewide offices are up in 2026 (Governor was elected in 2025; New Jersey does not elect judges or other statewide officers).",
+    "No statewide public questions found: the NJ Division of Elections 2026 page lists none (its public-question section is disabled and the linked PDFs return 404), Ballotpedia has no New Jersey 2026 statewide measures page, and the Sussex County official sample ballot shows none. We did not check every county's sample ballot.",
+    "County and municipal public questions are not loaded."
+  ],
+  "statewide": {
+    "contests": [],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
