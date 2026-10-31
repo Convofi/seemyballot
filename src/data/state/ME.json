@@ -1,0 +1,66 @@
+{
+  "state": "ME",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Maine Secretary of State's 2026 General Election candidate list, post-primary withdrawals list and declared write-in list; Maine has no statewide referendum questions on the November 2026 ballot. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.maine.gov/sos/elections-voting/upcoming-elections",
+    "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20General%20Candidate%20List%20-%20FINAL.xlsx",
+    "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20Post%20Primary%20Withdrawals%20%26%20Replacement%20Candidates%20-%20Updated%209.22.26_0.pdf",
+    "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/Nov26%20Declared%20Write%20in%20List%20-%20Updated%2010.15.26.pdf",
+    "https://www.maine.gov/sos/elections-voting/peoples-veto-or-citizens-initiative-resources/current-citizen-initiatives-and-peoples-vetoes"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Governor is the only statewide office on the ballot: Maine's Legislature, not voters, elects the Attorney General, Secretary of State and Treasurer.",
+    "No statewide referendum questions: the Secretary of State lists none for November 3, 2026 (the school sports initiative was ruled invalid for too few valid signatures, upheld by the Maine Supreme Judicial Court). Local questions are not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "me-gov-2026-bennett-rick",
+            "name": "Rick Bennett",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "me-gov-2026-charles-robert",
+            "name": "Robert B. Charles",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "me-gov-2026-pingree-hannah",
+            "name": "Hannah M. Pingree",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "me-gov-2026-glowa-john",
+            "name": "John Glowa",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "me-gov-2026-wilcox-randy",
+            "name": "Randy Wilcox",
+            "party": "Republican",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20General%20Candidate%20List%20-%20FINAL.xlsx"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
