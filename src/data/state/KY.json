@@ -1,0 +1,32 @@
+{
+  "state": "KY",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Kentucky elects its governor and other statewide constitutional officers in odd-numbered years, so no statewide offices are on the 2026 ballot; the one constitutional amendment is from the Kentucky Secretary of State's 2026 Constitutional Amendments page. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sos.ky.gov/elections/Pages/Constitutional-Amendments.aspx",
+    "https://sos.ky.gov/Documents/2026%20Kentucky%20Election%20Guide.pdf",
+    "https://apps.legislature.ky.gov/record/26rs/sb10.html"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "No statewide executive offices are elected in Kentucky in 2026 (they are elected in odd-numbered years).",
+    "Kentucky Supreme Court, Court of Appeals, circuit and district court races are elected by district, not statewide, and are not yet loaded."
+  ],
+  "statewide": {
+    "contests": [],
+    "measures": [
+      {
+        "id": "Constitutional Amendment",
+        "title": "Limiting the Governor's ability to grant pardons or commute sentences",
+        "summary": "Proposed by the General Assembly in 2026 Senate Bill 10, this amendment changes Section 77 of the Kentucky Constitution. It would bar the Governor from granting pardons or commuting sentences from 60 days before a gubernatorial election until the new term begins (the fifth Tuesday after that election). The Governor's other powers in Section 77, such as remitting fines and granting reprieves, stay the same.",
+        "yesMeans": "You approve barring the Governor from granting pardons or commuting sentences from 60 days before each gubernatorial election until the Governor elected that year is sworn in.",
+        "noMeans": "You reject the amendment, and the Governor's power to grant pardons and commute sentences stays the same at all times of year.",
+        "source": "https://www.sos.ky.gov/elections/Pages/Constitutional-Amendments.aspx",
+        "moreInfo": "https://apps.legislature.ky.gov/record/26rs/sb10.html"
+      }
+    ]
+  },
+  "legislative": { "senate": {}, "house": {} },
+  "counties": {}
+}
