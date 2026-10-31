@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -12,10 +12,22 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const title = "BallotHelper — See exactly what's on your ballot";
+const description =
+  "Type your address to see every race and measure on your 2026 ballot, where to vote, and what each choice means, with a source for every fact.";
+
 export const metadata: Metadata = {
-  title: "BallotHelper",
-  description:
-    "Type your address. See exactly what's on your ballot. Understand every choice in under 60 seconds.",
+  title,
+  description,
+  openGraph: { title, description, type: "website", siteName: "BallotHelper" },
+};
+
+// Matches --paper in globals.css so the phone's browser chrome blends in.
+export const viewport: Viewport = {
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#faf9f7" },
+    { media: "(prefers-color-scheme: dark)", color: "#1b1a19" },
+  ],
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -24,7 +36,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="flex min-h-full flex-col bg-paper text-ink">{children}</body>
     </html>
   );
 }
