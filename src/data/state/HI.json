@@ -1,0 +1,153 @@
+{
+  "state": "HI",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates from the Hawaii Office of Elections 2026 Candidate Report (status \"In General\"); constitutional amendment language from the Office of Elections 2026 General Election Voter Guide. Confirm on your official sample ballot.",
+  "sources": [
+    "https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94",
+    "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+    "https://elections.hawaii.gov/voting/2026-proposed-amendments-to-the-hawaii-state-constitution/",
+    "https://elections.hawaii.gov/wp-content/results/2026%20Primary/histatewide.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "County charter amendments (Hawaii County, Maui County and others) are not loaded.",
+    "Hawaii's general ballot pairs Governor and Lieutenant Governor as one party ticket; running mates are matched by party from the Office of Elections candidate report.",
+    "Only OHA trustee seats up in 2026 (At-Large x3, O'ahu, Maui) are shown; all voters statewide vote on them.",
+    "Hawaii has no statewide judicial elections (judges are appointed)."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "hi-gov-2026-cordery-gary",
+            "name": "Gary Cordery",
+            "party": "Republican",
+            "incumbent": false,
+            "runningMate": "Daniel Anthony",
+            "website": "https://www.garycorderyforgovernor.com/"
+          },
+          {
+            "key": "hi-gov-2026-green-josh",
+            "name": "Josh Green",
+            "party": "Democratic",
+            "incumbent": true,
+            "runningMate": "Derek S.K. Kawakami",
+            "website": "https://joshgreenforhawaii.com/"
+          }
+        ],
+        "source": "https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94"
+      },
+      {
+        "office": "Office of Hawaiian Affairs Trustee, At-Large (nonpartisan; vote for 3)",
+        "seats": 3,
+        "candidates": [
+          {
+            "key": "hi-oha-at-large-2026-akina-adrian",
+            "name": "Adrian (Kealii) Akina",
+            "party": "Nonpartisan",
+            "incumbent": false
+          },
+          {
+            "key": "hi-oha-at-large-2026-anderson-ikaika",
+            "name": "Ikaika Anderson",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://ikaika4hawaii.com/"
+          },
+          {
+            "key": "hi-oha-at-large-2026-crabbe-kanekoa",
+            "name": "Kanekoa (Koa) Crabbe",
+            "party": "Nonpartisan",
+            "incumbent": false
+          },
+          {
+            "key": "hi-oha-at-large-2026-galuteria-brickwood",
+            "name": "Brickwood M. Galuteria",
+            "party": "Nonpartisan",
+            "incumbent": true
+          },
+          {
+            "key": "hi-oha-at-large-2026-souza-keoni",
+            "name": "Keoni Souza",
+            "party": "Nonpartisan",
+            "incumbent": true,
+            "website": "https://www.souzaforoha.com/"
+          },
+          {
+            "key": "hi-oha-at-large-2026-waihee-john",
+            "name": "John Waihee, IV",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94"
+      },
+      {
+        "office": "Office of Hawaiian Affairs Trustee, O'ahu Resident (nonpartisan; elected statewide)",
+        "candidates": [
+          {
+            "key": "hi-oha-oahu-2026-akaka-kalei",
+            "name": "Kalei Akaka",
+            "party": "Nonpartisan",
+            "incumbent": true,
+            "website": "https://www.shakavoteakaka.com/"
+          },
+          {
+            "key": "hi-oha-oahu-2026-wong-hinaleimoana",
+            "name": "Hinaleimoana (Hina) Wong",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://kumuhinawongforoha.com/"
+          }
+        ],
+        "source": "https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94"
+      },
+      {
+        "office": "Office of Hawaiian Affairs Trustee, Maui Resident (nonpartisan; elected statewide)",
+        "candidates": [
+          {
+            "key": "hi-oha-maui-2026-kapu-keeaumoku",
+            "name": "Ke'eaumoku Kapu",
+            "party": "Nonpartisan",
+            "incumbent": false
+          },
+          {
+            "key": "hi-oha-maui-2026-lindsey-carmen",
+            "name": "Carmen Hulu Lindsey",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Question 1",
+        "title": "Increasing the Timeframe for the Hawaii Senate to Consider and Act on Judicial Appointments",
+        "summary": "This legislatively proposed amendment would give the State Senate 60 days instead of 30 to confirm or reject the Governor's appointments of Supreme Court, Intermediate Court of Appeals and circuit court judges when the appointment is made between April 1 and December 31, typically when the Legislature is adjourning or out of session. Today, the Senate is deemed to consent if it does not act within 30 days, which can force special sessions just for judicial appointments. To pass, an amendment needs a majority of yes/no votes that is also at least 50% of all ballots cast, so a blank vote has the same effect as a no vote.",
+        "yesMeans": "The Senate would have 60 days, instead of 30, to act on judicial appointments made between April 1 and December 31.",
+        "noMeans": "The Constitution is unchanged, and the Senate keeps 30 days to act on a judicial appointment or is deemed to have consented.",
+        "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+        "moreInfo": "https://ballotpedia.org/Hawaii_2026_ballot_measures"
+      },
+      {
+        "id": "Question 2",
+        "title": "Directing the Hawaii State Legislature to Establish Procedures for Counties to Issue RISE Bonds, Exempt from County Debt Limits",
+        "summary": "This legislatively proposed amendment would direct the Legislature to let counties issue a new type of bond, resilient infrastructure for shelter and equity (RISE) bonds, to pay for public improvements in designated districts. The bonds would be repaid only from future growth in property tax revenue in those districts, not by raising property tax rates, and would not count toward a county's debt limit. To pass, an amendment needs a majority of yes/no votes that is also at least 50% of all ballots cast, so a blank vote has the same effect as a no vote.",
+        "yesMeans": "The Legislature would set up laws letting counties issue RISE bonds, excluded from county debt limits and repaid only from future property tax growth in the districts they help develop.",
+        "noMeans": "The Constitution is unchanged, and counties could not issue RISE bonds.",
+        "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+        "moreInfo": "https://ballotpedia.org/Hawaii_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
