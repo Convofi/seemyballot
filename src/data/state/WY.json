@@ -1,0 +1,165 @@
+{
+  "state": "WY",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Wyoming Secretary of State's 2026 General Election Candidate Roster (as of 2026-09-09), 2026 Judges Standing for Retention list and 2026 Statewide Ballot Propositions. Confirm on your official sample ballot.",
+  "sources": [
+    "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf",
+    "https://sos.wyo.gov/Elections/Docs/2026/2026_Judges_Standing_for_Retention.pdf",
+    "https://sos.wyo.gov/Elections/Docs/2026/2026_Statewide_Ballot_Propositions.pdf",
+    "https://sos.wyo.gov/Elections/2026ElectionInformation.aspx"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "District and circuit court judge retention questions are by judicial district and are not loaded.",
+    "State Auditor and State Treasurer each have a single candidate on the roster.",
+    "Constitution Party nominees are shown as \"Other\".",
+    "Candidate websites not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "wy-gov-2026-barlow-eric",
+            "name": "Eric Barlow",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "wy-gov-2026-casner-kenneth",
+            "name": "Kenneth R. Casner",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "wy-gov-2026-bextel-rebecca",
+            "name": "Rebecca Bextel",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "wy-sos-2026-short-robert",
+            "name": "Robert Short",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "wy-sos-2026-mccarty-bryan",
+            "name": "Bryan McCarty",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "wy-sos-2026-trujillo-tamara",
+            "name": "Tamara Trujillo",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf"
+      },
+      {
+        "office": "State Auditor",
+        "candidates": [
+          {
+            "key": "wy-aud-2026-racines-kristi",
+            "name": "Kristi Racines",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "wy-treas-2026-meier-curt",
+            "name": "Curt Meier",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf"
+      },
+      {
+        "office": "Superintendent of Public Instruction",
+        "candidates": [
+          {
+            "key": "wy-spi-2026-harshman-steve",
+            "name": "Steve Harshman",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "wy-spi-2026-cordova-ana",
+            "name": "Ana Cordova",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court: shall Bridget Hill be retained? (yes/no retention)",
+        "candidates": [
+          {
+            "key": "wy-sc-ret-2026-hill-bridget",
+            "name": "Bridget Hill",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_Judges_Standing_for_Retention.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court: shall Robert C. Jarosh be retained? (yes/no retention)",
+        "candidates": [
+          {
+            "key": "wy-sc-ret-2026-jarosh-robert",
+            "name": "Robert C. Jarosh",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_Judges_Standing_for_Retention.pdf"
+      },
+      {
+        "office": "Judge of the Chancery Court: shall Ben Burningham be retained? (yes/no retention)",
+        "candidates": [
+          {
+            "key": "wy-chancery-ret-2026-burningham-ben",
+            "name": "Ben Burningham",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_Judges_Standing_for_Retention.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Initiative Proposition Number One",
+        "title": "People's Initiative to Limit Property Tax in Wyoming through a Homeowner's Property Exemption",
+        "summary": "This citizen initiative would exempt 50% of the assessed value of a qualified homeowner's primary residence from property tax, with no more than one exemption per property or per owner each year. To qualify, a homeowner must have lived in Wyoming for at least a year and in the home for at least six months of the prior tax year, file a sworn claim with the county assessor by the fourth Monday in May, and confirm eligibility each year after; false claims carry a penalty. The state's estimated revenue loss is about $92.6 million in fiscal year 2028 and $95.9 million in fiscal year 2029, not counting effects on local governments.",
+        "yesMeans": "You vote FOR enacting the 50% homeowner's property tax exemption for primary residences.",
+        "noMeans": "You vote AGAINST the initiative, and current property tax law is unchanged.",
+        "source": "https://sos.wyo.gov/Elections/Docs/2026/2026_Statewide_Ballot_Propositions.pdf",
+        "moreInfo": "https://ballotpedia.org/Wyoming_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
