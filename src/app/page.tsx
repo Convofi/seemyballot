@@ -5,6 +5,7 @@ import type { District, LookupResult } from "@/lib/census";
 import FederalContests from "@/components/FederalContests";
 import { HowToVote, OfficialFallback } from "@/components/HowToVote";
 import StateLocalContests, { hasCountyBallot, hasStateBallot } from "@/components/StateLocalContests";
+import { VotingLogistics } from "@/components/VotingLogistics";
 
 type Status =
   | { kind: "idle" }
@@ -163,6 +164,7 @@ function Results({ result: r }: { result: LookupResult }) {
         </section>
       )}
 
+      <VotingLogistics state={r.state.abbr} />
       <HowToVote state={r.state.abbr} />
     </>
   );
