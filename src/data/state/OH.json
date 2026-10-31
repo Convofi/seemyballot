@@ -1,0 +1,847 @@
+{
+  "state": "OH",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Franklin County Board of Elections certified candidate and issue lists (the Ohio Secretary of State's site was offline when we checked). Local races can vary by precinct; confirm on your official sample ballot.",
+  "sources": [
+    "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5",
+    "https://vote.franklincountyohio.gov/getmedia/4001b052-1b90-4f73-b030-2d981e6ec8fa/2026-General-Certified-Questions-and-Issues",
+    "https://vote.franklincountyohio.gov/Candidates/Elected-Officials",
+    "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/08/25154554/Issues-for-11-3-26-2.pdf",
+    "https://ohiohouse.gov/members/directory",
+    "https://ohiosenate.gov/senators"
+  ],
+  "gaps": [
+    "Ohio Secretary of State (ohiosos.gov) returned a 'Website Maintenance' HTTP 403 on 2026-10-31, so statewide candidates come from the Franklin County BOE list and Issue 3 language from the Lake County BOE certified issues list.",
+    "Counties other than Franklin: no county, judicial, or local contests or issues.",
+    "Ohio Senate and House: only districts on Franklin County ballots (SD 3, 15, 25; HD 1-12).",
+    "Courts of Appeals outside the 10th District.",
+    "State Board of Education: no contest on Franklin County's certified list; other districts not checked.",
+    "Franklin County school district, career center and library issues (Issues 5, 6, 7; Delaware Area Career Center; Pickerington Local School District; Pickerington Public Library) are not shown because school district boundaries don't follow city lines.",
+    "Franklin County township issues (Issues 40, 41, 42, 43, 45, 47, 48) are not shown because the address lookup does not return townships.",
+    "Precinct-level local liquor options (Columbus 10A-17b, Grove City 29b, Hilliard 30b-33b, Madison-A 44A/44b, Plain-A 46A/46b) are not shown.",
+    "Columbus addresses in Delaware and Fairfield counties are not covered."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "oh-gov-2026-acton-amy",
+            "name": "Amy Acton",
+            "party": "Democratic",
+            "runningMate": "David Pepper",
+            "incumbent": false,
+            "website": "https://actonforgovernor.com/"
+          },
+          {
+            "key": "oh-gov-2026-kissick-don",
+            "name": "Don Kissick",
+            "party": "Libertarian",
+            "runningMate": "James L. Mills",
+            "incumbent": false
+          },
+          {
+            "key": "oh-gov-2026-ramaswamy-vivek",
+            "name": "Vivek Ramaswamy",
+            "party": "Republican",
+            "runningMate": "Robert A. McColley",
+            "incumbent": false,
+            "website": "https://vivekforohio.com/"
+          },
+          {
+            "key": "oh-gov-2026-grady-timothy",
+            "name": "Timothy Grady",
+            "party": "Other",
+            "runningMate": "Andrea Neutzling",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "oh-gov-2026-hill-heather",
+            "name": "Heather Hill",
+            "party": "Other",
+            "runningMate": "Patrick Manley",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "oh-gov-2026-turner-renea",
+            "name": "Renea Turner",
+            "party": "Other",
+            "runningMate": "Jalen Turner",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "oh-ag-2026-faber-keith",
+            "name": "Keith Faber",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.keithfaber.org/"
+          },
+          {
+            "key": "oh-ag-2026-kulewicz-john",
+            "name": "John J. Kulewicz",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://john4ohioag.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      {
+        "office": "Auditor of State",
+        "candidates": [
+          {
+            "key": "oh-aud-2026-blackwell-annette",
+            "name": "Annette Blackwell",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.blackwellforohio.com/"
+          },
+          {
+            "key": "oh-aud-2026-larose-frank",
+            "name": "Frank LaRose",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.franklarose.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "oh-sos-2026-pruss-tom",
+            "name": "Tom Pruss",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "oh-sos-2026-russo-allison",
+            "name": "Allison Russo",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://allisonrusso.com/"
+          },
+          {
+            "key": "oh-sos-2026-sprague-robert",
+            "name": "Robert Sprague",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.spragueforohio.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      {
+        "office": "Treasurer of State",
+        "candidates": [
+          {
+            "key": "oh-treas-2026-edwards-jay",
+            "name": "Jay Edwards",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.edwardsforohio.com/"
+          },
+          {
+            "key": "oh-treas-2026-walsh-seth",
+            "name": "Seth Walsh",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://teamwalshhq.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      {
+        "office": "Justice of the Supreme Court (term beginning 1/1/2027)",
+        "candidates": [
+          {
+            "key": "oh-sc-2026-0101-hawkins-daniel",
+            "name": "Daniel R. Hawkins",
+            "party": "Republican",
+            "incumbent": true,
+            "website": "https://www.hawkinsforohio.com/"
+          },
+          {
+            "key": "oh-sc-2026-0101-zayas-marilyn",
+            "name": "Marilyn Zayas",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://judgemarilynzayas.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      {
+        "office": "Justice of the Supreme Court (term beginning 1/2/2027)",
+        "candidates": [
+          {
+            "key": "oh-sc-2026-0102-brunner-jennifer",
+            "name": "Jennifer Brunner",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://justicebrunner.com/"
+          },
+          {
+            "key": "oh-sc-2026-0102-o-donnell-colleen",
+            "name": "Colleen O'Donnell",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.odonnellforohio.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Issue 3",
+        "title": "To Require Voters to Present Photo Identification in Order to Vote",
+        "summary": "Proposed by the Ohio General Assembly, this amendment would add a photo ID requirement for voting to the Ohio Constitution (new Section 5 of Article V). Approved IDs would be an unexpired Ohio driver license or state ID card, a U.S. passport or passport card, or a U.S. military, Ohio National Guard, or U.S. Department of Veterans Affairs ID card; state law could allow another way to verify identity for voters with a sincere religious objection to being photographed. Voters who do not vote in person would also need approved photo ID unless state law lets them vote by giving a signature and at least one other specified identifier.",
+        "yesMeans": "You approve adding the photo ID requirement to the Ohio Constitution. It would take effect immediately.",
+        "noMeans": "You reject the amendment, and the Ohio Constitution is not changed.",
+        "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/08/25154554/Issues-for-11-3-26-2.pdf"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {
+      "3": {
+        "office": "State Senator, Ohio Senate District 3",
+        "candidates": [
+          {
+            "key": "oh-sd03-2026-baker-stacie",
+            "name": "Stacie A. Baker",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "oh-sd03-2026-reynolds-michele",
+            "name": "Michele Reynolds",
+            "party": "Republican",
+            "incumbent": true,
+            "website": "https://www.michelereynolds.org/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "15": {
+        "office": "State Senator, Ohio Senate District 15",
+        "candidates": [
+          {
+            "key": "oh-sd15-2026-healy-joseph",
+            "name": "Joseph Healy",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "oh-sd15-2026-humphrey-latyna",
+            "name": "Latyna M. Humphrey",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "25": {
+        "office": "State Senator, Ohio Senate District 25",
+        "candidates": [
+          {
+            "key": "oh-sd25-2026-angus-raisheda",
+            "name": "Raisheda D. Angus",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "oh-sd25-2026-demora-bill",
+            "name": "Bill DeMora",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "oh-sd25-2026-roberts-don",
+            "name": "Don Roberts",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      }
+    },
+    "house": {
+      "1": {
+        "office": "State Representative, Ohio House District 1",
+        "candidates": [
+          {
+            "key": "oh-hd01-2026-greff-joel",
+            "name": "Joel A. Greff",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "oh-hd01-2026-jarrells-dontavius",
+            "name": "Dontavius Jarrells",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "2": {
+        "office": "State Representative, Ohio House District 2",
+        "candidates": [
+          {
+            "key": "oh-hd02-2026-king-charity",
+            "name": "Charity Martin King",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.campaign4charity.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "3": {
+        "office": "State Representative, Ohio House District 3",
+        "candidates": [
+          {
+            "key": "oh-hd03-2026-afriyie-elegant",
+            "name": "Elegant Afriyie",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "oh-hd03-2026-kent-bernadine",
+            "name": "Bernadine Kennedy Kent",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "oh-hd03-2026-mohamed-ismail",
+            "name": "Ismail Mohamed",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "4": {
+        "office": "State Representative, Ohio House District 4",
+        "candidates": [
+          {
+            "key": "oh-hd04-2026-piccolantonio-beryl",
+            "name": "Beryl Brown Piccolantonio",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://berylforohio.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "5": {
+        "office": "State Representative, Ohio House District 5",
+        "candidates": [
+          {
+            "key": "oh-hd05-2026-cole-richard",
+            "name": "Richard Cole",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "oh-hd05-2026-eldridge-eboney",
+            "name": "Eboney C. Eldridge",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "oh-hd05-2026-lawson-rowe-meredith",
+            "name": "Meredith R. Lawson-Rowe",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "6": {
+        "office": "State Representative, Ohio House District 6",
+        "candidates": [
+          {
+            "key": "oh-hd06-2026-cockley-christine",
+            "name": "Christine Cockley",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://www.cockleyforohio.com/"
+          },
+          {
+            "key": "oh-hd06-2026-jackson-matthew",
+            "name": "Matthew Jackson",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://votematthewjackson.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "7": {
+        "office": "State Representative, Ohio House District 7",
+        "candidates": [
+          {
+            "key": "oh-hd07-2026-jeter-ukeme",
+            "name": "Ukeme Awakessien Jeter",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.ukemeforus.com/"
+          },
+          {
+            "key": "oh-hd07-2026-koffel-cameron",
+            "name": "Cameron Koffel",
+            "party": "Independent",
+            "incumbent": false,
+            "website": "https://www.cameronkoffel.com/"
+          },
+          {
+            "key": "oh-hd07-2026-mercier-william",
+            "name": "William Mercier",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "8": {
+        "office": "State Representative, Ohio House District 8",
+        "candidates": [
+          {
+            "key": "oh-hd08-2026-hunter-kalagidis-kelly",
+            "name": "Kelly Hunter-Kalagidis",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "oh-hd08-2026-somani-anita",
+            "name": "Anita Somani",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://www.drsomani4ohio.com/"
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "9": {
+        "office": "State Representative, Ohio House District 9",
+        "candidates": [
+          {
+            "key": "oh-hd09-2026-abdullahi-munira",
+            "name": "Munira Yasin Abdullahi",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://www.muniraforohio.com/"
+          },
+          {
+            "key": "oh-hd09-2026-euans-bruce",
+            "name": "Bruce Euans",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "10": {
+        "office": "State Representative, Ohio House District 10",
+        "candidates": [
+          {
+            "key": "oh-hd10-2026-d-angelo-denise",
+            "name": "Denise D'Angelo",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "oh-hd10-2026-sigrist-mark",
+            "name": "Mark Sigrist",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "11": {
+        "office": "State Representative, Ohio House District 11",
+        "candidates": [
+          {
+            "key": "oh-hd11-2026-kaeser-shawn",
+            "name": "Shawn Kaeser",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.shawnkaeser.com/"
+          },
+          {
+            "key": "oh-hd11-2026-lett-crystal",
+            "name": "Crystal Lett",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      },
+      "12": {
+        "office": "State Representative, Ohio House District 12",
+        "candidates": [
+          {
+            "key": "oh-hd12-2026-stewart-brian",
+            "name": "Brian Stewart",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "oh-hd12-2026-yarsky-lee",
+            "name": "Lee Yarsky",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+      }
+    }
+  },
+  "counties": {
+    "Franklin County": {
+      "contests": [
+        {
+          "office": "Judge of the Court of Appeals, 10th District (term beginning 2/9/2027)",
+          "candidates": [
+            {
+              "key": "oh-app10-2026-0209-mentel-michael",
+              "name": "Michael C. Mentel",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Appeals, 10th District (term beginning 7/1/2027)",
+          "candidates": [
+            {
+              "key": "oh-app10-2026-0701-jamison-terri",
+              "name": "Terri Jamison",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-cpgen-0101-aveni-carl",
+              "name": "Carl Aveni",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-cpgen-0209-miller-andy",
+              "name": "Andy Miller",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Common Pleas, General Division (term beginning 7/1/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-cpgen-0701-young-david",
+              "name": "David Young",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Common Pleas, General Division (term beginning 7/2/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-cpgen-0702-brown-chris",
+              "name": "Chris Brown",
+              "party": "Nonpartisan",
+              "incumbent": true,
+              "website": "https://www.chrisbrownforohio.com/"
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/2/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-cpdr-0102-boller-kelley",
+              "name": "Kelley Gabrielle Boller",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/3/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-cpdr-0103-stroud-lasheyl",
+              "name": "Lasheyl N. Stroud",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-probate-0209-green-kelly",
+              "name": "Kelly Green",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "website": "https://kellygreenforjudge.com/"
+            },
+            {
+              "key": "oh-franklin-2026-probate-0209-junga-chris",
+              "name": "Chris Junga",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "website": "https://www.electjungajudge.com/"
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "County Auditor",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-auditor-stinziano-michael",
+              "name": "Michael Stinziano",
+              "party": "Democratic",
+              "incumbent": true,
+              "website": "https://michaelstinziano.com/"
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        },
+        {
+          "office": "County Commissioner (term beginning 1/1/2027)",
+          "candidates": [
+            {
+              "key": "oh-franklin-2026-commissioner-0101-crawley-erica",
+              "name": "Erica C. Crawley",
+              "party": "Democratic",
+              "incumbent": true,
+              "website": "https://ericacrawley.com/"
+            },
+            {
+              "key": "oh-franklin-2026-commissioner-0101-terford-eric",
+              "name": "Eric Terford",
+              "party": "Libertarian",
+              "incumbent": false
+            }
+          ],
+          "source": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+        }
+      ],
+      "measures": [],
+      "note": "School district, library, township and precinct liquor-option issues are not shown here. Check your official sample ballot for those.",
+      "municipalities": {
+        "Columbus": {
+          "contests": [],
+          "measures": [
+            {
+              "id": "Issue 8",
+              "title": "Columbus – Proposed Charter Amendment (by petition)",
+              "summary": "Would limit voting in each Columbus City Council district race to voters who live in that district, instead of letting every Columbus voter vote in every council race. Ballots in each district would list both the citywide races and that district's race. Voters in a district could start a recall of their district council member with a petition signed by at least 15% of the number of votes cast in that district in the previous mayoral election.",
+              "yesMeans": "Only residents of a council district could vote for that district's council member, and district-level recall petitions would be allowed.",
+              "noMeans": "The charter is not changed; all Columbus voters keep voting in every council race.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/258ab3a2-ddef-42a8-a869-c38b6c068a06/Notice-of-Election-Columbus-Charter-Amendment-1-Petition"
+            },
+            {
+              "id": "Issue 9",
+              "title": "Columbus – Proposed Charter Amendment (by Council)",
+              "summary": "Would also limit voting in each council district race to voters who live in that district, and would grow City Council from 9 to 11 members (2 at-large seats elected in 2027) and then to 13 (2 more at-large seats elected in 2029), with four-year terms. It calls for redrawing council districts in 2027, allows district populations to differ by up to 7.5% (up from 1%), and requires district candidates to have lived in their district for at least one year. It also changes the votes needed to expel members, quorum and passage rules, candidate petition signature counts, and recall rules for district and at-large members.",
+              "yesMeans": "District-only voting for district seats, a larger council with at-large seats, a 2027 redistricting, and the other listed rule changes are adopted.",
+              "noMeans": "The charter is not changed; the council stays at nine members elected by all Columbus voters.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/a3d9d75e-83ff-492a-98c4-a8cc09e1cd60/Notice-of-Election-Columbus-Charter-Amendment-2-Council"
+            }
+          ]
+        },
+        "Gahanna": {
+          "contests": [],
+          "measures": [
+            {
+              "id": "Issue 18",
+              "title": "Gahanna – Proposed Charter Amendment: Mayoral Primary Election",
+              "summary": "Amends Section 3.01 of the Gahanna charter so no mayoral primary election is held when two or fewer candidates file for mayor.",
+              "yesMeans": "No mayoral primary would be held when two or fewer candidates file.",
+              "noMeans": "The current mayoral primary rules stay in place.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/b9de826b-a83a-439a-a0c5-efe92f822069/Notice-of-Election-Gahanna-Charter-Amendment-Res-0026-Mayoral-Primary"
+            },
+            {
+              "id": "Issue 19",
+              "title": "Gahanna – Proposed Charter Amendment: Qualifications for Elected Officials",
+              "summary": "Amends Sections 3.02, 4.03 and 10.02 of the Gahanna charter to set one consistent standard on conflicts with other public offices and public employment for the Mayor, Council Members and the City Attorney.",
+              "yesMeans": "The same conflict-of-office and public-employment standard would apply to the Mayor, Council Members and City Attorney.",
+              "noMeans": "The current qualification rules for each office stay in place.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/0ee0fe06-f844-4f71-b458-28ef8e0ea000/Notice-of-Election-Gahanna-Charter-Amendment-Res-0027-Qualifications-for-Elected-Officials"
+            },
+            {
+              "id": "Issue 20",
+              "title": "Gahanna – Proposed Charter Amendment: Ward Boundary Adjustment",
+              "summary": "Amends Section 4.02 of the Gahanna charter so council ward boundaries are adjusted using federal census population data and specified limits on population differences between wards.",
+              "yesMeans": "Ward boundaries would be adjusted using census data and the specified population-difference criteria.",
+              "noMeans": "The current ward boundary process stays in place.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/4a3b473d-57f4-498c-8020-ddc8785873b7/Notice-of-Election-Gahanna-Charter-Amendment-Res-0028-Ward-Boundary-Adjustment"
+            },
+            {
+              "id": "Issue 21",
+              "title": "Gahanna – Proposed Charter Amendment: Legislative Procedures (Council Abstentions)",
+              "summary": "Amends Section 4.12 of the Gahanna charter so that an alleged improper abstention from voting by a Council member goes through the charter's notice-and-hearing procedure for removal.",
+              "yesMeans": "Alleged improper abstentions would be handled through the charter's removal notice-and-hearing process.",
+              "noMeans": "The current abstention rules stay in place.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/652ff06c-a7d8-4db9-9a4a-c83ca073f693/Notice-of-Election-Gahanna-Charter-Amendment-Res-0029-Legislative-Procedures"
+            },
+            {
+              "id": "Issue 22",
+              "title": "Gahanna – Proposed Charter Amendment: Administrative Departments",
+              "summary": "Amends Article V of the Gahanna charter to remove the list of city departments, keep the charter duties of the Director of Finance, and make related organizational changes.",
+              "yesMeans": "City departments would no longer be listed in the charter; the Finance Director's charter duties remain.",
+              "noMeans": "The charter keeps its current list of departments.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/f93c9d9c-4cb9-4d53-87ae-669c444aad21/Notice-of-Election-Gahanna-Charter-Amendment-Res-0030-Administrative-Departments"
+            },
+            {
+              "id": "Issue 23",
+              "title": "Gahanna – Proposed Charter Amendment: City Attorney",
+              "summary": "Amends Sections 10.01 and 10.03 of the Gahanna charter to clarify how a City Attorney vacancy is filled, update the office's powers and duties, and make grammar fixes.",
+              "yesMeans": "The City Attorney vacancy process and duties would be updated as described.",
+              "noMeans": "The current City Attorney provisions stay in place.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/f8a57f9b-447b-4313-bc4d-b5ae7c28b5a5/Notice-of-Election-Gahanna-Charter-Amendment-Res-0031-City-Attorney"
+            },
+            {
+              "id": "Issue 24",
+              "title": "Gahanna – Proposed Charter Amendment: Planning Commission Attendance",
+              "summary": "Amends Section 11.02 of the Gahanna charter to let the Planning Commission set attendance requirements for its members through its own rules.",
+              "yesMeans": "The Planning Commission could set attendance requirements for its members.",
+              "noMeans": "The Planning Commission could not set its own attendance requirements under the charter.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/d8306eeb-b5a2-4926-879d-e1164d0d8d90/Notice-of-Election-Gahanna-Charter-Amendment-Res-0032-Planning-Commission-Attendance"
+            },
+            {
+              "id": "Issue 25",
+              "title": "Gahanna – Proposed Charter Amendment: Zoning Appeal Functions",
+              "summary": "Amends Section 11.03 and repeals Article XII of the Gahanna charter, eliminating the Board of Zoning and Building Appeals. Zoning, building and landscaping appeals would go to the Planning Commission, and appeals of Planning Commission decisions would go to Franklin County courts.",
+              "yesMeans": "The Board of Zoning and Building Appeals would be eliminated and its appeals moved to the Planning Commission.",
+              "noMeans": "The Board of Zoning and Building Appeals stays in place.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/f8337a8f-e007-4d58-901f-50708c79e60c/Notice-of-Election-Gahanna-Charter-Amendment-Res-0033-Zoning-Appeal"
+            },
+            {
+              "id": "Issue 26",
+              "title": "Gahanna – Proposed Charter Amendment: Charter Review Commission",
+              "summary": "Amends Section 22.01 of the Gahanna charter so the Charter Review Commission is convened every ten years instead of every five.",
+              "yesMeans": "The Charter Review Commission would meet every ten years.",
+              "noMeans": "The Charter Review Commission keeps meeting every five years.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/e0a32b55-1464-4428-9577-7987e2002560/Notice-of-Election-Gahanna-Charter-Amendment-Res-0034-Charter-Review-Commission"
+            },
+            {
+              "id": "Issue 27",
+              "title": "Gahanna – Proposed Charter Amendment: Non-Discrimination Clause",
+              "summary": "Amends Section 23.07 of the Gahanna charter to update its nondiscrimination provisions to match the city's ordinances and applicable federal, state and local law.",
+              "yesMeans": "The charter's nondiscrimination clause would be updated as described.",
+              "noMeans": "The current nondiscrimination clause stays in place.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/dcd0b3ac-ac43-4e32-91f1-9e02d523c308/Notice-of-Election-Gahanna-Charter-Amendment-Res-0035-Non-Discrimination"
+            }
+          ]
+        },
+        "Grove City": {
+          "contests": [],
+          "measures": [
+            {
+              "id": "Issue 28",
+              "title": "Grove City – Proposed Charter Amendment (by petition): Community Consent Amendment",
+              "summary": "Adds a new Article XI to the Grove City charter requiring a public referendum before the city can approve any development, qualifying business expansion, or property transfer that covers 50 or more contiguous acres, is designed to draw more than 20 megawatts of power at peak, or uses more than 500,000 gallons of water a day. It also sets enforceable community impact standards for any approved facility.",
+              "yesMeans": "Large projects meeting those thresholds would need voter approval at a referendum, and impact standards would apply.",
+              "noMeans": "The charter is not changed; large projects follow the current approval process.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/a31afa4a-59cd-403e-a8b2-b817818c8ee7/Notice-of-Election-Grove-City-Community-Consent-Amendment"
+            }
+          ]
+        },
+        "Upper Arlington": {
+          "contests": [],
+          "measures": [
+            {
+              "id": "Issue 34",
+              "title": "Upper Arlington – Proposed Tax Levy (Renewal and Increase): Police and Fire Pension",
+              "summary": "Renews a 0.89-mill property tax and adds 0.24 mill, for a total of up to 1.13 mills for 5 years, to pay the city's employer contributions to the Ohio Police and Fire Pension Fund. The Board of Elections notice says this amounts to $26 for each $100,000 of county auditor's market value and estimates annual collections at $2,190,393.",
+              "yesMeans": "The 1.13-mill levy (renewal plus increase) is collected for 5 years.",
+              "noMeans": "The renewal and the increase are not approved.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/ffc9172a-34c0-45d8-87f1-a89683523a41/Notice-of-Election-Upper-Arlington-Pension-Issue"
+            }
+          ]
+        },
+        "Worthington": {
+          "contests": [],
+          "measures": [
+            {
+              "id": "Issue 35",
+              "title": "Worthington – Proposed Charter Amendment: Effective Date of Ordinances Recommended by Commission",
+              "summary": "Deletes Section 1.04 of the Worthington charter (referendum and effective date for zoning ordinances) and amends Sections 2.17 and 2.19 on how ordinances are passed and when they take effect. The exact wording is in Exhibit A of Ordinance No. 20-2026, which the ballot question refers to.",
+              "yesMeans": "Section 1.04 is deleted and Sections 2.17 and 2.19 are changed as written in Ordinance No. 20-2026.",
+              "noMeans": "These charter sections stay as they are.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/e5fcf186-61c5-4b5f-90b0-02b938519535/Notice-of-Election-Worthington-Charter-Amendment-Effective-Date-of-Ordinances-(Commission)"
+            },
+            {
+              "id": "Issue 36",
+              "title": "Worthington – Proposed Charter Amendment: Referendum Petition Signature Requirement Recommended by Commission",
+              "summary": "Adds Section 1.05 to the Worthington charter setting the signature requirement for a referendum petition at 10% of the number of city voters who voted for governor at the most recent gubernatorial election. This version was recommended by the Charter Review Commission; Issue 38, proposed by petition, covers the same topic with a different base.",
+              "yesMeans": "Referendum petitions would need signatures equal to 10% of the city's votes for governor in the last governor's race.",
+              "noMeans": "This version of the signature requirement is not added to the charter.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/47b7452e-7e55-4332-ae3b-70b9ca089ee7/Notice-of-Election-Worthington-Charter-Amendment-Referendum-Petition-Signature-Requirement-(Commission)"
+            },
+            {
+              "id": "Issue 37",
+              "title": "Worthington – Proposed Charter Amendment: Various Amendments Recommended by Commission",
+              "summary": "Amends various sections of the Worthington charter as set out in Exhibit A of Ordinance No. 22-2026, recommended by the Charter Review Commission. The ballot question does not list the individual changes; read the full text before voting.",
+              "yesMeans": "The charter changes in Exhibit A of Ordinance No. 22-2026 are adopted.",
+              "noMeans": "Those charter sections stay as they are.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/d5cacbd7-53d7-486d-a6b2-95b7d3334a54/Notice-of-Election-Worthington-Charter-Amendment-Various-Amendments-(Commission)"
+            },
+            {
+              "id": "Issue 38",
+              "title": "Worthington – Proposed Charter Amendment (by petition): Referendum Petition Signature Requirement",
+              "summary": "Adds Section 1.05 to the Worthington charter so referendums on ordinances follow state law except that the petition needs signatures from 10% of the city's electors, based on the total vote at the last general municipal election. This version was proposed by citizen petition; Issue 36, recommended by the Charter Review Commission, covers the same topic using the last governor's race as the base.",
+              "yesMeans": "Referendum petitions would need signatures equal to 10% of the total vote at the last municipal election.",
+              "noMeans": "This version of the signature requirement is not added to the charter.",
+              "source": "https://vote.franklincountyohio.gov/getmedia/29c79cde-2c75-452c-a204-b8710040537a/Notice-of-Election-Worthington-Charter-Amendment-Referendum-Petition-Signature-Requirement-(by-Petition)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
