@@ -9,8 +9,8 @@
     "earlyVoting": {
       "available": true,
       "start": "2026-10-19",
-      "end": "2026-11-03",
-      "note": "Early voting and absentee in-person voting run from Oct 19 through Election Day. Each location sets its own hours."
+      "end": "2026-11-02",
+      "note": "Early and in-person absentee voting run from Oct 19 through Election Day (Nov 3). Each location sets its own hours."
     },
     "mailBallot": {
       "whoCanVote": "any voter",
@@ -232,6 +232,39 @@
     ],
     "sourceNote": "The general line rule at regular polling places is confirmed on the official page only for Same-Day Registration sites (in line by 8:00 PM).",
     "verifiedAt": "2026-10-31T22:05:19Z"
+  },
+  "DC": {
+    "name": "District of Columbia",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "8:00 PM",
+      "note": "You can vote at any Vote Center in DC on Election Day."
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "note": "Early Vote Centers are open every day, 8:30 AM to 7:00 PM. You can register and vote at the same time."
+    },
+    "mailBallot": {
+      "whoCanVote": "all-mail state",
+      "returnDeadline": "Postmarked by Nov 3, received by Nov 13, 2026; or put in a drop box or at a Vote Center by 8:00 PM on Nov 3",
+      "note": "Ballots are mailed to all registered voters. Drop boxes are open through 8:00 PM on Nov 3. The deadline to fix (cure) a mail ballot problem is Nov 19."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register and vote at any Vote Center on Election Day. Bring proof of residence with your name and current DC address, such as a DC ID, a recent utility bill, bank statement, paycheck, government document, or lease.",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "The deadline for online and mail registration was Oct 13, 2026. You can still register and vote at a Vote Center on Election Day, Nov 3.",
+    "voterId": "Most voters do not need ID; if you are registering at a Vote Center, or are a first-time voter whose identity was not verified when you registered, bring proof of residence such as a DC ID, utility bill, bank statement, paycheck, government document, or lease.",
+    "lineRule": "If you are in line at 8:00 PM, you can still vote.",
+    "sources": [
+      "https://www.dcboe.org/",
+      "https://www.dcboe.org/getContentAsset/4d04f4a1-fb2a-4f8a-809f-d3f708f232df/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-Election-Calendar-Version-09292026.pdf?language=en",
+      "https://www.dcboe.org/faqs/voter-registration",
+      "https://www.dcboe.org/voters/register-to-vote/register-update-voter-registration"
+    ],
+    "sourceNote": "The first-time-voter ID rule is the federal HAVA rule; no DCBOE page I read stated it directly.",
+    "verifiedAt": "2026-10-31T22:19:00Z"
   },
   "DE": {
     "name": "Delaware",
@@ -1420,7 +1453,8 @@
       "https://sdlegislature.gov/api/Statutes/12-18-6.1.html",
       "https://sdlegislature.gov/api/Statutes/12-18-6.2.html"
     ],
-    "verifiedAt": "2026-10-31T22:15:29Z"
+    "verifiedAt": "2026-10-31T22:15:29Z",
+    "sourceNote": "The Secretary of State's absentee page does not list required excuses; any registered voter can apply, so this is shown as 'any voter'. The application must include a copy of photo ID or be notarized."
   },
   "TN": {
     "name": "Tennessee",
@@ -1705,5 +1739,42 @@
     ],
     "sourceNote": "Poll hours, line rule, and absentee excuse list come from the West Virginia Code (official legislature site) because the Secretary of State pages fetched did not state them.",
     "verifiedAt": "2026-10-31T22:05:56Z"
+  },
+  "WY": {
+    "name": "Wyoming",
+    "pollHours": {
+      "open": "7:00 AM",
+      "close": "7:00 PM"
+    },
+    "earlyVoting": {
+      "available": true,
+      "start": "2026-10-06",
+      "end": "2026-11-02",
+      "note": "In-person absentee voting at your county clerk's office, no reason needed. Not available on Election Day."
+    },
+    "mailBallot": {
+      "whoCanVote": "any voter",
+      "requestDeadline": "Request from your county clerk any day before Election Day (by Nov 2, 2026); allow up to 7 days for mail delivery",
+      "returnDeadline": "Received by your county clerk's office by 7:00 PM on Election Day (Nov 3, 2026)",
+      "note": "Return by mail or in person to your county clerk's office. Mail-in absentee voters do not need to show ID."
+    },
+    "sameDayRegistration": true,
+    "sameDayRegistrationNote": "You can register and vote at your polling place on Election Day. Bring a Wyoming driver's license or other ID, plus proof of U.S. citizenship and Wyoming residency (a 2025 law requires both; a Wyoming license without a non-citizen marking counts as proof of citizenship).",
+    "registrationDeadlinePassed": false,
+    "registrationNote": "Regular registration closed Oct 19, 2026. You can still register in person at your county clerk's office and vote absentee through Nov 2, or register and vote at your polling place on Nov 3.",
+    "voterId": "Bring an ID: a Wyoming or other-state driver's license or ID card, tribal ID, U.S. passport, military ID, a University of Wyoming, Wyoming community college, or Wyoming public school student ID, a Medicare or Medicaid card, or a Wyoming concealed firearm permit; free state IDs are available at Driver Services.",
+    "lineRule": "If you are in line at 7:00 PM, you can still vote.",
+    "sources": [
+      "https://sos.wyo.gov/Elections/Docs/2026/2026_Key_Election_Dates.pdf",
+      "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
+      "https://sos.wyo.gov/Elections/State/RegisteringToVote.aspx",
+      "https://sos.wyo.gov/Elections/VoterID/",
+      "https://sos.wyo.gov/Elections/Legislation/2025.aspx",
+      "https://www.ncsl.org/elections-and-campaigns/polling-places",
+      "https://www.ncsl.org/elections-and-campaigns/voter-id",
+      "https://ebench-dev.greeninfo.org/state/wyoming/statute/22-13-117"
+    ],
+    "sourceNote": "Poll hours come from NCSL, and the line rule comes from a reproduction of W.S. 22-13-117 (via search), because no Secretary of State page I read stated them. NCSL says a voter without ID gets a provisional ballot and must show ID to the county clerk by the next business day; the Secretary of State page did not say this.",
+    "verifiedAt": "2026-10-31T22:18:22Z"
   }
 }
