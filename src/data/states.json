@@ -1,4 +1,16 @@
 {
+  "AK": {
+    "name": "Alaska",
+    "electionOfficeName": "Alaska Division of Elections",
+    "electionOfficeUrl": "https://www.elections.alaska.gov/",
+    "pollingPlaceUrl": "https://www.elections.alaska.gov/election-polls/",
+    "sampleBallotUrl": "https://www.elections.alaska.gov/sample-ballots/",
+    "registrationCheckUrl": "https://myvoterportal.alaska.gov/",
+    "voterIdUrl": "https://www.elections.alaska.gov/Core/votingatthepollsonelectionday.php",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/Alaska_2026_ballot_measures",
+    "notes": "Alaska's general election uses ranked choice voting. Polls are open 7 a.m. to 8 p.m.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
   "AL": {
     "name": "Alabama",
     "electionOfficeName": "Alabama Secretary of State",
@@ -9,7 +21,7 @@
     "voterIdUrl": "https://www.sos.alabama.gov/alabama-votes/photo-voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Alabama_2026_ballot_measures",
     "notes": "Bring an approved photo ID to vote at the polls. Sample ballots are posted by county; open your county's sample ballot from the linked state page.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "AR": {
     "name": "Arkansas",
@@ -21,7 +33,7 @@
     "voterIdUrl": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Arkansas_2026_ballot_measures",
     "notes": "",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "AZ": {
     "name": "Arizona",
@@ -33,7 +45,7 @@
     "voterIdUrl": "https://azsos.gov/elections/voters/voting-elections",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Arizona_2026_ballot_measures",
     "notes": "Sample ballots come from your county; the link goes to the state's directory of county election offices. You must show ID to vote in person. Maricopa County voters are directed to locations.maricopa.vote to find a voting location.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "CA": {
     "name": "California",
@@ -45,7 +57,7 @@
     "voterIdUrl": "https://www.sos.ca.gov/elections/voting-resources/voting-california/what-bring",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/California_2026_ballot_measures",
     "notes": "Sample ballots are published by your county elections office; the link goes to the state's directory of county elections offices. Most voters do not need to show ID at the polls.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "CO": {
     "name": "Colorado",
@@ -57,7 +69,7 @@
     "voterIdUrl": "https://www.coloradosos.gov/pubs/elections/vote/acceptableFormsOfID.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Colorado_2026_ballot_measures",
     "notes": "Colorado mails a ballot to every registered voter. Your county clerk must receive it by 7 p.m. on Election Day; postmarks do not count, so use a drop box or voting location if it's late. Sample ballots come from your county; the link goes to the state's directory of county clerks.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "CT": {
     "name": "Connecticut",
@@ -69,7 +81,31 @@
     "voterIdUrl": "https://portal.ct.gov/SOTS/Election-Services/FAQ/FAQ---Voter-Identification",
     "ballotpediaMeasuresUrl": null,
     "notes": "Sample ballots are posted by town on the Secretary of the State's site as they become available; pick your town from the linked page.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "DC": {
+    "name": "District of Columbia",
+    "electionOfficeName": "District of Columbia Board of Elections",
+    "electionOfficeUrl": "https://www.dcboe.org/",
+    "pollingPlaceUrl": "https://www.dcboe.org/voters/find-out-where-to-vote/vote-center-locator-tool",
+    "sampleBallotUrl": "https://www.dcboe.org/elections/2026-elections",
+    "registrationCheckUrl": "https://apps.dcboe.org/VRS",
+    "voterIdUrl": "https://www.dcboe.org/faqs/early-voting-and-election-day",
+    "ballotpediaMeasuresUrl": null,
+    "notes": "Every registered DC voter is mailed a ballot. You can also vote in person at any vote center on Election Day, 7 a.m. to 8 p.m. Ranked choice voting is used in eligible contests with three or more candidates.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "DE": {
+    "name": "Delaware",
+    "electionOfficeName": "Delaware Department of Elections",
+    "electionOfficeUrl": "https://elections.delaware.gov/index.html",
+    "pollingPlaceUrl": "https://ivote.de.gov/voterview",
+    "sampleBallotUrl": "https://elections.delaware.gov/elections/general/sampleballots/GE2026/index.html",
+    "registrationCheckUrl": "https://ivote.de.gov/voterview",
+    "voterIdUrl": "https://elections.delaware.gov/public/faq/voting.html",
+    "ballotpediaMeasuresUrl": null,
+    "notes": "Sample ballots are listed by election district (RD-ED); look up your district with your address first. Absentee ballots must be received by the Department of Elections by 8 p.m. on Election Day.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "FL": {
     "name": "Florida",
@@ -81,7 +117,7 @@
     "voterIdUrl": "https://dos.fl.gov/elections/for-voters/voting/election-day-voting/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Florida_2026_ballot_measures",
     "notes": "Bring a current, valid photo ID with signature. On Election Day you must vote at your assigned precinct. Polling places and sample ballots are published by your county Supervisor of Elections; the links go to the state's county lists.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "GA": {
     "name": "Georgia",
@@ -93,7 +129,7 @@
     "voterIdUrl": "https://sos.ga.gov/page/georgia-voter-identification-requirements",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Georgia_2026_ballot_measures",
     "notes": "Georgia requires one of seven accepted forms of photo ID to vote in person.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "HI": {
     "name": "Hawaii",
@@ -105,7 +141,7 @@
     "voterIdUrl": "https://elections.hawaii.gov/voting/provisional-voting/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Hawaii_2026_ballot_measures",
     "notes": "Hawaii votes by mail; your ballot must be received by 7:00 p.m. on Election Day. Return it by mail or at a place of deposit, or vote in person at a voter service center.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "IA": {
     "name": "Iowa",
@@ -117,7 +153,7 @@
     "voterIdUrl": "https://voterready.iowa.gov/voter-id-information/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Iowa_2026_ballot_measures",
     "notes": "Sample ballots are published by your county auditor; the link goes to the state's directory of county auditors.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "ID": {
     "name": "Idaho",
@@ -129,7 +165,7 @@
     "voterIdUrl": "https://voteidaho.gov/guide-to-vote-in-person/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Idaho_2026_ballot_measures",
     "notes": "",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "IL": {
     "name": "Illinois",
@@ -141,7 +177,7 @@
     "voterIdUrl": "https://www.elections.il.gov/Main/FAQ.aspx",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Illinois_2026_ballot_measures",
     "notes": "Sample ballots are published by your local election authority (county clerk or election commission); the link goes to the state's directory of election authorities.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "IN": {
     "name": "Indiana",
@@ -153,7 +189,7 @@
     "voterIdUrl": "https://www.in.gov/sos/elections/voter-information/photo-id-law/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Indiana_2026_ballot_measures",
     "notes": "You must show a photo ID issued by the State of Indiana or the U.S. government to vote in person; IDs from schools are no longer accepted.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "KS": {
     "name": "Kansas",
@@ -165,7 +201,7 @@
     "voterIdUrl": "https://sos.ks.gov/elections/photo-id.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Kansas_2026_ballot_measures",
     "notes": "",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "KY": {
     "name": "Kentucky",
@@ -177,7 +213,7 @@
     "voterIdUrl": "https://elect.ky.gov/Voters/Pages/Absentee-Excused-In-Person.aspx",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Kentucky_2026_ballot_measures",
     "notes": "All voters must show identification at the polling place.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "LA": {
     "name": "Louisiana",
@@ -189,7 +225,7 @@
     "voterIdUrl": "https://www.sos.la.gov/elections-voting/voting-on-election-day-faqs",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Louisiana_2026_ballot_measures",
     "notes": "Bring a photo ID to vote; if you don't have one, you can sign a voter identification affidavit at the polls.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "MA": {
     "name": "Massachusetts",
@@ -201,7 +237,7 @@
     "voterIdUrl": "https://www.sec.state.ma.us/divisions/elections/voter-resources/when-where-how-do-i-vote.htm",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Massachusetts_2026_ballot_measures",
     "notes": "Ballots are run by your city or town; the sample ballot link goes to the state's directory of local election offices. You may be asked for ID if you are a first-time voter who registered by mail, an inactive voter, or casting a provisional or challenged ballot.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "MD": {
     "name": "Maryland",
@@ -213,7 +249,19 @@
     "voterIdUrl": "https://elections.maryland.gov/voting/election_day_questions.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Maryland_2026_ballot_measures",
     "notes": "Most voters do not need ID; some first-time Maryland voters will be asked to show it.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "ME": {
+    "name": "Maine",
+    "electionOfficeName": "Maine Secretary of State",
+    "electionOfficeUrl": "https://www.maine.gov/sos/elections-voting",
+    "pollingPlaceUrl": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php",
+    "sampleBallotUrl": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php",
+    "registrationCheckUrl": "https://www.maine.gov/sos/elections-voting/registering-to-vote",
+    "voterIdUrl": "https://www.maine.gov/sos/elections-voting/state-of-maine-voter-guide",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/Maine_2026_ballot_measures",
+    "notes": "Maine has no statewide online registration lookup; to find out if you are registered, contact your town or city election official. Ranked-choice voting is used for federal offices in the general election.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "MI": {
     "name": "Michigan",
@@ -225,7 +273,7 @@
     "voterIdUrl": "https://www.michigan.gov/sos/elections/voting/vote-on-election-day",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Michigan_2026_ballot_measures",
     "notes": "Photo ID is not required to vote; voters without one may sign an affidavit and cast a ballot. Polls are open 7 a.m. to 8 p.m. local time on Election Day.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "MN": {
     "name": "Minnesota",
@@ -237,7 +285,7 @@
     "voterIdUrl": "https://www.sos.mn.gov/elections-voting/election-day-voting/do-i-need-to-bring-id/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Minnesota_2026_ballot_measures",
     "notes": "If your registration is current, you don't need ID to vote. If you register or update your registration on Election Day, bring proof of residence.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "MO": {
     "name": "Missouri",
@@ -249,7 +297,7 @@
     "voterIdUrl": "https://www.sos.mo.gov/voterid",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Missouri_2026_ballot_measures",
     "notes": "Missouri requires a photo ID to vote a regular ballot; without one, you may cast a provisional ballot.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "MS": {
     "name": "Mississippi",
@@ -261,7 +309,19 @@
     "voterIdUrl": "https://www.sos.ms.gov/voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Mississippi_2026_ballot_measures",
     "notes": "",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "MT": {
+    "name": "Montana",
+    "electionOfficeName": "Montana Secretary of State",
+    "electionOfficeUrl": "https://sosmt.gov/elections/",
+    "pollingPlaceUrl": "https://voterportal.mt.gov/WhereToVote.aspx",
+    "sampleBallotUrl": "https://voterportal.mt.gov/WhereToVote.aspx",
+    "registrationCheckUrl": "https://voterportal.mt.gov/WhereToVote.aspx",
+    "voterIdUrl": "https://votemt.gov/voter-identification/",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/Montana_2026_ballot_measures",
+    "notes": "Montana requires a current photo ID to vote in person.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "NC": {
     "name": "North Carolina",
@@ -273,7 +333,19 @@
     "voterIdUrl": "https://www.ncsbe.gov/voting/voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/North_Carolina_2026_ballot_measures",
     "notes": "North Carolina asks voters to show photo ID; voters without an acceptable ID can still vote by completing an ID Exception Form.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "ND": {
+    "name": "North Dakota",
+    "electionOfficeName": "North Dakota Secretary of State",
+    "electionOfficeUrl": "https://www.sos.nd.gov/elections",
+    "pollingPlaceUrl": "https://vip.sos.nd.gov/WhereToVote.aspx?tab=AddressandVotingTimes",
+    "sampleBallotUrl": "https://vip.sos.nd.gov/WhereToVote.aspx?tab=SampleBallot",
+    "registrationCheckUrl": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
+    "voterIdUrl": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/North_Dakota_2026_ballot_measures",
+    "notes": "North Dakota does not have voter registration, but you must show a valid form of ID to vote.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "NE": {
     "name": "Nebraska",
@@ -285,7 +357,19 @@
     "voterIdUrl": "https://sos.nebraska.gov/voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Nebraska_2026_ballot_measures",
     "notes": "Not every county posts sample ballots in Voter Check; if yours doesn't, contact your county election office.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "NH": {
+    "name": "New Hampshire",
+    "electionOfficeName": "New Hampshire Secretary of State",
+    "electionOfficeUrl": "https://www.sos.nh.gov/elections",
+    "pollingPlaceUrl": "https://app.sos.nh.gov",
+    "sampleBallotUrl": "https://www.sos.nh.gov/elections/sample-ballots",
+    "registrationCheckUrl": "https://app.sos.nh.gov",
+    "voterIdUrl": "https://www.sos.nh.gov/election-day-voting",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/New_Hampshire_2026_ballot_measures",
+    "notes": "New Hampshire requires registered voters to show an accepted ID at the polls; check the Secretary of State's Election Day Voting page for the current list.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "NJ": {
     "name": "New Jersey",
@@ -297,7 +381,7 @@
     "voterIdUrl": "https://www.nj.gov/state/elections/assets/pdf/posters-bill-of-rights/2026-11-bill-of-rights-poster-english.pdf",
     "ballotpediaMeasuresUrl": null,
     "notes": "Sample ballots are mailed by your county; the link goes to the state's directory of county election officials. Most voters do not need ID, but some first-time voters who registered by mail must show ID at the polls.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "NM": {
     "name": "New Mexico",
@@ -309,7 +393,7 @@
     "voterIdUrl": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/New_Mexico_2026_ballot_measures",
     "notes": "",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "NV": {
     "name": "Nevada",
@@ -321,7 +405,7 @@
     "voterIdUrl": "https://www.nvsos.gov/elections/election-resources/faqs",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Nevada_2026_ballot_measures",
     "notes": "Nevada mails a ballot to every active registered voter; you can also vote in person.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "NY": {
     "name": "New York",
@@ -333,7 +417,7 @@
     "voterIdUrl": "https://vote.nyc/page/voter-id",
     "ballotpediaMeasuresUrl": null,
     "notes": "Sample ballots are published by your county board of elections; the link goes to the state's directory of county boards.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "OH": {
     "name": "Ohio",
@@ -345,7 +429,7 @@
     "voterIdUrl": "https://www.ohiosos.gov/elections/voter-ID-requirements",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Ohio_2026_ballot_measures",
     "notes": "Ohio requires an unexpired photo ID to vote in person. Sample ballots are listed by county in the Secretary of State's sample ballot directory.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "OK": {
     "name": "Oklahoma",
@@ -357,7 +441,7 @@
     "voterIdUrl": "https://oklahoma.gov/elections/voters/proof-of-identity.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Oklahoma_2026_ballot_measures",
     "notes": "On Election Day you must vote at your assigned polling place. Bring proof of identity, such as a government-issued photo ID or your county voter ID card.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "OR": {
     "name": "Oregon",
@@ -369,7 +453,7 @@
     "voterIdUrl": "https://sos.oregon.gov/elections/Documents/hava-and-other-election-laws.pdf",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Oregon_2026_ballot_measures",
     "notes": "Oregon votes by mail. Return your ballot to an official drop site by 8 p.m. on Election Day, or mail it with a postmark no later than Election Day. Ballots come from your county; the link goes to the state's list of county elections officials.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "PA": {
     "name": "Pennsylvania",
@@ -381,7 +465,19 @@
     "voterIdUrl": "https://www.pa.gov/agencies/vote/voter-support/new-voters",
     "ballotpediaMeasuresUrl": null,
     "notes": "If you are voting at your polling place for the first time, bring photo or non-photo ID. Sample ballots are published by your county; the link goes to the state's directory of county election offices.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "RI": {
+    "name": "Rhode Island",
+    "electionOfficeName": "Rhode Island Secretary of State",
+    "electionOfficeUrl": "https://vote.sos.ri.gov/",
+    "pollingPlaceUrl": "https://vote.sos.ri.gov/Home/PollingPlaces",
+    "sampleBallotUrl": "https://vote.sos.ri.gov/Home/PollingPlaces",
+    "registrationCheckUrl": "https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=0",
+    "voterIdUrl": "https://vote.sos.ri.gov/Content/Pdfs/voter_id_information.pdf",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/Rhode_Island_2026_ballot_measures",
+    "notes": "Poll workers will ask for a photo ID; if you don't have one, you can vote a provisional ballot.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "SC": {
     "name": "South Carolina",
@@ -393,7 +489,19 @@
     "voterIdUrl": "https://scvotes.gov/voters/photo-id-requirements/",
     "ballotpediaMeasuresUrl": null,
     "notes": "Bring a current photo ID to vote in person.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "SD": {
+    "name": "South Dakota",
+    "electionOfficeName": "South Dakota Secretary of State",
+    "electionOfficeUrl": "https://sdsos.gov/elections-voting/",
+    "pollingPlaceUrl": "https://vip.sdsos.gov/VIPLogin.aspx",
+    "sampleBallotUrl": "https://vip.sdsos.gov/VIPLogin.aspx",
+    "registrationCheckUrl": "https://vip.sdsos.gov/VIPLogin.aspx",
+    "voterIdUrl": "https://sdsos.gov/elections-voting/voting/default.aspx",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/South_Dakota_2026_ballot_measures",
+    "notes": "Polls are open 7 a.m. to 7 p.m. local time. Voters at the polls must show photo ID.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "TN": {
     "name": "Tennessee",
@@ -405,7 +513,7 @@
     "voterIdUrl": "https://sos.tn.gov/elections/voter-id-requirements",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Tennessee_2026_ballot_measures",
     "notes": "Bring a federal or Tennessee state-issued photo ID to vote in person; expired IDs are accepted, but college student IDs are not.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "TX": {
     "name": "Texas",
@@ -417,7 +525,7 @@
     "voterIdUrl": "https://www.votetexas.gov/voting/need-id.html",
     "ballotpediaMeasuresUrl": null,
     "notes": "Texas requires one of seven approved photo IDs to vote in person; voters who cannot reasonably obtain one may sign a Reasonable Impediment Declaration. Sample ballots are published by your county; the link goes to the state's directory of county election officials.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "UT": {
     "name": "Utah",
@@ -429,7 +537,7 @@
     "voterIdUrl": "https://vote.utah.gov/voter-id-requirements/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Utah_2026_ballot_measures",
     "notes": "Mailed ballots must be received by your county clerk by 8 p.m. on Election Day; you can also return your ballot to a drop box or polling location by 8 p.m.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "VA": {
     "name": "Virginia",
@@ -441,7 +549,19 @@
     "voterIdUrl": "https://www.elections.virginia.gov/registration/voterid/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Virginia_2026_ballot_measures",
     "notes": "If you don't have an acceptable ID at the polls, you can sign an ID Confirmation Statement and vote a regular ballot.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "VT": {
+    "name": "Vermont",
+    "electionOfficeName": "Vermont Secretary of State",
+    "electionOfficeUrl": "https://sos.vermont.gov/elections",
+    "pollingPlaceUrl": "https://sos.vermont.gov/elections/voters/polling-places",
+    "sampleBallotUrl": "https://vote.vermont.gov/",
+    "registrationCheckUrl": "https://vote.vermont.gov/",
+    "voterIdUrl": "https://sos.vermont.gov/elections/voters/voter-faqs",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/Vermont_2026_ballot_measures",
+    "notes": "Vermont mails a general election ballot to every active registered voter; you can return it to your town clerk or bring it to your polling place. All polling places close at 7 p.m.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "WA": {
     "name": "Washington",
@@ -453,7 +573,7 @@
     "voterIdUrl": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-about-elections",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Washington_2026_ballot_measures",
     "notes": "Washington votes by mail. Ballots in an official drop box by 8 p.m. on Election Day are guaranteed on time; this close to Election Day, the state recommends a drop box over the mail.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "WI": {
     "name": "Wisconsin",
@@ -465,7 +585,7 @@
     "voterIdUrl": "https://elections.wi.gov/acceptable-photo-ids",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Wisconsin_2026_ballot_measures",
     "notes": "You must show an acceptable photo ID to vote in Wisconsin.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   },
   "WV": {
     "name": "West Virginia",
@@ -477,6 +597,18 @@
     "voterIdUrl": "https://sos.wv.gov/be-registered-and-ready",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/West_Virginia_2026_ballot_measures",
     "notes": "Sample ballots are posted by county on the Secretary of State's site; select your county.",
-    "verifiedAt": "2026-10-31T21:56:03.805Z"
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
+  },
+  "WY": {
+    "name": "Wyoming",
+    "electionOfficeName": "Wyoming Secretary of State",
+    "electionOfficeUrl": "https://sos.wyo.gov/Elections/",
+    "pollingPlaceUrl": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VOSearch.aspx",
+    "sampleBallotUrl": "https://sos.wyo.gov/Elections/Docs/WYCountyClerks.pdf",
+    "registrationCheckUrl": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VoterRegistrationCheck.aspx",
+    "voterIdUrl": "https://sos.wyo.gov/Elections/VoterID/",
+    "ballotpediaMeasuresUrl": "https://ballotpedia.org/Wyoming_2026_ballot_measures",
+    "notes": "Wyoming requires an acceptable ID to vote in person. Sample ballots come from your county clerk; the link goes to the state's list of county clerks. Absentee ballots must reach your county clerk by 7 p.m. on Election Day.",
+    "verifiedAt": "2026-10-31T22:05:34.880Z"
   }
 }
