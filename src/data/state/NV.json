@@ -1,0 +1,204 @@
+{
+  "state": "NV",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates from the Clark County Registrar of Voters' certified notice of the November 3, 2026 general election; Questions 6 and 7 language from the Nevada Secretary of State's ballot question guide as published by the Legislative Counsel Bureau. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf",
+    "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf",
+    "https://www.leg.state.nv.us/Division/Research/Documents/BallotQuestions2024.pdf",
+    "https://news3lv.com/news/local/nevadans-will-only-vote-on-two-statewide-ballot-questions-this-year-the-fewest-since-2012-voter-id-identification-abortion-rights"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "The Nevada Secretary of State's site (nvsos.gov) blocked automated access on 2026-10-31, so statewide candidates come from Clark County's certified election notice (statewide contests are identical in every county).",
+    "Questions 6 and 7 use the official 2024 ballot question guide text (the same measures return for second approval); the 2026 numbering is from news coverage of the Secretary of State's 2026 Ballot Question Guide, which we could not load.",
+    "Every Nevada statewide contest also offers a \"None of these candidates\" option, which is not listed as a candidate here.",
+    "Board of Regents, State Board of Education and district court races are district-based and not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "nv-gov-2026-ford-aaron",
+            "name": "Aaron D. Ford",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "nv-gov-2026-ford-danielle",
+            "name": "Danielle Ford",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "nv-gov-2026-lombardo-joseph",
+            "name": "Joseph Lombardo",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "nv-ltgov-2026-anthony-stavros",
+            "name": "Stavros Anthony",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nv-ltgov-2026-hansen-janine",
+            "name": "Janine Hansen",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "nv-ltgov-2026-jauregui-sandra",
+            "name": "Sandra Jauregui",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "nv-sos-2026-aguilar-francisco",
+            "name": "Francisco \"Cisco\" Aguilar",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "nv-sos-2026-barnhill-brad",
+            "name": "Brad Lee Barnhill",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "nv-sos-2026-kennedy-john",
+            "name": "John T. Kennedy",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "nv-sos-2026-marchant-jim",
+            "name": "Jim Marchant",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "nv-treas-2026-johnson-drew",
+            "name": "Drew Johnson",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "nv-treas-2026-mathis-coleman-tya",
+            "name": "Tya Mathis-Coleman",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      },
+      {
+        "office": "State Controller",
+        "candidates": [
+          {
+            "key": "nv-ctrl-2026-macdougall-michael",
+            "name": "Michael MacDougall",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "nv-ctrl-2026-matthews-andy",
+            "name": "Andy Matthews",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "nv-ag-2026-cannizzaro-nicole",
+            "name": "Nicole Jeanette Cannizzaro",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "nv-ag-2026-guzman-fralick-adriana",
+            "name": "Adriana Guzmán Fralick",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court, Seat B (nonpartisan; one candidate plus \"None of these candidates\")",
+        "candidates": [
+          {
+            "key": "nv-sc-seat-b-2026-pickering-kristina",
+            "name": "Kristina Pickering",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court, Seat D (nonpartisan; one candidate plus \"None of these candidates\")",
+        "candidates": [
+          {
+            "key": "nv-sc-seat-d-2026-herndon-douglas",
+            "name": "Douglas Herndon",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:46b035ca-1d1f-4a0a-b748-a0f42dd45794/original/as/notice-general-election-26g.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Question 6",
+        "title": "Amendment to the Nevada Constitution (Initiative Petition C-05-2023): Right to Abortion",
+        "summary": "This citizen initiative would add a fundamental right to an abortion to the Nevada Constitution, protected from interference by state or local governments when performed by a qualified health care professional until fetal viability, or at any point when needed to protect the pregnant patient's life or health. Government could restrict the right only for a compelling state interest, meaning the least restrictive way to protect the patient's health consistent with accepted clinical standards. Voters approved it in 2024; it must pass again in 2026 to take effect.",
+        "yesMeans": "You approve adding a constitutional right to abortion to the Nevada Constitution, as voters also did in 2024.",
+        "noMeans": "The Nevada Constitution stays as it is; abortion remains legal under existing state law (generally up to 24 weeks), which the Legislature could change.",
+        "source": "https://www.leg.state.nv.us/Division/Research/Documents/BallotQuestions2024.pdf",
+        "moreInfo": "https://ballotpedia.org/Nevada_2026_ballot_measures"
+      },
+      {
+        "id": "Question 7",
+        "title": "Amendment to the Nevada Constitution (Initiative Petition C-02-2023): Voter Identification",
+        "summary": "This citizen initiative would amend the Nevada Constitution to require in-person voters to show an approved photo ID, such as a Nevada driver's license, state or federal ID card, U.S. passport, military ID, tribal ID, or Nevada public college student ID. Mail voters would have to provide the last four digits of their Nevada driver's license or Social Security number (or the number assigned at registration) to verify their identity. Voters approved it in 2024; if approved again in 2026, the changes would take effect for the 2028 election cycle.",
+        "yesMeans": "You approve adding photo ID for in-person voting and ID-number verification for mail voting to the Nevada Constitution.",
+        "noMeans": "The Nevada Constitution stays as it is, and voters would generally not have to show ID to vote except in the limited situations current law requires.",
+        "source": "https://www.leg.state.nv.us/Division/Research/Documents/BallotQuestions2024.pdf",
+        "moreInfo": "https://ballotpedia.org/Nevada_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
