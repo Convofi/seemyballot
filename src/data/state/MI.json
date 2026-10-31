@@ -1,0 +1,527 @@
+{
+  "state": "MI",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates are from the Oakland County Clerk's official candidate list for the November 3, 2026 general election (updated 10/30/2026), and proposal wording is from the Oakland County official proposal list and the Michigan House Fiscal Agency; the state's own candidate listing site did not respond when we checked. Confirm on your official sample ballot.",
+  "sources": [
+    "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1",
+    "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/clerk-elections/elections-voting/11032026-proposal-list.pdf?sfvrsn=8d0d66ab_1",
+    "https://www.house.mi.gov/hfa/PDF/Alpha/Ballot_Proposal_1_of_2026.pdf",
+    "https://legislature.mi.gov/documents/2025-2026/initiative/Ballot_Proposal_2_of_2026.pdf",
+    "https://lwvmi.org/wp-content/uploads/2026/09/BallotProposalsED2026-1.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Michigan's statewide candidate listing (mielections.us) did not respond on 2026-10-31, and the Board of State Canvassers ballot-language PDF on michigan.gov returned 403/404, so statewide data comes from Oakland County's official lists, which include every statewide race.",
+    "Court of Appeals races are by district and are not included.",
+    "Party 'Other' means the U.S. Taxpayers, Working Class or Natural Law Party, as printed on the ballot. 'Independent' write-ins are listed as No Party Affiliation.",
+    "Declared write-in candidates are from Oakland County's list as of 10/30/2026; the list shows no running mates for gubernatorial write-ins.",
+    "Supreme Court candidates appear in the nonpartisan section with no party label, though they were nominated at party conventions.",
+    "Campaign websites not added."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "mi-gov-2026-benson-jocelyn",
+            "name": "Jocelyn Benson",
+            "party": "Democratic",
+            "runningMate": "Winnie Brinks",
+            "incumbent": false
+          },
+          {
+            "key": "mi-gov-2026-james-john",
+            "name": "John James",
+            "party": "Republican",
+            "runningMate": "Jay DeBoyer",
+            "incumbent": false
+          },
+          {
+            "key": "mi-gov-2026-hudson-anthony",
+            "name": "Anthony Hudson",
+            "party": "Libertarian",
+            "runningMate": "Beau Parmenter",
+            "incumbent": false
+          },
+          {
+            "key": "mi-gov-2026-brandenburg-donna",
+            "name": "Donna Brandenburg",
+            "party": "Other",
+            "runningMate": "Robert Donald Cowper II",
+            "incumbent": false
+          },
+          {
+            "key": "mi-gov-2026-campbell-douglas",
+            "name": "Douglas Campbell",
+            "party": "Green",
+            "runningMate": "Bobbie Clay",
+            "incumbent": false
+          },
+          {
+            "key": "mi-gov-2026-adkins-cecelia",
+            "name": "Cecelia Lea Adkins",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-badgley-timothy",
+            "name": "Timothy J. Badgley",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-blackburn-justin",
+            "name": "Justin Paul Blackburn",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-brown-angelo",
+            "name": "Angelo Scott Brown",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-hunt-joseph",
+            "name": "Joseph Michael Hunt",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-lester-henry",
+            "name": "Henry Joseph Lester",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-space-evan",
+            "name": "Evan Sebastian Space",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-stahl-william",
+            "name": "William James Stahl",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "mi-gov-2026-thomas-kimberly",
+            "name": "Kimberly Ruby-Ann Thomas",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "mi-sos-2026-gilchrist-garlin",
+            "name": "Garlin Gilchrist II",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sos-2026-forlini-anthony",
+            "name": "Anthony G. Forlini",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sos-2026-sloan-christine",
+            "name": "Christine Sloan",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sos-2026-aughney-scott",
+            "name": "Scott E. Aughney",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sos-2026-borregard-eric",
+            "name": "Eric Borregard",
+            "party": "Green",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "mi-ag-2026-savit-eli",
+            "name": "Eli Savit",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "mi-ag-2026-lloyd-doug",
+            "name": "Doug Lloyd",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-ag-2026-dye-jason",
+            "name": "Jason Dye",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-ag-2026-ludtke-john",
+            "name": "John Perry Ludtke, Jr.",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-ag-2026-polonowski-jeff",
+            "name": "Jeff Polonowski",
+            "party": "Green",
+            "incumbent": false
+          },
+          {
+            "key": "mi-ag-2026-dern-doug",
+            "name": "Doug Dern",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      },
+      {
+        "office": "Member of the State Board of Education",
+        "seats": 2,
+        "candidates": [
+          {
+            "key": "mi-sbe-2026-pritchett-judith",
+            "name": "Judith Pritchett",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "mi-sbe-2026-tilley-tiffany",
+            "name": "Tiffany Tilley",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "mi-sbe-2026-collins-terence",
+            "name": "Terence Collins",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-moeggenberg-bree",
+            "name": "Bree Moeggenberg",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-essner-charles",
+            "name": "Charles Essner",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-mohr-william",
+            "name": "William Mohr II",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-schwartz-christine",
+            "name": "Christine C. Schwartz",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-charafeddine-wissam",
+            "name": "Wissam Charafeddine",
+            "party": "Green",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-hering-mary",
+            "name": "Mary Anne Hering",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-monroe-kelli",
+            "name": "Kelli Monroe",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-sbe-2026-strickland-jennifer",
+            "name": "Jennifer Lynn Strickland",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      },
+      {
+        "office": "Regent of the University of Michigan",
+        "seats": 2,
+        "candidates": [
+          {
+            "key": "mi-um-regent-2026-brown-paul",
+            "name": "Paul Brown",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "mi-um-regent-2026-makled-amir",
+            "name": "Amir Makled",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "mi-um-regent-2026-epstein-lena",
+            "name": "Lena Epstein",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-um-regent-2026-schostak-michael",
+            "name": "Michael Schostak",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-um-regent-2026-chadderdon-andrew",
+            "name": "Andrew Chadderdon",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-um-regent-2026-maas-kyle",
+            "name": "Kyle Maas",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      },
+      {
+        "office": "Trustee of Michigan State University",
+        "seats": 2,
+        "candidates": [
+          {
+            "key": "mi-msu-trustee-2026-scott-brianna",
+            "name": "Brianna Scott",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "mi-msu-trustee-2026-zemke-kelly",
+            "name": "Kelly Tebay Zemke",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "mi-msu-trustee-2026-maday-julie",
+            "name": "Julie Maday",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-msu-trustee-2026-victory-roger",
+            "name": "Roger Victory",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-msu-trustee-2026-patterson-daniel",
+            "name": "Daniel R. Patterson",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-msu-trustee-2026-white-will",
+            "name": "Will Tyler White",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-msu-trustee-2026-sanger-janet",
+            "name": "Janet Sanger",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-msu-trustee-2026-sanger-john",
+            "name": "John Sanger",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-msu-trustee-2026-lapietra-john",
+            "name": "John Anthony La Pietra",
+            "party": "Green",
+            "incumbent": false
+          },
+          {
+            "key": "mi-msu-trustee-2026-ozbek-yaz",
+            "name": "Yaz Ozbek",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      },
+      {
+        "office": "Governor of Wayne State University",
+        "seats": 2,
+        "candidates": [
+          {
+            "key": "mi-wsu-governor-2026-akeel-shereef",
+            "name": "Shereef Akeel",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-mack-richard",
+            "name": "Richard Mack",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-anuzis-andy",
+            "name": "Andy Anuzis",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-murphy-christa",
+            "name": "Christa Murphy",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-avery-alex",
+            "name": "Alex Avery",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-vanalstine-jami",
+            "name": "Jami Van Alstine",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-mcdonald-jeff",
+            "name": "Jeff McDonald",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-ragan-paul",
+            "name": "Paul M. Ragan",
+            "party": "Green",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-roehrig-suzanne",
+            "name": "Suzanne Roehrig",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "mi-wsu-governor-2026-oakford-kathleen",
+            "name": "Kathleen Oakford",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      },
+      {
+        "office": "Justice of the Supreme Court (nonpartisan section)",
+        "seats": 2,
+        "candidates": [
+          {
+            "key": "mi-supreme-court-2026-cavanagh-megan",
+            "name": "Megan Kathleen Cavanagh",
+            "party": "Nonpartisan",
+            "incumbent": true
+          },
+          {
+            "key": "mi-supreme-court-2026-hood-noah",
+            "name": "Noah P. Hood",
+            "party": "Nonpartisan",
+            "incumbent": true
+          },
+          {
+            "key": "mi-supreme-court-2026-howe-thomas",
+            "name": "Thomas W. Howe",
+            "party": "Nonpartisan",
+            "incumbent": false
+          },
+          {
+            "key": "mi-supreme-court-2026-morse-bills-casandra",
+            "name": "Casandra Morse-Bills",
+            "party": "Nonpartisan",
+            "incumbent": false
+          },
+          {
+            "key": "mi-supreme-court-2026-warren-michael",
+            "name": "Michael Warren",
+            "party": "Nonpartisan",
+            "incumbent": false
+          },
+          {
+            "key": "mi-supreme-court-2026-white-jody",
+            "name": "Jody White",
+            "party": "Nonpartisan",
+            "incumbent": false
+          }
+        ],
+        "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Proposal 2026-1",
+        "title": "A proposal to convene a constitutional convention for the purpose of drafting a general revision of the state constitution",
+        "summary": "The Michigan Constitution requires this question to go to voters every 16 years; it was placed on the ballot automatically, not by the Legislature or a petition. If a majority votes yes, voters would elect 148 delegates (one per state House and Senate district) in 2027, and the convention would draft a general revision of the state constitution. Any revision the convention proposes would take effect only if voters later approve it.",
+        "yesMeans": "A convention of elected delegates would be convened in 2027 to draft a general revision of the Michigan Constitution, which would then go to voters for approval or rejection.",
+        "noMeans": "No constitutional convention is held, and the question returns to the ballot automatically in 2042.",
+        "source": "https://www.house.mi.gov/hfa/PDF/Alpha/Ballot_Proposal_1_of_2026.pdf",
+        "moreInfo": "https://ballotpedia.org/Michigan_Proposal_1,_Constitutional_Convention_Question_(2026)"
+      },
+      {
+        "id": "Proposal 2026-2",
+        "title": "A proposed initiated law to prohibit campaign contributions from certain regulated utilities and government contractors and apply campaign finance laws and regulations to additional types of political communications",
+        "summary": "This citizen-initiated law would amend the Michigan Campaign Finance Act to bar regulated electric and gas utilities, contractors with more than $250,000 a year in government contracts, and people and organizations closely connected to them from making direct or indirect campaign contributions to those who run for or hold offices that affect them. It would also extend campaign finance rules, including donor disclosure, to communications that clearly identify candidates or ballot questions even if they do not expressly urge a vote for or against them. It would expressly require internet political communications to disclose who paid for them.",
+        "yesMeans": "You approve the initiated law: the contribution bans for regulated utilities and large government contractors take effect, and disclosure and spending rules expand to cover more political communications, including internet ads.",
+        "noMeans": "You reject the initiated law, and Michigan's current campaign finance laws stay as they are.",
+        "source": "https://legislature.mi.gov/documents/2025-2026/initiative/Ballot_Proposal_2_of_2026.pdf",
+        "moreInfo": "https://ballotpedia.org/Michigan_Proposal_2,_Utility_and_Government_Contractor_Campaign_Finance_Regulations_Initiative_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
