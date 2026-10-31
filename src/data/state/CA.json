@@ -1,0 +1,315 @@
+{
+  "state": "CA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the California Secretary of State's Certified List of Candidates (Aug. 27, 2026) and the Official Voter Information Guide for the November 3, 2026 General Election. Confirm on your official sample ballot.",
+  "sources": [
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+    "https://voterguide.sos.ca.gov/quick-reference-guide/",
+    "https://voterguide.sos.ca.gov/propositions/",
+    "https://www.sos.ca.gov/elections/upcoming-elections/general-election-november-3-2026"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "State Board of Equalization (Districts 1-4) contests are on the certified list but not shown, because they are district races.",
+    "Court of Appeal retention questions (by appellate district) are not shown.",
+    "No certified write-in candidate list was found on the Secretary of State site; write-in candidates, if any, are not shown.",
+    "Candidate campaign websites not yet added."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "ca-gov-2026-becerra-xavier",
+            "name": "Xavier Becerra",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ca-gov-2026-hilton-steve",
+            "name": "Steve Hilton",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ca-ltgov-2026-ma-fiona",
+            "name": "Fiona Ma",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ca-ltgov-2026-romero-gloria",
+            "name": "Gloria Romero",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "ca-sos-2026-weber-shirley",
+            "name": "Shirley N. Weber",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ca-sos-2026-wagner-donald",
+            "name": "Donald P. (Don) Wagner",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Controller",
+        "candidates": [
+          {
+            "key": "ca-controller-2026-cohen-malia",
+            "name": "Malia M. Cohen",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ca-controller-2026-morgan-herb",
+            "name": "Herb W Morgan",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Treasurer",
+        "candidates": [
+          {
+            "key": "ca-treas-2026-kounalakis-eleni",
+            "name": "Eleni Kounalakis",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ca-treas-2026-hawks-jennifer",
+            "name": "Jennifer Hawks",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ca-ag-2026-bonta-rob",
+            "name": "Rob Bonta",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ca-ag-2026-gates-michael",
+            "name": "Michael E. Gates",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Insurance Commissioner",
+        "candidates": [
+          {
+            "key": "ca-ins-2026-allen-ben",
+            "name": "Ben Allen",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ca-ins-2026-kim-jane",
+            "name": "Jane Kim",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Superintendent of Public Instruction (nonpartisan)",
+        "candidates": [
+          {
+            "key": "ca-spi-2026-barrera-richard",
+            "name": "Richard Barrera",
+            "party": "Nonpartisan",
+            "incumbent": false
+          },
+          {
+            "key": "ca-spi-2026-shaw-sonja",
+            "name": "Sonja Shaw",
+            "party": "Nonpartisan",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Associate Justice of the Supreme Court — retain Kelli M. Evans? (yes/no retention)",
+        "candidates": [
+          {
+            "key": "ca-sc-2026-evans-kelli",
+            "name": "Kelli M. Evans",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      },
+      {
+        "office": "Associate Justice of the Supreme Court — retain Joshua Groban? (yes/no retention)",
+        "candidates": [
+          {
+            "key": "ca-sc-2026-groban-joshua",
+            "name": "Joshua Groban",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Proposition 1",
+        "title": "Authorizes Bonds for Housing Affordability Programs. Legislative Statute.",
+        "summary": "Placed on the ballot by the Legislature, this measure lets the state sell $11.25 billion in general obligation bonds for housing programs, including multifamily rental housing, home loans for veterans, supportive housing, preserving existing affordable housing, and down-payment help. The Legislative Analyst estimates repayment would cost the state $500 million to $600 million a year for about 25 years.",
+        "yesMeans": "The state could borrow $11.25 billion to support veterans and affordable housing.",
+        "noMeans": "The state could not borrow $11.25 billion to support veterans and affordable housing.",
+        "source": "https://voterguide.sos.ca.gov/propositions/1/",
+        "moreInfo": "https://ballotpedia.org/California_Proposition_1,_Veteran_and_Housing_Assistance_Programs_Bond_Measure_(2026)"
+      },
+      {
+        "id": "Proposition 2",
+        "title": "Increases State's Rainy Day Fund. Legislative Constitutional Amendment.",
+        "summary": "Placed on the ballot by the Legislature, this constitutional amendment changes the rules for California's Rainy Day Fund (approved by voters in 2014) so the state can build larger budget reserves for use in economic downturns. It also requires the state to keep making extra payments on certain debts for longer.",
+        "yesMeans": "Rules for building state budget reserves and paying down extra state debts would change, state budget reserves would be higher, and the state would have to make extra debt payments for longer.",
+        "noMeans": "Rules for building state budget reserves and paying down extra state debts would not change.",
+        "source": "https://voterguide.sos.ca.gov/propositions/2/",
+        "moreInfo": "https://ballotpedia.org/California_Budget_Stabilization_Account_Cap_Increase_and_Gann_Limit_Changes_Amendment_(2026)"
+      },
+      {
+        "id": "Proposition 3",
+        "title": "Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes. Initiative Constitutional Amendment.",
+        "summary": "Placed on the ballot by petition, this constitutional amendment makes permanent the higher income tax rates that voters approved in 2012 for individuals earning over $371,000 a year (adjusted for inflation), which are now set to expire in 2031. The revenue would go to public education and health care; the Legislative Analyst estimates it keeps $5 billion to $15 billion a year in state revenue.",
+        "yesMeans": "The income tax increase on high-income earners in place since 2012 would become permanent instead of expiring in 2031.",
+        "noMeans": "The income tax increase on high-income earners in place since 2012 would expire in 2031.",
+        "source": "https://voterguide.sos.ca.gov/propositions/3/"
+      },
+      {
+        "id": "Proposition 4",
+        "title": "Repeals Prohibition Against Public Funding of Election Campaigns. Legislative Statute.",
+        "summary": "Placed on the ballot by the Legislature, this measure repeals the current ban on state and local governments offering public funding to candidates' election campaigns. Public funding programs could not use money earmarked for education, transportation, or public safety.",
+        "yesMeans": "State and local governments could create public campaign financing programs for candidates, subject to limits on which public funds could be used, how, and who could receive them.",
+        "noMeans": "State and most local governments would remain unable to create public campaign finance programs for candidates.",
+        "source": "https://voterguide.sos.ca.gov/propositions/4/",
+        "moreInfo": "https://ballotpedia.org/California_Public_Funding_of_Elections_Measure_(2026)"
+      },
+      {
+        "id": "Proposition 5",
+        "title": "Changes Recall Election Process for Statewide Officers. Legislative Constitutional Amendment.",
+        "summary": "Placed on the ballot by the Legislature, this constitutional amendment changes how a statewide officer's seat is filled after a recall. Today voters pick a replacement on the same ballot as the recall question; under this measure the vacancy would instead be filled later by special election or appointment.",
+        "yesMeans": "Recall elections would no longer include a question about who should fill the vacancy; vacancies would typically be filled through special elections or appointments, depending on the office and timing.",
+        "noMeans": "Voters would continue to be asked who should fill the vacancy as part of recall elections.",
+        "source": "https://voterguide.sos.ca.gov/propositions/5/",
+        "moreInfo": "https://ballotpedia.org/California_Eliminate_Successor_Election_at_a_State_Officer_Recall_Election_Amendment_(2026)"
+      },
+      {
+        "id": "Proposition 37",
+        "title": "Creates Loan Program for Middle-Income Buyers of Qualified New Homes. Initiative Statute.",
+        "summary": "Placed on the ballot by petition, this measure authorizes up to $25 billion in revenue bonds to give eligible buyers fixed-rate loans for up to 17% of the price of a newly built home priced below about $1.5 million. Buyers must be California residents who live in the home, meet income limits, and put at least 3% down; the bonds are repaid from borrowers' loan payments, not the state.",
+        "yesMeans": "The state would create a new homebuying assistance program and could sell up to $25 billion in revenue bonds to fund it, repaid by homeowners' loan payments.",
+        "noMeans": "The state would not be required to create a new homebuying assistance program.",
+        "source": "https://voterguide.sos.ca.gov/propositions/37/"
+      },
+      {
+        "id": "Proposition 38",
+        "title": "Authorizes Bonds for Immunology Medical Research. Initiative Statute.",
+        "summary": "Placed on the ballot by petition, this measure authorizes $8.4 billion in state general obligation bonds for immunology and immunotherapy research, with half going to a single University of California-affiliated nonprofit research institute and half to research grants. The Legislative Analyst estimates repayment would cost the state $500 million to $600 million a year for about 20 years, possibly offset in part by revenue from the research.",
+        "yesMeans": "The state could borrow $8.4 billion to support immunology and immunotherapy research by California research institutes and universities.",
+        "noMeans": "The state could not borrow $8.4 billion for this research.",
+        "source": "https://voterguide.sos.ca.gov/propositions/38/"
+      },
+      {
+        "id": "Proposition 39",
+        "title": "Prohibits Citizens from Voting Unless They Present Government-Issued Identification. Initiative Constitutional Amendment.",
+        "summary": "Placed on the ballot by petition, this constitutional amendment would bar in-person voting without government-issued identification. Mail ballots would be invalid unless the envelope includes the last four digits of a designated government-issued ID number.",
+        "yesMeans": "Voters would be required to present additional identifying information to elections officials each time they vote.",
+        "noMeans": "A voter's identity would continue to be established with the voter's signature.",
+        "source": "https://voterguide.sos.ca.gov/propositions/39/"
+      },
+      {
+        "id": "Proposition 40",
+        "title": "Imposes One-Time Tax on Certain Taxpayers. Initiative Constitutional Amendment and Statute.",
+        "summary": "Placed on the ballot by petition, this measure imposes a one-time 5% tax on the wealth of certain taxpayers with assets over $1 billion, with revenue going mainly to health care. The revenue would be exempt from constitutional school-funding requirements and the state spending limit.",
+        "yesMeans": "The state would collect a one-time tax from billionaires equal to 5 percent of their wealth.",
+        "noMeans": "The state would not collect a one-time tax from billionaires equal to 5 percent of their wealth.",
+        "source": "https://voterguide.sos.ca.gov/propositions/40/"
+      },
+      {
+        "id": "Proposition 41",
+        "title": "Prohibits New State Taxes That Exclude Revenues from State Spending Limit. Requires Audits for New State Special Taxes. Initiative Constitutional Amendment.",
+        "summary": "Placed on the ballot by petition, this constitutional amendment cancels state taxes enacted after January 1, 2026 that exempt their revenue from the voter-approved state spending limit. It also requires the State Auditor to review programs funded by proposed and new special taxes, before the election and on a recurring basis.",
+        "yesMeans": "The State Auditor would review programs funded by special taxes before initiatives proposing them reach the ballot and regularly afterward, and the state might not be able to exclude new special tax spending from its spending limit.",
+        "noMeans": "The State Auditor's review responsibilities and the state spending limit requirements would not change.",
+        "source": "https://voterguide.sos.ca.gov/propositions/41/"
+      },
+      {
+        "id": "Proposition 42",
+        "title": "Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes. Initiative Constitutional Amendment.",
+        "summary": "Placed on the ballot by petition, this constitutional amendment bars any new state tax on owning personal property (everything people own other than real estate, such as financial assets) and any new state tax that applies retroactively based on a taxpayer's past activities. It cancels taxes enacted after January 1, 2026 that conflict with these rules.",
+        "yesMeans": "The state could not establish new taxes on the ownership of financial assets or other personal property.",
+        "noMeans": "The state would keep the option to establish new taxes on the ownership of financial assets or other personal property.",
+        "source": "https://voterguide.sos.ca.gov/propositions/42/"
+      },
+      {
+        "id": "Proposition 43",
+        "title": "Limits Voters' Ability to Raise Revenues for Local Government Services. Legislative Constitutional Amendment.",
+        "summary": "Placed on the ballot by the Legislature, this constitutional amendment raises the vote needed to pass local special taxes proposed by voter initiative from a simple majority to two-thirds, starting January 1, 2027.",
+        "yesMeans": "Certain local government taxes would require two-thirds approval by voters.",
+        "noMeans": "Certain local government taxes could continue to be approved by voters with a majority vote.",
+        "source": "https://voterguide.sos.ca.gov/propositions/43/",
+        "moreInfo": "https://ballotpedia.org/California_Proposition_43,_Two-Thirds_Vote_Requirement_for_Local_Special_Tax_Initiatives_and_Property_Tax_Initiative_Prohibition_Amendment_(2026)"
+      },
+      {
+        "id": "Proposition 44",
+        "title": "Requires Community Health Clinics Spend 90% of Revenue on Program Services. Initiative Statute.",
+        "summary": "Placed on the ballot by petition, this measure penalizes nonprofit Federally Qualified Health Centers (community clinics serving medically underserved areas) that spend less than 90% of their revenue on program services that advance their charitable purpose, such as patient care. The Legislative Analyst estimates state costs in the low tens of millions of dollars a year, covered by fees.",
+        "yesMeans": "Certain private nonprofit health care clinics would have to spend at least 90 percent of their revenue each year on providing health care services.",
+        "noMeans": "The new requirement on health care clinic spending would not go into effect.",
+        "source": "https://voterguide.sos.ca.gov/propositions/44/"
+      },
+      {
+        "id": "Proposition 45",
+        "title": "Modifies Environmental Review for Certain Projects. Initiative Statute.",
+        "summary": "Placed on the ballot by petition, this measure amends the California Environmental Quality Act (CEQA) to speed up environmental review for certain projects, including most housing, transportation, water, and health projects. It sets deadlines to finish environmental review and to resolve lawsuits challenging project approvals.",
+        "yesMeans": "Certain public and private projects would get new review and court-challenge procedures, with tighter time limits for environmental review and a narrower scope for court review of legal challenges.",
+        "noMeans": "Public and private projects would continue to use existing review and court-challenge procedures.",
+        "source": "https://voterguide.sos.ca.gov/propositions/45/"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
