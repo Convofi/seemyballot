@@ -1,0 +1,229 @@
+{
+  "state": "VT",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Vermont Secretary of State's 2026 General Election qualified candidate listing and registered write-in list (updated 2026-10-30) and the Governor's proclamations of Proposals 3 and 4. Confirm on your official sample ballot.",
+  "sources": [
+    "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx",
+    "https://sos.vermont.gov/elections/election-info-resources/candidates/",
+    "https://governor.vermont.gov/sites/scott/files/documents/Proclamation%203%20Collective%20Bargaining.pdf",
+    "https://governor.vermont.gov/sites/scott/files/documents/Proclamation%204%20Civil%20Rights.pdf",
+    "https://governor.vermont.gov/press-release/governor-phil-scott-formally-proclaims-constitutional-amendment-proposals-3-and-4"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Party labels simplified: Amanda Janoo is nominated by the Democratic and Progressive parties (DEM/PROG); Progressive, Peace and Justice and Freedom and Unity nominees are shown as \"Other\".",
+    "Registered write-in candidates for Governor have no party listed on the state's list and are shown as \"Other\".",
+    "Vermont judges are appointed and retained by the Legislature, so there are no judicial elections.",
+    "Candidate websites not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "vt-gov-2026-goodband-june",
+            "name": "June Goodband",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "vt-gov-2026-janoo-amanda",
+            "name": "Amanda Janoo",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "vt-gov-2026-judd-brian",
+            "name": "Brian Judd",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "vt-gov-2026-roy-dean",
+            "name": "Dean Roy",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "vt-gov-2026-scott-phil",
+            "name": "Phil Scott",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "vt-gov-2026-anderson-carlton",
+            "name": "Carlton Langston Anderson",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "vt-gov-2026-hoyt-kevin",
+            "name": "Kevin Michael Hoyt",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "vt-gov-2026-jankowski-danielle",
+            "name": "Danielle Leigh Jankowski",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "vt-gov-2026-ponnwitz-bryan",
+            "name": "Bryan Ponnwitz",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "vt-gov-2026-trudell-jerry",
+            "name": "Jerry Paul Trudell",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "vt-gov-2026-windom-jeremiah",
+            "name": "Jeremiah Ann Windom",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "vt-ltgov-2026-gray-molly",
+            "name": "Molly Gray",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "vt-ltgov-2026-rodgers-john",
+            "name": "John S. Rodgers",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "vt-treas-2026-hampl-zachary",
+            "name": "Zachary Hampl",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "vt-treas-2026-lafleur-lynn",
+            "name": "Lynn LaFleur",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "vt-treas-2026-pieciak-mike",
+            "name": "Mike Pieciak",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "vt-sos-2026-copeland-hanzas-sarah",
+            "name": "Sarah Copeland Hanzas",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "vt-sos-2026-paige-h-brooke",
+            "name": "H. Brooke Paige",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "vt-sos-2026-shaw-rachel",
+            "name": "Rachel Shaw",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+      },
+      {
+        "office": "Auditor of Accounts",
+        "candidates": [
+          {
+            "key": "vt-aud-2026-ashe-tim",
+            "name": "Tim Ashe",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "vt-aud-2026-kronick-ivar",
+            "name": "Ivar Kronick",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "vt-ag-2026-clark-charity",
+            "name": "Charity R. Clark",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "vt-ag-2026-kemon-edwin",
+            "name": "Edwin Howell Kemon",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Proposal 3",
+        "title": "Right to collectively bargain (proposed Article 23 of Chapter I of the Vermont Constitution)",
+        "summary": "Passed by two sessions of the General Assembly, this amendment would add to the Vermont Constitution a right for employees to organize or join a labor organization and bargain collectively with their employer, through an exclusive representative of their choosing, over wages, hours, working conditions and workplace safety. It would bar any law that interferes with, negates or diminishes that right, or that prohibits enforcing an agreement requiring union membership as a condition of employment.",
+        "yesMeans": "You want to add a right to collective bargaining to the Vermont Constitution.",
+        "noMeans": "You want to leave the Vermont Constitution as it is; collective bargaining would remain governed by state and federal law.",
+        "source": "https://governor.vermont.gov/sites/scott/files/documents/Proclamation%203%20Collective%20Bargaining.pdf",
+        "moreInfo": "https://ballotpedia.org/Vermont_2026_ballot_measures"
+      },
+      {
+        "id": "Proposal 4",
+        "title": "Equality of rights (proposed Article 23 of Chapter I of the Vermont Constitution)",
+        "summary": "Passed by two sessions of the General Assembly, this amendment would guarantee people equal protection under the law and bar the State from denying equal treatment because of race, ethnicity, sex, religion, disability, sexual orientation, gender identity, gender expression or national origin. It states that it may not be read to prevent measures intended to provide equal treatment and opportunity for groups historically subject to discrimination.",
+        "yesMeans": "You want to add an equal protection guarantee covering these characteristics to the Vermont Constitution.",
+        "noMeans": "You want to leave the Vermont Constitution as it is.",
+        "source": "https://governor.vermont.gov/sites/scott/files/documents/Proclamation%204%20Civil%20Rights.pdf",
+        "moreInfo": "https://ballotpedia.org/Vermont_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
