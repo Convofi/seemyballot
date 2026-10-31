@@ -1,0 +1,215 @@
+{
+  "state": "MA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Ballot questions from the Secretary of the Commonwealth's official 2026 Information for Voters guide; statewide candidates from the official September 2026 primary results plus Wikipedia (the Secretary's candidate list blocked automated access). Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026",
+    "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm",
+    "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_Massachusetts_Attorney_General_election",
+    "https://en.wikipedia.org/wiki/2026_Massachusetts_Secretary_of_the_Commonwealth_election",
+    "https://en.wikipedia.org/wiki/2026_Massachusetts_Treasurer_and_Receiver-General_election",
+    "https://en.wikipedia.org/wiki/2026_Massachusetts_State_Auditor_election",
+    "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Statewide candidates are not verified against the official certified list: the Secretary of the Commonwealth's 2026 State Election Candidates page blocked automated access on 2026-10-31. Democratic and Republican nominees (and their name spellings) come from the official primary results at electionstats.state.ma.us; the independent ticket (Andrea James / Kayla Kittredge) and Libertarian Auditor candidate Al Ozonoff come from Wikipedia, which cites that official list.",
+    "Republican Lt. Governor nominee Shawn Oliver suspended his campaign on October 18, 2026 but his name remains on the ballot (per Wikipedia and news reports).",
+    "Governor's Council, district attorney, register of probate and county offices are not loaded.",
+    "Ballot order and exact ballot name forms may differ from the printed ballot."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ma-gov-2026-healey-maura",
+            "name": "Maura Healey",
+            "party": "Democratic",
+            "runningMate": "Kimberley Driscoll",
+            "incumbent": true
+          },
+          {
+            "key": "ma-gov-2026-minogue-michael",
+            "name": "Michael Roger Minogue",
+            "party": "Republican",
+            "runningMate": "Shawn Oliver",
+            "incumbent": false
+          },
+          {
+            "key": "ma-gov-2026-james-andrea",
+            "name": "Andrea James",
+            "party": "Independent",
+            "runningMate": "Kayla Kittredge",
+            "incumbent": false
+          }
+        ],
+        "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ma-ag-2026-campbell-andrea",
+            "name": "Andrea Joy Campbell",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ma-ag-2026-walsh-michael",
+            "name": "Michael C. Walsh",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_Attorney_General_election"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "ma-sos-2026-galvin-william",
+            "name": "William Francis Galvin",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ma-sos-2026-brensley-anne",
+            "name": "Anne R. Brensley",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_Secretary_of_the_Commonwealth_election"
+      },
+      {
+        "office": "Treasurer",
+        "candidates": [
+          {
+            "key": "ma-treas-2026-goldberg-deborah",
+            "name": "Deborah B. Goldberg",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ma-treas-2026-dionne-elizabeth",
+            "name": "Elizabeth Dionne",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_Treasurer_and_Receiver-General_election"
+      },
+      {
+        "office": "Auditor",
+        "candidates": [
+          {
+            "key": "ma-aud-2026-dizoglio-diana",
+            "name": "Diana DiZoglio",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ma-aud-2026-ozonoff-al",
+            "name": "Al Ozonoff",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_State_Auditor_election"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Question 1",
+        "title": "Expanding the Public Records Law",
+        "summary": "This proposed law, put on the ballot by initiative petition, would make most records held by the Legislature and the Governor's office public records under the Massachusetts Public Records Law. Documents about developing public policy, and legislators' communications with constituents seeking help with government benefits, services or agencies, would be exempt.",
+        "yesMeans": "Most records held by the Legislature and the Governor's office would become public records under the state Public Records Law.",
+        "noMeans": "The Massachusetts Public Records Law would not change.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 2",
+        "title": "Collective Bargaining for CPCS Employees",
+        "summary": "This proposed law, put on the ballot by initiative petition, would state that employees of the Committee for Public Counsel Services (CPCS), the state's public defender agency, may engage in collective bargaining with their employer. After signing a contract, CPCS would have to ask the Governor for the money needed to fund it.",
+        "yesMeans": "CPCS employees could form a union and bargain collectively with their employer.",
+        "noMeans": "The law governing labor relations for CPCS employees would not change.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 3",
+        "title": "State Primary Elections",
+        "summary": "This proposed law, put on the ballot by initiative petition, would replace separate party primaries for state elections with a single all-party primary in which every candidate appears on one ballot and any voter can vote for any candidate, with the top two vote-getters advancing to the general election. Candidates for governor and lieutenant governor would run jointly in the primary, and any group whose statewide candidates got at least 3% of primary ballots would gain political party status.",
+        "yesMeans": "Separate party primaries for state elections would end; one primary open to all candidates and voters would send the top two finishers to the general election.",
+        "noMeans": "The laws governing primary elections would not change.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 4",
+        "title": "Election Day Registration",
+        "summary": "This proposed law, put on the ballot by initiative petition, would let eligible people register to vote, or update their registration address, at their polling place on Election Day by showing proof of residency and signing an oath; people without proof could cast a provisional ballot and supply it later. Voters already registered could not change their party affiliation on Election Day, and the law would take effect January 1, 2028.",
+        "yesMeans": "Eligible citizens could register to vote or update their address at their polling place on Election Day.",
+        "noMeans": "The laws governing voter registration would not change.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 5",
+        "title": "State Revenue Limit & Rebate",
+        "summary": "This proposed law, put on the ballot by initiative petition, would cap state revenue each year at the prior year's net revenue plus the average growth in Massachusetts wages and salaries over the most recent three years, and refund any excess to taxpayers the following year. Revenue from the surtax on incomes over $1 million would count toward the limit, and the changes would take effect July 1, 2027.",
+        "yesMeans": "The state revenue limit would be tied to prior-year collections plus average wage and salary growth, with revenue above the limit rebated to taxpayers.",
+        "noMeans": "The law on state revenue collection would not change.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 6",
+        "title": "Natural Resource Conservation Fund",
+        "summary": "This proposed law, put on the ballot by initiative petition, would create a Nature for All Fund that, subject to legislative appropriation, would receive state sales and use taxes collected on sporting goods, recreational vehicles and golf courses (50% in its first year, then 100% after July 1, 2028). The money could be spent on land and water conservation and on parks, trails and outdoor recreation, guided by a new 15-member board; the law would take effect July 1, 2027.",
+        "yesMeans": "A natural resource conservation fund would be created and would receive some existing state sales and use taxes on sporting goods, recreational vehicles and golf courses.",
+        "noMeans": "The fund would not be created, and how sales and use taxes are spent would not change.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 7",
+        "title": "Single Family Homes",
+        "summary": "This proposed law, put on the ballot by initiative petition, would allow a single-family home to be built in any residentially zoned area on a lot of at least 5,000 square feet with at least 50 feet of street frontage and access to public sewer and water. Cities and towns could still reasonably regulate things like height, setbacks, open space, parking and short-term rentals for those homes.",
+        "yesMeans": "Single-family homes could be built on lots of 5,000 square feet or more in residential areas, subject to reasonable local regulation of certain aspects of those homes.",
+        "noMeans": "The law on building single-family homes would not change.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 8",
+        "title": "Prohibit Retail Sale of Adult Recreational Use Marijuana",
+        "summary": "This proposed law, put on the ballot by initiative petition, would repeal the laws that legalize, regulate and tax retail sales of recreational marijuana, while still allowing adults 21 and older to possess or give away up to 1 ounce and keeping medical marijuana legal. It would set civil fines for possessing larger amounts or for possession by people under 21, let existing recreational businesses apply to become medical dispensaries, and take effect January 1, 2028.",
+        "yesMeans": "Retail sales of recreational marijuana would end, and the penalties for possessing marijuana would change.",
+        "noMeans": "The law on marijuana would not change; recreational retail sales would continue.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      },
+      {
+        "id": "Question 9",
+        "title": "Firearms Regulation (Referendum on an Existing Law)",
+        "summary": "This question asks whether to keep the state's 2024 firearms law, passed by the Legislature, which regulates untraceable 'ghost guns' and requires serial numbers, expands the definition of machine guns to include devices like bump stocks and Glock switches, and changes rules on assault-style weapons. The law also changed licensing (including requiring people to be 21 to own semiautomatic rifles or shotguns) and lets school administrators and health care providers seek extreme risk protection orders.",
+        "yesMeans": "The 2024 firearms law stays in place, keeping its added regulation of firearms, including ghost guns, machine guns and assault-style weapons.",
+        "noMeans": "The 2024 firearms law would be repealed.",
+        "source": "https://www.sec.state.ma.us/divisions/elections/download/information-for-voters/archive/IFV_2026%20English.pdf",
+        "moreInfo": "https://ballotpedia.org/Massachusetts_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
