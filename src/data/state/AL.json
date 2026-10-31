@@ -1,0 +1,305 @@
+{
+  "state": "AL",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide races and amendments are from the Alabama Secretary of State's official 2026 general election sample ballots and statewide amendment ballot statements. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots",
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf",
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/2026GeneralElectionStatewideBack.pdf",
+    "https://en.wikipedia.org/wiki/2026_Alabama_elections"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "State Board of Education seats (elected by district) not yet loaded.",
+    "Local constitutional amendments (county-only) not yet loaded.",
+    "Statewide candidates were read from the official Autauga County sample ballot posted by the Secretary of State, not a separate certified candidate list; no certified write-in candidates are listed. Incumbent flags come from Wikipedia because the ballot does not mark incumbents."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "al-gov-2026-jones-doug",
+            "name": "Doug Jones",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-gov-2026-tuberville-tommy",
+            "name": "Tommy Tuberville",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "al-ltgov-2026-ensler-phillip",
+            "name": "Phillip Ensler",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-ltgov-2026-wahl-john",
+            "name": "John Wahl",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "al-ag-2026-mclaughlin-jeff",
+            "name": "Jeff McLaughlin",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-ag-2026-robertson-katherine",
+            "name": "Katherine Robertson",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Associate Justice of the Supreme Court, Place 7",
+        "candidates": [
+          {
+            "key": "al-sc7-2026-mendheim-brad",
+            "name": "Brad Mendheim",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Associate Justice of the Supreme Court, Place 8",
+        "candidates": [
+          {
+            "key": "al-sc8-2026-dunham-ashleigh",
+            "name": "Ashleigh Meyer Dunham",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-sc8-2026-shaw-greg",
+            "name": "Greg Shaw",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Court of Civil Appeals Judge, Place 4",
+        "candidates": [
+          {
+            "key": "al-civapp4-2026-bowden-benjamin",
+            "name": "Benjamin M. Bowden",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Court of Civil Appeals Judge, Place 5",
+        "candidates": [
+          {
+            "key": "al-civapp5-2026-fridy-matt",
+            "name": "Matt Fridy",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Court of Criminal Appeals Judge, Place 4",
+        "candidates": [
+          {
+            "key": "al-crimapp4-2026-windom-mary",
+            "name": "Mary Windom",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Court of Criminal Appeals Judge, Place 5",
+        "candidates": [
+          {
+            "key": "al-crimapp5-2026-walker-riggs",
+            "name": "Riggs Walker",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "al-sos-2026-rogers-wayne",
+            "name": "Wayne Rogers",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-sos-2026-dobson-caroleene",
+            "name": "Caroleene Dobson",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "al-treas-2026-houston-rosilyn",
+            "name": "Rosilyn Houston",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-treas-2026-boozer-young",
+            "name": "Young Boozer",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "State Auditor",
+        "candidates": [
+          {
+            "key": "al-aud-2026-edwards-violet",
+            "name": "Violet Edwards",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-aud-2026-sorrell-andrew",
+            "name": "Andrew Sorrell",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Commissioner of Agriculture and Industries",
+        "candidates": [
+          {
+            "key": "al-ag-ind-2026-sparks-ron",
+            "name": "Ron Sparks",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-ag-ind-2026-hill-corey",
+            "name": "Corey Hill",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Public Service Commission, Place No. 1",
+        "candidates": [
+          {
+            "key": "al-psc1-2026-gordon-james",
+            "name": "James O. Gordon",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-psc1-2026-gentry-matt",
+            "name": "Matt Gentry",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      },
+      {
+        "office": "Public Service Commission, Place No. 2",
+        "candidates": [
+          {
+            "key": "al-psc2-2026-mcneil-sheila",
+            "name": "Sheila D. McNeil",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "al-psc2-2026-zeigler-jim",
+            "name": "Jim Zig Zeigler",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Statewide Amendment 1",
+        "title": "Proposing an amendment to the Constitution of Alabama of 2022, to provide for the election of a Lieutenant Governor if the Office of Lieutenant Governor becomes vacant during the first two years of a term, to authorize the Legislature to set the salary of the Lieutenant Governor and officers of the Legislature, and to require any expenditure of legislative funds for travel to be approved by a legislative officer. (Proposed by Act 2026-341)",
+        "summary": "Today a vacancy in the office of Lieutenant Governor generally stays open until the next regular election for that office. This amendment would require an election to fill the rest of the term if the office becomes vacant more than 60 days before the next general election for state officers. It would also let the Legislature set the pay of the Lieutenant Governor and legislative officers by joint resolution, and require legislators' travel spending to be approved by an officer elected by that chamber.",
+        "yesMeans": "You approve the amendment: a vacant Lieutenant Governor's office would be filled by election, the Legislature could set those salaries by joint resolution, and legislative travel spending would need an officer's approval.",
+        "noMeans": "You reject the amendment, and the Alabama Constitution is not changed.",
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/2026GeneralElectionStatewideBack.pdf",
+        "moreInfo": "https://ballotpedia.org/Alabama_2026_ballot_measures"
+      },
+      {
+        "id": "Statewide Amendment 2",
+        "title": "Proposing an amendment to the Constitution of Alabama of 2022, to provide a process for the creation of a consolidated county school system by merging two or more contiguous county boards of education; to require the State Board of Education to conduct an impact study on the potential effects of the consolidation; to require publication of the impact study; to provide a procedure for protesting a proposed consolidation of two or more county school systems; and to require the State Board of Education to adopt rules. (Proposed by Act 2026-378)",
+        "summary": "This amendment would let two or more neighboring county boards of education merge into one multi-county school system by resolution of each board. The State Board of Education would first have to study and publish the merger's likely effects on students, programs, transportation, finances, taxes and operations. If at least 25 percent of qualified voters in any affected county school system file a written protest, the merger would need approval from a majority of voters in each affected county and overall at the next general election.",
+        "yesMeans": "You approve creating a constitutional process for neighboring county school systems to merge, subject to a state impact study and a possible voter protest.",
+        "noMeans": "You reject the amendment, and the Constitution keeps no process for merging county school systems.",
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/2026GeneralElectionStatewideBack.pdf",
+        "moreInfo": "https://ballotpedia.org/Alabama_2026_ballot_measures"
+      },
+      {
+        "id": "Statewide Amendment 3",
+        "title": "Proposing an amendment to the Constitution of Alabama of 2022, to require local boards of education to adopt policies requiring each public K-12 school to recite The Pledge of Allegiance to the United States flag at the beginning of each school day; and to require local boards of education to adopt a policy authorizing student-initiated and student-led prayer. (Proposed by Act 2026-379)",
+        "summary": "This amendment would require every local board of education to adopt a policy that each public K-12 school conduct the Pledge of Allegiance at the start of each school day, with students given the chance to recite it voluntarily. Boards would also have to adopt a policy allowing student-initiated and student-led prayer. No student could be required to take part in the prayer, students could opt out of either based on their beliefs, and reported violations would be reviewed by the local superintendent.",
+        "yesMeans": "You approve requiring school boards to adopt daily Pledge of Allegiance policies and policies allowing student-led prayer, with opt-outs for students.",
+        "noMeans": "You reject the amendment, and the Alabama Constitution is not changed.",
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/2026GeneralElectionStatewideBack.pdf",
+        "moreInfo": "https://ballotpedia.org/Alabama_2026_ballot_measures"
+      },
+      {
+        "id": "Statewide Amendment 4",
+        "title": "Proposing an amendment to the Constitution of Alabama of 2022, to require local boards of education to adopt policies requiring each public K-12 school to broadcast or sanction the performance of the first stanza of The Star-Spangled Banner at least once per week during school hours. (Proposed by Act 2026-424)",
+        "summary": "This amendment would require every local board of education to adopt a policy that each public K-12 school broadcast the first stanza of The Star-Spangled Banner at least once a week during school hours. A board could instead allow it to be performed by a school-approved band, choir, vocal group or vocalist using the version archived by the Library of Congress. The official statement says there are no costs or taxes associated with the amendment.",
+        "yesMeans": "You approve requiring public K-12 schools to play or perform the first stanza of the national anthem at least weekly.",
+        "noMeans": "You reject the amendment, and the Alabama Constitution is not changed.",
+        "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/2026GeneralElectionStatewideBack.pdf",
+        "moreInfo": "https://ballotpedia.org/Alabama_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
