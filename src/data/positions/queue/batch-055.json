@@ -1,0 +1,307 @@
+{
+ "batch": "055",
+ "createdAt": "2026-10-31T22:53:31.626Z",
+ "output": "src/data/positions/batch-055.json",
+ "candidates": [
+  {
+   "key": "id-ag-2026-labrador-raul",
+   "name": "Raul R. Labrador",
+   "party": "Republican",
+   "office": "Attorney General, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-spi-2026-critchfield-debbie",
+   "name": "Debbie Critchfield",
+   "party": "Republican",
+   "office": "Superintendent of Public Instruction, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-spi-2026-sundin-mitchell-becky",
+   "name": "Becky Sundin Mitchell",
+   "party": "Democratic",
+   "office": "Superintendent of Public Instruction, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-sos-2026-amore-gregg",
+   "name": "Gregg M. Amore",
+   "party": "Democratic",
+   "office": "Secretary of State, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-ag-2026-gordon-alan",
+   "name": "Alan Leonard Gordon",
+   "party": "Republican",
+   "office": "Attorney General, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-ag-2026-ahern-kimberly",
+   "name": "Kimberly Ahern",
+   "party": "Democratic",
+   "office": "Attorney General, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-treas-2026-credle-micholas",
+   "name": "Micholas A. Credle",
+   "party": "Republican",
+   "office": "General Treasurer, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ri-treas-2026-diossa-james",
+   "name": "James A. Diossa",
+   "party": "Democratic",
+   "office": "General Treasurer, Rhode Island",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "de-ag-2026-jennings-kathy",
+   "name": "Kathy Jennings",
+   "party": "Democratic",
+   "office": "Attorney General, Delaware",
+   "state": "DE",
+   "knownWebsite": "https://www.kathyfordelaware.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "de-ag-2026-graham-david",
+   "name": "David C. \"Dave\" Graham",
+   "party": "Republican",
+   "office": "Attorney General, Delaware",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "de-aud-2026-york-lydia",
+   "name": "Lydia York",
+   "party": "Democratic",
+   "office": "Auditor of Accounts, Delaware",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "de-aud-2026-callaway-april",
+   "name": "April Callaway",
+   "party": "Republican",
+   "office": "Auditor of Accounts, Delaware",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "de-treas-2026-lauzen-ted",
+   "name": "Ted Lauzen",
+   "party": "Democratic",
+   "office": "State Treasurer, Delaware",
+   "state": "DE",
+   "knownWebsite": "https://tedlauzen.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "de-treas-2026-ramone-michael",
+   "name": "Michael Ramone",
+   "party": "Republican",
+   "office": "State Treasurer, Delaware",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-sos-2026-baxter-heather",
+   "name": "Heather Baxter",
+   "party": "Republican",
+   "office": "Secretary of State, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-sos-2026-davis-terrence",
+   "name": "Terrence Davis",
+   "party": "Democratic",
+   "office": "Secretary of State, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-ag-2026-russell-lance",
+   "name": "Lance Russell",
+   "party": "Republican",
+   "office": "Attorney General, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-aud-2026-barranco-catherine",
+   "name": "Catherine Barranco",
+   "party": "Republican",
+   "office": "State Auditor, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-aud-2026-cool-tom",
+   "name": "Tom Cool",
+   "party": "Democratic",
+   "office": "State Auditor, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-treas-2026-hull-melissa",
+   "name": "Melissa Hull",
+   "party": "Republican",
+   "office": "State Treasurer, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-treas-2026-kuipers-margaret",
+   "name": "Margaret Kuipers",
+   "party": "Democratic",
+   "office": "State Treasurer, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-spl-2026-greenfield-brock",
+   "name": "Brock Greenfield",
+   "party": "Republican",
+   "office": "Commissioner of School and Public Lands, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-spl-2026-mettler-raeann",
+   "name": "Raeann Mettler",
+   "party": "Democratic",
+   "office": "Commissioner of School and Public Lands, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-puc-2026-haggar-don",
+   "name": "Don Haggar",
+   "party": "Republican",
+   "office": "Public Utilities Commissioner, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-puc-2026-kloucek-frank",
+   "name": "Frank Kloucek",
+   "party": "Democratic",
+   "office": "Public Utilities Commissioner, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-sos-2026-howe-michael",
+   "name": "Michael Howe",
+   "party": "Republican",
+   "office": "Secretary of State, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-sos-2026-braunberger-ryan",
+   "name": "Ryan Braunberger",
+   "party": "Democratic",
+   "office": "Secretary of State, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-ag-2026-wrigley-drew",
+   "name": "Drew Wrigley",
+   "party": "Republican",
+   "office": "Attorney General, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-ag-2026-lamb-tim",
+   "name": "Tim Lamb",
+   "party": "Democratic",
+   "office": "Attorney General, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-agr-2026-goehring-doug",
+   "name": "Doug Goehring",
+   "party": "Republican",
+   "office": "Agriculture Commissioner, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

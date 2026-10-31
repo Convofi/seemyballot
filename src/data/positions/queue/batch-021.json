@@ -1,0 +1,307 @@
+{
+ "batch": "021",
+ "createdAt": "2026-10-31T22:53:30.641Z",
+ "output": "src/data/positions/batch-021.json",
+ "candidates": [
+  {
+   "key": "H2IL03162",
+   "name": "Delia Ramirez",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 3",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL03162/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL03163",
+   "name": "Angel Oakley",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 3",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL03163/",
+   "status": "pending"
+  },
+  {
+   "key": "H4IL04117",
+   "name": "Lupe Castillo",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 4",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4IL04117/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL04153",
+   "name": "Patty Garcia",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 4",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL04153/",
+   "status": "pending"
+  },
+  {
+   "key": "H0IL05096",
+   "name": "Mike Quigley",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 5",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0IL05096/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IL05073",
+   "name": "Tommy Hanson",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 5",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IL05073/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IL06139",
+   "name": "Sean Casten",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 6",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IL06139/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IL06090",
+   "name": "Niki Conforti",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 6",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL06090/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL07354",
+   "name": "La Shawn Ford",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 7",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL07354/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IL08203",
+   "name": "Chad Koppie",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 7",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL08203/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL08329",
+   "name": "Melissa Bean",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 8",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL08329/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL08311",
+   "name": "Jennifer Davis",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 8",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL08311/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL09228",
+   "name": "Daniel Biss",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 9",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL09228/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IL09224",
+   "name": "John Elleson",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 9",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IL09224/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IL10068",
+   "name": "Brad Schneider",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 10",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL10068/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL10176",
+   "name": "Carl Lambrecht",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 10",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL10176/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IL14067",
+   "name": "Bill Foster",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 11",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IL14067/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL11166",
+   "name": "Jeff Walter",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 11",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL11166/",
+   "status": "pending"
+  },
+  {
+   "key": "H4IL12060",
+   "name": "Mike Bost",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 12",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4IL12060/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL12131",
+   "name": "Julie Fortier",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 12",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL12131/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IL13153",
+   "name": "Nikki Budzinski",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 13",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL13153/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL13154",
+   "name": "Jeff Wilson",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 13",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL13154/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IL14174",
+   "name": "Lauren Underwood",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 14",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IL14174/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IL16153",
+   "name": "James Marter",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 14",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IL16153/",
+   "status": "pending"
+  },
+  {
+   "key": "H0IL15129",
+   "name": "Mary Miller",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 15",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0IL15129/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL15092",
+   "name": "Jennifer Todd",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 15",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL15092/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL18088",
+   "name": "Darin LaHood",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 16",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL18088/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL16108",
+   "name": "Paul Nolley",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 16",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL16108/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IL17147",
+   "name": "Eric Sorensen",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 17",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL17147/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL17247",
+   "name": "Dillan Vancil",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 17",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL17247/",
+   "status": "pending"
+  }
+ ]
+}

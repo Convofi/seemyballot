@@ -1,0 +1,307 @@
+{
+ "batch": "020",
+ "createdAt": "2026-10-31T22:53:30.641Z",
+ "output": "src/data/positions/batch-020.json",
+ "candidates": [
+  {
+   "key": "H6PA05216",
+   "name": "Nicholas Manganaro",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 5",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA05216/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA06087",
+   "name": "Chrissy Houlahan",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 6",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA06087/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA06156",
+   "name": "Marty Young",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 6",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA06156/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA15195",
+   "name": "Ryan Mackenzie",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 7",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA15195/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA07188",
+   "name": "Bob Brooks",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 7",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA07188/",
+   "status": "pending"
+  },
+  {
+   "key": "H4PA08124",
+   "name": "Rob Bresnahan",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 8",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4PA08124/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA08293",
+   "name": "Paige Cognetti",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 8",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA08293/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA10147",
+   "name": "Dan Meuser",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 9",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA10147/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA09127",
+   "name": "Rachel Wallace",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 9",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA09127/",
+   "status": "pending"
+  },
+  {
+   "key": "H2PA04135",
+   "name": "Scott Perry",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 10",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2PA04135/",
+   "status": "pending"
+  },
+  {
+   "key": "H4PA10104",
+   "name": "Janelle Stelson",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 10",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4PA10104/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA16320",
+   "name": "Lloyd Smucker",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 11",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA16320/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA11099",
+   "name": "Nancy Mannion",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 11",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA11099/",
+   "status": "pending"
+  },
+  {
+   "key": "H2PA18200",
+   "name": "Summer Lee",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 12",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2PA18200/",
+   "status": "pending"
+  },
+  {
+   "key": "H4PA12068",
+   "name": "James Hayes",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 12",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4PA12068/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA13125",
+   "name": "John Joyce",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 13",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA13125/",
+   "status": "pending"
+  },
+  {
+   "key": "H4PA13298",
+   "name": "Beth Farnham",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 13",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4PA13298/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA18199",
+   "name": "Guy Reschenthaler",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 14",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA18199/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA14200",
+   "name": "Alan Bradstock",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 14",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA14200/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA05071",
+   "name": "Glenn Thompson",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 15",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA05071/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA15181",
+   "name": "Ray Bilger",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 15",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA15181/",
+   "status": "pending"
+  },
+  {
+   "key": "H0PA03271",
+   "name": "Mike Kelly",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 16",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0PA03271/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA16379",
+   "name": "Justin Wagner",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 16",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA16379/",
+   "status": "pending"
+  },
+  {
+   "key": "H2PA17103",
+   "name": "Chris Deluzio",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 17",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2PA17103/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA17203",
+   "name": "Tony Guy",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 17",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA17203/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA36013",
+   "name": "Pilar Marie Cavallo-Campisi",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 36",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA36013/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IL01349",
+   "name": "Jonathan Jackson",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 1",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL01349/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL01191",
+   "name": "Christian Maxwell",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 1",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL01191/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL02355",
+   "name": "Donna Miller",
+   "party": "Democratic",
+   "office": "U.S. House, Illinois District 2",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL02355/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL02389",
+   "name": "Michael Noack",
+   "party": "Republican",
+   "office": "U.S. House, Illinois District 2",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL02389/",
+   "status": "pending"
+  }
+ ]
+}

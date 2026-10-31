@@ -1,0 +1,307 @@
+{
+ "batch": "033",
+ "createdAt": "2026-10-31T22:53:30.964Z",
+ "output": "src/data/positions/batch-033.json",
+ "candidates": [
+  {
+   "key": "H4SC01313",
+   "name": "Sheri Biggs",
+   "party": "Republican",
+   "office": "U.S. House, South Carolina District 3",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4SC01313/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC03090",
+   "name": "Eunice Lehmacher",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 3",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC03090/",
+   "status": "pending"
+  },
+  {
+   "key": "H8SC04250",
+   "name": "William Timmons",
+   "party": "Republican",
+   "office": "U.S. House, South Carolina District 4",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8SC04250/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC04171",
+   "name": "Courtney McClain",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 4",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC04171/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC05202",
+   "name": "Wes Climer",
+   "party": "Republican",
+   "office": "U.S. House, South Carolina District 5",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC05202/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC05228",
+   "name": "Mallory Dittmer",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 5",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC05228/",
+   "status": "pending"
+  },
+  {
+   "key": "H2SC02042",
+   "name": "Jim Clyburn",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 6",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2SC02042/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC06184",
+   "name": "John Peterson",
+   "party": "Republican",
+   "office": "U.S. House, South Carolina District 6",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC06184/",
+   "status": "pending"
+  },
+  {
+   "key": "H2SC07280",
+   "name": "Russell Fry",
+   "party": "Republican",
+   "office": "U.S. House, South Carolina District 7",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2SC07280/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC07034",
+   "name": "John Vincent",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 7",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC07034/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC86012",
+   "name": "Malcolm Green",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 86",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC86012/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC89016",
+   "name": "Joseph Madge",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 89",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC89016/",
+   "status": "pending"
+  },
+  {
+   "key": "H0AL01055",
+   "name": "Jerry Carl",
+   "party": "Republican",
+   "office": "U.S. House, Alabama District 1",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0AL01055/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL01094",
+   "name": "Clyde Jones",
+   "party": "Democratic",
+   "office": "U.S. House, Alabama District 1",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL01094/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AL02170",
+   "name": "Shomari Figures",
+   "party": "Democratic",
+   "office": "U.S. House, Alabama District 2",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AL02170/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL01086",
+   "name": "Rhett Marques",
+   "party": "Republican",
+   "office": "U.S. House, Alabama District 2",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL01086/",
+   "status": "pending"
+  },
+  {
+   "key": "H2AL03032",
+   "name": "Mike Rogers",
+   "party": "Republican",
+   "office": "U.S. House, Alabama District 3",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2AL03032/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL03199",
+   "name": "Lee McInnis",
+   "party": "Democratic",
+   "office": "U.S. House, Alabama District 3",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL03199/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL04098",
+   "name": "Robert Aderholt",
+   "party": "Republican",
+   "office": "U.S. House, Alabama District 4",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL04098/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL05228",
+   "name": "Amanda Pusczek",
+   "party": "Democratic",
+   "office": "U.S. House, Alabama District 4",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL05228/",
+   "status": "pending"
+  },
+  {
+   "key": "H2AL05102",
+   "name": "Dale Strong",
+   "party": "Republican",
+   "office": "U.S. House, Alabama District 5",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2AL05102/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL05244",
+   "name": "Andrew Sneed",
+   "party": "Democratic",
+   "office": "U.S. House, Alabama District 5",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL05244/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AL06098",
+   "name": "Gary Palmer",
+   "party": "Republican",
+   "office": "U.S. House, Alabama District 6",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AL06098/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL06184",
+   "name": "Maurice Mercer",
+   "party": "Democratic",
+   "office": "U.S. House, Alabama District 6",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL06184/",
+   "status": "pending"
+  },
+  {
+   "key": "H0AL07086",
+   "name": "Terri Sewell",
+   "party": "Democratic",
+   "office": "U.S. House, Alabama District 7",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0AL07086/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AL07208",
+   "name": "Ammie Akin",
+   "party": "Republican",
+   "office": "U.S. House, Alabama District 7",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AL07208/",
+   "status": "pending"
+  },
+  {
+   "key": "H0LA01087",
+   "name": "Steve Scalise",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 1",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0LA01087/",
+   "status": "pending"
+  },
+  {
+   "key": "H4LA01162",
+   "name": "Randall Arrington",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 1",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4LA01162/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA01258",
+   "name": "Lauren Jewett",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 1",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA01258/",
+   "status": "pending"
+  },
+  {
+   "key": "H2LA02149",
+   "name": "Troy Carter",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 2",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2LA02149/",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "032",
+ "createdAt": "2026-10-31T22:53:30.964Z",
+ "output": "src/data/positions/batch-032.json",
+ "candidates": [
+  {
+   "key": "H0CO03165",
+   "name": "Lauren Boebert",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 4",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CO03165/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO04202",
+   "name": "Eileen Laubacher",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 4",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO04202/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO05142",
+   "name": "Jeff Crank",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 5",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO05142/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO05324",
+   "name": "Jessica Killin",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 5",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO05324/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CO06229",
+   "name": "Jason Crow",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 6",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CO06229/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO06165",
+   "name": "Jason Clark",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 6",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO06165/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CO07045",
+   "name": "Brittany Pettersen",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 7",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CO07045/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO07122",
+   "name": "Tim Bennett",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 7",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO07122/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CO08034",
+   "name": "Gabe Evans",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 8",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CO08034/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO08013",
+   "name": "Manny Rutinel",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 8",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO08013/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MN01223",
+   "name": "Brad Finstad",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 1",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MN01223/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN01190",
+   "name": "Jake Johnson",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 1",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN01190/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN02230",
+   "name": "Matt Little",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 2",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN02230/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN02263",
+   "name": "Eric Pratt",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 2",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN02263/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MN03118",
+   "name": "Kelly Morrison",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 3",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MN03118/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN03170",
+   "name": "Tyler Bass",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 3",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN03170/",
+   "status": "pending"
+  },
+  {
+   "key": "H0MN04049",
+   "name": "Betty McCollum",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 4",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MN04049/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN04293",
+   "name": "Paul Wikstrom",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 4",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN04293/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MN05239",
+   "name": "Ilhan Omar",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 5",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MN05239/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN05357",
+   "name": "John Nagel",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 5",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN05357/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MN06087",
+   "name": "Tom Emmer",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 6",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MN06087/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN06215",
+   "name": "Doug Chapin",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 6",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN06215/",
+   "status": "pending"
+  },
+  {
+   "key": "H0MN07091",
+   "name": "Michelle Fischbach",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 7",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MN07091/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN07312",
+   "name": "Erik Osberg",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 7",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN07312/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MN08043",
+   "name": "Pete Stauber",
+   "party": "Republican",
+   "office": "U.S. House, Minnesota District 8",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MN08043/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN08179",
+   "name": "Trina Swanson",
+   "party": "Democratic",
+   "office": "U.S. House, Minnesota District 8",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN08179/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC01334",
+   "name": "Jenny Costa Honeycutt",
+   "party": "Republican",
+   "office": "U.S. House, South Carolina District 1",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC01334/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC01359",
+   "name": "Nancy Lacore",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 1",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC01359/",
+   "status": "pending"
+  },
+  {
+   "key": "H2SC02059",
+   "name": "Joe Wilson",
+   "party": "Republican",
+   "office": "U.S. House, South Carolina District 2",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2SC02059/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC02159",
+   "name": "Zyon Khalifa",
+   "party": "Democratic",
+   "office": "U.S. House, South Carolina District 2",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC02159/",
+   "status": "pending"
+  }
+ ]
+}

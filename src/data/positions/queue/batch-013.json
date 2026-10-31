@@ -1,0 +1,307 @@
+{
+ "batch": "013",
+ "createdAt": "2026-10-31T22:53:30.640Z",
+ "output": "src/data/positions/batch-013.json",
+ "candidates": [
+  {
+   "key": "ak-gov-2026-bronson-dave",
+   "name": "Dave Bronson",
+   "party": "Republican",
+   "office": "Governor / Lieutenant Governor (ranked-choice: rank as many candidates as you like), Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ak-gov-2026-kreiss-tomkins-jonathan",
+   "name": "Jonathan S. \"JKT\" Kreiss-Tomkins",
+   "party": "Democratic",
+   "office": "Governor / Lieutenant Governor (ranked-choice: rank as many candidates as you like), Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ak-gov-2026-taylor-treg",
+   "name": "Treg Taylor",
+   "party": "Republican",
+   "office": "Governor / Lieutenant Governor (ranked-choice: rank as many candidates as you like), Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ak-gov-2026-wilson-bernadette",
+   "name": "Bernadette M. Wilson",
+   "party": "Republican",
+   "office": "Governor / Lieutenant Governor (ranked-choice: rank as many candidates as you like), Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-gov-2026-janoo-amanda",
+   "name": "Amanda Janoo",
+   "party": "Democratic",
+   "office": "Governor, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-gov-2026-scott-phil",
+   "name": "Phil Scott",
+   "party": "Republican",
+   "office": "Governor, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-ltgov-2026-gray-molly",
+   "name": "Molly Gray",
+   "party": "Democratic",
+   "office": "Lieutenant Governor, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-ltgov-2026-rodgers-john",
+   "name": "John S. Rodgers",
+   "party": "Republican",
+   "office": "Lieutenant Governor, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-gov-2026-barlow-eric",
+   "name": "Eric Barlow",
+   "party": "Republican",
+   "office": "Governor, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-gov-2026-casner-kenneth",
+   "name": "Kenneth R. Casner",
+   "party": "Democratic",
+   "office": "Governor, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-gov-2026-goodband-june",
+   "name": "June Goodband",
+   "party": "Other",
+   "office": "Governor, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-gov-2026-judd-brian",
+   "name": "Brian Judd",
+   "party": "Independent",
+   "office": "Governor, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-gov-2026-roy-dean",
+   "name": "Dean Roy",
+   "party": "Other",
+   "office": "Governor, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-gov-2026-bextel-rebecca",
+   "name": "Rebecca Bextel",
+   "party": "Other",
+   "office": "Governor, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6CA51140",
+   "name": "Ricardo Cabrera",
+   "party": "Republican",
+   "office": "U.S. House, California District 51",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA51140/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA50026",
+   "name": "Juan Vargas",
+   "party": "Democratic",
+   "office": "U.S. House, California District 52",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA50026/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CA52163",
+   "name": "Jeff Belle",
+   "party": "Republican",
+   "office": "U.S. House, California District 52",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CA52163/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX01112",
+   "name": "Nathaniel Moran",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 1",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX01112/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX01352",
+   "name": "Yolanda Prince",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 1",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX01352/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX02251",
+   "name": "Shaun Finnie",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 2",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX02251/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX08175",
+   "name": "Steve Toth",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 2",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX08175/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX03234",
+   "name": "Evan Hunt",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 3",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX03234/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX00064",
+   "name": "Keith Self",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 3",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX00064/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TX04219",
+   "name": "Pat Fallon",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 4",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TX04219/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX04174",
+   "name": "Jason Pearce",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 4",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX04174/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TX05144",
+   "name": "Lance Gooden",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 5",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TX05144/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX05189",
+   "name": "Chelsey Hockett",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 5",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX05189/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TX06266",
+   "name": "Jake Ellzey",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 6",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TX06266/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX25203",
+   "name": "Danny Minton",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 6",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX25203/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TX07140",
+   "name": "Lizzie Fletcher",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 7",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TX07140/",
+   "status": "pending"
+  }
+ ]
+}

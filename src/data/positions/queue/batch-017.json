@@ -1,0 +1,307 @@
+{
+ "batch": "017",
+ "createdAt": "2026-10-31T22:53:30.641Z",
+ "output": "src/data/positions/batch-017.json",
+ "candidates": [
+  {
+   "key": "H2FL15241",
+   "name": "Laurel Lee",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 15",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2FL15241/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL15168",
+   "name": "Robert People",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 15",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL15168/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL16141",
+   "name": "Sydney Gruters",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 16",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL16141/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL16158",
+   "name": "Kelly Kirschner",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 16",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL16158/",
+   "status": "pending"
+  },
+  {
+   "key": "H8FL17053",
+   "name": "Greg Steube",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 17",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8FL17053/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL17060",
+   "name": "Matthew Montavon",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 17",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL17060/",
+   "status": "pending"
+  },
+  {
+   "key": "H0FL15104",
+   "name": "Scott Franklin",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 18",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0FL15104/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL18212",
+   "name": "Curtis Gibson",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 18",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL18212/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL19277",
+   "name": "Victor Arias",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 19",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL19277/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL19137",
+   "name": "Jim Schwartzel",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 19",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL19137/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL20023",
+   "name": "Debbie Wasserman Schultz",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 20",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL20023/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL20143",
+   "name": "Brent Andersen",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 20",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL20143/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL18097",
+   "name": "Brian Mast",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 21",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL18097/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL21075",
+   "name": "James Martin",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 21",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL21075/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL22248",
+   "name": "Casey Askar",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 22",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL22248/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL21059",
+   "name": "Pia Dandiya",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 22",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL21059/",
+   "status": "pending"
+  },
+  {
+   "key": "H2FL14053",
+   "name": "Lois Frankel",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 23",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2FL14053/",
+   "status": "pending"
+  },
+  {
+   "key": "H2FL21132",
+   "name": "Deborah Adeimy",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 23",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2FL21132/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL14203",
+   "name": "Mayonna Te Brown",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 24",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL14203/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL24095",
+   "name": "Oliver Gilbert",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 24",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL24095/",
+   "status": "pending"
+  },
+  {
+   "key": "H2FL22171",
+   "name": "Jared Moskowitz",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 25",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2FL22171/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL23188",
+   "name": "Scott Singer",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 25",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL23188/",
+   "status": "pending"
+  },
+  {
+   "key": "H2FL25018",
+   "name": "Mario Díaz-Balart",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 26",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2FL25018/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL26058",
+   "name": "Nicole Locklin",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 26",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL26058/",
+   "status": "pending"
+  },
+  {
+   "key": "H8FL27185",
+   "name": "María Elvira Salazar",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 27",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8FL27185/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL27098",
+   "name": "Eliott Rodriguez",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 27",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL27098/",
+   "status": "pending"
+  },
+  {
+   "key": "H0FL26036",
+   "name": "Carlos Giménez",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 28",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0FL26036/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL28042",
+   "name": "Phil Ehr",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 28",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL28042/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL59018",
+   "name": "Fatima Ezahra Aguerjout",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 59",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL59018/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY04138",
+   "name": "Martin Paul Smithmyer",
+   "party": "Republican",
+   "office": "U.S. House, New York At-Large",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY04138/",
+   "status": "pending"
+  }
+ ]
+}

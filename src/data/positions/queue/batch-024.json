@@ -1,0 +1,307 @@
+{
+ "batch": "024",
+ "createdAt": "2026-10-31T22:53:30.642Z",
+ "output": "src/data/positions/batch-024.json",
+ "candidates": [
+  {
+   "key": "H0NC02125",
+   "name": "Deborah Ross",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 2",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NC02125/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC02135",
+   "name": "Eugene Douglass",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 2",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC02135/",
+   "status": "pending"
+  },
+  {
+   "key": "H0NC03172",
+   "name": "Greg Murphy",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 3",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NC03172/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC03229",
+   "name": "Raymond Smith Jr.",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 3",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC03229/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NC06114",
+   "name": "Valerie Foushee",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 4",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NC06114/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC02150",
+   "name": "Max Ganorkar",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 4",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC02150/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC05146",
+   "name": "Virginia Foxx",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 5",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC05146/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC05294",
+   "name": "Chuck Hubbard",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 5",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC05294/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC06177",
+   "name": "Addison McDowell",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 6",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC06177/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC06164",
+   "name": "Cyril Jefferson",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 6",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC06164/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NC07096",
+   "name": "David Rouzer",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 7",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NC07096/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC07196",
+   "name": "Kimberly Hardy",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 7",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC07196/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC09200",
+   "name": "Mark Harris",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 8",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC09200/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC08202",
+   "name": "Colby Watson",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 8",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC08202/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NC08185",
+   "name": "Richard Hudson",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 9",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NC08185/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC09218",
+   "name": "Richard Ojeda",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 9",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC09218/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NC13243",
+   "name": "Pat Harrigan",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 10",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NC13243/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC10174",
+   "name": "Ashley Bell",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 10",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC10174/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC11248",
+   "name": "Jamie Ager",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 11",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC11248/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC11321",
+   "name": "Jennifer Balkcom",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 11",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC11321/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC12100",
+   "name": "Alma Adams",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 12",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC12100/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC12113",
+   "name": "Jack Codiga",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 12",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC12113/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC13116",
+   "name": "Brad Knott",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 13",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC13116/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC13228",
+   "name": "Paul Barringer",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 13",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC13228/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC14015",
+   "name": "Tim Moore",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 14",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC14015/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC14069",
+   "name": "LaKesha Womack",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 14",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC14069/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI01226",
+   "name": "Jack Bergman",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 1",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI01226/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MI01155",
+   "name": "Callie Barr",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 1",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MI01155/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MI04126",
+   "name": "John Moolenaar",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 2",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MI04126/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI02216",
+   "name": "Benjamin Ambrose",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 2",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI02216/",
+   "status": "pending"
+  }
+ ]
+}

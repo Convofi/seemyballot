@@ -1,0 +1,307 @@
+{
+ "batch": "061",
+ "createdAt": "2026-10-31T22:53:31.627Z",
+ "output": "src/data/positions/batch-061.json",
+ "candidates": [
+  {
+   "key": "mi-sbe-2026-hering-mary",
+   "name": "Mary Anne Hering",
+   "party": "Other",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-monroe-kelli",
+   "name": "Kelli Monroe",
+   "party": "Other",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-um-regent-2026-chadderdon-andrew",
+   "name": "Andrew Chadderdon",
+   "party": "Libertarian",
+   "office": "Regent of the University of Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-um-regent-2026-maas-kyle",
+   "name": "Kyle Maas",
+   "party": "Other",
+   "office": "Regent of the University of Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-patterson-daniel",
+   "name": "Daniel R. Patterson",
+   "party": "Libertarian",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-white-will",
+   "name": "Will Tyler White",
+   "party": "Libertarian",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-sanger-janet",
+   "name": "Janet Sanger",
+   "party": "Other",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-sanger-john",
+   "name": "John Sanger",
+   "party": "Other",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-lapietra-john",
+   "name": "John Anthony La Pietra",
+   "party": "Green",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-ozbek-yaz",
+   "name": "Yaz Ozbek",
+   "party": "Other",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-avery-alex",
+   "name": "Alex Avery",
+   "party": "Libertarian",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-vanalstine-jami",
+   "name": "Jami Van Alstine",
+   "party": "Libertarian",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-mcdonald-jeff",
+   "name": "Jeff McDonald",
+   "party": "Other",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-ragan-paul",
+   "name": "Paul M. Ragan",
+   "party": "Green",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-roehrig-suzanne",
+   "name": "Suzanne Roehrig",
+   "party": "Other",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-oakford-kathleen",
+   "name": "Kathleen Oakford",
+   "party": "Other",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-supreme-court-2026-cavanagh-megan",
+   "name": "Megan Kathleen Cavanagh",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (nonpartisan section), Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-supreme-court-2026-hood-noah",
+   "name": "Noah P. Hood",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (nonpartisan section), Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-supreme-court-2026-howe-thomas",
+   "name": "Thomas W. Howe",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (nonpartisan section), Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-supreme-court-2026-morse-bills-casandra",
+   "name": "Casandra Morse-Bills",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (nonpartisan section), Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-supreme-court-2026-warren-michael",
+   "name": "Michael Warren",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (nonpartisan section), Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-supreme-court-2026-white-jody",
+   "name": "Jody White",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (nonpartisan section), Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos1-2026-melody-colleen",
+   "name": "Colleen Melody",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 1 (2-year unexpired term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://melodyforjustice.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos1-2026-edwards-scott",
+   "name": "Scott Edwards",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 1 (2-year unexpired term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://votescottedwards.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos3-2026-stevens-david",
+   "name": "David Stevens",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 3 (6-year term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://www.judgestevensforwa.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos3-2026-hawk-jaime",
+   "name": "Jaime Michelle Hawk",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 3 (6-year term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://www.judgehawk.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos4-2026-birk-ian",
+   "name": "Ian Birk",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 4 (6-year term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://ianbirk.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos4-2026-odonnell-sean",
+   "name": "Sean O'Donnell",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 4 (6-year term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://www.odonnellforjustice.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos5-2026-angelis-theo",
+   "name": "Theo Angelis",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 5 (2-year unexpired term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://justiceangelis.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos5-2026-larson-dave",
+   "name": "Dave Larson",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 5 (2-year unexpired term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://larsonforjustice.com/",
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "batch": "064",
+ "createdAt": "2026-10-31T22:53:31.628Z",
+ "output": "src/data/positions/batch-064.json",
+ "candidates": [
+  {
+   "key": "hi-oha-at-large-2026-waihee-john",
+   "name": "John Waihee, IV",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, At-Large (nonpartisan; vote for 3)",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-oahu-2026-akaka-kalei",
+   "name": "Kalei Akaka",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, O'ahu Resident (nonpartisan; elected statewide)",
+   "state": "HI",
+   "knownWebsite": "https://www.shakavoteakaka.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-oahu-2026-wong-hinaleimoana",
+   "name": "Hinaleimoana (Hina) Wong",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, O'ahu Resident (nonpartisan; elected statewide)",
+   "state": "HI",
+   "knownWebsite": "https://kumuhinawongforoha.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-maui-2026-kapu-keeaumoku",
+   "name": "Ke'eaumoku Kapu",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, Maui Resident (nonpartisan; elected statewide)",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-maui-2026-lindsey-carmen",
+   "name": "Carmen Hulu Lindsey",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, Maui Resident (nonpartisan; elected statewide)",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mt-sc4-2026-eddy-amy",
+   "name": "Amy Eddy",
+   "party": "Nonpartisan",
+   "office": "Supreme Court Justice #4 (nonpartisan), Montana",
+   "state": "MT",
+   "knownWebsite": "https://amyeddyforjustice.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mt-sc4-2026-wilson-dan",
+   "name": "Dan Wilson",
+   "party": "Nonpartisan",
+   "office": "Supreme Court Justice #4 (nonpartisan), Montana",
+   "state": "MT",
+   "knownWebsite": "https://wilsonforjustice.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-sc-2026-tufte-jerod",
+   "name": "Jerod Tufte",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (10-year term, nonpartisan), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-sc-2026-johnson-ariston",
+   "name": "Ariston E Johnson",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (10-year term, nonpartisan), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-sc8-2026-bahr-douglas",
+   "name": "Douglas A Bahr",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court (unexpired 8-year term, nonpartisan), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ak-sc-ret-2026-pate-jude",
+   "name": "Jude Pate",
+   "party": "Nonpartisan",
+   "office": "Supreme Court: Shall Jude Pate be retained as justice of the supreme court for ten years? (yes/no retention), Alaska",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-sc-ret-2026-hill-bridget",
+   "name": "Bridget Hill",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court: shall Bridget Hill be retained? (yes/no retention), Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-sc-ret-2026-jarosh-robert",
+   "name": "Robert C. Jarosh",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court: shall Robert C. Jarosh be retained? (yes/no retention), Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-chancery-ret-2026-burningham-ben",
+   "name": "Ben Burningham",
+   "party": "Nonpartisan",
+   "office": "Judge of the Chancery Court: shall Ben Burningham be retained? (yes/no retention), Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

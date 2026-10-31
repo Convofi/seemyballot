@@ -1,0 +1,307 @@
+{
+ "batch": "050",
+ "createdAt": "2026-10-31T22:53:31.306Z",
+ "output": "src/data/positions/batch-050.json",
+ "candidates": [
+  {
+   "key": "az-ag-2026-mayes-kris",
+   "name": "Kris Mayes",
+   "party": "Democratic",
+   "office": "Attorney General, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.krismayes.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-ag-2026-petersen-warren",
+   "name": "Warren Petersen",
+   "party": "Republican",
+   "office": "Attorney General, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.petersenforag.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-treas-2026-norton-elijah",
+   "name": "Elijah Norton",
+   "party": "Republican",
+   "office": "State Treasurer, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://nortonforaz.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-treas-2026-mansour-nick",
+   "name": "Nick Mansour",
+   "party": "Democratic",
+   "office": "State Treasurer, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.mansourforarizona.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-spi-2026-yee-kimberly",
+   "name": "Kimberly Yee",
+   "party": "Republican",
+   "office": "Superintendent of Public Instruction, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://kimberlyyee.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-spi-2026-leyba-ruiz-teresa",
+   "name": "Teresa Leyba Ruiz",
+   "party": "Democratic",
+   "office": "Superintendent of Public Instruction, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.drruizforarizona.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-mine-inspector-2026-presmyk-walter",
+   "name": "Walter \"Les\" Presmyk",
+   "party": "Republican",
+   "office": "State Mine Inspector, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://lespresmyk.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-mine-inspector-2026-matlock-brian",
+   "name": "Brian Matlock",
+   "party": "Democratic",
+   "office": "State Mine Inspector, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.matlockforazmi.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-corp-comm-2026-thompson-kevin",
+   "name": "Kevin Thompson",
+   "party": "Republican",
+   "office": "Corporation Commissioner, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://thompsonforcorpcomm.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-corp-comm-2026-heap-ralph",
+   "name": "Ralph Heap",
+   "party": "Republican",
+   "office": "Corporation Commissioner, Arizona",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-corp-comm-2026-hill-jonathon",
+   "name": "Jonathon Hill",
+   "party": "Democratic",
+   "office": "Corporation Commissioner, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.votehillaz.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-corp-comm-2026-pratte-clara",
+   "name": "Clara Pratte",
+   "party": "Democratic",
+   "office": "Corporation Commissioner, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.claraforaz.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-ag-2026-campbell-andrea",
+   "name": "Andrea Joy Campbell",
+   "party": "Democratic",
+   "office": "Attorney General, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-ag-2026-walsh-michael",
+   "name": "Michael C. Walsh",
+   "party": "Republican",
+   "office": "Attorney General, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-sos-2026-galvin-william",
+   "name": "William Francis Galvin",
+   "party": "Democratic",
+   "office": "Secretary of State, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-sos-2026-brensley-anne",
+   "name": "Anne R. Brensley",
+   "party": "Republican",
+   "office": "Secretary of State, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-treas-2026-goldberg-deborah",
+   "name": "Deborah B. Goldberg",
+   "party": "Democratic",
+   "office": "Treasurer, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-treas-2026-dionne-elizabeth",
+   "name": "Elizabeth Dionne",
+   "party": "Republican",
+   "office": "Treasurer, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-aud-2026-dizoglio-diana",
+   "name": "Diana DiZoglio",
+   "party": "Democratic",
+   "office": "Auditor, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-sos-2026-engling-max",
+   "name": "Max Engling",
+   "party": "Republican",
+   "office": "Secretary of State, Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-sos-2026-bayh-beau",
+   "name": "Beau Bayh",
+   "party": "Democratic",
+   "office": "Secretary of State, Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-comptroller-2026-nieshalla-elise",
+   "name": "Elise Nieshalla",
+   "party": "Republican",
+   "office": "State Comptroller (Auditor of State), Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-comptroller-2026-bailey-jessica",
+   "name": "Jessica Bailey",
+   "party": "Democratic",
+   "office": "State Comptroller (Auditor of State), Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-treas-2026-elliott-daniel",
+   "name": "Daniel Elliott",
+   "party": "Republican",
+   "office": "Treasurer of State, Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-treas-2026-kebe-coumba",
+   "name": "Coumba Kebe",
+   "party": "Democratic",
+   "office": "Treasurer of State, Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-comp-2026-lierman-brooke",
+   "name": "Brooke Elizabeth Lierman",
+   "party": "Democratic",
+   "office": "Comptroller, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://brookelierman.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-comp-2026-dunn-sonya",
+   "name": "Sonya Dunn",
+   "party": "Republican",
+   "office": "Comptroller, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.votesonyadunn.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-ag-2026-brown-anthony",
+   "name": "Anthony G. Brown",
+   "party": "Democratic",
+   "office": "Attorney General, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://anthonybrown.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-ag-2026-rutledge-james",
+   "name": "James B. Rutledge, III",
+   "party": "Republican",
+   "office": "Attorney General, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-auditor-2026-fitzpatrick-scott",
+   "name": "Scott Fitzpatrick",
+   "party": "Republican",
+   "office": "State Auditor, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

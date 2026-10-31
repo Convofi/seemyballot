@@ -1,0 +1,307 @@
+{
+ "batch": "037",
+ "createdAt": "2026-10-31T22:53:30.966Z",
+ "output": "src/data/positions/batch-037.json",
+ "candidates": [
+  {
+   "key": "H6IA04217",
+   "name": "Dave Dawson",
+   "party": "Democratic",
+   "office": "U.S. House, Iowa District 4",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA04217/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IA04167",
+   "name": "Chris McGowan",
+   "party": "Republican",
+   "office": "U.S. House, Iowa District 4",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA04167/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IA17011",
+   "name": "Wali Aquil Muhammad",
+   "party": "Democratic",
+   "office": "U.S. House, Iowa District 17",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA17011/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NV00135",
+   "name": "Heath Vincent Fulkerson",
+   "party": "Republican",
+   "office": "U.S. House, Nevada At-Large",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NV00135/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NV03036",
+   "name": "Dina Titus",
+   "party": "Democratic",
+   "office": "U.S. House, Nevada District 1",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NV03036/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NV01331",
+   "name": "Carrie Buck",
+   "party": "Republican",
+   "office": "U.S. House, Nevada District 1",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NV01331/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NV02362",
+   "name": "Teresa Benitez-Thompson",
+   "party": "Democratic",
+   "office": "U.S. House, Nevada District 2",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NV02362/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NV04108",
+   "name": "David Flippo",
+   "party": "Republican",
+   "office": "U.S. House, Nevada District 2",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NV04108/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NV04020",
+   "name": "Susie Lee",
+   "party": "Democratic",
+   "office": "U.S. House, Nevada District 3",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NV04020/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NV03225",
+   "name": "Martin O'Donnell",
+   "party": "Republican",
+   "office": "U.S. House, Nevada District 3",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NV03225/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NV04011",
+   "name": "Steven Horsford",
+   "party": "Democratic",
+   "office": "U.S. House, Nevada District 4",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NV04011/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NV04111",
+   "name": "Cody Whipple",
+   "party": "Republican",
+   "office": "U.S. House, Nevada District 4",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NV04111/",
+   "status": "pending"
+  },
+  {
+   "key": "H0AR01083",
+   "name": "Rick Crawford",
+   "party": "Republican",
+   "office": "U.S. House, Arkansas District 1",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0AR01083/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AR01155",
+   "name": "Terri Yarbrough",
+   "party": "Democratic",
+   "office": "U.S. House, Arkansas District 1",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AR01155/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AR02141",
+   "name": "French Hill",
+   "party": "Republican",
+   "office": "U.S. House, Arkansas District 2",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AR02141/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AR02286",
+   "name": "Chris Jones",
+   "party": "Democratic",
+   "office": "U.S. House, Arkansas District 2",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AR02286/",
+   "status": "pending"
+  },
+  {
+   "key": "H0AR03055",
+   "name": "Steve Womack",
+   "party": "Republican",
+   "office": "U.S. House, Arkansas District 3",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0AR03055/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AR03128",
+   "name": "Robb Ryerse",
+   "party": "Democratic",
+   "office": "U.S. House, Arkansas District 3",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AR03128/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AR04048",
+   "name": "Bruce Westerman",
+   "party": "Republican",
+   "office": "U.S. House, Arkansas District 4",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AR04048/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AR04084",
+   "name": "James Russell",
+   "party": "Democratic",
+   "office": "U.S. House, Arkansas District 4",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AR04084/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MS01131",
+   "name": "Trent Kelly",
+   "party": "Republican",
+   "office": "U.S. House, Mississippi District 1",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MS01131/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MS01313",
+   "name": "Cliff Johnson",
+   "party": "Democratic",
+   "office": "U.S. House, Mississippi District 1",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MS01313/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MS02068",
+   "name": "Bennie Thompson",
+   "party": "Democratic",
+   "office": "U.S. House, Mississippi District 2",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MS02068/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MS02203",
+   "name": "Ron Eller",
+   "party": "Republican",
+   "office": "U.S. House, Mississippi District 2",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MS02203/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MS03125",
+   "name": "Michael Guest",
+   "party": "Republican",
+   "office": "U.S. House, Mississippi District 3",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MS03125/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MS03228",
+   "name": "Michael Chiaradio",
+   "party": "Democratic",
+   "office": "U.S. House, Mississippi District 3",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MS03228/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MS04258",
+   "name": "Mike Ezell",
+   "party": "Republican",
+   "office": "U.S. House, Mississippi District 4",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MS04258/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MS04242",
+   "name": "Jeffrey Hulum III",
+   "party": "Democratic",
+   "office": "U.S. House, Mississippi District 4",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MS04242/",
+   "status": "pending"
+  },
+  {
+   "key": "H0KS01123",
+   "name": "Tracey Mann",
+   "party": "Republican",
+   "office": "U.S. House, Kansas District 1",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0KS01123/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KS01203",
+   "name": "Lauren Reinhold",
+   "party": "Democratic",
+   "office": "U.S. House, Kansas District 1",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KS01203/",
+   "status": "pending"
+  }
+ ]
+}

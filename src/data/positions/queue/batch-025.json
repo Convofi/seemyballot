@@ -1,0 +1,307 @@
+{
+ "batch": "025",
+ "createdAt": "2026-10-31T22:53:30.643Z",
+ "output": "src/data/positions/batch-025.json",
+ "candidates": [
+  {
+   "key": "H0MI03316",
+   "name": "Hillary Scholten",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 3",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MI03316/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI03198",
+   "name": "Terri DeBoer",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 3",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI03198/",
+   "status": "pending"
+  },
+  {
+   "key": "H0MI02094",
+   "name": "Bill Huizenga",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 4",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MI02094/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI04204",
+   "name": "Sean McCann",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 4",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI04204/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MI07103",
+   "name": "Tim Walberg",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 5",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MI07103/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI05227",
+   "name": "Christian Vukasovich",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 5",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI05227/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MI12079",
+   "name": "Debbie Dingell",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 6",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MI12079/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MI06154",
+   "name": "Heather Smiley",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 6",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MI06154/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MI07123",
+   "name": "Tom Barrett",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 7",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MI07123/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI07298",
+   "name": "William Lawrence",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 7",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI07298/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MI08218",
+   "name": "Kristen McDonald Rivet",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 8",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MI08218/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI08312",
+   "name": "Thomas J. Smith",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 8",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI08312/",
+   "status": "pending"
+  },
+  {
+   "key": "H0MI10287",
+   "name": "Lisa McClain",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 9",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MI10287/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI09245",
+   "name": "Ray Pooley",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 9",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI09245/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI10359",
+   "name": "Michael Bouchard Jr.",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 10",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI10359/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI10276",
+   "name": "Christina Hines",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 10",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI10276/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI11290",
+   "name": "Ethan Baker",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 11",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI11290/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI11191",
+   "name": "Jeremy Moss",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 11",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI11191/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MI13250",
+   "name": "Rashida Tlaib",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 12",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MI13250/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MI12198",
+   "name": "James D. Hooper",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 12",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MI12198/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI13254",
+   "name": "Donavan McKinney",
+   "party": "Democratic",
+   "office": "U.S. House, Michigan District 13",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI13254/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI13312",
+   "name": "T.P. Nykoriak",
+   "party": "Republican",
+   "office": "U.S. House, Michigan District 13",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI13312/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NJ01084",
+   "name": "Donald Norcross",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 1",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NJ01084/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NJ01187",
+   "name": "Damon Galdo",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 1",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NJ01187/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NJ02166",
+   "name": "Jeff Van Drew",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 2",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NJ02166/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ02251",
+   "name": "Zack Mullock",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 2",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ02251/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NJ03080",
+   "name": "Herb Conaway",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 3",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NJ03080/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ03184",
+   "name": "Michael McGuire",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 3",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ03184/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NJ04014",
+   "name": "Chris Smith",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 4",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NJ04014/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ04257",
+   "name": "Rachel Peace",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 4",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ04257/",
+   "status": "pending"
+  }
+ ]
+}

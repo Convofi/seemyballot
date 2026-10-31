@@ -1,0 +1,307 @@
+{
+ "batch": "053",
+ "createdAt": "2026-10-31T22:53:31.306Z",
+ "output": "src/data/positions/batch-053.json",
+ "candidates": [
+  {
+   "key": "ct-comp-2026-scanlon-sean",
+   "name": "Sean Scanlon",
+   "party": "Democratic",
+   "office": "Comptroller, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-comp-2026-tooker-jennifer",
+   "name": "Jennifer S. Tooker",
+   "party": "Republican",
+   "office": "Comptroller, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-ag-2026-tong-william",
+   "name": "William Tong",
+   "party": "Democratic",
+   "office": "Attorney General, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-ag-2026-bolton-john",
+   "name": "John Bolton",
+   "party": "Republican",
+   "office": "Attorney General, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-sos-2026-pate-paul",
+   "name": "Paul D. Pate",
+   "party": "Republican",
+   "office": "Secretary of State, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-sos-2026-peterman-ryan",
+   "name": "Ryan Peterman",
+   "party": "Democratic",
+   "office": "Secretary of State, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-aud-2026-cournoyer-chris",
+   "name": "Chris Cournoyer",
+   "party": "Republican",
+   "office": "Auditor of State, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-aud-2026-wettach-taylor",
+   "name": "Taylor Wettach",
+   "party": "Democratic",
+   "office": "Auditor of State, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-treas-2026-smith-roby",
+   "name": "Roby Smith",
+   "party": "Republican",
+   "office": "Treasurer of State, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-treas-2026-norwood-john",
+   "name": "John Norwood",
+   "party": "Democratic",
+   "office": "Treasurer of State, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-ag-sec-2026-naig-mike",
+   "name": "Mike Naig",
+   "party": "Republican",
+   "office": "Secretary of Agriculture, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-ag-sec-2026-jones-chris",
+   "name": "Chris Jones",
+   "party": "Democratic",
+   "office": "Secretary of Agriculture, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-ag-2026-bird-brenna",
+   "name": "Brenna Bird",
+   "party": "Republican",
+   "office": "Attorney General, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-ag-2026-willems-nate",
+   "name": "Nate Willems",
+   "party": "Democratic",
+   "office": "Attorney General, Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-sos-2026-aguilar-francisco",
+   "name": "Francisco \"Cisco\" Aguilar",
+   "party": "Democratic",
+   "office": "Secretary of State, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-sos-2026-marchant-jim",
+   "name": "Jim Marchant",
+   "party": "Republican",
+   "office": "Secretary of State, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-treas-2026-johnson-drew",
+   "name": "Drew Johnson",
+   "party": "Republican",
+   "office": "State Treasurer, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-treas-2026-mathis-coleman-tya",
+   "name": "Tya Mathis-Coleman",
+   "party": "Democratic",
+   "office": "State Treasurer, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-ctrl-2026-macdougall-michael",
+   "name": "Michael MacDougall",
+   "party": "Democratic",
+   "office": "State Controller, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-ctrl-2026-matthews-andy",
+   "name": "Andy Matthews",
+   "party": "Republican",
+   "office": "State Controller, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-ag-2026-cannizzaro-nicole",
+   "name": "Nicole Jeanette Cannizzaro",
+   "party": "Democratic",
+   "office": "Attorney General, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-ag-2026-guzman-fralick-adriana",
+   "name": "Adriana Guzmán Fralick",
+   "party": "Republican",
+   "office": "Attorney General, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-sos-2026-hammer-kim",
+   "name": "Kim Hammer",
+   "party": "Republican",
+   "office": "Secretary of State, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-sos-2026-grappe-kelly",
+   "name": "Kelly Grappe",
+   "party": "Democratic",
+   "office": "Secretary of State, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-ag-2026-griffin-tim",
+   "name": "Tim Griffin",
+   "party": "Republican",
+   "office": "Attorney General, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-treas-2026-thurston-john",
+   "name": "John Thurston",
+   "party": "Republican",
+   "office": "State Treasurer, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-aud-2026-milligan-dennis",
+   "name": "Dennis Milligan",
+   "party": "Republican",
+   "office": "Auditor of State, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-lands-2026-jester-cole",
+   "name": "Cole Jester",
+   "party": "Republican",
+   "office": "Commissioner of State Lands, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-sos-2026-day-jennifer",
+   "name": "Jennifer Day",
+   "party": "Democratic",
+   "office": "Secretary of State, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-sos-2026-proctor-pat",
+   "name": "Pat Proctor",
+   "party": "Republican",
+   "office": "Secretary of State, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

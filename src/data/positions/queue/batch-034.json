@@ -1,0 +1,307 @@
+{
+ "batch": "034",
+ "createdAt": "2026-10-31T22:53:30.965Z",
+ "output": "src/data/positions/batch-034.json",
+ "candidates": [
+  {
+   "key": "wiki:renada-collins",
+   "name": "Renada Collins",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 2",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H4LA05171",
+   "name": "Peter Williams",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 2",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4LA05171/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA03148",
+   "name": "Clay Higgins",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 3",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA03148/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:kate-cotten",
+   "name": "Kate Cotten",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 3",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6LA03205",
+   "name": "John Day",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 3",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA03205/",
+   "status": "pending"
+  },
+  {
+   "key": "H4LA03135",
+   "name": "Priscilla Gonzalez",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 3",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4LA03135/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:caleb-walker",
+   "name": "Caleb Walker",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 3",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6LA04138",
+   "name": "Mike Johnson",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 4",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA04138/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA04187",
+   "name": "Conrad Cable",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 4",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA04187/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA04195",
+   "name": "Matt Gromlich",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 4",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA04195/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA04229",
+   "name": "Gordan Heslop",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 4",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA04229/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA04203",
+   "name": "Mike Nichols",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 4",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA04203/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05184",
+   "name": "Stewart Cathey Jr.",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05184/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05200",
+   "name": "Misti Cordell",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05200/",
+   "status": "pending"
+  },
+  {
+   "key": "H2LA05282",
+   "name": "Oscar Dantzler",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2LA05282/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05242",
+   "name": "Michael Echols",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05242/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05317",
+   "name": "Gabe Firment",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05317/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05283",
+   "name": "Austin Magee",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05283/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05291",
+   "name": "Dan McKay",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05291/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05341",
+   "name": "Patricia Moore",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05341/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05325",
+   "name": "Antonio Wilson",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 5",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05325/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA06158",
+   "name": "Monique Appeaning",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA06158/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA06174",
+   "name": "Chauna Banks",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA06174/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05168",
+   "name": "Larry Davis",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05168/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05226",
+   "name": "Rick Edmonds",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05226/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA06190",
+   "name": "Pat Forbes",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA06190/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05309",
+   "name": "Lindsay Garcia",
+   "party": "Democratic",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05309/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05259",
+   "name": "Michael Mebruer",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05259/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA05234",
+   "name": "Blake Miguez",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA05234/",
+   "status": "pending"
+  },
+  {
+   "key": "H6LA06182",
+   "name": "Stephen Wagley",
+   "party": "Republican",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6LA06182/",
+   "status": "pending"
+  }
+ ]
+}

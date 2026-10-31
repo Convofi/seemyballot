@@ -1,0 +1,307 @@
+{
+ "batch": "030",
+ "createdAt": "2026-10-31T22:53:30.964Z",
+ "output": "src/data/positions/batch-030.json",
+ "candidates": [
+  {
+   "key": "H6IN07444",
+   "name": "Patrick McAuley",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 7",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN07444/",
+   "status": "pending"
+  },
+  {
+   "key": "H4IN08249",
+   "name": "Mark Messmer",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 8",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4IN08249/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN08293",
+   "name": "Mary Allen",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 8",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN08293/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN09143",
+   "name": "Erin Houchin",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 9",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN09143/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN09242",
+   "name": "Brad Meyer",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 9",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN09242/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MD03508",
+   "name": "Austin Dyches",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland At-Large",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MD03508/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MD01094",
+   "name": "Andy Harris",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 1",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MD01094/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MD01320",
+   "name": "Dan Schwartz",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 1",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MD01320/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MD02232",
+   "name": "Johnny Olszewski",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 2",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MD02232/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MD06138",
+   "name": "Dave Wallace",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 2",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MD06138/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MD03156",
+   "name": "Sarah Elfreth",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 3",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MD03156/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MD03149",
+   "name": "Berney Flowers",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 3",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MD03149/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MD04232",
+   "name": "Glenn Ivey",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 4",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MD04232/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:george-mcdermott",
+   "name": "George McDermott",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 4",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6MD05321",
+   "name": "Adrian Boafo",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 5",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MD05321/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MD05169",
+   "name": "Chris Chaffee",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 5",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MD05169/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MD06340",
+   "name": "April McClain Delaney",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 6",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MD06340/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MD06287",
+   "name": "Robin Ficker",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 6",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MD06287/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MD07020",
+   "name": "Kweisi Mfume",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 7",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MD07020/",
+   "status": "pending"
+  },
+  {
+   "key": "H0MD02255",
+   "name": "Scott Collier",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 7",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MD02255/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MD08457",
+   "name": "Jamie Raskin",
+   "party": "Democratic",
+   "office": "U.S. House, Maryland District 8",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MD08457/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MD08213",
+   "name": "Cheryl Riley",
+   "party": "Republican",
+   "office": "U.S. House, Maryland District 8",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MD08213/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MO03408",
+   "name": "Michael Phillip Conner",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri At-Large",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MO03408/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MO01134",
+   "name": "Wesley Bell",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 1",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MO01134/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO02219",
+   "name": "Paul Berry",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 1",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO02219/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO02102",
+   "name": "Ann Wagner",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 2",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO02102/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MO02343",
+   "name": "Fred Wellman",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 2",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MO02343/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO03167",
+   "name": "Bethany Mann",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 3",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO03167/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MO09146",
+   "name": "Bob Onder",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 3",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MO09146/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO04207",
+   "name": "Mark Alford",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 4",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO04207/",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "039",
+ "createdAt": "2026-10-31T22:53:30.966Z",
+ "output": "src/data/positions/batch-039.json",
+ "candidates": [
+  {
+   "key": "H6HI02426",
+   "name": "Brenton Awa",
+   "party": "Republican",
+   "office": "U.S. House, Hawaii District 2",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6HI02426/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NH01420",
+   "name": "Anthony DiLorenzo",
+   "party": "Republican",
+   "office": "U.S. House, New Hampshire District 1",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NH01420/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NH01321",
+   "name": "Stefany Shaheen",
+   "party": "Democratic",
+   "office": "U.S. House, New Hampshire District 1",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NH01321/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NH02399",
+   "name": "Maggie Goodlander",
+   "party": "Democratic",
+   "office": "U.S. House, New Hampshire District 2",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NH02399/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NH02260",
+   "name": "Lily Tang Williams",
+   "party": "Republican",
+   "office": "U.S. House, New Hampshire District 2",
+   "state": "NH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NH02260/",
+   "status": "pending"
+  },
+  {
+   "key": "H8ME01120",
+   "name": "Chellie Pingree",
+   "party": "Democratic",
+   "office": "U.S. House, Maine District 1",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8ME01120/",
+   "status": "pending"
+  },
+  {
+   "key": "H4ME01160",
+   "name": "Ronald Russell",
+   "party": "Republican",
+   "office": "U.S. House, Maine District 1",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4ME01160/",
+   "status": "pending"
+  },
+  {
+   "key": "H6ME02171",
+   "name": "Matthew Dunlap",
+   "party": "Democratic",
+   "office": "U.S. House, Maine District 2",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6ME02171/",
+   "status": "pending"
+  },
+  {
+   "key": "H6ME02148",
+   "name": "Paul LePage",
+   "party": "Republican",
+   "office": "U.S. House, Maine District 2",
+   "state": "ME",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6ME02148/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MT01152",
+   "name": "Aaron Flint",
+   "party": "Republican",
+   "office": "U.S. House, Montana District 1",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MT01152/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MT01137",
+   "name": "Sam Forstag",
+   "party": "Democratic",
+   "office": "U.S. House, Montana District 1",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MT01137/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MT02098",
+   "name": "Troy Downing",
+   "party": "Republican",
+   "office": "U.S. House, Montana District 2",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MT02098/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MT02150",
+   "name": "Brian Miller",
+   "party": "Democratic",
+   "office": "U.S. House, Montana District 2",
+   "state": "MT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MT02150/",
+   "status": "pending"
+  },
+  {
+   "key": "H4RI01265",
+   "name": "Gabe Amo",
+   "party": "Democratic",
+   "office": "U.S. House, Rhode Island District 1",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4RI01265/",
+   "status": "pending"
+  },
+  {
+   "key": "H6RI01153",
+   "name": "Kellie Keenan",
+   "party": "Republican",
+   "office": "U.S. House, Rhode Island District 1",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6RI01153/",
+   "status": "pending"
+  },
+  {
+   "key": "H2RI02184",
+   "name": "Seth Magaziner",
+   "party": "Democratic",
+   "office": "U.S. House, Rhode Island District 2",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2RI02184/",
+   "status": "pending"
+  },
+  {
+   "key": "H6RI02318",
+   "name": "Victor Mellor",
+   "party": "Republican",
+   "office": "U.S. House, Rhode Island District 2",
+   "state": "RI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6RI02318/",
+   "status": "pending"
+  },
+  {
+   "key": "H4DE00045",
+   "name": "Sarah McBride",
+   "party": "Democratic",
+   "office": "U.S. House, Delaware At-Large",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4DE00045/",
+   "status": "pending"
+  },
+  {
+   "key": "H6DE01121",
+   "name": "Joseph Arminio",
+   "party": "Republican",
+   "office": "U.S. House, Delaware At-Large",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6DE01121/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SD01141",
+   "name": "Nicole Gronli",
+   "party": "Democratic",
+   "office": "U.S. House, South Dakota At-Large",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SD01141/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SD01109",
+   "name": "Marty Jackley",
+   "party": "Republican",
+   "office": "U.S. House, South Dakota At-Large",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SD01109/",
+   "status": "pending"
+  },
+  {
+   "key": "H4ND00061",
+   "name": "Julie Fedorchak",
+   "party": "Republican",
+   "office": "U.S. House, North Dakota At-Large",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4ND00061/",
+   "status": "pending"
+  },
+  {
+   "key": "H6ND01049",
+   "name": "Trygve Hammer",
+   "party": "Democratic",
+   "office": "U.S. House, North Dakota At-Large",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6ND01049/",
+   "status": "pending"
+  },
+  {
+   "key": "H2AK01083",
+   "name": "Nick Begich III",
+   "party": "Republican",
+   "office": "U.S. House, Alaska At-Large",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2AK01083/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AK00164",
+   "name": "Eric Hafner",
+   "party": "Democratic",
+   "office": "U.S. House, Alaska At-Large",
+   "state": "AK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AK00164/",
+   "status": "pending"
+  },
+  {
+   "key": "H6DC01111",
+   "name": "Denise Rosado",
+   "party": "Republican",
+   "office": "U.S. House, District of Columbia At-Large",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6DC01111/",
+   "status": "pending"
+  },
+  {
+   "key": "H6DC01079",
+   "name": "Robert White",
+   "party": "Democratic",
+   "office": "U.S. House, District of Columbia At-Large",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6DC01079/",
+   "status": "pending"
+  },
+  {
+   "key": "H2VT01076",
+   "name": "Becca Balint",
+   "party": "Democratic",
+   "office": "U.S. House, Vermont At-Large",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2VT01076/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VT01085",
+   "name": "Gerald Malloy",
+   "party": "Republican",
+   "office": "U.S. House, Vermont At-Large",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VT01085/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WY00217",
+   "name": "Chuck Gray",
+   "party": "Republican",
+   "office": "U.S. House, Wyoming At-Large",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WY00217/",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "048",
+ "createdAt": "2026-10-31T22:53:31.305Z",
+ "output": "src/data/positions/batch-048.json",
+ "candidates": [
+  {
+   "key": "ca-sos-2026-weber-shirley",
+   "name": "Shirley N. Weber",
+   "party": "Democratic",
+   "office": "Secretary of State, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-sos-2026-wagner-donald",
+   "name": "Donald P. (Don) Wagner",
+   "party": "Republican",
+   "office": "Secretary of State, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-controller-2026-cohen-malia",
+   "name": "Malia M. Cohen",
+   "party": "Democratic",
+   "office": "Controller, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-controller-2026-morgan-herb",
+   "name": "Herb W Morgan",
+   "party": "Republican",
+   "office": "Controller, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-treas-2026-kounalakis-eleni",
+   "name": "Eleni Kounalakis",
+   "party": "Democratic",
+   "office": "Treasurer, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-treas-2026-hawks-jennifer",
+   "name": "Jennifer Hawks",
+   "party": "Republican",
+   "office": "Treasurer, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-ag-2026-bonta-rob",
+   "name": "Rob Bonta",
+   "party": "Democratic",
+   "office": "Attorney General, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-ag-2026-gates-michael",
+   "name": "Michael E. Gates",
+   "party": "Republican",
+   "office": "Attorney General, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-ins-2026-allen-ben",
+   "name": "Ben Allen",
+   "party": "Democratic",
+   "office": "Insurance Commissioner, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-ins-2026-kim-jane",
+   "name": "Jane Kim",
+   "party": "Democratic",
+   "office": "Insurance Commissioner, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-ag-2026-middleton-mayes",
+   "name": "Mayes Middleton",
+   "party": "Republican",
+   "office": "Attorney General, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-ag-2026-johnson-nathan",
+   "name": "Nathan Johnson",
+   "party": "Democratic",
+   "office": "Attorney General, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-comptroller-2026-huffines-don",
+   "name": "Don Huffines",
+   "party": "Republican",
+   "office": "Comptroller of Public Accounts, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-comptroller-2026-eckhardt-sarah",
+   "name": "Sarah Eckhardt",
+   "party": "Democratic",
+   "office": "Comptroller of Public Accounts, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-land-2026-buckingham-dawn",
+   "name": "Dawn Buckingham",
+   "party": "Republican",
+   "office": "Commissioner of the General Land Office, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-land-2026-flores-benjamin",
+   "name": "Benjamin Flores",
+   "party": "Democratic",
+   "office": "Commissioner of the General Land Office, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-agriculture-2026-sheets-nate",
+   "name": "Nate Sheets",
+   "party": "Republican",
+   "office": "Commissioner of Agriculture, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-agriculture-2026-tucker-clayton",
+   "name": "Clayton Tucker",
+   "party": "Democratic",
+   "office": "Commissioner of Agriculture, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-rrc-2026-french-bo",
+   "name": "Bo French",
+   "party": "Republican",
+   "office": "Railroad Commissioner, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-rrc-2026-rosenthal-jon",
+   "name": "Jon Rosenthal",
+   "party": "Democratic",
+   "office": "Railroad Commissioner, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-ag-2026-uthmeier-james",
+   "name": "James Uthmeier",
+   "party": "Republican",
+   "office": "Attorney General, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-ag-2026-rodriguez-jose",
+   "name": "Jose Javier Rodriguez",
+   "party": "Democratic",
+   "office": "Attorney General, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-cfo-2026-ingoglia-blaise",
+   "name": "Blaise Ingoglia",
+   "party": "Republican",
+   "office": "Chief Financial Officer, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-cfo-2026-taddeo-annette",
+   "name": "Annette Taddeo",
+   "party": "Democratic",
+   "office": "Chief Financial Officer, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-agr-2026-simpson-wilton",
+   "name": "Wilton Simpson",
+   "party": "Republican",
+   "office": "Commissioner of Agriculture, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-agr-2026-mendoza-atkins-joey",
+   "name": "Joey Mendoza Atkins",
+   "party": "Democratic",
+   "office": "Commissioner of Agriculture, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-comp-2026-dinapoli-thomas",
+   "name": "Thomas P. DiNapoli",
+   "party": "Democratic",
+   "office": "State Comptroller, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-comp-2026-hernandez-joseph",
+   "name": "Joseph Hernandez",
+   "party": "Republican",
+   "office": "State Comptroller, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-ag-2026-james-letitia",
+   "name": "Letitia A. James",
+   "party": "Democratic",
+   "office": "Attorney General, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-ag-2026-komatireddy-saritha",
+   "name": "Saritha Komatireddy",
+   "party": "Republican",
+   "office": "Attorney General, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

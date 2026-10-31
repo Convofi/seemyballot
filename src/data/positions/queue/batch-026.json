@@ -1,0 +1,307 @@
+{
+ "batch": "026",
+ "createdAt": "2026-10-31T22:53:30.962Z",
+ "output": "src/data/positions/batch-026.json",
+ "candidates": [
+  {
+   "key": "H6NJ05171",
+   "name": "Josh Gottheimer",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 5",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ05171/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ05221",
+   "name": "Sean Kirrane",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 5",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ05221/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NJ03073",
+   "name": "Frank Pallone",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 6",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NJ03073/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ06286",
+   "name": "Hillary Herzig",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 6",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ06286/",
+   "status": "pending"
+  },
+  {
+   "key": "H0NJ07261",
+   "name": "Thomas Kean Jr.",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 7",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NJ07261/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ07201",
+   "name": "Rebecca Bennett",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 7",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ07201/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NJ08232",
+   "name": "Rob Menendez",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 8",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NJ08232/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NJ09194",
+   "name": "Nellie Pou",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 9",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NJ09194/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ09264",
+   "name": "Rosie Pino",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 9",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ09264/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NJ10176",
+   "name": "LaMonica McIver",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 10",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NJ10176/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NJ10135",
+   "name": "Carmen Bucco",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 10",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NJ10135/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ11286",
+   "name": "Analilia Mejia",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 11",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ11286/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ11211",
+   "name": "Joe Hathaway",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 11",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ11211/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NJ12417",
+   "name": "Adam Hamawy",
+   "party": "Democratic",
+   "office": "U.S. House, New Jersey District 12",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NJ12417/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NJ06210",
+   "name": "Gregg Mele",
+   "party": "Republican",
+   "office": "U.S. House, New Jersey District 12",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NJ06210/",
+   "status": "pending"
+  },
+  {
+   "key": "H8VA01147",
+   "name": "Rob Wittman",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 1",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8VA01147/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA01299",
+   "name": "Shannon Taylor",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 1",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA01299/",
+   "status": "pending"
+  },
+  {
+   "key": "H2VA02064",
+   "name": "Jen Kiggans",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 2",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2VA02064/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA02198",
+   "name": "Elaine Luria",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 2",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA02198/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA01117",
+   "name": "Bobby Scott",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 3",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA01117/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA03121",
+   "name": "Edwin Rivera",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 3",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA03121/",
+   "status": "pending"
+  },
+  {
+   "key": "H4VA04066",
+   "name": "Jennifer McClellan",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 4",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4VA04066/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA04129",
+   "name": "Robert Murray",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 4",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA04129/",
+   "status": "pending"
+  },
+  {
+   "key": "H0VA07133",
+   "name": "John McGuire",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 5",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0VA07133/",
+   "status": "pending"
+  },
+  {
+   "key": "H8VA05106",
+   "name": "Tom Perriello",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 5",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8VA05106/",
+   "status": "pending"
+  },
+  {
+   "key": "H8VA06104",
+   "name": "Ben Cline",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 6",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8VA06104/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA06173",
+   "name": "Beth Macy",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 6",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA06173/",
+   "status": "pending"
+  },
+  {
+   "key": "H4VA07234",
+   "name": "Eugene Vindman",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 7",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4VA07234/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA07205",
+   "name": "Doug Ollivant",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 7",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA07205/",
+   "status": "pending"
+  },
+  {
+   "key": "H4VA08224",
+   "name": "Don Beyer",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 8",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4VA08224/",
+   "status": "pending"
+  }
+ ]
+}

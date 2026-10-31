@@ -1,0 +1,307 @@
+{
+ "batch": "019",
+ "createdAt": "2026-10-31T22:53:30.641Z",
+ "output": "src/data/positions/batch-019.json",
+ "candidates": [
+  {
+   "key": "H4NY16087",
+   "name": "George Latimer",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 16",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY16087/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NY07052",
+   "name": "Joseph Cinquemani",
+   "party": "Republican",
+   "office": "U.S. House, New York District 16",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY07052/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NY17162",
+   "name": "Mike Lawler",
+   "party": "Republican",
+   "office": "U.S. House, New York District 17",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NY17162/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY17171",
+   "name": "Cait Conley",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 17",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY17171/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NY19223",
+   "name": "Pat Ryan",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 18",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NY19223/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY18252",
+   "name": "Jacqueline Auringer",
+   "party": "Republican",
+   "office": "U.S. House, New York District 18",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY18252/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NY22177",
+   "name": "Josh Riley",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 19",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NY22177/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY19268",
+   "name": "Peter Oberacker",
+   "party": "Republican",
+   "office": "U.S. House, New York District 19",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY19268/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NY21203",
+   "name": "Paul Tonko",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 20",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NY21203/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY20225",
+   "name": "Ralph Ambrosio",
+   "party": "Republican",
+   "office": "U.S. House, New York District 20",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY20225/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY21157",
+   "name": "Anthony Constantino",
+   "party": "Republican",
+   "office": "U.S. House, New York District 21",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY21157/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY21199",
+   "name": "Blake Gendebien",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 21",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY21199/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NY22085",
+   "name": "John Mannion",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 22",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY22085/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY22213",
+   "name": "Kailee Buller",
+   "party": "Republican",
+   "office": "U.S. House, New York District 22",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY22213/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NY23228",
+   "name": "Nick Langworthy",
+   "party": "Republican",
+   "office": "U.S. House, New York District 23",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NY23228/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY23559",
+   "name": "Aaron Gies",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 23",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY23559/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NY22051",
+   "name": "Claudia Tenney",
+   "party": "Republican",
+   "office": "U.S. House, New York District 24",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY22051/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY24219",
+   "name": "Alissa Ellman",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 24",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY24219/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NY25105",
+   "name": "Joseph Morelle",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 25",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NY25105/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY25208",
+   "name": "Virginia McIntyre",
+   "party": "Republican",
+   "office": "U.S. House, New York District 25",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY25208/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NY26078",
+   "name": "Tim Kennedy",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 26",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY26078/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY26131",
+   "name": "Dennis Hannon",
+   "party": "Republican",
+   "office": "U.S. House, New York District 26",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY26131/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA08277",
+   "name": "Brian Fitzpatrick",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 1",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA08277/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA01181",
+   "name": "Bob Harvie",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 1",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA01181/",
+   "status": "pending"
+  },
+  {
+   "key": "H4PA13199",
+   "name": "Brendan Boyle",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 2",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4PA13199/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA02205",
+   "name": "Jessica Arriaga",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 2",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA02205/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA03203",
+   "name": "Chris Rabb",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 3",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA03203/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA04116",
+   "name": "Madeleine Dean",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 4",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA04116/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA04169",
+   "name": "Aurora Stuski",
+   "party": "Republican",
+   "office": "U.S. House, Pennsylvania District 4",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA04169/",
+   "status": "pending"
+  },
+  {
+   "key": "H8PA07200",
+   "name": "Mary Gay Scanlon",
+   "party": "Democratic",
+   "office": "U.S. House, Pennsylvania District 5",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8PA07200/",
+   "status": "pending"
+  }
+ ]
+}

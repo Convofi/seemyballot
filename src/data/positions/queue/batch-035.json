@@ -1,0 +1,307 @@
+{
+ "batch": "035",
+ "createdAt": "2026-10-31T22:53:30.965Z",
+ "output": "src/data/positions/batch-035.json",
+ "candidates": [
+  {
+   "key": "H6KY01110",
+   "name": "James R. Comer",
+   "party": "Republican",
+   "office": "U.S. House, Kentucky District 1",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY01110/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY01169",
+   "name": "John \"Drew\" Williams",
+   "party": "Democratic",
+   "office": "U.S. House, Kentucky District 1",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY01169/",
+   "status": "pending"
+  },
+  {
+   "key": "H8KY02031",
+   "name": "S. Brett Guthrie",
+   "party": "Republican",
+   "office": "U.S. House, Kentucky District 2",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8KY02031/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY02068",
+   "name": "Megan Wingfield",
+   "party": "Democratic",
+   "office": "U.S. House, Kentucky District 2",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY02068/",
+   "status": "pending"
+  },
+  {
+   "key": "H2KY03206",
+   "name": "Morgan McGarvey",
+   "party": "Democratic",
+   "office": "U.S. House, Kentucky District 3",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2KY03206/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY03223",
+   "name": "Maria Teresa Rodriguez",
+   "party": "Republican",
+   "office": "U.S. House, Kentucky District 3",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY03223/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY04171",
+   "name": "Ed Gallrein",
+   "party": "Republican",
+   "office": "U.S. House, Kentucky District 4",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY04171/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY04189",
+   "name": "Melissa Claire Strange",
+   "party": "Democratic",
+   "office": "U.S. House, Kentucky District 4",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY04189/",
+   "status": "pending"
+  },
+  {
+   "key": "H0KY05015",
+   "name": "Hal Rogers",
+   "party": "Republican",
+   "office": "U.S. House, Kentucky District 5",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0KY05015/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY05152",
+   "name": "Ned Pillersdorf",
+   "party": "Democratic",
+   "office": "U.S. House, Kentucky District 5",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY05152/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY06192",
+   "name": "Ralph Alvarado",
+   "party": "Republican",
+   "office": "U.S. House, Kentucky District 6",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY06192/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY06184",
+   "name": "Zach Dembo",
+   "party": "Democratic",
+   "office": "U.S. House, Kentucky District 6",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY06184/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OR01133",
+   "name": "Suzanne Bonamici",
+   "party": "Democratic",
+   "office": "U.S. House, Oregon District 1",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OR01133/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OR01308",
+   "name": "Barbara Kahl",
+   "party": "Republican",
+   "office": "U.S. House, Oregon District 1",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OR01308/",
+   "status": "pending"
+  },
+  {
+   "key": "H0OR02127",
+   "name": "Cliff Bentz",
+   "party": "Republican",
+   "office": "U.S. House, Oregon District 2",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0OR02127/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OR02322",
+   "name": "Chris Beck",
+   "party": "Democratic",
+   "office": "U.S. House, Oregon District 2",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OR02322/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OR03192",
+   "name": "Maxine Dexter",
+   "party": "Democratic",
+   "office": "U.S. House, Oregon District 3",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OR03192/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OR03197",
+   "name": "Loran Ayles",
+   "party": "Republican",
+   "office": "U.S. House, Oregon District 3",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OR03197/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OR04095",
+   "name": "Val Hoyle",
+   "party": "Democratic",
+   "office": "U.S. House, Oregon District 4",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OR04095/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OR04260",
+   "name": "Monique DeSpain",
+   "party": "Republican",
+   "office": "U.S. House, Oregon District 4",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OR04260/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OR05304",
+   "name": "Janelle Bynum",
+   "party": "Democratic",
+   "office": "U.S. House, Oregon District 5",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OR05304/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OR05242",
+   "name": "Patti Adair",
+   "party": "Republican",
+   "office": "U.S. House, Oregon District 5",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OR05242/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OR06066",
+   "name": "Andrea Salinas",
+   "party": "Democratic",
+   "office": "U.S. House, Oregon District 6",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OR06066/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OR01240",
+   "name": "David Russ",
+   "party": "Republican",
+   "office": "U.S. House, Oregon District 6",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OR01240/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OK01201",
+   "name": "John Croisant",
+   "party": "Democratic",
+   "office": "U.S. House, Oklahoma District 1",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OK01201/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OK01235",
+   "name": "Mark Tedford",
+   "party": "Republican",
+   "office": "U.S. House, Oklahoma District 1",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OK01235/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OK02315",
+   "name": "Josh Brecheen",
+   "party": "Republican",
+   "office": "U.S. House, Oklahoma District 2",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OK02315/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OK02196",
+   "name": "Brandon Wade",
+   "party": "Democratic",
+   "office": "U.S. House, Oklahoma District 2",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OK02196/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OK06056",
+   "name": "Frank Lucas",
+   "party": "Republican",
+   "office": "U.S. House, Oklahoma District 3",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OK06056/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OK03272",
+   "name": "Suzie Byrd",
+   "party": "Democratic",
+   "office": "U.S. House, Oklahoma District 3",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OK03272/",
+   "status": "pending"
+  }
+ ]
+}

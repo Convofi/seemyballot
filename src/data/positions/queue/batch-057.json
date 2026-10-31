@@ -1,0 +1,307 @@
+{
+ "batch": "057",
+ "createdAt": "2026-10-31T22:53:31.627Z",
+ "output": "src/data/positions/batch-057.json",
+ "candidates": [
+  {
+   "key": "wy-spi-2026-harshman-steve",
+   "name": "Steve Harshman",
+   "party": "Republican",
+   "office": "Superintendent of Public Instruction, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-spi-2026-cordova-ana",
+   "name": "Ana Cordova",
+   "party": "Democratic",
+   "office": "Superintendent of Public Instruction, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-spi-2026-barrera-richard",
+   "name": "Richard Barrera",
+   "party": "Nonpartisan",
+   "office": "Superintendent of Public Instruction (nonpartisan), California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-spi-2026-shaw-sonja",
+   "name": "Sonja Shaw",
+   "party": "Nonpartisan",
+   "office": "Superintendent of Public Instruction (nonpartisan), California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-ag-2026-oxford-tom",
+   "name": "Tom Oxford",
+   "party": "Libertarian",
+   "office": "Attorney General, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-comptroller-2026-echavarria-garza-alonzo",
+   "name": "V. Alonzo Echavarria-Garza",
+   "party": "Libertarian",
+   "office": "Comptroller of Public Accounts, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-comptroller-2026-faizi-shehla",
+   "name": "Shehla Faizi",
+   "party": "Green",
+   "office": "Comptroller of Public Accounts, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-land-2026-snider-neill",
+   "name": "Neill Snider",
+   "party": "Libertarian",
+   "office": "Commissioner of the General Land Office, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-agriculture-2026-kelly-austin",
+   "name": "Austin R. Kelly",
+   "party": "Libertarian",
+   "office": "Commissioner of Agriculture, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-rrc-2026-dibianca-arthur",
+   "name": "Arthur DiBianca",
+   "party": "Libertarian",
+   "office": "Railroad Commissioner, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sos-2026-sloan-christine",
+   "name": "Christine Sloan",
+   "party": "Libertarian",
+   "office": "Secretary of State, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sos-2026-aughney-scott",
+   "name": "Scott E. Aughney",
+   "party": "Other",
+   "office": "Secretary of State, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sos-2026-borregard-eric",
+   "name": "Eric Borregard",
+   "party": "Green",
+   "office": "Secretary of State, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-ag-2026-dye-jason",
+   "name": "Jason Dye",
+   "party": "Libertarian",
+   "office": "Attorney General, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-ag-2026-ludtke-john",
+   "name": "John Perry Ludtke, Jr.",
+   "party": "Other",
+   "office": "Attorney General, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-ag-2026-polonowski-jeff",
+   "name": "Jeff Polonowski",
+   "party": "Green",
+   "office": "Attorney General, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-ag-2026-dern-doug",
+   "name": "Doug Dern",
+   "party": "Other",
+   "office": "Attorney General, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-sos-2026-collier-duwayne",
+   "name": "Duwayne Collier",
+   "party": "Green",
+   "office": "Secretary of State, Arizona",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-corp-comm-2026-cease-mike",
+   "name": "Mike Cease",
+   "party": "Green",
+   "office": "Corporation Commissioner, Arizona",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ma-aud-2026-ozonoff-al",
+   "name": "Al Ozonoff",
+   "party": "Libertarian",
+   "office": "Auditor, Massachusetts",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-sos-2026-shillings-lauri",
+   "name": "Lauri A. Shillings",
+   "party": "Libertarian",
+   "office": "Secretary of State, Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-sos-2026-ballard-greg",
+   "name": "Greg Ballard",
+   "party": "Other",
+   "office": "Secretary of State, Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-comptroller-2026-schick-john",
+   "name": "John Schick",
+   "party": "Libertarian",
+   "office": "State Comptroller (Auditor of State), Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-auditor-2026-coffell-dustin",
+   "name": "Dustin Coffell",
+   "party": "Libertarian",
+   "office": "State Auditor, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-sos-2026-karas-pete",
+   "name": "Pete Karas",
+   "party": "Green",
+   "office": "Secretary of State, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-sos-2026-vadney-sean",
+   "name": "Sean Vadney",
+   "party": "Libertarian",
+   "office": "Secretary of State, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-sos-2026-campbell-amanda",
+   "name": "Amanda Campbell",
+   "party": "Other",
+   "office": "Secretary of State, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-sos-2026-landry-celeste",
+   "name": "Celeste Landry",
+   "party": "Other",
+   "office": "Secretary of State, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-treas-2026-barr-jodie",
+   "name": "Jodie Barr",
+   "party": "Libertarian",
+   "office": "State Treasurer, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-treas-2026-sturgis-marilee",
+   "name": "Marilee Langner Sturgis",
+   "party": "Other",
+   "office": "State Treasurer, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

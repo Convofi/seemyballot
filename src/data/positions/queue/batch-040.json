@@ -1,0 +1,307 @@
+{
+ "batch": "040",
+ "createdAt": "2026-10-31T22:53:31.303Z",
+ "output": "src/data/positions/batch-040.json",
+ "candidates": [
+  {
+   "key": "H6WY01173",
+   "name": "Lisa Kinney",
+   "party": "Democratic",
+   "office": "U.S. House, Wyoming At-Large",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WY01173/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CA03157",
+   "name": "Kevin Kiley",
+   "party": "Independent",
+   "office": "U.S. House, California District 6",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CA03157/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX01345",
+   "name": "Sonia Canciola",
+   "party": "Independent",
+   "office": "U.S. House, Texas District 1",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX01345/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX07177",
+   "name": "Espoir Ngabo",
+   "party": "Green",
+   "office": "U.S. House, Texas District 7",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX07177/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:dan-mcqueen",
+   "name": "Dan McQueen",
+   "party": "Independent",
+   "office": "U.S. House, Texas District 27",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6FL01549",
+   "name": "Tyler Davis",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 1",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL01549/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL03149",
+   "name": "Mike Klein",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 3",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL03149/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL04068",
+   "name": "Todd Schaefer",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 4",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL04068/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL04246",
+   "name": "Mike Sell",
+   "party": "Other",
+   "office": "U.S. House, Florida District 4",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL04246/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL06423",
+   "name": "Michael Gist",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 6",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL06423/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL06316",
+   "name": "Andrew Parrott",
+   "party": "Libertarian",
+   "office": "U.S. House, Florida District 6",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL06316/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL07249",
+   "name": "Christopher Dennison",
+   "party": "Libertarian",
+   "office": "U.S. House, Florida District 7",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL07249/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL11089",
+   "name": "Ralph Groves",
+   "party": "Libertarian",
+   "office": "U.S. House, Florida District 11",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL11089/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL12231",
+   "name": "Branden Scrivener",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 12",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL12231/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL13234",
+   "name": "Tony D'Arrigo",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 13",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL13234/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL14245",
+   "name": "Brian Lambert",
+   "party": "Libertarian",
+   "office": "U.S. House, Florida District 14",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL14245/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL06365",
+   "name": "Mark Davis",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 16",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL06365/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL17081",
+   "name": "Michael Quirk",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 17",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL17081/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL18204",
+   "name": "Deva Simmons",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 18",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL18204/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL19319",
+   "name": "Seth Haskins",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 19",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL19319/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL20119",
+   "name": "Kedner Maxime",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 20",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL20119/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL21109",
+   "name": "Alexander Cooke",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 21",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL21109/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL24061",
+   "name": "Andy Daro",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 24",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL24061/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL25068",
+   "name": "Peter Jassenoff",
+   "party": "Libertarian",
+   "office": "U.S. House, Florida District 25",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL25068/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL26074",
+   "name": "Deborah Ann Meidinger Hosey",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 26",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL26074/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL28021",
+   "name": "Eddy Rojas",
+   "party": "Independent",
+   "office": "U.S. House, Florida District 28",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL28021/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY04237",
+   "name": "Blay Tarnoff",
+   "party": "Libertarian",
+   "office": "U.S. House, New York District 4",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY04237/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY07255",
+   "name": "Priscilla Ghaznavi",
+   "party": "Other",
+   "office": "U.S. House, New York District 7",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY07255/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY12313",
+   "name": "Wilneida Negron",
+   "party": "Other",
+   "office": "U.S. House, New York District 12",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY12313/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY12297",
+   "name": "Karen Ortiz",
+   "party": "Other",
+   "office": "U.S. House, New York District 12",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY12297/",
+   "status": "pending"
+  }
+ ]
+}

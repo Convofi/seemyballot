@@ -1,0 +1,307 @@
+{
+ "batch": "023",
+ "createdAt": "2026-10-31T22:53:30.642Z",
+ "output": "src/data/positions/batch-023.json",
+ "candidates": [
+  {
+   "key": "H6GA01109",
+   "name": "Jim Kingston",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 1",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA01109/",
+   "status": "pending"
+  },
+  {
+   "key": "H2GA02031",
+   "name": "Sanford Bishop",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 2",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2GA02031/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA01182",
+   "name": "Matt Day",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 2",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA01182/",
+   "status": "pending"
+  },
+  {
+   "key": "H4GA03126",
+   "name": "Brian Jack",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 3",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4GA03126/",
+   "status": "pending"
+  },
+  {
+   "key": "H4GA03100",
+   "name": "Maura Keller",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 3",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4GA03100/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA04129",
+   "name": "Hank Johnson",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 4",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA04129/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA04194",
+   "name": "James Duffe",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 4",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA04194/",
+   "status": "pending"
+  },
+  {
+   "key": "H0GA05301",
+   "name": "Nikema Williams",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 5",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0GA05301/",
+   "status": "pending"
+  },
+  {
+   "key": "H4GA05063",
+   "name": "John Salvesen",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 5",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4GA05063/",
+   "status": "pending"
+  },
+  {
+   "key": "H8GA06393",
+   "name": "Lucy McBath",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 6",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8GA06393/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA06181",
+   "name": "Kevin Martin",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 6",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA06181/",
+   "status": "pending"
+  },
+  {
+   "key": "H0GA07273",
+   "name": "Rich McCormick",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 7",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0GA07273/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA07221",
+   "name": "Anthony Kozycki",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 7",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA07221/",
+   "status": "pending"
+  },
+  {
+   "key": "H0GA08099",
+   "name": "Austin Scott",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 8",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0GA08099/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA08138",
+   "name": "Kelly Esti",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 8",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA08138/",
+   "status": "pending"
+  },
+  {
+   "key": "H0GA09246",
+   "name": "Andrew Clyde",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 9",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0GA09246/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA09284",
+   "name": "Caitlyn Gegan",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 9",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA09284/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA10183",
+   "name": "Pamela DeLancy",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 10",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA10183/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA10175",
+   "name": "Houston Gaines",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 10",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA10175/",
+   "status": "pending"
+  },
+  {
+   "key": "H0GA14048",
+   "name": "John Cowan",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 11",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0GA14048/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA11116",
+   "name": "Chris Harden",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 11",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA11116/",
+   "status": "pending"
+  },
+  {
+   "key": "H2GA12121",
+   "name": "Rick Allen",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 12",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2GA12121/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA12080",
+   "name": "Ceretta Smith",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 12",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA12080/",
+   "status": "pending"
+  },
+  {
+   "key": "H2GA04201",
+   "name": "Jonathan Chavez",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 13",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2GA04201/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA13070",
+   "name": "Jasmine Clark",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 13",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA13070/",
+   "status": "pending"
+  },
+  {
+   "key": "H0GA14030",
+   "name": "Clay Fuller",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 14",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0GA14030/",
+   "status": "pending"
+  },
+  {
+   "key": "H4GA14057",
+   "name": "Shawn Harris",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 14",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4GA14057/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA23012",
+   "name": "Raven Harrison",
+   "party": "Republican",
+   "office": "U.S. House, Georgia District 23",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA23012/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NC02287",
+   "name": "Don Davis",
+   "party": "Democratic",
+   "office": "U.S. House, North Carolina District 1",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NC02287/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC01137",
+   "name": "Laurie Buckhout",
+   "party": "Republican",
+   "office": "U.S. House, North Carolina District 1",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC01137/",
+   "status": "pending"
+  }
+ ]
+}

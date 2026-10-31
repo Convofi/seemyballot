@@ -1,0 +1,307 @@
+{
+ "batch": "041",
+ "createdAt": "2026-10-31T22:53:31.304Z",
+ "output": "src/data/positions/batch-041.json",
+ "candidates": [
+  {
+   "key": "H4NY15154",
+   "name": "Gonzalo Duran",
+   "party": "Other",
+   "office": "U.S. House, New York District 15",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY15154/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY15167",
+   "name": "Andre Easton",
+   "party": "Other",
+   "office": "U.S. House, New York District 15",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY15167/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NY15147",
+   "name": "Jose Vega",
+   "party": "Other",
+   "office": "U.S. House, New York District 15",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY15147/",
+   "status": "pending"
+  },
+  {
+   "key": "H6PA03369",
+   "name": "Dennis Mahoney",
+   "party": "Independent",
+   "office": "U.S. House, Pennsylvania District 3",
+   "state": "PA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6PA03369/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL02371",
+   "name": "Ashley Banks",
+   "party": "Independent",
+   "office": "U.S. House, Illinois District 2",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL02371/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL04187",
+   "name": "Lindsay Church",
+   "party": "Independent",
+   "office": "U.S. House, Illinois District 4",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL04187/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IL04195",
+   "name": "Chris Getty",
+   "party": "Independent",
+   "office": "U.S. House, Illinois District 4",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IL04195/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IL04178",
+   "name": "Ed Hershey",
+   "party": "Other",
+   "office": "U.S. House, Illinois District 4",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IL04178/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH01229",
+   "name": "Nathan Weise",
+   "party": "Libertarian",
+   "office": "U.S. House, Ohio District 1",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH01229/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:tracey-tackett",
+   "name": "Tracey Tackett",
+   "party": "Independent",
+   "office": "U.S. House, Ohio District 4",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wiki:michael-veloff",
+   "name": "Michael Veloff",
+   "party": "Libertarian",
+   "office": "U.S. House, Ohio District 5",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wiki:matthew-althaus",
+   "name": "Matthew Althaus",
+   "party": "Libertarian",
+   "office": "U.S. House, Ohio District 9",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6OH10113",
+   "name": "Thomas McMasters",
+   "party": "Libertarian",
+   "office": "U.S. House, Ohio District 10",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH10113/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH13273",
+   "name": "Sandeep Dixit",
+   "party": "Independent",
+   "office": "U.S. House, Ohio District 13",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH13273/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH15138",
+   "name": "Brennan Barrington",
+   "party": "Libertarian",
+   "office": "U.S. House, Ohio District 15",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH15138/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NC13075",
+   "name": "Tom Bailey",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 1",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NC13075/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC02205",
+   "name": "Matthew Laszacs",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 2",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC02205/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC03237",
+   "name": "Daniel Cavender",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 3",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC03237/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC04149",
+   "name": "Guy Meilleur",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 4",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC04149/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC05174",
+   "name": "Robert Luffman",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 5",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC05174/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC07204",
+   "name": "Maad Abu-Ghazalah",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 7",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC07204/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC08210",
+   "name": "Bo Whitehead",
+   "party": "Green",
+   "office": "U.S. House, North Carolina District 8",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC08210/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NC10146",
+   "name": "Steve Feldman",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 10",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NC10146/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC11313",
+   "name": "Travis Groo",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 11",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC11313/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NC13251",
+   "name": "Steven Swinton",
+   "party": "Libertarian",
+   "office": "U.S. House, North Carolina District 13",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NC13251/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI01309",
+   "name": "LaVeta Davenport",
+   "party": "Green",
+   "office": "U.S. House, Michigan District 1",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI01309/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI01275",
+   "name": "Zebulon Featherly",
+   "party": "Independent",
+   "office": "U.S. House, Michigan District 1",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI01275/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MI01167",
+   "name": "Liz Hakola",
+   "party": "Other",
+   "office": "U.S. House, Michigan District 1",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MI01167/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI02257",
+   "name": "Doc Kovaly",
+   "party": "Other",
+   "office": "U.S. House, Michigan District 1",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI02257/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MI01283",
+   "name": "Arnett Satterla",
+   "party": "Libertarian",
+   "office": "U.S. House, Michigan District 1",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MI01283/",
+   "status": "pending"
+  }
+ ]
+}

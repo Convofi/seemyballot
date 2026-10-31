@@ -1,0 +1,307 @@
+{
+ "batch": "044",
+ "createdAt": "2026-10-31T22:53:31.305Z",
+ "output": "src/data/positions/batch-044.json",
+ "candidates": [
+  {
+   "key": "H6AZ01322",
+   "name": "David Redkey",
+   "party": "Green",
+   "office": "U.S. House, Arizona District 3",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ01322/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:tisha-benoit",
+   "name": "Tisha Benoit",
+   "party": "Other",
+   "office": "U.S. House, Arizona District 4",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ06214",
+   "name": "Jereme Peters",
+   "party": "Libertarian",
+   "office": "U.S. House, Arizona District 6",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ06214/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ06164",
+   "name": "Gary Swing",
+   "party": "Green",
+   "office": "U.S. House, Arizona District 6",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ06164/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MA01091",
+   "name": "Nadia Milleron",
+   "party": "Independent",
+   "office": "U.S. House, Massachusetts District 1",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MA01091/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:dennis-r-conlon",
+   "name": "Dennis R. Conlon",
+   "party": "Independent",
+   "office": "U.S. House, Massachusetts District 3",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6MA08372",
+   "name": "Rasheed Nicholas Walters",
+   "party": "Independent",
+   "office": "U.S. House, Massachusetts District 8",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MA08372/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:joshua-ray-ashburn",
+   "name": "Joshua Ray Ashburn",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 1",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H0TN01191",
+   "name": "Richard G. Baker",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 1",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TN01191/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:chris-campbell",
+   "name": "Chris Campbell",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 1",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wiki:billy-cody",
+   "name": "Billy Cody",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 1",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wiki:tyler-brice-mitchell-mcclain",
+   "name": "Tyler Brice Mitchell McClain",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 1",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wiki:bruce-fine",
+   "name": "Bruce Fine",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 2",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6TN02188",
+   "name": "Adam Heimerman",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 2",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN02188/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:dean-arnold",
+   "name": "Dean Arnold",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 3",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H4TN03165",
+   "name": "Jean Howard-Hill",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 3",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TN03165/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN03251",
+   "name": "Rodney Joe King",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 3",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN03251/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN03210",
+   "name": "Donnie Lynn Ownby",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 3",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN03210/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN03244",
+   "name": "Edward John Roland",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 3",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN03244/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN04242",
+   "name": "Jacob Anders",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 4",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN04242/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TN06188",
+   "name": "Clay Faircloth",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 4",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TN06188/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN05447",
+   "name": "James A. Johnson",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 5",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN05447/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN05462",
+   "name": "Micheál O'Leary",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 5",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN05462/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN06189",
+   "name": "Chris Monday",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 6",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN06189/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:angus-purdy",
+   "name": "Angus Purdy",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 6",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6TN06288",
+   "name": "Andrew J. Koontz",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 7",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN06288/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN05330",
+   "name": "Lowell Reynolds",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 7",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN05330/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN08383",
+   "name": "Adam D. Austill",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN08383/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:wendell-wells-blankenship",
+   "name": "Wendell \"Wells\" Blankenship",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6TN08391",
+   "name": "Antonio Futch",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN08391/",
+   "status": "pending"
+  }
+ ]
+}

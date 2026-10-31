@@ -1,0 +1,307 @@
+{
+ "batch": "051",
+ "createdAt": "2026-10-31T22:53:31.306Z",
+ "output": "src/data/positions/batch-051.json",
+ "candidates": [
+  {
+   "key": "mo-auditor-2026-wilson-quentin",
+   "name": "Quentin Wilson",
+   "party": "Democratic",
+   "office": "State Auditor, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-ag-2026-toney-eric",
+   "name": "Eric Toney",
+   "party": "Republican",
+   "office": "Attorney General, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-ag-2026-kaul-josh",
+   "name": "Josh Kaul",
+   "party": "Democratic",
+   "office": "Attorney General, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-sos-2026-schroeder-jay",
+   "name": "Jay Schroeder",
+   "party": "Republican",
+   "office": "Secretary of State, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-sos-2026-zamarripa-jocasta",
+   "name": "JoCasta Zamarripa",
+   "party": "Democratic",
+   "office": "Secretary of State, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-treas-2026-leiber-john",
+   "name": "John S. Leiber",
+   "party": "Republican",
+   "office": "State Treasurer, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-treas-2026-xiong-yee",
+   "name": "Yee Leng Xiong",
+   "party": "Democratic",
+   "office": "State Treasurer, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-sos-2026-gonzalez-amanda",
+   "name": "Amanda Gonzalez",
+   "party": "Democratic",
+   "office": "Secretary of State, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-sos-2026-wiley-james",
+   "name": "James Wiley",
+   "party": "Republican",
+   "office": "Secretary of State, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-treas-2026-bridges-jeff",
+   "name": "Jeff Bridges",
+   "party": "Democratic",
+   "office": "State Treasurer, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-treas-2026-grantham-kevin",
+   "name": "Kevin Grantham",
+   "party": "Republican",
+   "office": "State Treasurer, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-ag-2026-allen-michael",
+   "name": "Michael J. Allen",
+   "party": "Republican",
+   "office": "Attorney General, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-ag-2026-griswold-jena",
+   "name": "Jena Griswold",
+   "party": "Democratic",
+   "office": "Attorney General, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-sos-2026-simon-steve",
+   "name": "Steve Simon",
+   "party": "Democratic",
+   "office": "Secretary of State, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-sos-2026-jude-tad",
+   "name": "Tad Jude",
+   "party": "Republican",
+   "office": "Secretary of State, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-aud-2026-jensen-scott",
+   "name": "Scott Jensen",
+   "party": "Republican",
+   "office": "State Auditor, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-aud-2026-filipovich-zack",
+   "name": "Zack Filipovich",
+   "party": "Democratic",
+   "office": "State Auditor, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-ag-2026-ellison-keith",
+   "name": "Keith Ellison",
+   "party": "Democratic",
+   "office": "Attorney General, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-ag-2026-schutz-ronald",
+   "name": "Ronald J. Schutz",
+   "party": "Republican",
+   "office": "Attorney General, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-sos-2026-hammond-mark",
+   "name": "Mark Hammond",
+   "party": "Republican",
+   "office": "Secretary of State, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-sos-2026-belton-jason",
+   "name": "Jason Belton",
+   "party": "Democratic",
+   "office": "Secretary of State, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-treas-2026-loftis-curtis",
+   "name": "Curtis Loftis",
+   "party": "Republican",
+   "office": "State Treasurer, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-treas-2026-coe-vincent",
+   "name": "Vincent Coe",
+   "party": "Democratic",
+   "office": "State Treasurer, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-ag-2026-stumbo-david",
+   "name": "David Stumbo",
+   "party": "Republican",
+   "office": "Attorney General, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-ag-2026-hricik-richard",
+   "name": "Richard Hricik",
+   "party": "Democratic",
+   "office": "Attorney General, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-comp-2026-burkhold-mike",
+   "name": "Mike Burkhold",
+   "party": "Republican",
+   "office": "Comptroller General, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-comp-2026-boozer-tiffany",
+   "name": "Tiffany Boozer",
+   "party": "Democratic",
+   "office": "Comptroller General, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-supt-2026-weaver-ellen",
+   "name": "Ellen Weaver",
+   "party": "Republican",
+   "office": "State Superintendent of Education, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-supt-2026-wright-sylvia",
+   "name": "Sylvia Wright",
+   "party": "Democratic",
+   "office": "State Superintendent of Education, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-ag-comm-2026-simpson-cody",
+   "name": "Cody Simpson",
+   "party": "Republican",
+   "office": "Commissioner of Agriculture, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

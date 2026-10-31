@@ -1,0 +1,307 @@
+{
+ "batch": "046",
+ "createdAt": "2026-10-31T22:53:31.305Z",
+ "output": "src/data/positions/batch-046.json",
+ "candidates": [
+  {
+   "key": "H6SC01342",
+   "name": "Bill Reeside Jr.",
+   "party": "Libertarian",
+   "office": "U.S. House, South Carolina District 1",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC01342/",
+   "status": "pending"
+  },
+  {
+   "key": "H6SC04197",
+   "name": "Jessica Ethridge",
+   "party": "Libertarian",
+   "office": "U.S. House, South Carolina District 4",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6SC04197/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:e-glass",
+   "name": "E. Glass",
+   "party": "Independent",
+   "office": "U.S. House, Louisiana District 1",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H2LA02305",
+   "name": "Lisa Ballay",
+   "party": "Libertarian",
+   "office": "U.S. House, Louisiana District 2",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2LA02305/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:walker-beach",
+   "name": "Walker Beach",
+   "party": "Independent",
+   "office": "U.S. House, Louisiana District 2",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H2LA03105",
+   "name": "Tia LeBrun",
+   "party": "Independent",
+   "office": "U.S. House, Louisiana District 3",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2LA03105/",
+   "status": "pending"
+  },
+  {
+   "key": "H4LA06047",
+   "name": "Rufus Craig",
+   "party": "Libertarian",
+   "office": "U.S. House, Louisiana District 6",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4LA06047/",
+   "status": "pending"
+  },
+  {
+   "key": "H8KY02106",
+   "name": "Thomas A. Loecken",
+   "party": "Independent",
+   "office": "U.S. House, Kentucky District 2",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8KY02106/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY04205",
+   "name": "Jeremy Todd",
+   "party": "Libertarian",
+   "office": "U.S. House, Kentucky District 4",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY04205/",
+   "status": "pending"
+  },
+  {
+   "key": "H2KY05185",
+   "name": "Gerardo Serrano",
+   "party": "Independent",
+   "office": "U.S. House, Kentucky District 5",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2KY05185/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY05202",
+   "name": "Mikel Wein",
+   "party": "Independent",
+   "office": "U.S. House, Kentucky District 5",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY05202/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY06234",
+   "name": "Jay J. Bowman",
+   "party": "Independent",
+   "office": "U.S. House, Kentucky District 6",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY06234/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KY06242",
+   "name": "Pete Lynch",
+   "party": "Other",
+   "office": "U.S. House, Kentucky District 6",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KY06242/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OR04141",
+   "name": "Justin Filip",
+   "party": "Green",
+   "office": "U.S. House, Oregon District 4",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OR04141/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OR05379",
+   "name": "Andrea Townsend",
+   "party": "Green",
+   "office": "U.S. House, Oregon District 5",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OR05379/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OK02204",
+   "name": "Ronnie Hopkins",
+   "party": "Independent",
+   "office": "U.S. House, Oklahoma District 2",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OK02204/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:rocco-bonacci",
+   "name": "Rocco Bonacci",
+   "party": "Independent",
+   "office": "U.S. House, Oklahoma District 4",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6OK05301",
+   "name": "Robert Henri",
+   "party": "Independent",
+   "office": "U.S. House, Oklahoma District 5",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OK05301/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OK04176",
+   "name": "Austin Nieves",
+   "party": "Independent",
+   "office": "U.S. House, Oklahoma District 5",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OK04176/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:thomas-egan",
+   "name": "Thomas Egan",
+   "party": "Independent",
+   "office": "U.S. House, Connecticut District 3",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6IA01213",
+   "name": "Michael Bridgford",
+   "party": "Independent",
+   "office": "U.S. House, Iowa District 1",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA01213/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IA02260",
+   "name": "Dave Bushaw",
+   "party": "Independent",
+   "office": "U.S. House, Iowa District 2",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA02260/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NV02219",
+   "name": "Lynn Chapman",
+   "party": "Independent",
+   "office": "U.S. House, Nevada District 2",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NV02219/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AR01085",
+   "name": "Steve Parsons",
+   "party": "Libertarian",
+   "office": "U.S. House, Arkansas District 1",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AR01085/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AR03081",
+   "name": "Bobby Wilson",
+   "party": "Libertarian",
+   "office": "U.S. House, Arkansas District 3",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AR03081/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:johnny-baucom",
+   "name": "Johnny Baucom",
+   "party": "Libertarian",
+   "office": "U.S. House, Mississippi District 1",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6MS02188",
+   "name": "Bennie Foster",
+   "party": "Independent",
+   "office": "U.S. House, Mississippi District 2",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MS02188/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MS03236",
+   "name": "Erik Kiehle",
+   "party": "Libertarian",
+   "office": "U.S. House, Mississippi District 3",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MS03236/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MS04259",
+   "name": "Carl Boyanton",
+   "party": "Independent",
+   "office": "U.S. House, Mississippi District 4",
+   "state": "MS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MS04259/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KS01229",
+   "name": "Steven Jacob",
+   "party": "Libertarian",
+   "office": "U.S. House, Kansas District 1",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KS01229/",
+   "status": "pending"
+  }
+ ]
+}

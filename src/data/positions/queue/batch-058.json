@@ -1,0 +1,307 @@
+{
+ "batch": "058",
+ "createdAt": "2026-10-31T22:53:31.627Z",
+ "output": "src/data/positions/batch-058.json",
+ "candidates": [
+  {
+   "key": "mn-sos-2026-kuhl-stennes-seth",
+   "name": "Seth Kuhl-Stennes",
+   "party": "Green",
+   "office": "Secretary of State, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-sos-2026-tangen-george",
+   "name": "George \"Chip\" Tangen",
+   "party": "Libertarian",
+   "office": "Secretary of State, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-aud-2026-reeves-jay",
+   "name": "Jay Reeves",
+   "party": "Other",
+   "office": "State Auditor, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-supt-2026-ojuok-baba",
+   "name": "Baba Amin Ojuok",
+   "party": "Other",
+   "office": "State Superintendent of Education, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-ag-comm-2026-sullens-michael",
+   "name": "Michael Sullens",
+   "party": "Libertarian",
+   "office": "Commissioner of Agriculture, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sc-ag-comm-2026-nelums-chris",
+   "name": "Chris Nelums",
+   "party": "Other",
+   "office": "Commissioner of Agriculture, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-treas-2026-perry-kiefer",
+   "name": "Kiefer Perry",
+   "party": "Libertarian",
+   "office": "State Treasurer, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-labor-2026-hall-mike",
+   "name": "Mike Hall",
+   "party": "Libertarian",
+   "office": "Commissioner of Labor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-sos-2026-barnhill-brad",
+   "name": "Brad Lee Barnhill",
+   "party": "Other",
+   "office": "Secretary of State, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-sos-2026-kennedy-john",
+   "name": "John T. Kennedy",
+   "party": "Libertarian",
+   "office": "Secretary of State, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-sos-2026-pakko-michael",
+   "name": "Michael Pakko",
+   "party": "Libertarian",
+   "office": "Secretary of State, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ar-lands-2026-olson-christopher",
+   "name": "Christopher Olson",
+   "party": "Libertarian",
+   "office": "Commissioner of State Lands, Arkansas",
+   "state": "AR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-sos-2026-morgan-scott",
+   "name": "Scott E. Morgan",
+   "party": "Other",
+   "office": "Secretary of State, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-treas-2026-lund-eric",
+   "name": "Eric Lund",
+   "party": "Libertarian",
+   "office": "State Treasurer, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-ins-2026-koehn-ric",
+   "name": "Ric Koehn",
+   "party": "Libertarian",
+   "office": "Commissioner of Insurance, Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-sos-2026-rumbaugh-paul",
+   "name": "Paul Rumbaugh",
+   "party": "Other",
+   "office": "Secretary of State, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-sos-2026-krist-bob",
+   "name": "Bob Krist",
+   "party": "Other",
+   "office": "Secretary of State, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-aud-2026-knight-john",
+   "name": "John Knight",
+   "party": "Other",
+   "office": "Auditor of Public Accounts, Nebraska",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "id-spi-2026-roundy-teresa",
+   "name": "Teresa Roundy",
+   "party": "Other",
+   "office": "Superintendent of Public Instruction, Idaho",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "de-aud-2026-cassidy-austin",
+   "name": "Austin Cassidy",
+   "party": "Other",
+   "office": "Auditor of Accounts, Delaware",
+   "state": "DE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "sd-sos-2026-lesnar-tamara",
+   "name": "Tamara J. Lesnar",
+   "party": "Libertarian",
+   "office": "Secretary of State, South Dakota",
+   "state": "SD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-spi-2026-bachmeier-levi",
+   "name": "Levi Bachmeier",
+   "party": "Nonpartisan",
+   "office": "Superintendent of Public Instruction (unexpired 2-year term, nonpartisan), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-spi-2026-foss-tracy",
+   "name": "Tracy Layne Foss",
+   "party": "Nonpartisan",
+   "office": "Superintendent of Public Instruction (unexpired 2-year term, nonpartisan), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-mayor-2026-hamilton-rhonda",
+   "name": "Rhonda Hamilton",
+   "party": "Independent",
+   "office": "Mayor of the District of Columbia (ranked-choice)",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-mayor-2026-gross-robert",
+   "name": "Robert L. Gross",
+   "party": "Green",
+   "office": "Mayor of the District of Columbia (ranked-choice)",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-atlarge-2026-moch-darryl",
+   "name": "Darryl Moch",
+   "party": "Green",
+   "office": "At-Large Member of the Council (two winners; ranked-choice, rank candidates rather than voting for two), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-atlarge-2026-silverman-elissa",
+   "name": "Elissa Silverman",
+   "party": "Independent",
+   "office": "At-Large Member of the Council (two winners; ranked-choice, rank candidates rather than voting for two), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-treas-2026-hampl-zachary",
+   "name": "Zachary Hampl",
+   "party": "Other",
+   "office": "State Treasurer, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-sos-2026-shaw-rachel",
+   "name": "Rachel Shaw",
+   "party": "Other",
+   "office": "Secretary of State, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-sos-2026-trujillo-tamara",
+   "name": "Tamara Trujillo",
+   "party": "Other",
+   "office": "Secretary of State, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

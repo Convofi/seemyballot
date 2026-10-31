@@ -1,0 +1,307 @@
+{
+ "batch": "062",
+ "createdAt": "2026-10-31T22:53:31.628Z",
+ "output": "src/data/positions/batch-062.json",
+ "candidates": [
+  {
+   "key": "wa-supreme-court-pos7-2026-stephens-debra",
+   "name": "Debra L. Stephens",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 7 (6-year term), Washington",
+   "state": "WA",
+   "knownWebsite": "https://justicestephens.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-supreme-court-pos7-2026-bloom-todd",
+   "name": "Todd A. Bloom",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 7 (6-year term), Washington",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-supreme-court-2026-lopez-john",
+   "name": "John R. Lopez, IV",
+   "party": "Nonpartisan",
+   "office": "Arizona Supreme Court: retain Justice John R. Lopez, IV? (Yes/No retention vote)",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-coa4-2026-deboer-mary",
+   "name": "Mary A. DeBoer",
+   "party": "Nonpartisan",
+   "office": "Court of Appeals Judicial Retention - Fourth District (yes/no retention vote), Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-coa5-2026-felix-paul",
+   "name": "Paul A. Felix",
+   "party": "Nonpartisan",
+   "office": "Court of Appeals Judicial Retention - Fifth District (yes/no retention vote), Indiana",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "in-taxcourt-2026-mcadam-justin",
+   "name": "Justin L. McAdam",
+   "party": "Nonpartisan",
+   "office": "Retention of Judge of the Indiana Tax Court (yes/no retention vote)",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-app-at-large-2026-friedman-dan",
+   "name": "Dan Friedman",
+   "party": "Nonpartisan",
+   "office": "Judge, Appellate Court of Maryland At Large (retention: vote Yes or No on continuance in office)",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-supreme-court-2026-wilson-paul",
+   "name": "Paul C. Wilson",
+   "party": "Nonpartisan",
+   "office": "Judge of the Missouri Supreme Court (retention: vote yes or no on whether to retain)",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-supreme-court-2026-hood-william",
+   "name": "William W. Hood, III",
+   "party": "Nonpartisan",
+   "office": "Colorado Supreme Court: retain Justice William W. Hood, III? (yes/no retention vote)",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-court-of-appeals-2026-freyre-rebecca",
+   "name": "Rebecca Rankin Freyre",
+   "party": "Nonpartisan",
+   "office": "Colorado Court of Appeals: retain Judge Rebecca Rankin Freyre? (yes/no retention vote)",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-court-of-appeals-2026-harris-elizabeth",
+   "name": "Elizabeth L. Harris",
+   "party": "Nonpartisan",
+   "office": "Colorado Court of Appeals: retain Judge Elizabeth L. Harris? (yes/no retention vote)",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-court-of-appeals-2026-lum-katharine",
+   "name": "Katharine E. Lum",
+   "party": "Nonpartisan",
+   "office": "Colorado Court of Appeals: retain Judge Katharine E. Lum? (yes/no retention vote)",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-court-of-appeals-2026-moultrie-pax",
+   "name": "Pax Moultrie",
+   "party": "Nonpartisan",
+   "office": "Colorado Court of Appeals: retain Judge Pax Moultrie? (yes/no retention vote)",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-court-of-appeals-2026-schock-karl",
+   "name": "Karl L. Schock",
+   "party": "Nonpartisan",
+   "office": "Colorado Court of Appeals: retain Judge Karl L. Schock? (yes/no retention vote)",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-court-of-appeals-2026-sullivan-grant",
+   "name": "Grant Sullivan",
+   "party": "Nonpartisan",
+   "office": "Colorado Court of Appeals: retain Judge Grant Sullivan? (yes/no retention vote)",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-sc1-2026-hennesy-sarah",
+   "name": "Sarah Hennesy",
+   "party": "Nonpartisan",
+   "office": "Associate Justice 1 - Supreme Court, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-sc4-2026-thissen-paul",
+   "name": "Paul Thissen",
+   "party": "Nonpartisan",
+   "office": "Associate Justice 4 - Supreme Court, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-coa1-2026-bentley-elizabeth",
+   "name": "Elizabeth Bentley",
+   "party": "Nonpartisan",
+   "office": "Judge 1 - Court of Appeals, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-coa7-2026-bond-rachel",
+   "name": "Rachel Bond",
+   "party": "Nonpartisan",
+   "office": "Judge 7 - Court of Appeals, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-coa13-2026-cochran-jeanne",
+   "name": "Jeanne Cochran",
+   "party": "Nonpartisan",
+   "office": "Judge 13 - Court of Appeals, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-coa15-2026-ross-kevin",
+   "name": "Kevin G. Ross",
+   "party": "Nonpartisan",
+   "office": "Judge 15 - Court of Appeals, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-coa18-2026-harris-japaul",
+   "name": "JaPaul J. Harris",
+   "party": "Nonpartisan",
+   "office": "Judge 18 - Court of Appeals, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-sc1-2026-kane-john",
+   "name": "M. John Kane IV",
+   "party": "Nonpartisan",
+   "office": "Supreme Court District 1 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-sc4-2026-jett-travis",
+   "name": "Travis Jett",
+   "party": "Nonpartisan",
+   "office": "Supreme Court District 4 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-sc6-2026-kuehn-dana",
+   "name": "Dana Kuehn",
+   "party": "Nonpartisan",
+   "office": "Supreme Court District 6 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-sc9-2026-darby-richard",
+   "name": "Richard Darby",
+   "party": "Nonpartisan",
+   "office": "Supreme Court District 9 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-cca2-2026-hudson-robert",
+   "name": "Robert Hudson",
+   "party": "Nonpartisan",
+   "office": "Court of Criminal Appeals District 2 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-coca1-1-2026-hixon-stacie",
+   "name": "Stacie Hixon",
+   "party": "Nonpartisan",
+   "office": "Court of Civil Appeals District 1, Office 1 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-coca1-2-2026-wiseman-jane",
+   "name": "Jane Wiseman",
+   "party": "Nonpartisan",
+   "office": "Court of Civil Appeals District 1, Office 2 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-coca2-1-2026-barnes-deborah",
+   "name": "Deborah Barnes",
+   "party": "Nonpartisan",
+   "office": "Court of Civil Appeals District 2, Office 1 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

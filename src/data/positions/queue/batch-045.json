@@ -1,0 +1,307 @@
+{
+ "batch": "045",
+ "createdAt": "2026-10-31T22:53:31.305Z",
+ "output": "src/data/positions/batch-045.json",
+ "candidates": [
+  {
+   "key": "wiki:pamela-jeanine-p-moses",
+   "name": "Pamela Jeanine \"P.\" Moses",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6TN08342",
+   "name": "Horace Taylor",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN08342/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:henry-j-ward-ii",
+   "name": "Henry J. Ward II",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H0TN09111",
+   "name": "Dennis Clark",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 9",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TN09111/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:michelle-davis-head",
+   "name": "Michelle Davis Head",
+   "party": "Independent",
+   "office": "U.S. House, Tennessee District 9",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6IN02205",
+   "name": "William Henry",
+   "party": "Libertarian",
+   "office": "U.S. House, Indiana District 2",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN02205/",
+   "status": "pending"
+  },
+  {
+   "key": "H4IN06219",
+   "name": "James Sceniak",
+   "party": "Libertarian",
+   "office": "U.S. House, Indiana District 7",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4IN06219/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN09317",
+   "name": "Tonya Hudson",
+   "party": "Libertarian",
+   "office": "U.S. House, Indiana District 9",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN09317/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN09283",
+   "name": "Floyd Taylor",
+   "party": "Independent",
+   "office": "U.S. House, Indiana District 9",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN09283/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:sam-husseini",
+   "name": "Sam Husseini",
+   "party": "Green",
+   "office": "U.S. House, Maryland District 4",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H0MO08285",
+   "name": "Tom Schmitz",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 1",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MO08285/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MO02116",
+   "name": "Brandon Coulter Daugherty",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 2",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MO02116/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO02078",
+   "name": "Jim Higgins",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 3",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO02078/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO04108",
+   "name": "Thomas Holbrook",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 4",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO04108/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MO05197",
+   "name": "Randall \"Randy\" Langkraehr",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 5",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MO05197/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO06269",
+   "name": "Andy Maidment",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 6",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO06269/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MO07107",
+   "name": "Kevin Craig",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 7",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MO07107/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:rebecca-sharpe-lombard",
+   "name": "Rebecca Sharpe Lombard",
+   "party": "Libertarian",
+   "office": "U.S. House, Missouri District 8",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6WI03230",
+   "name": "Alexander Kent",
+   "party": "Independent",
+   "office": "U.S. House, Wisconsin District 3",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI03230/",
+   "status": "pending"
+  },
+  {
+   "key": "H2WI03163",
+   "name": "Rustin Provance",
+   "party": "Independent",
+   "office": "U.S. House, Wisconsin District 3",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2WI03163/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:arthur-burks",
+   "name": "Arthur Burks",
+   "party": "Independent",
+   "office": "U.S. House, Wisconsin District 4",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H6WI06274",
+   "name": "Matthew Arndt",
+   "party": "Green",
+   "office": "U.S. House, Wisconsin District 6",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI06274/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI06241",
+   "name": "Elizabeth Fitzgibbon",
+   "party": "Independent",
+   "office": "U.S. House, Wisconsin District 6",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI06241/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI06233",
+   "name": "Michael Thurow",
+   "party": "Independent",
+   "office": "U.S. House, Wisconsin District 6",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI06233/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO01356",
+   "name": "Shimon Blau",
+   "party": "Independent",
+   "office": "U.S. House, Colorado District 1",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO01356/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:chad-humphrey",
+   "name": "Chad Humphrey",
+   "party": "Libertarian",
+   "office": "U.S. House, Colorado District 1",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H0CO03173",
+   "name": "Critter Milton",
+   "party": "Other",
+   "office": "U.S. House, Colorado District 1",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CO03173/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CO03153",
+   "name": "Gaylon Kent",
+   "party": "Libertarian",
+   "office": "U.S. House, Colorado District 2",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CO03153/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MN05373",
+   "name": "DeVelle Jackson",
+   "party": "Independent",
+   "office": "U.S. House, Minnesota District 5",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MN05373/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:margo-ellis",
+   "name": "Margo Ellis",
+   "party": "Other",
+   "office": "U.S. House, South Carolina District 1",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

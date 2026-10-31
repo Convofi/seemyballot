@@ -1,0 +1,307 @@
+{
+ "batch": "022",
+ "createdAt": "2026-10-31T22:53:30.642Z",
+ "output": "src/data/positions/batch-022.json",
+ "candidates": [
+  {
+   "key": "H2OH01194",
+   "name": "Greg Landsman",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 1",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OH01194/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH01138",
+   "name": "Eric Conroy",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 1",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH01138/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OH02248",
+   "name": "David Taylor",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 2",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OH02248/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH02326",
+   "name": "Jennifer Mazzuckelli",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 2",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH02326/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH04082",
+   "name": "Jim Jordan",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 4",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH04082/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH04181",
+   "name": "Joshua Kolasinski",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 4",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH04181/",
+   "status": "pending"
+  },
+  {
+   "key": "H8OH05036",
+   "name": "Bob Latta",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 5",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8OH05036/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH05154",
+   "name": "Brian Shaver",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 5",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH05154/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OH06165",
+   "name": "Michael Rulli",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 6",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OH06165/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH06244",
+   "name": "Elizabeth Kirtley",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 6",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH06244/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OH16051",
+   "name": "Max Miller",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 7",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OH16051/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH07168",
+   "name": "Brian Poindexter",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 7",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH07168/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH08315",
+   "name": "Warren Davidson",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 8",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH08315/",
+   "status": "pending"
+  },
+  {
+   "key": "H8OH08097",
+   "name": "Vanessa Enoch",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 8",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8OH08097/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OH09031",
+   "name": "Marcy Kaptur",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 9",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OH09031/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OH09169",
+   "name": "Derek Merrin",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 9",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OH09169/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OH03067",
+   "name": "Mike Turner",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 10",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OH03067/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH10121",
+   "name": "Kristina Knickerbocker",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 10",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH10121/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OH11169",
+   "name": "Shontel Brown",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 11",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OH11169/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH11210",
+   "name": "Mike Krichner",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 11",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH11210/",
+   "status": "pending"
+  },
+  {
+   "key": "H8OH12180",
+   "name": "Troy Balderson",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 12",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8OH12180/",
+   "status": "pending"
+  },
+  {
+   "key": "H4OH12080",
+   "name": "Jerrad Christian",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 12",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4OH12080/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OH13264",
+   "name": "Emilia Sykes",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 13",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OH13264/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH13307",
+   "name": "Carey Coleman",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 13",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH13307/",
+   "status": "pending"
+  },
+  {
+   "key": "H2OH14064",
+   "name": "David Joyce",
+   "party": "Republican",
+   "office": "U.S. House, Ohio District 14",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OH14064/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH14248",
+   "name": "Maria Jukic",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 14",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH14248/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH15112",
+   "name": "Don Leonard",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 15",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH15112/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OH65018",
+   "name": "John Hill",
+   "party": "Democratic",
+   "office": "U.S. House, Ohio District 65",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OH65018/",
+   "status": "pending"
+  },
+  {
+   "key": "H2GA07121",
+   "name": "Michael Allen Corbin",
+   "party": "Republican",
+   "office": "U.S. House, Georgia At-Large",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2GA07121/",
+   "status": "pending"
+  },
+  {
+   "key": "H6GA01158",
+   "name": "Amanda Hollowell",
+   "party": "Democratic",
+   "office": "U.S. House, Georgia District 1",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6GA01158/",
+   "status": "pending"
+  }
+ ]
+}

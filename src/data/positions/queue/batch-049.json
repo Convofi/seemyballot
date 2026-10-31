@@ -1,0 +1,307 @@
+{
+ "batch": "049",
+ "createdAt": "2026-10-31T22:53:31.306Z",
+ "output": "src/data/positions/batch-049.json",
+ "candidates": [
+  {
+   "key": "il-ag-2026-raoul-kwame",
+   "name": "Kwame Raoul",
+   "party": "Democratic",
+   "office": "Attorney General, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-ag-2026-fioretti-robert",
+   "name": "Robert W. Fioretti",
+   "party": "Republican",
+   "office": "Attorney General, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-sos-2026-giannoulias-alexi",
+   "name": "Alexi Giannoulias",
+   "party": "Democratic",
+   "office": "Secretary of State, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-sos-2026-harris-diane",
+   "name": "Diane M. Harris",
+   "party": "Republican",
+   "office": "Secretary of State, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-comp-2026-croke-margaret",
+   "name": "Margaret Croke",
+   "party": "Democratic",
+   "office": "Comptroller, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-comp-2026-drew-bryan",
+   "name": "Bryan Drew",
+   "party": "Republican",
+   "office": "Comptroller, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-treas-2026-frerichs-michael",
+   "name": "Michael W. Frerichs",
+   "party": "Democratic",
+   "office": "Treasurer, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-treas-2026-solomon-max",
+   "name": "Max Solomon",
+   "party": "Republican",
+   "office": "Treasurer, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-sos-2026-fleming-tim",
+   "name": "Tim Fleming",
+   "party": "Republican",
+   "office": "Secretary of State, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-sos-2026-reynolds-penny",
+   "name": "Penny Brown Reynolds",
+   "party": "Democratic",
+   "office": "Secretary of State, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-ag-2026-strickland-brian",
+   "name": "Brian Strickland",
+   "party": "Republican",
+   "office": "Attorney General, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-ag-2026-miller-tanya",
+   "name": "Tanya Miller",
+   "party": "Democratic",
+   "office": "Attorney General, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-agr-2026-harper-tyler",
+   "name": "Tyler Harper",
+   "party": "Republican",
+   "office": "Commissioner of Agriculture, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-agr-2026-juhan-arnold-katherine",
+   "name": "Katherine E. Juhan-Arnold",
+   "party": "Democratic",
+   "office": "Commissioner of Agriculture, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-ins-2026-king-john",
+   "name": "John King",
+   "party": "Republican",
+   "office": "Commissioner of Insurance, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-ins-2026-waites-keisha",
+   "name": "Keisha Sean Waites",
+   "party": "Democratic",
+   "office": "Commissioner of Insurance, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-supt-2026-woods-richard",
+   "name": "Richard Woods",
+   "party": "Republican",
+   "office": "State School Superintendent, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-supt-2026-powell-lydia",
+   "name": "Lydia Powell",
+   "party": "Democratic",
+   "office": "State School Superintendent, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-labor-2026-holmes-barbara",
+   "name": "Bárbara Rivera Holmes",
+   "party": "Republican",
+   "office": "Commissioner of Labor, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-labor-2026-porcher-nikki",
+   "name": "Nikki Porcher",
+   "party": "Democratic",
+   "office": "Commissioner of Labor, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-psc3-2026-johnson-fitz",
+   "name": "Fitz Johnson",
+   "party": "Republican",
+   "office": "Public Service Commissioner, District 3 (elected statewide), Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-psc3-2026-hubbard-peter",
+   "name": "Peter Hubbard",
+   "party": "Democratic",
+   "office": "Public Service Commissioner, District 3 (elected statewide), Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-psc5-2026-tolbert-josh",
+   "name": "Josh Tolbert",
+   "party": "Republican",
+   "office": "Public Service Commissioner, District 5 (elected statewide), Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-psc5-2026-edwards-shelia",
+   "name": "Shelia Edwards",
+   "party": "Democratic",
+   "office": "Public Service Commissioner, District 5 (elected statewide), Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sos-2026-gilchrist-garlin",
+   "name": "Garlin Gilchrist II",
+   "party": "Democratic",
+   "office": "Secretary of State, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sos-2026-forlini-anthony",
+   "name": "Anthony G. Forlini",
+   "party": "Republican",
+   "office": "Secretary of State, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-ag-2026-savit-eli",
+   "name": "Eli Savit",
+   "party": "Democratic",
+   "office": "Attorney General, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-ag-2026-lloyd-doug",
+   "name": "Doug Lloyd",
+   "party": "Republican",
+   "office": "Attorney General, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-sos-2026-fontes-adrian",
+   "name": "Adrian Fontes",
+   "party": "Democratic",
+   "office": "Secretary of State, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://electfontes.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-sos-2026-kolodin-alexander",
+   "name": "Alexander Kolodin",
+   "party": "Republican",
+   "office": "Secretary of State, Arizona",
+   "state": "AZ",
+   "knownWebsite": "https://www.alexforaz.com/",
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "060",
+ "createdAt": "2026-10-31T22:53:31.627Z",
+ "output": "src/data/positions/batch-060.json",
+ "candidates": [
+  {
+   "key": "mi-sbe-2026-collins-terence",
+   "name": "Terence Collins",
+   "party": "Republican",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-moeggenberg-bree",
+   "name": "Bree Moeggenberg",
+   "party": "Republican",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-um-regent-2026-brown-paul",
+   "name": "Paul Brown",
+   "party": "Democratic",
+   "office": "Regent of the University of Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-um-regent-2026-makled-amir",
+   "name": "Amir Makled",
+   "party": "Democratic",
+   "office": "Regent of the University of Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-um-regent-2026-epstein-lena",
+   "name": "Lena Epstein",
+   "party": "Republican",
+   "office": "Regent of the University of Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-um-regent-2026-schostak-michael",
+   "name": "Michael Schostak",
+   "party": "Republican",
+   "office": "Regent of the University of Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-scott-brianna",
+   "name": "Brianna Scott",
+   "party": "Democratic",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-zemke-kelly",
+   "name": "Kelly Tebay Zemke",
+   "party": "Democratic",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-maday-julie",
+   "name": "Julie Maday",
+   "party": "Republican",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-msu-trustee-2026-victory-roger",
+   "name": "Roger Victory",
+   "party": "Republican",
+   "office": "Trustee of Michigan State University",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-akeel-shereef",
+   "name": "Shereef Akeel",
+   "party": "Democratic",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-mack-richard",
+   "name": "Richard Mack",
+   "party": "Democratic",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-anuzis-andy",
+   "name": "Andy Anuzis",
+   "party": "Republican",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wsu-governor-2026-murphy-christa",
+   "name": "Christa Murphy",
+   "party": "Republican",
+   "office": "Governor of Wayne State University, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-sc7-2026-mendheim-brad",
+   "name": "Brad Mendheim",
+   "party": "Republican",
+   "office": "Associate Justice of the Supreme Court, Place 7, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-sc8-2026-dunham-ashleigh",
+   "name": "Ashleigh Meyer Dunham",
+   "party": "Democratic",
+   "office": "Associate Justice of the Supreme Court, Place 8, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-sc8-2026-shaw-greg",
+   "name": "Greg Shaw",
+   "party": "Republican",
+   "office": "Associate Justice of the Supreme Court, Place 8, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-civapp4-2026-bowden-benjamin",
+   "name": "Benjamin M. Bowden",
+   "party": "Republican",
+   "office": "Court of Civil Appeals Judge, Place 4, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-civapp5-2026-fridy-matt",
+   "name": "Matt Fridy",
+   "party": "Republican",
+   "office": "Court of Civil Appeals Judge, Place 5, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-crimapp4-2026-windom-mary",
+   "name": "Mary Windom",
+   "party": "Republican",
+   "office": "Court of Criminal Appeals Judge, Place 4, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-crimapp5-2026-walker-riggs",
+   "name": "Riggs Walker",
+   "party": "Republican",
+   "office": "Court of Criminal Appeals Judge, Place 5, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nm-coa-pos1-2026-houghton-kris",
+   "name": "Kris Houghton",
+   "party": "Democratic",
+   "office": "Judge of the Court of Appeals, Position 1, New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-sc-2026-evans-kelli",
+   "name": "Kelli M. Evans",
+   "party": "Nonpartisan",
+   "office": "Associate Justice of the Supreme Court — retain Kelli M. Evans? (yes/no retention), California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-sc-2026-groban-joshua",
+   "name": "Joshua Groban",
+   "party": "Nonpartisan",
+   "office": "Associate Justice of the Supreme Court — retain Joshua Groban? (yes/no retention), California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-cca-3-2026-ash-mark",
+   "name": "Mark Ash",
+   "party": "Libertarian",
+   "office": "Judge, Court of Criminal Appeals, Place 3, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-scj-2026-muniz-carlos",
+   "name": "Carlos G. Muñiz",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court — retain Carlos G. Muñiz? (yes/no merit retention), Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-essner-charles",
+   "name": "Charles Essner",
+   "party": "Libertarian",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-mohr-william",
+   "name": "William Mohr II",
+   "party": "Other",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-schwartz-christine",
+   "name": "Christine C. Schwartz",
+   "party": "Other",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-charafeddine-wissam",
+   "name": "Wissam Charafeddine",
+   "party": "Green",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

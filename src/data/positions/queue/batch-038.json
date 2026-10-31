@@ -1,0 +1,307 @@
+{
+ "batch": "038",
+ "createdAt": "2026-10-31T22:53:30.966Z",
+ "output": "src/data/positions/batch-038.json",
+ "candidates": [
+  {
+   "key": "H4KS02164",
+   "name": "Derek Schmidt",
+   "party": "Republican",
+   "office": "U.S. House, Kansas District 2",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4KS02164/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KS02276",
+   "name": "Don Coover",
+   "party": "Democratic",
+   "office": "U.S. House, Kansas District 2",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KS02276/",
+   "status": "pending"
+  },
+  {
+   "key": "H8KS03155",
+   "name": "Sharice Davids",
+   "party": "Democratic",
+   "office": "U.S. House, Kansas District 3",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8KS03155/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KS03308",
+   "name": "Eric Jenkins",
+   "party": "Republican",
+   "office": "U.S. House, Kansas District 3",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KS03308/",
+   "status": "pending"
+  },
+  {
+   "key": "H8KS04112",
+   "name": "Ron Estes",
+   "party": "Republican",
+   "office": "U.S. House, Kansas District 4",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8KS04112/",
+   "status": "pending"
+  },
+  {
+   "key": "H6KS04272",
+   "name": "Katy Tyndell",
+   "party": "Democratic",
+   "office": "U.S. House, Kansas District 4",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6KS04272/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NM01144",
+   "name": "Melanie Stansbury",
+   "party": "Democratic",
+   "office": "U.S. House, New Mexico District 1",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NM01144/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:didi-okapareke",
+   "name": "Didi Okapareke",
+   "party": "Republican",
+   "office": "U.S. House, New Mexico District 1",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H2NM02191",
+   "name": "Gabe Vasquez",
+   "party": "Democratic",
+   "office": "U.S. House, New Mexico District 2",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NM02191/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NM02127",
+   "name": "Greg Cunningham",
+   "party": "Republican",
+   "office": "U.S. House, New Mexico District 2",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NM02127/",
+   "status": "pending"
+  },
+  {
+   "key": "H0NM03102",
+   "name": "Teresa Leger Fernández",
+   "party": "Democratic",
+   "office": "U.S. House, New Mexico District 3",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NM03102/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NM03083",
+   "name": "Martin Zamora",
+   "party": "Republican",
+   "office": "U.S. House, New Mexico District 3",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NM03083/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NM66015",
+   "name": "Leanne Gandy",
+   "party": "Republican",
+   "office": "U.S. House, New Mexico District 66",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NM66015/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NE01118",
+   "name": "Mike Flood",
+   "party": "Republican",
+   "office": "U.S. House, Nebraska District 1",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NE01118/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NE01143",
+   "name": "Chris Backemeyer",
+   "party": "Democratic",
+   "office": "U.S. House, Nebraska District 1",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NE01143/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NE02208",
+   "name": "Brinker Harding",
+   "party": "Republican",
+   "office": "U.S. House, Nebraska District 2",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NE02208/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NE02174",
+   "name": "Denise Powell",
+   "party": "Democratic",
+   "office": "U.S. House, Nebraska District 2",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NE02174/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NE03115",
+   "name": "Adrian Smith",
+   "party": "Republican",
+   "office": "U.S. House, Nebraska District 3",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NE03115/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NE03180",
+   "name": "Becky Stille",
+   "party": "Democratic",
+   "office": "U.S. House, Nebraska District 3",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NE03180/",
+   "status": "pending"
+  },
+  {
+   "key": "H8ID01124",
+   "name": "Russ Fulcher",
+   "party": "Republican",
+   "office": "U.S. House, Idaho District 1",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8ID01124/",
+   "status": "pending"
+  },
+  {
+   "key": "H2ID01192",
+   "name": "Kaylee Peterson",
+   "party": "Democratic",
+   "office": "U.S. House, Idaho District 1",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2ID01192/",
+   "status": "pending"
+  },
+  {
+   "key": "H8ID02064",
+   "name": "Mike Simpson",
+   "party": "Republican",
+   "office": "U.S. House, Idaho District 2",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8ID02064/",
+   "status": "pending"
+  },
+  {
+   "key": "H6ID02274",
+   "name": "Ellie Gilbreath",
+   "party": "Democratic",
+   "office": "U.S. House, Idaho District 2",
+   "state": "ID",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6ID02274/",
+   "status": "pending"
+  },
+  {
+   "key": "H8WV03097",
+   "name": "Carol Miller",
+   "party": "Republican",
+   "office": "U.S. House, West Virginia District 1",
+   "state": "WV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8WV03097/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WV01160",
+   "name": "Vince George",
+   "party": "Democratic",
+   "office": "U.S. House, West Virginia District 1",
+   "state": "WV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WV01160/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WV02205",
+   "name": "Riley Moore",
+   "party": "Republican",
+   "office": "U.S. House, West Virginia District 2",
+   "state": "WV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WV02205/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WV02150",
+   "name": "Ace Parsi",
+   "party": "Democratic",
+   "office": "U.S. House, West Virginia District 2",
+   "state": "WV",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WV02150/",
+   "status": "pending"
+  },
+  {
+   "key": "H2HI02128",
+   "name": "Ed Case",
+   "party": "Democratic",
+   "office": "U.S. House, Hawaii District 1",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2HI02128/",
+   "status": "pending"
+  },
+  {
+   "key": "H6HI01360",
+   "name": "Adriel Lam",
+   "party": "Republican",
+   "office": "U.S. House, Hawaii District 1",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6HI01360/",
+   "status": "pending"
+  },
+  {
+   "key": "H2HI02581",
+   "name": "Jill Tokuda",
+   "party": "Democratic",
+   "office": "U.S. House, Hawaii District 2",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2HI02581/",
+   "status": "pending"
+  }
+ ]
+}

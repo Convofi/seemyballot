@@ -1,0 +1,307 @@
+{
+ "batch": "028",
+ "createdAt": "2026-10-31T22:53:30.963Z",
+ "output": "src/data/positions/batch-028.json",
+ "candidates": [
+  {
+   "key": "H4AZ02184",
+   "name": "Jonathan Nez",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 2",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AZ02184/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AZ03109",
+   "name": "Yassamin Ansari",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 3",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AZ03109/",
+   "status": "pending"
+  },
+  {
+   "key": "wiki:jacob-parkman",
+   "name": "Jacob Parkman",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 3",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "H8AZ09040",
+   "name": "Greg Stanton",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 4",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8AZ09040/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AZ04115",
+   "name": "Zuhdi Jasser",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 4",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AZ04115/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ05265",
+   "name": "Mark Lamb",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 5",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ05265/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ05240",
+   "name": "Elizabeth Lee",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 5",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ05240/",
+   "status": "pending"
+  },
+  {
+   "key": "H2AZ02360",
+   "name": "Juan Ciscomani",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 6",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2AZ02360/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ06099",
+   "name": "JoAnna Mendoza",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 6",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ06099/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ07121",
+   "name": "Adelita Grijalva",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 7",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ07121/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AZ07134",
+   "name": "Daniel Butierez",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 7",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AZ07134/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AZ08108",
+   "name": "Abraham Hamadeh",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 8",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AZ08108/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AZ08082",
+   "name": "Bernadette Greene-Placentia",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 8",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AZ08082/",
+   "status": "pending"
+  },
+  {
+   "key": "H0AZ01259",
+   "name": "Paul Gosar",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 9",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0AZ01259/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ09085",
+   "name": "Danielle Sterbinsky",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 9",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ09085/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MA02041",
+   "name": "Richard Neal",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 1",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MA02041/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MA03022",
+   "name": "Jim McGovern",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 2",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MA03022/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MA03106",
+   "name": "Lori Trahan",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 3",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MA03106/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MA03100",
+   "name": "Gary Grossi",
+   "party": "Republican",
+   "office": "U.S. House, Massachusetts District 3",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MA03100/",
+   "status": "pending"
+  },
+  {
+   "key": "H0MA04192",
+   "name": "Jake Auchincloss",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 4",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MA04192/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MA04140",
+   "name": "Tom Stalcup",
+   "party": "Republican",
+   "office": "U.S. House, Massachusetts District 4",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MA04140/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MA05084",
+   "name": "Katherine Clark",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 5",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MA05084/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MA06202",
+   "name": "Micah Jones",
+   "party": "Republican",
+   "office": "U.S. House, Massachusetts District 6",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MA06202/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MA03072",
+   "name": "Dan Koh",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 6",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MA03072/",
+   "status": "pending"
+  },
+  {
+   "key": "H8MA07032",
+   "name": "Ayanna Pressley",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 7",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8MA07032/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MA09072",
+   "name": "Stephen Lynch",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 8",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MA09072/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MA08090",
+   "name": "Robert Burke",
+   "party": "Republican",
+   "office": "U.S. House, Massachusetts District 8",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MA08090/",
+   "status": "pending"
+  },
+  {
+   "key": "H0MA10082",
+   "name": "Bill Keating",
+   "party": "Democratic",
+   "office": "U.S. House, Massachusetts District 9",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0MA10082/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MA09206",
+   "name": "Tyler MacAllister",
+   "party": "Republican",
+   "office": "U.S. House, Massachusetts District 9",
+   "state": "MA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MA09206/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TN01118",
+   "name": "Diana Harshbarger",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 1",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TN01118/",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "056",
+ "createdAt": "2026-10-31T22:53:31.626Z",
+ "output": "src/data/positions/batch-056.json",
+ "candidates": [
+  {
+   "key": "nd-agr-2026-thompson-vern",
+   "name": "Vern Thompson",
+   "party": "Democratic",
+   "office": "Agriculture Commissioner, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-tax-2026-kroshus-brian",
+   "name": "Brian Kroshus",
+   "party": "Republican",
+   "office": "Tax Commissioner, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-tax-2026-nelson-mark",
+   "name": "Mark Nelson",
+   "party": "Democratic",
+   "office": "Tax Commissioner, North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-psc-2026-haugen-hoffart-sheri",
+   "name": "Sheri Haugen-Hoffart",
+   "party": "Republican",
+   "office": "Public Service Commissioner (6-year term), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-psc-2026-pederson-john",
+   "name": "John M Pederson",
+   "party": "Democratic",
+   "office": "Public Service Commissioner (6-year term), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-psc2-2026-kringstad-jill",
+   "name": "Jill Kringstad",
+   "party": "Republican",
+   "office": "Public Service Commissioner (unexpired 2-year term), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nd-psc2-2026-kelsh-scot",
+   "name": "Scot Kelsh",
+   "party": "Democratic",
+   "office": "Public Service Commissioner (unexpired 2-year term), North Dakota",
+   "state": "ND",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-mayor-2026-lewis-george-janeese",
+   "name": "Janeese Lewis George",
+   "party": "Democratic",
+   "office": "Mayor of the District of Columbia (ranked-choice)",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-chair-2026-mendelson-phil",
+   "name": "Phil Mendelson",
+   "party": "Democratic",
+   "office": "Chairman of the Council, District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-chair-2026-prudent-abi-ananiah",
+   "name": "Abi-Ananiah Prudent",
+   "party": "Republican",
+   "office": "Chairman of the Council, District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-atlarge-2026-owolewa-oye",
+   "name": "Oye Owolewa",
+   "party": "Democratic",
+   "office": "At-Large Member of the Council (two winners; ranked-choice, rank candidates rather than voting for two), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-atlarge-2026-green-darrell",
+   "name": "Darrell Green",
+   "party": "Republican",
+   "office": "At-Large Member of the Council (two winners; ranked-choice, rank candidates rather than voting for two), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-ag-2026-rivera-manuel",
+   "name": "Manuel Rivera",
+   "party": "Republican",
+   "office": "Attorney General, District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-ag-2026-schwalb-brian",
+   "name": "Brian L. Schwalb",
+   "party": "Democratic",
+   "office": "Attorney General, District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-shadowsen-2026-simmons-robert",
+   "name": "Robert Simmons",
+   "party": "Republican",
+   "office": "United States Senator (shadow; District office, not a voting member of Congress), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-shadowsen-2026-strauss-paul",
+   "name": "Paul Strauss",
+   "party": "Democratic",
+   "office": "United States Senator (shadow; District office, not a voting member of Congress), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-shadowrep-2026-ivanof-ciprian",
+   "name": "Ciprian Ivanof",
+   "party": "Republican",
+   "office": "United States Representative (shadow; District office, not a voting member of Congress), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "dc-shadowrep-2026-garcia-franklin",
+   "name": "Franklin Garcia",
+   "party": "Democratic",
+   "office": "United States Representative (shadow; District office, not a voting member of Congress), District of Columbia",
+   "state": "DC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-treas-2026-lafleur-lynn",
+   "name": "Lynn LaFleur",
+   "party": "Republican",
+   "office": "State Treasurer, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-treas-2026-pieciak-mike",
+   "name": "Mike Pieciak",
+   "party": "Democratic",
+   "office": "State Treasurer, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-sos-2026-copeland-hanzas-sarah",
+   "name": "Sarah Copeland Hanzas",
+   "party": "Democratic",
+   "office": "Secretary of State, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-sos-2026-paige-h-brooke",
+   "name": "H. Brooke Paige",
+   "party": "Republican",
+   "office": "Secretary of State, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-aud-2026-ashe-tim",
+   "name": "Tim Ashe",
+   "party": "Democratic",
+   "office": "Auditor of Accounts, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-aud-2026-kronick-ivar",
+   "name": "Ivar Kronick",
+   "party": "Republican",
+   "office": "Auditor of Accounts, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-ag-2026-clark-charity",
+   "name": "Charity R. Clark",
+   "party": "Democratic",
+   "office": "Attorney General, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "vt-ag-2026-kemon-edwin",
+   "name": "Edwin Howell Kemon",
+   "party": "Republican",
+   "office": "Attorney General, Vermont",
+   "state": "VT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-sos-2026-short-robert",
+   "name": "Robert Short",
+   "party": "Republican",
+   "office": "Secretary of State, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-sos-2026-mccarty-bryan",
+   "name": "Bryan McCarty",
+   "party": "Democratic",
+   "office": "Secretary of State, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-aud-2026-racines-kristi",
+   "name": "Kristi Racines",
+   "party": "Republican",
+   "office": "State Auditor, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wy-treas-2026-meier-curt",
+   "name": "Curt Meier",
+   "party": "Republican",
+   "office": "State Treasurer, Wyoming",
+   "state": "WY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

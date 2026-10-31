@@ -1,0 +1,307 @@
+{
+ "batch": "027",
+ "createdAt": "2026-10-31T22:53:30.963Z",
+ "output": "src/data/positions/batch-027.json",
+ "candidates": [
+  {
+   "key": "H6VA08252",
+   "name": "Tony Sabio",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 8",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA08252/",
+   "status": "pending"
+  },
+  {
+   "key": "H0VA09055",
+   "name": "Morgan Griffith",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 9",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0VA09055/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA09136",
+   "name": "Joy Powers",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 9",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA09136/",
+   "status": "pending"
+  },
+  {
+   "key": "H4VA10279",
+   "name": "Suhas Subramanyam",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 10",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4VA10279/",
+   "status": "pending"
+  },
+  {
+   "key": "H2VA10273",
+   "name": "Dave Beckwith",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 10",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2VA10273/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA11066",
+   "name": "James Walkinshaw",
+   "party": "Democratic",
+   "office": "U.S. House, Virginia District 11",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA11066/",
+   "status": "pending"
+  },
+  {
+   "key": "H6VA11249",
+   "name": "Arthur Purves",
+   "party": "Republican",
+   "office": "U.S. House, Virginia District 11",
+   "state": "VA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6VA11249/",
+   "status": "pending"
+  },
+  {
+   "key": "H0WA08046",
+   "name": "Suzan DelBene",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 1",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0WA08046/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WA01282",
+   "name": "Mary Silva",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 1",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WA01282/",
+   "status": "pending"
+  },
+  {
+   "key": "H0WA02080",
+   "name": "Rick Larsen",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 2",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0WA02080/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA02228",
+   "name": "Edwin H. Feller",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 2",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA02228/",
+   "status": "pending"
+  },
+  {
+   "key": "H2WA03217",
+   "name": "Marie Gluesenkamp Perez",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 3",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2WA03217/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA03275",
+   "name": "John Braun",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 3",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA03275/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA04190",
+   "name": "John Duresky",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 4",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA04190/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA04216",
+   "name": "Amanda McKinney",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 4",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA04216/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WA05234",
+   "name": "Michael Baumgartner",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 5",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WA05234/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WA05168",
+   "name": "Carmela Conroy",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 5",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WA05168/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WA06117",
+   "name": "Emily Randall",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 6",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WA06117/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA06286",
+   "name": "Teresa Fox",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 6",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA06286/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA07458",
+   "name": "Pramila Jayapal",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 7",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA07458/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WA08147",
+   "name": "Nirav Sheth",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 7",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WA08147/",
+   "status": "pending"
+  },
+  {
+   "key": "H8WA08189",
+   "name": "Kim Schrier",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 8",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8WA08189/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA08167",
+   "name": "Spencer Meline",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 8",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA08167/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA09025",
+   "name": "Adam Smith",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 9",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA09025/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WA09061",
+   "name": "Doug Basler",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 9",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WA09061/",
+   "status": "pending"
+  },
+  {
+   "key": "H0WA10034",
+   "name": "Marilyn Strickland",
+   "party": "Democratic",
+   "office": "U.S. House, Washington District 10",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0WA10034/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WA10031",
+   "name": "Chris D. Chung",
+   "party": "Republican",
+   "office": "U.S. House, Washington District 10",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WA10031/",
+   "status": "pending"
+  },
+  {
+   "key": "H6AZ05190",
+   "name": "Jay Feely",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 1",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6AZ05190/",
+   "status": "pending"
+  },
+  {
+   "key": "H4AZ01194",
+   "name": "Amish Shah",
+   "party": "Democratic",
+   "office": "U.S. House, Arizona District 1",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4AZ01194/",
+   "status": "pending"
+  },
+  {
+   "key": "H2AZ01354",
+   "name": "Eli Crane",
+   "party": "Republican",
+   "office": "U.S. House, Arizona District 2",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2AZ01354/",
+   "status": "pending"
+  }
+ ]
+}

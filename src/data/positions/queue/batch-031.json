@@ -1,0 +1,307 @@
+{
+ "batch": "031",
+ "createdAt": "2026-10-31T22:53:30.964Z",
+ "output": "src/data/positions/batch-031.json",
+ "candidates": [
+  {
+   "key": "H6MO05254",
+   "name": "Jordan Herrera",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 4",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MO05254/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MO05234",
+   "name": "Emanuel Cleaver",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 5",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MO05234/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO04199",
+   "name": "Rick Brattin",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 5",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO04199/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MO06260",
+   "name": "Josh Smead",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 6",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MO06260/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MO06310",
+   "name": "Chris Stigall",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 6",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MO06310/",
+   "status": "pending"
+  },
+  {
+   "key": "H2MO07143",
+   "name": "Eric Burlison",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 7",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2MO07143/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MO07156",
+   "name": "Missi Hesketh",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 7",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MO07156/",
+   "status": "pending"
+  },
+  {
+   "key": "H4MO08162",
+   "name": "Jason Smith",
+   "party": "Republican",
+   "office": "U.S. House, Missouri District 8",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4MO08162/",
+   "status": "pending"
+  },
+  {
+   "key": "H6MO08183",
+   "name": "Christopher Reichard",
+   "party": "Democratic",
+   "office": "U.S. House, Missouri District 8",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6MO08183/",
+   "status": "pending"
+  },
+  {
+   "key": "H8WI01156",
+   "name": "Bryan Steil",
+   "party": "Republican",
+   "office": "U.S. House, Wisconsin District 1",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8WI01156/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI01283",
+   "name": "Mitchell Berman",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 1",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI01283/",
+   "status": "pending"
+  },
+  {
+   "key": "H2WI02124",
+   "name": "Mark Pocan",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 2",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2WI02124/",
+   "status": "pending"
+  },
+  {
+   "key": "H0WI03175",
+   "name": "Derrick Van Orden",
+   "party": "Republican",
+   "office": "U.S. House, Wisconsin District 3",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0WI03175/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WI03169",
+   "name": "Rebecca Cooke",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 3",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WI03169/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WI04183",
+   "name": "Gwen Moore",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 4",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WI04183/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WI04274",
+   "name": "Tim Rogers",
+   "party": "Republican",
+   "office": "U.S. House, Wisconsin District 4",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WI04274/",
+   "status": "pending"
+  },
+  {
+   "key": "H0WI05113",
+   "name": "Scott Fitzgerald",
+   "party": "Republican",
+   "office": "U.S. House, Wisconsin District 5",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0WI05113/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI05136",
+   "name": "Andrew Beck",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 5",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI05136/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WI06048",
+   "name": "Glenn Grothman",
+   "party": "Republican",
+   "office": "U.S. House, Wisconsin District 6",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WI06048/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI06191",
+   "name": "Brad Smith",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 6",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI06191/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI07223",
+   "name": "Michael Alfonso",
+   "party": "Republican",
+   "office": "U.S. House, Wisconsin District 7",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI07223/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI07207",
+   "name": "Fred Clark",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 7",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI07207/",
+   "status": "pending"
+  },
+  {
+   "key": "H4WI08119",
+   "name": "Tony Wied",
+   "party": "Republican",
+   "office": "U.S. House, Wisconsin District 8",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4WI08119/",
+   "status": "pending"
+  },
+  {
+   "key": "H6WI08205",
+   "name": "Rick Crosson",
+   "party": "Democratic",
+   "office": "U.S. House, Wisconsin District 8",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6WI08205/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO01273",
+   "name": "Melat Kiros",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 1",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO01273/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO01331",
+   "name": "Christy Peterson",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 1",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO01331/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CO02160",
+   "name": "Joe Neguse",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 2",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CO02160/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO02206",
+   "name": "Kelley Dennison",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 2",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO02206/",
+   "status": "pending"
+  },
+  {
+   "key": "H4CO03357",
+   "name": "Jeff Hurd",
+   "party": "Republican",
+   "office": "U.S. House, Colorado District 3",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4CO03357/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CO03253",
+   "name": "Dwayne Romero",
+   "party": "Democratic",
+   "office": "U.S. House, Colorado District 3",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CO03253/",
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "016",
+ "createdAt": "2026-10-31T22:53:30.641Z",
+ "output": "src/data/positions/batch-016.json",
+ "candidates": [
+  {
+   "key": "H6TX35038",
+   "name": "Lauren Peña",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 37",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX35038/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX02244",
+   "name": "Jon Bonck",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 38",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX02244/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX38011",
+   "name": "Melissa McDonough",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 38",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX38011/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL01390",
+   "name": "Jimmy Patronis",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 1",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL01390/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL01197",
+   "name": "Gay Valimont",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 1",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL01197/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL02299",
+   "name": "Amanda Green",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 2",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL02299/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL02331",
+   "name": "Austin Rogers",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 2",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL02331/",
+   "status": "pending"
+  },
+  {
+   "key": "H0FL03175",
+   "name": "Kat Cammack",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 3",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0FL03175/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL03099",
+   "name": "Seth Harp",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 3",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL03099/",
+   "status": "pending"
+  },
+  {
+   "key": "H2FL04211",
+   "name": "Aaron Bean",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 4",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2FL04211/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL05193",
+   "name": "LaShonda Holloway",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 4",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL05193/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL04105",
+   "name": "John Rutherford",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 5",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL04105/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL05250",
+   "name": "Rachel Grage",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 5",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL05250/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL06258",
+   "name": "Randy Fine",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 6",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL06258/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL06340",
+   "name": "Eric Yonce",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 6",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL06340/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL07215",
+   "name": "Bale Dalton",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 7",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL07215/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL07231",
+   "name": "Ryan Elijah",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 7",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL07231/",
+   "status": "pending"
+  },
+  {
+   "key": "H4FL08168",
+   "name": "Mike Haridopolos",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 8",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4FL08168/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL06399",
+   "name": "Jennifer Jenkins",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 8",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL06399/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL09179",
+   "name": "Darren Soto",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 9",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL09179/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL09294",
+   "name": "Dan Green",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 9",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL09294/",
+   "status": "pending"
+  },
+  {
+   "key": "H2FL10259",
+   "name": "Maxwell Frost",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 10",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2FL10259/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL11357",
+   "name": "James Pericola",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 11",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL11357/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL11332",
+   "name": "Joe Strada",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 11",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL11332/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL09070",
+   "name": "Gus Bilirakis",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 12",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL09070/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL15200",
+   "name": "Kimberly Overman",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 12",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL15200/",
+   "status": "pending"
+  },
+  {
+   "key": "H0FL13158",
+   "name": "Anna Paulina Luna",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 13",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0FL13158/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL13312",
+   "name": "Leela Gray",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 13",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL13312/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL11126",
+   "name": "Kathy Castor",
+   "party": "Democratic",
+   "office": "U.S. House, Florida District 14",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL11126/",
+   "status": "pending"
+  },
+  {
+   "key": "H6FL14237",
+   "name": "Mike Beltran",
+   "party": "Republican",
+   "office": "U.S. House, Florida District 14",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6FL14237/",
+   "status": "pending"
+  }
+ ]
+}

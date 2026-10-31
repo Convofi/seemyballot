@@ -1,0 +1,307 @@
+{
+ "batch": "063",
+ "createdAt": "2026-10-31T22:53:31.628Z",
+ "output": "src/data/positions/batch-063.json",
+ "candidates": [
+  {
+   "key": "ok-coca2-2-2026-huber-james",
+   "name": "James Huber",
+   "party": "Nonpartisan",
+   "office": "Court of Civil Appeals District 2, Office 2 (retention: vote Yes or No on keeping the incumbent), Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-sc-2026-pohlman-jill",
+   "name": "Jill M. Pohlman",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court of Utah (retention: vote Yes or No)",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-coa-2026-christiansen-forster-michele",
+   "name": "Michele M. Christiansen Forster",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-coa-2026-mortensen-david",
+   "name": "David Ned Mortensen",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-coa-2026-luthy-john",
+   "name": "John David Luthy",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-coa-2026-harris-ryan",
+   "name": "Ryan M. Harris",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-coa-2026-oliver-amy",
+   "name": "Amy Jo Oliver",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-coa-2026-orme-gregory",
+   "name": "Gregory Keith Orme",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals of Utah (retention: vote Yes or No)",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-coa-2026-soorholtz-greer-sharon",
+   "name": "Sharon Soorholtz Greer",
+   "party": "Nonpartisan",
+   "office": "Court of Appeals Judge - Retention: shall Sharon Soorholtz Greer be retained? (Yes/No), Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-coa-2026-sandy-john",
+   "name": "John M. Sandy",
+   "party": "Nonpartisan",
+   "office": "Court of Appeals Judge - Retention: shall John M. Sandy be retained? (Yes/No), Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ia-coa-2026-schumacher-julie",
+   "name": "Julie A. Schumacher",
+   "party": "Nonpartisan",
+   "office": "Court of Appeals Judge - Retention: shall Julie A. Schumacher be retained? (Yes/No), Iowa",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-sc-seat-b-2026-pickering-kristina",
+   "name": "Kristina Pickering",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Seat B (nonpartisan; one candidate plus \"None of these candidates\"), Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-sc-seat-d-2026-herndon-douglas",
+   "name": "Douglas Herndon",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Seat D (nonpartisan; one candidate plus \"None of these candidates\"), Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-sc-pos4-2026-rosen-eric",
+   "name": "Eric S. Rosen",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 4 (retention: vote yes or no on keeping this judge), Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-sc-pos6-2026-walsh-larkin",
+   "name": "Larkin E. Walsh",
+   "party": "Nonpartisan",
+   "office": "Justice of the Supreme Court, Position 6 (retention: vote yes or no on keeping this judge), Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-coa-pos2-2026-isherwood-lesley",
+   "name": "Lesley Ann Isherwood",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals, Position 2 (retention: vote yes or no on keeping this judge), Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-coa-pos3-2026-cline-amy",
+   "name": "Amy Fellows Cline",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals, Position 3 (retention: vote yes or no on keeping this judge), Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-coa-pos5-2026-schroeder-kim",
+   "name": "Kim R. Schroeder",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals, Position 5 (retention: vote yes or no on keeping this judge), Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-coa-pos7-2026-fleming-lori",
+   "name": "Lori Ann Bolton Fleming",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals, Position 7 (retention: vote yes or no on keeping this judge), Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-coa-pos13-2026-hurst-jacy",
+   "name": "Jacy Hurst",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Appeals, Position 13 (retention: vote yes or no on keeping this judge), Kansas",
+   "state": "KS",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nm-sc-retain-2026-thomson-david",
+   "name": "David K. Thomson",
+   "party": "Nonpartisan",
+   "office": "Supreme Court Justice retention: David K. Thomson (Yes/No vote to retain; 57% Yes needed), New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nm-sc-retain-2026-bacon-shannon",
+   "name": "Shannon Bacon",
+   "party": "Nonpartisan",
+   "office": "Supreme Court Justice retention: Shannon Bacon (Yes/No vote to retain; 57% Yes needed), New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nm-coa-retain-2026-hanisee-miles",
+   "name": "J. Miles Hanisee",
+   "party": "Nonpartisan",
+   "office": "Court of Appeals Judge retention: J. Miles Hanisee (Yes/No vote to retain; 57% Yes needed), New Mexico",
+   "state": "NM",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-wcc-retain-2026-stine-thomas",
+   "name": "Thomas E. Stine",
+   "party": "Nonpartisan",
+   "office": "Judge of the Nebraska Workers' Compensation Court: Thomas E. Stine (retention: vote Yes or No on whether to retain)",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ne-wcc-retain-2026-block-dirk",
+   "name": "Dirk V. Block",
+   "party": "Nonpartisan",
+   "office": "Judge of the Nebraska Workers' Compensation Court: Dirk V. Block (retention: vote Yes or No on whether to retain)",
+   "state": "NE",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-at-large-2026-akina-adrian",
+   "name": "Adrian (Kealii) Akina",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, At-Large (nonpartisan; vote for 3)",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-at-large-2026-anderson-ikaika",
+   "name": "Ikaika Anderson",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, At-Large (nonpartisan; vote for 3)",
+   "state": "HI",
+   "knownWebsite": "https://ikaika4hawaii.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-at-large-2026-crabbe-kanekoa",
+   "name": "Kanekoa (Koa) Crabbe",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, At-Large (nonpartisan; vote for 3)",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-at-large-2026-galuteria-brickwood",
+   "name": "Brickwood M. Galuteria",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, At-Large (nonpartisan; vote for 3)",
+   "state": "HI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "hi-oha-at-large-2026-souza-keoni",
+   "name": "Keoni Souza",
+   "party": "Nonpartisan",
+   "office": "Office of Hawaiian Affairs Trustee, At-Large (nonpartisan; vote for 3)",
+   "state": "HI",
+   "knownWebsite": "https://www.souzaforoha.com/",
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

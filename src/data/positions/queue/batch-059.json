@@ -1,0 +1,307 @@
+{
+ "batch": "059",
+ "createdAt": "2026-10-31T22:53:31.627Z",
+ "output": "src/data/positions/batch-059.json",
+ "candidates": [
+  {
+   "key": "tx-sc-chief-2026-blacklock-jimmy",
+   "name": "Jimmy Blacklock",
+   "party": "Republican",
+   "office": "Chief Justice, Supreme Court, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-sc-chief-2026-ellis-maggie",
+   "name": "Maggie Ellis",
+   "party": "Democratic",
+   "office": "Chief Justice, Supreme Court, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-sc-2-2026-sullivan-james",
+   "name": "James P. Sullivan",
+   "party": "Republican",
+   "office": "Justice, Supreme Court, Place 2, Unexpired Term, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-sc-2-2026-kelly-chari",
+   "name": "Chari Kelly",
+   "party": "Democratic",
+   "office": "Justice, Supreme Court, Place 2, Unexpired Term, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-sc-7-2026-hawkins-kyle",
+   "name": "Kyle Hawkins",
+   "party": "Republican",
+   "office": "Justice, Supreme Court, Place 7, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-sc-7-2026-hawkins-kristen",
+   "name": "Kristen Hawkins",
+   "party": "Democratic",
+   "office": "Justice, Supreme Court, Place 7, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-sc-8-2026-busby-brett",
+   "name": "Brett Busby",
+   "party": "Republican",
+   "office": "Justice, Supreme Court, Place 8, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-sc-8-2026-triana-gisela",
+   "name": "Gisela D. Triana",
+   "party": "Democratic",
+   "office": "Justice, Supreme Court, Place 8, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-cca-3-2026-smith-thomas",
+   "name": "Thomas Smith",
+   "party": "Republican",
+   "office": "Judge, Court of Criminal Appeals, Place 3, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-cca-3-2026-anyiam-okey",
+   "name": "Okey Anyiam",
+   "party": "Democratic",
+   "office": "Judge, Court of Criminal Appeals, Place 3, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-cca-4-2026-yeary-kevin",
+   "name": "Kevin Patrick Yeary",
+   "party": "Republican",
+   "office": "Judge, Court of Criminal Appeals, Place 4, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-cca-4-2026-riley-audra",
+   "name": "Audra Riley",
+   "party": "Democratic",
+   "office": "Judge, Court of Criminal Appeals, Place 4, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-cca-9-2026-messinger-john",
+   "name": "John Messinger",
+   "party": "Republican",
+   "office": "Judge, Court of Criminal Appeals, Place 9, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-cca-9-2026-taylor-holly",
+   "name": "Holly Taylor",
+   "party": "Democratic",
+   "office": "Judge, Court of Criminal Appeals, Place 9, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-coa15-chief-2026-brister-scott",
+   "name": "Scott Brister",
+   "party": "Republican",
+   "office": "Chief Justice, 15th Court of Appeals District, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-coa15-chief-2026-zimmerer-jerry",
+   "name": "Jerry Zimmerer",
+   "party": "Democratic",
+   "office": "Chief Justice, 15th Court of Appeals District, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-coa15-2-2026-field-scott",
+   "name": "Scott K. Field",
+   "party": "Republican",
+   "office": "Justice, 15th Court of Appeals District, Place 2, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-coa15-2-2026-baker-tom",
+   "name": "Tom Baker",
+   "party": "Democratic",
+   "office": "Justice, 15th Court of Appeals District, Place 2, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-coa15-3-2026-farris-april",
+   "name": "April Farris",
+   "party": "Republican",
+   "office": "Justice, 15th Court of Appeals District, Place 3, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-coa15-3-2026-meyer-marc",
+   "name": "Marc M. Meyer",
+   "party": "Democratic",
+   "office": "Justice, 15th Court of Appeals District, Place 3, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-supreme-court-seat-1-2026-earls-anita",
+   "name": "Anita Earls",
+   "party": "Democratic",
+   "office": "Associate Justice of the Supreme Court (Seat 1), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-supreme-court-seat-1-2026-stevens-sarah",
+   "name": "Sarah Stevens",
+   "party": "Republican",
+   "office": "Associate Justice of the Supreme Court (Seat 1), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-court-of-appeals-seat-1-2026-byrne-michael",
+   "name": "Michael C. Byrne",
+   "party": "Republican",
+   "office": "Judge of the Court of Appeals (Seat 1), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-court-of-appeals-seat-1-2026-arrowood-john",
+   "name": "John S. Arrowood",
+   "party": "Democratic",
+   "office": "Judge of the Court of Appeals (Seat 1), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-court-of-appeals-seat-2-2026-bell-george",
+   "name": "George Cooper Bell",
+   "party": "Republican",
+   "office": "Judge of the Court of Appeals (Seat 2), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-court-of-appeals-seat-2-2026-hampson-tobias",
+   "name": "Tobias (Toby) Hampson",
+   "party": "Democratic",
+   "office": "Judge of the Court of Appeals (Seat 2), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-court-of-appeals-seat-3-2026-collins-craig",
+   "name": "Craig Collins",
+   "party": "Republican",
+   "office": "Judge of the Court of Appeals (Seat 3), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-court-of-appeals-seat-3-2026-walczyk-christine",
+   "name": "Christine Marie Walczyk",
+   "party": "Democratic",
+   "office": "Judge of the Court of Appeals (Seat 3), North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-pritchett-judith",
+   "name": "Judith Pritchett",
+   "party": "Democratic",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-sbe-2026-tilley-tiffany",
+   "name": "Tiffany Tilley",
+   "party": "Democratic",
+   "office": "Member of the State Board of Education, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

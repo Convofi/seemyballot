@@ -1,0 +1,307 @@
+{
+ "batch": "052",
+ "createdAt": "2026-10-31T22:53:31.306Z",
+ "output": "src/data/positions/batch-052.json",
+ "candidates": [
+  {
+   "key": "sc-ag-comm-2026-blanding-deshawn",
+   "name": "DeShawn Blanding",
+   "party": "Democratic",
+   "office": "Commissioner of Agriculture, South Carolina",
+   "state": "SC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-ag-2026-mclaughlin-jeff",
+   "name": "Jeff McLaughlin",
+   "party": "Democratic",
+   "office": "Attorney General, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-ag-2026-robertson-katherine",
+   "name": "Katherine Robertson",
+   "party": "Republican",
+   "office": "Attorney General, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-sos-2026-rogers-wayne",
+   "name": "Wayne Rogers",
+   "party": "Democratic",
+   "office": "Secretary of State, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-sos-2026-dobson-caroleene",
+   "name": "Caroleene Dobson",
+   "party": "Republican",
+   "office": "Secretary of State, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-treas-2026-houston-rosilyn",
+   "name": "Rosilyn Houston",
+   "party": "Democratic",
+   "office": "State Treasurer, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-treas-2026-boozer-young",
+   "name": "Young Boozer",
+   "party": "Republican",
+   "office": "State Treasurer, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-aud-2026-edwards-violet",
+   "name": "Violet Edwards",
+   "party": "Democratic",
+   "office": "State Auditor, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-aud-2026-sorrell-andrew",
+   "name": "Andrew Sorrell",
+   "party": "Republican",
+   "office": "State Auditor, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-ag-ind-2026-sparks-ron",
+   "name": "Ron Sparks",
+   "party": "Democratic",
+   "office": "Commissioner of Agriculture and Industries, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-ag-ind-2026-hill-corey",
+   "name": "Corey Hill",
+   "party": "Republican",
+   "office": "Commissioner of Agriculture and Industries, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-psc1-2026-gordon-james",
+   "name": "James O. Gordon",
+   "party": "Democratic",
+   "office": "Public Service Commission, Place No. 1, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-psc1-2026-gentry-matt",
+   "name": "Matt Gentry",
+   "party": "Republican",
+   "office": "Public Service Commission, Place No. 1, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-psc2-2026-mcneil-sheila",
+   "name": "Sheila D. McNeil",
+   "party": "Democratic",
+   "office": "Public Service Commission, Place No. 2, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-psc2-2026-zeigler-jim",
+   "name": "Jim Zig Zeigler",
+   "party": "Republican",
+   "office": "Public Service Commission, Place No. 2, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-ag-2026-echols-jon",
+   "name": "Jon Echols",
+   "party": "Republican",
+   "office": "Attorney General, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-ag-2026-coffey-nick",
+   "name": "Nick Coffey",
+   "party": "Democratic",
+   "office": "Attorney General, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-treas-2026-byrd-cindy",
+   "name": "Cindy Byrd",
+   "party": "Republican",
+   "office": "State Treasurer, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-supt-2026-franklin-robert",
+   "name": "Robert Franklin",
+   "party": "Republican",
+   "office": "Superintendent of Public Instruction, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-supt-2026-marshall-jennettie",
+   "name": "Jennettie Marshall",
+   "party": "Democratic",
+   "office": "Superintendent of Public Instruction, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-labor-2026-west-kevin",
+   "name": "Kevin West",
+   "party": "Republican",
+   "office": "Commissioner of Labor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-labor-2026-dawson-kevin",
+   "name": "Kevin Dawson",
+   "party": "Democratic",
+   "office": "Commissioner of Labor, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-ins-2026-sullivan-bob",
+   "name": "Bob Sullivan",
+   "party": "Republican",
+   "office": "Insurance Commissioner, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-ins-2026-macintyre-craig",
+   "name": "Craig MacIntyre",
+   "party": "Democratic",
+   "office": "Insurance Commissioner, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-corp-2026-boles-brad",
+   "name": "Brad Boles",
+   "party": "Republican",
+   "office": "Corporation Commissioner, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-corp-2026-eastman-rhonda",
+   "name": "Rhonda Eastman",
+   "party": "Democratic",
+   "office": "Corporation Commissioner, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-sots-2026-thomas-stephanie",
+   "name": "Stephanie Thomas",
+   "party": "Democratic",
+   "office": "Secretary of the State, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-sots-2026-lumaj-peter",
+   "name": "Peter Lumaj",
+   "party": "Republican",
+   "office": "Secretary of the State, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-treas-2026-russell-erick",
+   "name": "Erick Russell",
+   "party": "Democratic",
+   "office": "Treasurer, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-treas-2026-wilms-fred",
+   "name": "Fred Wilms",
+   "party": "Republican",
+   "office": "Treasurer, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

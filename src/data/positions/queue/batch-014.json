@@ -1,0 +1,307 @@
+{
+ "batch": "014",
+ "createdAt": "2026-10-31T22:53:30.640Z",
+ "output": "src/data/positions/batch-014.json",
+ "candidates": [
+  {
+   "key": "H6TX07151",
+   "name": "Alexander Hale",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 7",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX07151/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TX08145",
+   "name": "Laura Jones",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 8",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TX08145/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX08209",
+   "name": "Jessica Steinmann",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 8",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX08209/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX09231",
+   "name": "Leticia Gutierrez",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 9",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX09231/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX09140",
+   "name": "Alex Mealer",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 9",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX09140/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX10221",
+   "name": "Chris Gober",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 10",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX10221/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX31102",
+   "name": "Caitlin Rourk",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 10",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX31102/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TX11230",
+   "name": "August Pfluger",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 11",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TX11230/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX11112",
+   "name": "Claire Reynolds",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 11",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX11112/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX12065",
+   "name": "Craig Goldman",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 12",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX12065/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX12169",
+   "name": "Angela Rodriguez Prilliman",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 12",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX12169/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TX13228",
+   "name": "Ronny Jackson",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 13",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TX13228/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX13159",
+   "name": "Mark Nair",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 13",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX13159/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX14149",
+   "name": "Randy Weber",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 14",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX14149/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX14181",
+   "name": "Thurman Bartie",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 14",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX14181/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TX15124",
+   "name": "Monica De La Cruz",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 15",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TX15124/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX15246",
+   "name": "Bobby Pulido",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 15",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX15246/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TX16109",
+   "name": "Veronica Escobar",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 16",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TX16109/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX16152",
+   "name": "Adam Bauman",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 16",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX16152/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX03126",
+   "name": "Pete Sessions",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 17",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX03126/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX17168",
+   "name": "Casey Shepard",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 17",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX17168/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX18232",
+   "name": "Christian Menefee",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 18",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX18232/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX18497",
+   "name": "Ronald Whitfield",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 18",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX18497/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX19198",
+   "name": "Kyle Rable",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 19",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX19198/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX19206",
+   "name": "Tom Sell",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 19",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX19206/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX35011",
+   "name": "Joaquin Castro",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 20",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX35011/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX20113",
+   "name": "Edgardo Baez",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 20",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX20113/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX21108",
+   "name": "Kristin Hook",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 21",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX21108/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX21301",
+   "name": "Mark Teixeira",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 21",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX21301/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX22197",
+   "name": "Marquette Greene-Scott",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 22",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX22197/",
+   "status": "pending"
+  }
+ ]
+}

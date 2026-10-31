@@ -1,0 +1,307 @@
+{
+ "batch": "015",
+ "createdAt": "2026-10-31T22:53:30.641Z",
+ "output": "src/data/positions/batch-015.json",
+ "candidates": [
+  {
+   "key": "H6TX22283",
+   "name": "Trever Nehls",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 22",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX22283/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX23120",
+   "name": "Brandon Herrera",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 23",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX23120/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX23273",
+   "name": "Katy Padilla Stout",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 23",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX23273/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TX24209",
+   "name": "Beth Van Duyne",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 24",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TX24209/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX24172",
+   "name": "Kevin Burge",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 24",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX24172/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX33040",
+   "name": "Roger Williams",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 25",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX33040/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX25237",
+   "name": "Dione Sims",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 25",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX25237/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX26149",
+   "name": "Brandon Gill",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 26",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX26149/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX26144",
+   "name": "Steven Shook",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 26",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX26144/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TX27049",
+   "name": "Michael Cloud",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 27",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TX27049/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX27089",
+   "name": "Tanya Lloyd",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 27",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX27089/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX23082",
+   "name": "Henry Cuellar",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 28",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX23082/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX28124",
+   "name": "Tano Tijerina",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 28",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX28124/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TX29052",
+   "name": "Sylvia Garcia",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 29",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TX29052/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX29122",
+   "name": "Martha Fierro",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 29",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX29122/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX30245",
+   "name": "Frederick Haynes III",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 30",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX30245/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX30211",
+   "name": "Everett Jackson",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 30",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX30211/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX31044",
+   "name": "John Carter",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 31",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX31044/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX31094",
+   "name": "Justin Early",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 31",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX31094/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX32217",
+   "name": "Dan Barrios",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 32",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX32217/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX32225",
+   "name": "Jace Yarbrough",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 32",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX32225/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TX32098",
+   "name": "Colin Allred",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 33",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TX32098/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX33248",
+   "name": "Patrick Gillespie",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 33",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX33248/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX15162",
+   "name": "Vicente Gonzalez",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 34",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX15162/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX34080",
+   "name": "Eric Flores",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 34",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX34080/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX35087",
+   "name": "Carlos De La Cruz",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 35",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX35087/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX35095",
+   "name": "Johnny Garcia",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 35",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX35095/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TX02079",
+   "name": "Brian Babin",
+   "party": "Republican",
+   "office": "U.S. House, Texas District 36",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TX02079/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TX14111",
+   "name": "Rhonda Hart",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 36",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TX14111/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TX35144",
+   "name": "Greg Casar",
+   "party": "Democratic",
+   "office": "U.S. House, Texas District 37",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TX35144/",
+   "status": "pending"
+  }
+ ]
+}

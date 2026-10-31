@@ -1,0 +1,307 @@
+{
+ "batch": "029",
+ "createdAt": "2026-10-31T22:53:30.964Z",
+ "output": "src/data/positions/batch-029.json",
+ "candidates": [
+  {
+   "key": "H6TN01537",
+   "name": "Kristi Burke",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 1",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN01537/",
+   "status": "pending"
+  },
+  {
+   "key": "H8TN02119",
+   "name": "Tim Burchett",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 2",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8TN02119/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN02170",
+   "name": "Michaela Barnett",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 2",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN02170/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TN03254",
+   "name": "Chuck Fleischmann",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 3",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TN03254/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN03228",
+   "name": "Anna Golladay",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 3",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN03228/",
+   "status": "pending"
+  },
+  {
+   "key": "H0TN04195",
+   "name": "Scott DesJarlais",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 4",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0TN04195/",
+   "status": "pending"
+  },
+  {
+   "key": "H4TN04270",
+   "name": "Victoria Broderick",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 4",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4TN04270/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN05405",
+   "name": "Charlie Hatcher",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 5",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN05405/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN05397",
+   "name": "Chaz Molder",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 5",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN05397/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN06171",
+   "name": "Mike Croley",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 6",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN06171/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN06213",
+   "name": "Johnny Garrett",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 6",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN06213/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN07161",
+   "name": "Matt Van Epps",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 7",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN07161/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN07286",
+   "name": "Darden Copeland",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 7",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN07286/",
+   "status": "pending"
+  },
+  {
+   "key": "H2TN07103",
+   "name": "David Kustoff",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2TN07103/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN08367",
+   "name": "Heidi Kuhn",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 8",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN08367/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN09449",
+   "name": "Justin Pearson",
+   "party": "Democratic",
+   "office": "U.S. House, Tennessee District 9",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN09449/",
+   "status": "pending"
+  },
+  {
+   "key": "H6TN09464",
+   "name": "Brent Taylor",
+   "party": "Republican",
+   "office": "U.S. House, Tennessee District 9",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6TN09464/",
+   "status": "pending"
+  },
+  {
+   "key": "H0IN01150",
+   "name": "Frank Mrvan",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 1",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0IN01150/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN01231",
+   "name": "Barb Regnitz",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 1",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN01231/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IN02295",
+   "name": "Rudy Yakym",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 2",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IN02295/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN02189",
+   "name": "Jamee Decio",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 2",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN02189/",
+   "status": "pending"
+  },
+  {
+   "key": "H0IN03198",
+   "name": "Marlin Stutzman",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 3",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0IN03198/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN03294",
+   "name": "Kelly Thompson",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 3",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN03294/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IN04199",
+   "name": "Jim Baird",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 4",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IN04199/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN04193",
+   "name": "Drew Cox",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 4",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN04193/",
+   "status": "pending"
+  },
+  {
+   "key": "H0IN05326",
+   "name": "Victoria Spartz",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 5",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0IN05326/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN05307",
+   "name": "J.D. Ford",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 5",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN05307/",
+   "status": "pending"
+  },
+  {
+   "key": "H4IN06185",
+   "name": "Jefferson Shreve",
+   "party": "Republican",
+   "office": "U.S. House, Indiana District 6",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4IN06185/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IN06230",
+   "name": "Cynthia Wirth",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 6",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IN06230/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IN07184",
+   "name": "André Carson",
+   "party": "Democratic",
+   "office": "U.S. House, Indiana District 7",
+   "state": "IN",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IN07184/",
+   "status": "pending"
+  }
+ ]
+}

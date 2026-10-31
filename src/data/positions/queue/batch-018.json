@@ -1,0 +1,307 @@
+{
+ "batch": "018",
+ "createdAt": "2026-10-31T22:53:30.641Z",
+ "output": "src/data/positions/batch-018.json",
+ "candidates": [
+  {
+   "key": "H2NY01190",
+   "name": "Nick LaLota",
+   "party": "Republican",
+   "office": "U.S. House, New York District 1",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NY01190/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY01159",
+   "name": "Chris Gallant",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 1",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY01159/",
+   "status": "pending"
+  },
+  {
+   "key": "H0NY02234",
+   "name": "Andrew Garbarino",
+   "party": "Republican",
+   "office": "U.S. House, New York District 2",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NY02234/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY02140",
+   "name": "Patrick Halpin",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 2",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY02140/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY03247",
+   "name": "Tom Suozzi",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 3",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY03247/",
+   "status": "pending"
+  },
+  {
+   "key": "H0NY02267",
+   "name": "Mike LiPetri",
+   "party": "Republican",
+   "office": "U.S. House, New York District 3",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NY02267/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY04211",
+   "name": "Jeanine Driscoll",
+   "party": "Republican",
+   "office": "U.S. House, New York District 4",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY04211/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NY04244",
+   "name": "Laura Gillen",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 4",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NY04244/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NY06048",
+   "name": "Gregory Meeks",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 5",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NY06048/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY05127",
+   "name": "George Marsh",
+   "party": "Republican",
+   "office": "U.S. House, New York District 5",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY05127/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NY06116",
+   "name": "Grace Meng",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 6",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NY06116/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NY06047",
+   "name": "Joseph Chou",
+   "party": "Republican",
+   "office": "U.S. House, New York District 6",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY06047/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY07271",
+   "name": "Melvin Rivera",
+   "party": "Republican",
+   "office": "U.S. House, New York District 7",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY07271/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY07214",
+   "name": "Claire Valdez",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 7",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY07214/",
+   "status": "pending"
+  },
+  {
+   "key": "H2NY10092",
+   "name": "Hakeem Jeffries",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 8",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2NY10092/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY08188",
+   "name": "Lewis Mizrahi",
+   "party": "Republican",
+   "office": "U.S. House, New York District 8",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY08188/",
+   "status": "pending"
+  },
+  {
+   "key": "H4NY11138",
+   "name": "Yvette Clarke",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 9",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4NY11138/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY09145",
+   "name": "Joel Anabilah-Azumah",
+   "party": "Republican",
+   "office": "U.S. House, New York District 9",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY09145/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY10176",
+   "name": "Brad Lander",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 10",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY10176/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY10218",
+   "name": "Jennifer Moore",
+   "party": "Republican",
+   "office": "U.S. House, New York District 10",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY10218/",
+   "status": "pending"
+  },
+  {
+   "key": "H0NY11078",
+   "name": "Nicole Malliotakis",
+   "party": "Republican",
+   "office": "U.S. House, New York District 11",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NY11078/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY11265",
+   "name": "Michael DeCillis",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 11",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY11265/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY12172",
+   "name": "Micah Lasher",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 12",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY12172/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY12404",
+   "name": "Caroline Shinkle",
+   "party": "Republican",
+   "office": "U.S. House, New York District 12",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY12404/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY13279",
+   "name": "Darializa Avila Chevalier",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 13",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY13279/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY13303",
+   "name": "Jomo Williams",
+   "party": "Republican",
+   "office": "U.S. House, New York District 13",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY13303/",
+   "status": "pending"
+  },
+  {
+   "key": "H8NY15148",
+   "name": "Alexandria Ocasio-Cortez",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 14",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8NY15148/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY14251",
+   "name": "Diamant Hysenaj",
+   "party": "Republican",
+   "office": "U.S. House, New York District 14",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY14251/",
+   "status": "pending"
+  },
+  {
+   "key": "H0NY15160",
+   "name": "Ritchie Torres",
+   "party": "Democratic",
+   "office": "U.S. House, New York District 15",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0NY15160/",
+   "status": "pending"
+  },
+  {
+   "key": "H6NY16140",
+   "name": "Stylo Sapaskis",
+   "party": "Republican",
+   "office": "U.S. House, New York District 15",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6NY16140/",
+   "status": "pending"
+  }
+ ]
+}

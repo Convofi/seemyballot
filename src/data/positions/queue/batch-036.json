@@ -1,0 +1,307 @@
+{
+ "batch": "036",
+ "createdAt": "2026-10-31T22:53:30.966Z",
+ "output": "src/data/positions/batch-036.json",
+ "candidates": [
+  {
+   "key": "H2OK04055",
+   "name": "Tom Cole",
+   "party": "Republican",
+   "office": "U.S. House, Oklahoma District 4",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2OK04055/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OK04155",
+   "name": "Mitchell Jacob",
+   "party": "Democratic",
+   "office": "U.S. House, Oklahoma District 4",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OK04155/",
+   "status": "pending"
+  },
+  {
+   "key": "H0OK05205",
+   "name": "Stephanie Bice",
+   "party": "Republican",
+   "office": "U.S. House, Oklahoma District 5",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0OK05205/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OK05293",
+   "name": "Jena Nelson",
+   "party": "Democratic",
+   "office": "U.S. House, Oklahoma District 5",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OK05293/",
+   "status": "pending"
+  },
+  {
+   "key": "H6OK82011",
+   "name": "William Evan Scott Beck",
+   "party": "Democratic",
+   "office": "U.S. House, Oklahoma District 82",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6OK82011/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CT01206",
+   "name": "Luke Bronin",
+   "party": "Democratic",
+   "office": "U.S. House, Connecticut District 1",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CT01206/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CT03102",
+   "name": "Amy Chai",
+   "party": "Republican",
+   "office": "U.S. House, Connecticut District 1",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CT03102/",
+   "status": "pending"
+  },
+  {
+   "key": "H2CT02112",
+   "name": "Joe Courtney",
+   "party": "Democratic",
+   "office": "U.S. House, Connecticut District 2",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2CT02112/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CT02196",
+   "name": "George Austin",
+   "party": "Republican",
+   "office": "U.S. House, Connecticut District 2",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CT02196/",
+   "status": "pending"
+  },
+  {
+   "key": "H0CT03072",
+   "name": "Rosa DeLauro",
+   "party": "Democratic",
+   "office": "U.S. House, Connecticut District 3",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0CT03072/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CT03178",
+   "name": "Christopher Lancia",
+   "party": "Republican",
+   "office": "U.S. House, Connecticut District 3",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CT03178/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CT04172",
+   "name": "Jim Himes",
+   "party": "Democratic",
+   "office": "U.S. House, Connecticut District 4",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CT04172/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CT04143",
+   "name": "Michael Goldstein",
+   "party": "Republican",
+   "office": "U.S. House, Connecticut District 4",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CT04143/",
+   "status": "pending"
+  },
+  {
+   "key": "H8CT05245",
+   "name": "Jahana Hayes",
+   "party": "Democratic",
+   "office": "U.S. House, Connecticut District 5",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8CT05245/",
+   "status": "pending"
+  },
+  {
+   "key": "H6CT05231",
+   "name": "Chris Shea",
+   "party": "Republican",
+   "office": "U.S. House, Connecticut District 5",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6CT05231/",
+   "status": "pending"
+  },
+  {
+   "key": "H8UT04053",
+   "name": "Ben McAdams",
+   "party": "Democratic",
+   "office": "U.S. House, Utah District 1",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8UT04053/",
+   "status": "pending"
+  },
+  {
+   "key": "H6UT01244",
+   "name": "Riley Owen",
+   "party": "Republican",
+   "office": "U.S. House, Utah District 1",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6UT01244/",
+   "status": "pending"
+  },
+  {
+   "key": "H0UT01205",
+   "name": "Blake Moore",
+   "party": "Republican",
+   "office": "U.S. House, Utah District 2",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H0UT01205/",
+   "status": "pending"
+  },
+  {
+   "key": "H6UT01160",
+   "name": "Peter Crosby",
+   "party": "Democratic",
+   "office": "U.S. House, Utah District 2",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6UT01160/",
+   "status": "pending"
+  },
+  {
+   "key": "H4UT02296",
+   "name": "Celeste Maloy",
+   "party": "Republican",
+   "office": "U.S. House, Utah District 3",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4UT02296/",
+   "status": "pending"
+  },
+  {
+   "key": "H6UT03182",
+   "name": "Kent Udell",
+   "party": "Democratic",
+   "office": "U.S. House, Utah District 3",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6UT03182/",
+   "status": "pending"
+  },
+  {
+   "key": "H4UT03260",
+   "name": "Mike Kennedy",
+   "party": "Republican",
+   "office": "U.S. House, Utah District 4",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H4UT03260/",
+   "status": "pending"
+  },
+  {
+   "key": "H6UT02424",
+   "name": "Jonny Larsen",
+   "party": "Democratic",
+   "office": "U.S. House, Utah District 4",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6UT02424/",
+   "status": "pending"
+  },
+  {
+   "key": "H6UT71015",
+   "name": "Thomas Lee Monroe Loveheart",
+   "party": "Democratic",
+   "office": "U.S. House, Utah District 71",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6UT71015/",
+   "status": "pending"
+  },
+  {
+   "key": "H8IA02043",
+   "name": "Mariannette Miller-Meeks",
+   "party": "Republican",
+   "office": "U.S. House, Iowa District 1",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H8IA02043/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IA02111",
+   "name": "Christina Bohannan",
+   "party": "Democratic",
+   "office": "U.S. House, Iowa District 1",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IA02111/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IA02211",
+   "name": "Lindsay James",
+   "party": "Democratic",
+   "office": "U.S. House, Iowa District 2",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA02211/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IA02237",
+   "name": "Joe Mitchell",
+   "party": "Republican",
+   "office": "U.S. House, Iowa District 2",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA02237/",
+   "status": "pending"
+  },
+  {
+   "key": "H2IA03119",
+   "name": "Zach Nunn",
+   "party": "Republican",
+   "office": "U.S. House, Iowa District 3",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H2IA03119/",
+   "status": "pending"
+  },
+  {
+   "key": "H6IA03268",
+   "name": "Sarah Trone Garriott",
+   "party": "Democratic",
+   "office": "U.S. House, Iowa District 3",
+   "state": "IA",
+   "knownWebsite": null,
+   "fecUrl": "https://www.fec.gov/data/candidate/H6IA03268/",
+   "status": "pending"
+  }
+ ]
+}
