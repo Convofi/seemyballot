@@ -1,0 +1,214 @@
+{
+  "state": "ID",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates and ballot measure language from Cassia County's official November 3, 2026 general election sample ballot, checked against the Idaho Secretary of State's 2026 Voter Pamphlet. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf",
+    "https://archive.voteidaho.gov/download/2026_Voter_Pamphlet.pdf",
+    "https://voteidaho.gov/idaho-general-election/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "The Idaho Secretary of State had not posted a 2026 general election candidate list online when checked on 2026-10-31 (the candidate-list page still showed 2024), so statewide candidates come from Cassia County's official sample ballot; statewide contests are the same in every county, but candidate order on official ballots rotates by precinct.",
+    "The Governor contest has a write-in line; certified write-in candidates are not listed.",
+    "No Idaho Supreme Court or Court of Appeals contest appears on the general election sample ballot (Idaho elects those judges in May); magistrate and district judge retention questions are county-based and not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "id-gov-2026-little-brad",
+            "name": "Brad Little",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "id-gov-2026-pickens-terri",
+            "name": "Terri Pickens",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "id-gov-2026-pro-life-marvin",
+            "name": "Pro-Life (formerly known as Marvin Richardson)",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "id-gov-2026-sand-paul",
+            "name": "Paul Sand",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "id-gov-2026-stegner-john",
+            "name": "John R. Stegner",
+            "party": "Independent",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "id-ltgov-2026-bedke-scott",
+            "name": "Scott Bedke",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "id-ltgov-2026-myricks-eric",
+            "name": "Eric Myricks",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "id-sos-2026-keenan-shawn",
+            "name": "Shawn Keenan",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "id-sos-2026-mcgrane-phil",
+            "name": "Phil McGrane",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf"
+      },
+      {
+        "office": "State Controller",
+        "candidates": [
+          {
+            "key": "id-ctrl-2026-mohan-rakesh",
+            "name": "Rakesh Mohan",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "id-ctrl-2026-woolf-brandon",
+            "name": "Brandon D. Woolf",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "id-treas-2026-ellsworth-julie",
+            "name": "Julie A. Ellsworth",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "id-treas-2026-jones-kevin",
+            "name": "Kevin A. Jones",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "id-ag-2026-hickman-lori",
+            "name": "Lori Hickman",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "id-ag-2026-labrador-raul",
+            "name": "Raul R. Labrador",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf"
+      },
+      {
+        "office": "Superintendent of Public Instruction",
+        "candidates": [
+          {
+            "key": "id-spi-2026-critchfield-debbie",
+            "name": "Debbie Critchfield",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "id-spi-2026-roundy-teresa",
+            "name": "Teresa Roundy",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "id-spi-2026-sundin-mitchell-becky",
+            "name": "Becky Sundin Mitchell",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "House Joint Resolution 4",
+        "title": "Constitutional amendment: only the Legislature may legalize marijuana, narcotics, or other psychoactive substances",
+        "summary": "Proposed by the Idaho Legislature, this amendment would add to Article III, Section 26 of the Idaho Constitution that only the Legislature has the power to legalize growing, producing, selling, possessing, or using marijuana, narcotics, or other psychoactive substances. It would take effect immediately on approval and would remove citizens' ability to legalize these substances through a ballot initiative.",
+        "yesMeans": "Only the Idaho Legislature could legalize marijuana, narcotics, or other psychoactive substances; citizen initiatives could no longer do so.",
+        "noMeans": "The Idaho Constitution is not changed, and citizens keep the ability to propose laws legalizing or decriminalizing these substances by initiative.",
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf",
+        "moreInfo": "https://ballotpedia.org/Idaho_2026_ballot_measures"
+      },
+      {
+        "id": "House Joint Resolution 6",
+        "title": "Constitutional amendment: English as the official language of Idaho",
+        "summary": "Proposed by the Idaho Legislature, this amendment would add a new Section 8 to Article X of the Idaho Constitution making English the official state language. Except where federal law requires otherwise, English would be used in all public proceedings, public documents, public instruction, and other public acts of any public institution in Idaho. English is already the official language under state statute.",
+        "yesMeans": "English becomes the official state language in the Idaho Constitution, to be used in public proceedings, documents, and school instruction except where federal law requires other languages.",
+        "noMeans": "The Idaho Constitution is not changed; English remains the official state language under state statute only.",
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf",
+        "moreInfo": "https://ballotpedia.org/Idaho_2026_ballot_measures"
+      },
+      {
+        "id": "Proposition 1",
+        "title": "Reproductive Freedom & Privacy Act: measure creating right to abortion before fetus viability, and post-viability to protect health; right to privacy; healthcare provider liability protections",
+        "summary": "This citizen initiative would change Idaho law to create a right to abortion before fetal viability, and after viability only in a medical emergency that threatens the pregnant person's life or health. It would also create a statutory right to make reproductive decisions such as contraception and fertility treatment, require any restrictions to be narrowly tailored to the patient's health, and bar penalties against patients, providers, or people who assist them. The state estimates added costs of $3,100 to $7,800 a year.",
+        "yesMeans": "Idaho law would allow abortion before fetal viability and afterward in medical emergencies, and would add reproductive privacy rights and legal protections for health care providers.",
+        "noMeans": "Idaho's current law stays in place: abortion is banned except to prevent the death of the pregnant woman and, in the first trimester, in cases of rape or incest reported to law enforcement.",
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf",
+        "moreInfo": "https://ballotpedia.org/Idaho_2026_ballot_measures"
+      },
+      {
+        "id": "Advisory Question (House Bill 932)",
+        "title": "Idaho Advisory Question: designation of the state gun of Idaho",
+        "summary": "This non-binding question asks voters to pick one of six firearms to be designated as the official Idaho State Gun: the Winchester Model 1894 (.30-30), Winchester Model 1873 (.44-40), 1873 Colt Single Action Army Revolver \"Peacemaker\" (.45 Colt), M1 Garand rifle (.30-06), Colt M1911 .45 pistol (.45 ACP), or Remington Model 700 bolt-action rifle (.30-06). The Legislature would have to act in a future session to make any designation official.",
+        "yesMeans": "This is not a yes/no question: you choose one of the six listed guns to tell the Legislature your preference for the state gun.",
+        "noMeans": "You may leave it blank; the result is advisory only and does not by itself designate a state gun.",
+        "source": "https://www.cassia.gov/media/Elections/SAMPLE%20BALLOTS/2026/Cassia%20County%20General%20Election%20Sample%20Ballot.pdf",
+        "moreInfo": "https://archive.voteidaho.gov/download/2026_Voter_Pamphlet.pdf"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
