@@ -1,0 +1,116 @@
+{
+  "state": "LA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Per the Louisiana Secretary of State, Nov. 3, 2026 is the U.S. Senate general election, the open (all-candidate) primary for U.S. House and state and local offices (runoffs Dec. 12), and the general election for spring party-primary offices; no statewide executive offices are on the ballot, and the 10 constitutional amendments are from the Secretary of State's official list with details from House Legislative Services summaries. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sos.la.gov/elections-voting/election-dates",
+    "https://www.sos.la.gov/elections-voting/how-candidates-are-elected",
+    "https://www.sos.la.gov/media/p31j4zkc/elections-calendar-2026.pdf",
+    "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+    "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "No statewide executive offices are elected in Louisiana in 2026 (the governor and other statewide officials are next elected in 2027).",
+    "District-based general elections for party-primary offices held in some parishes (Public Service Commission, Board of Elementary and Secondary Education, and any Louisiana Supreme Court district) are not loaded.",
+    "Parish and local propositions are not loaded."
+  ],
+  "statewide": {
+    "contests": [],
+    "measures": [
+      {
+        "id": "Amendment 1",
+        "title": "Transfer of disabled veteran property tax exemption by a surviving spouse (Act 39, 2026)",
+        "summary": "Louisiana gives an extra homestead property tax exemption to veterans with a service-connected disability, and their surviving spouses can keep it. This amendment lets a surviving spouse who has the exemption make a one-time transfer of it to a new home that qualifies for the homestead exemption, capped at the amount claimed on the prior home in its last year. It also removes the requirement that the surviving spouse keep living in and owning the original property.",
+        "yesMeans": "A surviving spouse of a disabled veteran could move the extra property tax exemption once to a new homestead, starting January 1, 2027.",
+        "noMeans": "The Constitution is not changed; the surviving spouse's exemption stays tied to the property they occupy and own.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 2",
+        "title": "Preserving local authority to return to the maximum authorized millage rate (Act 273, 2026)",
+        "summary": "After each property reassessment, Louisiana adjusts local property tax rates (millage) so collections stay level, and a taxing body can later raise its rate back up to the prior maximum by a two-thirds vote of its members. Today, if it does not do so before the next reassessment, it permanently loses that ability. This amendment lets a taxing body keep levying a lower rate without losing the ability to go back up to the maximum authorized rate until that millage expires.",
+        "yesMeans": "Local taxing authorities that levy less than their maximum rate could later raise it back up to the prior maximum without losing that option at the next reassessment, starting January 1, 2027.",
+        "noMeans": "The Constitution is not changed; a taxing authority that does not return to its maximum rate before the next reassessment keeps losing that ability.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 3",
+        "title": "No post-conviction bail for aggravated offenses against a minor (Act 271, 2026)",
+        "summary": "The Louisiana Constitution provides a right to bail. This amendment adds an exception: a person convicted of an aggravated offense against a minor child, as defined in existing state law (R.S. 15:541), would not be eligible for any bail after conviction.",
+        "yesMeans": "People convicted of an aggravated offense against a minor could not be released on bail after conviction, such as while appealing.",
+        "noMeans": "The Constitution is not changed; post-conviction bail rules for these offenses stay as they are under current law.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 4",
+        "title": "Lifetime term limit for governor (Act 414, 2026)",
+        "summary": "Currently, a person who has served more than one and one-half terms as governor in two consecutive terms cannot be elected to the next term, but could run again after sitting out a term. This amendment makes the limit lifetime: anyone who has served more than one and one-half terms as governor could never be elected governor again, whether or not the terms were consecutive.",
+        "yesMeans": "A person who has served more than one and one-half terms as governor could never again be elected governor.",
+        "noMeans": "The Constitution is not changed; the limit continues to apply only to consecutive terms, so a former two-term governor could run again after sitting out a term.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 5",
+        "title": "Applying nonrecurring money to any state retirement system debt (Act 606, 2026)",
+        "summary": "The Constitution requires at least 25 percent of nonrecurring state revenue to go to state retirement systems to pay down their unfunded accrued liability (pension debt), and requires each system to apply that money to its oldest debt first. This amendment removes the oldest-first requirement so a system could apply the money to any part of its unfunded accrued liability.",
+        "yesMeans": "State retirement systems could apply nonrecurring state money to any of their unfunded liabilities, not just the oldest.",
+        "noMeans": "The Constitution is not changed; retirement systems must keep applying this money to their oldest unfunded liability first.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 6",
+        "title": "Optional local property tax exemption for homeowners 65 and older (Act 274, 2026)",
+        "summary": "This amendment would let a parish or municipality offer an extra homestead property tax exemption to owner-occupants age 65 or older who qualify for the special assessment level, rising with age from $6,000 of assessed value (ages 65-68) to $30,000 (age 81 and older), with eligibility for certain surviving spouses and property held in trust. A parish or municipality could only adopt it if its own voters approve it at a separate local election. The taxing authority would have to absorb the lost revenue rather than shifting it to other taxpayers.",
+        "yesMeans": "Parishes and municipalities could, with approval of their local voters, give older homeowners an additional property tax exemption starting January 1, 2028.",
+        "noMeans": "The Constitution is not changed, and local governments cannot create this additional exemption for older homeowners.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 7",
+        "title": "Public funds for replacing lead and other hazardous water service lines (Act 607, 2026)",
+        "summary": "The Constitution generally bars local governments from giving public money or property to private persons. This amendment adds an exception allowing a political subdivision to use public funds to identify, inventory, remove or replace drinking water service lines on customers' private property when the lines are made of or affected by materials covered by the U.S. EPA's Lead and Copper Rule Improvements (October 30, 2024) or later versions.",
+        "yesMeans": "Local governments could spend public money to find and replace lead or other covered water service lines on customers' property.",
+        "noMeans": "The Constitution is not changed, and the ban on using public funds for work on private property continues to apply to these service lines.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 8",
+        "title": "Prohibiting expropriation by foreign adversaries (Act 277, 2026)",
+        "summary": "Louisiana's Constitution allows some private entities, when authorized by law, to expropriate (take) private property for a public and necessary purpose with just compensation. This amendment keeps that rule but prohibits expropriation by a private entity that is a foreign adversary or an agent of a foreign adversary.",
+        "yesMeans": "Foreign adversaries and their agents would be barred from expropriating property in Louisiana.",
+        "noMeans": "The Constitution is not changed and adds no specific ban on expropriation by foreign adversaries.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 9",
+        "title": "Raising the income limit for the special assessment level (Act 220, 2025)",
+        "summary": "The special assessment level freezes the assessed value of a homestead for people 65 and older, certain disabled veterans and other disabled people, and families of service members killed or missing in action, but only if their adjusted gross income is $100,000 or less (adjusted for inflation from 2026). This amendment raises the income limit to $150,000, adjusted for inflation starting with the 2028 tax year, and lets assessors verify income from the applicant's Louisiana tax return. Taxing authorities would absorb any revenue loss rather than shifting it to other taxpayers.",
+        "yesMeans": "More homeowners could qualify for the assessment freeze because the income limit would rise to $150,000, starting January 1, 2027.",
+        "noMeans": "The Constitution is not changed; the income limit stays at $100,000, adjusted for inflation.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      },
+      {
+        "id": "Amendment 10",
+        "title": "Property tax exemption for rehabilitated blighted or derelict property (Act 272, 2026)",
+        "summary": "This amendment adds an optional property tax exemption for blighted or derelict property that has been rehabilitated. The Legislature would have to pass laws defining blighted and derelict property and setting the length of the exemption and the rules local governments must follow to administer it.",
+        "yesMeans": "Rehabilitated blighted or derelict properties could receive a property tax exemption under rules the Legislature sets, starting January 1, 2027.",
+        "noMeans": "The Constitution is not changed, and no property tax exemption is created for rehabilitated blighted or derelict property.",
+        "source": "https://www.sos.la.gov/media/jo2die1s/proposed-constitutional-amendments-2026-nov.pdf",
+        "moreInfo": "https://house.louisiana.gov/Agendas_2026/2026%20Constitutional%20Amendment%20Summaries.pdf"
+      }
+    ]
+  },
+  "legislative": { "senate": {}, "house": {} },
+  "counties": {}
+}
