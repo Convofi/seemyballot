@@ -1,0 +1,127 @@
+{
+  "state": "IL",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates are from the Illinois State Board of Elections candidate list for the November 3, 2026 general election (as of 10/31/2026); no statewide ballot measures are on the ballot. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&BallotGroup=4HJalchPb4g%3d&Status=P2wRQXkiFoo%3d",
+    "https://www.elections.il.gov/ElectionOperations/OfficesUpForElection.aspx?ID=sejIrI%2bQmww%3d",
+    "https://ballotpedia.org/Illinois_2026_ballot_measures"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded",
+    "No Illinois Supreme Court seat is on the State Board of Elections' list of offices up for election in 2026; Appellate Court vacancies and retentions (1st, 3rd, 4th, 5th districts), circuit and Cook County subcircuit judges and retentions, and Regional Superintendents of Schools are district-level and not yet loaded.",
+    "No statewide ballot measures: Ballotpedia reports zero certified for Illinois as of October 28, 2026; we did not find an official Secretary of State constitutional-amendment pamphlet to confirm this.",
+    "The State Board of Elections list shows no write-in candidates for statewide office; declared write-in candidates, if any, are not shown.",
+    "Green, Independence Party and New party slates for Governor, Secretary of State, Comptroller and Treasurer were removed from the ballot (June/July 2026) and are not shown."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "il-gov-2026-pritzker-jb",
+            "name": "JB Pritzker",
+            "party": "Democratic",
+            "runningMate": "Christian Mitchell",
+            "incumbent": true
+          },
+          {
+            "key": "il-gov-2026-bailey-darren",
+            "name": "Darren Bailey",
+            "party": "Republican",
+            "runningMate": "Aaron B. Del Mar",
+            "incumbent": false
+          },
+          {
+            "key": "il-gov-2026-corbett-collin",
+            "name": "Collin Corbett",
+            "party": "Independent",
+            "runningMate": "Carolyn Schofield",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&BallotGroup=4HJalchPb4g%3d&Status=P2wRQXkiFoo%3d"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "il-ag-2026-raoul-kwame",
+            "name": "Kwame Raoul",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "il-ag-2026-fioretti-robert",
+            "name": "Robert W. Fioretti",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&BallotGroup=4HJalchPb4g%3d&Status=P2wRQXkiFoo%3d"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "il-sos-2026-giannoulias-alexi",
+            "name": "Alexi Giannoulias",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "il-sos-2026-harris-diane",
+            "name": "Diane M. Harris",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&BallotGroup=4HJalchPb4g%3d&Status=P2wRQXkiFoo%3d"
+      },
+      {
+        "office": "Comptroller",
+        "candidates": [
+          {
+            "key": "il-comp-2026-croke-margaret",
+            "name": "Margaret Croke",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "il-comp-2026-drew-bryan",
+            "name": "Bryan Drew",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&BallotGroup=4HJalchPb4g%3d&Status=P2wRQXkiFoo%3d"
+      },
+      {
+        "office": "Treasurer",
+        "candidates": [
+          {
+            "key": "il-treas-2026-frerichs-michael",
+            "name": "Michael W. Frerichs",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "il-treas-2026-solomon-max",
+            "name": "Max Solomon",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.elections.il.gov/ElectionOperations/EOPDFViewer.aspx?ElectionID=sejIrI%2bQmww%3d&QueryType=xF443FTCAJbIL3atac%2fUjEg7Y4yklgT1&BallotGroup=4HJalchPb4g%3d&Status=P2wRQXkiFoo%3d"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
