@@ -1,0 +1,109 @@
+{
+  "state": "AK",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Alaska Division of Elections' 2026 General Election candidate list and official sample ballot; the governor's race uses ranked-choice voting. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.elections.alaska.gov/candidates/?election=26genr",
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf",
+    "https://www.elections.alaska.gov/sample-ballots/",
+    "https://www.elections.alaska.gov/petitions-and-ballot-measures/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Superior and district court judge retention questions are by judicial district and are not loaded.",
+    "Ballot Measure No. 1 (23RCF2, campaign contribution limits) was on the August 18, 2026 primary ballot, not the general.",
+    "Candidate websites not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor / Lieutenant Governor (ranked-choice: rank as many candidates as you like)",
+        "candidates": [
+          {
+            "key": "ak-gov-2026-bronson-dave",
+            "name": "Dave Bronson",
+            "party": "Republican",
+            "runningMate": "Josh Church",
+            "incumbent": false
+          },
+          {
+            "key": "ak-gov-2026-kreiss-tomkins-jonathan",
+            "name": "Jonathan S. \"JKT\" Kreiss-Tomkins",
+            "party": "Democratic",
+            "runningMate": "Zac Johnson",
+            "incumbent": false
+          },
+          {
+            "key": "ak-gov-2026-taylor-treg",
+            "name": "Treg Taylor",
+            "party": "Republican",
+            "runningMate": "Candi English",
+            "incumbent": false
+          },
+          {
+            "key": "ak-gov-2026-wilson-bernadette",
+            "name": "Bernadette M. Wilson",
+            "party": "Republican",
+            "runningMate": "Michael K. Shower",
+            "incumbent": false
+          },
+          {
+            "key": "ak-gov-2026-dewitt-meda",
+            "name": "Meda DeWitt",
+            "party": "Nonpartisan",
+            "runningMate": "Christopher \"Chris\" Steere",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "ak-gov-2026-parkin-james",
+            "name": "James W. \"JP4\" Parkin",
+            "party": "Republican",
+            "runningMate": "Ramadhani \"Ram\" Greer",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://www.elections.alaska.gov/candidates/?election=26genr"
+      },
+      {
+        "office": "Supreme Court: Shall Jude Pate be retained as justice of the supreme court for ten years? (yes/no retention)",
+        "candidates": [
+          {
+            "key": "ak-sc-ret-2026-pate-jude",
+            "name": "Jude Pate",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Ballot Measure No. 2",
+        "title": "24ESEG - An Act Restoring Political Party Primaries, Ending Ranked-Choice General Elections, and Repealing Recent Campaign Finance Laws",
+        "summary": "This citizen initiative would end Alaska's open (top-four) primary and ranked-choice general elections and bring back political party primaries and single-choice general elections, where the candidate with the most votes wins; candidates for governor and lieutenant governor would run separately in party primaries and together in the general. It would also repeal campaign finance rules added by a 2020 ballot measure, including disclosure rules for digital ads, out-of-state and undisclosed donations and the true source of donations, and limits on donations to joint governor/lieutenant governor campaigns.",
+        "yesMeans": "You want party primaries and single-choice general elections to replace open primaries and ranked-choice voting, and the 2020 campaign finance rules repealed.",
+        "noMeans": "You want to keep Alaska's open primaries, ranked-choice general elections and current campaign finance rules.",
+        "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf",
+        "moreInfo": "https://ballotpedia.org/Alaska_2026_ballot_measures"
+      },
+      {
+        "id": "Ballot Measure No. 3",
+        "title": "25USCV - An Act Addressing Voter Qualification",
+        "summary": "Alaska law already requires that a person be a United States citizen and meet other requirements to vote. This citizen initiative would state that only those who are U.S. citizens and meet the other requirements may vote. The official ballot summary says it would not change the requirements to vote.",
+        "yesMeans": "You want state law to specify that only U.S. citizens who meet the other requirements may vote.",
+        "noMeans": "You want to leave Alaska's voter qualification law as it is (it already requires U.S. citizenship).",
+        "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD1-JD1.pdf",
+        "moreInfo": "https://ballotpedia.org/Alaska_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
