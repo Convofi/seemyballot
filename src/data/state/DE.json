@@ -1,0 +1,96 @@
+{
+  "state": "DE",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Delaware Department of Elections' filed-candidate list (updated 2026-10-30) and declared write-in list for the November 3, 2026 general election; Delaware has no statewide ballot questions. Confirm on your official sample ballot.",
+  "sources": [
+    "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
+    "https://elections.delaware.gov/candidates/candidatelist/genl_wcddt_2026.html",
+    "https://elections.delaware.gov/candidates/candidatelist/index.html"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "No statewide ballot measures: Delaware has no citizen initiatives, and constitutional amendments are adopted by the General Assembly without a public vote.",
+    "Delaware judges are appointed, so there are no judicial elections.",
+    "Austin Cassidy is the Independent Party of Delaware nominee (shown as \"Other\"); Phil Dyer, Jr. is a declared write-in with no party listed."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "de-ag-2026-jennings-kathy",
+            "name": "Kathy Jennings",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://www.kathyfordelaware.com/"
+          },
+          {
+            "key": "de-ag-2026-graham-david",
+            "name": "David C. \"Dave\" Graham",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "de-ag-2026-dyer-phil",
+            "name": "Phil Dyer, Jr.",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+      },
+      {
+        "office": "Auditor of Accounts",
+        "candidates": [
+          {
+            "key": "de-aud-2026-york-lydia",
+            "name": "Lydia York",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "de-aud-2026-callaway-april",
+            "name": "April Callaway",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "de-aud-2026-cassidy-austin",
+            "name": "Austin Cassidy",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "de-treas-2026-lauzen-ted",
+            "name": "Ted Lauzen",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://tedlauzen.com/"
+          },
+          {
+            "key": "de-treas-2026-ramone-michael",
+            "name": "Michael Ramone",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
