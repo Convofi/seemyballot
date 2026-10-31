@@ -4,12 +4,12 @@ import { useEffect, useState } from "react";
 import type { PollingResponse } from "@/app/api/polling/route";
 import type { Place } from "@/lib/civic";
 
+import { useReportSummary } from "@/components/summary";
+import { Card, ExtLink, Footnote, Section, SkeletonCard } from "@/components/ui";
+
 type Result = { url: string } & ({ data: PollingResponse } | { none: true } | { error: string });
 
 const SHOWN = 3;
-
-const mapsButton =
-  "mt-3 inline-flex min-h-12 items-center gap-2 rounded-lg border border-neutral-300 px-4 py-2 font-semibold text-blue-800 hover:bg-neutral-50 dark:border-neutral-700 dark:text-blue-300 dark:hover:bg-neutral-900";
 
 /** "2026-10-07" → "Oct 7" (calendar dates, so format in UTC). */
 function shortDate(iso: string): string {
@@ -22,14 +22,17 @@ function Hours({ hours }: { hours: string }) {
   if (!hours) return null;
   const lines = hours.split("\n").filter(Boolean);
   if (lines.length <= 2) {
-    return <p className="mt-1 whitespace-pre-line text-neutral-800 dark:text-neutral-200">{lines.join("\n")}</p>;
+    return <p className="mt-1 whitespace-pre-line text-md text-ink-2">{lines.join("\n")}</p>;
   }
   return (
-    <details className="mt-1 text-neutral-800 dark:text-neutral-200">
-      <summary className="cursor-pointer text-sm text-blue-800 underline underline-offset-2 dark:text-blue-300">
+    <details className="group mt-1 text-ink-2">
+      <summary className="inline-flex min-h-11 cursor-pointer items-center gap-1.5 text-sm font-medium text-accent hover:text-accent-hover [&::-webkit-details-marker]:hidden">
+        <span aria-hidden="true" className="transition-transform group-open:rotate-90 motion-reduce:transition-none">
+          ›
+        </span>
         Hours ({lines.length} days)
       </summary>
-      <p className="mt-1 whitespace-pre-line text-sm">{lines.join("\n")}</p>
+      <p className="whitespace-pre-line text-sm leading-6">{lines.join("\n")}</p>
     </details>
   );
 }
@@ -37,22 +40,17 @@ function Hours({ hours }: { hours: string }) {
 function SiteItem({ p }: { p: Place }) {
   return (
     <li className="py-3">
-      <a
-        href={p.mapsUrl}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="font-semibold text-blue-800 underline underline-offset-2 dark:text-blue-300"
-      >
+      <ExtLink href={p.mapsUrl} className="font-medium">
         {p.name}
-      </a>
-      {p.name !== p.address && <p className="text-neutral-600 dark:text-neutral-400">{p.address}</p>}
+      </ExtLink>
+      {p.name !== p.address && <p className="text-md text-ink-2">{p.address}</p>}
       {p.startDate && p.endDate && (
-        <p className="mt-1 text-sm">
+        <p className="mt-1 text-sm text-ink">
           {shortDate(p.startDate)} – {shortDate(p.endDate)}
         </p>
       )}
       <Hours hours={p.hours} />
-      {p.notes && <p className="mt-1 text-sm text-neutral-600 dark:text-neutral-400">{p.notes}</p>}
+      {p.notes && <p className="mt-1 text-sm text-ink-3">{p.notes}</p>}
     </li>
   );
 }
@@ -61,14 +59,14 @@ function SiteList({ title, places, total }: { title: string; places: Place[]; to
   if (!places.length) return null;
   const more = total - Math.min(places.length, SHOWN);
   return (
-    <div className="mt-5">
-      <h3 className="font-semibold">{title}</h3>
-      <ul className="divide-y divide-neutral-200 dark:divide-neutral-800">
+    <div className="mt-6 first:mt-0">
+      <h3 className="text-base font-semibold text-ink">{title}</h3>
+      <ul className="mt-1 divide-y divide-line">
         {places.slice(0, SHOWN).map((p, i) => (
           <SiteItem key={`${p.address}-${i}`} p={p} />
         ))}
       </ul>
-      {more > 0 && <p className="text-sm text-neutral-600 dark:text-neutral-400">and {more} more</p>}
+      {more > 0 && <p className="text-sm text-ink-3">and {more} more</p>}
     </div>
   );
 }
@@ -95,19 +93,32 @@ export function PollingPlace({ address }: { address: string }) {
   }, [url]);
 
   const current = result?.url === url ? result : null;
+  useReportSummary(
+    current
+      ? "none" in current
+        ? { kind: "polling", status: "none", count: 0 }
+        : "error" in current
+          ? { kind: "polling", status: "error", count: 0 }
+          : {
+              kind: "polling",
+              status: current.data.counts.pollingLocations === 1 ? "one" : "many",
+              count: current.data.counts.pollingLocations,
+            }
+      : null,
+  );
   // No data: VotingLogistics and HowToVote below already link to the official lookup.
   if (current && "none" in current) return null;
 
   return (
-    <section className="mt-6 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800" aria-busy={!current}>
-      <h2 className="text-lg font-semibold">Where to vote</h2>
-
-      {!current && <p className="mt-2 text-neutral-600 dark:text-neutral-400">Finding your polling place…</p>}
+    <Section id="where-to-vote" title="Where to vote" busy={!current}>
+      {!current && <SkeletonCard label="Finding your polling place…" rows={2} />}
       {current && "error" in current && (
-        <p className="mt-2 text-neutral-600 dark:text-neutral-400">{current.error}</p>
+        <Card>
+          <p className="text-md text-ink-2">{current.error}</p>
+        </Card>
       )}
       {current && "data" in current && <Body data={current.data} />}
-    </section>
+    </Section>
   );
 }
 
@@ -116,18 +127,26 @@ function Body({ data: d }: { data: PollingResponse }) {
   const hero = d.counts.pollingLocations === 1 ? polls[0] : null;
 
   return (
-    <>
+    <Card>
       {hero && (
-        <div className="mt-3">
-          <p className="text-sm font-medium text-neutral-600 dark:text-neutral-400">Election day polling place</p>
-          <p className="mt-1 text-xl font-bold">{hero.name}</p>
-          {hero.name !== hero.address && <p className="text-neutral-800 dark:text-neutral-200">{hero.address}</p>}
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[0.08em] text-ink-3">Election day polling place</p>
+          <p className="mt-1.5 text-xl font-semibold leading-snug tracking-tight text-ink">{hero.name}</p>
+          {hero.name !== hero.address && <p className="mt-0.5 text-md text-ink-2">{hero.address}</p>}
           <Hours hours={hero.hours} />
-          {hero.notes && <p className="mt-1 text-sm text-neutral-600 dark:text-neutral-400">{hero.notes}</p>}
-          <a href={hero.mapsUrl} target="_blank" rel="noopener noreferrer" className={mapsButton}>
+          {hero.notes && <p className="mt-1 text-sm text-ink-3">{hero.notes}</p>}
+          <a
+            href={hero.mapsUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-4 inline-flex min-h-11 items-center gap-2 rounded-lg border border-line-strong px-4 text-sm font-semibold text-accent hover:border-accent hover:text-accent-hover"
+          >
             Open in Maps <span aria-hidden="true">→</span>
           </a>
         </div>
+      )}
+      {hero && (d.earlyVoteSites.length > 0 || d.dropOffLocations.length > 0) && (
+        <hr className="my-5 border-line" />
       )}
       {d.counts.pollingLocations > 1 && (
         <SiteList title="Vote centers near you — any of these works" places={polls} total={d.counts.pollingLocations} />
@@ -136,23 +155,16 @@ function Body({ data: d }: { data: PollingResponse }) {
       <SiteList title="Early voting" places={d.earlyVoteSites} total={d.counts.earlyVoteSites} />
       <SiteList title="Ballot drop boxes" places={d.dropOffLocations} total={d.counts.dropOffLocations} />
 
-      <p className="mt-5 text-xs text-neutral-600 dark:text-neutral-400">
+      <Footnote className="border-t border-line pt-3">
         Source: your state&apos;s election office via the Voting Information Project (Google Civic
         Information API). Confirm hours before you go.
         {d.electionOffice?.locationFinderUrl && (
           <>
             {" "}
-            <a
-              href={d.electionOffice.locationFinderUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="underline underline-offset-2"
-            >
-              Official lookup
-            </a>
+            <ExtLink href={d.electionOffice.locationFinderUrl}>Official lookup</ExtLink>
           </>
         )}
-      </p>
-    </>
+      </Footnote>
+    </Card>
   );
 }

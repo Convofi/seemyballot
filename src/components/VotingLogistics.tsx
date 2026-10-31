@@ -1,4 +1,5 @@
 import votingData from "@/data/voting2026.json";
+import { Card, ExtLink, Footnote, Section, hostname } from "@/components/ui";
 
 export type VotingInfo = {
   name: string;
@@ -44,7 +45,7 @@ const MAIL_WHO: Record<VotingInfo["mailBallot"]["whoCanVote"], string> = {
 
 function Note({ children }: { children?: string }) {
   if (!children) return null;
-  return <span className="mt-1 block text-sm text-neutral-600 dark:text-neutral-400">{children}</span>;
+  return <span className="mt-1 block text-sm text-ink-3">{children}</span>;
 }
 
 export function VotingLogistics({ state }: { state: string }) {
@@ -93,32 +94,32 @@ export function VotingLogistics({ state }: { state: string }) {
   ];
 
   return (
-    <section className="mt-6 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
-      <h2 className="text-lg font-semibold">Voting in {s.name}</h2>
+    <Section id="voting" title={`Voting in ${s.name}`}>
+      <Card>
+        <dl className="divide-y divide-line">
+          {rows.map(([label, value]) => (
+            <div key={label} className="py-3 first:pt-0 sm:grid sm:grid-cols-[10rem_1fr] sm:gap-4">
+              <dt className="text-sm font-medium text-ink-3">{label}</dt>
+              <dd className="mt-0.5 text-md text-ink sm:mt-0">{value}</dd>
+            </div>
+          ))}
+        </dl>
 
-      <dl className="mt-3 divide-y divide-neutral-200 dark:divide-neutral-800">
-        {rows.map(([label, value]) => (
-          <div key={label} className="py-3">
-            <dt className="font-semibold">{label}</dt>
-            <dd className="mt-0.5 text-neutral-800 dark:text-neutral-200">{value}</dd>
-          </div>
-        ))}
-      </dl>
+        <p className="mt-3 rounded-lg border-l-2 border-ink bg-surface-2 px-3 py-2.5 text-md font-medium text-ink">
+          {s.lineRule}
+        </p>
 
-      <p className="mt-3 rounded-md bg-neutral-100 px-3 py-2 font-medium dark:bg-neutral-900">{s.lineRule}</p>
-
-      <p className="mt-4 text-xs text-neutral-600 dark:text-neutral-400">
-        Sources:{" "}
-        {s.sources.map((url, i) => (
-          <span key={url}>
-            {i > 0 && " · "}
-            <a href={url} target="_blank" rel="noopener noreferrer" className="underline underline-offset-2">
-              {new URL(url).hostname.replace(/^www\./, "")}
-            </a>
-          </span>
-        ))}
-        {s.sourceNote && <span className="mt-1 block">{s.sourceNote}</span>}
-      </p>
-    </section>
+        <Footnote>
+          Sources:{" "}
+          {s.sources.map((url, i) => (
+            <span key={url}>
+              {i > 0 && " · "}
+              <ExtLink href={url}>{hostname(url)}</ExtLink>
+            </span>
+          ))}
+          {s.sourceNote && <span className="mt-1 block">{s.sourceNote}</span>}
+        </Footnote>
+      </Card>
+    </Section>
   );
 }
