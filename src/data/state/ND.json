@@ -1,0 +1,203 @@
+{
+  "state": "ND",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the North Dakota Secretary of State's 2026 General Election contest/candidate list (statewide) and official ballot language for the 2026 general election measures. Confirm on your official sample ballot.",
+  "sources": [
+    "https://vip.sos.nd.gov/candidatelist.aspx?eid=348",
+    "https://www.sos.nd.gov/elections/voter/ballot-measures/measures-ballot",
+    "https://www.sos.nd.gov/sites/default/files/documents/elections/measures/ballot-language-2026-general-measure1.pdf",
+    "https://www.sos.nd.gov/sites/default/files/documents/elections/measures/ballot-language-2026-general-measure2.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "District court judge races are by judicial district and are not loaded.",
+    "Justice of the Supreme Court (unexpired 8-year term) has a single candidate, Douglas A Bahr, on the Secretary of State's list.",
+    "Candidate websites not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "nd-sos-2026-howe-michael",
+            "name": "Michael Howe",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nd-sos-2026-braunberger-ryan",
+            "name": "Ryan Braunberger",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "nd-ag-2026-wrigley-drew",
+            "name": "Drew Wrigley",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nd-ag-2026-lamb-tim",
+            "name": "Tim Lamb",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Agriculture Commissioner",
+        "candidates": [
+          {
+            "key": "nd-agr-2026-goehring-doug",
+            "name": "Doug Goehring",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nd-agr-2026-thompson-vern",
+            "name": "Vern Thompson",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Tax Commissioner",
+        "candidates": [
+          {
+            "key": "nd-tax-2026-kroshus-brian",
+            "name": "Brian Kroshus",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nd-tax-2026-nelson-mark",
+            "name": "Mark Nelson",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Public Service Commissioner (6-year term)",
+        "candidates": [
+          {
+            "key": "nd-psc-2026-haugen-hoffart-sheri",
+            "name": "Sheri Haugen-Hoffart",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nd-psc-2026-pederson-john",
+            "name": "John M Pederson",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Public Service Commissioner (unexpired 2-year term)",
+        "candidates": [
+          {
+            "key": "nd-psc2-2026-kringstad-jill",
+            "name": "Jill Kringstad",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nd-psc2-2026-kelsh-scot",
+            "name": "Scot Kelsh",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Superintendent of Public Instruction (unexpired 2-year term, nonpartisan)",
+        "candidates": [
+          {
+            "key": "nd-spi-2026-bachmeier-levi",
+            "name": "Levi Bachmeier",
+            "party": "Nonpartisan",
+            "incumbent": true
+          },
+          {
+            "key": "nd-spi-2026-foss-tracy",
+            "name": "Tracy Layne Foss",
+            "party": "Nonpartisan",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Justice of the Supreme Court (10-year term, nonpartisan)",
+        "candidates": [
+          {
+            "key": "nd-sc-2026-tufte-jerod",
+            "name": "Jerod Tufte",
+            "party": "Nonpartisan",
+            "incumbent": true
+          },
+          {
+            "key": "nd-sc-2026-johnson-ariston",
+            "name": "Ariston E Johnson",
+            "party": "Nonpartisan",
+            "incumbent": false
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      },
+      {
+        "office": "Justice of the Supreme Court (unexpired 8-year term, nonpartisan)",
+        "candidates": [
+          {
+            "key": "nd-sc8-2026-bahr-douglas",
+            "name": "Douglas A Bahr",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Measure No. 1",
+        "title": "Constitutional Measure No. 1 (House Concurrent Resolution No. 3003, 2025 Session Laws, Ch. 614)",
+        "summary": "Placed on the ballot by the 2025 Legislative Assembly, this measure would amend section 9 of article III and section 16 of article IV of the North Dakota Constitution. It would require every proposed constitutional amendment, whether referred by the Legislature or proposed by citizen initiative, to receive at least 60% of the votes cast on the question to pass, instead of a simple majority. The estimated fiscal impact is none.",
+        "yesMeans": "You approve requiring future constitutional amendments to win at least 60% of the vote to be enacted.",
+        "noMeans": "You reject the change; constitutional amendments would continue to pass with a simple majority.",
+        "source": "https://www.sos.nd.gov/sites/default/files/documents/elections/measures/ballot-language-2026-general-measure1.pdf",
+        "moreInfo": "https://ballotpedia.org/North_Dakota_2026_ballot_measures"
+      },
+      {
+        "id": "Initiated Constitutional Measure No. 2",
+        "title": "Initiated Constitutional Measure No. 2",
+        "summary": "A citizen-initiated amendment adding a new section to article VIII of the North Dakota Constitution that would require all public school districts, public schools and public charter schools to provide one breakfast and one lunch each school day to enrolled students at no cost; nonpublic, Bureau of Indian Education and other tribal schools could choose to do the same. The state would reimburse schools at 100% of its current free-meal rates, adjusted yearly for inflation, with the Legislature required to find a funding source or else pay from the legacy earnings fund. The estimated fiscal impact is a $124.3 million to $134.3 million increase in ongoing spending for the 2027-2029 biennium, adjusted for inflation after that.",
+        "yesMeans": "You approve requiring free breakfast and lunch for students in public schools, paid for by the state.",
+        "noMeans": "You reject the measure, and the constitution is not changed.",
+        "source": "https://www.sos.nd.gov/sites/default/files/documents/elections/measures/ballot-language-2026-general-measure2.pdf",
+        "moreInfo": "https://ballotpedia.org/North_Dakota_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
