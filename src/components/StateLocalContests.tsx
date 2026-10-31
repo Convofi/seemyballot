@@ -7,6 +7,8 @@ import {
   type BallotContest,
   type BallotMeasure,
 } from "@/lib/stateBallot";
+import { getPositions } from "@/lib/positions";
+import CandidatePositions from "@/components/CandidatePositions";
 
 export { hasStateBallot, hasCountyBallot } from "@/lib/stateBallot";
 
@@ -117,34 +119,39 @@ const pill =
   "rounded-full bg-neutral-100 px-2 py-0.5 text-xs text-neutral-700 dark:bg-neutral-800 dark:text-neutral-300";
 
 function CandidateRow({ candidate: c }: { candidate: BallotCandidate }) {
+  // No entry = not looked up yet (e.g. write-ins); show nothing rather than imply absence.
+  const positions = c.writeIn ? null : getPositions(c.key);
   return (
-    <li className="flex flex-wrap items-center gap-x-2 gap-y-1 py-3">
-      <span className="font-medium">
-        {c.name}
-        {c.runningMate && (
-          <span className="font-normal text-neutral-600 dark:text-neutral-400"> and {c.runningMate}</span>
-        )}
-      </span>
-      {c.writeIn ? (
-        <span className={pill}>Write-in (not printed on ballot)</span>
-      ) : (
-        <span className={pill}>{c.party}</span>
-      )}
-      {c.incumbent && (
-        <span className="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium dark:border-neutral-700">
-          Incumbent
+    <li className="py-3">
+      <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
+        <span className="font-medium">
+          {c.name}
+          {c.runningMate && (
+            <span className="font-normal text-neutral-600 dark:text-neutral-400"> and {c.runningMate}</span>
+          )}
         </span>
-      )}
-      {c.website && (
-        <a
-          href={c.website}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="ml-auto text-xs text-blue-700 underline hover:text-blue-800 dark:text-blue-400"
-        >
-          Campaign website
-        </a>
-      )}
+        {c.writeIn ? (
+          <span className={pill}>Write-in (not printed on ballot)</span>
+        ) : (
+          <span className={pill}>{c.party}</span>
+        )}
+        {c.incumbent && (
+          <span className="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium dark:border-neutral-700">
+            Incumbent
+          </span>
+        )}
+        {c.website && (
+          <a
+            href={c.website}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="ml-auto text-xs text-blue-700 underline hover:text-blue-800 dark:text-blue-400"
+          >
+            Campaign website
+          </a>
+        )}
+      </div>
+      {positions && <CandidatePositions data={positions} />}
     </li>
   );
 }
