@@ -1,7 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { District, LookupResult } from "@/lib/census";
+import FederalContests from "@/components/FederalContests";
+import { HowToVote, OfficialFallback } from "@/components/HowToVote";
 
 type Status =
   | { kind: "idle" }
@@ -11,28 +13,45 @@ type Status =
 
 const NOT_FOUND = "We couldn't find that address — try adding your city and ZIP.";
 
+async function fetchLookup(q: string): Promise<Status> {
+  try {
+    const res = await fetch(`/api/lookup?address=${encodeURIComponent(q)}`);
+    if (res.status === 404) return { kind: "error", message: NOT_FOUND };
+    if (!res.ok) {
+      return { kind: "error", message: "Address lookup is unavailable right now. Please try again." };
+    }
+    return { kind: "done", result: await res.json() };
+  } catch {
+    return { kind: "error", message: "Network error. Please try again." };
+  }
+}
+
 export default function Home() {
   const [address, setAddress] = useState("");
   const [status, setStatus] = useState<Status>({ kind: "idle" });
+
+  // Shareable links: /?address=... runs the lookup on load.
+  useEffect(() => {
+    const q = new URLSearchParams(window.location.search).get("address")?.trim();
+    if (!q) return;
+    let cancelled = false;
+    fetchLookup(q).then((s) => {
+      if (cancelled) return;
+      setAddress(q);
+      setStatus(s);
+    });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const q = address.trim();
     if (!q) return;
+    window.history.replaceState(null, "", `?address=${encodeURIComponent(q)}`);
     setStatus({ kind: "loading" });
-    try {
-      const res = await fetch(`/api/lookup?address=${encodeURIComponent(q)}`);
-      if (res.status === 404) return setStatus({ kind: "error", message: NOT_FOUND });
-      if (!res.ok) {
-        return setStatus({
-          kind: "error",
-          message: "Address lookup is unavailable right now. Please try again.",
-        });
-      }
-      setStatus({ kind: "done", result: await res.json() });
-    } catch {
-      setStatus({ kind: "error", message: "Network error. Please try again." });
-    }
+    setStatus(await fetchLookup(q));
   }
 
   return (
@@ -108,12 +127,21 @@ function Results({ result: r }: { result: LookupResult }) {
         </dl>
       </section>
 
-      <section className="mt-6 rounded-lg border border-dashed border-neutral-300 p-5 dark:border-neutral-700">
-        <h2 className="text-lg font-semibold">Your contests</h2>
-        <p className="mt-1 text-neutral-600 dark:text-neutral-400">
-          Coming next — we&apos;re verifying data sources.
-        </p>
+      <FederalContests
+        state={r.state.abbr}
+        stateName={r.state.name}
+        district={r.congressionalDistrict?.number ?? null}
+        districtLabel={
+          r.congressionalDistrict?.number ? `District ${r.congressionalDistrict.number}` : "At-Large"
+        }
+      />
+
+      <section className="mt-6 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
+        <h2 className="text-lg font-semibold">State and local contests</h2>
+        <OfficialFallback state={r.state.abbr} what="state legislature, local race, or ballot measure details" />
       </section>
+
+      <HowToVote state={r.state.abbr} />
     </>
   );
 }

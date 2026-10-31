@@ -24,13 +24,17 @@ export default function FederalContests({ state, stateName, district, districtLa
     let cancelled = false;
     fetch(url)
       .then(async (res) => {
-        if (!res.ok) throw new Error();
+        if (!res.ok) {
+          const body = (await res.json().catch(() => null)) as { error?: string } | null;
+          throw new Error(body?.error);
+        }
         const data = (await res.json()) as Data;
         if (!cancelled) setResult({ url, data });
       })
-      .catch(() => {
+      .catch((e: unknown) => {
         if (!cancelled) {
-          setResult({ url, error: "Federal candidate data is unavailable right now. Please try again." });
+          const message = e instanceof Error && e.message ? e.message : null;
+          setResult({ url, error: message ?? "Federal candidate data is unavailable right now. Please try again." });
         }
       });
     return () => {
