@@ -1,0 +1,289 @@
+{
+  "state": "GA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From county-published official sample ballots (Columbia, Fulton and Houston counties) plus the Georgia Secretary of State's certified write-in list and constitutional amendments booklet, because sos.ga.gov blocked automated access. Confirm on your official sample ballot.",
+  "sources": [
+    "https://columbiacountyga.gov/DocumentCenter/View/10721",
+    "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+    "https://www.houstoncountyga.gov/skins/userfiles/files/November%202026%20Sample%20Ballot.pdf",
+    "https://www.columbiacountyga.gov/DocumentCenter/View/10733",
+    "https://www.columbiacountyga.gov/DocumentCenter/View/10734"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded",
+    "sos.ga.gov and the My Voter Page returned a Cloudflare 403 on 2026-10-31, so statewide contests come from three county composite sample ballots (Columbia, Fulton, Houston), which list identical statewide candidates; the write-in list and amendment text are Secretary of State documents republished by Columbia County.",
+    "Columbia County's ballot spells the Democratic Agriculture Commissioner nominee 'Katerine'; Fulton and Houston print 'Katherine', which is used here.",
+    "Certified write-in candidates are listed for Governor only (the SoS final write-in list names none for other statewide offices).",
+    "No statewide Supreme Court or Court of Appeals contests appear on the November ballot (Georgia elects appellate judges in the May nonpartisan election).",
+    "Candidate campaign websites not yet checked.",
+    "No statewide referendum questions appear on the three county ballots checked; local referendums (TSPLOST, ESPLOST, homestead) are not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "ga-gov-2026-jackson-rick",
+            "name": "Rick Jackson",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ga-gov-2026-bottoms-keisha",
+            "name": "Keisha Lance Bottoms",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ga-gov-2026-byrne-david",
+            "name": "David C. Byrne",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "ga-gov-2026-dacosta-jacqueline",
+            "name": "Jacqueline Angela DaCosta",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "ga-gov-2026-davis-deb",
+            "name": "Deb Broughton Davis",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "ga-gov-2026-lofton-milton",
+            "name": "Milton J. Lofton",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "ga-gov-2026-moreland-david",
+            "name": "David Leon Moreland",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "ga-gov-2026-olinger-leland",
+            "name": "Leland Jake Olinger, II",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "ga-gov-2026-pacetti-andrew",
+            "name": "Andrew Pacetti",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ga-ltgov-2026-dolezal-greg",
+            "name": "Greg Dolezal",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ga-ltgov-2026-mclaurin-josh",
+            "name": "Josh McLaurin",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "ga-sos-2026-fleming-tim",
+            "name": "Tim Fleming",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ga-sos-2026-reynolds-penny",
+            "name": "Penny Brown Reynolds",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ga-ag-2026-strickland-brian",
+            "name": "Brian Strickland",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ga-ag-2026-miller-tanya",
+            "name": "Tanya Miller",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "Commissioner of Agriculture",
+        "candidates": [
+          {
+            "key": "ga-agr-2026-harper-tyler",
+            "name": "Tyler Harper",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ga-agr-2026-juhan-arnold-katherine",
+            "name": "Katherine E. Juhan-Arnold",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf"
+      },
+      {
+        "office": "Commissioner of Insurance",
+        "candidates": [
+          {
+            "key": "ga-ins-2026-king-john",
+            "name": "John King",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ga-ins-2026-waites-keisha",
+            "name": "Keisha Sean Waites",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "State School Superintendent",
+        "candidates": [
+          {
+            "key": "ga-supt-2026-woods-richard",
+            "name": "Richard Woods",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ga-supt-2026-powell-lydia",
+            "name": "Lydia Powell",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "Commissioner of Labor",
+        "candidates": [
+          {
+            "key": "ga-labor-2026-holmes-barbara",
+            "name": "Bárbara Rivera Holmes",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ga-labor-2026-porcher-nikki",
+            "name": "Nikki Porcher",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "Public Service Commissioner, District 3 (elected statewide)",
+        "candidates": [
+          {
+            "key": "ga-psc3-2026-johnson-fitz",
+            "name": "Fitz Johnson",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ga-psc3-2026-hubbard-peter",
+            "name": "Peter Hubbard",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      },
+      {
+        "office": "Public Service Commissioner, District 5 (elected statewide)",
+        "candidates": [
+          {
+            "key": "ga-psc5-2026-tolbert-josh",
+            "name": "Josh Tolbert",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ga-psc5-2026-edwards-shelia",
+            "name": "Shelia Edwards",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://columbiacountyga.gov/DocumentCenter/View/10721"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Amendment 1",
+        "title": "Increases the maximum qualifying acreage for assessment and taxation as bona fide conservation use property.",
+        "summary": "Georgia lets owners of qualifying farm and timber land have it taxed on its current agricultural use instead of its market value if they agree to keep it in that use. Right now one owner can enroll at most 2,000 acres. This amendment (House Resolution 32) would raise that cap to 4,000 acres.",
+        "yesMeans": "A single owner could have up to 4,000 acres of farm and timber land taxed at the lower conservation-use rate.",
+        "noMeans": "The cap stays at 2,000 acres per owner.",
+        "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10734",
+        "moreInfo": "https://ballotpedia.org/Georgia_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 2",
+        "title": "Provides for the nonpartisan election of all probate court judges.",
+        "summary": "Probate judges handle wills, estates, guardianships and marriage licenses in each county; today some counties elect them with party labels and others without. This amendment (House Resolution 251) would require every county to elect probate judges in nonpartisan elections, as Georgia already does for superior court, state court and appellate judges.",
+        "yesMeans": "All probate judges in Georgia would be elected without party labels.",
+        "noMeans": "Probate judge elections stay as they are, with some counties continuing to hold partisan elections.",
+        "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10734",
+        "moreInfo": "https://ballotpedia.org/Georgia_2026_ballot_measures"
+      },
+      {
+        "id": "Amendment 3",
+        "title": "Authorizes creation of Georgia Next Generation 9-1-1 Fund for 9-1-1 systems expansion, maintenance, and operation.",
+        "summary": "This amendment (House Resolution 1243) would let the General Assembly create, by law, a Georgia Next Generation 9-1-1 Fund and dedicate revenue from specified sources to it. Money in the fund could be spent only on expanding, maintaining and operating 9-1-1 systems across the state, including the move to Next Generation 9-1-1, and would not lapse back to the general budget at year's end.",
+        "yesMeans": "The legislature may set up a dedicated, non-lapsing fund that can be spent only on 9-1-1 systems.",
+        "noMeans": "No dedicated 9-1-1 fund is authorized in the constitution; 9-1-1 money continues to go through the regular budget process.",
+        "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10734",
+        "moreInfo": "https://ballotpedia.org/Georgia_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
