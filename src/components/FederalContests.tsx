@@ -44,6 +44,9 @@ export default function FederalContests({ state, stateName, district, districtLa
   }, [url]);
 
   const current = result?.url === url ? result : null;
+  const shown = current && "data" in current ? [current.data.senate, current.data.house].filter((c) => c !== null) : [];
+  // Only claim "on the general-election ballot" when every contest shown has nominee data.
+  const fromNominees = shown.length > 0 && shown.every((c) => c.ballotSource === "nominees");
   const houseTitle =
     state === "DC"
       ? "Delegate to the U.S. House — District of Columbia"
@@ -53,8 +56,17 @@ export default function FederalContests({ state, stateName, district, districtLa
     <section className="mt-6">
       <h2 className="text-lg font-semibold">Federal contests</h2>
       <p className="mt-1 text-sm text-neutral-600 dark:text-neutral-400">
-        Source: FEC filings. Candidates who filed for this seat; some may have withdrawn or
-        lost a primary. Confirm on your official sample ballot below.
+        {fromNominees ? (
+          <>
+            Sources: FEC filings and Wikipedia&apos;s 2026 election pages. Confirm on your official
+            sample ballot below.
+          </>
+        ) : (
+          <>
+            Source: FEC filings. Candidates who filed for this seat; some may have withdrawn or
+            lost a primary. Confirm on your official sample ballot below.
+          </>
+        )}
       </p>
 
       <div aria-live="polite" aria-busy={!current}>
@@ -85,6 +97,8 @@ export default function FederalContests({ state, stateName, district, districtLa
 }
 
 function ContestCard({ title, contest }: { title: string; contest: Contest }) {
+  const nominees = contest.ballotSource === "nominees";
+  const filers = `${contest.other.length} other FEC ${contest.other.length === 1 ? "filer" : "filers"}`;
   return (
     <div className="mt-4 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
       <h3 className="font-semibold">{title}</h3>
@@ -93,13 +107,21 @@ function ContestCard({ title, contest }: { title: string; contest: Contest }) {
           No FEC filings found for this seat.
         </p>
       ) : (
-        <CandidateList candidates={contest.likely} />
+        <>
+          {nominees && (
+            <h4 className="mt-2 text-xs font-semibold uppercase tracking-wide text-neutral-500">
+              On the general-election ballot
+            </h4>
+          )}
+          <CandidateList candidates={contest.likely} />
+        </>
       )}
       {contest.other.length > 0 && (
         <details className="mt-2">
           <summary className="cursor-pointer py-2 text-sm text-neutral-600 dark:text-neutral-400">
-            Show {contest.other.length} other FEC {contest.other.length === 1 ? "filer" : "filers"} (may
-            have withdrawn or lost a primary)
+            {nominees
+              ? `Show ${filers} (not on the general ballot: lost a primary, withdrew, or write-in)`
+              : `Show ${filers} (may have withdrawn or lost a primary)`}
           </summary>
           <CandidateList candidates={contest.other} />
         </details>
@@ -117,7 +139,7 @@ function CandidateList({ candidates }: { candidates: Candidate[] }) {
             <span className="font-medium">{c.name}</span>
             <span
               className="rounded-full bg-neutral-100 px-2 py-0.5 text-xs text-neutral-700 dark:bg-neutral-800 dark:text-neutral-300"
-              title={`FEC party code: ${c.partyCode || "none"}`}
+              title={c.fecUrl ? `FEC party code: ${c.partyCode || "none"}` : "Party per Wikipedia"}
             >
               {c.party}
             </span>
@@ -126,14 +148,21 @@ function CandidateList({ candidates }: { candidates: Candidate[] }) {
                 Incumbent
               </span>
             )}
-            <a
-              href={c.fecUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="ml-auto text-xs text-blue-700 underline hover:text-blue-800 dark:text-blue-400"
-            >
-              FEC filing
-            </a>
+            {c.writeIn && (
+              <span className="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium dark:border-neutral-700">
+                Write-in
+              </span>
+            )}
+            {c.fecUrl && (
+              <a
+                href={c.fecUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="ml-auto text-xs text-blue-700 underline hover:text-blue-800 dark:text-blue-400"
+              >
+                FEC filing
+              </a>
+            )}
           </div>
           {/* No entry = not looked up yet; show nothing rather than imply absence. */}
           {c.positions && <Positions data={c.positions} />}
