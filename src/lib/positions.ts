@@ -20,7 +20,11 @@ export type Position = {
   sourceUrl: string;
 };
 
-export type PositionsStatus = "ok" | "no_website_found" | "website_no_issues_page" | "error";
+/**
+ * "website_unreachable": the official site is known (website set) but blocks
+ * automated reading (e.g. bot protection), so positions are [].
+ */
+export type PositionsStatus = "ok" | "no_website_found" | "website_no_issues_page" | "website_unreachable" | "error";
 
 export type CandidatePositions = {
   name: string;

@@ -5,6 +5,7 @@
 // then fetches every website and sourceUrl. Exit 0 = pass, 1 = fail.
 //
 //   node scripts/positions-merge-check.mjs src/data/positions/batch-001.json
+//   node scripts/positions-merge-check.mjs /tmp/batch-001.json --queue src/data/positions/queue/batch-001.json
 import { readFileSync } from "node:fs";
 import { basename, join, resolve } from "node:path";
 
@@ -14,7 +15,7 @@ const BROWSER_HEADERS = {
   Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
   "Accept-Language": "en-US,en;q=0.9",
 };
-const STATUSES = new Set(["ok", "no_website_found", "website_no_issues_page"]);
+const STATUSES = new Set(["ok", "no_website_found", "website_no_issues_page", "website_unreachable"]);
 // Never a campaign's own site.
 const BANNED_HOSTS =
   /(^|\.)(ballotpedia\.org|wikipedia\.org|votesmart\.org|vote411\.org|fec\.gov|facebook\.com|x\.com|twitter\.com|instagram\.com|linkedin\.com|youtube\.com|tiktok\.com|linktr\.ee|nytimes\.com|washingtonpost\.com|politico\.com|apnews\.com|cnn\.com|foxnews\.com)$|\.gov$/i;
@@ -25,7 +26,12 @@ if (!file || !/^batch-\d{3,}\.json$/.test(basename(file))) {
   console.error("Usage: node scripts/positions-merge-check.mjs src/data/positions/batch-<nnn>.json");
   process.exit(1);
 }
-const queuePath = join(import.meta.dirname, "..", "src", "data", "positions", "queue", basename(file));
+// --queue <path> overrides the default queue/<same name> (e.g. to check a temp copy).
+const qi = process.argv.indexOf("--queue");
+const queuePath =
+  qi > 0 && process.argv[qi + 1]
+    ? resolve(process.argv[qi + 1])
+    : join(import.meta.dirname, "..", "src", "data", "positions", "queue", basename(file));
 
 const errors = [];
 const warnings = [];
@@ -88,7 +94,8 @@ for (const [key, e] of Object.entries(data)) {
   if (e.website !== null) {
     if (!siteHost) fail(where, `website is not an http(s) URL: ${JSON.stringify(e.website)}`);
     else if (BANNED_HOSTS.test(siteHost)) fail(where, `website ${e.website} is not a campaign's own site`);
-    else needUrl(e.website, `${where} website`);
+    // website_unreachable: the site is known but blocks automated reads, so skip the fetch.
+    else if (e.status !== "website_unreachable") needUrl(e.website, `${where} website`);
   }
   if (e.status === "no_website_found" && e.website !== null) fail(where, "no_website_found must have website: null");
   if (e.status !== "no_website_found" && e.website === null) fail(where, `status ${e.status} needs a website`);
@@ -154,7 +161,8 @@ const count = (s) => entries.filter((e) => e?.status === s).length;
 console.log(`Batch ${basename(file)} vs queue/${basename(queuePath)}`);
 console.log(
   `  ${queued.size - missing.length}/${queued.size} queued candidates covered: ${count("ok")} ok, ` +
-    `${count("website_no_issues_page")} website_no_issues_page, ${count("no_website_found")} no_website_found`,
+    `${count("website_no_issues_page")} website_no_issues_page, ${count("website_unreachable")} website_unreachable, ` +
+    `${count("no_website_found")} no_website_found`,
 );
 console.log(`  ${loaded}/${list.length} URLs loaded`);
 if (warnings.length) {

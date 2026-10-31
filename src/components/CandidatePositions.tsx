@@ -1,5 +1,5 @@
 import type { CandidatePositions as Data } from "@/lib/positions";
-import { ExtLink } from "@/components/ui";
+import { ExtLink, hostname } from "@/components/ui";
 
 // Bio plus "where they stand, in their own words" for one candidate. The
 // campaign website link lives in the candidate's meta line (Candidate.tsx).
@@ -28,6 +28,11 @@ export default function CandidatePositions({ data }: { data: Data }) {
             ))}
           </ul>
         </div>
+      ) : data.status === "website_unreachable" && data.website ? (
+        <p className="mt-1 text-sm text-ink-3">
+          Campaign site: <ExtLink href={data.website}>{hostname(data.website)}</ExtLink> (we couldn&apos;t read it
+          automatically; check it for their positions)
+        </p>
       ) : (
         <p className="mt-1 text-sm text-ink-3">No campaign website with an issues page found.</p>
       )}

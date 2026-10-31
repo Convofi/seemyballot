@@ -49,6 +49,17 @@ Every key in the queue file must appear in your output, and no other key.
      positions. `positions: []`, `website` set.
    - `no_website_found`: no official campaign site you could confirm.
      `website: null`, `bio: null`, `positions: []`.
+   - `website_unreachable`: you know the official site but cannot read it
+     automatically (e.g. bot protection returns HTTP 403). `website` set to the
+     known URL, `positions: []`, `bio` may be null. Use it **only** when both:
+     (a) the site is confirmed to be the candidate's own by an authoritative
+     listing (the FEC committee record, Wikipedia's official-campaign-site list,
+     Ballotpedia's campaign-website link, or the state certified list /
+     `knownWebsite`), **and** (b) it fails to load both via the curl command in
+     rule 10 and via headless Chrome:
+     `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu --dump-dom URL`.
+     If headless Chrome renders it, research it normally. Never use this for a
+     site you merely guessed. The gate checks the host but does not fetch it.
 10. **Verify every URL loads with curl** before writing it down (2xx or 3xx):
 
     ```sh
@@ -57,7 +68,8 @@ Every key in the queue file must appear in your output, and no other key.
       "https://example-campaign.com/issues/"
     ```
 
-    If a page won't load, don't use it.
+    If a page won't load, don't use it (the one exception is a confirmed
+    official home page recorded as `website_unreachable`, see rule 9).
 11. **Run the gate** and fix everything it reports until it prints `PASS`.
 12. **Commit only your batch file.** Do not edit the queue file, other batch
     files, the seed, or any code.
@@ -75,7 +87,7 @@ in `src/lib/positions.ts`):
     "website": "https://campaign-home-page/" | null,
     "bio": "One neutral sentence." | null,
     "positions": [ { "topic": "...", "stance": "...", "sourceUrl": "https://..." } ],  // 0-5
-    "status": "ok" | "website_no_issues_page" | "no_website_found",
+    "status": "ok" | "website_no_issues_page" | "website_unreachable" | "no_website_found",
     "generatedAt": "2026-11-01",   // ISO date you did the research
     "method": "agent"
   }
