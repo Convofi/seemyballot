@@ -1,0 +1,36 @@
+{
+  "state": "WV",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "West Virginia has no statewide state offices on the November 3, 2026 ballot; Amendment 1 is from the Legislature's enrolled Senate Joint Resolution 9 and the Secretary of State's public notice. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sjr9%20sub1%20enr.htm&yr=2026&sesstype=RS&i=9&houseorig=s&billtype=jr",
+    "https://moorefieldexaminer.com/2026/08/04/public-notice-proposed-amendment-to-the-wv-constitution-to-be-on-the-november-3-2026-general-election-ballot/",
+    "https://wvpublic.org/story/government/sec-of-state-formally-announces-ballot-amendment/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "No statewide executive offices are up in West Virginia in 2026; Supreme Court of Appeals and other judicial seats were decided in the nonpartisan May 12, 2026 election, so none appear here.",
+    "The Secretary of State's site (sos.wv.gov) had no 2026 amendment page we could load, so Amendment 1's title and text come from the enrolled resolution on wvlegislature.gov and the Secretary of State's legal notice as printed in the Moorefield Examiner.",
+    "A homestead exemption amendment (HJR 42) was reported in March 2026 as headed to the ballot but later reporting says it did not make the ballot, and the Secretary of State's public notice lists only Amendment 1."
+  ],
+  "statewide": {
+    "contests": [],
+    "measures": [
+      {
+        "id": "Amendment 1",
+        "title": "Citizenship Requirement to Vote in West Virginia Elections Amendment",
+        "summary": "Placed on the ballot by the Legislature (Senate Joint Resolution 9), this amendment would rewrite Article IV, Section 1 of the West Virginia Constitution to say that only citizens of the United States who are citizens of West Virginia are entitled to vote in elections held in the state. The rest of the section, covering minors, people declared mentally incompetent, certain convictions, the 30-day residency rule, and military residency, stays the same.",
+        "yesMeans": "You approve amending the West Virginia Constitution to state that only U.S. citizens who are citizens of West Virginia may vote in elections held in the state.",
+        "noMeans": "The constitution keeps its current wording on who may vote; voter qualifications set by existing state and federal law are unchanged.",
+        "source": "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sjr9%20sub1%20enr.htm&yr=2026&sesstype=RS&i=9&houseorig=s&billtype=jr",
+        "moreInfo": "https://news.ballotpedia.org/2026/03/19/west-virginia-becomes-the-fourth-state-to-put-a-citizenship-voting-requirement-amendment-on-the-2026-ballot/"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
