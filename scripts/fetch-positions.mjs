@@ -6,6 +6,10 @@
 //   ANTHROPIC_API_KEY=... npm run fetch-positions -- --state OH
 //   ANTHROPIC_API_KEY=... npm run fetch-positions -- --key H2OH03125
 //   ANTHROPIC_API_KEY=... npm run fetch-positions -- --all
+//   ANTHROPIC_API_KEY=... npm run fetch-positions -- --state-ballot OH [--key oh-gov-2026-acton-amy]
+//
+// --state-ballot reads every non-write-in candidate in src/data/state/XX.json
+// (statewide, legislative, county, municipal) and keys them by their slug.
 //
 // Candidates = the "likely" tier of src/data/fec2026.json (same rules as
 // src/lib/fec.ts). Resumable: keys already "ok" are skipped (hand-written
@@ -33,10 +37,13 @@ const argValue = (flag) => {
   return i === -1 ? null : (args[i + 1] ?? null);
 };
 const onlyState = argValue("--state")?.toUpperCase() ?? null;
+const stateBallot = argValue("--state-ballot")?.toUpperCase() ?? null;
 const onlyKey = argValue("--key");
 const all = args.includes("--all");
-if (!onlyState && !onlyKey && !all) {
-  console.error("Usage: npm run fetch-positions -- (--state OH | --key H2OH03125 | --all)");
+if (!onlyState && !onlyKey && !all && !stateBallot) {
+  console.error(
+    "Usage: npm run fetch-positions -- (--state OH | --key H2OH03125 | --all | --state-ballot OH [--key slug])",
+  );
   process.exit(1);
 }
 if (!process.env.ANTHROPIC_API_KEY) {
@@ -107,6 +114,39 @@ function candidates(fec) {
   return out;
 }
 
+// ---------- state/local ballot (src/data/state/XX.json) ----------
+const JUDICIAL = /\b(judge|justice)\b/i;
+
+function ballotCandidates(ballot) {
+  const out = [];
+  const add = (contests, where) => {
+    for (const contest of contests)
+      for (const c of contest.candidates) {
+        if (c.writeIn) continue;
+        if (onlyKey && c.key !== onlyKey) continue;
+        out.push({
+          key: c.key,
+          name: c.name,
+          party: c.party,
+          incumbent: c.incumbent,
+          state: ballot.state,
+          office: contest.office,
+          where,
+          website: c.website ?? null,
+          judicial: JUDICIAL.test(contest.office),
+        });
+      }
+  };
+  add(ballot.statewide.contests, `statewide, ${ballot.state}`);
+  for (const chamber of ["senate", "house"])
+    add(Object.values(ballot.legislative[chamber]), ballot.state);
+  for (const [county, cb] of Object.entries(ballot.counties)) {
+    add(cb.contests, `${county}, ${ballot.state}`);
+    for (const [place, mb] of Object.entries(cb.municipalities)) add(mb.contests, `${place}, ${county}, ${ballot.state}`);
+  }
+  return out;
+}
+
 // ---------- Claude ----------
 const SCHEMA = {
   type: "object",
@@ -136,7 +176,7 @@ const SYSTEM = `You research U.S. election candidates for a strictly nonpartisan
 You report only what a candidate says about themselves on their OWN official campaign website.
 
 Steps:
-1. Use web_search to find the candidate's official ${ELECTION_YEAR} campaign website. Directories such as Ballotpedia or FEC may help you find the address, but the website must be the campaign's own domain — never Ballotpedia, Wikipedia, Vote Smart, news sites, social media, or an official government (.gov) office site.
+1. Use web_search to find the candidate's official ${ELECTION_YEAR} campaign website. If the request gives a "Known website", start there, but still verify it in step 2 (domains lapse and get taken over). Directories such as Ballotpedia or FEC may help you find the address, but the website must be the campaign's own domain — never Ballotpedia, Wikipedia, Vote Smart, news sites, social media, or an official government (.gov) office site.
 2. Use web_fetch to open the site. Accept it only if the page text names this candidate AND the office or race they are running for. If you cannot confirm both, treat it as not found.
 3. Find and web_fetch its issues / priorities / platform page (sometimes titled "Issues", "Priorities", "Platform", "Our Fight", "Where I Stand", or a section of the home page).
 4. Return JSON:
@@ -152,18 +192,24 @@ Hard rules:
 - Use only text you actually fetched in this conversation. No outside knowledge, no inference, no summaries of voting records, news coverage, or opponents' claims.
 - Never construct, guess, or shorten a URL. Every URL must be one you fetched successfully.
 - No adjectives of your own, no evaluation, no comparison with other candidates.
-- If there is no issues content, return positions: [] with the matching status. An empty answer is always better than a guessed one.`;
+- If there is no issues content, return positions: [] with the matching status. An empty answer is always better than a guessed one.
+- Judicial candidates (judges, justices): the code of judicial conduct bars them from promising how they would rule, so most sites state no issue positions. Report a position only if the site has an explicit section where the candidate states what they will do or believe as a judge (e.g. "My judicial philosophy"), quoting it closely. Never turn biography, experience, credentials, endorsements, ratings, or campaign slogans into positions; in that case return positions: [] and status "website_no_issues_page".`;
 
 async function askClaude(client, c) {
-  const race = c.district ? `${c.office}, ${c.state} district ${Number(c.district)}` : `${c.office}, ${c.state}`;
-  const messages = [
-    {
-      role: "user",
-      content:
-        `Candidate: ${c.name}\nParty (FEC code): ${c.party ?? "none"}\nRace: ${race} (${ELECTION_YEAR})\n` +
-        `${c.incumbent ? "Currently holds this seat.\n" : ""}FEC candidate ID: ${c.key}`,
-    },
-  ];
+  let content;
+  if (c.where) {
+    content =
+      `Candidate: ${c.name}\nParty on ballot: ${c.party}\nOffice: ${c.office} (${c.where}), ` +
+      `general election ${ELECTION_YEAR}\n${c.incumbent ? "Currently holds this seat.\n" : ""}` +
+      (c.website ? `Known website (verify before using): ${c.website}\n` : "") +
+      (c.judicial ? "This is a judicial office.\n" : "");
+  } else {
+    const race = c.district ? `${c.office}, ${c.state} district ${Number(c.district)}` : `${c.office}, ${c.state}`;
+    content =
+      `Candidate: ${c.name}\nParty (FEC code): ${c.party ?? "none"}\nRace: ${race} (${ELECTION_YEAR})\n` +
+      `${c.incumbent ? "Currently holds this seat.\n" : ""}FEC candidate ID: ${c.key}`;
+  }
+  const messages = [{ role: "user", content }];
   // Server tools can pause a long turn; resend the paused turn to continue.
   for (let turn = 0; turn < 6; turn++) {
     const stream = client.beta.messages.stream({
@@ -181,6 +227,7 @@ async function askClaude(client, c) {
       messages,
     });
     const msg = await stream.finalMessage();
+    tally(msg.usage);
     if (msg.stop_reason === "pause_turn") {
       messages.push({ role: "assistant", content: msg.content });
       continue;
@@ -193,6 +240,18 @@ async function askClaude(client, c) {
   }
   throw new Error("still paused after 6 turns");
 }
+
+// ---------- usage tally (Opus 5.5: $4 in / $20 out / $5 cache write / $0.20 cache read per MTok; $10 per 1k searches) ----------
+const usage = { input: 0, output: 0, cacheWrite: 0, cacheRead: 0, searches: 0 };
+function tally(u) {
+  usage.input += u.input_tokens ?? 0;
+  usage.output += u.output_tokens ?? 0;
+  usage.cacheWrite += u.cache_creation_input_tokens ?? 0;
+  usage.cacheRead += u.cache_read_input_tokens ?? 0;
+  usage.searches += u.server_tool_use?.web_search_requests ?? 0;
+}
+const cost = () =>
+  (usage.input * 4 + usage.output * 20 + usage.cacheWrite * 5 + usage.cacheRead * 0.2) / 1e6 + usage.searches * 0.01;
 
 // ---------- link check ----------
 async function loads(url) {
@@ -233,7 +292,9 @@ async function verify(result) {
 }
 
 // ---------- main ----------
-const fec = JSON.parse(await readFile(FEC, "utf8"));
+const list = stateBallot
+  ? ballotCandidates(JSON.parse(await readFile(new URL(`../src/data/state/${stateBallot}.json`, import.meta.url), "utf8")))
+  : candidates(JSON.parse(await readFile(FEC, "utf8")));
 let data = {};
 try {
   data = JSON.parse(await readFile(OUT, "utf8"));
@@ -248,7 +309,7 @@ const save = () =>
     return writeFile(OUT, JSON.stringify(sorted, null, 1) + "\n");
   }));
 
-const todo = candidates(fec).filter((c) => data[c.key]?.status !== "ok" && data[c.key]?.method !== "manual");
+const todo = list.filter((c) => data[c.key]?.status !== "ok" && data[c.key]?.method !== "manual");
 console.log(`${todo.length} candidate(s) to look up.`);
 const client = new Anthropic();
 
@@ -286,4 +347,13 @@ await Promise.all(
     while (queue.length) await work(queue.shift());
   }),
 );
-console.log("Done.");
+const counts = {};
+for (const c of list) {
+  const st = data[c.key]?.status ?? "missing";
+  counts[st] = (counts[st] ?? 0) + 1;
+}
+console.log(
+  `Done. ${list.length} candidate(s): ${JSON.stringify(counts)}. This run: ` +
+    `${usage.input} in / ${usage.output} out / ${usage.cacheWrite} cache-write / ${usage.cacheRead} cache-read tokens, ` +
+    `${usage.searches} searches, ~$${cost().toFixed(2)}.`,
+);
