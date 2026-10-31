@@ -1,0 +1,190 @@
+{
+  "state": "AR",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Arkansas Secretary of State's candidate filing search and referred-measure notices, checked against an official Crittenden County sample ballot. Confirm on your official sample ballot.",
+  "sources": [
+    "https://candidates.arkansas.gov/",
+    "https://www.sos.arkansas.gov/elections/initiatives-and-referenda/",
+    "https://www.sos.arkansas.gov/uploads/elections/Issue_No._1_HJR_1018_of_2026_.pdf_.pdf",
+    "https://www.sos.arkansas.gov/uploads/elections/Issue_No._2_SJR_11_of_2026_.pdf",
+    "https://www.sos.arkansas.gov/uploads/elections/Issue_No._3_SJR_15_of_2026_.pdf",
+    "https://www.sos.arkansas.gov/uploads/elections/Issue_No._4_Act_578_of_2026_.pdf",
+    "https://www.uaex.uada.edu/business-communities/ced-blog/posts/2026/august/Crittenden%20County%202026.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded",
+    "Ballots print some candidates with official titles (e.g. 'Governor Sarah Huckabee Sanders', 'State Senator Fred Love', 'Secretary of State Cole Jester'); names here omit the titles.",
+    "Candidate order follows the Crittenden County sample ballot; Arkansas sets ballot order by lot in each county, so your ballot may list candidates in a different order.",
+    "No statewide judicial contests: Arkansas Supreme Court seats were decided in the March 3, 2026 nonpartisan election. November nonpartisan judicial runoffs (circuit/district) are local and not loaded.",
+    "Arkansas ballots include an 'Unopposed Candidates' line covering unopposed local candidates not listed elsewhere; not shown here.",
+    "Certified write-in candidates for statewide offices were not checked."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "ar-gov-2026-shelby-colt",
+            "name": "Colt Shelby",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "ar-gov-2026-sanders-sarah",
+            "name": "Sarah Huckabee Sanders",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ar-gov-2026-love-fred",
+            "name": "Fred Love",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://candidates.arkansas.gov/"
+      },
+      {
+        "office": "Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ar-ltgov-2026-rutledge-leslie",
+            "name": "Leslie Rutledge",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ar-ltgov-2026-kalagias-michael",
+            "name": "Michael Kalagias",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://candidates.arkansas.gov/"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "ar-sos-2026-pakko-michael",
+            "name": "Michael Pakko",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "ar-sos-2026-hammer-kim",
+            "name": "Kim Hammer",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ar-sos-2026-grappe-kelly",
+            "name": "Kelly Grappe",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://candidates.arkansas.gov/"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ar-ag-2026-griffin-tim",
+            "name": "Tim Griffin",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidates.arkansas.gov/"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "ar-treas-2026-thurston-john",
+            "name": "John Thurston",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidates.arkansas.gov/"
+      },
+      {
+        "office": "Auditor of State",
+        "candidates": [
+          {
+            "key": "ar-aud-2026-milligan-dennis",
+            "name": "Dennis Milligan",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://candidates.arkansas.gov/"
+      },
+      {
+        "office": "Commissioner of State Lands",
+        "candidates": [
+          {
+            "key": "ar-lands-2026-olson-christopher",
+            "name": "Christopher Olson",
+            "party": "Libertarian",
+            "incumbent": false
+          },
+          {
+            "key": "ar-lands-2026-jester-cole",
+            "name": "Cole Jester",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://candidates.arkansas.gov/"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Issue 1",
+        "title": "The Citizens Only Voting Amendment",
+        "summary": "Referred by the legislature (HJR 1018 of 2025), this amendment rewrites Article 3, Section 1 of the Arkansas Constitution to state that only a U.S. citizen who meets the constitution's voter qualifications may vote in an election in Arkansas, and that anyone who does not meet those qualifications may not vote in any state or local election. The existing qualifications (citizen, Arkansas resident, at least 18, registered) and photo ID provisions stay in place. It would take effect January 1, 2027.",
+        "yesMeans": "You want the Arkansas Constitution to say expressly that only U.S. citizens meeting the voter qualifications may vote in any state or local election in Arkansas.",
+        "noMeans": "You want to leave Article 3, Section 1 as it is; the current list of voter qualifications, which already includes U.S. citizenship, stays unchanged.",
+        "source": "https://www.sos.arkansas.gov/uploads/elections/Issue_No._1_HJR_1018_of_2026_.pdf_.pdf",
+        "moreInfo": "https://ballotpedia.org/Arkansas_Issue_1,_Citizenship_Voting_Requirement_Amendment_(2026)"
+      },
+      {
+        "id": "Issue 2",
+        "title": "A Constitutional Amendment to Amend Arkansas Constitution, Article 2, § 5, to Protect the Right to Keep and Bear Arms",
+        "summary": "Referred by the legislature (SJR 11 of 2025), this amendment expands the constitution's right-to-bear-arms section to cover keeping and bearing arms for common defense, lawful hunting and recreation, and any other lawful purpose. It says the right includes possessing and using ammunition, firearm accessories, and firearm components, and calls it a natural, fundamental, and individual right that shall not be infringed. It would take effect January 1, 2027.",
+        "yesMeans": "You want the broader right-to-bear-arms language, including ammunition, accessories and components and the 'shall not be infringed' wording, added to the Arkansas Constitution.",
+        "noMeans": "You want to keep the current constitutional text, which protects the right to keep and bear arms for the citizens' common defense.",
+        "source": "https://www.sos.arkansas.gov/uploads/elections/Issue_No._2_SJR_11_of_2026_.pdf",
+        "moreInfo": "https://ballotpedia.org/Arkansas_Issue_2,_Right_to_Keep_and_Bear_Arms_Amendment_(2026)"
+      },
+      {
+        "id": "Issue 3",
+        "title": "A Constitutional Amendment Concerning Economic Development in the State of Arkansas; and Authorizing the General Assembly to Provide for the Creation of Economic Development Districts",
+        "summary": "Referred by the legislature (SJR 15 of 2025), this amendment lets the General Assembly create economic development programs and make loans and grants of public money, including by creating economic development districts within cities, counties or cooperative areas. Such districts could issue bonds that do not count toward certain constitutional debt limits and voter-approval requirements, and property inside a district would be exempt from other property taxes except those levied by the district (already tax-exempt property keeps its status). Local governments could also fund or lend credit to these districts; it would take effect January 1, 2027.",
+        "yesMeans": "You want the legislature to be able to create economic development districts that can issue bonds and levy their own taxes, and to make economic development loans and grants of public money.",
+        "noMeans": "You want to keep the current constitutional limits on economic development financing, with no new economic development districts authorized.",
+        "source": "https://www.sos.arkansas.gov/uploads/elections/Issue_No._3_SJR_15_of_2026_.pdf",
+        "moreInfo": "https://ballotpedia.org/Arkansas_Issue_3,_Authorize_Legislature_to_Create_Programs_for_Economic_Development_Including_Economic_Development_Districts_Amendment_(2026)"
+      },
+      {
+        "id": "Issue 4",
+        "title": "Arkansas Water, Waste Disposal, and Pollution Abatement Facilities Financing Act of 2025",
+        "summary": "Referred by the legislature (Act 578 of 2025), this measure asks whether the Arkansas Natural Resources Commission may issue up to $500 million in state general obligation bonds for water, waste disposal, water pollution control, drainage, irrigation, flood control and wetlands projects. No more than $165 million could go to irrigation, and no more than $60 million could be issued in any two-year period without prior approval of the General Assembly. The bonds would be backed by the full faith and credit of the State of Arkansas.",
+        "yesMeans": "You authorize the Natural Resources Commission to issue up to $500 million in state-backed general obligation bonds for water and related projects.",
+        "noMeans": "You do not authorize these bonds.",
+        "source": "https://www.sos.arkansas.gov/uploads/elections/Issue_No._4_Act_578_of_2026_.pdf",
+        "moreInfo": "https://ballotpedia.org/Arkansas_Issue_4,_Natural_Resources_Commission_Bond_Measure_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
