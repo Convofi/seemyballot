@@ -1,0 +1,64 @@
+{
+  "state": "CT",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide races are from official Connecticut Secretary of the State town sample ballots (Westport and North Branford); no statewide ballot question appears on them. Confirm on your official sample ballot.",
+  "sources": [
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/westport_sample.pdf",
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/north-branford_sample.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Judge of Probate and Registrar of Voters (elected by probate district and town) not yet loaded.",
+    "Connecticut uses cross-endorsement: Ned Lamont/Susan Bysiewicz, Stephanie Thomas, Erick Russell, Sean Scanlon and William Tong also appear on the Working Families Party line; Ryan Fazio/Matt Corey and Fred Wilms also appear on the Independent Party line, as do Stephanie Thomas and Sean Scanlon. Each candidate is listed once under their Democratic or Republican nomination.",
+    "Connecticut has no statewide judicial elections (judges are appointed).",
+    "No certified write-in candidates checked; the official write-in list was not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          { "key": "ct-gov-2026-lamont-ned", "name": "Ned Lamont", "party": "Democratic", "runningMate": "Susan Bysiewicz", "incumbent": true },
+          { "key": "ct-gov-2026-fazio-ryan", "name": "Ryan Fazio", "party": "Republican", "runningMate": "Matt Corey", "incumbent": false }
+        ],
+        "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/westport_sample.pdf"
+      },
+      {
+        "office": "Secretary of the State",
+        "candidates": [
+          { "key": "ct-sots-2026-thomas-stephanie", "name": "Stephanie Thomas", "party": "Democratic", "incumbent": true },
+          { "key": "ct-sots-2026-lumaj-peter", "name": "Peter Lumaj", "party": "Republican", "incumbent": false }
+        ],
+        "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/westport_sample.pdf"
+      },
+      {
+        "office": "Treasurer",
+        "candidates": [
+          { "key": "ct-treas-2026-russell-erick", "name": "Erick Russell", "party": "Democratic", "incumbent": true },
+          { "key": "ct-treas-2026-wilms-fred", "name": "Fred Wilms", "party": "Republican", "incumbent": false }
+        ],
+        "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/westport_sample.pdf"
+      },
+      {
+        "office": "Comptroller",
+        "candidates": [
+          { "key": "ct-comp-2026-scanlon-sean", "name": "Sean Scanlon", "party": "Democratic", "incumbent": true },
+          { "key": "ct-comp-2026-tooker-jennifer", "name": "Jennifer S. Tooker", "party": "Republican", "incumbent": false }
+        ],
+        "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/westport_sample.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          { "key": "ct-ag-2026-tong-william", "name": "William Tong", "party": "Democratic", "incumbent": true },
+          { "key": "ct-ag-2026-bolton-john", "name": "John Bolton", "party": "Republican", "incumbent": false }
+        ],
+        "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-2026/westport_sample.pdf"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": { "senate": {}, "house": {} },
+  "counties": {}
+}
