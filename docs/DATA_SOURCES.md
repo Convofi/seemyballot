@@ -118,9 +118,12 @@ Base: `https://api.open.fec.gov/v1/`. `api_key=DEMO_KEY` works, but the response
 GET /v1/candidates/?api_key=DEMO_KEY&state=OH&district=03&office=H&election_year=2026&per_page=50&sort=name
 pagination: {count: 4}
 H2OH03125 BEATTY, JOYCE        DEM  incumbent_challenge=I  candidate_status=C  has_raised_funds=True
-H6OH03183 BIRD, MICHELLE LINDA NON  N  C  False
-H6OH03175 DIALS, SANTANA JADE  W    N  C  False
-H0OH03137 DULANEY, CLEOPHUS    REP  N  C  False
+H6OH03183 BIRD, MICHELLE LINDA NON  incumbent_challenge=C  candidate_status=N  has_raised_funds=False
+H6OH03175 DIALS, SANTANA JADE  W    incumbent_challenge=C  candidate_status=N  has_raised_funds=False
+H0OH03137 DULANEY, CLEOPHUS    REP  incumbent_challenge=C  candidate_status=N  has_raised_funds=False
+# Corrected 2026-10-31: these three are candidate_status=N, not C. Dulaney is the
+# REP nominee, so filtering on candidate_status=C or has_raised_funds drops him.
+# /candidates/search/ also omits him (no principal committee); use /candidates/.
 ```
 Full record fields (trimmed): `candidate_id, name, party, party_full, office, state, district, incumbent_challenge (I/C/O), incumbent_challenge_full, candidate_status (C=statutory candidate), candidate_inactive, inactive_election_years, election_years[], cycles[], has_raised_funds, first_file_date, last_file_date, active_through`.
 
@@ -138,7 +141,7 @@ count: 16  → includes HUSTED, JON (REP, I), BROWN, SHERROD (DEM, C), ODE, FRED
 
 **How to tell…**
 - *Party:* `party` / `party_full`. These are as filed and can be `NON`, `W` or `IND`.
-- *Incumbent:* `incumbent_challenge == "I"`. Caveat: this means "currently holds the seat", **not** "is running in the general election". A retiring incumbent still shows `I`, so verify each case (for example McCaul in TX-10).
+- *Incumbent:* `incumbent_challenge == "I"`. Caveat: this means "currently holds the seat", **not** "is running in the general election". A retiring incumbent still shows `I`, so verify each case (for example McCaul in TX-10). However, `inactive_election_years` does include `2026` for candidates who told FEC they are not running: McCaul (TX-10, retiring), Norton (DC, retiring) and Hageman (WY-00, running for Senate instead) all have `inactive_election_years: [2026]` and `candidate_inactive: true`. Drop those.
 - *On the general ballot / lost a primary:* **The FEC has no field for this.** `candidate_status`, `candidate_inactive` and `election_years` do not reflect primary results or ballot qualification. Every OH Senate filer shows `candidate_inactive=False`. Primary losers stay listed indefinitely.
 
 **Verdict:** use FEC for candidate IDs, party, finance links (`https://www.fec.gov/data/candidate/{candidate_id}/`) and as a cross-check. **Do not render the FEC list as the ballot.**
