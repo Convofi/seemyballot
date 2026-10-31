@@ -1,0 +1,155 @@
+{
+  "state": "WA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Washington Secretary of State's official 2026 General Election Voters' Pamphlet (statewide section); Washington has no statewide executive offices on the 2026 ballot. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf",
+    "https://www.sos.wa.gov/elections/data-research/election-data-and-maps/election-results-and-voters-pamphlets/2026-general-election-voters-guide/2026-voters-pamphlet-pdfs",
+    "https://www.sos.wa.gov/node/12667",
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=99"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Court of Appeals and Superior Court judicial races (district-based) not yet loaded.",
+    "Candidate order follows the voters' pamphlet; the printed ballot order may differ.",
+    "Declared write-in candidates are not listed."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Justice of the Supreme Court, Position 1 (2-year unexpired term)",
+        "candidates": [
+          {
+            "key": "wa-supreme-court-pos1-2026-melody-colleen",
+            "name": "Colleen Melody",
+            "party": "Nonpartisan",
+            "incumbent": true,
+            "website": "https://melodyforjustice.com/"
+          },
+          {
+            "key": "wa-supreme-court-pos1-2026-edwards-scott",
+            "name": "Scott Edwards",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://votescottedwards.com/"
+          }
+        ],
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court, Position 3 (6-year term)",
+        "candidates": [
+          {
+            "key": "wa-supreme-court-pos3-2026-stevens-david",
+            "name": "David Stevens",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://www.judgestevensforwa.com/"
+          },
+          {
+            "key": "wa-supreme-court-pos3-2026-hawk-jaime",
+            "name": "Jaime Michelle Hawk",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://www.judgehawk.com/"
+          }
+        ],
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court, Position 4 (6-year term)",
+        "candidates": [
+          {
+            "key": "wa-supreme-court-pos4-2026-birk-ian",
+            "name": "Ian Birk",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://ianbirk.com/"
+          },
+          {
+            "key": "wa-supreme-court-pos4-2026-odonnell-sean",
+            "name": "Sean O'Donnell",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://www.odonnellforjustice.com/"
+          }
+        ],
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court, Position 5 (2-year unexpired term)",
+        "candidates": [
+          {
+            "key": "wa-supreme-court-pos5-2026-angelis-theo",
+            "name": "Theo Angelis",
+            "party": "Nonpartisan",
+            "incumbent": true,
+            "website": "https://justiceangelis.com/"
+          },
+          {
+            "key": "wa-supreme-court-pos5-2026-larson-dave",
+            "name": "Dave Larson",
+            "party": "Nonpartisan",
+            "incumbent": false,
+            "website": "https://larsonforjustice.com/"
+          }
+        ],
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf"
+      },
+      {
+        "office": "Justice of the Supreme Court, Position 7 (6-year term)",
+        "candidates": [
+          {
+            "key": "wa-supreme-court-pos7-2026-stephens-debra",
+            "name": "Debra L. Stephens",
+            "party": "Nonpartisan",
+            "incumbent": true,
+            "website": "https://justicestephens.com/"
+          },
+          {
+            "key": "wa-supreme-court-pos7-2026-bloom-todd",
+            "name": "Todd A. Bloom",
+            "party": "Nonpartisan",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Initiative Measure No. IP26-645",
+        "title": "Initiative Measure No. IP26-645 concerns state and local taxes.",
+        "summary": "This initiative to the people would repeal the 9.9% tax on individual income over $1,000,000 that the Legislature passed in 2026 (scheduled to start in 2028), and would bar the state and local governments from taxing individual income or the receipt of income. The sales-tax, business-tax and Working Families Tax Credit changes passed alongside the income tax would stay in place. The state's fiscal impact statement estimates about $11.4 billion less state revenue over fiscal years 2027-2031, reducing money for K-12 and higher education, health care and other services.",
+        "yesMeans": "The 9.9% tax on income over $1 million is repealed before it takes effect, and state law prohibits state and local taxes on individual income.",
+        "noMeans": "The 9.9% tax on income over $1 million takes effect as scheduled, and no new ban on income taxes is added to state law.",
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf",
+        "moreInfo": "https://news.ballotpedia.org/2026/10/06/washington-voters-will-decide-on-three-ballot-measures-in-2026-including-topics-on-public-education-school-sports-and-sex-and-income-taxes/"
+      },
+      {
+        "id": "Initiative Measure No. IL26-001",
+        "title": "Initiative Measure No. IL26-001 concerns parental rights relating to their children in public school.",
+        "summary": "This initiative would undo the changes the Legislature made in 2025 to the state's list of parents' and guardians' rights in public schools and restore the list as originally enacted by Initiative 2081 in 2024. Among other changes, schools would have to provide a child's records within 10 business days instead of 45, could not charge for electronic copies, and parents would have a right to prior notice before non-emergency medical services are offered to their child.",
+        "yesMeans": "The parental-rights law goes back to the version enacted by Initiative 2081 in 2024, undoing the Legislature's 2025 amendments.",
+        "noMeans": "The parental-rights law stays as amended by the Legislature in 2025.",
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf",
+        "moreInfo": "https://news.ballotpedia.org/2026/10/06/washington-voters-will-decide-on-three-ballot-measures-in-2026-including-topics-on-public-education-school-sports-and-sex-and-income-taxes/"
+      },
+      {
+        "id": "Initiative Measure No. IL26-638",
+        "title": "Initiative Measure No. IL26-638 concerns participation in athletics at K-12 schools.",
+        "summary": "This initiative would bar students it defines as \"biologically male\" from competing on school sports teams or in events designated for female students only, in public K-12 schools and in private schools that take part in the WIAA or similar organizations. Students wanting to compete in girls-only sports would need a form signed by their health care provider verifying biological sex based on reproductive anatomy, genetic makeup, or natural testosterone levels.",
+        "yesMeans": "The new eligibility rule for girls' school sports, with health-care-provider verification of biological sex, becomes law.",
+        "noMeans": "Current rules stay in place: schools may have separate teams by sex, and state rules bar discrimination based on gender identity in school sports.",
+        "source": "https://www.sos.wa.gov/sites/default/files/2026-10/Voters%20Pamphlet%202026%20-%20Edition%2027%20-%20Thurston.pdf",
+        "moreInfo": "https://news.ballotpedia.org/2026/10/06/washington-voters-will-decide-on-three-ballot-measures-in-2026-including-topics-on-public-education-school-sports-and-sex-and-income-taxes/"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
