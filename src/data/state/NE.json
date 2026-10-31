@@ -1,0 +1,209 @@
+{
+  "state": "NE",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Nebraska Secretary of State's Final Statewide General Candidate List (9/11/2026), judicial retention list and 2026 ballot measures pamphlet, plus the Legislature's LR19CA ballot language. Confirm on your official sample ballot.",
+  "sources": [
+    "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf",
+    "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf",
+    "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/2026%20Ballot%20Measures%20Pamphlet.pdf",
+    "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/LR19CA_Approved_Ballot_Statement_Language.pdf",
+    "https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LR19CA.pdf",
+    "https://sos.nebraska.gov/elections"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Ballot number for the LR19CA term-limits amendment is not confirmed (third-party guides call it Constitutional Amendment 1); check your sample ballot.",
+    "No Nebraska Supreme Court judges are up for retention in 2026. Court of Appeals (District 2), district, county and juvenile court retention questions are district-based and not loaded.",
+    "Public Service Commissioner (District 2), Board of Regents, State Board of Education and Legislature races are district-based and not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ne-gov-2026-pillen-jim",
+            "name": "Jim Pillen",
+            "party": "Republican",
+            "incumbent": true,
+            "runningMate": "Joe Kelly"
+          },
+          {
+            "key": "ne-gov-2026-walz-lynne",
+            "name": "Lynne Walz",
+            "party": "Democratic",
+            "incumbent": false,
+            "runningMate": "Ben Steffen"
+          },
+          {
+            "key": "ne-gov-2026-beard-rick",
+            "name": "Rick Beard",
+            "party": "Other",
+            "incumbent": false,
+            "runningMate": "Keenya Barnes"
+          },
+          {
+            "key": "ne-gov-2026-lindstrom-brett",
+            "name": "Brett Lindstrom",
+            "party": "Other",
+            "incumbent": false,
+            "runningMate": "Michael Picard"
+          }
+        ],
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "ne-sos-2026-petersen-scott",
+            "name": "Scott Petersen",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ne-sos-2026-slattery-sarah",
+            "name": "Sarah J. Slattery",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ne-sos-2026-rumbaugh-paul",
+            "name": "Paul Rumbaugh",
+            "party": "Other",
+            "incumbent": false
+          },
+          {
+            "key": "ne-sos-2026-krist-bob",
+            "name": "Bob Krist",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "ne-treas-2026-spellerberg-joey",
+            "name": "Joey Spellerberg",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ne-treas-2026-ebers-daniel",
+            "name": "Daniel Ebers",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ne-ag-2026-hilgers-mike",
+            "name": "Mike Hilgers",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ne-ag-2026-brasher-jocelyn",
+            "name": "Jocelyn Brasher",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf"
+      },
+      {
+        "office": "Auditor of Public Accounts",
+        "candidates": [
+          {
+            "key": "ne-aud-2026-foley-mike",
+            "name": "Mike Foley",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ne-aud-2026-knight-john",
+            "name": "John Knight",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf"
+      },
+      {
+        "office": "Judge of the Nebraska Workers' Compensation Court: Thomas E. Stine (retention: vote Yes or No on whether to retain)",
+        "candidates": [
+          {
+            "key": "ne-wcc-retain-2026-stine-thomas",
+            "name": "Thomas E. Stine",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+      },
+      {
+        "office": "Judge of the Nebraska Workers' Compensation Court: Dirk V. Block (retention: vote Yes or No on whether to retain)",
+        "candidates": [
+          {
+            "key": "ne-wcc-retain-2026-block-dirk",
+            "name": "Dirk V. Block",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Initiative Measure 440",
+        "title": "Online Sports Wagering Authorization (constitutional amendment)",
+        "summary": "This citizen initiative would amend the Nebraska Constitution to allow laws letting people located in Nebraska place sports bets through an online platform. Online betting could be offered only by an authorized gaming operator that runs games of chance at a licensed racetrack in Nebraska. It is paired with Initiative 441, which would write the rules for online sports wagering into state law.",
+        "yesMeans": "You vote FOR amending the constitution to authorize laws allowing online sports wagering offered by licensed racetrack gaming operators.",
+        "noMeans": "You vote AGAINST, and the constitution is not amended in this manner.",
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/2026%20Ballot%20Measures%20Pamphlet.pdf",
+        "moreInfo": "https://ballotpedia.org/Nebraska_2026_ballot_measures"
+      },
+      {
+        "id": "Initiative Measure 441",
+        "title": "Online Sports Wagering Regulation (statute)",
+        "summary": "This citizen initiative would change state law to let people located in Nebraska place sports bets through an online platform offered by an authorized gaming operator at a licensed racetrack, or by that operator's platform provider. It would amend the Nebraska Racetrack Gaming Act to regulate such online wagering and would become operative on January 1, 2027.",
+        "yesMeans": "You vote FOR enacting statutes that allow and regulate online sports wagering through licensed racetrack gaming operators or their platform providers.",
+        "noMeans": "You vote AGAINST, and no such statutes are enacted.",
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/2026%20Ballot%20Measures%20Pamphlet.pdf",
+        "moreInfo": "https://ballotpedia.org/Nebraska_2026_ballot_measures"
+      },
+      {
+        "id": "Initiative Measure 442",
+        "title": "Fairness for Girls (constitutional amendment)",
+        "summary": "This citizen initiative would amend the Nebraska Constitution to require schools to designate each athletic team or sport as male, female, or coed/mixed based on biological sex, and to bar students of the male sex from teams designated for females. It would apply to public schools, public colleges and universities, and private schools or institutions whose teams compete against them.",
+        "yesMeans": "You vote FOR adding sex-based designation of school sports teams to the constitution, with female teams closed to students of the male sex.",
+        "noMeans": "You vote AGAINST, and the constitution is not amended in this manner.",
+        "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/2026%20Ballot%20Measures%20Pamphlet.pdf",
+        "moreInfo": "https://ballotpedia.org/Nebraska_2026_ballot_measures"
+      },
+      {
+        "id": "Constitutional Amendment (LR19CA)",
+        "title": "A constitutional amendment to change the limit on legislative terms from two consecutive terms to three consecutive terms",
+        "summary": "Placed on the ballot by the Nebraska Legislature, this amendment would let state senators serve three consecutive four-year terms instead of two before having to sit out for four years. Service of more than half a term would still count as a full term.",
+        "yesMeans": "You vote FOR allowing state senators to serve up to three consecutive terms.",
+        "noMeans": "You vote AGAINST, and the limit stays at two consecutive terms.",
+        "source": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LR19CA.pdf",
+        "moreInfo": "https://ballotpedia.org/Nebraska_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
