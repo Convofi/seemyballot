@@ -2,8 +2,9 @@
 // Usage: node scripts/verify-links.mjs [STATE ...]
 // A URL passes when it ends in a 2xx after following redirects (GET).
 // Bot walls (Cloudflare/Akamai 403, Radware, captcha, Ballotpedia's AWS WAF,
-// Imperva block pages and script-only JS challenges served with 200)
-// are reported as BLOCKED, not FAIL: the link may be fine but a script can't tell.
+// Imperva/F5 block pages and script-only JS challenges served with 200, DataDome)
+// and servers with an incomplete TLS chain (browsers repair it, Node doesn't)
+// are reported as UNVERIFIABLE, not FAIL: the link may be fine but a script can't tell.
 // Blocked URLs are retried a few times because some walls (Ballotpedia) pass intermittently.
 import { readFile } from "node:fs/promises";
 
@@ -40,7 +41,7 @@ async function check(url) {
       const i = pair.indexOf("=");
       if (i > 0) cookies.set(pair.slice(0, i).trim(), pair.slice(i + 1));
     }
-    const body = res.status >= 200 && res.status < 300 ? (await res.text()).slice(0, 5000) : "";
+    const body = res.status >= 200 && res.status < 300 ? (await res.text()).slice(0, 200_000) : "";
     if (!body) await res.body?.cancel();
     const location = res.headers.get("location");
     if (res.status >= 300 && res.status < 400 && location) {
@@ -51,10 +52,10 @@ async function check(url) {
     const server = res.headers.get("server") ?? "";
     const waf =
       res.headers.has("x-amzn-waf-action") ||
-      /Incapsula incident|_Incapsula_Resource/.test(body) ||
-      (/<script/i.test(body) && !/<title/i.test(body)) ||
+      /Incapsula incident|_Incapsula_Resource|<title>Request Rejected<\/title>/.test(body) ||
+      (/<script/i.test(body) && !/<title|<link/i.test(body)) ||
       ((res.status === 403 || res.status === 429) &&
-        (res.headers.has("cf-ray") || /cloudflare|akamai/i.test(server)));
+        (res.headers.has("cf-ray") || /cloudflare|akamai|datadome/i.test(server)));
     if (waf) return { status: "blocked", code: res.status, final: current };
     if (res.status >= 200 && res.status < 300) return { status: "ok", code: res.status, final: current };
     return { status: "fail", code: res.status, final: current };
@@ -80,7 +81,9 @@ await Promise.all(
         try {
           r = await check(job.url);
         } catch (e) {
-          r = { status: "fail", code: e.cause?.code ?? e.name, final: job.url };
+          const code = e.cause?.code ?? e.name;
+          const tlsChain = code === "UNABLE_TO_VERIFY_LEAF_SIGNATURE";
+          r = { status: tlsChain ? "blocked" : "fail", code, final: job.url };
         }
         if (r.status !== "blocked") break;
       }
@@ -91,13 +94,13 @@ await Promise.all(
 
 results.sort((a, b) => (a.abbr + a.field).localeCompare(b.abbr + b.field));
 const by = (s) => results.filter((r) => r.status === s);
-for (const label of ["fail", "blocked"]) {
+for (const [label, title] of [["fail", "FAIL"], ["blocked", "UNVERIFIABLE (bot wall or TLS chain)"]]) {
   const rows = by(label);
   if (!rows.length) continue;
-  console.log(`\n${label.toUpperCase()} (${rows.length})`);
+  console.log(`\n${title} (${rows.length})`);
   for (const r of rows) console.log(`  ${r.abbr} ${r.field}: ${r.code} ${r.url}${r.final !== r.url ? ` -> ${r.final}` : ""}`);
 }
 console.log(
-  `\n${results.length} URLs checked: ${by("ok").length} ok, ${by("blocked").length} blocked by bot protection, ${by("fail").length} failed`,
+  `\n${results.length} URLs checked: ${by("ok").length} ok, ${by("blocked").length} unverifiable, ${by("fail").length} failed`,
 );
 process.exitCode = by("fail").length ? 1 : 0;
