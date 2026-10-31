@@ -36,10 +36,10 @@
  },
  "wi-gov-2026-tiffany-tom": {
   "name": "Tom Tiffany",
-  "website": null,
+  "website": "https://tomtiffany.com",
   "bio": null,
   "positions": [],
-  "status": "no_website_found",
+  "status": "website_unreachable",
   "generatedAt": "2026-10-31",
   "method": "agent"
  },
@@ -900,10 +900,10 @@
  },
  "ar-gov-2026-sanders-sarah": {
   "name": "Sarah Huckabee Sanders",
-  "website": null,
+  "website": "https://sarahforgovernor.com",
   "bio": null,
   "positions": [],
-  "status": "no_website_found",
+  "status": "website_unreachable",
   "generatedAt": "2026-10-31",
   "method": "agent"
  },
