@@ -1,7 +1,8 @@
 // Re-checks every URL in src/data/states.json.
 // Usage: node scripts/verify-links.mjs [STATE ...]
 // A URL passes when it ends in a 2xx after following redirects (GET).
-// Bot walls (Cloudflare/Akamai 403, Radware, captcha, Ballotpedia's AWS WAF)
+// Bot walls (Cloudflare/Akamai 403, Radware, captcha, Ballotpedia's AWS WAF,
+// Imperva block pages and script-only JS challenges served with 200)
 // are reported as BLOCKED, not FAIL: the link may be fine but a script can't tell.
 // Blocked URLs are retried a few times because some walls (Ballotpedia) pass intermittently.
 import { readFile } from "node:fs/promises";
@@ -39,7 +40,8 @@ async function check(url) {
       const i = pair.indexOf("=");
       if (i > 0) cookies.set(pair.slice(0, i).trim(), pair.slice(i + 1));
     }
-    await res.body?.cancel();
+    const body = res.status >= 200 && res.status < 300 ? (await res.text()).slice(0, 5000) : "";
+    if (!body) await res.body?.cancel();
     const location = res.headers.get("location");
     if (res.status >= 300 && res.status < 400 && location) {
       current = new URL(location, current).href;
@@ -49,6 +51,8 @@ async function check(url) {
     const server = res.headers.get("server") ?? "";
     const waf =
       res.headers.has("x-amzn-waf-action") ||
+      /Incapsula incident|_Incapsula_Resource/.test(body) ||
+      (/<script/i.test(body) && !/<title/i.test(body)) ||
       ((res.status === 403 || res.status === 429) &&
         (res.headers.has("cf-ray") || /cloudflare|akamai/i.test(server)));
     if (waf) return { status: "blocked", code: res.status, final: current };
