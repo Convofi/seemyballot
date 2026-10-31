@@ -1,5 +1,6 @@
 import { SENATE_2026_STATES } from "@/data/senate2026";
 import fec2026 from "@/data/fec2026.json";
+import { getPositions, type CandidatePositions } from "@/lib/positions";
 
 // Static snapshot of OpenFEC /candidates/ (all 2026 House + Senate filers,
 // raw flags kept) written by `npm run fetch-fec`. No network at runtime.
@@ -17,6 +18,8 @@ export type Candidate = {
   /** FEC says this candidate currently holds the seat. */
   incumbent: boolean;
   fecUrl: string;
+  /** Stated positions from the campaign site; null = not looked up yet. */
+  positions: CandidatePositions | null;
 };
 
 export type Contest = {
@@ -142,6 +145,7 @@ function toCandidate(c: FecCandidate): Candidate {
     partyCode: code,
     incumbent: c.incumbent_challenge === "I",
     fecUrl: `https://www.fec.gov/data/candidate/${c.candidate_id}/`,
+    positions: getPositions(c.candidate_id),
   };
 }
 
