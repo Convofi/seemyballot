@@ -1,0 +1,84 @@
+{
+  "state": "NY",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the New York City Board of Elections' November 3, 2026 General Election contest list (the New York State Board of Elections site blocked automated access when we checked). Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/9_11_2026%2010_26_11%20AM_General%20Contest%20List%20Web%20Version.pdf",
+    "https://www.vote.nyc/page/list-candidates",
+    "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_New_York_state_elections"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "The New York State Board of Elections site (elections.ny.gov) returned HTTP 403 on 2026-10-31, so statewide candidates come from the NYC Board of Elections contest list dated 9/11/2026 and marked 'Tentative, subject to change'; we did not see the state's final certification.",
+    "New York uses fusion voting: candidates appear on more than one party line. Per the NYC contest list, Hochul/Adams are also on the Working Families line; Blakeman/Hood are also on the Conservative and Vote Affordable lines; James and DiNapoli are also on the Working Families line; Komatireddy and Hernandez are also on the Conservative line. Each candidate is listed once here under their main party.",
+    "No statewide ballot proposals: none appear on the NYC contest list (only NYC charter proposals 1-5, which are local) and none are listed on Wikipedia's 2026 New York elections page. Local proposals (e.g., NYC, Buffalo) are not shown."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ny-gov-2026-hochul-kathy",
+            "name": "Kathy C. Hochul",
+            "party": "Democratic",
+            "runningMate": "Adrienne E. Adams",
+            "incumbent": true
+          },
+          {
+            "key": "ny-gov-2026-blakeman-bruce",
+            "name": "Bruce A. Blakeman",
+            "party": "Republican",
+            "runningMate": "Todd Hood",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/9_11_2026%2010_26_11%20AM_General%20Contest%20List%20Web%20Version.pdf"
+      },
+      {
+        "office": "State Comptroller",
+        "candidates": [
+          {
+            "key": "ny-comp-2026-dinapoli-thomas",
+            "name": "Thomas P. DiNapoli",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ny-comp-2026-hernandez-joseph",
+            "name": "Joseph Hernandez",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/9_11_2026%2010_26_11%20AM_General%20Contest%20List%20Web%20Version.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ny-ag-2026-james-letitia",
+            "name": "Letitia A. James",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "ny-ag-2026-komatireddy-saritha",
+            "name": "Saritha Komatireddy",
+            "party": "Republican",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/9_11_2026%2010_26_11%20AM_General%20Contest%20List%20Web%20Version.pdf"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
