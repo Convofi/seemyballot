@@ -1,0 +1,231 @@
+{
+  "state": "KS",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Statewide candidates and judicial retention questions from the Kansas Secretary of State's 2026 General candidate list; the constitutional amendment from the Secretary of State's official ballot text. Confirm on your official sample ballot.",
+  "sources": [
+    "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://sos.ks.gov/elections/proposed-constitutional-amendments.html",
+    "https://sos.ks.gov/elections/26elec/2026-General-Election-Constitutional-Amendment-Citizen-Clarification.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Kansas House of Representatives, the three Kansas Senate contests on the list, State Board of Education districts, district court judges (elected and retention) and district magistrate judges are district-based and not loaded.",
+    "Candidates come from the Secretary of State's online candidate list, which the office updates as filings change; it does not list write-in candidates.",
+    "Judicial positions are taken from the 'Position' column of the Secretary of State's list; incumbency for retention judges is assumed because Kansas appellate retention questions only apply to sitting judges."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "ks-gov-2026-holscher-cindy",
+            "name": "Cindy Holscher",
+            "party": "Democratic",
+            "incumbent": false,
+            "runningMate": "KC Ohaebosim"
+          },
+          {
+            "key": "ks-gov-2026-masterson-ty",
+            "name": "Ty Masterson",
+            "party": "Republican",
+            "incumbent": false,
+            "runningMate": "Jeffrey Klemp"
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "ks-sos-2026-day-jennifer",
+            "name": "Jennifer Day",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ks-sos-2026-proctor-pat",
+            "name": "Pat Proctor",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ks-sos-2026-morgan-scott",
+            "name": "Scott E. Morgan",
+            "party": "Other",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "ks-ag-2026-mann-chris",
+            "name": "Chris Mann",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ks-ag-2026-kobach-kris",
+            "name": "Kris Kobach",
+            "party": "Republican",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "ks-treas-2026-luengo-juan",
+            "name": "Juan C. Luengo",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ks-treas-2026-johnson-steven",
+            "name": "Steven Johnson",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "ks-treas-2026-lund-eric",
+            "name": "Eric Lund",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Commissioner of Insurance",
+        "candidates": [
+          {
+            "key": "ks-ins-2026-sykes-dinah",
+            "name": "Dinah Sykes",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "ks-ins-2026-hawkins-daniel",
+            "name": "Daniel Hawkins",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "ks-ins-2026-koehn-ric",
+            "name": "Ric Koehn",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Justice of the Supreme Court, Position 4 (retention: vote yes or no on keeping this judge)",
+        "candidates": [
+          {
+            "key": "ks-sc-pos4-2026-rosen-eric",
+            "name": "Eric S. Rosen",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Justice of the Supreme Court, Position 6 (retention: vote yes or no on keeping this judge)",
+        "candidates": [
+          {
+            "key": "ks-sc-pos6-2026-walsh-larkin",
+            "name": "Larkin E. Walsh",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Judge of the Court of Appeals, Position 2 (retention: vote yes or no on keeping this judge)",
+        "candidates": [
+          {
+            "key": "ks-coa-pos2-2026-isherwood-lesley",
+            "name": "Lesley Ann Isherwood",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Judge of the Court of Appeals, Position 3 (retention: vote yes or no on keeping this judge)",
+        "candidates": [
+          {
+            "key": "ks-coa-pos3-2026-cline-amy",
+            "name": "Amy Fellows Cline",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Judge of the Court of Appeals, Position 5 (retention: vote yes or no on keeping this judge)",
+        "candidates": [
+          {
+            "key": "ks-coa-pos5-2026-schroeder-kim",
+            "name": "Kim R. Schroeder",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Judge of the Court of Appeals, Position 7 (retention: vote yes or no on keeping this judge)",
+        "candidates": [
+          {
+            "key": "ks-coa-pos7-2026-fleming-lori",
+            "name": "Lori Ann Bolton Fleming",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      },
+      {
+        "office": "Judge of the Court of Appeals, Position 13 (retention: vote yes or no on keeping this judge)",
+        "candidates": [
+          {
+            "key": "ks-coa-pos13-2026-hurst-jacy",
+            "name": "Jacy Hurst",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Constitutional Amendment",
+        "title": "Qualifications of electors (citizenship requirement for voting)",
+        "summary": "Placed on the ballot by the Kansas Legislature, this amendment would rewrite Article 5, Section 1 of the Kansas Constitution to state that no person is a qualified elector unless they are a U.S. citizen, at least 18, and (with existing exceptions) live in the voting area where they seek to vote. The official explanatory statement says it would clarify that only U.S. citizens are eligible to vote in Kansas. The existing rules for voting for president after moving out of state, or in a former voting area after moving within Kansas, stay in place.",
+        "yesMeans": "You approve the amendment, clarifying in the Kansas Constitution that only a U.S. citizen is eligible to vote in Kansas.",
+        "noMeans": "The Kansas Constitution is not changed, and the language on voter qualifications stays the same.",
+        "source": "https://sos.ks.gov/elections/26elec/2026-General-Election-Constitutional-Amendment-Citizen-Clarification.pdf",
+        "moreInfo": "https://ballotpedia.org/Kansas_2026_ballot_measures"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
