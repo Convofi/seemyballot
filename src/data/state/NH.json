@@ -1,0 +1,62 @@
+{
+  "state": "NH",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Governor candidates and Question 1 wording from the Town of Londonderry's official November 3, 2026 general election sample ballot (the NH Secretary of State's site blocked us). Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.londonderrynh.gov/DocumentCenter/View/3063",
+    "https://www.londonderrynh.gov/m/newsflash/Home/Detail/216",
+    "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "The New Hampshire Secretary of State's site (sos.nh.gov) returned HTTP 403 on 2026-10-31, so statewide contents come from the Town of Londonderry's official sample ballot; the governor field was cross-checked against Wikipedia.",
+    "Executive Council (5 districts) is district-based and not loaded.",
+    "Question 2 on many town ballots (statutory property tax / SAU cap question required by HB 1300, Chapter 324) is local to each town and school district and is not shown.",
+    "Write-in candidates are not listed."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor",
+        "candidates": [
+          {
+            "key": "nh-gov-2026-warmington-cinde",
+            "name": "Cinde Warmington",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "nh-gov-2026-ayotte-kelly",
+            "name": "Kelly Ayotte",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "nh-gov-2026-villee-stephen",
+            "name": "Stephen Villee",
+            "party": "Libertarian",
+            "incumbent": false
+          }
+        ],
+        "source": "https://www.londonderrynh.gov/DocumentCenter/View/3063"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Question 1",
+        "title": "Constitutional Amendment Proposed by the 2026 General Court (CACR 13): Eliminating the Office of Register of Probate",
+        "summary": "This legislatively referred amendment would remove the elected county office of register of probate from the New Hampshire Constitution by rewriting Part II, Articles 71 and 81. Most of the office's duties were eliminated in a 2011 reorganization of the state courts. It needs approval from two-thirds of those voting on the question; a similar amendment fell short of that threshold in 2022.",
+        "yesMeans": "You favor removing the register of probate from the state constitution, eliminating the elected office.",
+        "noMeans": "The constitution keeps the register of probate as an elected county office.",
+        "source": "https://www.londonderrynh.gov/DocumentCenter/View/3063",
+        "moreInfo": "https://ballotpedia.org/New_Hampshire_Abolish_Office_of_Register_of_Probate_Amendment_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
