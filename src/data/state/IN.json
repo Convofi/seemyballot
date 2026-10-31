@@ -1,0 +1,95 @@
+{
+  "state": "IN",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Indiana Election Division's 2026 General Election Candidate List, the Indiana Judicial Branch's 2026 retention notice, and county election boards' official sample ballots for the public questions. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/sos/elections/candidate-information/",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/retention/",
+    "https://www.in.gov/counties/noble/files/2026-general-election-sample-balllots/P6.pdf",
+    "https://www.in.gov/counties/switzerland/files/SWITZERLAND-SAMPLE-BALLOTS-9.30.2026.pdf",
+    "https://www.in.gov/counties/cass/files/3_Clay_English.pdf"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Court of Appeals Second District retention (Judge Dana J. Kenworthy) is on ballots only in Second District counties, so it is not listed statewide.",
+    "No Indiana Supreme Court justice is up for retention in 2026.",
+    "Party labels shown as Other: Greg Ballard is the Lincoln Party nominee; Andrew Delano is a declared write-in listed as National Socialist American Workers' party.",
+    "Public question text comes from county sample ballots (Noble, Cass, Switzerland); no statewide Election Division page with the public question text was found."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          { "key": "in-sos-2026-engling-max", "name": "Max Engling", "party": "Republican", "incumbent": false },
+          { "key": "in-sos-2026-bayh-beau", "name": "Beau Bayh", "party": "Democratic", "incumbent": false },
+          { "key": "in-sos-2026-shillings-lauri", "name": "Lauri A. Shillings", "party": "Libertarian", "incumbent": false },
+          { "key": "in-sos-2026-ballard-greg", "name": "Greg Ballard", "party": "Other", "incumbent": false },
+          { "key": "in-sos-2026-delano-andrew", "name": "Andrew Delano", "party": "Other", "incumbent": false, "writeIn": true }
+        ],
+        "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+      },
+      {
+        "office": "State Comptroller (Auditor of State)",
+        "candidates": [
+          { "key": "in-comptroller-2026-nieshalla-elise", "name": "Elise Nieshalla", "party": "Republican", "incumbent": true },
+          { "key": "in-comptroller-2026-bailey-jessica", "name": "Jessica Bailey", "party": "Democratic", "incumbent": false },
+          { "key": "in-comptroller-2026-schick-john", "name": "John Schick", "party": "Libertarian", "incumbent": false }
+        ],
+        "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+      },
+      {
+        "office": "Treasurer of State",
+        "candidates": [
+          { "key": "in-treas-2026-elliott-daniel", "name": "Daniel Elliott", "party": "Republican", "incumbent": true },
+          { "key": "in-treas-2026-kebe-coumba", "name": "Coumba Kebe", "party": "Democratic", "incumbent": false }
+        ],
+        "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+      },
+      {
+        "office": "Court of Appeals Judicial Retention - Fourth District (yes/no retention vote)",
+        "candidates": [
+          { "key": "in-coa4-2026-deboer-mary", "name": "Mary A. DeBoer", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://www.in.gov/courts/news/2026/0827"
+      },
+      {
+        "office": "Court of Appeals Judicial Retention - Fifth District (yes/no retention vote)",
+        "candidates": [
+          { "key": "in-coa5-2026-felix-paul", "name": "Paul A. Felix", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://www.in.gov/courts/news/2026/0827"
+      },
+      {
+        "office": "Retention of Judge of the Indiana Tax Court (yes/no retention vote)",
+        "candidates": [
+          { "key": "in-taxcourt-2026-mcadam-justin", "name": "Justin L. McAdam", "party": "Nonpartisan", "incumbent": true }
+        ],
+        "source": "https://www.in.gov/courts/news/2026/0827"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Public Question #1",
+        "title": "Denial of bail for offenses other than murder or treason (Article 1, Section 17)",
+        "summary": "Indiana's Constitution now lets courts deny bail only to people charged with murder or treason when the proof is evident or the presumption strong. This amendment would let courts also deny bail to a person charged with any other offense if the proof is evident or the presumption strong, and the state proves by clear and convincing evidence that no release conditions would reasonably protect the safety of any other person or the community.",
+        "yesMeans": "You approve amending the Indiana Constitution so judges can deny bail for other offenses when both conditions are met.",
+        "noMeans": "You reject the amendment; the right to bail stays as it is, with denial allowed only for murder or treason.",
+        "source": "https://www.in.gov/counties/noble/files/2026-general-election-sample-balllots/P6.pdf"
+      },
+      {
+        "id": "Public Question #2",
+        "title": "Residency of city and town court judges (Article 6, Section 6)",
+        "summary": "This amendment concerns where the judge of a city or town court may live. It would allow such a judge to reside in the county where the court is located, or in the bordering county closest to the city or town where the court is located.",
+        "yesMeans": "You approve amending the Indiana Constitution to allow city and town court judges to live in the court's county or the closest bordering county.",
+        "noMeans": "You reject the amendment, and the constitution's residency rule for city and town court judges is not changed.",
+        "source": "https://www.in.gov/counties/noble/files/2026-general-election-sample-balllots/P6.pdf"
+      }
+    ]
+  },
+  "legislative": { "senate": {}, "house": {} },
+  "counties": {}
+}
