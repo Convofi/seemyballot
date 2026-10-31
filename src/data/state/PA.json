@@ -1,0 +1,61 @@
+{
+  "state": "PA",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Pennsylvania Department of State's official candidate listing, candidate database and 2026 primary returns; Governor and Lieutenant Governor is the only statewide race, and there are no statewide ballot questions. Confirm on your official sample ballot.",
+  "sources": [
+    "https://www.pavoterservices.pa.gov/ElectionInfo/FooterLinkReport.aspx?ID=1420",
+    "https://www.pavoterservices.pa.gov/ElectionInfo/BasicSearch.aspx?PID=AS",
+    "https://www.pavoterservices.pa.gov/ElectionInfo/FooterLinkReport.aspx?ID=1412",
+    "https://www.pavoterservices.pa.gov/ElectionInfo/FooterLinkReport.aspx?ID=1411",
+    "https://www.pavoterservices.pa.gov/ElectionInfo/FooterLinkReport.aspx?ID=1413",
+    "https://www.electionreturns.pa.gov/"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "U.S. House and state legislative races are not in this file.",
+    "Lieutenant Governor running mates are not on the DOS post-primary listing; they come from the DOS candidate database (2026 General Election, Lieutenant Governor) and the official 2026 primary returns (Jason Richey won the Republican primary).",
+    "No other statewide offices (Attorney General, Auditor General, Treasurer, appellate courts) have 2026 general election candidates in the DOS database, and the DOS referendum and retention listings show no records, so no statewide judicial retention questions or ballot questions are shown.",
+    "Green Party candidates Anthony Dastra (Governor) and Craig Bolton (Lieutenant Governor) were removed from the ballot on 08/21/2026 per the DOS withdrawal listing; write-in candidates are not listed."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "pa-gov-2026-shapiro-josh",
+            "name": "Josh Shapiro",
+            "party": "Democratic",
+            "runningMate": "Austin Davis",
+            "incumbent": true,
+            "website": "https://joshshapiro.org/"
+          },
+          {
+            "key": "pa-gov-2026-garrity-stacy",
+            "name": "Stacy Garrity",
+            "party": "Republican",
+            "runningMate": "Jason Richey",
+            "incumbent": false,
+            "website": "https://garrityforpa.com/"
+          },
+          {
+            "key": "pa-gov-2026-krawchuk-ken",
+            "name": "Ken Krawchuk",
+            "party": "Libertarian",
+            "runningMate": "John C. Thomas",
+            "incumbent": false,
+            "website": "https://www.kenk4pa.com/"
+          }
+        ],
+        "source": "https://www.pavoterservices.pa.gov/ElectionInfo/FooterLinkReport.aspx?ID=1420"
+      }
+    ],
+    "measures": []
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
