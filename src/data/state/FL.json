@@ -1,0 +1,211 @@
+{
+  "state": "FL",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the Florida Division of Elections candidate tracking system (2026 General Election, qualified candidates) and its constitutional amendments database. Confirm on your official sample ballot.",
+  "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN",
+    "https://constitutionalinitiatives.dos.fl.gov/",
+    "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=108",
+    "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=109",
+    "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=110",
+    "https://ballotpedia.org/Florida_2026_ballot_measures"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded",
+    "District Court of Appeal merit retention questions (district-wide, not statewide) are not shown.",
+    "Circuit judges, state attorneys, public defenders and special district races are not shown.",
+    "Candidates listed as NPA (no party affiliation) on the Division of Elections list are shown as Independent.",
+    "The Division of Elections candidate tracking system describes itself as an unofficial reference; candidate names are shown as listed there and may differ slightly from how they print on the ballot.",
+    "No candidate campaign websites are listed yet."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "fl-gov-2026-donalds-byron",
+            "name": "Byron Donalds",
+            "party": "Republican",
+            "runningMate": "Bryan Avila",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-jolly-david",
+            "name": "David Jolly",
+            "party": "Democratic",
+            "runningMate": "Gwen Graham",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-jewett-scott",
+            "name": "Scott Eckhard Jewett",
+            "party": "Libertarian",
+            "runningMate": "Nicole Skelly",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-abrams-dean",
+            "name": "Dean Ocean Abrams",
+            "party": "Independent",
+            "runningMate": "Joe Van Vactor",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-burkett-charles",
+            "name": "Charles Burkett",
+            "party": "Independent",
+            "runningMate": "Ruben A. Coto",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-datto-jeffrey",
+            "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
+            "party": "Independent",
+            "runningMate": "Juan Santana",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-dimanche-moliere",
+            "name": "Moliere \"Moe\" Dimanche",
+            "party": "Independent",
+            "runningMate": "Benjiman Rojas",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-russo-frank",
+            "name": "Frank J. Russo",
+            "party": "Independent",
+            "runningMate": "Rachel Rodriguez",
+            "incumbent": false
+          },
+          {
+            "key": "fl-gov-2026-anderson-kathy",
+            "name": "Kathy Anderson",
+            "party": "Other",
+            "runningMate": "Daniel Nokovich",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "fl-gov-2026-morris-erik",
+            "name": "Erik Morris",
+            "party": "Other",
+            "runningMate": "LeRoy Alaways",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "fl-ag-2026-uthmeier-james",
+            "name": "James Uthmeier",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "fl-ag-2026-rodriguez-jose",
+            "name": "Jose Javier Rodriguez",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN"
+      },
+      {
+        "office": "Chief Financial Officer",
+        "candidates": [
+          {
+            "key": "fl-cfo-2026-ingoglia-blaise",
+            "name": "Blaise Ingoglia",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "fl-cfo-2026-taddeo-annette",
+            "name": "Annette Taddeo",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN"
+      },
+      {
+        "office": "Commissioner of Agriculture",
+        "candidates": [
+          {
+            "key": "fl-agr-2026-simpson-wilton",
+            "name": "Wilton Simpson",
+            "party": "Republican",
+            "incumbent": true
+          },
+          {
+            "key": "fl-agr-2026-mendoza-atkins-joey",
+            "name": "Joey Mendoza Atkins",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "fl-agr-2026-gibson-kyle",
+            "name": "Kyle \"KC\" Gibson",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN"
+      },
+      {
+        "office": "Justice of the Supreme Court — retain Carlos G. Muñiz? (yes/no merit retention)",
+        "candidates": [
+          {
+            "key": "fl-scj-2026-muniz-carlos",
+            "name": "Carlos G. Muñiz",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Amendment 1",
+        "title": "Budget Stabilization Fund",
+        "summary": "Placed on the ballot by the Legislature (HJR 5019, 2025), this amendment would raise the cap on the state's budget stabilization (rainy day) fund from 10% to 25% of general revenue collections. Each year the Legislature would have to transfer the lesser of $750 million or the amount needed to reach the 25% cap into the fund, unless certain conditions are met, and it could withdraw money from the fund for critical state needs. Constitutional amendments in Florida need at least 60% yes votes to pass.",
+        "yesMeans": "You support letting the rainy day fund hold up to 25% of general revenue collections and requiring yearly transfers into it, with withdrawals allowed for critical state needs.",
+        "noMeans": "You oppose the change; the fund stays capped at 10% of general revenue collections under the current rules.",
+        "source": "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=108",
+        "moreInfo": "https://ballotpedia.org/Florida_Amendment_1,_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)"
+      },
+      {
+        "id": "Amendment 2",
+        "title": "Exemption of Tangible Personal Property on Agricultural Land from Taxation",
+        "summary": "Placed on the ballot by the Legislature (HJR 1215, 2025), this amendment would exempt from property taxes the tangible personal property (such as equipment and tools) that is habitually located or typically present on land classified as agricultural. The property must be used to produce agricultural products or for agritourism and be owned by the landowner or leaseholder of that land. It would first apply to tax years beginning January 1, 2027.",
+        "yesMeans": "You support exempting qualifying agricultural tangible personal property from property taxes starting in 2027.",
+        "noMeans": "You oppose the exemption; that property stays taxable as it is now.",
+        "source": "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=109",
+        "moreInfo": "https://ballotpedia.org/Florida_Amendment_2,_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)"
+      },
+      {
+        "id": "Amendment 3",
+        "title": "Increased Homestead Exemption; Lower Cap on Increases in Non-Homestead Property Assessments",
+        "summary": "Placed on the ballot by the Legislature in a June 2026 special session (HJR 1F), with ballot wording rewritten after an August 2026 court order, this amendment would raise the homestead exemption from all non-school property taxes to $150,000 in 2027 and $250,000 in 2028, adjusted for inflation afterward; people who are not Florida residents on December 31, 2026 would get the current exemption until their fifth year of exemption. It would lower the yearly cap on assessment increases for non-homestead property from 10% to 5%, require the Legislature to set a way for counties and cities to raise the exemption up to full assessed value, and limit county and city property tax spending to listed purposes (public safety, schools, infrastructure, natural resources, bond debt, employee retirement, and operations) unless other spending is approved as allowed by law. It would take effect January 1, 2027.",
+        "yesMeans": "You support the larger homestead exemption for non-school taxes, the 5% cap on non-homestead assessment increases, and the new limits on how counties and cities use property tax money.",
+        "noMeans": "You oppose the amendment; the current homestead exemption, the 10% non-homestead assessment cap, and current local spending rules stay in place.",
+        "source": "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=110",
+        "moreInfo": "https://ballotpedia.org/Florida_Amendment_3,_Homestead_Tax_Exemptions,_Property_Assessments,_and_Spending_Restrictions_Amendment_(2026)"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
