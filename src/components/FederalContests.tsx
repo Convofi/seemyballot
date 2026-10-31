@@ -1,8 +1,10 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import type { Candidate, Contest, FederalContests as Data } from "@/lib/fec";
-import type { CandidatePositions } from "@/lib/positions";
+import type { Candidate as CandidateData, Contest, FederalContests as Data } from "@/lib/fec";
+import { Candidate } from "@/components/Candidate";
+import { useReportSummary } from "@/components/summary";
+import { Card, ErrorNote, Section, SkeletonCard, Tag } from "@/components/ui";
 
 type Props = {
   /** Two-letter state code, e.g. "OH". */
@@ -52,11 +54,15 @@ export default function FederalContests({ state, stateName, district, districtLa
       ? "Delegate to the U.S. House — District of Columbia"
       : `U.S. House — ${stateName} ${districtLabel}`;
 
+  useReportSummary(current ? { kind: "federal", races: shown.length } : null);
+
   return (
-    <section className="mt-6">
-      <h2 className="text-lg font-semibold">Federal contests</h2>
-      <p className="mt-1 text-sm text-neutral-600 dark:text-neutral-400">
-        {fromNominees ? (
+    <Section
+      id="federal"
+      title="Federal contests"
+      busy={!current}
+      intro={
+        fromNominees ? (
           <>
             Sources: FEC filings and Wikipedia&apos;s 2026 election pages. Confirm on your official
             sample ballot below.
@@ -66,20 +72,17 @@ export default function FederalContests({ state, stateName, district, districtLa
             Source: FEC filings. Candidates who filed for this seat; some may have withdrawn or
             lost a primary. Confirm on your official sample ballot below.
           </>
-        )}
-      </p>
-
-      <div aria-live="polite" aria-busy={!current}>
+        )
+      }
+    >
+      <div aria-live="polite">
         {!current && (
-          <p className="mt-4 rounded-lg border border-neutral-200 p-5 text-neutral-600 dark:border-neutral-800 dark:text-neutral-400">
-            Loading federal candidates…
-          </p>
+          <>
+            <SkeletonCard label="Loading federal candidates…" />
+            <SkeletonCard label="" />
+          </>
         )}
-        {current && "error" in current && (
-          <p className="mt-4 rounded-lg border border-red-300 bg-red-50 p-4 text-red-900 dark:border-red-800 dark:bg-red-950 dark:text-red-100">
-            {current.error}
-          </p>
-        )}
+        {current && "error" in current && <ErrorNote>{current.error}</ErrorNote>}
         {current && "data" in current && (
           <>
             {current.data.senate && (
@@ -92,7 +95,7 @@ export default function FederalContests({ state, stateName, district, districtLa
           </>
         )}
       </div>
-    </section>
+    </Section>
   );
 }
 
@@ -100,132 +103,52 @@ function ContestCard({ title, contest }: { title: string; contest: Contest }) {
   const nominees = contest.ballotSource === "nominees";
   const filers = `${contest.other.length} other FEC ${contest.other.length === 1 ? "filer" : "filers"}`;
   return (
-    <div className="mt-4 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
-      <h3 className="font-semibold">{title}</h3>
+    <Card>
+      <h3 className="text-lg font-semibold leading-snug tracking-tight text-ink">{title}</h3>
       {contest.likely.length === 0 && contest.other.length === 0 ? (
-        <p className="mt-2 text-neutral-600 dark:text-neutral-400">
-          No FEC filings found for this seat.
-        </p>
+        <p className="mt-2 text-md text-ink-2">No FEC filings found for this seat.</p>
       ) : (
         <>
-          {nominees && (
-            <h4 className="mt-2 text-xs font-semibold uppercase tracking-wide text-neutral-500">
-              On the general-election ballot
-            </h4>
-          )}
+          {nominees && <p className="mt-1 text-sm text-ink-3">On the general-election ballot</p>}
           <CandidateList candidates={contest.likely} />
         </>
       )}
       {contest.other.length > 0 && (
-        <details className="mt-2">
-          <summary className="cursor-pointer py-2 text-sm text-neutral-600 dark:text-neutral-400">
-            {nominees
-              ? `Show ${filers} (not on the general ballot: lost a primary, withdrew, or write-in)`
-              : `Show ${filers} (may have withdrawn or lost a primary)`}
+        <details className="group mt-3 border-t border-line">
+          <summary className="flex min-h-11 cursor-pointer items-center gap-2 pt-2 text-xs leading-5 text-ink-3 hover:text-ink-2 [&::-webkit-details-marker]:hidden">
+            <span aria-hidden="true" className="transition-transform group-open:rotate-90 motion-reduce:transition-none">
+              ›
+            </span>
+            <span>
+              {nominees
+                ? `Show ${filers} (not on the general ballot: lost a primary, withdrew, or write-in)`
+                : `Show ${filers} (may have withdrawn or lost a primary)`}
+            </span>
           </summary>
           <CandidateList candidates={contest.other} />
         </details>
       )}
-    </div>
+    </Card>
   );
 }
 
-function CandidateList({ candidates }: { candidates: Candidate[] }) {
+function CandidateList({ candidates }: { candidates: CandidateData[] }) {
   return (
-    <ul className="mt-2 divide-y divide-neutral-200 dark:divide-neutral-800">
+    <ul className="divide-y divide-line">
       {candidates.map((c) => (
-        <li key={c.candidateId} className="py-3">
-          <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
-            <span className="font-medium">{c.name}</span>
-            <span
-              className="rounded-full bg-neutral-100 px-2 py-0.5 text-xs text-neutral-700 dark:bg-neutral-800 dark:text-neutral-300"
-              title={c.fecUrl ? `FEC party code: ${c.partyCode || "none"}` : "Party per Wikipedia"}
-            >
-              {c.party}
-            </span>
-            {c.incumbent && (
-              <span className="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium dark:border-neutral-700">
-                Incumbent
-              </span>
-            )}
-            {c.writeIn && (
-              <span className="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium dark:border-neutral-700">
-                Write-in
-              </span>
-            )}
-            {c.fecUrl && (
-              <a
-                href={c.fecUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="ml-auto text-xs text-blue-700 underline hover:text-blue-800 dark:text-blue-400"
-              >
-                FEC filing
-              </a>
-            )}
-          </div>
-          {/* No entry = not looked up yet; show nothing rather than imply absence. */}
-          {c.positions && <Positions data={c.positions} />}
-        </li>
+        <Candidate
+          key={c.candidateId}
+          name={c.name}
+          party={c.party}
+          partyTitle={c.fecUrl ? `FEC party code: ${c.partyCode || "none"}` : "Party per Wikipedia"}
+          tags={[
+            c.incumbent && <Tag key="inc">Incumbent</Tag>,
+            c.writeIn && <Tag key="wi">Write-in</Tag>,
+          ]}
+          fecUrl={c.fecUrl}
+          positions={c.positions}
+        />
       ))}
     </ul>
-  );
-}
-
-const linkClass = "text-blue-700 underline hover:text-blue-800 dark:text-blue-400";
-
-function hostname(url: string): string {
-  try {
-    return new URL(url).hostname.replace(/^www\./, "");
-  } catch {
-    return url;
-  }
-}
-
-function Positions({ data }: { data: CandidatePositions }) {
-  const found = data.status === "ok" && data.positions.length > 0;
-  return (
-    <details className="mt-1 text-sm" open={found}>
-      <summary className="cursor-pointer py-1 text-neutral-600 dark:text-neutral-400">
-        {found ? "Where they stand" : "About"}
-      </summary>
-      <div className="mt-1 space-y-2 border-l-2 border-neutral-200 pl-3 dark:border-neutral-800">
-        {data.bio && <p className="text-neutral-700 dark:text-neutral-300">{data.bio}</p>}
-        {found ? (
-          <>
-            <h4 className="text-xs font-semibold uppercase tracking-wide text-neutral-500">
-              Where they stand (in their own words)
-            </h4>
-            <ul className="space-y-1.5">
-              {data.positions.map((p) => (
-                <li key={p.topic}>
-                  <span className="font-medium">{p.topic}:</span> {p.stance}{" "}
-                  <a
-                    href={p.sourceUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className={`text-xs ${linkClass}`}
-                  >
-                    source
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </>
-        ) : (
-          <p className="text-neutral-600 dark:text-neutral-400">
-            No campaign website with an issues page found.
-          </p>
-        )}
-        {data.website && (
-          <p className="text-xs">
-            Campaign website:{" "}
-            <a href={data.website} target="_blank" rel="noopener noreferrer" className={linkClass}>
-              {hostname(data.website)}
-            </a>
-          </p>
-        )}
-      </div>
-    </details>
   );
 }

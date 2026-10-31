@@ -7,7 +7,20 @@ import type {
   StateBallotContest as BallotContest,
   StateBallotResponse as Data,
 } from "@/lib/stateBallot";
-import CandidatePositions from "@/components/CandidatePositions";
+import { Candidate } from "@/components/Candidate";
+import { useReportSummary, type SummaryPart } from "@/components/summary";
+import {
+  Card,
+  ErrorNote,
+  ExtLink,
+  Footnote,
+  GroupTitle,
+  Section,
+  SkeletonCard,
+  SourceNote,
+  Tag,
+  hostname,
+} from "@/components/ui";
 
 type Props = {
   /** Two-letter state code, e.g. "OH". */
@@ -74,75 +87,84 @@ export default function StateLocalContests({
 
   const current = result?.url === url ? result : null;
 
+  const ballot = current && "data" in current ? current.data : null;
+  const countyBallot = ballot?.county ?? null;
+  const municipal = ballot?.municipal ?? null;
+  const legislativeContests = ballot
+    ? [ballot.legislative.senate, ballot.legislative.house].filter((c): c is BallotContest => c !== null)
+    : [];
+  const measures = ballot
+    ? [...ballot.statewide.measures, ...(countyBallot?.measures ?? []), ...(municipal?.measures ?? [])]
+    : [];
+  const countyContests = countyBallot?.contests ?? [];
+  const cityContests = municipal?.contests ?? [];
+
+  let summary: SummaryPart | null = null;
+  if (current) {
+    summary = {
+      kind: "state",
+      status: ballot ? "ok" : "missing" in current ? "missing" : "error",
+      statewide: ballot?.statewide.contests.length ?? 0,
+      legislative: legislativeContests.length,
+      county: countyContests.length,
+      city: cityContests.length,
+      measures: measures.length,
+      hasLocal: !!ballot && (countyContests.length + cityContests.length > 0 || !ballot.hasCounty),
+    };
+  }
+  useReportSummary(summary);
+
   if (!current) {
     return (
-      <section className="mt-6" aria-busy="true">
-        <h2 className="text-lg font-semibold">{stateName} and local contests</h2>
-        <p className="mt-4 rounded-lg border border-neutral-200 p-5 text-neutral-600 dark:border-neutral-800 dark:text-neutral-400">
-          Loading state and local contests…
-        </p>
-      </section>
+      <Section id="state" title={`${stateName} and local contests`} busy>
+        <SkeletonCard label="Loading state and local contests…" rows={3} />
+        <SkeletonCard label="" rows={2} />
+      </Section>
     );
   }
   if ("missing" in current) return fallback;
-  if ("error" in current) {
+  if (!ballot) {
     return (
       <>
-        <p className="mt-6 rounded-lg border border-red-300 bg-red-50 p-4 text-red-900 dark:border-red-800 dark:bg-red-950 dark:text-red-100">
-          {current.error}
-        </p>
+        <ErrorNote className="mt-12">{"error" in current ? current.error : null}</ErrorNote>
         {fallback}
       </>
     );
   }
 
-  const ballot = current.data;
-  const countyBallot = ballot.county;
-  const municipal = ballot.municipal;
-
-  const legislativeContests = [ballot.legislative.senate, ballot.legislative.house].filter(
-    (c): c is BallotContest => c !== null,
-  );
-  const measures = [
-    ...ballot.statewide.measures,
-    ...(countyBallot?.measures ?? []),
-    ...(municipal?.measures ?? []),
-  ];
-
   return (
     <>
-      <section className="mt-6">
-        <h2 className="text-lg font-semibold">{stateName} and local contests</h2>
-        <p className="mt-1 text-sm text-neutral-600 dark:text-neutral-400">{ballot.notice}</p>
-
+      <Section id="state" title={`${stateName} and local contests`} intro={ballot.notice}>
         <ContestGroup title="Statewide" contests={ballot.statewide.contests} />
         <ContestGroup title="State legislature" contests={legislativeContests} />
-        <ContestGroup title={county ?? "County"} contests={countyBallot?.contests ?? []} />
-        <ContestGroup title={place ?? "City"} contests={municipal?.contests ?? []} />
+        <ContestGroup title={county ?? "County"} contests={countyContests} id="local" />
+        <ContestGroup
+          title={place ?? "City"}
+          contests={cityContests}
+          id={countyContests.length === 0 ? "local" : undefined}
+        />
 
         {measures.length > 0 && (
           <>
-            <h3 className="mt-8 text-base font-semibold">Issues and measures</h3>
+            <GroupTitle>Issues and measures</GroupTitle>
             {measures.map((m) => (
               <MeasureCard key={m.id + m.title} measure={m} />
             ))}
           </>
         )}
 
-        {countyBallot?.note && (
-          <p className="mt-4 text-sm text-neutral-600 dark:text-neutral-400">{countyBallot.note}</p>
-        )}
-      </section>
+        {countyBallot?.note && <Footnote>{countyBallot.note}</Footnote>}
+      </Section>
       {!ballot.hasCounty && localFallback}
     </>
   );
 }
 
-function ContestGroup({ title, contests }: { title: string; contests: BallotContest[] }) {
+function ContestGroup({ title, contests, id }: { title: string; contests: BallotContest[]; id?: string }) {
   if (contests.length === 0) return null;
   return (
     <>
-      <h3 className="mt-8 text-base font-semibold">{title}</h3>
+      <GroupTitle id={id}>{title}</GroupTitle>
       {contests.map((c) => (
         <ContestCard key={c.office} contest={c} />
       ))}
@@ -153,105 +175,68 @@ function ContestGroup({ title, contests }: { title: string; contests: BallotCont
 function ContestCard({ contest }: { contest: BallotContest }) {
   // Write-ins aren't printed on the ballot, so list them last.
   const candidates = [...contest.candidates].sort((a, b) => Number(!!a.writeIn) - Number(!!b.writeIn));
+  const meta = [
+    contest.seats && contest.seats > 1 ? `Vote for up to ${contest.seats}` : null,
+    candidates.length === 1 ? "Unopposed" : null,
+  ].filter(Boolean);
   return (
-    <div className="mt-4 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
-      <h4 className="font-semibold">{contest.office}</h4>
-      {contest.seats && contest.seats > 1 && (
-        <p className="text-sm text-neutral-600 dark:text-neutral-400">Vote for up to {contest.seats}</p>
-      )}
-      {candidates.length === 1 && (
-        <p className="text-sm text-neutral-600 dark:text-neutral-400">Unopposed</p>
-      )}
-      <ul className="mt-2 divide-y divide-neutral-200 dark:divide-neutral-800">
+    <Card>
+      <h4 className="text-lg font-semibold leading-snug tracking-tight text-ink">{contest.office}</h4>
+      {meta.length > 0 && <p className="mt-1 text-sm text-ink-3">{meta.join(" · ")}</p>}
+      <ul className="divide-y divide-line">
         {candidates.map((c) => (
           <CandidateRow key={c.key} candidate={c} />
         ))}
       </ul>
-      <SourceLink href={contest.source} />
-    </div>
+      <Footnote className="border-t border-line pt-3">
+        <SourceNote href={contest.source} />
+      </Footnote>
+    </Card>
   );
 }
 
-const pill =
-  "rounded-full bg-neutral-100 px-2 py-0.5 text-xs text-neutral-700 dark:bg-neutral-800 dark:text-neutral-300";
-
 function CandidateRow({ candidate: c }: { candidate: BallotCandidate }) {
-  // No entry = not looked up yet (e.g. write-ins); show nothing rather than imply absence.
-  const positions = c.positions;
   return (
-    <li className="py-3">
-      <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
-        <span className="font-medium">
-          {c.name}
-          {c.runningMate && (
-            <span className="font-normal text-neutral-600 dark:text-neutral-400"> and {c.runningMate}</span>
-          )}
-        </span>
-        {c.writeIn ? (
-          <span className={pill}>Write-in (not printed on ballot)</span>
-        ) : (
-          <span className={pill}>{c.party}</span>
-        )}
-        {c.incumbent && (
-          <span className="rounded-full border border-neutral-300 px-2 py-0.5 text-xs font-medium dark:border-neutral-700">
-            Incumbent
-          </span>
-        )}
-        {c.website && (
-          <a
-            href={c.website}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="ml-auto text-xs text-blue-700 underline hover:text-blue-800 dark:text-blue-400"
-          >
-            Campaign website
-          </a>
-        )}
-      </div>
-      {positions && <CandidatePositions data={positions} />}
-    </li>
+    <Candidate
+      name={c.name}
+      runningMate={c.runningMate}
+      party={c.writeIn ? undefined : c.party}
+      tags={[
+        c.writeIn && <Tag key="wi">Write-in (not printed on ballot)</Tag>,
+        c.incumbent && <Tag key="inc">Incumbent</Tag>,
+      ]}
+      website={c.website}
+      positions={c.positions}
+    />
   );
 }
 
 function MeasureCard({ measure: m }: { measure: BallotMeasure }) {
   return (
-    <div className="mt-4 rounded-lg border border-neutral-200 p-5 dark:border-neutral-800">
-      <h4 className="font-semibold">
-        {m.id}: {m.title}
-      </h4>
-      <p className="mt-2">{m.summary}</p>
-      <dl className="mt-3 space-y-2">
-        <div>
-          <dt className="inline font-semibold">A YES vote means </dt>
-          <dd className="inline">{lowerFirst(m.yesMeans)}</dd>
+    <Card>
+      <p className="text-xs font-semibold uppercase tracking-[0.08em] text-ink-3">{m.id}</p>
+      <h4 className="mt-1 text-lg font-semibold leading-snug tracking-tight text-ink">{m.title}</h4>
+      <p className="mt-2 text-md text-ink-2">{m.summary}</p>
+      <dl className="mt-4 grid gap-2 sm:grid-cols-2">
+        <div className="rounded-lg bg-yes-soft p-3">
+          <dt className="text-xs font-bold uppercase tracking-[0.08em] text-yes">Yes means</dt>
+          <dd className="mt-1 text-md text-ink">{m.yesMeans}</dd>
         </div>
-        <div>
-          <dt className="inline font-semibold">A NO vote means </dt>
-          <dd className="inline">{lowerFirst(m.noMeans)}</dd>
+        <div className="rounded-lg bg-no-soft p-3">
+          <dt className="text-xs font-bold uppercase tracking-[0.08em] text-no">No means</dt>
+          <dd className="mt-1 text-md text-ink">{m.noMeans}</dd>
         </div>
       </dl>
-      <p className="mt-3 flex flex-wrap gap-x-4">
-        <SourceLink href={m.source} label="Official ballot language" />
-        {m.moreInfo && <SourceLink href={m.moreInfo} label="More info" />}
-      </p>
-    </div>
-  );
-}
-
-function lowerFirst(s: string): string {
-  return s.charAt(0).toLowerCase() + s.slice(1);
-}
-
-function SourceLink({ href, label }: { href: string; label?: string }) {
-  const host = new URL(href).hostname.replace(/^www\./, "");
-  return (
-    <a
-      href={href}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="mt-2 inline-block text-xs text-blue-700 underline hover:text-blue-800 dark:text-blue-400"
-    >
-      Source: {label ? `${label} (${host})` : host}
-    </a>
+      <Footnote className="flex flex-wrap gap-x-4 gap-y-1">
+        <span>
+          Official ballot language: <ExtLink href={m.source}>{hostname(m.source)}</ExtLink>
+        </span>
+        {m.moreInfo && (
+          <span>
+            More info: <ExtLink href={m.moreInfo}>{hostname(m.moreInfo)}</ExtLink>
+          </span>
+        )}
+      </Footnote>
+    </Card>
   );
 }
