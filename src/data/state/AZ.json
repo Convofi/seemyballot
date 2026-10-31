@@ -1,0 +1,287 @@
+{
+  "state": "AZ",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "Candidates from the Arizona Citizens Clean Elections Commission 2026 general election Voter Education Guide; propositions and judicial retention from the Secretary of State's 2026 General Election Publicity Pamphlet. Confirm on your official sample ballot.",
+  "sources": [
+    "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf",
+    "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf",
+    "https://www.azcleanelections.gov/state-general"
+  ],
+  "gaps": [
+    "County, municipal and legislative races not yet loaded.",
+    "Arizona Secretary of State sites (azsos.gov, apps.arizona.vote) returned HTTP 403 on 2026-10-31, so the certified candidate list itself was not checked; statewide candidates come from the Clean Elections Commission's official general election Voter Education Guide, which lists every statewide candidate printed on the ballot. Certified write-in candidates are not included.",
+    "Court of Appeals (Division One and Division Two) and Superior Court retention questions are not shown because they appear only on ballots in their divisions or counties.",
+    "Incumbency for Kevin Thompson (Corporation Commission) and Les Presmyk (Mine Inspector, appointed 2025) is taken from the candidates' own guide statements and news reports, not an official roster."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Governor and Lieutenant Governor",
+        "candidates": [
+          {
+            "key": "az-gov-2026-hobbs-katie",
+            "name": "Katie Hobbs",
+            "party": "Democratic",
+            "runningMate": "John Giles",
+            "incumbent": true,
+            "website": "https://katiehobbs.org/"
+          },
+          {
+            "key": "az-gov-2026-biggs-andy",
+            "name": "Andy Biggs",
+            "party": "Republican",
+            "runningMate": "Sine Kerr",
+            "incumbent": false,
+            "website": "https://biggsforarizona.com/"
+          },
+          {
+            "key": "az-gov-2026-lombardo-risa",
+            "name": "Risa Lombardo",
+            "party": "Green",
+            "runningMate": "Lisa Castillo",
+            "incumbent": false
+          },
+          {
+            "key": "az-gov-2026-hourihan-teri-ann",
+            "name": "Teri Ann Hourihan",
+            "party": "Other",
+            "runningMate": "Angela Harrolle Mohan",
+            "incumbent": false,
+            "website": "https://teriann4azgov.org/"
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf"
+      },
+      {
+        "office": "Secretary of State",
+        "candidates": [
+          {
+            "key": "az-sos-2026-fontes-adrian",
+            "name": "Adrian Fontes",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://electfontes.com/"
+          },
+          {
+            "key": "az-sos-2026-kolodin-alexander",
+            "name": "Alexander Kolodin",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.alexforaz.com/"
+          },
+          {
+            "key": "az-sos-2026-collier-duwayne",
+            "name": "Duwayne Collier",
+            "party": "Green",
+            "incumbent": false
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf"
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "az-ag-2026-mayes-kris",
+            "name": "Kris Mayes",
+            "party": "Democratic",
+            "incumbent": true,
+            "website": "https://www.krismayes.com/"
+          },
+          {
+            "key": "az-ag-2026-petersen-warren",
+            "name": "Warren Petersen",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://www.petersenforag.com/"
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf"
+      },
+      {
+        "office": "State Treasurer",
+        "candidates": [
+          {
+            "key": "az-treas-2026-norton-elijah",
+            "name": "Elijah Norton",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://nortonforaz.com/"
+          },
+          {
+            "key": "az-treas-2026-mansour-nick",
+            "name": "Nick Mansour",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.mansourforarizona.com/"
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf"
+      },
+      {
+        "office": "Superintendent of Public Instruction",
+        "candidates": [
+          {
+            "key": "az-spi-2026-yee-kimberly",
+            "name": "Kimberly Yee",
+            "party": "Republican",
+            "incumbent": false,
+            "website": "https://kimberlyyee.com/"
+          },
+          {
+            "key": "az-spi-2026-leyba-ruiz-teresa",
+            "name": "Teresa Leyba Ruiz",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.drruizforarizona.com/"
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf"
+      },
+      {
+        "office": "State Mine Inspector",
+        "candidates": [
+          {
+            "key": "az-mine-inspector-2026-presmyk-walter",
+            "name": "Walter \"Les\" Presmyk",
+            "party": "Republican",
+            "incumbent": true,
+            "website": "https://lespresmyk.com/"
+          },
+          {
+            "key": "az-mine-inspector-2026-matlock-brian",
+            "name": "Brian Matlock",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.matlockforazmi.com/"
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf"
+      },
+      {
+        "office": "Corporation Commissioner",
+        "seats": 2,
+        "candidates": [
+          {
+            "key": "az-corp-comm-2026-thompson-kevin",
+            "name": "Kevin Thompson",
+            "party": "Republican",
+            "incumbent": true,
+            "website": "https://thompsonforcorpcomm.com/"
+          },
+          {
+            "key": "az-corp-comm-2026-heap-ralph",
+            "name": "Ralph Heap",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "az-corp-comm-2026-hill-jonathon",
+            "name": "Jonathon Hill",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.votehillaz.com/"
+          },
+          {
+            "key": "az-corp-comm-2026-pratte-clara",
+            "name": "Clara Pratte",
+            "party": "Democratic",
+            "incumbent": false,
+            "website": "https://www.claraforaz.com/"
+          },
+          {
+            "key": "az-corp-comm-2026-cease-mike",
+            "name": "Mike Cease",
+            "party": "Green",
+            "incumbent": false
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf"
+      },
+      {
+        "office": "Arizona Supreme Court: retain Justice John R. Lopez, IV? (Yes/No retention vote)",
+        "candidates": [
+          {
+            "key": "az-supreme-court-2026-lopez-john",
+            "name": "John R. Lopez, IV",
+            "party": "Nonpartisan",
+            "incumbent": true
+          }
+        ],
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Proposition 141",
+        "title": "Prohibits taxes or fees based on vehicle miles traveled and laws monitoring or limiting vehicle miles traveled without consent",
+        "summary": "A constitutional amendment referred by the Legislature. It would bar any tax or fee based on how many miles a motor vehicle is driven, and bar laws or rules that track or limit miles driven without the owner's consent. Some interstate commercial vehicles and government-owned vehicles are excepted.",
+        "yesMeans": "The Arizona Constitution is amended to ban mileage-based taxes or fees and mileage monitoring or limits without consent.",
+        "noMeans": "The current constitutional language on taxation stays the same.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      },
+      {
+        "id": "Proposition 142",
+        "title": "Adds further details to the constitutional prohibition against preferential treatment or discrimination by the state based on race, ethnicity, or other classes",
+        "summary": "A constitutional amendment referred by the Legislature that expands Arizona's existing ban on government preferential treatment or discrimination by race or ethnicity. It would bar requiring people to support race-based diversity, equity and inclusion statements as a condition of school, jobs or contracts, bar spending public money on public-education positions that promote such treatment, and bar race-based differences in discipline. It includes exceptions for health services, legal requirements and other reasons.",
+        "yesMeans": "The Arizona Constitution's ban on race- or ethnicity-based preferential treatment is expanded with these specific prohibitions.",
+        "noMeans": "The current constitutional ban on preferential treatment or discrimination stays as it is.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      },
+      {
+        "id": "Proposition 144",
+        "title": "Requires all voters, including voters who vote by mail, to show government-issued ID to vote in each election; makes other changes to election administration and campaign finance prohibitions",
+        "summary": "A constitutional amendment referred by the Legislature. It would require every voter, including mail voters, to show government-issued ID in each election, give all voters the option to have their ballot tabulated at their voting location on Election Day, and ban foreign nationals from spending to influence Arizona elections. It would also set a new standard for courts reviewing election laws, which may make those laws harder to challenge, and require the Legislature to fund these changes.",
+        "yesMeans": "The Arizona Constitution is amended to add the ID requirement for all voters and the other election and campaign finance changes.",
+        "noMeans": "Current constitutional provisions governing elections stay the same.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      },
+      {
+        "id": "Proposition 316",
+        "title": "Retroactively prohibits local governments from adopting or increasing a tax on groceries without voter approval and sets a maximum rate of 2%",
+        "summary": "A state law referred by the Legislature. It would retroactively bar cities, towns and other local governments from adopting or raising a tax on groceries from July 1, 2025, through June 30, 2027. After that, any new or higher local grocery tax would need voter approval and could not exceed 2%.",
+        "yesMeans": "Local grocery tax increases are blocked through June 30, 2027, and afterward need voter approval and are capped at 2%.",
+        "noMeans": "Current laws on local government taxation stay the same.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      },
+      {
+        "id": "Proposition 317",
+        "title": "Declares that drug cartels are terrorist organizations; directs the Arizona Department of Homeland Security to do everything in its authority to address drug cartels",
+        "summary": "A state law referred by the Legislature. It would declare drug cartels to be terrorist organizations and direct the Arizona Department of Homeland Security to do everything in its authority to address threats from them. It defines a drug cartel as an ongoing association of people engaged in human smuggling, drug trafficking or acts of terrorism under Arizona law, and says the measure does not support anyone's asylum claim.",
+        "yesMeans": "State law declares drug cartels terrorist organizations and directs the Department of Homeland Security to address them.",
+        "noMeans": "Current laws on terrorism and the Arizona Department of Homeland Security stay the same.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      },
+      {
+        "id": "Proposition 318",
+        "title": "Requires all schools and athletic associations to designate athletic teams as male, female, or coed based on the biological sex of the athletes as defined at birth; prohibits these entities from authorizing use of private spaces not designated for a person's sex",
+        "summary": "A state law referred by the Legislature. It would extend the current public-school rule to private schools and athletic associations, requiring every team to be designated male, female or coed by sex and barring males from female teams, and would bar schools and associations from letting anyone use private spaces such as restrooms not designated for their sex. It defines sex as recorded at birth on an original birth certificate and lets athletes sue schools or associations that knowingly violate the law.",
+        "yesMeans": "These sex-based rules for school sports teams and private spaces become state law for public and private schools and athletic associations.",
+        "noMeans": "Current laws on student athletics stay the same.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      },
+      {
+        "id": "Proposition 319",
+        "title": "Prohibits state agencies and local governments from using photo enforcement systems for traffic enforcement unless provided by contract as of December 31, 2026; requires local governments to obtain voter approval to continue their use",
+        "summary": "A state law referred by the Legislature. It would bar state agencies and local governments from using traffic photo enforcement (such as speed or red-light cameras) unless they have a contract for it by December 31, 2026. Local governments with existing systems would need voter approval at the next regular general election, and every 10 years after, to keep using them.",
+        "yesMeans": "New traffic photo enforcement is banned after 2026, and local governments need periodic voter approval to keep existing systems.",
+        "noMeans": "Current laws governing photo enforcement systems stay the same.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      },
+      {
+        "id": "Proposition 320",
+        "title": "Requires certain school districts to spend at least sixty percent of their operational spending on direct instructional expenses as defined by the Auditor General; reduces certain state funding for non-compliant districts",
+        "summary": "A state law referred by the Legislature. School districts with 7,500 or more students, or that operate in a county of 500,000 or more people, would have to spend at least 60% of operational spending on direct instruction, as defined by the state Auditor General. Districts that fall short would have to adjust each year, and their Classroom Site Fund money would be cut 25% a year unless the Superintendent grants a limited waiver.",
+        "yesMeans": "Covered school districts must spend at least 60% of operational spending on direct instruction or face state funding cuts.",
+        "noMeans": "Current laws governing school district budgets stay the same.",
+        "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
