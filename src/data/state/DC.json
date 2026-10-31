@@ -1,0 +1,261 @@
+{
+  "state": "DC",
+  "electionDate": "2026-11-03",
+  "verifiedAt": "2026-10-31",
+  "notice": "From the DC Board of Elections' list of General Election candidates in ballot order, its write-in candidate list (updated 2026-10-30) and the 2026 General Election Voter Guide; contests with three or more candidates on the ballot use ranked-choice voting. Confirm on your official sample ballot.",
+  "sources": [
+    "https://dcboe.org/getContentAsset/1029b813-fb27-4055-9218-fbe40360aacb/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-CANDIDATES-07152026.pdf?language=en",
+    "https://dcboe.org/getContentAsset/baa7b20c-9cbd-45fe-9842-986da48d2123/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-Election-WRITE-IN-CANDIDATES-07222026.pdf?language=en",
+    "https://dcboe.org/getContentAsset/5a9ceeda-114c-4171-810d-1317c9e06b0e/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/_-DCBOE-Voter-Guide-Web-Smaller-File.pdf?language=en",
+    "https://dcboe.org/elections/2026-elections"
+  ],
+  "gaps": [
+    "Ward Council, State Board of Education and Advisory Neighborhood Commission races not yet loaded (the District has no counties or legislature).",
+    "Delegate to the U.S. House is federal and shown in the federal section.",
+    "Candidate websites not loaded."
+  ],
+  "statewide": {
+    "contests": [
+      {
+        "office": "Mayor of the District of Columbia (ranked-choice)",
+        "candidates": [
+          {
+            "key": "dc-mayor-2026-hamilton-rhonda",
+            "name": "Rhonda Hamilton",
+            "party": "Independent",
+            "incumbent": false
+          },
+          {
+            "key": "dc-mayor-2026-lewis-george-janeese",
+            "name": "Janeese Lewis George",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "dc-mayor-2026-gross-robert",
+            "name": "Robert L. Gross",
+            "party": "Green",
+            "incumbent": false
+          },
+          {
+            "key": "dc-mayor-2026-breedlove-charles",
+            "name": "Charles Breedlove",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-christian-patrick",
+            "name": "Patrick Christian",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-alexander-myrtle",
+            "name": "Myrtle Patricia Alexander",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-jackson-george",
+            "name": "George Jackson",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-chapman-treasure",
+            "name": "Treasure Jacqueline Chapman",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-bristow-kenneth",
+            "name": "Kenneth Dale Bristow",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-arega-michael",
+            "name": "Michael Arega",
+            "party": "Other",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-brown-anthony",
+            "name": "Anthony Isaiah Brown",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-henderson-kathy",
+            "name": "Kathy Henderson",
+            "party": "Democratic",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-cotton-marquis",
+            "name": "Marquis Cotton",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-khan-nadeem",
+            "name": "Nadeem A. Khan",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          },
+          {
+            "key": "dc-mayor-2026-muhammad-talib",
+            "name": "Talib Karim Muhammad",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://dcboe.org/getContentAsset/1029b813-fb27-4055-9218-fbe40360aacb/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-CANDIDATES-07152026.pdf?language=en"
+      },
+      {
+        "office": "Chairman of the Council",
+        "candidates": [
+          {
+            "key": "dc-chair-2026-mendelson-phil",
+            "name": "Phil Mendelson",
+            "party": "Democratic",
+            "incumbent": true
+          },
+          {
+            "key": "dc-chair-2026-prudent-abi-ananiah",
+            "name": "Abi-Ananiah Prudent",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "dc-chair-2026-cheeks-john",
+            "name": "John Cheeks",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://dcboe.org/getContentAsset/1029b813-fb27-4055-9218-fbe40360aacb/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-CANDIDATES-07152026.pdf?language=en"
+      },
+      {
+        "office": "At-Large Member of the Council (two winners; ranked-choice, rank candidates rather than voting for two)",
+        "candidates": [
+          {
+            "key": "dc-atlarge-2026-owolewa-oye",
+            "name": "Oye Owolewa",
+            "party": "Democratic",
+            "incumbent": false
+          },
+          {
+            "key": "dc-atlarge-2026-moch-darryl",
+            "name": "Darryl Moch",
+            "party": "Green",
+            "incumbent": false
+          },
+          {
+            "key": "dc-atlarge-2026-green-darrell",
+            "name": "Darrell Green",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "dc-atlarge-2026-silverman-elissa",
+            "name": "Elissa Silverman",
+            "party": "Independent",
+            "incumbent": true
+          },
+          {
+            "key": "dc-atlarge-2026-jackson-joe",
+            "name": "Joe Jackson",
+            "party": "Independent",
+            "incumbent": false,
+            "writeIn": true
+          }
+        ],
+        "source": "https://dcboe.org/getContentAsset/1029b813-fb27-4055-9218-fbe40360aacb/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-CANDIDATES-07152026.pdf?language=en",
+        "seats": 2
+      },
+      {
+        "office": "Attorney General",
+        "candidates": [
+          {
+            "key": "dc-ag-2026-rivera-manuel",
+            "name": "Manuel Rivera",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "dc-ag-2026-schwalb-brian",
+            "name": "Brian L. Schwalb",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://dcboe.org/getContentAsset/1029b813-fb27-4055-9218-fbe40360aacb/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-CANDIDATES-07152026.pdf?language=en"
+      },
+      {
+        "office": "United States Senator (shadow; District office, not a voting member of Congress)",
+        "candidates": [
+          {
+            "key": "dc-shadowsen-2026-simmons-robert",
+            "name": "Robert Simmons",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "dc-shadowsen-2026-strauss-paul",
+            "name": "Paul Strauss",
+            "party": "Democratic",
+            "incumbent": true
+          }
+        ],
+        "source": "https://dcboe.org/getContentAsset/1029b813-fb27-4055-9218-fbe40360aacb/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-CANDIDATES-07152026.pdf?language=en"
+      },
+      {
+        "office": "United States Representative (shadow; District office, not a voting member of Congress)",
+        "candidates": [
+          {
+            "key": "dc-shadowrep-2026-ivanof-ciprian",
+            "name": "Ciprian Ivanof",
+            "party": "Republican",
+            "incumbent": false
+          },
+          {
+            "key": "dc-shadowrep-2026-garcia-franklin",
+            "name": "Franklin Garcia",
+            "party": "Democratic",
+            "incumbent": false
+          }
+        ],
+        "source": "https://dcboe.org/getContentAsset/1029b813-fb27-4055-9218-fbe40360aacb/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/2026-General-CANDIDATES-07152026.pdf?language=en"
+      }
+    ],
+    "measures": [
+      {
+        "id": "Initiative Measure No. 86",
+        "title": "Prohibiting Force-Feeding of Birds Act of 2026",
+        "summary": "This citizen initiative would prohibit force-feeding a bird to enlarge its liver beyond normal size, defined as inserting a tube into the bird's throat to deliver excessive feed. It would also ban the sale or distribution of any product resulting from force-feeding a bird, including foie gras, with enforcement by the Department of Energy and Environment during routine food safety inspections and civil penalties for violations.",
+        "yesMeans": "You approve banning the force-feeding of birds and the sale or distribution of products from force-fed birds, such as foie gras, in the District.",
+        "noMeans": "You reject the initiative, and current District law is unchanged.",
+        "source": "https://dcboe.org/getContentAsset/5a9ceeda-114c-4171-810d-1317c9e06b0e/5ebbd046-860b-4ee1-81c8-43d0e3bc446e/_-DCBOE-Voter-Guide-Web-Smaller-File.pdf?language=en"
+      }
+    ]
+  },
+  "legislative": {
+    "senate": {},
+    "house": {}
+  },
+  "counties": {}
+}
