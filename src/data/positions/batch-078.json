@@ -1,0 +1,283 @@
+{
+ "tx-dallas-2026-fdj302-jackson-sandra": {
+  "name": "Sandra Jackson",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-fdj303-adkins-ladeitra": {
+  "name": "LaDeitra Adkins",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-fdj304-martin-andrea": {
+  "name": "Andrea Martin",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-fdj305-shannon-cheryl": {
+  "name": "Cheryl Lee Shannon",
+  "website": "http://www.judgeshannon.com/",
+  "bio": "Judge of the 305th District Court since 1995.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-fdj330-jones-tamika": {
+  "name": "Tamika Jones",
+  "website": "https://www.votejonesforjudge.com/",
+  "bio": "Family law attorney and judge, board certified in Family Law and Child Welfare Law, who spent nearly a decade at Legal Aid of Northwest Texas.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-cdj1-hudson-stephanie": {
+  "name": "Stephanie Hudson",
+  "website": "https://www.hudsonforjudge.com/",
+  "bio": null,
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-cdj5-smith-lakesha": {
+  "name": "Lakesha Smith",
+  "website": "https://www.lakeshasmithforjudge.com/",
+  "bio": "Attorney who has served as a Dallas County assistant district attorney, public defender, and legal advisor to the Dallas County Sheriff.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-cdj6-mulder-nancy": {
+  "name": "Nancy Mulder",
+  "website": "https://judgemuldercampaign.com/",
+  "bio": "Judge of Texas Criminal District Court 6, first elected to Dallas County Criminal Court 4 in 2014, with prior experience as a defense attorney and prosecutor.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-cdj7-anyiam-chika": {
+  "name": "Chika Anyiam",
+  "website": "https://judgechikaanyiam.com/home",
+  "bio": "Judge of Texas Criminal District Court #7 since 2018, with 20 years of prior criminal law experience.",
+  "positions": [
+   {
+    "topic": "Criminal justice reform",
+    "stance": "Dedicated to \"modern criminal justice reforms\" to identify those who may respond to rehabilitative assistance, use alternative sentencing, and enact bail reform for low-risk offenders.",
+    "sourceUrl": "https://judgechikaanyiam.com/home"
+   },
+   {
+    "topic": "Fair process",
+    "stance": "\"The most important thing when you go to court is a fair process and the opportunity to be heard\"; committed to equal treatment and efficient administration of justice.",
+    "sourceUrl": "https://judgechikaanyiam.com/home"
+   }
+  ],
+  "status": "ok",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccl1-nowell-erin": {
+  "name": "Erin Nowell",
+  "website": "https://www.nowellforjustice.com/",
+  "bio": "Former Justice on the Fifth District Court of Appeals, serving from 2018 through 2024.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccl2-bellan-melissa": {
+  "name": "Melissa J. Bellan",
+  "website": "https://judgebellan.com/",
+  "bio": "Presiding Judge of Dallas County Court at Law 2 since 2018; previously a civil litigation attorney who founded two law firms.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccl3-montgomery-sally": {
+  "name": "Sally Montgomery",
+  "website": "https://judgemontgomerycampaign.com/",
+  "bio": "Judge of Dallas County Court at Law 3 since 2003; previously judge of the 95th District Court (1997-2000).",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccl4-jones-dianne": {
+  "name": "Dianne Jones",
+  "website": "https://judgediannejones.com/",
+  "bio": "Presiding Judge of Dallas County Court at Law 4; previously presided over Dallas County Criminal Court 11 and served as an Assistant United States Attorney.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccl5-taylor-nicole": {
+  "name": "Nicole Taylor",
+  "website": "https://judgenicoletaylor.com/",
+  "bio": "Presiding judge of Dallas County Court at Law 5; previously a partner at The Cochran Law Firm Texas and managing attorney of The Taylor Law Firm, P.C.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccca1-guio-alexandra": {
+  "name": "Alexandra Guio",
+  "website": "https://alexandraforjustice.com/",
+  "bio": "Former Dallas County assistant district attorney in the Mental Health Division and former criminal defense attorney.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccca2-williams-cheryl": {
+  "name": "Cheryl Williams",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc1-baker-tifanee": {
+  "name": "Tifanee Baker",
+  "website": "https://judgetifaneebaker.com/",
+  "bio": "Former prosecutor and criminal defense attorney who founded T. Baker Law Office, P.C.; Associate Municipal Court Judge for the City of Dallas.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc2-hayes-julia": {
+  "name": "Julia Hayes",
+  "website": "https://juliahayes4justice.com/2021/",
+  "bio": "Judge of Dallas County Criminal Court #2 since 2010; previously ran her own criminal and family law practice.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc3-moorehead-audrey": {
+  "name": "Audrey Faye Moorehead",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc4-williams-dominique": {
+  "name": "Dominique Torres Williams",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc5-green-lisa": {
+  "name": "Lisa Green",
+  "website": "https://www.judgelisagreen.org/",
+  "bio": "Judge of Dallas County Criminal Court 5 since 2014; previously spent 10 years in the Dallas County Public Defender's Office.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc6-king-angela": {
+  "name": "Angela M King",
+  "website": "https://judgeangelaking.net/",
+  "bio": "Judge of Dallas County Criminal Court No. 6 since 2006; previously an assistant county and district attorney, assistant public defender, and criminal defense attorney.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc7-edwards-remeko": {
+  "name": "Remeko Tranisha Edwards",
+  "website": "https://www.judgertedwards.com/",
+  "bio": "Presiding Judge of Dallas County Criminal Court No. 7, with over 24 years of experience in the judicial system.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc8-white-carmen": {
+  "name": "Carmen White",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc9-singleton-carrie": {
+  "name": "Carrie Singleton",
+  "website": "https://carriesingleton.com/",
+  "bio": null,
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc10-huff-monique": {
+  "name": "Monique J Bracey Huff",
+  "website": "https://www.moniquejbraceyhuffforjudge.com/",
+  "bio": "Judge of Dallas County Criminal Court No. 10, a family violence court.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-ccc11-kelly-shequitta": {
+  "name": "Shequitta D Kelly",
+  "website": "https://shequittakelly.com/",
+  "bio": "Judge of Dallas County Criminal Court #11 since 2015; previously a child abuse prosecutor in the Dallas County District Attorney's Office.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-probate1-malveaux-julia": {
+  "name": "Julia Malveaux",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_website_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-probate2-warren-ingrid": {
+  "name": "Ingrid Michelle Warren",
+  "website": "https://judgeingridwarren.com/",
+  "bio": "Judge of Dallas County Probate Court No. 2 since 2015.",
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-dallas-2026-probate3-jones-johnson-margaret": {
+  "name": "Margaret Jones-Johnson",
+  "website": "https://margaretjonesjohnson4judge.com/",
+  "bio": null,
+  "positions": [],
+  "status": "website_no_issues_page",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ }
+}
