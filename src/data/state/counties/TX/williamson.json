@@ -1,0 +1,683 @@
+{
+  "state": "TX",
+  "county": "Williamson County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+    "https://www.wilcotx.gov/elections",
+    "https://www.wilcotx.gov/331/Commissioners-Court",
+    "https://www.austintexas.gov/clerk/november-2026-election",
+    "https://services.austintexas.gov/edims/document.cfm?id=481839",
+    "https://services.austintexas.gov/edims/document.cfm?id=481838"
+  ],
+  "note": "There are no countywide Williamson County propositions, and no District Attorney or County Attorney races, on the Nov 3, 2026 ballot. Round Rock has no citywide races or measures on this ballot. Not shown here: U.S. House, State Senate, State House and State Board of Education districts; County Commissioner (Precincts 2 and 4) and Justice of the Peace (Precincts 1-4) races; Austin City Council districts; Austin Community College trustees and annexation proposition; school district (Bartlett, Coupland, Florence, Georgetown, Leander, Pflugerville, Round Rock ISD and others), MUD and other special-district races and measures. Check your official sample ballot at wilcotx.gov/elections. Incumbent flags are shown only where the county's own website confirms the officeholder; judges are not marked. The 15th Court of Appeals races appear with statewide races. Austin proposition summaries match the City of Austin's official ballot language.",
+  "contests": [
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-county-judge-snell-steve",
+          "name": "Steve Snell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-williamson-2026-county-judge-jefts-heather",
+          "name": "Heather Jefts",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Chief Justice, 3rd Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-coa3-chief-liu-cory",
+          "name": "Cory Liu",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-williamson-2026-coa3-chief-byrne-darlene",
+          "name": "Darlene Byrne",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "District Judge, 277th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-dj277-mathews-stacey",
+          "name": "Stacey Mathews",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "District Judge, 368th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-dj368-bruchmiller-sarah",
+          "name": "Sarah Bruchmiller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "District Judge, 480th Judicial District, Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-dj480-unexp-davis-terence",
+          "name": "Terence Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "District Judge, 512th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-dj512-moore-sarah",
+          "name": "Sarah Moore",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-williamson-2026-dj512-booker-leslie",
+          "name": "Leslie Booker",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-ccl1-hallford-brandy",
+          "name": "Brandy Hallford",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-ccl2-barker-laura",
+          "name": "Laura Barker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-ccl3-fowler-kathryn",
+          "name": "Kathryn Fowler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-ccl4-oliver-david",
+          "name": "David Oliver",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-district-clerk-mendoza-cathy",
+          "name": "Cathy Mendoza",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-county-clerk-fairbrother-bill",
+          "name": "Bill Fairbrother",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-williamson-2026-county-clerk-block-erin",
+          "name": "Erin Block",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-treasurer-callahan-carole",
+          "name": "Carole Callahan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "County Tax Assessor-Collector, Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-tax-assessor-unexp-totty-catherine",
+          "name": "Catherine Totty",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-williamson-2026-tax-assessor-unexp-hanke-eric",
+          "name": "Eric Hanke",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Williamson Central Appraisal District Board of Directors, Place 1",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-wcad-p1-hisle-piper-hope",
+          "name": "Hope Hisle-Piper",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-williamson-2026-wcad-p1-stephenson-clint",
+          "name": "Clint Stephenson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Williamson Central Appraisal District Board of Directors, Place 2",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-wcad-p2-zaparolli-stephan",
+          "name": "Stephan Zaparolli",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    },
+    {
+      "office": "Williamson Central Appraisal District Board of Directors, Place 3",
+      "candidates": [
+        {
+          "key": "tx-williamson-2026-wcad-p3-moses-mason",
+          "name": "Mason Moses",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Austin": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Austin Proposition A",
+          "title": "Parks, recreation, aquatic and open space bonds ($260,000,000) – THIS IS A TAX INCREASE",
+          "summary": "Authorizes the City to issue up to $260 million in general obligation bonds for citywide park, recreation, aquatic and open space improvements and land acquisition, and to levy property taxes to repay them. The ordinance lists priority projects including the Gus Garcia Recreation Center, Doris Miller Auditorium, Mayfield Park, several trails and parks, four pools, and parkland acquisition.",
+          "yesMeans": "The City may issue up to $260 million in park bonds and levy taxes to repay them.",
+          "noMeans": "The City may not issue these park bonds.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481838",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition B",
+          "title": "Library facilities bonds ($35,000,000) – THIS IS A TAX INCREASE",
+          "summary": "Authorizes the City to issue up to $35 million in general obligation bonds for library facilities and to levy property taxes to repay them. The ordinance gives priority to the existing Hampton at Oak Hill branch library and a new Colony Park branch library.",
+          "yesMeans": "The City may issue up to $35 million in library bonds and levy taxes to repay them.",
+          "noMeans": "The City may not issue these library bonds.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481838",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition C",
+          "title": "Charter amendment: Independent Citizens Redistricting Commission",
+          "summary": "Amends the City Charter to state that the Independent Citizens Redistricting Commission (ICRC) is independent of City Council control and to let it review council districts after the City's boundaries change. It also creates voter-registration and residency-length exceptions for student members, sets an effective date for the ICRC's plan, enlarges the pool of potential appointees, clarifies how vacancies are filled, and lets City staff communicate with the ICRC outside meetings in compliance with the Texas Open Meetings Act.",
+          "yesMeans": "The listed changes to the redistricting commission's charter provisions are adopted.",
+          "noMeans": "The charter's current redistricting commission provisions stay as they are.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition D",
+          "title": "Charter amendment: weekly Council meetings",
+          "summary": "Amends the City Charter to delete the language providing that the City Council shall meet at least once each week.",
+          "yesMeans": "The charter would no longer require the Council to meet at least once a week.",
+          "noMeans": "The charter keeps requiring the Council to meet at least once a week.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition E",
+          "title": "Charter amendment: Council rules by ordinance",
+          "summary": "Amends the City Charter to delete the language requiring the City Council to determine its rules and order of business by ordinance.",
+          "yesMeans": "The charter would no longer require the Council to set its rules and order of business by ordinance.",
+          "noMeans": "The charter keeps requiring the Council to set its rules and order of business by ordinance.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition F",
+          "title": "Charter amendment: campaign finance limits and the term \"election\"",
+          "summary": "Amends the City Charter to clarify the meaning of the term \"election\" and to have campaign contribution and expenditure limits adjusted each year by January 1 instead of when the City budget is adopted.",
+          "yesMeans": "The term \"election\" is clarified and campaign limits are adjusted each year by January 1.",
+          "noMeans": "Campaign limits keep being adjusted when the budget is adopted, and the term is not redefined.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition G",
+          "title": "Charter amendment: timing of initiative and petitioned charter elections",
+          "summary": "Amends the City Charter so that initiative elections and petitioned charter amendment elections must be held on the next available November election date in an even-numbered year that allows enough time to meet other legal requirements.",
+          "yesMeans": "Initiative and petitioned charter amendment elections would be held on the next available even-year November election date.",
+          "noMeans": "The charter's current timing rules for these elections stay in place.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition H",
+          "title": "Charter amendment: appointment and removal of the City Attorney",
+          "summary": "Amends the City Charter to provide that the City Council appoints and removes the City Attorney.",
+          "yesMeans": "The City Council would appoint and remove the City Attorney.",
+          "noMeans": "The charter's current process for appointing and removing the City Attorney stays in place.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition I",
+          "title": "Charter amendment: Independent Affordability and Efficiency Initiative",
+          "summary": "Amends the City Charter to require an Independent Affordability and Efficiency Initiative on a regular basis and before any tax rate increase election. The independent contractor would have to identify annual and multi-year savings that exceed the cost of the contractor's service.",
+          "yesMeans": "The City would be required to conduct the independent affordability and efficiency review regularly and before any tax rate increase election.",
+          "noMeans": "No such charter requirement is added.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        },
+        {
+          "id": "City of Austin Proposition J",
+          "title": "Charter amendment: non-substantive corrections",
+          "summary": "Amends the City Charter to correct typographical errors, punctuation and sentence structure, and to change or remove language that is moot or unenforceable because state law or a final court order has superseded it.",
+          "yesMeans": "The listed corrections and removals of superseded language are made to the charter.",
+          "noMeans": "The charter text stays as it is.",
+          "source": "https://services.austintexas.gov/edims/document.cfm?id=481839",
+          "moreInfo": "https://www.austintexas.gov/clerk/november-2026-election"
+        }
+      ]
+    },
+    "Georgetown": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Georgetown Proposition A",
+          "title": "Reauthorization of the local sales and use tax for street maintenance",
+          "summary": "Reauthorizes the City of Georgetown's local sales and use tax at the rate of one-fourth of one percent. The revenue continues to be used for maintenance and repair of municipal streets.",
+          "yesMeans": "The city's quarter-cent sales tax for street maintenance and repair continues.",
+          "noMeans": "The city's quarter-cent sales tax for street maintenance and repair is not reauthorized.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        }
+      ]
+    },
+    "Hutto": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Hutto Proposition A",
+          "title": "Justice Center bonds ($48,000,000) – THIS IS A TAX INCREASE",
+          "summary": "Authorizes the City of Hutto to issue up to $48 million in bonds for a new Justice Center to serve as police headquarters. It also authorizes property taxes sufficient to pay the principal and interest on the bonds.",
+          "yesMeans": "The city may issue up to $48 million in bonds for a new Justice Center and levy taxes to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        }
+      ]
+    },
+    "Jarrell": {
+      "contests": [
+        {
+          "office": "City of Jarrell Mayor",
+          "candidates": [
+            {
+              "key": "tx-williamson-2026-jarrell-mayor-allen-lori",
+              "name": "Lori Allen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+        },
+        {
+          "office": "City of Jarrell Alderman, Place 1",
+          "candidates": [
+            {
+              "key": "tx-williamson-2026-jarrell-alderman-p1-klepac-daniel",
+              "name": "Daniel J. Klepac",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-williamson-2026-jarrell-alderman-p1-coy-frederick",
+              "name": "Frederick Coy",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+        },
+        {
+          "office": "City of Jarrell Alderman, Place 2",
+          "candidates": [
+            {
+              "key": "tx-williamson-2026-jarrell-alderman-p2-jordan-tim",
+              "name": "Tim Jordan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+        }
+      ],
+      "measures": []
+    },
+    "Pflugerville": {
+      "contests": [
+        {
+          "office": "City of Pflugerville Council Member, Place 2",
+          "candidates": [
+            {
+              "key": "tx-williamson-2026-pflugerville-council-p2-rogers-david",
+              "name": "David Rogers",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-williamson-2026-pflugerville-council-p2-ruiz-ceasar",
+              "name": "Ceasar Ruiz",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+        },
+        {
+          "office": "City of Pflugerville Council Member, Place 4",
+          "candidates": [
+            {
+              "key": "tx-williamson-2026-pflugerville-council-p4-barlow-trent",
+              "name": "Trent Barlow",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-williamson-2026-pflugerville-council-p4-lozada-de-juana",
+              "name": "De Juana \"De J.\" Lozada",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-williamson-2026-pflugerville-council-p4-harrington-gregory",
+              "name": "Gregory L. Harrington",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+        },
+        {
+          "office": "City of Pflugerville Council Member, Place 6",
+          "candidates": [
+            {
+              "key": "tx-williamson-2026-pflugerville-council-p6-mitchell-oscar",
+              "name": "Oscar R. Mitchell",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Pflugerville Proposition A",
+          "title": "Charter amendment: City Council compensation",
+          "summary": "Amends the City Charter to authorize monthly pay for City Council members: $750 per month for the Mayor and $500 per month for Council Members.",
+          "yesMeans": "Council members would receive the stated monthly pay.",
+          "noMeans": "The charter would not authorize this monthly pay.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition B",
+          "title": "Charter amendment: data, facial recognition, surveillance technology and AI",
+          "summary": "Adds a charter section requiring the City Council to adopt protections governing the collection, use, retention and oversight of data, facial recognition and surveillance technologies. It also requires transparent approval processes for such technologies and a responsible artificial intelligence framework.",
+          "yesMeans": "The charter would require these technology protections, approval processes and an AI framework.",
+          "noMeans": "The charter would not add this section.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition C",
+          "title": "Charter amendment: procedures for adopting ordinances",
+          "summary": "Amends the charter to eliminate the requirement that a proposed ordinance be read at two Council meetings, requiring an additional reading only when the Council determines an amendment substantively changes the ordinance. It also revises related notice and public-availability procedures.",
+          "yesMeans": "Ordinances would no longer need two readings unless substantively amended, and related procedures would be revised.",
+          "noMeans": "The current two-reading requirement and related procedures stay in place.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition D",
+          "title": "Charter amendment: petition signature threshold",
+          "summary": "Lowers the percentage of qualified voters required to sign a petition for an initiative, referendum or nonbinding referendum from 15% to 10%.",
+          "yesMeans": "Petitions would need signatures from 10% of qualified voters.",
+          "noMeans": "Petitions would continue to need signatures from 15% of qualified voters.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition E",
+          "title": "Charter amendment: Council meeting and agenda procedures",
+          "summary": "Revises Council meeting and agenda procedures, including requiring that an item submitted by a Council Member with a second Council Member's support be placed on an agenda within 60 days and that the Mayor include such items. It also clarifies the Council's meeting requirements with City-created boards and commissions.",
+          "yesMeans": "The listed agenda and meeting procedure changes would be adopted.",
+          "noMeans": "The current agenda and meeting procedures stay in place.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition F",
+          "title": "Charter amendment: voter petition requirements",
+          "summary": "Provides that voter petition requirements be completed in compliance with state law and extends the deadline to file a supplementary petition, after a petition is certified insufficient, from two weeks to four weeks.",
+          "yesMeans": "Petitions would follow state law requirements and the supplementary petition deadline would be four weeks.",
+          "noMeans": "The current petition provisions and two-week deadline stay in place.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition G",
+          "title": "Charter amendment: annual budget and capital project reporting",
+          "summary": "Revises requirements for the City's annual budget, including that the City Manager follow Government Finance Officers Association budget-award guidelines and include comparative information and a five-year financial forecast. It also adds a charter section requiring a publicly accessible reporting system and close-out reports for major capital projects.",
+          "yesMeans": "The listed budget requirements and capital project reporting would be added to the charter.",
+          "noMeans": "The current budget provisions stay in place and the reporting section is not added.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition H",
+          "title": "Charter amendment: excusing the City Manager from meetings",
+          "summary": "Authorizes the Mayor alone to excuse the City Manager from attending a meeting.",
+          "yesMeans": "The Mayor alone could excuse the City Manager from a meeting.",
+          "noMeans": "The charter would not give the Mayor alone this authority.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition I",
+          "title": "Charter amendment: ETJ residents on boards and commissions",
+          "summary": "Allows the City Council to appoint residents of the city's extraterritorial jurisdiction (ETJ) as non-voting advisory participants on city boards and commissions.",
+          "yesMeans": "The Council could appoint ETJ residents as non-voting advisory participants.",
+          "noMeans": "The charter would not allow these appointments.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition J",
+          "title": "Charter amendment: strategic direction and policy framework",
+          "summary": "Provides that the Mayor and City Council set the strategic direction and general policy framework of the City.",
+          "yesMeans": "The charter would state that the Mayor and Council set the City's strategic direction and policy framework.",
+          "noMeans": "The charter would not add this provision.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition K",
+          "title": "Charter amendment: public comment during removal proceedings",
+          "summary": "Allows public comment during removal proceedings without requiring City Council approval.",
+          "yesMeans": "Public comment would be allowed during removal proceedings without Council approval.",
+          "noMeans": "The current rules on public comment during removal proceedings stay in place.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition L",
+          "title": "Charter amendment: Municipal Court Judge residency",
+          "summary": "Removes the requirement that the Municipal Court Judge reside within the City.",
+          "yesMeans": "The Municipal Court Judge would no longer have to live in the City.",
+          "noMeans": "The Municipal Court Judge would still have to live in the City.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition M",
+          "title": "Charter amendment: public participation in Council meetings",
+          "summary": "Adds a new Section 11.05 specifying how the public may participate in City Council meetings, including written comments on agenda items and participation by remote communication to the extent state law permits.",
+          "yesMeans": "The charter would specify these ways for the public to participate in Council meetings.",
+          "noMeans": "The charter would not add this section.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Pflugerville Proposition N",
+          "title": "Charter amendment: technical and conforming corrections",
+          "summary": "Makes non-substantive technical and conforming corrections, including standardizing capitalization, adopting language that conforms with state law, and amending or deleting language that is unnecessary or duplicates state law.",
+          "yesMeans": "The listed technical corrections would be made to the charter.",
+          "noMeans": "The charter text stays as it is.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        }
+      ]
+    },
+    "Taylor": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Taylor Proposition A",
+          "title": "Charter amendment: Section 4.1 cleanup",
+          "summary": "Amends Section 4.1 of the City Charter to delete language that is redundant of and inconsistent with other sections of the Charter.",
+          "yesMeans": "The redundant and inconsistent language in Section 4.1 would be deleted.",
+          "noMeans": "Section 4.1 stays as it is.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Taylor Proposition B",
+          "title": "Charter amendment: Councilmember indebtedness requirement",
+          "summary": "Amends Section 4.2 of the City Charter to delete the requirement that a Councilmember not be indebted to the City, for consistency with state and federal law.",
+          "yesMeans": "The rule that Councilmembers may not be indebted to the City would be removed.",
+          "noMeans": "The rule stays in the charter.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Taylor Proposition C",
+          "title": "Charter amendment: filling Council vacancies",
+          "summary": "Amends Section 4.4 so that if a Council vacancy occurs with 12 months or less remaining in the term, the Council may, by majority vote of the remaining members, fill the vacancy at the next regularly scheduled election.",
+          "yesMeans": "The Council could choose to fill such late-term vacancies at the next regular election.",
+          "noMeans": "The current vacancy provisions stay in place.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Taylor Proposition D",
+          "title": "Charter amendment: term limits for Mayor and Council",
+          "summary": "Adds Section 4.6 limiting any person to four terms in any combination of the offices of Mayor or City Councilmember. A person who has served four terms would be permanently ineligible to seek election or appointment to either office.",
+          "yesMeans": "A four-term lifetime limit would apply to the Mayor and Council offices combined.",
+          "noMeans": "No term limits would be added to the charter.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Taylor Proposition E",
+          "title": "Charter amendment: Council powers and agenda items",
+          "summary": "Amends Section 7.1 to give every Councilmember, including the Mayor, the same power and authority except where the charter gives the Mayor explicit duties. Every Councilmember could place any item on the Council agenda, which the City Manager or Mayor could not refuse, while the City Manager and Mayor would set the order of items.",
+          "yesMeans": "The listed changes to Council powers and agenda rules would be adopted.",
+          "noMeans": "Section 7.1 stays as it is.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Taylor Proposition F",
+          "title": "Charter amendment: disclosure of code-named projects",
+          "summary": "Adds an article requiring that, before the Council takes final binding action on a matter deliberated in executive session under a project code name or other non-identifying reference, the posted agenda item give enough specific information for the public to know the project, including the company's name.",
+          "yesMeans": "Agenda items for such projects would have to identify the project, including the company name, before final action.",
+          "noMeans": "The charter would not add this requirement.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        },
+        {
+          "id": "City of Taylor Proposition G",
+          "title": "Charter amendment: Charter Review Commission",
+          "summary": "Adds a section requiring the City Council to appoint a Charter Review Commission at least once every ten years and providing a process for appointment and review.",
+          "yesMeans": "The Council would have to appoint a Charter Review Commission at least every ten years.",
+          "noMeans": "The charter would not add this requirement.",
+          "source": "https://www.wilcotx.gov/DocumentCenter/View/22018/20261103-November-JGSE---COMPREHENSIVE-SAMPLE-BALLOT-PDF",
+          "moreInfo": "https://www.wilcotx.gov/elections"
+        }
+      ]
+    }
+  }
+}
