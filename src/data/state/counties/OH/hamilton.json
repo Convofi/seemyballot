@@ -1,0 +1,303 @@
+{
+  "state": "OH",
+  "county": "Hamilton County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf",
+    "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/Nov-2026-QUESTIONS-AND-ISSUES-Filed-2.pdf",
+    "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/November-2026-Ballot-Issues.pdf",
+    "https://hamiltoncountycourts.org/index.php/common-pleas-judges/",
+    "https://www.firstdistrictcoa.org",
+    "https://juvenile-court.org/judges-and-magistrates/",
+    "https://www.probatect.org/",
+    "https://www.hamiltoncountyohio.gov/government/courts/court_of_domestic_relations/judges_and_magistrates.php",
+    "https://www.hamiltoncountyohio.gov/",
+    "https://www.hamiltoncountyauditor.org/"
+  ],
+  "note": "Hamilton County Municipal Court judges (elected by district), school district issues (including Cincinnati Public Schools Issue 4), city and village issues outside Cincinnati, township issues, and precinct liquor options (including Cincinnati precinct 9-D, Issue 12) are not shown here. Cincinnati's mayor and council are elected in odd-numbered years, and no citywide Cincinnati issue is on this ballot. Check your official sample ballot for the items not shown.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 1st District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-app1-2026-0209-bock-ginger",
+          "name": "Ginger S. Bock",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0101-casch-katie",
+          "name": "Katie Casch",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-hamilton-2026-cpgen-0101-johnson-donte",
+          "name": "Donte Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0102-jenkins-christian",
+          "name": "Christian A. Jenkins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-hamilton-2026-cpgen-0102-sundermann-betsy",
+          "name": "Betsy Sundermann",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/4/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0104-wagner-chris",
+          "name": "Chris Wagner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0209-bouchard-roger",
+          "name": "Roger Bouchard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-hamilton-2026-cpgen-0209-branch-jennifer",
+          "name": "Jennifer Branch",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0210-mahoney-dennis",
+          "name": "Dennis Charles Mahoney",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-hamilton-2026-cpgen-0210-triggs-alan",
+          "name": "Alan C. Triggs",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/11/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0211-goering-robert",
+          "name": "Robert A. Goering",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-hamilton-2026-cpgen-0211-maley-latoya",
+          "name": "Latoya S. Maley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/12/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0212-cross-wende",
+          "name": "Wende C. Cross",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/13/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-0213-hatheway-alison",
+          "name": "Alison Hatheway",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (unexpired term ending 1/3/2029)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-ute0103-henry-sarah",
+          "name": "Sarah Henry",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-hamilton-2026-cpgen-ute0103-mcdowell-chris",
+          "name": "Chris McDowell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (unexpired term ending 1/14/2029)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpgen-ute0114-dinkelacker-leah",
+          "name": "Leah Dinkelacker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-hamilton-2026-cpgen-ute0114-kotian-manisha",
+          "name": "Manisha Kotian",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Drug Court Division (term beginning 1/3/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpdrug-0103-sanders-nicole",
+          "name": "Nicole L. Sanders",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 7/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-cpdr-0701-evans-tiffany",
+          "name": "Tiffany Evans",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile Division (term beginning 2/14/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-juvenile-0214-bloom-kari",
+          "name": "Kari L. Bloom",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-hamilton-2026-juvenile-0214-luken-susan",
+          "name": "Susan Luken",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-probate-0209-tye-elizabeth",
+          "name": "Elizabeth A. Tye",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-hamilton-2026-probate-0209-winkler-ralph",
+          "name": "Ralph Winkler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-commissioner-0101-owens-meeka",
+          "name": "Meeka Owens",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-hamilton-2026-commissioner-0101-pearson-jonathan",
+          "name": "Jonathan Pearson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-hamilton-2026-commissioner-0101-davis-carrie",
+          "name": "Carrie R. Davis",
+          "party": "Independent",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    {
+      "office": "County Auditor (term beginning 3/8/2027)",
+      "candidates": [
+        {
+          "key": "oh-hamilton-2026-auditor-miranda-jessica",
+          "name": "Jessica E. Miranda",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 10",
+      "title": "Hamilton County – Proposed Tax Levy (Renewal and Increase): Children's Services",
+      "summary": "Renews a 4.51-mill property tax and adds 1.1 mill, for a total of up to 5.61 mills for 4 years, to support children's services and the care and placement of children. The ballot language says this amounts to $121 for each $100,000 of county auditor's market value, and the county auditor estimates it will collect $116,888,718 a year. It would begin in 2026, first due in 2027.",
+      "yesMeans": "The 5.61-mill children's services levy (renewal plus increase) is collected for 4 years.",
+      "noMeans": "The renewal and the increase are not approved.",
+      "source": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/November-2026-Ballot-Issues.pdf",
+      "moreInfo": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/Nov-2026-QUESTIONS-AND-ISSUES-Filed-2.pdf"
+    }
+  ],
+  "municipalities": {}
+}
