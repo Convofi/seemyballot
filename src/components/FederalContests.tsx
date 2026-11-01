@@ -147,6 +147,7 @@ function CandidateList({ candidates }: { candidates: CandidateData[] }) {
           ]}
           fecUrl={c.fecUrl}
           positions={c.positions}
+          finance={c.finance}
         />
       ))}
     </ul>

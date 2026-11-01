@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   // These routes read these from disk at request time.
   outputFileTracingIncludes: {
     "/api/state-ballot": ["./src/data/state/*.json", "./src/data/state/counties/*/*.json", "./src/data/positions/*.json"],
-    "/api/contests": ["./src/data/positions/*.json"],
+    "/api/contests": ["./src/data/positions/*.json", "./src/data/finance2026.json"],
   },
   turbopack: {
     rules: {

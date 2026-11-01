@@ -1,6 +1,7 @@
 import { SENATE_2026_STATES } from "@/data/senate2026";
 import fec2026 from "@/data/fec2026.json";
 import nominees2026 from "@/data/nominees2026.json";
+import { getFinance, type CandidateFinance } from "@/lib/finance";
 import { getPositions, type CandidatePositions } from "@/lib/positions";
 
 // Static snapshot of OpenFEC /candidates/ (all 2026 House + Senate filers,
@@ -26,6 +27,8 @@ export type Candidate = {
   writeIn: boolean;
   /** Stated positions from the campaign site; null = not looked up yet. */
   positions: CandidatePositions | null;
+  /** FEC money summary; only on `likely` candidates (null = none on file). */
+  finance?: CandidateFinance | null;
 };
 
 export type Contest = {
@@ -377,6 +380,17 @@ function dedupe(rows: FecCandidate[]): FecCandidate[] {
   return [...byPerson.values()];
 }
 
+/** Attach FEC money data to the likely tier only; other filers stay lean. */
+function withFinance<T extends { likely: Candidate[] }>(contest: T): T {
+  return {
+    ...contest,
+    likely: contest.likely.map((c) => ({
+      ...c,
+      finance: c.candidateId.startsWith("wiki:") ? null : getFinance(c.candidateId),
+    })),
+  };
+}
+
 function candidatesFor(state: string, office: "S" | "H", district: string) {
   const key = `${state}-${office}-${district}`;
   const rows = DATA.races[key];
@@ -422,11 +436,11 @@ export async function getFederalContests(
           office: "S",
           special: senateKind === "special",
           district: "00",
-          ...candidatesFor(state, "S", "00"),
+          ...withFinance(candidatesFor(state, "S", "00")),
         }
       : null,
     house: district
-      ? { office: "H", special: false, district, ...candidatesFor(state, "H", district) }
+      ? { office: "H", special: false, district, ...withFinance(candidatesFor(state, "H", district)) }
       : null,
   };
 }

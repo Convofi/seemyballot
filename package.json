@@ -11,7 +11,8 @@
     "fetch-fec": "node scripts/fetch-fec.mjs",
     "check-voting": "node scripts/check-voting.mjs",
     "fetch-positions": "node scripts/fetch-positions.mjs",
-    "fetch-nominees": "node scripts/fetch-nominees.mjs"
+    "fetch-nominees": "node scripts/fetch-nominees.mjs",
+    "fetch-finance": "node scripts/fetch-finance.mjs"
   },
   "dependencies": {
     "@upstash/redis": "^1.40.0",
