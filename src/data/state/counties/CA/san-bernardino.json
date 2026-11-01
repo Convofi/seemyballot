@@ -1,0 +1,230 @@
+{
+  "state": "CA",
+  "county": "San Bernardino County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Report_CandidateList.pdf",
+    "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Report_RunOffContests.pdf",
+    "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Report_OfficesUpForElection.pdf",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+    "https://elections.sbcounty.gov/elections/2026/1103/measures/",
+    "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/Notice_SBCTA.pdf",
+    "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/IA_SBCTA.pdf",
+    "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/VIG.pdf"
+  ],
+  "note": "Not shown: Board of Supervisors (elected by district; none on the November list), County Board of Education Areas A, B and D, City of San Bernardino City Council Wards 1, 2 and 4, other city mayor and council contests, school and community college boards, water, fire, healthcare, park and community services districts, congressional and legislative districts, and school, city and special-district measures (including San Bernardino City Unified's Measure Z and San Bernardino Community College District's Measure Y). Sheriff-Coroner, District Attorney, Assessor-Recorder-Clerk, Auditor-Controller/Treasurer/Tax Collector and Superior Court judges are not on the November ballot (the only county office on the Registrar's run-off list is County Superintendent of Schools). Court of Appeal justices are elected by all voters in the Fourth Appellate District, so San Bernardino County voters see retention questions for Divisions One, Two and Three. The City of San Bernardino has no mayor contest and no citywide measure on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "County Superintendent of Schools",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-superintendent-vara-alejandro",
+          "name": "Alejandro \"Alex\" Vara",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.varaforschools.com/"
+        },
+        {
+          "key": "ca-san-bernardino-2026-superintendent-binks-cali",
+          "name": "Cali Binks",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.cali4countyschools.com/"
+        }
+      ],
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Report_CandidateList.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Eran M. Bermudez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-1-bermudez-eran",
+          "name": "Eran M. Bermudez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Jose S. Castillo? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-1-castillo-jose",
+          "name": "Jose S. Castillo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Truc T. Do? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-1-do-truc",
+          "name": "Truc T. Do",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — elect Lisa Rodriguez? (yes/no; currently a San Diego County Superior Court Judge)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-1-rodriguez-lisa",
+          "name": "Lisa Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain David M. Rubin? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-1-rubin-david",
+          "name": "David M. Rubin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain William S. Dato? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-1-dato-william",
+          "name": "William S. Dato",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Julia C. Kelety? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-1-kelety-julia",
+          "name": "Julia C. Kelety",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Two — retain Corey G. Lee? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-2-lee-corey",
+          "name": "Corey G. Lee",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Two — retain Michael J. Raphael? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-2-raphael-michael",
+          "name": "Michael J. Raphael",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, Fourth District, Division Three — retain Joanne Motoike? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-3-motoike-joanne",
+          "name": "Joanne Motoike",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Nathan R. Scott? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-3-scott-nathan",
+          "name": "Nathan R. Scott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Juliet O. Macaulay? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-3-macaulay-juliet",
+          "name": "Juliet O. Macaulay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Martha K. Gooding? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-3-gooding-martha",
+          "name": "Martha K. Gooding",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Thomas A. Delaney? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-3-delaney-thomas",
+          "name": "Thomas A. Delaney",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Deborah C. Servino? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-bernardino-2026-coa4-3-servino-deborah",
+          "name": "Deborah C. Servino",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure I",
+      "title": "Local Transportation Improvement Program — San Bernardino County Road Repair/Traffic Relief Extension",
+      "summary": "Placed on the ballot by the San Bernardino County Transportation Authority, this measure would extend the existing voter-approved half-cent transportation sales tax, now set to expire March 31, 2040, until ended by voters, without raising tax rates. The ballot question says it would provide about $250,000,000 a year for road and pothole repair, freeway and highway projects, bridge and overpass upgrades, and keeping student, senior, disabled and veteran transit fares low, with audits, oversight and spending disclosure. Revenue may be used only for transportation purposes under a voter-approved expenditure plan, and the measure needs two-thirds approval.",
+      "yesMeans": "The existing half-cent transportation sales tax continues after March 31, 2040, until ended by voters, to fund the listed transportation purposes.",
+      "noMeans": "The existing half-cent transportation sales tax is not extended and expires March 31, 2040.",
+      "source": "https://uploads.rov.sbcounty.gov/ROV/Elections/2026/1103/Measures/County/Notice_SBCTA.pdf",
+      "moreInfo": "https://elections.sbcounty.gov/elections/2026/1103/measures/"
+    }
+  ],
+  "municipalities": {}
+}
