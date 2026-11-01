@@ -1,0 +1,258 @@
+{
+  "state": "TX",
+  "county": "Montgomery County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.mctx.org/samplebal.asp?ElectionId=GEN110326&curLang=English",
+    "https://elections.mctx.org/Samples/GEN110326/paper.pdf",
+    "https://elections.mctx.org/pdf/votingpcts2026_r1.pdf",
+    "https://www.txcourts.gov/9thcoa/about-the-court/justices/"
+  ],
+  "note": "From the Montgomery County Elections master sample ballot for the November 3, 2026 Joint Election. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precincts 1-5), U.S. House, State Board of Education, State Senate and State House districts, school district trustee races (Conroe, New Caney, Tomball and Willis ISDs), The Woodlands Township directors, municipal utility district and other special-district races and measures, and city races in cities other than Houston (for example Roman Forest). There are no countywide propositions and no County Attorney or Sheriff race on the Montgomery County ballot this year, and the City of Conroe has no November items. The Houston proposition appears only on ballots for the part of Houston inside Montgomery County. Statewide races, including the 15th Court of Appeals, are listed with the Texas statewide ballot. Incumbent flags come from Montgomery County Elections' list of elected officials and the 9th Court of Appeals' justices page; Appraisal District incumbency is not marked. Names are shown in normal capitalization. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Chief Justice, 9th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-coa9-chief-golemon-scott",
+          "name": "Scott Golemon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "District Judge, 221st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-dist-221-michalk-lisa",
+          "name": "Lisa Michalk",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "District Judge, 284th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-dist-284-bays-kristin",
+          "name": "Kristin Bays",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "District Judge, 359th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-dist-359-ghutzman-michael",
+          "name": "Michael H. Ghutzman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "District Attorney, 9th Judicial District - Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-da-holley-mike",
+          "name": "Mike Holley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-county-judge-keough-mark",
+          "name": "Mark Keough",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-montgomery-2026-county-judge-graf-james",
+          "name": "James Graf",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-ccl-1-hafley-john",
+          "name": "John C. Hafley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-ccl-3-tucker-amy",
+          "name": "Amy Tucker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-ccl-4-hutson-echo",
+          "name": "Echo Hutson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 6",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-ccl-6-valdez-scharlene",
+          "name": "Scharlene White Valdez",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-probate-1-laird-claudia",
+          "name": "Claudia Laird",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-district-clerk-miller-melisa",
+          "name": "Melisa Miller",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-county-clerk-steinmann-brandon",
+          "name": "Brandon Steinmann",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-county-treasurer-bush-melanie",
+          "name": "Melanie K. Bush",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Montgomery Central Appraisal District, Board of Directors, Place 1",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-mcad-p1-inman-dale",
+          "name": "Dale Inman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-montgomery-2026-mcad-p1-beck-gary",
+          "name": "Gary Beck",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Montgomery Central Appraisal District, Board of Directors, Place 2",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-mcad-p2-smith-frank",
+          "name": "Frank S. Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-montgomery-2026-mcad-p2-mixon-creg",
+          "name": "Creg Mixon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    },
+    {
+      "office": "Montgomery Central Appraisal District, Board of Directors, Place 3",
+      "candidates": [
+        {
+          "key": "tx-montgomery-2026-mcad-p3-tavel-sherry",
+          "name": "Sherry D. Tavel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-montgomery-2026-mcad-p3-melder-webb",
+          "name": "Webb Melder",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Houston": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Houston, Charter Amendment Election, Proposition A",
+          "summary": "Would amend the Houston City Charter to require the Houston Police Department to make enforcement of Class A and Class B misdemeanor marijuana possession its lowest law-enforcement priority, with related reporting requirements. It would also prohibit Houston police officers from requesting or executing \"no-knock\" search warrants.",
+          "yesMeans": "The charter would make misdemeanor marijuana possession HPD's lowest enforcement priority, add related reporting, and ban no-knock warrants by Houston police.",
+          "noMeans": "The charter is not changed; current police enforcement priorities and warrant practices stay as they are.",
+          "source": "https://elections.mctx.org/Samples/GEN110326/paper.pdf"
+        }
+      ]
+    }
+  }
+}
