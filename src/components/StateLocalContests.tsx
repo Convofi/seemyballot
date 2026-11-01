@@ -8,6 +8,7 @@ import type {
   StateBallotResponse as Data,
 } from "@/lib/stateBallot";
 import { Candidate } from "@/components/Candidate";
+import { getStateLinks } from "@/components/HowToVote";
 import { useReportSummary, type SummaryPart } from "@/components/summary";
 import {
   Card,
@@ -86,6 +87,7 @@ export default function StateLocalContests({
   }, [url]);
 
   const current = result?.url === url ? result : null;
+  const links = getStateLinks(state);
 
   const ballot = current && "data" in current ? current.data : null;
   const countyBallot = ballot?.county ?? null;
@@ -135,6 +137,12 @@ export default function StateLocalContests({
   return (
     <>
       <Section id="state" title={`${stateName} and local contests`} intro={ballot.notice}>
+        {links && (
+          <p className="mt-1.5 text-xs text-ink-3">
+            Campaign finance filings for {stateName} candidates:{" "}
+            <ExtLink href={links.campaignFinanceUrl}>{links.campaignFinanceName}</ExtLink>
+          </p>
+        )}
         <ContestGroup title="Statewide" contests={ballot.statewide.contests} />
         <ContestGroup title="State legislature" contests={legislativeContests} />
         <ContestGroup title={county ?? "County"} contests={countyContests} id="local" />

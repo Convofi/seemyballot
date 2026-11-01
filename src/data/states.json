@@ -8,8 +8,10 @@
     "registrationCheckUrl": "https://myvoterportal.alaska.gov/",
     "voterIdUrl": "https://www.elections.alaska.gov/Core/votingatthepollsonelectionday.php",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Alaska_2026_ballot_measures",
+    "campaignFinanceUrl": "https://aws.state.ak.us/ApocReports/Home.aspx",
+    "campaignFinanceName": "Alaska Public Offices Commission (APOC) reports",
     "notes": "Alaska's general election uses ranked choice voting. Polls are open 7 a.m. to 8 p.m.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "AL": {
     "name": "Alabama",
@@ -20,8 +22,10 @@
     "registrationCheckUrl": "https://myinfo.alabamavotes.gov/voterview",
     "voterIdUrl": "https://www.sos.alabama.gov/alabama-votes/photo-voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Alabama_2026_ballot_measures",
+    "campaignFinanceUrl": "https://fcpa.alabamavotes.gov/",
+    "campaignFinanceName": "Alabama Secretary of State campaign finance (FCPA) reports",
     "notes": "Bring an approved photo ID to vote at the polls. Sample ballots are posted by county; open your county's sample ballot from the linked state page.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "AR": {
     "name": "Arkansas",
@@ -32,8 +36,10 @@
     "registrationCheckUrl": "https://www.voterview.ar-nova.org/voterview",
     "voterIdUrl": "https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Arkansas_2026_ballot_measures",
+    "campaignFinanceUrl": "https://ethics-disclosures.sos.arkansas.gov/",
+    "campaignFinanceName": "Arkansas Secretary of State financial disclosure search",
     "notes": "",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "AZ": {
     "name": "Arizona",
@@ -44,8 +50,10 @@
     "registrationCheckUrl": "https://my.arizona.vote/WhereToVote.aspx?s=individual",
     "voterIdUrl": "https://azsos.gov/elections/voters/voting-elections",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Arizona_2026_ballot_measures",
+    "campaignFinanceUrl": "https://seethemoney.az.gov/",
+    "campaignFinanceName": "Arizona Secretary of State See The Money",
     "notes": "Sample ballots come from your county; the link goes to the state's directory of county election offices. You must show ID to vote in person. Maricopa County voters are directed to locations.maricopa.vote to find a voting location.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "CA": {
     "name": "California",
@@ -56,8 +64,10 @@
     "registrationCheckUrl": "https://voterstatus.sos.ca.gov/",
     "voterIdUrl": "https://www.sos.ca.gov/elections/voting-resources/voting-california/what-bring",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/California_2026_ballot_measures",
+    "campaignFinanceUrl": "https://powersearch.sos.ca.gov/",
+    "campaignFinanceName": "Cal-Access Power Search",
     "notes": "Sample ballots are published by your county elections office; the link goes to the state's directory of county elections offices. Most voters do not need to show ID at the polls.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "CO": {
     "name": "Colorado",
@@ -68,8 +78,10 @@
     "registrationCheckUrl": "https://www.coloradosos.gov/voter/pages/pub/olvr/findVoterReg.xhtml",
     "voterIdUrl": "https://www.coloradosos.gov/pubs/elections/vote/acceptableFormsOfID.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Colorado_2026_ballot_measures",
+    "campaignFinanceUrl": "https://tracer.sos.colorado.gov/PublicSite/homepage.aspx",
+    "campaignFinanceName": "Colorado Secretary of State TRACER",
     "notes": "Colorado mails a ballot to every registered voter. Your county clerk must receive it by 7 p.m. on Election Day; postmarks do not count, so use a drop box or voting location if it's late. Sample ballots come from your county; the link goes to the state's directory of county clerks.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "CT": {
     "name": "Connecticut",
@@ -80,8 +92,10 @@
     "registrationCheckUrl": "https://portaldir.ct.gov/sots/LookUp.aspx",
     "voterIdUrl": "https://portal.ct.gov/SOTS/Election-Services/FAQ/FAQ---Voter-Identification",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://seec.ct.gov/Portal/eCRIS/eCrisSearch",
+    "campaignFinanceName": "Connecticut SEEC eCRIS search",
     "notes": "Sample ballots are posted by town on the Secretary of the State's site as they become available; pick your town from the linked page.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "DC": {
     "name": "District of Columbia",
@@ -92,8 +106,10 @@
     "registrationCheckUrl": "https://apps.dcboe.org/VRS",
     "voterIdUrl": "https://www.dcboe.org/faqs/early-voting-and-election-day",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://efiling.ocf.dc.gov/Disclosure",
+    "campaignFinanceName": "DC Office of Campaign Finance disclosure search",
     "notes": "Every registered DC voter is mailed a ballot. You can also vote in person at any vote center on Election Day, 7 a.m. to 8 p.m. Ranked choice voting is used in eligible contests with three or more candidates.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "DE": {
     "name": "Delaware",
@@ -104,8 +120,10 @@
     "registrationCheckUrl": "https://ivote.de.gov/voterview",
     "voterIdUrl": "https://elections.delaware.gov/public/faq/voting.html",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://cfrs.elections.delaware.gov/",
+    "campaignFinanceName": "Delaware Campaign Finance Reporting System",
     "notes": "Sample ballots are listed by election district (RD-ED); look up your district with your address first. Absentee ballots must be received by the Department of Elections by 8 p.m. on Election Day.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "FL": {
     "name": "Florida",
@@ -116,8 +134,10 @@
     "registrationCheckUrl": "https://registration.dos.fl.gov/CheckVoterStatus",
     "voterIdUrl": "https://dos.fl.gov/elections/for-voters/voting/election-day-voting/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Florida_2026_ballot_measures",
+    "campaignFinanceUrl": "https://dos.elections.myflorida.com/campaign-finance/contributions/",
+    "campaignFinanceName": "Florida Division of Elections campaign finance database",
     "notes": "Bring a current, valid photo ID with signature. On Election Day you must vote at your assigned precinct. Polling places and sample ballots are published by your county Supervisor of Elections; the links go to the state's county lists.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "GA": {
     "name": "Georgia",
@@ -128,8 +148,10 @@
     "registrationCheckUrl": "https://mvp.sos.ga.gov/s/",
     "voterIdUrl": "https://sos.ga.gov/page/georgia-voter-identification-requirements",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Georgia_2026_ballot_measures",
+    "campaignFinanceUrl": "https://peachfile.ethics.ga.gov/",
+    "campaignFinanceName": "Georgia Ethics Commission campaign finance search",
     "notes": "Georgia requires one of seven accepted forms of photo ID to vote in person.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "HI": {
     "name": "Hawaii",
@@ -140,8 +162,10 @@
     "registrationCheckUrl": "https://olvr.hawaii.gov/",
     "voterIdUrl": "https://elections.hawaii.gov/voting/provisional-voting/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Hawaii_2026_ballot_measures",
+    "campaignFinanceUrl": "https://ags.hawaii.gov/campaign/cc/view-searchable-data/",
+    "campaignFinanceName": "Hawaii Campaign Spending Commission candidate data",
     "notes": "Hawaii votes by mail; your ballot must be received by 7:00 p.m. on Election Day. Return it by mail or at a place of deposit, or vote in person at a voter service center.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "IA": {
     "name": "Iowa",
@@ -152,8 +176,10 @@
     "registrationCheckUrl": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
     "voterIdUrl": "https://voterready.iowa.gov/voter-id-information/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Iowa_2026_ballot_measures",
+    "campaignFinanceUrl": "https://webapp.iecdb.iowa.gov/PublicView/",
+    "campaignFinanceName": "Iowa Ethics and Campaign Disclosure Board reports",
     "notes": "Sample ballots are published by your county auditor; the link goes to the state's directory of county auditors.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "ID": {
     "name": "Idaho",
@@ -164,8 +190,10 @@
     "registrationCheckUrl": "https://votertools.voteidaho.gov/TEDElectionLink/VoterServices/voter-search/ovr-voter-search?returnUrl=VoterServices%2Fvoter%2Fvoter-profile",
     "voterIdUrl": "https://voteidaho.gov/guide-to-vote-in-person/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Idaho_2026_ballot_measures",
+    "campaignFinanceUrl": "https://sunshine.sos.idaho.gov/",
+    "campaignFinanceName": "Idaho Secretary of State Sunshine campaign finance",
     "notes": "",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "IL": {
     "name": "Illinois",
@@ -176,8 +204,10 @@
     "registrationCheckUrl": "https://ova.elections.il.gov/RegistrationLookup.aspx",
     "voterIdUrl": "https://www.elections.il.gov/Main/FAQ.aspx",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Illinois_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.elections.il.gov/CampaignDisclosure/Search.aspx",
+    "campaignFinanceName": "Illinois State Board of Elections campaign disclosure search",
     "notes": "Sample ballots are published by your local election authority (county clerk or election commission); the link goes to the state's directory of election authorities.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "IN": {
     "name": "Indiana",
@@ -188,8 +218,10 @@
     "registrationCheckUrl": "https://indianavoters.in.gov/",
     "voterIdUrl": "https://www.in.gov/sos/elections/voter-information/photo-id-law/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Indiana_2026_ballot_measures",
+    "campaignFinanceUrl": "https://campaignfinance.in.gov/PublicSite/Homepage.aspx",
+    "campaignFinanceName": "Indiana Election Division campaign finance",
     "notes": "You must show a photo ID issued by the State of Indiana or the U.S. government to vote in person; IDs from schools are no longer accepted.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "KS": {
     "name": "Kansas",
@@ -200,8 +232,10 @@
     "registrationCheckUrl": "https://kansasvoterinfo.gov/VoterView",
     "voterIdUrl": "https://sos.ks.gov/elections/photo-id.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Kansas_2026_ballot_measures",
+    "campaignFinanceUrl": "https://kssos.org/elections/cfr_viewer/cfr_examiner_entry.aspx",
+    "campaignFinanceName": "Kansas Secretary of State campaign finance viewer",
     "notes": "",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "KY": {
     "name": "Kentucky",
@@ -212,8 +246,10 @@
     "registrationCheckUrl": "https://vrsws.sos.ky.gov/ovrweb/govoteky/",
     "voterIdUrl": "https://elect.ky.gov/Voters/Pages/Absentee-Excused-In-Person.aspx",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Kentucky_2026_ballot_measures",
+    "campaignFinanceUrl": "https://secure.kentucky.gov/kref/publicsearch/",
+    "campaignFinanceName": "Kentucky Registry of Election Finance search",
     "notes": "All voters must show identification at the polling place.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "LA": {
     "name": "Louisiana",
@@ -224,8 +260,10 @@
     "registrationCheckUrl": "https://voterportal.sos.la.gov/Home/VoterLogin",
     "voterIdUrl": "https://www.sos.la.gov/elections-voting/voting-on-election-day-faqs",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Louisiana_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.ethics.la.gov/CampaignFinanceSearch/",
+    "campaignFinanceName": "Louisiana Ethics Administration campaign finance search",
     "notes": "Bring a photo ID to vote; if you don't have one, you can sign a voter identification affidavit at the polls.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "MA": {
     "name": "Massachusetts",
@@ -236,8 +274,10 @@
     "registrationCheckUrl": "https://www.sec.state.ma.us/voterregistrationsearch/myvoterregstatus.aspx",
     "voterIdUrl": "https://www.sec.state.ma.us/divisions/elections/voter-resources/when-where-how-do-i-vote.htm",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Massachusetts_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.ocpf.us/",
+    "campaignFinanceName": "Massachusetts Office of Campaign and Political Finance (OCPF)",
     "notes": "Ballots are run by your city or town; the sample ballot link goes to the state's directory of local election offices. You may be asked for ID if you are a first-time voter who registered by mail, an inactive voter, or casting a provisional or challenged ballot.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "MD": {
     "name": "Maryland",
@@ -248,8 +288,10 @@
     "registrationCheckUrl": "https://voterservices.elections.maryland.gov/VoterSearch",
     "voterIdUrl": "https://elections.maryland.gov/voting/election_day_questions.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Maryland_2026_ballot_measures",
+    "campaignFinanceUrl": "https://campaignfinance.maryland.gov/",
+    "campaignFinanceName": "Maryland Campaign Reporting Information System",
     "notes": "Most voters do not need ID; some first-time Maryland voters will be asked to show it.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "ME": {
     "name": "Maine",
@@ -260,8 +302,10 @@
     "registrationCheckUrl": "https://www.maine.gov/sos/elections-voting/registering-to-vote",
     "voterIdUrl": "https://www.maine.gov/sos/elections-voting/state-of-maine-voter-guide",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Maine_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.mainecampaignfinancedisclosure.com/",
+    "campaignFinanceName": "Maine Ethics Commission campaign finance disclosure",
     "notes": "Maine has no statewide online registration lookup; to find out if you are registered, contact your town or city election official. Ranked-choice voting is used for federal offices in the general election.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "MI": {
     "name": "Michigan",
@@ -272,8 +316,10 @@
     "registrationCheckUrl": "https://mvic.sos.state.mi.us/Voter/Index",
     "voterIdUrl": "https://www.michigan.gov/sos/elections/voting/vote-on-election-day",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Michigan_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.michigan.gov/sos/elections/disclosure/cfr",
+    "campaignFinanceName": "Michigan Secretary of State campaign finance disclosure",
     "notes": "Photo ID is not required to vote; voters without one may sign an affidavit and cast a ballot. Polls are open 7 a.m. to 8 p.m. local time on Election Day.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "MN": {
     "name": "Minnesota",
@@ -284,8 +330,10 @@
     "registrationCheckUrl": "https://mnvotes.sos.mn.gov/voterstatuscheck/index",
     "voterIdUrl": "https://www.sos.mn.gov/elections-voting/election-day-voting/do-i-need-to-bring-id/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Minnesota_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cfb.mn.gov/",
+    "campaignFinanceName": "Minnesota Campaign Finance Board",
     "notes": "If your registration is current, you don't need ID to vote. If you register or update your registration on Election Day, bring proof of residence.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "MO": {
     "name": "Missouri",
@@ -296,8 +344,10 @@
     "registrationCheckUrl": "https://voteroutreach.sos.mo.gov/portal/",
     "voterIdUrl": "https://www.sos.mo.gov/voterid",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Missouri_2026_ballot_measures",
+    "campaignFinanceUrl": "https://mec.mo.gov/MEC/Campaign_Finance/CF11_SearchComm.aspx",
+    "campaignFinanceName": "Missouri Ethics Commission campaign finance search",
     "notes": "Missouri requires a photo ID to vote a regular ballot; without one, you may cast a provisional ballot.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "MS": {
     "name": "Mississippi",
@@ -308,8 +358,10 @@
     "registrationCheckUrl": "https://www.msegov.com/sos/voter_registration/AmIRegistered",
     "voterIdUrl": "https://www.sos.ms.gov/voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Mississippi_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cfportal.sos.ms.gov/online/portal/cf/page/cf-search/Portal.aspx",
+    "campaignFinanceName": "Mississippi Secretary of State campaign finance portal",
     "notes": "",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "MT": {
     "name": "Montana",
@@ -320,8 +372,10 @@
     "registrationCheckUrl": "https://voterportal.mt.gov/WhereToVote.aspx",
     "voterIdUrl": "https://votemt.gov/voter-identification/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Montana_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cers-ext.mt.gov/CampaignTracker/public/search",
+    "campaignFinanceName": "Montana COPP Campaign Electronic Reporting System",
     "notes": "Montana requires a current photo ID to vote in person.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "NC": {
     "name": "North Carolina",
@@ -332,8 +386,10 @@
     "registrationCheckUrl": "https://vt.ncsbe.gov/RegLkup/",
     "voterIdUrl": "https://www.ncsbe.gov/voting/voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/North_Carolina_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cf.ncsbe.gov/",
+    "campaignFinanceName": "NC State Board of Elections campaign finance",
     "notes": "North Carolina asks voters to show photo ID; voters without an acceptable ID can still vote by completing an ID Exception Form.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "ND": {
     "name": "North Dakota",
@@ -344,8 +400,10 @@
     "registrationCheckUrl": "https://www.sos.nd.gov/elections/voter/voting-north-dakota",
     "voterIdUrl": "https://www.sos.nd.gov/elections/voter/voting-north-dakota/forms-voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/North_Dakota_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cf.sos.nd.gov/search/",
+    "campaignFinanceName": "North Dakota Secretary of State campaign finance",
     "notes": "North Dakota does not have voter registration, but you must show a valid form of ID to vote.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "NE": {
     "name": "Nebraska",
@@ -356,8 +414,10 @@
     "registrationCheckUrl": "https://www.votercheck.necvr.ne.gov/VoterView/",
     "voterIdUrl": "https://sos.nebraska.gov/voter-id",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Nebraska_2026_ballot_measures",
+    "campaignFinanceUrl": "https://nadc-e.nebraska.gov/",
+    "campaignFinanceName": "Nebraska Accountability and Disclosure Commission filings",
     "notes": "Not every county posts sample ballots in Voter Check; if yours doesn't, contact your county election office.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "NH": {
     "name": "New Hampshire",
@@ -368,8 +428,10 @@
     "registrationCheckUrl": "https://app.sos.nh.gov",
     "voterIdUrl": "https://www.sos.nh.gov/election-day-voting",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/New_Hampshire_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cfs.sos.nh.gov/",
+    "campaignFinanceName": "New Hampshire Secretary of State campaign finance system",
     "notes": "New Hampshire requires registered voters to show an accepted ID at the polls; check the Secretary of State's Election Day Voting page for the current list.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "NJ": {
     "name": "New Jersey",
@@ -380,8 +442,10 @@
     "registrationCheckUrl": "https://voter.svrs.nj.gov/registration-check",
     "voterIdUrl": "https://www.nj.gov/state/elections/assets/pdf/posters-bill-of-rights/2026-11-bill-of-rights-poster-english.pdf",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://www.elec.nj.gov/",
+    "campaignFinanceName": "New Jersey Election Law Enforcement Commission (ELEC)",
     "notes": "Sample ballots are mailed by your county; the link goes to the state's directory of county election officials. Most voters do not need ID, but some first-time voters who registered by mail must show ID at the polls.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "NM": {
     "name": "New Mexico",
@@ -392,8 +456,10 @@
     "registrationCheckUrl": "https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx",
     "voterIdUrl": "https://www.sos.nm.gov/voting-and-elections/voting-faqs/voting/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/New_Mexico_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.sos.nm.gov/online-services/public-information-data/campaign-finance-disclosure-data/",
+    "campaignFinanceName": "New Mexico Secretary of State campaign finance disclosure",
     "notes": "",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "NV": {
     "name": "Nevada",
@@ -404,8 +470,10 @@
     "registrationCheckUrl": "https://www.nvsos.gov/votersearch/",
     "voterIdUrl": "https://www.nvsos.gov/elections/election-resources/faqs",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Nevada_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.nvsos.gov/SOSCandidateServices/AnonymousAccess/CEFDSearchUU/Search.aspx",
+    "campaignFinanceName": "Nevada Secretary of State campaign finance search",
     "notes": "Nevada mails a ballot to every active registered voter; you can also vote in person.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "NY": {
     "name": "New York",
@@ -416,8 +484,10 @@
     "registrationCheckUrl": "https://voterlookup.elections.ny.gov/",
     "voterIdUrl": "https://vote.nyc/page/voter-id",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://publicreporting.elections.ny.gov/",
+    "campaignFinanceName": "NYS Board of Elections Public Reporting System",
     "notes": "Sample ballots are published by your county board of elections; the link goes to the state's directory of county boards.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "OH": {
     "name": "Ohio",
@@ -428,8 +498,10 @@
     "registrationCheckUrl": "https://voterlookup.ohiosos.gov/voterlookup.aspx",
     "voterIdUrl": "https://www.ohiosos.gov/elections/voter-ID-requirements",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Ohio_2026_ballot_measures",
+    "campaignFinanceUrl": "https://data.ohiosos.gov/portal/campaign-finance",
+    "campaignFinanceName": "Ohio Secretary of State campaign finance search",
     "notes": "Ohio requires an unexpired photo ID to vote in person. Sample ballots are listed by county in the Secretary of State's sample ballot directory.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "OK": {
     "name": "Oklahoma",
@@ -440,8 +512,10 @@
     "registrationCheckUrl": "https://okvoterportal.okelections.gov/",
     "voterIdUrl": "https://oklahoma.gov/elections/voters/proof-of-identity.html",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Oklahoma_2026_ballot_measures",
+    "campaignFinanceUrl": "https://guardian.ok.gov/PublicSite/HomePage.aspx",
+    "campaignFinanceName": "Oklahoma Ethics Commission Guardian",
     "notes": "On Election Day you must vote at your assigned polling place. Bring proof of identity, such as a government-issued photo ID or your county voter ID card.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "OR": {
     "name": "Oregon",
@@ -452,8 +526,10 @@
     "registrationCheckUrl": "https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do?lang=eng",
     "voterIdUrl": "https://sos.oregon.gov/elections/Documents/hava-and-other-election-laws.pdf",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Oregon_2026_ballot_measures",
+    "campaignFinanceUrl": "https://secure.sos.state.or.us/orestar/GotoSearchByName.do",
+    "campaignFinanceName": "Oregon Secretary of State ORESTAR",
     "notes": "Oregon votes by mail. Return your ballot to an official drop site by 8 p.m. on Election Day, or mail it with a postmark no later than Election Day. Ballots come from your county; the link goes to the state's list of county elections officials.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "PA": {
     "name": "Pennsylvania",
@@ -464,8 +540,10 @@
     "registrationCheckUrl": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx",
     "voterIdUrl": "https://www.pa.gov/agencies/vote/voter-support/new-voters",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://www.campaignfinanceonline.pa.gov/Pages/CFReportSearch.aspx",
+    "campaignFinanceName": "Pennsylvania Department of State campaign finance search",
     "notes": "If you are voting at your polling place for the first time, bring photo or non-photo ID. Sample ballots are published by your county; the link goes to the state's directory of county election offices.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "RI": {
     "name": "Rhode Island",
@@ -476,8 +554,10 @@
     "registrationCheckUrl": "https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=0",
     "voterIdUrl": "https://vote.sos.ri.gov/Content/Pdfs/voter_id_information.pdf",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Rhode_Island_2026_ballot_measures",
+    "campaignFinanceUrl": "https://ricampaignfinance.com/RIPublic/",
+    "campaignFinanceName": "Rhode Island Board of Elections campaign finance",
     "notes": "Poll workers will ask for a photo ID; if you don't have one, you can vote a provisional ballot.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "SC": {
     "name": "South Carolina",
@@ -488,8 +568,10 @@
     "registrationCheckUrl": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation",
     "voterIdUrl": "https://scvotes.gov/voters/photo-id-requirements/",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://ethicsfiling.sc.gov/public/campaign-reports/reports",
+    "campaignFinanceName": "South Carolina Ethics Commission campaign reports",
     "notes": "Bring a current photo ID to vote in person.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "SD": {
     "name": "South Dakota",
@@ -500,8 +582,10 @@
     "registrationCheckUrl": "https://vip.sdsos.gov/VIPLogin.aspx",
     "voterIdUrl": "https://sdsos.gov/elections-voting/voting/default.aspx",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/South_Dakota_2026_ballot_measures",
+    "campaignFinanceUrl": "https://sdcfr.sdsos.gov/",
+    "campaignFinanceName": "South Dakota Secretary of State campaign finance",
     "notes": "Polls are open 7 a.m. to 7 p.m. local time. Voters at the polls must show photo ID.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "TN": {
     "name": "Tennessee",
@@ -512,8 +596,10 @@
     "registrationCheckUrl": "https://tnmap.tn.gov/voterlookup/",
     "voterIdUrl": "https://sos.tn.gov/elections/voter-id-requirements",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Tennessee_2026_ballot_measures",
+    "campaignFinanceUrl": "https://apps.tn.gov/tncamp/",
+    "campaignFinanceName": "Tennessee Registry of Election Finance",
     "notes": "Bring a federal or Tennessee state-issued photo ID to vote in person; expired IDs are accepted, but college student IDs are not.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "TX": {
     "name": "Texas",
@@ -524,8 +610,10 @@
     "registrationCheckUrl": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login",
     "voterIdUrl": "https://www.votetexas.gov/voting/need-id.html",
     "ballotpediaMeasuresUrl": null,
+    "campaignFinanceUrl": "https://www.ethics.state.tx.us/search/cf/",
+    "campaignFinanceName": "Texas Ethics Commission campaign finance reports",
     "notes": "Texas requires one of seven approved photo IDs to vote in person; voters who cannot reasonably obtain one may sign a Reasonable Impediment Declaration. Sample ballots are published by your county; the link goes to the state's directory of county election officials.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "UT": {
     "name": "Utah",
@@ -536,8 +624,10 @@
     "registrationCheckUrl": "https://votesearch.utah.gov/voter-search/search/search-by-voter/voter-info",
     "voterIdUrl": "https://vote.utah.gov/voter-id-requirements/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Utah_2026_ballot_measures",
+    "campaignFinanceUrl": "https://disclosures.utah.gov/",
+    "campaignFinanceName": "Utah Lieutenant Governor disclosures",
     "notes": "Mailed ballots must be received by your county clerk by 8 p.m. on Election Day; you can also return your ballot to a drop box or polling location by 8 p.m.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "VA": {
     "name": "Virginia",
@@ -548,8 +638,10 @@
     "registrationCheckUrl": "https://vote.elections.virginia.gov/VoterInformation/Lookup/status",
     "voterIdUrl": "https://www.elections.virginia.gov/registration/voterid/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Virginia_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cfreports.elections.virginia.gov/",
+    "campaignFinanceName": "Virginia Department of Elections campaign finance reports",
     "notes": "If you don't have an acceptable ID at the polls, you can sign an ID Confirmation Statement and vote a regular ballot.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "VT": {
     "name": "Vermont",
@@ -560,8 +652,10 @@
     "registrationCheckUrl": "https://vote.vermont.gov/",
     "voterIdUrl": "https://sos.vermont.gov/elections/voters/voter-faqs",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Vermont_2026_ballot_measures",
+    "campaignFinanceUrl": "https://campaignfinance.vermont.gov/",
+    "campaignFinanceName": "Vermont Secretary of State campaign finance",
     "notes": "Vermont mails a general election ballot to every active registered voter; you can return it to your town clerk or bring it to your polling place. All polling places close at 7 p.m.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "WA": {
     "name": "Washington",
@@ -572,8 +666,10 @@
     "registrationCheckUrl": "https://voter.votewa.gov/portal2023/login.aspx",
     "voterIdUrl": "https://www.sos.wa.gov/elections/voters/helpful-information/frequently-asked-questions-about-elections",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Washington_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.pdc.wa.gov/political-disclosure-reporting-data",
+    "campaignFinanceName": "Washington Public Disclosure Commission data",
     "notes": "Washington votes by mail. Ballots in an official drop box by 8 p.m. on Election Day are guaranteed on time; this close to Election Day, the state recommends a drop box over the mail.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "WI": {
     "name": "Wisconsin",
@@ -584,8 +680,10 @@
     "registrationCheckUrl": "https://myvote.wi.gov/en-us/My-Voter-Info",
     "voterIdUrl": "https://elections.wi.gov/acceptable-photo-ids",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Wisconsin_2026_ballot_measures",
+    "campaignFinanceUrl": "https://campaignfinance.wi.gov/",
+    "campaignFinanceName": "Wisconsin Campaign Finance Information System",
     "notes": "You must show an acceptable photo ID to vote in Wisconsin.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "WV": {
     "name": "West Virginia",
@@ -596,8 +694,10 @@
     "registrationCheckUrl": "https://apps.sos.wv.gov/Elections/Voter/AmIRegisteredToVote",
     "voterIdUrl": "https://sos.wv.gov/be-registered-and-ready",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/West_Virginia_2026_ballot_measures",
+    "campaignFinanceUrl": "https://cfrs.wvsos.gov/",
+    "campaignFinanceName": "West Virginia Campaign Finance Reporting System",
     "notes": "Sample ballots are posted by county on the Secretary of State's site; select your county.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   },
   "WY": {
     "name": "Wyoming",
@@ -608,7 +708,9 @@
     "registrationCheckUrl": "https://myelectionday.sos.wyo.gov/WYVOTES/Pages/VoterRegistrationCheck.aspx",
     "voterIdUrl": "https://sos.wyo.gov/Elections/VoterID/",
     "ballotpediaMeasuresUrl": "https://ballotpedia.org/Wyoming_2026_ballot_measures",
+    "campaignFinanceUrl": "https://www.wycampaignfinance.gov/",
+    "campaignFinanceName": "Wyoming Secretary of State campaign finance",
     "notes": "Wyoming requires an acceptable ID to vote in person. Sample ballots come from your county clerk; the link goes to the state's list of county clerks. Absentee ballots must reach your county clerk by 7 p.m. on Election Day.",
-    "verifiedAt": "2026-10-31T22:05:34.880Z"
+    "verifiedAt": "2026-11-01T20:46:57.565Z"
   }
 }

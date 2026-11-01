@@ -11,6 +11,9 @@ export type StateLinks = {
   voterIdUrl: string;
   /** null when Ballotpedia has no 2026 statewide measures page for the state. */
   ballotpediaMeasuresUrl: string | null;
+  /** Official state campaign-finance disclosure search (SOS, ethics commission, or finance board). */
+  campaignFinanceUrl: string;
+  campaignFinanceName: string;
   notes: string;
   /** ISO time of the last link check; null if not yet checked. */
   verifiedAt: string | null;

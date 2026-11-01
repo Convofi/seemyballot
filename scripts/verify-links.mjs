@@ -17,6 +17,7 @@ const URL_FIELDS = [
   "registrationCheckUrl",
   "voterIdUrl",
   "ballotpediaMeasuresUrl",
+  "campaignFinanceUrl",
 ];
 const CONCURRENCY = 8;
 const TIMEOUT_MS = 30_000;
