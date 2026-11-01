@@ -1,0 +1,279 @@
+{
+  "state": "MD",
+  "county": "Baltimore County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_all_counties_candidatelist.html",
+    "https://www.baltimorecountymd.gov/departments/circuit/judges",
+    "https://www.mdcourts.gov/courtsdirectory/baltimore",
+    "https://registers.maryland.gov/main/baltimore.html",
+    "https://www.mdcourts.gov/sites/default/files/import/orphanscourt/pdfs/ocjudgesregisters.pdf",
+    "https://www.baltimorecountymd.gov/departments/sheriff",
+    "https://www.baltimorecountymd.gov/departments/statesattorney"
+  ],
+  "note": "County Council district seats (Districts 1-7) and Board of Education district seats (Districts 1-7) are not shown; check your official sample ballot for those. Baltimore County has no at-large County Council or Board of Education seats on the 2026 ballot. Baltimore County has no incorporated municipalities.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-baltimore-county-2026-exec-jones-julian",
+          "name": "Julian Jones",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-baltimore-county-2026-exec-dyer-patrick",
+          "name": "Patrick V. Dyer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 3 (vote for up to 5)",
+      "seats": 5,
+      "candidates": [
+        {
+          "key": "md-baltimore-county-2026-circuit-alexander-jan",
+          "name": "Jan Marshall Alexander",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-county-2026-circuit-bailey-sherrie",
+          "name": "Sherrie R. Bailey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-county-2026-circuit-cusson-evelyn",
+          "name": "Evelyn Lombardo Cusson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-county-2026-circuit-sapia-ralph",
+          "name": "Ralph Sapia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-county-2026-circuit-tompsett-thomas",
+          "name": "Thomas R. Tompsett, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-baltimore-county-2026-sa-david-sarah",
+          "name": "Sarah R. David",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-baltimore-county-2026-clerk-ensor-julie",
+          "name": "Julie Ensor",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-county-2026-clerk-mulligan-christina",
+          "name": "Christina Mulligan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-baltimore-county-2026-register-burrell-rohde-alexis",
+          "name": "Alexis Burrell-Rohde",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-county-2026-register-schroeder-nicole",
+          "name": "Nicole Schroeder",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-baltimore-county-2026-orphans-arvin-greer-michelle",
+          "name": "Michelle Arvin-Greer",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-county-2026-orphans-bailey-andrew",
+          "name": "Andrew G. Bailey",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-baltimore-county-2026-orphans-fisher-juliet",
+          "name": "Juliet Fisher",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-baltimore-county-2026-sheriff-boatwright-clyde",
+          "name": "Clyde E. Boatwright",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-baltimore-county-2026-sheriff-burke-michael",
+          "name": "Michael F. Burke",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Charter Amendment: Baltimore County Farmland Preservation Act (URDL) (Bill 19-25)",
+      "summary": "Changes the vote the County Council needs to approve Planning Board changes to the Urban-Rural Demarcation Line (URDL), which separates urban from rural areas of the county. Approval would require six of the nine Council members instead of a simple majority of five. All other planning and zoning matters would still need a simple majority.",
+      "yesMeans": "Changes to the URDL would need the votes of six of the nine County Council members.",
+      "noMeans": "Changes to the URDL would still need a simple majority of five County Council members.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question B",
+      "title": "Charter Amendment: Department of Agriculture – Establishment of Department (Bill 49-25)",
+      "summary": "Creates a county Department of Agriculture to promote and support farming and agriculture in Baltimore County. The department would also encourage local food production and distribution to improve residents' access to food. Some agriculture matters would continue to be handled by other county agencies.",
+      "yesMeans": "Baltimore County would create a Department of Agriculture.",
+      "noMeans": "No Department of Agriculture would be created and the Charter would stay the same.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question C",
+      "title": "Charter Amendment: Inspector General Appointment Board (Bill 50-25)",
+      "summary": "Creates a seven-member Inspector General Appointment Board that would appoint, reappoint, and, if necessary, remove for cause the county Inspector General, who investigates fraud, waste, and abuse. The County Council and County Executive would each pick one member and the Chair of the Ethics Commission would choose the other five from specified professions. It replaces the current process in which the County Executive appoints and the County Council confirms, and adds a residency requirement for the Inspector General.",
+      "yesMeans": "An Inspector General Appointment Board would appoint, reappoint, and remove the Inspector General instead of the County Executive.",
+      "noMeans": "The County Executive would keep appointing the Inspector General, with County Council confirmation.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question D",
+      "title": "Charter Amendment: Charter Review Commission – Membership (Bill 52-26)",
+      "summary": "Increases the number of Charter Review Commission members appointed by County Council members from seven to nine. The change matches the expansion of the County Council.",
+      "yesMeans": "County Council members would appoint nine Charter Review Commission members instead of seven.",
+      "noMeans": "County Council members would continue to appoint seven Charter Review Commission members.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question E",
+      "title": "Charter Amendment: Board of Recreation and Parks – Membership and Duties (Bill 61-26)",
+      "summary": "Increases the at-large members of the Board of Recreation and Parks from three to four and provides that district-level members are appointed based on recommendations from County Council members. It also updates the Board's duties and states that it serves in an advisory role to the Department of Recreation and Parks.",
+      "yesMeans": "The Board of Recreation and Parks' membership would change and it would be defined as an advisory body.",
+      "noMeans": "The Board of Recreation and Parks' current membership and duties would stay the same.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question F",
+      "title": "County Ordinance: Refuse Disposal Borrowing (Bill 42-26)",
+      "summary": "Authorizes Baltimore County to borrow $5,000,000 for refuse disposal projects. Projects include construction, improvement, repair, modernization, and closing and capping of county refuse disposal facilities.",
+      "yesMeans": "Baltimore County may borrow $5,000,000 for refuse disposal projects.",
+      "noMeans": "Baltimore County may not borrow $5,000,000 for refuse disposal projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question G",
+      "title": "County Ordinance: Community College Borrowing (Bill 43-26)",
+      "summary": "Authorizes Baltimore County to borrow $18,620,000 for community college projects. Projects include building, renovating, and modernizing community college buildings, related professional services, and buying land, furnishings, and equipment.",
+      "yesMeans": "Baltimore County may borrow $18,620,000 for community college projects.",
+      "noMeans": "Baltimore County may not borrow $18,620,000 for community college projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question H",
+      "title": "County Ordinance: Public Works Borrowing (Bill 44-26)",
+      "summary": "Authorizes Baltimore County to borrow $54,380,000 for public works projects. Projects include streets and highways, bridges, storm drain and sewer systems, refuse disposal systems, environmental projects, and parking lots and structures.",
+      "yesMeans": "Baltimore County may borrow $54,380,000 for public works projects.",
+      "noMeans": "Baltimore County may not borrow $54,380,000 for public works projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question I",
+      "title": "County Ordinance: Parks, Preservation and Greenways Borrowing (Bill 45-26)",
+      "summary": "Authorizes Baltimore County to borrow $2,000,000 for parks, preservation and greenways projects. Projects include acquiring, building, maintaining, and equipping playgrounds, parks, community centers, and recreational facilities.",
+      "yesMeans": "Baltimore County may borrow $2,000,000 for parks, preservation and greenways projects.",
+      "noMeans": "Baltimore County may not borrow $2,000,000 for parks, preservation and greenways projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question J",
+      "title": "County Ordinance: School Borrowing (Bill 46-26)",
+      "summary": "Authorizes Baltimore County to borrow $200,000,000 for school buildings and site projects. Projects include acquiring, building, renovating, and modernizing school buildings and sites, architectural and engineering services, and equipment for those buildings.",
+      "yesMeans": "Baltimore County may borrow $200,000,000 for school buildings and site projects.",
+      "noMeans": "Baltimore County may not borrow $200,000,000 for school buildings and site projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question K",
+      "title": "County Ordinance: Agricultural and Rural Land Preservation Borrowing (Bill 47-26)",
+      "summary": "Authorizes Baltimore County to borrow $6,000,000 for agricultural and rural land preservation projects. Projects include buying land, development rights, and conservation easements approved by the County Council under state and federal land preservation programs.",
+      "yesMeans": "Baltimore County may borrow $6,000,000 for agricultural and rural land preservation projects.",
+      "noMeans": "Baltimore County may not borrow $6,000,000 for agricultural and rural land preservation projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question L",
+      "title": "County Ordinance: Community Improvement Project Borrowing (Bill 48-26)",
+      "summary": "Authorizes Baltimore County to borrow $4,000,000 for community improvement projects. Projects include curbs, gutters, utilities, sidewalks and pedestrian systems, landscaping and lighting, and building improvements.",
+      "yesMeans": "Baltimore County may borrow $4,000,000 for community improvement projects.",
+      "noMeans": "Baltimore County may not borrow $4,000,000 for community improvement projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question M",
+      "title": "County Ordinance: Waterway Improvement Program Borrowing (Bill 49-26)",
+      "summary": "Authorizes Baltimore County to borrow $20,000,000 for waterway improvement and stormwater-related projects. Projects include shoreline stabilization, erosion control, wetland and streambank restoration, pollution control, dredging, and tree planting.",
+      "yesMeans": "Baltimore County may borrow $20,000,000 for waterway improvement and stormwater-related projects.",
+      "noMeans": "Baltimore County may not borrow $20,000,000 for waterway improvement and stormwater-related projects.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    },
+    {
+      "id": "Question N",
+      "title": "County Ordinance: Operational Buildings Borrowing (Bill 50-26)",
+      "summary": "Authorizes Baltimore County to borrow $81,750,000 for public operational buildings. Projects include general, health, police, fire, recreation, library, senior center, and jail buildings or facilities, and related equipment.",
+      "yesMeans": "Baltimore County may borrow $81,750,000 for public operational buildings.",
+      "noMeans": "Baltimore County may not borrow $81,750,000 for public operational buildings.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCounty.pdf"
+    }
+  ],
+  "municipalities": {}
+}

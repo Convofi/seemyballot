@@ -1,0 +1,135 @@
+{
+  "state": "FL",
+  "county": "Palm Beach County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.votepalmbeach.gov/DocumentCenter/View/2736",
+    "https://www.votepalmbeach.gov/DocumentCenter/View/2735",
+    "https://www.votepalmbeach.gov/DocumentCenter/View/2428",
+    "https://www.votepalmbeach.gov/298/2026-General-Election"
+  ],
+  "note": "Not shown: County Commission Districts 4 and 6, School Board District 4, Port of Palm Beach District Group 5, the Palm Beach County Library District bond question (on the ballot only inside the Library District, which does not cover the whole county), Indian Trail Improvement District seats, and community development district seats. No Sheriff, Property Appraiser, Supervisor of Elections, Tax Collector, State Attorney, or Public Defender race is on this ballot, and no circuit or county judge race remains on the November ballot. West Palm Beach has no city race or question on this ballot (city elections are held in March). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Clerk of the Circuit Court and Comptroller",
+      "candidates": [
+        {
+          "key": "fl-palm-beach-2026-clerk-caruso-mike",
+          "name": "Mike Caruso",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-palm-beach-2026-clerk-drucker-yvette",
+          "name": "Yvette Drucker",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    },
+    {
+      "office": "Palm Beach Soil and Water Conservation District Group 3",
+      "candidates": [
+        {
+          "key": "fl-palm-beach-2026-swcd-g3-andrew-angelo",
+          "name": "Angelo Andrew",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-palm-beach-2026-swcd-g3-brown-douglas",
+          "name": "Douglas Brown",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-palm-beach-2026-swcd-g3-pope-lewis",
+          "name": "Lewis Pope",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Alan O. Forst? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-palm-beach-2026-dca4-retain-forst-alan",
+          "name": "Alan O. Forst",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Mark W. Klingensmith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-palm-beach-2026-dca4-retain-klingensmith-mark",
+          "name": "Mark W. Klingensmith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Johnathan D. Lott? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-palm-beach-2026-dca4-retain-lott-johnathan",
+          "name": "Johnathan D. Lott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Shannon K. Shaw? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-palm-beach-2026-dca4-retain-shaw-shannon",
+          "name": "Shannon K. Shaw",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Caroline Cahill Shepherd? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-palm-beach-2026-dca4-retain-shepherd-caroline",
+          "name": "Caroline Cahill Shepherd",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Question - Parks",
+      "title": "Parks, Sports, Recreational Facilities and Botanical Gardens to be Financed by General Obligation Bonds",
+      "summary": "Asks whether Palm Beach County should issue up to $280,000,000 in general obligation bonds, maturing within 20 years and repaid from property taxes on all taxable property in the county. The money would modernize aging parks, recreation facilities and botanical gardens, expand and update sports complexes, increase public beach access and trail connections, and develop new regional parks.",
+      "yesMeans": "The County may issue up to $280 million in bonds for parks and recreation, repaid from countywide property taxes.",
+      "noMeans": "The County may not issue these bonds.",
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    },
+    {
+      "id": "County Question - School District",
+      "title": "Referendum to Continue Ad Valorem Levy for School Safety, Teachers and Operational Needs",
+      "summary": "Asks whether the School District of Palm Beach County should keep its authority to levy 1.00 mill of property tax for public school operating needs from July 1, 2027 through June 30, 2031. The money is dedicated to school safety, school police, mental health services, arts, music, physical education, career and choice program teachers, and improved teacher pay, with oversight by an independent citizens committee.",
+      "yesMeans": "The School District continues its 1.00 mill property tax for these purposes from July 2027 through June 2031.",
+      "noMeans": "The School District does not continue this 1.00 mill property tax after its current authority ends.",
+      "source": "https://www.votepalmbeach.gov/DocumentCenter/View/2736"
+    }
+  ],
+  "municipalities": {}
+}
