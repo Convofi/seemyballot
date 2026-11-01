@@ -1,0 +1,198 @@
+{
+  "state": "FL",
+  "county": "Miami-Dade County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf",
+    "https://www.miamidade.gov/elections/library/2026-11-03-general-election-sample-ballot.pdf",
+    "https://www.miamidade.gov/resources/legal-ads/county/elections/2026/2026-11-03-general-election-notice.pdf"
+  ],
+  "note": "Not shown: County Commission districts (1, 2, 4, 5, 6, 8, 10, 12), School Board districts (1, 2, 4, 6, 8), community development district seats, and other cities' races and questions. No county constitutional offices (Sheriff, Clerk, Tax Collector, Property Appraiser, Supervisor of Elections) or County Mayor are on this ballot. Other circuit and county judge seats listed in the election notice do not appear on the November ballot (decided in August or unopposed); only Circuit Groups 5 and 69 remain. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "3rd District Court of Appeal — retain Judge Kansas R. Gooden? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca3-2026-retain-gooden-kansas",
+          "name": "Kansas R. Gooden",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Monica Gordo? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca3-2026-retain-gordo-monica",
+          "name": "Monica Gordo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Fleur Jeannine Lobree? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca3-2026-retain-lobree-fleur",
+          "name": "Fleur Jeannine Lobree",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Thomas Logue? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca3-2026-retain-logue-thomas",
+          "name": "Thomas Logue",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Bronwyn Catherine Miller? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca3-2026-retain-miller-bronwyn",
+          "name": "Bronwyn Catherine Miller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 11th Judicial Circuit, Group 5",
+      "candidates": [
+        {
+          "key": "fl-miami-dade-2026-circuit-g5-mcneil-arthur",
+          "name": "Arthur LeMar \"Marty\" McNeil",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-miami-dade-2026-circuit-g5-segura-monica",
+          "name": "Monica Segura",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 11th Judicial Circuit, Group 69",
+      "candidates": [
+        {
+          "key": "fl-miami-dade-2026-circuit-g69-baez-rita",
+          "name": "Rita Maria Baez",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-miami-dade-2026-circuit-g69-jones-peabody-bonita",
+          "name": "Bonita Jones-Peabody",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Referendum 1",
+      "title": "Charter Amendment Establish an Independent Salary Commission",
+      "summary": "Would replace the fixed annual salary for County Commissioners in the county charter with a five-member Salary Commission. Members would be appointed by the Chief Judge of the Eleventh Judicial Circuit, the State Attorney, the Public Defender, the Executive Director of the Commission on Ethics, and the Inspector General. The commission would review and set Commissioner salaries each year using specific criteria, and its decisions could not be changed by the Board of County Commissioners.",
+      "yesMeans": "An independent Salary Commission would set County Commissioner salaries each year.",
+      "noMeans": "Commissioner salaries stay as currently fixed in the charter.",
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "id": "County Referendum 2",
+      "title": "Charter Amendment Increase Length of District Residency to Run for County Commissioner",
+      "summary": "Would raise the minimum time a County Commission candidate must live in their district before the start of the qualifying period from six months to one year.",
+      "yesMeans": "Commission candidates would have to live in their district for at least one year before qualifying begins.",
+      "noMeans": "The district residency requirement stays at six months.",
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "id": "County Referendum 3",
+      "title": "Charter Amendment Allow Vacancy Election to Sync Up with Other Election; Establish Municipal Qualifying Standards",
+      "summary": "Would let the Board of County Commissioners schedule a special election to fill a vacancy for Mayor or County Commissioner at the same time as another scheduled election when the vacancy comes from a resignation to run for another office. It would also set minimum standards for candidate qualifying periods in municipal elections.",
+      "yesMeans": "The Board could align such vacancy elections with other scheduled elections, and minimum municipal qualifying-period standards would be set.",
+      "noMeans": "The charter's current vacancy-election and municipal qualifying rules stay in place.",
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "id": "County Referendum 4",
+      "title": "Charter Amendment Revisions Due to Reestablishment of Elected County Constitutional Offices",
+      "summary": "Would update the Home Rule Charter to reflect the return of the elected county offices of Sheriff, Tax Collector, Property Appraiser, and Supervisor of Elections. It would clarify the finance and budget duties of the Clerk and of the County, and require County employees to take a leave of absence when running for an elected constitutional office.",
+      "yesMeans": "The charter is updated for the elected constitutional offices, Clerk and County finance duties are clarified, and County employees running for those offices must take leave.",
+      "noMeans": "The charter is not changed on these points.",
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "id": "County Referendum 5",
+      "title": "Charter Amendment Miscellaneous Matters and Technical Changes",
+      "summary": "Would make technical changes to the Home Rule Charter, including updating the names of certain listed County locations, allowing additional methods of public notice and participation where state law permits, and making numbering, gender, capitalization and grammar consistent.",
+      "yesMeans": "The listed technical changes are made to the charter.",
+      "noMeans": "The charter text stays as it is.",
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "id": "County Referendum 6",
+      "title": "Charter Amendment Expanding Allowable Advertising at Parks",
+      "summary": "Would remove the charter requirement that advertising in parks covered by Article 7 of the charter be tied to sponsorship of events or facilities in those parks. Advertising could not unreasonably impair public use of the park or damage it, and any revenue would be used only for the park system.",
+      "yesMeans": "Advertising in those parks would no longer need to be tied to sponsorship of park events or facilities.",
+      "noMeans": "Park advertising stays limited to sponsorship of events or facilities in the parks.",
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    },
+    {
+      "id": "School Board Referendum",
+      "title": "Referendum Renewal of Existing Ad Valorem Levy for Teachers, Instructional Personnel, Student Safety and Security",
+      "summary": "Asks whether the School Board of Miami-Dade County should keep its existing 1-mill property tax for school operations at Miami-Dade County Public Schools, including public charter schools. The money would go to teacher and instructional staff pay and to student safety and school security, with a Citizen Advisory Committee overseeing it, from July 1, 2027 through June 30, 2031.",
+      "yesMeans": "The existing 1-mill school operating levy continues from July 1, 2027 to June 30, 2031.",
+      "noMeans": "The existing 1-mill levy is not renewed for that period.",
+      "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+    }
+  ],
+  "municipalities": {
+    "Miami": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Miami Referendum 1",
+          "title": "Safe and Ready Miami: General Obligation Bonds for Police/Fire Facilities without Increasing Millage Rate",
+          "summary": "Asks whether the City of Miami should issue $450 million in general obligation bonds, repaid from property taxes, to renovate, modernize and build fire and paramedic facilities and to build a new public safety headquarters for police and first responders. The ballot states there would be no increase to the current capital projects debt millage rate (0.5935) and that there would be an independent annual audit.",
+          "yesMeans": "The city may issue up to $450 million in general obligation bonds for police and fire facilities.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+        },
+        {
+          "id": "Miami Referendum 2",
+          "title": "Charter Amendment to Establish a Permanent Advisory General Obligation Bonds Oversight Committee",
+          "summary": "Would amend the City of Miami Charter to create a permanent advisory committee that monitors and publicly reports on the status, cost, timeline, and remaining funds of all active capital projects paid for with city general obligation bonds.",
+          "yesMeans": "A permanent advisory General Obligation Bond Oversight Committee is created in the city charter.",
+          "noMeans": "No such committee is added to the city charter.",
+          "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+        },
+        {
+          "id": "Miami Referendum 3",
+          "title": "Proposed Lease and Redevelopment of existing Rickenbacker and Marine Stadium Marinas on Virginia Key",
+          "summary": "Asks whether the City should lease about 27.62 acres on Virginia Key to Virginia Key, LLC for a 45-year initial term with two 15-year renewals. The lease sets minimum guaranteed rent of $2,200,000 a year with escalations (about $203,980,000 over the initial term) plus 6% of gross revenues, and about $80,000,000 in private investment to redevelop the Rickenbacker and Marine Stadium marinas, including boat storage, restaurants, retail and public parking.",
+          "yesMeans": "The city may enter the Virginia Key marina lease on the stated terms.",
+          "noMeans": "The city may not enter this lease.",
+          "source": "https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf"
+        }
+      ]
+    }
+  }
+}

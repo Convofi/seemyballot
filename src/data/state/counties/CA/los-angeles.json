@@ -1,0 +1,159 @@
+{
+  "state": "CA",
+  "county": "Los Angeles County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf",
+    "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf",
+    "https://content.lavote.gov/docs/rrcc/documents/write-in-important-notice-(november-3-2026-general-election).pdf"
+  ],
+  "note": "Not shown: Board of Supervisors (elected by district; no supervisor contest is on the county's certified November list), Los Angeles City Council districts (3rd and 9th are on the ballot), Court of Appeal retention questions, congressional and legislative districts, school boards, water and other special districts, and school or special-district measures. The County Assessor and the Los Angeles City Controller are not on the certified November 3, 2026 candidate list. Check your official sample ballot for these.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        { "key": "ca-los-angeles-2026-sheriff-luna-robert", "name": "Robert G. Luna", "party": "Nonpartisan", "incumbent": true, "website": "https://www.lunaforsheriff.com/" },
+        { "key": "ca-los-angeles-2026-sheriff-villanueva-alex", "name": "Alex Villanueva", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Office No. 64",
+      "candidates": [
+        { "key": "ca-los-angeles-2026-judge-064-haymon-rhonda", "name": "Rhonda A. Haymon", "party": "Nonpartisan", "incumbent": false },
+        { "key": "ca-los-angeles-2026-judge-064-ghobadi-maria", "name": "Maria Ghobadi", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Office No. 65",
+      "candidates": [
+        { "key": "ca-los-angeles-2026-judge-065-reitano-anna", "name": "Anna Slotky Reitano", "party": "Nonpartisan", "incumbent": false, "website": "https://www.reitanoforjudge.com/" },
+        { "key": "ca-los-angeles-2026-judge-065-clayton-justin", "name": "Justin Allen Clayton", "party": "Nonpartisan", "incumbent": false, "website": "https://www.claytonforjudge2026.com/" }
+      ],
+      "source": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Office No. 87",
+      "candidates": [
+        { "key": "ca-los-angeles-2026-judge-087-dejute-david", "name": "David DeJute", "party": "Nonpartisan", "incumbent": false, "website": "https://www.dejuteforjudge.com/" },
+        { "key": "ca-los-angeles-2026-judge-087-bayne-anthony", "name": "Anthony (A.J.) Bayne", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Office No. 131",
+      "candidates": [
+        { "key": "ca-los-angeles-2026-judge-131-tryfman-donna", "name": "Donna Tryfman", "party": "Nonpartisan", "incumbent": false, "website": "https://www.tryfmanforjudge2026.com/" },
+        { "key": "ca-los-angeles-2026-judge-131-ross-david", "name": "David Ross", "party": "Nonpartisan", "incumbent": false, "website": "https://davidrossforjudge2026.com/" }
+      ],
+      "source": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure A",
+      "title": "Los Angeles County Charter Amendment Reiterating Good Faith Negotiation Obligations and Establishing Impartial Binding Arbitration for Certified Public Safety Employee Disputes",
+      "summary": "Amends the County Charter to prohibit strikes by district attorney investigators, medical examiners, lifeguards, their supervisors, and nonadministrative civilian employees in the Fire Department, Sheriff's Department and Department of Medical Examiner. It restates the County's existing duty to negotiate in good faith and sets up impartial binding arbitration to resolve labor disputes with certified public safety employee organizations, including those for firefighters and sheriff's deputies.",
+      "yesMeans": "The charter would bar strikes by the listed employees and send unresolved disputes with certified public safety unions to impartial binding arbitration.",
+      "noMeans": "The charter is not changed; no charter strike ban or binding arbitration process for these employees is added.",
+      "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+    },
+    {
+      "id": "Measure E",
+      "title": "County of Los Angeles Ethics Commission and Community Investment Budget Allocation Charter Amendment",
+      "summary": "Amends the County Charter to give the County Ethics Commission, Office of Ethics Compliance and Ethics Compliance Officer more independence and structure, including how members are appointed, their qualifications, terms and duties. It also continues without interruption the County's commitment to community investment and alternatives to incarceration, as specified in the charter amendment.",
+      "yesMeans": "The charter changes for the Ethics Commission and the continued community investment allocation would be adopted.",
+      "noMeans": "The charter is not changed.",
+      "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+    }
+  ],
+  "municipalities": {
+    "Los Angeles": {
+      "contests": [
+        {
+          "office": "Mayor, City of Los Angeles",
+          "candidates": [
+            { "key": "ca-los-angeles-2026-mayor-raman-nithya", "name": "Nithya Raman", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ca-los-angeles-2026-mayor-bass-karen", "name": "Karen Ruth Bass", "party": "Nonpartisan", "incumbent": true }
+          ],
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf"
+        },
+        {
+          "office": "City Attorney, City of Los Angeles",
+          "candidates": [
+            { "key": "ca-los-angeles-2026-cityattorney-mckinney-john", "name": "John McKinney", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ca-los-angeles-2026-cityattorney-roy-marissa", "name": "Marissa Roy", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-list-of-qualified-candidates-to-appear-on-the-ballot9fcf3b64-1a33-4882-9e17-8cbc3b3c8d76.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Proposition TE",
+          "title": "Property Transfer Tax Exemption for Victims of January 2025 Fire Disaster",
+          "summary": "Adopts an ordinance giving a one-time exemption from the City's special documentary transfer tax (Proposition ULA) for residential properties damaged or destroyed in the Palisades Fire. The exemption applies only to properties sold within five years of the date of the fire.",
+          "yesMeans": "Qualifying fire-damaged homes sold within five years of the Palisades Fire would not pay the ULA transfer tax.",
+          "noMeans": "The ULA transfer tax would continue to apply to these sales.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        },
+        {
+          "id": "Charter Amendment LA",
+          "title": "City Infrastructure, Budget, Finance, and Contracting",
+          "summary": "Amends the City Charter to create a capital infrastructure plan and a two-year budget cycle, expand the authority of the Director of Public Works, and allow the Board of Public Works to be eliminated or changed. It also removes charter restrictions that bar the City from engaging in business enterprises and mortgaging City-owned property, and changes certain contracting rules and procedures.",
+          "yesMeans": "The listed budget, public works, finance and contracting changes would be made to the charter.",
+          "noMeans": "The charter's current budget, public works, finance and contracting rules stay in place.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        },
+        {
+          "id": "Charter Amendment PL",
+          "title": "City Planning Department",
+          "summary": "Amends the City Charter to replace Area Planning Commissions with a Neighborhood Appeals Commission and set a process for City Council review of its decisions and those of the City Planning Commission. It changes the timing and process for Council action on certain planning decisions, lets the Planning Department investigate, hear and decide applications for quasi-judicial review, and allows floor area rules to be changed by ordinance.",
+          "yesMeans": "The listed changes to the City's planning appeals and decision process would be made to the charter.",
+          "noMeans": "The current planning commission structure and procedures stay in place.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        },
+        {
+          "id": "Charter Amendment EE",
+          "title": "City Ethics, Elections, and Governance",
+          "summary": "Amends the City Charter to expand the authority of the Police Department Inspector General and Fire Department Independent Assessor, bar Ethics Commissioners from running for certain elected offices for five years, and raise penalties for campaign finance violations. It requires the City Council to meet at least weekly instead of three days a week, raises referendum petition signature requirements, and makes other ethics, election and governance changes.",
+          "yesMeans": "The listed ethics, election and governance changes would be made to the charter.",
+          "noMeans": "The charter's current ethics, election and governance rules stay in place.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        },
+        {
+          "id": "Charter Amendment PRK",
+          "title": "City Department of Recreation and Parks Budget",
+          "summary": "Amends the City Charter to raise the minimum budget allocated to the Department of Recreation and Parks. The increase is phased in over ten years until it is double the current minimum, with exceptions for fiscal emergencies.",
+          "yesMeans": "The minimum Recreation and Parks budget would double over ten years, except in fiscal emergencies.",
+          "noMeans": "The current minimum Recreation and Parks budget allocation stays the same.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        },
+        {
+          "id": "Charter Amendment PRT",
+          "title": "City Airports, Harbor, and Water and Power Departments",
+          "summary": "Amends the City Charter to require the Harbor Department to set aside funds for waterfront public access projects and to disclose workforce impacts for certain leases and agreements. It also increases maximum terms for certain leases and changes the membership requirements for the Airport Commission.",
+          "yesMeans": "The listed Harbor, lease and Airport Commission changes would be made to the charter.",
+          "noMeans": "The current charter rules for these departments stay in place.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        },
+        {
+          "id": "Initiative Ordinance FD",
+          "title": "Funding for the Los Angeles Fire Department Through a One-Half Percent Sales Tax",
+          "summary": "Adopts a one-half percent (0.5%) sales tax in the City of Los Angeles to fund the Fire Department, including hiring firefighters, paramedics and other staff, vehicles and equipment, fire station construction and upgrades, and brush clearance. The ballot label estimates about $345 million a year until ended by voters, with annual audits and a citizens' oversight committee.",
+          "yesMeans": "A new 0.5% city sales tax would be imposed to fund the Fire Department.",
+          "noMeans": "No new city sales tax for the Fire Department would be imposed.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        },
+        {
+          "id": "Charter Amendment SC",
+          "title": "Los Angeles Unified School District Campaign Finance Rules Related to Board of Education Elections",
+          "summary": "Amends the Los Angeles City Charter to clarify the campaign finance rules for LAUSD Board of Education elections. It would also allow those rules to be changed by ordinance.",
+          "yesMeans": "The charter would clarify Board of Education campaign finance rules and let them be changed by ordinance.",
+          "noMeans": "The charter's current Board of Education campaign finance provisions stay in place.",
+          "source": "https://content.lavote.gov/docs/rrcc/documents/final-measures-appearing-on-the-ballot-9-22-2026-v-2.pdf"
+        }
+      ]
+    }
+  }
+}

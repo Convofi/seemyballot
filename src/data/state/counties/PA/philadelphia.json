@@ -1,0 +1,30 @@
+{
+  "state": "PA",
+  "county": "Philadelphia County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://vote.phila.gov/voting/candidates-for-office/",
+    "https://vote.phila.gov/media/2026G_Ballot_Questions.pdf"
+  ],
+  "note": "Philadelphia is a consolidated city-county; its two citywide charter-change questions are shown here. No city or county offices and no Philadelphia judicial elections or retention questions are on the November 3, 2026 ballot (Pennsylvania holds municipal and judicial elections in odd-numbered years). U.S. House, State Senate and State House races depend on your district and are not shown here. Check your official sample ballot for those.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Question #1",
+      "title": "Proposed Charter Change 1: City Contracting Preferences for Small and Local Businesses (Bill No. 260457)",
+      "summary": "Amends the Philadelphia Home Rule Charter to let the City give bid preferences and set aside contracts for small businesses on City-funded projects. It changes the dollar threshold and standards for contracts that can be set aside for small and local businesses. It also gives the Procurement Department and the City Solicitor discretion over bond requirements for certain construction projects.",
+      "yesMeans": "The Charter is amended so the City can give contracting preferences to small businesses and expand them for local businesses on City-funded projects.",
+      "noMeans": "The Charter's current contracting procedures stay in place.",
+      "source": "https://vote.phila.gov/media/2026G_Ballot_Questions.pdf"
+    },
+    {
+      "id": "Question #2",
+      "title": "Proposed Charter Change 2: Creative Philadelphia (Bill No. 260264-A)",
+      "summary": "Amends the Philadelphia Home Rule Charter to establish and define the functions of Creative Philadelphia, an existing City office headed by the Chief Cultural Officer. The office works to promote the City's arts, culture, and creative economy sector.",
+      "yesMeans": "Creative Philadelphia becomes a formal part of City government under the Charter.",
+      "noMeans": "Creative Philadelphia is not written into the Charter.",
+      "source": "https://vote.phila.gov/media/2026G_Ballot_Questions.pdf"
+    }
+  ],
+  "municipalities": {}
+}

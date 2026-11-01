@@ -1,0 +1,40 @@
+{
+  "state": "MA",
+  "county": "Suffolk County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/stage:Primaries",
+    "https://www.boston.gov/news/2026-state-election-ballot-questions",
+    "https://www.suffolkdistrictattorney.com/about-the-office"
+  ],
+  "note": "Governor's Council (Fourth District) is not shown here because the district does not cover all of Suffolk County. State Senate and State Representative districts are also not shown. Suffolk County Sheriff, Register of Deeds and Clerks of Court are not on the 2026 ballot. Boston has no city offices or city ballot questions in 2026; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Attorney, Suffolk District",
+      "candidates": [
+        {
+          "key": "ma-suffolk-2026-da-hayden-kevin",
+          "name": "Kevin R. Hayden",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm"
+    },
+    {
+      "office": "Register of Probate, Suffolk County",
+      "candidates": [
+        {
+          "key": "ma-suffolk-2026-register-of-probate-everett-stephanie",
+          "name": "Stephanie L. Everett",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

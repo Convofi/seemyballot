@@ -119,7 +119,7 @@ and use `Counties[0].NAME` and `Incorporated Places[0].BASENAME`.
   `electionOfficeUrl` / `sampleBallotUrl` for your state in `src/data/states.json`
   is a good start.
 - PDFs: `curl -sL -A "Mozilla/5.0" URL -o /path/in/scratchpad/x.pdf` then
-  `python3 -I -c 'import pypdf,sys;print("\n".join(p.extract_text() or "" for p in pypdf.PdfReader(sys.argv[1]).pages))' /path/in/scratchpad/x.pdf`
+  `python3 -E -P -c 'import pypdf,sys;print("\n".join(p.extract_text() or "" for p in pypdf.PdfReader(sys.argv[1]).pages))' /path/in/scratchpad/x.pdf`
   (`pypdf` is installed; `pdftotext` is not). Save downloads in your
   scratchpad directory, never in the repo.
 - Sites behind bot walls: `"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu --virtual-time-budget=20000 --dump-dom URL`.

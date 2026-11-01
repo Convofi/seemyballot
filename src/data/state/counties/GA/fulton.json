@@ -1,0 +1,281 @@
+{
+  "state": "GA",
+  "county": "Fulton County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+    "https://www.fultoncountyga.gov/-/media/2026-Election/List-of-Qualified-Candidates--GA-Soil--Water--November-3-2026-6292026.pdf",
+    "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Call-for-Election--ESPLOST--final-7232026.pdf",
+    "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+  ],
+  "note": "County Commission districts 1, 3 and 5, the District 4 special election (unexpired term), school board, and state legislative and U.S. House districts are not shown here; check your official sample ballot (Georgia My Voter Page) for those. The Soil & Water Conservation District Supervisor contest has three candidates for seats held by two incumbents; the consolidated sample ballot does not state how many to vote for, so check your sample ballot. The TSPLOST question is listed under each of the 14 cities outside Atlanta that called it; voters in any unincorporated part of Fulton outside Atlanta also vote on it. Sheriff, District Attorney, Clerk of Superior Court, Tax Commissioner, Solicitor General and Probate Judge are not on this ballot. The three statewide constitutional amendments are on every Fulton ballot but are statewide questions.",
+  "contests": [
+    {
+      "office": "Fulton County Commission Chairperson",
+      "candidates": [
+        {
+          "key": "ga-fulton-2026-commchair-tatum-eric",
+          "name": "Eric J. Tatum",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ga-fulton-2026-commchair-ivory-mo",
+          "name": "Mo Ivory",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf"
+    },
+    {
+      "office": "Fulton Soil & Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-fulton-2026-soilwater-placie-zane",
+          "name": "Zane Placie",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ga-fulton-2026-soilwater-rekuc-walter",
+          "name": "Walter S. Rekuc Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ga-fulton-2026-soilwater-ulseth-jason",
+          "name": "Jason Ulseth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "ESPLOST",
+      "title": "Educational Special Purpose Local Option Sales and Use Tax (ESPLOST)",
+      "summary": "Reimposes the existing 1 percent sales and use tax for education in all of Fulton County when the current tax expires, starting July 1, 2027, for up to 20 calendar quarters, to raise up to $2,095,680,577. Up to $1,306,195,350 goes to the Fulton County School District and up to $789,485,227 to Atlanta Public Schools for new and renovated schools and facilities, technology and safety improvements, equipment, and buses and vehicles. Approval also authorizes Atlanta Public Schools to issue up to $350,000,000 in general obligation debt payable from its share of the tax.",
+      "yesMeans": "The 1 percent education sales tax continues for up to five more years and Atlanta Public Schools may issue up to $350 million in bonds backed by its share.",
+      "noMeans": "The education sales tax is not reimposed when the current tax expires, and the bonds are not authorized.",
+      "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+      "moreInfo": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Call-for-Election--ESPLOST--final-7232026.pdf"
+    }
+  ],
+  "municipalities": {
+    "Alpharetta": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Chattahoochee Hills": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "College Park": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "East Point": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Fairburn": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Hapeville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Johns Creek": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Milton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Mountain Park": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Palmetto": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        },
+        {
+          "id": "City of Palmetto Ad Valorem Tax Exemption",
+          "title": "City of Palmetto Ad Valorem Tax Exemption",
+          "summary": "Asks whether Palmetto residents who are 65 or older by January 1, 2026 and who own and live in a home in the City of Palmetto as their primary residence should qualify for a 100% exemption from city ad valorem (property) taxes, under O.C.G.A. § 48-5-48.3.",
+          "yesMeans": "Qualifying homeowners aged 65 or older would be exempt from 100% of city property taxes on their primary residence.",
+          "noMeans": "The exemption is not created and current city property tax rules stay in place.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf"
+        }
+      ]
+    },
+    "Roswell": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Sandy Springs": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        },
+        {
+          "id": "City of Sandy Springs Redevelopment Powers",
+          "title": "City of Sandy Springs Redevelopment Powers",
+          "summary": "Asks whether to approve the Act that authorizes the City of Sandy Springs to use all redevelopment powers allowed under Georgia's Redevelopment Powers Law, as that law may be amended over time.",
+          "yesMeans": "Sandy Springs may exercise the redevelopment powers allowed under the Redevelopment Powers Law.",
+          "noMeans": "The Act is not approved and Sandy Springs does not gain those redevelopment powers.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf"
+        }
+      ]
+    },
+    "South Fulton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    },
+    "Union City": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "TSPLOST",
+          "title": "Transportation Special Purpose Local Option Sales and Use Tax (TSPLOST)",
+          "summary": "Adds a 0.75 percent sales and use tax in the part of Fulton County outside the City of Atlanta, for up to five years, to pay for transportation improvements and congestion reduction. The call for election sets the tax to run from April 1, 2027 through March 31, 2032. The question was called jointly by the Fulton County Board of Commissioners and 14 cities.",
+          "yesMeans": "The additional 0.75 percent transportation sales tax is imposed in Fulton County outside Atlanta for up to five years.",
+          "noMeans": "The additional 0.75 percent transportation sales tax is not imposed.",
+          "source": "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
+          "moreInfo": "https://www.fultoncountyga.gov/-/media/November-3-Election-notices/Call-for-Election--TSPLOST-Revised-8252026.pdf"
+        }
+      ]
+    }
+  }
+}

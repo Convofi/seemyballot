@@ -1,0 +1,34 @@
+{
+  "state": "CA",
+  "county": "Riverside County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://voteinfo.net/sites/g/files/aldnop371/files/2026-09/Final%20candidate%20list%20nov%202026%20eng.pdf",
+    "https://voteinfo.net/sites/g/files/aldnop371/files/2026-10/ElectionSummaryReportRPT%20%285%29.pdf",
+    "https://voteinfo.net/sites/g/files/aldnop371/files/2026-08/Measure%20A%20-%20Riverside%20County%20Transportation%20Commission.pdf",
+    "https://voteinfo.net/sites/g/files/aldnop371/files/2026-10/November%20General%20Election%20Write%20In%20Candidates.pdf"
+  ],
+  "note": "Not shown: Board of Supervisors, City of Riverside City Council Wards 2 and 4, other city council districts, school and community college boards, water, healthcare and park districts, congressional and legislative districts, Court of Appeal retention questions, and school, city and special-district measures. Sheriff-Coroner, District Attorney, Assessor-County Clerk-Recorder, Auditor-Controller, Treasurer-Tax Collector and County Superintendent of Schools are not on the November ballot (none is on the Registrar's certified November 3, 2026 contest list). The City of Riverside has no mayor contest and no citywide measure on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of the Superior Court, Office No. 10",
+      "candidates": [
+        { "key": "ca-riverside-2026-judge-010-paradise-michelle", "name": "Michelle Paradise", "party": "Nonpartisan", "incumbent": false },
+        { "key": "ca-riverside-2026-judge-010-garcia-andrea", "name": "Andrea Garcia", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://voteinfo.net/sites/g/files/aldnop371/files/2026-09/Final%20candidate%20list%20nov%202026%20eng.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure A",
+      "title": "Riverside County Traffic Relief, Pothole/Road Repair Investment Renewal",
+      "summary": "Placed on the ballot by the Riverside County Transportation Commission, this measure would continue the existing voter-approved half-cent transportation sales tax in Riverside County, without raising tax rates, until ended by voters. The ballot question says it would provide about $280,000,000 a year for reducing congestion, repairing potholes and roads, completing freeway projects, reinforcing bridges and highways against flooding and earthquakes, and keeping senior, student, disabled and veteran bus fares low, with audits and spending disclosure required.",
+      "yesMeans": "The existing transportation sales tax continues, with no end date unless voters end it, to fund the listed road, freeway and transit purposes.",
+      "noMeans": "The existing transportation sales tax is not extended by this measure.",
+      "source": "https://voteinfo.net/sites/g/files/aldnop371/files/2026-08/Measure%20A%20-%20Riverside%20County%20Transportation%20Commission.pdf",
+      "moreInfo": "https://voteinfo.net/november-3-2026-general-election"
+    }
+  ],
+  "municipalities": {}
+}

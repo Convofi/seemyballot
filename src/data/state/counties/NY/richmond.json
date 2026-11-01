@@ -1,0 +1,104 @@
+{
+  "state": "NY",
+  "county": "Richmond County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/9_11_2026%2010_26_11%20AM_General%20Contest%20List%20Web%20Version.pdf",
+    "https://www.vote.nyc/page/list-candidates",
+    "https://www.vote.nyc/sites/default/files/pdf/Ballot_Proposals/GE2026/Appendix_A_Proposed_Ballot_Questions_20260723_ENGLISH.pdf",
+    "https://www.vote.nyc/sites/default/files/pdf/Ballot_Proposals/GE2026/Appendix_B_Proposed_Abstracts_20260723_ENGLISH.pdf",
+    "https://www.vote.nyc/page/ballot-proposals"
+  ],
+  "note": "Candidates come from the NYC Board of Elections contest list printed 9/11/2026 and marked 'Tentative, subject to change'; confirm on your official sample ballot. New York uses fusion voting: candidates on more than one party line are listed once under their main party; candidates who appear only on a minor-party line (e.g., Working Families, Conservative) are shown as 'Other'. Not shown here because they depend on your district: Representative in Congress, State Senator, Member of the Assembly, and Judge of the Civil Court for your Municipal Court District. Check your official sample ballot for those. No District Attorney or Borough President race is on the 2026 ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 13th Judicial District",
+      "candidates": [
+        {
+          "key": "ny-richmond-2026-supreme-court-richards-kelvin",
+          "name": "Kelvin Richards",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-richmond-2026-supreme-court-pinto-michael",
+          "name": "Michael J. Pinto",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/9_11_2026%2010_26_11%20AM_General%20Contest%20List%20Web%20Version.pdf"
+    },
+    {
+      "office": "Judge of the Civil Court, Richmond County",
+      "candidates": [
+        {
+          "key": "ny-richmond-2026-civil-court-golden-tashanna",
+          "name": "Tashanna Golden",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-richmond-2026-civil-court-yost-glenn",
+          "name": "Glenn A. Yost",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vote.nyc/sites/default/files/pdf/candidates/2026/9_11_2026%2010_26_11%20AM_General%20Contest%20List%20Web%20Version.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "New York": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposal Number 1",
+          "title": "Proposed Charter Amendment: Speed Up Process for Granting a Revocable Consent to Use Public Space",
+          "summary": "Would simplify the process for getting permission to use public space for things like ramps, planters and sidewalk cafes. It removes mandatory public hearings and City Council disapproval of sidewalk cafes, while keeping community and Council input.",
+          "yesMeans": "The process to use public space is shortened while community input is kept.",
+          "noMeans": "The longer process stays, with a mandatory public hearing and Council review of sidewalk cafes.",
+          "source": "https://www.vote.nyc/sites/default/files/pdf/Ballot_Proposals/GE2026/Appendix_A_Proposed_Ballot_Questions_20260723_ENGLISH.pdf",
+          "moreInfo": "https://www.vote.nyc/page/ballot-proposals"
+        },
+        {
+          "id": "Proposal Number 2",
+          "title": "Proposed Charter Amendment: Reduce City Contractor Paperwork; Require Regular Meetings of Procurement Policy Board",
+          "summary": "Would let the Procurement Policy Board simplify the questionnaire City contractors must fill out, and require the Board to meet quarterly. It removes a mandatory hearing for a required client services report and lets the Mayor delegate certain contract approvals.",
+          "yesMeans": "The Procurement Policy Board's authority is changed, including to simplify the contractor questionnaire, and the Mayor may delegate certain contract approvals.",
+          "noMeans": "The laws stay the same, and the Mayor and Comptroller keep the longer questionnaire.",
+          "source": "https://www.vote.nyc/sites/default/files/pdf/Ballot_Proposals/GE2026/Appendix_A_Proposed_Ballot_Questions_20260723_ENGLISH.pdf",
+          "moreInfo": "https://www.vote.nyc/page/ballot-proposals"
+        },
+        {
+          "id": "Proposal Number 3",
+          "title": "Proposed Charter Amendment: Speed Up Street Safety Projects, Disposition of Unused City Property, Office Leasing",
+          "summary": "Would simplify the review of street safety projects to shorten construction timelines. It would let unused City property be disposed of with City Planning Commission approval and speed up leasing of offices for the City workforce.",
+          "yesMeans": "Street project approval, disposal of City property and office leasing are simplified.",
+          "noMeans": "Intra-agency consultation for road projects, Council approval of City property dispositions and Council disapproval of office leases stay in place.",
+          "source": "https://www.vote.nyc/sites/default/files/pdf/Ballot_Proposals/GE2026/Appendix_A_Proposed_Ballot_Questions_20260723_ENGLISH.pdf",
+          "moreInfo": "https://www.vote.nyc/page/ballot-proposals"
+        },
+        {
+          "id": "Proposal Number 4",
+          "title": "Proposed Charter Amendment: Simplify Building Permitting and Move Waterfront Permitting to Department of Buildings",
+          "summary": "Would create a centralized construction permits hub. It moves waterfront permitting from the Department of Small Business Services to the Department of Buildings and lets additional Department of Buildings officials approve construction.",
+          "yesMeans": "A centralized permitting hub is authorized, waterfront permitting moves to the Department of Buildings, and more Department of Buildings officials may issue approvals.",
+          "noMeans": "The laws stay the same.",
+          "source": "https://www.vote.nyc/sites/default/files/pdf/Ballot_Proposals/GE2026/Appendix_A_Proposed_Ballot_Questions_20260723_ENGLISH.pdf",
+          "moreInfo": "https://www.vote.nyc/page/ballot-proposals"
+        },
+        {
+          "id": "Proposal Number 5",
+          "title": "Proposed Charter Amendment: Set Contribution Targets for Rainy Day Fund to Promote Sufficient Budgetary Reserves",
+          "summary": "Would set a target amount of money for the City to hold in reserve funds, including the rainy day fund, for unexpected financial hardships in future years. It requires a method for calculating contributions to be developed.",
+          "yesMeans": "The Mayor must develop a method for calculating deposits to the rainy day fund, with deposits subject to approval in the City budget.",
+          "noMeans": "The laws stay the same, with no reserves target.",
+          "source": "https://www.vote.nyc/sites/default/files/pdf/Ballot_Proposals/GE2026/Appendix_A_Proposed_Ballot_Questions_20260723_ENGLISH.pdf",
+          "moreInfo": "https://www.vote.nyc/page/ballot-proposals"
+        }
+      ]
+    }
+  }
+}

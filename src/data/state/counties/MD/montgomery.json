@@ -1,0 +1,188 @@
+{
+  "state": "MD",
+  "county": "Montgomery County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_all_counties_candidatelist.html",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html",
+    "https://www.montgomerycountymd.gov/government/legislative-branch/county-council/councilmembers",
+    "https://www.montgomerycountymd.gov/circuit-court/about-us/judges-magistrates",
+    "https://www.montgomerycountymd.gov/circuit-court/about-us/clerk-court",
+    "https://www.montgomerycountymd.gov/sao/",
+    "https://www.montgomerycountymd.gov/sheriff/",
+    "https://registers.maryland.gov/main/montgomery.html",
+    "https://www.montgomeryschoolsmd.org/boe/members/"
+  ],
+  "note": "County Council district seats (Districts 1-7) and Board of Education district seats (Districts 1, 3 and 5) are not shown; check your official sample ballot for those. Montgomery County has no elected Orphans' Court judges (the Circuit Court sits as the Orphans' Court), and the certified 2026 general election ballot carries no county charter amendment or bond questions.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-exec-jawando-will",
+          "name": "Will Jawando",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": "https://www.willjawando.com/"
+        },
+        {
+          "key": "md-montgomery-2026-exec-wells-esther",
+          "name": "Esther Wells",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    },
+    {
+      "office": "County Council At Large (vote for up to 4)",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-council-atlarge-elrich-marc",
+          "name": "Marc Elrich",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": "https://www.marcelrich.org/"
+        },
+        {
+          "key": "md-montgomery-2026-council-atlarge-goldberg-scott",
+          "name": "Scott Evan Goldberg",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": "https://votescott.org/"
+        },
+        {
+          "key": "md-montgomery-2026-council-atlarge-sayles-laurie-anne",
+          "name": "Laurie-Anne Sayles",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": "https://www.sayles4moco.com/"
+        },
+        {
+          "key": "md-montgomery-2026-council-atlarge-silvestre-karla",
+          "name": "Karla Silvestre",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-montgomery-2026-council-atlarge-wells-sherwin",
+          "name": "Sherwin Wells",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 6 (vote for up to 4)",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-circuit-burrell-sharon",
+          "name": "Sharon V. Burrell",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.electsittingjudgesmcs.com/"
+        },
+        {
+          "key": "md-montgomery-2026-circuit-del-pino-victor",
+          "name": "Victor M. Del Pino",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-montgomery-2026-circuit-dietrich-james",
+          "name": "James J. Dietrich",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.electsittingjudgesmcs.com/"
+        },
+        {
+          "key": "md-montgomery-2026-circuit-mcqueen-catherine",
+          "name": "Catherine H. McQueen",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.electsittingjudgesmcs.com/"
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-sa-mccarthy-john",
+          "name": "John McCarthy",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-clerk-bushell-karen",
+          "name": "Karen Bushell",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-register-ebel-barbara",
+          "name": "Barbara Ebel",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-montgomery-2026-register-reyes-t-dolores",
+          "name": "T. Dolores Reyes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-sheriff-milam-will",
+          "name": "Will Milam",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": "https://willmilam.com/"
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    },
+    {
+      "office": "Board of Education At Large",
+      "candidates": [
+        {
+          "key": "md-montgomery-2026-boe-atlarge-diaz-brenda",
+          "name": "Brenda M. Diaz",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://diazforboe.com/"
+        },
+        {
+          "key": "md-montgomery-2026-boe-atlarge-lazo-omar",
+          "name": "Omar Lazo",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.omarlazo4boe.com/"
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Montgomery.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,1029 @@
+{
+  "state": "IL",
+  "county": "Cook County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates",
+    "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-referenda",
+    "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf",
+    "https://www.cookcountyclerkil.gov/elections/directory-elected-officials",
+    "https://www.cookcountyclerkil.gov/elections/november-3-2026-write-candidates"
+  ],
+  "note": "Not shown: Cook County Board commissioner districts, Board of Review districts, subcircuit judicial vacancies (1st, 3rd, 5th, 8th, 11th, 13th, 16th-20th subcircuits), Congress, state legislature, Chicago Board of Education subdistrict members, sanitary districts, and ward, precinct, township, municipal (outside Chicago), school, park, library, fire and mental-health-program referenda. Declared write-in candidates are not shown: the suburban Cook list has write-ins for Board President, Clerk, Treasurer and Assessor, but the Chicago list shows none, so they are not on every county voter's list. Check your official sample ballot for these.",
+  "contests": [
+    {
+      "office": "President of the Cook County Board of Commissioners",
+      "candidates": [
+        {
+          "key": "il-cook-2026-board-president-preckwinkle-toni",
+          "name": "Toni Preckwinkle",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "il-cook-2026-board-president-murphy-michael",
+          "name": "Michael Murphy",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Cook County Clerk",
+      "candidates": [
+        {
+          "key": "il-cook-2026-clerk-gordon-monica",
+          "name": "Monica Gordon",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Cook County Sheriff",
+      "candidates": [
+        {
+          "key": "il-cook-2026-sheriff-dart-thomas",
+          "name": "Thomas J. Dart",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "il-cook-2026-sheriff-sandefur-brad",
+          "name": "Brad Sandefur",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Cook County Treasurer",
+      "candidates": [
+        {
+          "key": "il-cook-2026-treasurer-pappas-maria",
+          "name": "Maria Pappas",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Cook County Assessor",
+      "candidates": [
+        {
+          "key": "il-cook-2026-assessor-hynes-pat",
+          "name": "Pat Hynes",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "il-cook-2026-assessor-tsatsoulis-nico",
+          "name": "Nico Tsatsoulis",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (full 6-year term, vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "il-cook-2026-mwrd-6yr-pennington-michelle",
+          "name": "Michelle Pennington",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-cook-2026-mwrd-6yr-rueckert-timothy",
+          "name": "Timothy E. Rueckert",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-cook-2026-mwrd-6yr-shestokas-jill",
+          "name": "Jill B. Shestokas",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-cook-2026-mwrd-6yr-brady-davis-precious",
+          "name": "Precious Brady-Davis",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "il-cook-2026-mwrd-6yr-corral-sepulveda-eira",
+          "name": "Eira Lizeth Corral Sepúlveda",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "il-cook-2026-mwrd-6yr-mcelroy-kirkwood-beth",
+          "name": "Beth McElroy Kirkwood",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (unexpired 2-year term)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-mwrd-2yr-davis-cameron",
+          "name": "Cameron \"Cam\" Davis",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Illinois Appellate Court, 1st District (Vacancy of Hoffman)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-appellate-hoffman-rice-judith",
+          "name": "Judith C. Rice",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County (Vacancy of Burke)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-circuit-burke-mckenzie-steven",
+          "name": "Steven Q. McKenzie",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County (Vacancy of Cobbs)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-circuit-cobbs-toledo-luz",
+          "name": "Luz Maria Toledo",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County (Vacancy of Coghlan)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-circuit-coghlan-rice-ashonta",
+          "name": "Ashonta C. Rice",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County (Vacancy of Hooks)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-circuit-hooks-stewart-ava",
+          "name": "Ava George Stewart",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County (Vacancy of Karkula)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-circuit-karkula-thedford-d-anthony",
+          "name": "D'Anthony \"Tony\" Thedford",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Illinois Appellate Court, 1st District — retain Judge Bertina E. Lampkin? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-appellate-lampkin-bertina",
+          "name": "Bertina E. Lampkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Lewis Nixon? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-nixon-lewis",
+          "name": "Lewis Nixon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Kerry M. Kennedy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-kennedy-kerry",
+          "name": "Kerry M. Kennedy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Joan E. Powell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-powell-joan",
+          "name": "Joan E. Powell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Maureen Ward Kirby? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-kirby-maureen",
+          "name": "Maureen Ward Kirby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Edward A. Arce? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-arce-edward",
+          "name": "Edward A. Arce",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Thomas J. Byrne? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-byrne-thomas",
+          "name": "Thomas J. Byrne",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Diana L. Kenworthy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-kenworthy-diana",
+          "name": "Diana L. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Kristyna Colleen Ryan? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-ryan-kristyna",
+          "name": "Kristyna Colleen Ryan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Ursula Walowski? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-walowski-ursula",
+          "name": "Ursula Walowski",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Anthony C. \"Tony\" Kyriakopoulos? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-kyriakopoulos-anthony",
+          "name": "Anthony C. \"Tony\" Kyriakopoulos",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Caroline Kate Moreland? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-moreland-caroline",
+          "name": "Caroline Kate Moreland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Thomas J. Carroll? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-carroll-thomas",
+          "name": "Thomas J. Carroll",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Andrea M. Buford? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-buford-andrea",
+          "name": "Andrea M. Buford",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge John Michael Allegretti? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-allegretti-john",
+          "name": "John Michael Allegretti",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Kristal R. Rivers? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-rivers-kristal",
+          "name": "Kristal R. Rivers",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Steven G. Watkins? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-watkins-steven",
+          "name": "Steven G. Watkins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Abbey Fishman Romanek? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-romanek-abbey",
+          "name": "Abbey Fishman Romanek",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Judith C. Rice? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-rice-judith",
+          "name": "Judith C. Rice",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Patrick Kevin Coughlin? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-coughlin-patrick",
+          "name": "Patrick Kevin Coughlin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Megan Elizabeth Goldish? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-goldish-megan",
+          "name": "Megan Elizabeth Goldish",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Anjana M.J. Hansen? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-hansen-anjana",
+          "name": "Anjana M.J. Hansen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Robert D. Kuzas? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-kuzas-robert",
+          "name": "Robert D. Kuzas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Maritza Martinez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-martinez-maritza",
+          "name": "Maritza Martinez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Terrence J. McGuire? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-mcguire-terrence",
+          "name": "Terrence J. McGuire",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Bridget Anne Mitchell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-mitchell-bridget",
+          "name": "Bridget Anne Mitchell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge James P. Pieczonka? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-pieczonka-james",
+          "name": "James P. Pieczonka",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Patricia O'Brien Sheahan? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-sheahan-patricia",
+          "name": "Patricia O'Brien Sheahan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Michael A. Forti? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-forti-michael",
+          "name": "Michael A. Forti",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Nichole C. Patton? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-patton-nichole",
+          "name": "Nichole C. Patton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Sondra N. Denmark? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-denmark-sondra",
+          "name": "Sondra N. Denmark",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Gerardo Tristan, Jr.? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-tristan-gerardo",
+          "name": "Gerardo Tristan, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Lynn Weaver Boyle? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-boyle-lynn",
+          "name": "Lynn Weaver Boyle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Daniel Edward Maloney? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-maloney-daniel",
+          "name": "Daniel Edward Maloney",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Thomas M. Cushing? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-cushing-thomas",
+          "name": "Thomas M. Cushing",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge John G. Mulroe? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-mulroe-john",
+          "name": "John G. Mulroe",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Tyria B. Walton? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-walton-tyria",
+          "name": "Tyria B. Walton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Erin Haggerty Antonietti? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-antonietti-erin",
+          "name": "Erin Haggerty Antonietti",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Teresa Molina-Gonzalez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-molina-gonzalez-teresa",
+          "name": "Teresa Molina-Gonzalez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Patricia Maria Fallon? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-fallon-patricia",
+          "name": "Patricia Maria Fallon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Sheree D. Henry? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-henry-sheree",
+          "name": "Sheree D. Henry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Celestia L. Mays? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-mays-celestia",
+          "name": "Celestia L. Mays",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Levander Smith, Jr.? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-smith-levander",
+          "name": "Levander Smith, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Julie Bess Aimen? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-aimen-julie",
+          "name": "Julie Bess Aimen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Laura Ayala-Gonzalez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-ayala-gonzalez-laura",
+          "name": "Laura Ayala-Gonzalez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Krista D. Butler? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-butler-krista",
+          "name": "Krista D. Butler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Marie Aileen Dempsey? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-dempsey-marie",
+          "name": "Marie Aileen Dempsey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Jamie Guerra Dickler? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-dickler-jamie",
+          "name": "Jamie Guerra Dickler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Jonathan Clark Green? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-green-jonathan",
+          "name": "Jonathan Clark Green",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Mary Catherine Marubio? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-marubio-mary",
+          "name": "Mary Catherine Marubio",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Regina A. Mescall? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-mescall-regina",
+          "name": "Regina A. Mescall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Lorraine Mary Murphy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-murphy-lorraine",
+          "name": "Lorraine Mary Murphy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Eileen Marie O'Connor? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-o-connor-eileen",
+          "name": "Eileen Marie O'Connor",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Jill Rose Quinn? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-quinn-jill",
+          "name": "Jill Rose Quinn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Pamela Reaves-Harris? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-reaves-harris-pamela",
+          "name": "Pamela Reaves-Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Tiesha L. Smith? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-smith-tiesha",
+          "name": "Tiesha L. Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Chris Stacey? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-stacey-chris",
+          "name": "Chris Stacey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Perla Tirado? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-tirado-perla",
+          "name": "Perla Tirado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Elizabeth Anne Walsh? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-walsh-elizabeth",
+          "name": "Elizabeth Anne Walsh",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    },
+    {
+      "office": "Judge of the Circuit Court of Cook County — retain Judge Maura McMahon Zeller? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-cook-2026-retain-circuit-zeller-maura",
+          "name": "Maura McMahon Zeller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-candidates"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Cook County Millionaire Amendment for Property Tax Relief and Education",
+      "title": "The Cook County Millionaire Amendment for Property Tax Relief and Education (advisory)",
+      "summary": "A non-binding advisory question to all Cook County voters asking whether Illinois should adopt a 'Millionaire Amendment' that would add a 3% income tax surcharge only on millionaires. Under the question, half of the new revenue would go to property tax relief for residential and commercial taxpayers and half to state funding for public education. The result does not change any law by itself.",
+      "yesMeans": "You advise that Illinois should adopt a 3% income tax surcharge on millionaires, split between property tax relief and state funding for public education.",
+      "noMeans": "You advise that Illinois should not adopt this millionaire income tax surcharge.",
+      "source": "https://www.cookcountyclerkil.gov/elections/current-elections/view-all-referenda",
+      "moreInfo": "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf"
+    }
+  ],
+  "municipalities": {
+    "Chicago": {
+      "contests": [
+        {
+          "office": "President of the Chicago Board of Education",
+          "candidates": [
+            {
+              "key": "il-cook-2026-cps-board-president-henderson-victor",
+              "name": "Victor P. Henderson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "il-cook-2026-cps-board-president-biggs-jessica",
+              "name": "Jessica Biggs",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "il-cook-2026-cps-board-president-revuluri-sendhil",
+              "name": "Sendhil Revuluri",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "il-cook-2026-cps-board-president-dominguez-hilario",
+              "name": "Hilario Dominguez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Restart Chicago Gunshot Detection",
+          "title": "Restart Chicago Gunshot Detection (advisory): “Should the City of Chicago restart the use of gunshot detection technology that informs first responders when gunshots are detected?”",
+          "summary": "A non-binding advisory question placed on the ballot by the Chicago City Council. It asks whether the City should restart using gunshot detection technology that alerts first responders when gunshots are detected. The result does not change any law by itself.",
+          "yesMeans": "You advise that Chicago should restart using gunshot detection technology.",
+          "noMeans": "You advise that Chicago should not restart using gunshot detection technology.",
+          "source": "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf"
+        },
+        {
+          "id": "Permanent Chicago Festival Space",
+          "title": "Permanent Chicago Festival Space (advisory): “Should Chicago develop a permanent festival and outdoor event space for large-scale events?”",
+          "summary": "A non-binding advisory question placed on the ballot by the Chicago City Council. It asks whether Chicago should develop a permanent festival and outdoor event space for large-scale events. The result does not change any law by itself.",
+          "yesMeans": "You advise that Chicago should develop a permanent festival and outdoor event space.",
+          "noMeans": "You advise that Chicago should not develop a permanent festival and outdoor event space.",
+          "source": "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf"
+        },
+        {
+          "id": "Chicago Cost Recovery from Midway Blitz",
+          "title": "Chicago Cost Recovery from Midway Blitz (advisory): “Shall the City of Chicago pursue all lawful means to recover financial compensation from the federal government for the costs and economic harm caused by the Donald Trump administration's violent, militarized ICE operations, including the Midway Blitz operation led by Greg Bovino, to recover lost tax revenue, public safety response costs, and services provided to residents and families affected by those operations?”",
+          "summary": "A non-binding advisory question placed on the ballot by the Chicago City Council. It asks whether the City should pursue all lawful means to seek financial compensation from the federal government for costs and economic harm the question attributes to federal immigration enforcement operations, including the operation known as Midway Blitz. The full question wording is printed above as it appears on the ballot; the result does not change any law by itself.",
+          "yesMeans": "You advise that the City should pursue lawful means to seek compensation from the federal government for these costs.",
+          "noMeans": "You advise that the City should not pursue such compensation.",
+          "source": "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf"
+        },
+        {
+          "id": "Advisory Question Regarding Millionaires Surcharge",
+          "title": "Advisory Question Regarding Millionaires Surcharge (advisory): “Shall Illinois use revenue from a surcharge on millionaires to increase funding to public schools?”",
+          "summary": "A non-binding advisory question to voters of Chicago Public Schools District 299, which covers the whole city. It asks whether Illinois should use revenue from a surcharge on millionaires to increase funding for public schools. The result does not change any law by itself.",
+          "yesMeans": "You advise that Illinois should use revenue from a surcharge on millionaires to increase public school funding.",
+          "noMeans": "You advise that Illinois should not do so.",
+          "source": "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf"
+        },
+        {
+          "id": "Advisory Question Regarding Chicago Land Owners",
+          "title": "Advisory Question Regarding Chicago Land Owners (advisory): “Should the City of Chicago require owners of long-term vacant or undeveloped commercial or investment properties to pay an additional annual charge that would support Chicago Public Schools?”",
+          "summary": "A non-binding advisory question to voters of Chicago Public Schools District 299, which covers the whole city. It asks whether the City should require owners of long-term vacant or undeveloped commercial or investment properties to pay an additional annual charge to support Chicago Public Schools. The result does not change any law by itself.",
+          "yesMeans": "You advise that the City should charge owners of long-term vacant or undeveloped commercial or investment properties an additional annual fee for Chicago Public Schools.",
+          "noMeans": "You advise that the City should not add this charge.",
+          "source": "https://cboeprod.blob.core.usgovcloudapi.net/prod/2026-10/Candidate%20List_20261027-1.pdf"
+        }
+      ]
+    }
+  }
+}

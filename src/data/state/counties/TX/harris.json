@@ -1,0 +1,1460 @@
+{
+  "state": "TX",
+  "county": "Harris County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D",
+    "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/Write-Ins/2026/1126_Write-In_for_BBM.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=azVo5pcm184KqQpeMxG5gOo%2BVcoJmZCswMsgHlausCE%3D",
+    "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3RaNl6tcd6gqgTo3IbG-xrbkeEqP1d0sAAVHdoet19Eq5P_zpup8GC_6QfA0XiQ/pubhtml?gid=2135239155&single=true",
+    "https://www.harrisvotes.com/Candidates"
+  ],
+  "note": "From the Harris County Clerk's official sample ballot and declared write-in list for November 3, 2026. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Place 2 in Precincts 1-8), U.S. House, State Board of Education, State Senate and State House districts, school district trustee and bond/tax-rate measures, municipal utility district, emergency services district and other special-district races and measures, and city races or measures in cities other than Houston (for example Baytown and League City). There are no countywide propositions, and no District Attorney, Sheriff or Constable races, on the Harris County ballot this year. Incumbent flags come from the County Clerk's list of Harris County elected officials. Names are shown in normal capitalization; the ballot prints them in capitals. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Chief Justice, 14th Court of Appeals",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-coa14-chief-jewell-kevin",
+          "name": "Kevin Jewell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-coa14-chief-landau-sarah",
+          "name": "Sarah Beth Landau",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-coa1-p3-frankfort-todd",
+          "name": "Todd Frankfort",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-coa1-p3-rivas-molloy-veronica",
+          "name": "Veronica Rivas-Molloy",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 4 - Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-coa1-p4-gunn-david",
+          "name": "David Gunn",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-coa1-p4-countiss-julie",
+          "name": "Julie Countiss",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 5",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-coa1-p5-caird-jessica",
+          "name": "Jessica Caird",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-coa1-p5-guerra-amy",
+          "name": "Amy Guerra",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Justice, 14th Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-coa14-p7-wise-ken",
+          "name": "Ken Wise",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-coa14-p7-demond-william",
+          "name": "William Demond",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 55th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist55-copeland-nile",
+          "name": "Nile Copeland",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist55-payne-latosha",
+          "name": "Latosha Lewis Payne",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 113th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist113-sullivan-paul",
+          "name": "Paul M. Sullivan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist113-collier-rabeea",
+          "name": "Rabeea Collier",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 157th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist157-fowler-gerald",
+          "name": "Gerald Fowler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist157-garrison-tanya",
+          "name": "Tanya Garrison",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 189th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist189-christopher-vance",
+          "name": "Vance Christopher",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist189-craft-tamika",
+          "name": "Tamika \"Tami\" Craft",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 190th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist190-adams-aaron",
+          "name": "Aaron Adams",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist190-miller-beau",
+          "name": "Beau Miller",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 234th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist234-harvey-david",
+          "name": "David \"Dave\" Harvey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist234-reeder-lauren",
+          "name": "Lauren Reeder",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 269th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist269-pawlak-celena",
+          "name": "Celena Guerra Pawlak",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist269-sepolio-cory",
+          "name": "Cory Don Sepolio",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 270th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist270-staley-brian",
+          "name": "Brian Staley",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist270-davis-dedra",
+          "name": "Dedra Davis",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 281st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist281-carmona-chris",
+          "name": "Chris Carmona",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist281-weems-christine",
+          "name": "Christine Weems",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Civil District Judge, 295th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist295-travis-greg",
+          "name": "Greg Travis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist295-roth-donna",
+          "name": "Donna Roth",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Juvenile District Judge, 313th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist313-strickling-amy",
+          "name": "Amy Strickling",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist313-davis-samantha",
+          "name": "Samantha Y. Davis",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Juvenile District Judge, 314th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist314-moore-michelle",
+          "name": "Michelle Moore",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Juvenile District Judge, 315th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist315-brock-maria",
+          "name": "Maria Valeria Brock",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist315-shapiro-leah",
+          "name": "Leah Shapiro",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 180th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist180-pierce-tami",
+          "name": "Tami C. Pierce",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-dist180-morales-stephanie",
+          "name": "Stephanie Morales",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 182nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist182-haynes-brent",
+          "name": "Brent Haynes",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist182-lacayo-danilo",
+          "name": "Danilo \"Danny\" Lacayo",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 183rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist183-long-lance",
+          "name": "Lance Long",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist183-maldonado-julia",
+          "name": "Julia Maldonado",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 184th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist184-hudson-heather",
+          "name": "Heather Hudson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist184-thomas-katherine",
+          "name": "Katherine \"Kat\" Thomas",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 185th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist185-goldberg-mark",
+          "name": "Mark Goldberg",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist185-beall-andrea",
+          "name": "Andrea Beall",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 208th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist208-driver-stephen",
+          "name": "Stephen F. Driver",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist208-armstrong-beverly",
+          "name": "Beverly D. Armstrong",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 209th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist209-coveny-tony",
+          "name": "Tony Coveny",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist209-warren-brian",
+          "name": "Brian Edward Warren",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 228th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist228-dozier-caroline",
+          "name": "Caroline Dozier",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist228-almaguer-alyson",
+          "name": "Alyson Almaguer",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 230th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist230-long-megan",
+          "name": "Megan Long",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist230-morton-chris",
+          "name": "Chris Morton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 232nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist232-silverman-chuck",
+          "name": "Chuck Silverman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist232-hill-josh",
+          "name": "Josh Hill",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 248th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist248-overhuls-david",
+          "name": "David W. Overhuls",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist248-unger-hilary",
+          "name": "Hilary Unger",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 262nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist262-moss-nathan",
+          "name": "Nathan Moss",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist262-gray-lori",
+          "name": "Lori Chambers Gray",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 263rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist263-campo-jason",
+          "name": "Jason A. Campo",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist263-morris-melissa",
+          "name": "Melissa Marie Morris",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 482nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist482-honeycutt-bryan",
+          "name": "Bryan Honeycutt",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist482-nelson-veronica",
+          "name": "Veronica M. Nelson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 486th Judicial District - Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist486-velasquez-vanessa",
+          "name": "Vanessa Velasquez",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-dist486-wilson-kathryn",
+          "name": "Kathryn \"Katie\" Wilson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 495th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist495-deangelo-lori",
+          "name": "Lori Ann DeAngelo",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-dist495-hill-tiffany",
+          "name": "Tiffany M. Hill",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 496th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist496-simons-dan",
+          "name": "Dan Simons",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-dist496-franklin-ramona",
+          "name": "Ramona Franklin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Criminal District Judge, 497th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist497-peebles-peyton",
+          "name": "Peyton Peebles",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-dist497-schwartz-breanna",
+          "name": "Breanna Schwartz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 245th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist245-vlahakos-paula",
+          "name": "Paula Vlahakos",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist245-lancelin-angela",
+          "name": "Angela M Lancelin",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 246th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist246-graves-harrington-angela",
+          "name": "Angela Graves-Harrington",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 247th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist247-berg-janice",
+          "name": "Janice Berg",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 257th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist257-peake-sandra",
+          "name": "Sandra Peake",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 280th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist280-cardenas-rose",
+          "name": "Rose Cardenas",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist280-curvey-damiane",
+          "name": "Damiane Dianne Curvey",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 308th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist308-lopez-gloria",
+          "name": "Gloria Lopez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 309th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist309-fertel-melissa",
+          "name": "Melissa Fertel",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist309-dunson-linda",
+          "name": "Linda Marie Dunson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 310th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist310-heath-sonya",
+          "name": "Sonya L. Heath",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 311th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist311-radler-joe",
+          "name": "Joe Radler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist311-tanner-germaine",
+          "name": "Germaine Janet Tanner",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Family District Judge, 312th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-dist312-guillen-jesus",
+          "name": "Jesus Guillen",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-dist312-waldrop-teresa",
+          "name": "Teresa Waldrop",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-county-judge-sanchez-orlando",
+          "name": "Orlando Sanchez",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-county-judge-plummer-letitia",
+          "name": "Letitia Plummer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-county-judge-duncan-vince",
+          "name": "Vince Duncan",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        },
+        {
+          "key": "tx-harris-2026-county-judge-hess-marianne",
+          "name": "Marianne \"Yan\" Hess",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Civil Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-civil1-king-jamie",
+          "name": "Jamie King",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-civil1-lopez-sonia",
+          "name": "Sonia Lopez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Civil Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-civil2-montgomery-mark",
+          "name": "Mark Montgomery",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-civil2-williams-ebony",
+          "name": "Ebony N. Williams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Civil Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-civil3-garcia-israel",
+          "name": "Israel Garcia",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-civil3-williams-lashawn",
+          "name": "LaShawn A. Williams",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Civil Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-civil4-donovan-john",
+          "name": "John Donovan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-civil4-singh-m-monica",
+          "name": "M.Monica Singh",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Civil Court at Law No. 5 - Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-civil5-fason-richard",
+          "name": "Richard Lanier Fason",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-civil5-thomas-jermaine",
+          "name": "Jermaine Thomas",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal1-swanson-erin",
+          "name": "Erin Swanson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal1-salgado-alex",
+          "name": "Alex Salgado",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal2-alford-matt",
+          "name": "Matt Alford",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal2-perez-matthew",
+          "name": "Matthew Ruben Perez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal3-johnson-leslie",
+          "name": "Leslie R. Johnson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal3-aguayo-carlos",
+          "name": "Carlos Alberto Aguayo",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal4-aceto-rebecca",
+          "name": "Rebecca Philips Aceto",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal4-baldwin-shannon",
+          "name": "Shannon B. Baldwin",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 5",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal5-stevens-stella",
+          "name": "Stella Stevens",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal5-fleischer-david",
+          "name": "David M. Fleischer",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 6",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal6-normand-joshua",
+          "name": "Joshua Normand",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal6-andrews-kelley",
+          "name": "Kelley Andrews",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 7",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal7-brodrick-thomas",
+          "name": "Thomas Adam Brodrick",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal7-wright-andrew",
+          "name": "Andrew A. Wright",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 8",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal8-flores-victor",
+          "name": "Victor Flores",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal8-ramirez-erika",
+          "name": "Erika Ramirez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 9",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal9-alfaro-xavier",
+          "name": "Xavier Alfaro",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal9-finch-toria",
+          "name": "Toria J. Finch",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 10",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal10-hoang-bao",
+          "name": "Bao Hoang",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal10-jackson-juanita",
+          "name": "Juanita A. Jackson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 11",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal11-buss-elizabeth",
+          "name": "Elizabeth Buss",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal11-walker-sedrick",
+          "name": "Sedrick T. Walker II",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 12",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal12-emmons-anna",
+          "name": "Anna Emmons",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal12-guice-ashley",
+          "name": "Ashley Mayes Guice",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 13",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal13-cox-amber",
+          "name": "Amber Cox",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal13-rodriguez-raul",
+          "name": "Raul Rodriguez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 14",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal14-padilla-jessica",
+          "name": "Jessica N. Padilla",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal14-quezada-yahaira",
+          "name": "Yahaira Quezada",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 15",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-ccl-criminal15-martin-stephen",
+          "name": "Stephen C. St. Martin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-ccl-criminal15-jones-tonya",
+          "name": "Tonya Jones",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-probate1-wright-loyd",
+          "name": "Loyd H. Wright",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-probate1-simoneaux-jerry",
+          "name": "Jerry Simoneaux",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Probate Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-probate2-shanklin-paul",
+          "name": "Paul Shanklin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-probate2-medina-pamela",
+          "name": "Pamela Medina",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Probate Court No. 3",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-probate3-schramm-ronald",
+          "name": "Ronald Schramm",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-probate3-cox-jason",
+          "name": "Jason Cox",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Judge, County Probate Court No. 4",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-probate4-fulton-kevin",
+          "name": "Kevin Fulton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-probate4-horwitz-james",
+          "name": "James S. Horwitz",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "County Attorney - Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-county-attorney-smith-jacqueline",
+          "name": "Jacqueline Lucci Smith",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-county-attorney-kamin-abbie",
+          "name": "Abbie Kamin",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-district-clerk-daniel-chris",
+          "name": "Chris Daniel",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-district-clerk-jordan-darrell",
+          "name": "Darrell Jordan, Jr",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-county-clerk-wolfe-mike",
+          "name": "Mike Wolfe",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-county-clerk-hudspeth-teneshia",
+          "name": "Teneshia Hudspeth",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-county-treasurer-cowart-marc",
+          "name": "Marc Cowart",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-county-treasurer-wyatt-carla",
+          "name": "Carla L. Wyatt",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "County School Trustee, Position 5, At Large",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-hcde-p5-bal-sartaj",
+          "name": "Sartaj Bal",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-hcde-p5-davis-erica",
+          "name": "Erica Davis",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "County School Trustee, Position 7, At Large",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-hcde-p7-dick-denise",
+          "name": "Denise Dick",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-hcde-p7-malik-silky",
+          "name": "Silky Joshi Malik",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Harris Central Appraisal District, Director, At-Large, Place 1",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-hcad-p1-blueford-daniels-kathy",
+          "name": "Kathy Blueford-Daniels",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-hcad-p1-barrett-beverly",
+          "name": "Beverly Barrett",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Harris Central Appraisal District, Director, At-Large, Place 2",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-hcad-p2-ehlinger-chris",
+          "name": "Chris Ehlinger",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-hcad-p2-wilson-jourdyn",
+          "name": "Jourdyn Wilson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-hcad-p2-gutierrez-claudio",
+          "name": "Claudio Gutierrez",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    },
+    {
+      "office": "Harris Central Appraisal District, Director, At-Large, Place 3",
+      "candidates": [
+        {
+          "key": "tx-harris-2026-hcad-p3-moses-cris",
+          "name": "Cris Moses",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-hcad-p3-mccrutcheon-ericka",
+          "name": "Ericka McCrutcheon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harris-2026-hcad-p3-nieto-jesus",
+          "name": "Jesus Nieto",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Houston": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Houston, Charter Amendment Election, Proposition A",
+          "summary": "Would amend the Houston City Charter to require the Houston Police Department to make enforcement of Class A and Class B misdemeanor marijuana possession its lowest law-enforcement priority, with related reporting requirements. It would also prohibit Houston police officers from requesting or executing \"no-knock\" search warrants.",
+          "yesMeans": "The charter would make misdemeanor marijuana possession HPD's lowest enforcement priority, add related reporting, and ban no-knock warrants by Houston police.",
+          "noMeans": "The charter is not changed; current police enforcement priorities and warrant practices stay as they are.",
+          "source": "https://hctxdnnstg.blob.core.windows.net/harrisvotes/prd/SampleBallot/2026/11-3/1126_Yellow%20Sample%20Ballot%20ENG-SPA%20for%20Website%20Posting.pdf?sv=2017-04-17&sr=b&si=DNNFileManagerPolicy&sig=hs1POFZK5TnbA%2BtPK4PC2dPczCggvtATNgRDkT38rl8%3D"
+        }
+      ]
+    }
+  }
+}
