@@ -1,0 +1,301 @@
+{
+  "state": "IN",
+  "county": "Marion County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://gis.indy.gov/server/rest/services/VIP/VIPCandidates/FeatureServer",
+    "https://vote.indy.gov/sample-ballot/",
+    "https://www.in.gov/courts/news/2026/0313/",
+    "https://www.in.gov/courts/selection/marion/2026-retention",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: township trustee, township board, township small claims court judge and constable races; school board races; and school district referendum questions (IPS, Decatur, Wayne, Washington Township, Beech Grove and others). These depend on your township or school district, so check your sample ballot at vote.indy.gov. City-County Council and Indianapolis mayor are not on the 2026 ballot (next elected in 2027). County Treasurer, Coroner and Surveyor are not up in 2026. No countywide public question was found; the county sample-ballot tool lists candidates only. Marion Superior Court retention names are as listed by the Indiana Judicial Branch and may be printed slightly differently on the ballot.",
+  "contests": [
+    {
+      "office": "Prosecuting Attorney, 19th Judicial Circuit (Marion County)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-prosecutor-mears-ryan",
+          "name": "Ryan Mears",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "in-marion-2026-prosecutor-foust-philip",
+          "name": "Philip Foust",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Marion County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-marion-2026-clerk-sweeney-bell-kate",
+          "name": "Kate Sweeney Bell",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "in-marion-2026-clerk-stewart-robbin",
+          "name": "Robbin Stewart",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Marion County Auditor",
+      "candidates": [
+        {
+          "key": "in-marion-2026-auditor-eldridge-myla",
+          "name": "Myla A. Eldridge",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Marion County Recorder",
+      "candidates": [
+        {
+          "key": "in-marion-2026-recorder-kimbrough-faith",
+          "name": "Faith James Kimbrough",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Marion County Sheriff",
+      "candidates": [
+        {
+          "key": "in-marion-2026-sheriff-williams-kelvis",
+          "name": "Kelvis T. Williams",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-marion-2026-sheriff-vaughn-tom",
+          "name": "Tom Vaughn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Marion County Assessor",
+      "candidates": [
+        {
+          "key": "in-marion-2026-assessor-oconnor-joseph",
+          "name": "Joseph P. O'Connor",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Court of Appeals Judicial Retention - Second District (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-coa2-2026-kenworthy-dana",
+          "name": "Dana J. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0827"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge A. Richard Blaiklock (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-blaiklock-a-richard",
+          "name": "A. Richard Blaiklock",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Marshelle Broadwell (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-broadwell-marshelle",
+          "name": "Marshelle Broadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge David Certo (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-certo-david",
+          "name": "David Certo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Angela Davis (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-davis-angela",
+          "name": "Angela Davis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge P.J. Dietrick (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-dietrick-pj",
+          "name": "P.J. Dietrick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Kurt Eisgruber (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-eisgruber-kurt",
+          "name": "Kurt Eisgruber",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Geoffrey Gaither (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-gaither-geoffrey",
+          "name": "Geoffrey Gaither",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Ryan Gardner (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-gardner-ryan",
+          "name": "Ryan Gardner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Melanie Kendrick (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-kendrick-melanie",
+          "name": "Melanie Kendrick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Christina Klineman (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-klineman-christina",
+          "name": "Christina Klineman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Patricia McMath (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-mcmath-patricia",
+          "name": "Patricia McMath",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Timothy Oakes (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-oakes-timothy",
+          "name": "Timothy Oakes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge James Osborn (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-osborn-james",
+          "name": "James Osborn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Marc Rothenberg (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-rothenberg-marc",
+          "name": "Marc Rothenberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    },
+    {
+      "office": "Marion Superior Court Judicial Retention - Judge Phillip Sheward (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-marion-2026-supret-sheward-phillip",
+          "name": "Phillip Sheward",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0313/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
