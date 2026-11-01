@@ -27,9 +27,12 @@ export type Stats =
     };
 
 // Created lazily so `next build` works without the env vars.
+// Vercel's Upstash integration names the vars KV_REST_API_*; Upstash's own are UPSTASH_REDIS_REST_*.
 function redis(): Redis | null {
-  if (!process.env.UPSTASH_REDIS_REST_URL || !process.env.UPSTASH_REDIS_REST_TOKEN) return null;
-  return Redis.fromEnv();
+  const url = process.env.KV_REST_API_URL ?? process.env.UPSTASH_REDIS_REST_URL;
+  const token = process.env.KV_REST_API_TOKEN ?? process.env.UPSTASH_REDIS_REST_TOKEN;
+  if (!url || !token) return null;
+  return new Redis({ url, token });
 }
 
 let warned = false;
