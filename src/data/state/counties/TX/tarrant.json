@@ -1,0 +1,654 @@
+{
+  "state": "TX",
+  "county": "Tarrant County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf",
+    "https://gisit.tarrantcounty.com/findmyballot",
+    "https://www.tarrantcountytx.gov/content/dam/main/elections/2026/1126/notices/TC_Notice_General_Election.pdf",
+    "https://www.tarrantcountytx.gov/content/dam/main/elections/2026/1126/Districts_in_Election.pdf",
+    "https://www.tarrantcountytx.gov/content/dam/main/elections/2026/1126/tad_notices/TAD_Candidates.pdf",
+    "https://www.tarrantcountytx.gov/en/elections/online-resources/elected-officials.html"
+  ],
+  "note": "From the Tarrant County Elections sample ballot for November 3, 2026 (downtown Fort Worth precinct 4001-070). Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precincts 1-8), U.S. House, State Senate (including the District 22 special election), State House (including the District 93 special election) and State Board of Education districts, school district (Eagle Mountain-Saginaw ISD, Keller ISD) and fresh water supply / municipal utility district measures, and city races or measures in other cities (Benbrook, Flower Mound, Forest Hill, North Richland Hills, River Oaks, White Settlement). There are no countywide propositions, no County Treasurer race, and no City of Fort Worth races or measures on this ballot. Incumbent flags come from the county's elected-officials list; judges are not marked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-coa2-p2-taylor-chris",
+          "name": "Chris Taylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-coa2-p7-walker-brian",
+          "name": "Brian Walker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 141st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj141-chupp-john",
+          "name": "John P. Chupp",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 213th Judicial District - Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj213-ferry-michael",
+          "name": "Michael Ferry",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-dj213-kamphaus-arthurine",
+          "name": "Arthurine \"AnhThu\" Kamphaus",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 236th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj236-fillmore-dusty",
+          "name": "Dusty Fillmore",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-dj236-kim-katherine",
+          "name": "Katherine \"Kate\" Kim",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 297th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj297-allin-amy",
+          "name": "Amy Allin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-dj297-howey-fred",
+          "name": "Fred Howey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 371st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj371-hill-ryan",
+          "name": "Ryan Hill",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-dj371-clayton-marquetta",
+          "name": "Marquetta \"MarQ\" Clayton",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 372nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj372-lugo-julie",
+          "name": "Julie Lugo",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 432nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj432-sorrells-lee",
+          "name": "Lee Sorrells",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-dj432-miller-courtney",
+          "name": "Courtney Miller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Judge, 485th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-dj485-jumes-steven",
+          "name": "Steven Jumes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Criminal District Judge, Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-cdj1-wagner-sherri",
+          "name": "Sherri Wagner",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-cdj1-stormer-cindy",
+          "name": "Cindy Stormer",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Criminal District Judge, Court No. 3",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-cdj3-allen-douglas",
+          "name": "Douglas Allen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Criminal District Judge, Court No. 4",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-cdj4-porter-andy",
+          "name": "Andy Porter",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-cdj4-brender-john",
+          "name": "John Brender",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Family District Judge, 231st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-fdj231-barrows-leslie",
+          "name": "Leslie Barrows",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-fdj231-newell-lyndsay",
+          "name": "Lyndsay Newell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Family District Judge, 233rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-fdj233-newell-kenneth",
+          "name": "Kenneth E. Newell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Family District Judge, 322nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-fdj322-munford-james",
+          "name": "James B. Munford",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Family District Judge, 323rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-fdj323-kim-alex",
+          "name": "Alex Kim",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-fdj323-willett-brian",
+          "name": "Brian Willett",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Family District Judge, 324th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-fdj324-hsu-andy",
+          "name": "Andy Hsu",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-fdj324-gayden-crystal",
+          "name": "Crystal Gayden",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Family District Judge, 325th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-fdj325-terry-cynthia",
+          "name": "Cynthia Terry",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-fdj325-griffin-andy",
+          "name": "Andy Griffin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-cda-sorrells-phil",
+          "name": "Phil Sorrells",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-tarrant-2026-cda-burks-tiffany",
+          "name": "Tiffany Burks",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-county-judge-o-hare-tim",
+          "name": "Tim O'Hare",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-tarrant-2026-county-judge-simmons-alisa",
+          "name": "Alisa Simmons",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccl1-pierson-don",
+          "name": "Don Pierson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccl2-rymell-jennifer",
+          "name": "Jennifer Rymell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccl3-hrabal-mike",
+          "name": "Mike Hrabal",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc1-cook-david",
+          "name": "David Cook",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc2-walker-carey",
+          "name": "Carey Walker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 3",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc3-mccoy-bob",
+          "name": "Bob McCoy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 4",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc4-nekhom-deborah",
+          "name": "Deborah Nekhom",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 5",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc5-clark-brad",
+          "name": "Brad Clark",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-ccc5-billhymer-julya",
+          "name": "Julya \"Jujubill\" Billhymer",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 6",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc6-hartin-randi",
+          "name": "Randi Hartin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 7",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc7-starnes-eric",
+          "name": "Eric Starnes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 8",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc8-vanover-charles",
+          "name": "Charles L. \"Chuck\" Vanover",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 9",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc9-bolton-brian",
+          "name": "Brian Bolton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-ccc9-pamplin-lesa",
+          "name": "Lesa Pamplin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 10",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-ccc10-loftin-trent",
+          "name": "Trent Loftin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-probate1-burns-patricia",
+          "name": "Patricia Burns",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-probate2-bell-brook",
+          "name": "Brook Bell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-district-clerk-wilder-tom",
+          "name": "Tom Wilder",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-tarrant-2026-district-clerk-smith-nathan",
+          "name": "Nathan Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-county-clerk-nicholson-mary",
+          "name": "Mary Louise Nicholson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-tarrant-2026-county-clerk-bean-lydia",
+          "name": "Lydia Bean",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 1",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-tad-p1-hardy-rebecca",
+          "name": "Rebecca Hardy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-tad-p1-haynes-byron",
+          "name": "Byron Haynes",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-tad-p1-grissom-phyllis",
+          "name": "Phyllis Durbin Grissom",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-tad-p1-syed-sayeda",
+          "name": "Sayeda Bilquees Syed",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 2",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-tad-p2-sharma-ambika",
+          "name": "Ambika Sharma",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-tad-p2-cheshire-cary",
+          "name": "Cary Cheshire",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-tad-p2-stockard-paul",
+          "name": "Paul Stockard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-tad-p2-hobbs-marshall",
+          "name": "Marshall Hobbs",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    },
+    {
+      "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 3",
+      "candidates": [
+        {
+          "key": "tx-tarrant-2026-tad-p3-adams-john",
+          "name": "John Adams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-tarrant-2026-tad-p3-bryant-matt",
+          "name": "Matt Bryant",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gisit.tarrantcounty.com/ballots/English-Spanish/5224001070.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

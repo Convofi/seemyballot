@@ -1,0 +1,176 @@
+{
+  "state": "IL",
+  "county": "DuPage County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/candidate_information/candidate_listings.php",
+    "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Candidate%20Listing.pdf",
+    "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Judicial%20Retention.pdf",
+    "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Proposition%20Listing.pdf",
+    "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Write-In%20Candidate%20Listing.pdf",
+    "https://www.dupagecounty.gov/government/county_board/county_board_members/index.php",
+    "https://www.dupagecounty.gov/elected_officials/treasurer/index.php",
+    "https://www.dupageforest.org/about-us/our-board"
+  ],
+  "note": "Not shown: DuPage County Board districts 1-6 (4-year and 2-year terms), Forest Preserve commissioner districts 1, 2 and 5, 18th Judicial Circuit subcircuit vacancies (4th and 5th subcircuits; there are no countywide circuit vacancies this year), Regional Superintendent of Schools (DuPage voters are split between the DuPage and Kane regional offices of education, both on the ballot), Congress and state legislature, and all local propositions (City of Aurora, Village of Clarendon Hills, Downers Grove Township, Lisle Park District, Roselle Fire Protection District, Bartlett Public Library District, school districts 201, 303, 45, 113A and 88). There is no countywide referendum, and Wheaton and Naperville have no citywide questions. Margaret \"Peggy\" O'Connell appears both as a 3rd District appellate candidate and on the circuit retention list. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "DuPage County Board Chairperson",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-board-chair-conroy-deb",
+          "name": "Deb Conroy",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "il-dupage-2026-board-chair-grasso-gary",
+          "name": "Gary Grasso",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "DuPage County Sheriff",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-sheriff-coolidge-peter",
+          "name": "Peter Joseph Coolidge",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "il-dupage-2026-sheriff-noonan-sean",
+          "name": "Sean T. Noonan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "DuPage County Clerk",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-clerk-garcia-paula",
+          "name": "Paula Deacon Garcia",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "il-dupage-2026-clerk-kladis-schiappa-patricia",
+          "name": "Patricia Kladis-Schiappa",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "DuPage County Treasurer",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-treasurer-yoo-yeena",
+          "name": "Yeena Yoo",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "il-dupage-2026-treasurer-henry-gwen",
+          "name": "Gwen Henry",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "President, Forest Preserve District of DuPage County",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-forest-preserve-president-hebreard-daniel",
+          "name": "Daniel Hebreard",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "il-dupage-2026-forest-preserve-president-schultz-carl",
+          "name": "Carl Schultz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "Judge of the Illinois Appellate Court, 3rd District (Vacancy of McDade)",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-appellate-mcdade-o-connell-margaret",
+          "name": "Margaret \"Peggy\" O'Connell",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "il-dupage-2026-appellate-mcdade-helland-jason",
+          "name": "Jason A. Helland",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 18th Judicial Circuit — retain Judge Ann Celine Walsh? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-retain-circuit-walsh-ann",
+          "name": "Ann Celine Walsh",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Judicial%20Retention.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 18th Judicial Circuit — retain Judge Monique O'Toole? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-retain-circuit-o-toole-monique",
+          "name": "Monique O'Toole",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Judicial%20Retention.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 18th Judicial Circuit — retain Judge Richard D. Felice? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-retain-circuit-felice-richard",
+          "name": "Richard D. Felice",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Judicial%20Retention.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 18th Judicial Circuit — retain Judge Margaret \"Peggy\" O'Connell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-dupage-2026-retain-circuit-o-connell-margaret",
+          "name": "Margaret \"Peggy\" O'Connell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dupagecounty.gov/Election/Documents/Candidate%20Information/WebsiteListingsByElection/2026GE/2026GE%20Judicial%20Retention.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
