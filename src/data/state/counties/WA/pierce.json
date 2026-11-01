@@ -1,0 +1,326 @@
+{
+  "state": "WA",
+  "county": "Pierce County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27",
+    "https://www.courts.wa.gov/court_dir/orgs/286.html",
+    "https://www.courts.wa.gov/appellate_trial_courts/bios/?fa=atc_bios.home&folderID=div2",
+    "https://www.piercecountywa.gov/93/Auditor"
+  ],
+  "note": "Not shown: Pierce County Council districts (1, 5, 7), legislative and congressional districts, Pierce Transit Proposition No. 1 (Public Transportation Benefit Area, which does not follow city lines), and school district and fire district measures. No Pierce County Executive, Assessor-Treasurer, Sheriff or Superior Court races are on this ballot; Charter Amendment No. 53 asks whether the Sheriff should become an appointed office. Check your official sample ballot for district items.",
+  "contests": [
+    {
+      "office": "Pierce County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-prosecutor-schnepf-coreen",
+          "name": "Coreen Schnepf",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://CoreenForProsecutor.com"
+        },
+        {
+          "key": "wa-pierce-2026-prosecutor-chushcoff-bryan",
+          "name": "Bryan Chushcoff",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://BryanForJustice.com"
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County Auditor",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-auditor-farmer-linda",
+          "name": "Linda Farmer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "wa-pierce-2026-auditor-townsend-damon",
+          "name": "Damon Townsend",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://electdamontownsend.org"
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Court of Appeals, Division 2, District 1, Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-app2d1-2026-pos2-che-meng-li",
+          "name": "Meng Li Che",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 1",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos1-mccann-kevin",
+          "name": "Kevin A. McCann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 2",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos2-sussman-claire",
+          "name": "Claire Sussman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 3",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos3-padula-lizanne",
+          "name": "Lizanne Padula",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://ReElectJudgePadula.com"
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 4",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos4-horibe-neil",
+          "name": "Neil Horibe",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://NeilForJudge.com"
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 5",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos5-christopher-dwayne",
+          "name": "Dwayne Christopher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 6",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos6-williams-karl",
+          "name": "Karl Williams",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 7",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos7-nogueira-pam",
+          "name": "Pam Nogueira",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.pamforjudge.com"
+        },
+        {
+          "key": "wa-pierce-2026-district-court-pos7-sommerfeld-mike",
+          "name": "Mike Sommerfeld",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://sommerfeld4judge.com"
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "office": "Pierce County District Court Judge Position No. 8",
+      "candidates": [
+        {
+          "key": "wa-pierce-2026-district-court-pos8-nelson-sven",
+          "name": "Sven Nelson",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://Svennelsonforjudge.com"
+        },
+        {
+          "key": "wa-pierce-2026-district-court-pos8-armstrong-james",
+          "name": "James Armstrong",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Charter Amendment No. 52",
+      "title": "County Council Meetings",
+      "summary": "Proposed by the Pierce County Charter Review Commission, this amends Charter Section 2.35 on County Council meetings. The Council would have to meet at least 45 times each year, and every Council meeting that requires public comment would have to offer remote attendance and remote public comment.",
+      "yesMeans": "The Charter would require at least 45 Council meetings a year and a remote option for meetings with public comment.",
+      "noMeans": "Charter Section 2.35 on Council meetings stays as it is.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7313",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "id": "Charter Amendment No. 53",
+      "title": "Appointed Sheriff and Termination of Elected Sheriff",
+      "summary": "Proposed by the Pierce County Charter Review Commission, this amends Charter Section 3.70 on the office of Sheriff. The Sheriff would no longer be elected; the current elected term would end early on January 1, 2027, and the Sheriff would be appointed by the County Executive and confirmed by a majority of the County Council.",
+      "yesMeans": "Starting January 1, 2027, the Sheriff would be appointed by the Executive and confirmed by the Council instead of elected.",
+      "noMeans": "The Sheriff remains an elected office and the current term continues.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7314",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "id": "Charter Amendment No. 54",
+      "title": "Public Safety Ombuds",
+      "summary": "Proposed by the Pierce County Charter Review Commission, this adds Charter Section 3.75 creating a new executive department, the Public Safety Ombuds. The Ombuds would provide independent oversight of the Sheriff and Sheriff's Office employees, with authority, subject to limits in law, to monitor all matters involving the Sheriff's Office.",
+      "yesMeans": "A Public Safety Ombuds department would be created to provide independent oversight of the Sheriff's Office.",
+      "noMeans": "No Public Safety Ombuds department is created by the Charter.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7315",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "id": "Charter Amendment No. 55",
+      "title": "Initiative Procedures",
+      "summary": "Proposed by the Pierce County Charter Review Commission, this amends Charter Section 5.40 on initiative procedures. Sponsors of a proposed county initiative would have 180 days to collect signatures in support of it.",
+      "yesMeans": "Initiative sponsors would have 180 days to collect signatures.",
+      "noMeans": "Charter Section 5.40 on initiative procedures stays as it is.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7316",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "id": "Charter Amendment No. 56",
+      "title": "Four Year Budget Outlook",
+      "summary": "Proposed by the Pierce County Charter Review Commission, this amends Charter Section 6.35. The Chief Financial Officer would have to prepare a four-year budget outlook for the next and following biennial budgets, and the outlook would have to show that projected spending does not exceed projected available funds.",
+      "yesMeans": "The Chief Financial Officer would be required to prepare a four-year budget outlook showing spending within projected funds.",
+      "noMeans": "No four-year budget outlook requirement is added to the Charter.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7317",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "id": "Charter Amendment No. 57",
+      "title": "Nondiscrimination",
+      "summary": "Proposed by the Pierce County Charter Review Commission, this amends Charter Section 9.65 to revise the prohibition on discrimination in the performance of County duties. It states that the prohibition may not infringe on, diminish, or impair any right secured by the U.S. Constitution or the Washington State Constitution.",
+      "yesMeans": "The Charter's nondiscrimination section would be revised as described.",
+      "noMeans": "Charter Section 9.65 on nondiscrimination stays as it is.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7318",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    },
+    {
+      "id": "Charter Amendment No. 58",
+      "title": "Juvenile Detention",
+      "summary": "Proposed by the Pierce County Charter Review Commission, this adds Charter Section 9.70 creating a Juvenile Detention Advocate Office to respond to complaints, monitor conditions and check compliance with regulations. Pierce County Juvenile Detention would also be subject to an independent audit or accreditation review at least once every five years.",
+      "yesMeans": "A Juvenile Detention Advocate Office would be created and juvenile detention would be independently reviewed at least every five years.",
+      "noMeans": "No Juvenile Detention Advocate Office or review requirement is added to the Charter.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7319",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+    }
+  ],
+  "municipalities": {
+    "Tacoma": {
+      "contests": [
+        {
+          "office": "Tacoma Municipal Court Judge Position No. 1",
+          "candidates": [
+            {
+              "key": "wa-pierce-2026-tacoma-muni-pos1-sonntag-dee",
+              "name": "Dee Sonntag",
+              "party": "Nonpartisan",
+              "incumbent": true,
+              "website": "https://hiredeesonntag.com"
+            }
+          ],
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+        },
+        {
+          "office": "Tacoma Municipal Court Judge Position No. 2",
+          "candidates": [
+            {
+              "key": "wa-pierce-2026-tacoma-muni-pos2-flores-sergio",
+              "name": "Sergio C. Flores",
+              "party": "Nonpartisan",
+              "incumbent": true,
+              "website": "https://www.sergiofloresforjudge.com"
+            }
+          ],
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+        },
+        {
+          "office": "Tacoma Municipal Court Judge Position No. 3",
+          "candidates": [
+            {
+              "key": "wa-pierce-2026-tacoma-muni-pos3-krupa-steven",
+              "name": "Steven J. Krupa",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Initiative No. 1",
+          "title": "Safe Homes for All Initiative Measure No. 1",
+          "summary": "Concerns tenant safety and protection laws in Tacoma. It would provide landlord education and training, recognize tenants' right to organize and require landlords to bargain in good faith with tenant unions, create a public landlord information database, require landlord rental licensing and fees, and provide for City and private enforcement with penalties, cost recovery and possible revocation of landlord business licenses. It also prohibits retaliation and sets certain exemptions.",
+          "yesMeans": "The Safe Homes for All initiative would become Tacoma law.",
+          "noMeans": "The initiative would not be enacted and current Tacoma tenant laws stay in place.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7309",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+        }
+      ]
+    },
+    "Milton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Milton – Additional Sales and Use Tax for Police and Public Safety",
+          "summary": "Would raise Milton's sales and use tax rate by one-tenth of one percent (0.1%), effective in 2027, under Resolution 26-2005. The money would provide ongoing funding for public safety purposes allowed under RCW 82.14.450, such as law enforcement staffing.",
+          "yesMeans": "Milton's sales tax would rise by 0.1% starting in 2027 to fund police and public safety.",
+          "noMeans": "Milton's sales tax rate stays the same.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7310",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+        }
+      ]
+    },
+    "South Prairie": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "Town of South Prairie – Public Safety and Town Operations and Services Levy",
+          "summary": "Under Ordinance No. 670, would raise South Prairie's regular property tax levy by about $1.33 per $1,000 of assessed value, to a maximum rate of $2.90 per $1,000 for collection in 2027, to fund police, fire, emergency management, parks, roads and other town services. It sets a 6% limit factor for levy increases in 2028-2032 and uses the 2032 levy as the base for later levies.",
+          "yesMeans": "South Prairie's levy rate could rise to $2.90 per $1,000 in 2027, with up to 6% yearly increases through 2032.",
+          "noMeans": "The levy increase is not approved and the current levy rules stay in place.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27#/measure/7311",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=27"
+        }
+      ]
+    }
+  }
+}

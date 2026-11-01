@@ -1,0 +1,48 @@
+{
+  "state": "MA",
+  "county": "Middlesex County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/office_id:530/stage:Primaries",
+    "https://electionstats.state.ma.us/elections/search/year_from:2022/year_to:2022/office_id:530/stage:General",
+    "https://electionstats.state.ma.us/elections/search/year_from:2020/year_to:2020/office_id:537/stage:General",
+    "https://www.cambridgema.gov/-/media/Files/electioncommission/2026stateelection/candidatesincambridgedistricts.pdf",
+    "https://www.lowellma.gov/2233/2026-Sample-Ballots"
+  ],
+  "note": "Governor's Council (Third and Sixth Districts) is not shown here because neither district covers all of Middlesex County. State Senate and State Representative districts are also not shown. Middlesex County Sheriff, Clerk of Courts and the Northern and Southern District Registers of Deeds are not on the 2026 ballot. In Cambridge, nonbinding Question 10 (legislator stipends) appears only in the Twenty-Fifth and Twenty-Ninth Middlesex Representative Districts. Cambridge and Lowell have no city offices or citywide questions in 2026; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Attorney, Northern District (Middlesex County)",
+      "candidates": [
+        {
+          "key": "ma-middlesex-2026-da-ryan-marian",
+          "name": "Marian T. Ryan",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm"
+    },
+    {
+      "office": "Register of Probate, Middlesex County",
+      "candidates": [
+        {
+          "key": "ma-middlesex-2026-register-of-probate-decristofaro-tara",
+          "name": "Tara E. DeCristofaro",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ma-middlesex-2026-register-of-probate-martorella-tara",
+          "name": "Tara Martorella",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
