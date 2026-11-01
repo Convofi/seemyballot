@@ -8,7 +8,10 @@
     "https://www.fultoncountyga.gov/-/media/2026-Election/November-3-Election/Sample-Ballot--Consolidated--Nov-32026-General--Special-Election--1082026.pdf",
     "https://www.houstoncountyga.gov/skins/userfiles/files/November%202026%20Sample%20Ballot.pdf",
     "https://www.columbiacountyga.gov/DocumentCenter/View/10733",
-    "https://www.columbiacountyga.gov/DocumentCenter/View/10734"
+    "https://www.columbiacountyga.gov/DocumentCenter/View/10734",
+    "https://www.legis.ga.gov/api/legislation/document/20252026/236234",
+    "https://www.legis.ga.gov/api/legislation/document/20252026/248549",
+    "https://www.legis.ga.gov/api/legislation/document/20252026/248550"
   ],
   "gaps": [
     "County, municipal and legislative races not yet loaded",
@@ -17,7 +20,7 @@
     "Certified write-in candidates are listed for Governor only (the SoS final write-in list names none for other statewide offices).",
     "No statewide Supreme Court or Court of Appeals contests appear on the November ballot (Georgia elects appellate judges in the May nonpartisan election).",
     "Candidate campaign websites not yet checked.",
-    "No statewide referendum questions appear on the three county ballots checked; local referendums (TSPLOST, ESPLOST, homestead) are not loaded."
+    "Three statewide constitutional amendments (HR 32, HR 251, HR 1243) are on the ballot, with ballot language from the General Assembly's as-passed resolutions on legis.ga.gov. There are no statewide referendum questions: the Secretary of State's booklet lists only Amendments 1-3. Local referendums (TSPLOST, ESPLOST, homestead) are not loaded."
   ],
   "statewide": {
     "contests": [
@@ -258,7 +261,7 @@
         "summary": "Georgia lets owners of qualifying farm and timber land have it taxed on its current agricultural use instead of its market value if they agree to keep it in that use. Right now one owner can enroll at most 2,000 acres. This amendment (House Resolution 32) would raise that cap to 4,000 acres.",
         "yesMeans": "A single owner could have up to 4,000 acres of farm and timber land taxed at the lower conservation-use rate.",
         "noMeans": "The cap stays at 2,000 acres per owner.",
-        "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10734",
+        "source": "https://www.legis.ga.gov/api/legislation/document/20252026/236234",
         "moreInfo": "https://ballotpedia.org/Georgia_2026_ballot_measures"
       },
       {
@@ -267,7 +270,7 @@
         "summary": "Probate judges handle wills, estates, guardianships and marriage licenses in each county; today some counties elect them with party labels and others without. This amendment (House Resolution 251) would require every county to elect probate judges in nonpartisan elections, as Georgia already does for superior court, state court and appellate judges.",
         "yesMeans": "All probate judges in Georgia would be elected without party labels.",
         "noMeans": "Probate judge elections stay as they are, with some counties continuing to hold partisan elections.",
-        "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10734",
+        "source": "https://www.legis.ga.gov/api/legislation/document/20252026/248549",
         "moreInfo": "https://ballotpedia.org/Georgia_2026_ballot_measures"
       },
       {
@@ -276,7 +279,7 @@
         "summary": "This amendment (House Resolution 1243) would let the General Assembly create, by law, a Georgia Next Generation 9-1-1 Fund and dedicate revenue from specified sources to it. Money in the fund could be spent only on expanding, maintaining and operating 9-1-1 systems across the state, including the move to Next Generation 9-1-1, and would not lapse back to the general budget at year's end.",
         "yesMeans": "The legislature may set up a dedicated, non-lapsing fund that can be spent only on 9-1-1 systems.",
         "noMeans": "No dedicated 9-1-1 fund is authorized in the constitution; 9-1-1 money continues to go through the regular budget process.",
-        "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10734",
+        "source": "https://www.legis.ga.gov/api/legislation/document/20252026/248550",
         "moreInfo": "https://ballotpedia.org/Georgia_2026_ballot_measures"
       }
     ]

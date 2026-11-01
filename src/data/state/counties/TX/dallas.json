@@ -1,0 +1,779 @@
+{
+  "state": "TX",
+  "county": "Dallas County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf",
+    "https://www.dallascountyvotes.org/voters/election/november-3-2026-general-and-joint-election/",
+    "https://www.dallascounty.org/government/comcrt/jenkins/",
+    "https://www.dallascounty.org/departments/treasurer/"
+  ],
+  "note": "County Commissioner (Precincts 2 and 4), Justice of the Peace and Constable races are elected by precinct; U.S. House, State Senate, State House, State Board of Education and 5th Court of Appeals races are district-level; school district (e.g. Irving ISD, Mesquite ISD) and other cities' measures (Garland, University Park, Wylie) are not shown here. Check your official sample ballot for those. Incumbent flags are shown only where the county's own website confirms the officeholder; judges are not marked.",
+  "contests": [
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-county-judge-immler-mike",
+          "name": "Mike Immler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-dallas-2026-county-judge-jenkins-clay",
+          "name": "Clay Jenkins",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-cda-givens-amber",
+          "name": "Amber Givens",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-district-clerk-muehlhaeusler-dave",
+          "name": "Dave Muehlhaeusler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-dallas-2026-district-clerk-pitre-felicia",
+          "name": "Felicia Pitre",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-county-clerk-garcia-skye",
+          "name": "Skye Garcia",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-dallas-2026-county-clerk-offord-damarcus",
+          "name": "Damarcus L Offord",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-treasurer-phelps-corsandra",
+          "name": "Corsandra Brigham Phelps",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-dallas-2026-treasurer-medrano-pauline",
+          "name": "Pauline Medrano",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 298th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj298-will-clark",
+          "name": "Clark B. Will",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-dallas-2026-dj298-smith-ashley",
+          "name": "Ashley Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 44th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj44-frazier-veretta",
+          "name": "Veretta Frazier",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 68th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj68-hoffman-martin",
+          "name": "Martin Hoffman",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 101st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj101-williams-staci",
+          "name": "Staci Williams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 116th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj116-parker-tonya",
+          "name": "Tonya Parker",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 134th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj134-tillery-dale",
+          "name": "Dale Tillery",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 160th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj160-redmond-aiesha",
+          "name": "Aiesha Redmond",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 191st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj191-ginsberg-elizabeth",
+          "name": "Elizabeth Ginsberg",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 192nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj192-aceves-maria",
+          "name": "Maria Aceves",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 193rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj193-whitmore-bridgett",
+          "name": "Bridgett Whitmore",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 194th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj194-cooks-kim",
+          "name": "Kim Cooks",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 195th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj195-mullin-etta",
+          "name": "Etta Jeanette Mullin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 203rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj203-jones-raquel",
+          "name": "Raquel \"Rocky\" Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 204th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj204-kemp-tammy",
+          "name": "Tammy Kemp",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 254th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj254-brown-kim",
+          "name": "Kim Brown",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 255th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj255-bailey-vonda",
+          "name": "Vonda Bailey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 256th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj256-johnson-heather",
+          "name": "Heather Nicole Johnson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 265th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj265-bennett-jennifer",
+          "name": "Jennifer Bennett",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 282nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj282-allen-alison",
+          "name": "Alison Grinter Allen",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 283rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj283-mays-lela",
+          "name": "Lela Lawrence Mays",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 291st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj291-huff-stephanie",
+          "name": "Stephanie N Mitchell Huff",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 292nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj292-birmingham-brandon",
+          "name": "Brandon Birmingham",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "District Judge, 363rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-dj363-garza-cynthia",
+          "name": "Cynthia Garza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Family District Judge, 301st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-fdj301-clark-danielle",
+          "name": "Danielle Clark",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Family District Judge, 302nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-fdj302-jackson-sandra",
+          "name": "Sandra Jackson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Family District Judge, 303rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-fdj303-adkins-ladeitra",
+          "name": "LaDeitra Adkins",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Family District Judge, 304th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-fdj304-martin-andrea",
+          "name": "Andrea Martin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Family District Judge, 305th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-fdj305-shannon-cheryl",
+          "name": "Cheryl Lee Shannon",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Family District Judge, 330th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-fdj330-jones-tamika",
+          "name": "Tamika Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Criminal District Judge, Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-cdj1-hudson-stephanie",
+          "name": "Stephanie Hudson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Criminal District Judge, Court No. 5",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-cdj5-smith-lakesha",
+          "name": "Lakesha Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Criminal District Judge, Court No. 6",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-cdj6-mulder-nancy",
+          "name": "Nancy Mulder",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Criminal District Judge, Court No. 7",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-cdj7-anyiam-chika",
+          "name": "Chika Anyiam",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccl1-nowell-erin",
+          "name": "Erin Nowell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccl2-bellan-melissa",
+          "name": "Melissa J. Bellan",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccl3-montgomery-sally",
+          "name": "Sally Montgomery",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccl4-jones-dianne",
+          "name": "Dianne Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 5",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccl5-taylor-nicole",
+          "name": "Nicole Taylor",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court of Appeals No. 1",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccca1-guio-alexandra",
+          "name": "Alexandra Guio",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court of Appeals No. 2",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccca2-williams-cheryl",
+          "name": "Cheryl Williams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc1-baker-tifanee",
+          "name": "Tifanee Baker",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc2-hayes-julia",
+          "name": "Julia Hayes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 3",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc3-moorehead-audrey",
+          "name": "Audrey Faye Moorehead",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 4",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc4-williams-dominique",
+          "name": "Dominique Torres Williams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 5",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc5-green-lisa",
+          "name": "Lisa Green",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 6",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc6-king-angela",
+          "name": "Angela M King",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 7",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc7-edwards-remeko",
+          "name": "Remeko Tranisha Edwards",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 8",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc8-white-carmen",
+          "name": "Carmen White",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 9",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc9-singleton-carrie",
+          "name": "Carrie Singleton",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 10",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc10-huff-monique",
+          "name": "Monique J Bracey Huff",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court No. 11",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-ccc11-kelly-shequitta",
+          "name": "Shequitta D Kelly",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-probate1-malveaux-julia",
+          "name": "Julia Malveaux",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-probate2-warren-ingrid",
+          "name": "Ingrid Michelle Warren",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 3",
+      "candidates": [
+        {
+          "key": "tx-dallas-2026-probate3-jones-johnson-margaret",
+          "name": "Margaret Jones-Johnson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition A",
+      "title": "Dallas County Proposition A: Tax rate election (homelessness, mental health and housing programs)",
+      "summary": "Approves a Dallas County property tax rate of $0.248650 per $100 of valuation for the current year, which is $0.02400 per $100 higher than the voter-approval tax rate. The ballot states the extra revenue is for programs to reduce homelessness and resolve encampments, help homeless people become self-sufficient, increase access to mental health treatment, and support programs that provide stable housing. The ballot labels this a tax increase; last year's county rate was $0.215500 per $100.",
+      "yesMeans": "The county may keep the adopted rate of $0.248650 per $100 of valuation, above the voter-approval rate, for the stated homelessness, mental health and housing purposes.",
+      "noMeans": "The county tax rate for the current year is limited to the voter-approval tax rate.",
+      "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf",
+      "moreInfo": "https://www.dallascountyvotes.org/voters/election/november-3-2026-general-and-joint-election/"
+    }
+  ],
+  "municipalities": {
+    "Dallas": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Dallas Proposition A: Public safety bonds",
+          "summary": "Authorizes the City of Dallas to issue $443,000,000 in general obligation bonds for public safety improvements and facilities, including fire, police and emergency services. The city would levy a tax sufficient to pay principal and interest; the ballot estimates total repayment, including principal and interest at current market conditions, at $629,618,180. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $443 million in bonds for public safety facilities and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.dallascountyvotes.org/wp-content/uploads/2026/09/Full-Sample-Ballot-Watermark-8.5x14-Legal_110326.pdf",
+          "moreInfo": "https://www.dallascountyvotes.org/voters/election/november-3-2026-general-and-joint-election/"
+        }
+      ]
+    }
+  }
+}

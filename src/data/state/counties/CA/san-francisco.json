@@ -1,0 +1,413 @@
+{
+  "state": "CA",
+  "county": "San Francisco County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.sf.gov/candidates-november-3-2026-general-election",
+    "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+    "https://www.sf.gov/qualified-ballot-measures",
+    "https://api.sf.gov/documents/61682/Ballot_Questions_November_2026.pdf",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "San Francisco is a consolidated city and county, so all citywide offices and propositions are listed here at the county level. Not shown: Board of Supervisors (Districts 2, 4, 6, 8 and 10 only), BART Director District 8 (BART District 8 voters only), U.S. Representative (District 11 or 15) and State Assembly (District 17 or 19). Check your sample ballot for those. No Superior Court contests are on this ballot.",
+  "contests": [
+    {
+      "office": "Board of Equalization Member, District 2",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-boe2-lieber-sally",
+          "name": "Sally J. Lieber",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe2-pimentel-john",
+          "name": "John Pimentel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Monique Langhorne Wilson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div1-wilson-monique",
+          "name": "Monique Langhorne Wilson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Charles A. Smiley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div1-smiley-charles",
+          "name": "Charles A. Smiley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Kathleen M. Banke? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div1-banke-kathleen",
+          "name": "Kathleen M. Banke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Two — retain Therese M. Stewart? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div2-stewart-therese",
+          "name": "Therese M. Stewart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Two — retain Tara M. Desautels? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div2-desautels-tara",
+          "name": "Tara M. Desautels",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Ioana Petrou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div3-petrou-ioana",
+          "name": "Ioana Petrou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Victor A. Rodriguez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div3-rodriguez-victor",
+          "name": "Victor A. Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Four — retain Tracie L. Brown? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div4-brown-tracie",
+          "name": "Tracie L. Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Danny Y. Chou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div5-chou-danny",
+          "name": "Danny Y. Chou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Mark Simons? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div5-simons-mark",
+          "name": "Mark Simons",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Gordon Burns? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-retain-app1-div5-burns-gordon",
+          "name": "Gordon Burns",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Member, Board of Education",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-boe-garibay-autumn",
+          "name": "Autumn Brown Garibay",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe-cheung-virginia",
+          "name": "Virginia Cheung",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe-fisher-alida",
+          "name": "Alida Fisher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe-hazelton-ryan",
+          "name": "Ryan Hazelton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe-kim-phil",
+          "name": "Phil Kim",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe-lee-laurance",
+          "name": "Laurance Lee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe-tello-reina",
+          "name": "Reina Tello",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-boe-tung-tim",
+          "name": "Tim Tung",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sf.gov/candidates-november-3-2026-general-election"
+    },
+    {
+      "office": "Trustee, Community College Board (4-year term ending January 8, 2031)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-ball-elijah",
+          "name": "Elijah Ball",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-jones-rome",
+          "name": "Rome Moses Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-lace-monroe",
+          "name": "Monroe Lace",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-lacroix-leah",
+          "name": "Leah LaCroix",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-lee-jeremy",
+          "name": "Jeremy Lee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-mcfadden-bunny",
+          "name": "Bunny McFadden",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-tam-erwin",
+          "name": "Erwin Tam",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ca-sanfrancisco-2026-ccb-4yr-wynn-lisa",
+          "name": "Lisa Palagi Wynn II",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sf.gov/candidates-november-3-2026-general-election"
+    },
+    {
+      "office": "Trustee, Community College Board (remainder of term ending January 8, 2029)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-ccb-partial-ferguson-ruth",
+          "name": "Ruth Ferguson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sf.gov/candidates-november-3-2026-general-election"
+    },
+    {
+      "office": "Assessor-Recorder (ranked-choice)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-assessor-torres-joaquin",
+          "name": "Joaquín Torres",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sf.gov/candidates-november-3-2026-general-election"
+    },
+    {
+      "office": "Public Defender (ranked-choice)",
+      "candidates": [
+        {
+          "key": "ca-sanfrancisco-2026-pubdef-raju-mano",
+          "name": "Mano Raju",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sf.gov/candidates-november-3-2026-general-election"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Regional Measure RTM",
+      "title": "Regional Transit Measure",
+      "summary": "Would impose a sales tax of 1% in San Francisco and 0.5% in Alameda, Contra Costa, San Mateo and Santa Clara counties for 14 years, estimated to raise about $980 million a year. Revenue would go to transit operators including BART, Muni, Caltrain, AC Transit, VTA and others, plus transit transfer, reduced-fare, accessibility and (outside San Francisco) road repaving programs, with oversight and efficiency-review requirements. It passes only if a majority of all votes cast across the five counties is yes.",
+      "yesMeans": "You want to impose the regional sales tax for transit for 14 years.",
+      "noMeans": "You do not want to impose the tax.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition A",
+      "title": "Charter Changes Affecting Various City Departments and Commissions",
+      "summary": "Would amend the Charter to align it with how some City departments currently operate, change some processes (for example, allowing legal settlements to be approved by resolution instead of ordinance), and eliminate, combine or reorganize certain commissions and advisory bodies. It would require a task force to meet every ten years to recommend changes to commissions, and require the Board of Supervisors to amend voter-approved laws to enact some of these changes.",
+      "yesMeans": "You want to amend the Charter to make these department, process and commission changes.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition B",
+      "title": "Establishing a Municipal Finance Corporation and a Public Bank",
+      "summary": "Would amend the Charter to let the City establish a municipal finance corporation, which makes loans but does not take deposits, if the City has sufficient funding and resources; after three years it could become a public bank that also takes deposits. It would support affordable housing, homeownership, small business and environmental projects, with each entity governed by a board overseen by its own oversight commission.",
+      "yesMeans": "You want to authorize the City to establish a municipal finance corporation and a public bank.",
+      "noMeans": "You do not want to authorize the City to establish a municipal finance corporation and a public bank.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition C",
+      "title": "Contributions to the Housing Trust Fund",
+      "summary": "Would change how the City's annual contribution to the Housing Trust Fund is set, growing it from 2028 until it reaches at least $125 million a year, with increases capped at 3% after that and pauses allowed during large deficits. It would raise the income limit for downpayment assistance loans from 120% to 200% of Area Median Income, allow spending on housing-related infrastructure, and extend the Fund from 2043 to 2058.",
+      "yesMeans": "You want to change how Housing Trust Fund contributions are set, increase funding and expand affordable housing programs, and extend the Fund to 2058.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition D",
+      "title": "Changes to Ballot Measure Process",
+      "summary": "Would amend the Charter to raise the signatures needed for an initiative from 2% to 8% of registered voters (about 10,600 to about 42,500) and raise the signatures needed to call a special election. It would allow initiatives to be withdrawn up to 102 days before the election and remove the ability of four or more Supervisors, or the Mayor, to place measures on the ballot without a Board vote.",
+      "yesMeans": "You want to increase signature requirements for initiatives and special elections, allow initiatives to be withdrawn, and remove the ability of a minority of Supervisors or the Mayor to place measures on the ballot.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition E",
+      "title": "City Administrator's Authority and Changes to City Contracting",
+      "summary": "Would amend the Charter to give the City Administrator exclusive authority to propose purchasing ordinances, which the Board of Supervisors could approve or reject but not amend, and to set purchasing rules for all City departments. It would raise the thresholds requiring Board approval to $4.5 million for revenue contracts and leases and $25 million for spending contracts, and extend the City Administrator's term from five to ten years.",
+      "yesMeans": "You want to give the City Administrator more authority over purchasing, change when contracts need Board approval, and extend the City Administrator's term.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition F",
+      "title": "Changes to Executive Branch Management",
+      "summary": "Would amend the Charter to let the Mayor transfer responsibilities between most departments (unless the Board of Supervisors objects), hire deputy mayors to supervise most Charter departments, and hire some and fire most department heads without board or commission involvement. It would also let officials who appoint members of most boards and commissions remove them at any time without cause.",
+      "yesMeans": "You want to expand the Mayor's authority over departments and department heads and allow City officials to remove board and commission members without cause.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition G",
+      "title": "Allowing Private Vehicles on the Upper Great Highway in Sunset Dunes Park",
+      "summary": "Would close Sunset Dunes Park from Monday at 4:00 a.m. through Friday at 6:00 p.m., except weekday holidays, to reopen the Upper Great Highway between Lincoln Way and Sloat Boulevard to private vehicles during that time. The City would have to obtain all necessary approvals, including any California Coastal Act permits.",
+      "yesMeans": "You want to reopen the Upper Great Highway to private vehicles on weekdays.",
+      "noMeans": "You do not want the City to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition H",
+      "title": "Parcel Tax to Fund Muni Operations",
+      "summary": "Would create an annual parcel tax from July 1, 2027 to June 30, 2042 to fund Muni service, starting at $129 for single-family parcels, $249 for multifamily and $799 for non-residential parcels plus per-square-foot amounts for larger buildings, capped at $400,000 per parcel and adjusted for inflation; estimated revenue is $177 million a year. Most homeowners 65 or older living in their home would get a discount or pay no tax, and owners could pass up to 50% of the tax, up to $65 per unit a year, to tenants in rent-controlled units.",
+      "yesMeans": "You want the City to fund Muni service through a new annual parcel tax on real estate.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition I",
+      "title": "Changes to Real Property Transfer Tax",
+      "summary": "Would split the existing transfer tax on real estate sales over $10 million in half and dedicate the new half only to affordable housing, including social housing, acquisition and rehabilitation, and tenant stabilization and eviction defense; total tax rates (5.5% to 6%) would not rise. It would exempt the first sale of certain new multifamily buildings within 5 years of completion from the dedicated portion, for an estimated annual revenue decrease of about $1 million.",
+      "yesMeans": "You want to dedicate half of the transfer tax on real estate over $10 million to affordable housing.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    },
+    {
+      "id": "Proposition J",
+      "title": "Removal of Foreclosure Exemption for Real Property Transfer Tax",
+      "summary": "Starting March 1, 2027, would tax commercial, industrial and large residential properties transferred to a lender through foreclosure, or to avoid foreclosure, on their full market value instead of only the difference between the sale price and the amount owed. Single-family homes, buildings with fewer than five units and small mixed-use properties would keep the current tax break; estimated revenue is $100 million to $150 million a year.",
+      "yesMeans": "You want to apply the transfer tax to commercial, industrial and large residential properties transferred to a lender because of foreclosure.",
+      "noMeans": "You do not want to make these changes.",
+      "source": "https://media.api.sf.gov/documents/N26_EN_VIP.pdf",
+      "moreInfo": "https://www.sf.gov/qualified-ballot-measures"
+    }
+  ],
+  "municipalities": {}
+}

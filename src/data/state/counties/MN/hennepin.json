@@ -1,0 +1,311 @@
+{
+  "state": "MN",
+  "county": "Hennepin County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf",
+    "https://www.hennepincounty.gov/services/elections/offices-on-the-ballot",
+    "https://www.hennepinsheriff.org/"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for a Minneapolis precinct (W-3 P-12) and Hennepin County's offices-on-the-ballot list. Not shown here because they depend on your district: County Commissioner (Districts 2, 3 and 4), Three Rivers Park District Commissioner (Districts 1, 3 and 5), school board members and school district ballot questions (including Minneapolis Special School District No. 1 at-large and district seats), and city offices outside Minneapolis. Check your official sample ballot for those. Minneapolis city offices are elected in odd years, and no county or Minneapolis city ballot questions are on the November 2026 ballot. Hennepin County has no elected Soil and Water Conservation District board. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-county-attorney-folk-anders",
+          "name": "Anders Folk",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.andersfolk.com/"
+        },
+        {
+          "key": "mn-hennepin-2026-county-attorney-frazier-cedrick",
+          "name": "Cedrick Frazier",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.cedrickfrazier.org/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-sheriff-banks-joseph",
+          "name": "Joseph Banks",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.banks4sheriff.com/"
+        },
+        {
+          "key": "mn-hennepin-2026-sheriff-witt-dawanna",
+          "name": "Dawanna Witt",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://sheriffwitt.org/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 1 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-1-koch-william",
+          "name": "William H. Koch",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.reelectjudgekoch.org/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 5 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-5-meyer-kerry",
+          "name": "Kerry W. Meyer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 14 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-14-eyler-dean",
+          "name": "Dean Eyler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 16 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-16-maschka-jane",
+          "name": "Jane Maschka",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 19 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-19-brandt-gina",
+          "name": "Gina M Brandt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 20 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-20-moreno-daniel",
+          "name": "Daniel C. Moreno",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 25 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-25-hatcher-michelle",
+          "name": "Michelle A. Hatcher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 27 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-27-wilcox-matthew",
+          "name": "Matthew M. Wilcox",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 28 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-28-mathews-dominick",
+          "name": "Dominick D. Mathews",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 29 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-29-fellman-todd",
+          "name": "Todd M. Fellman",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://toddfellmanforjudge.com/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 30 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-30-olson-jennifer",
+          "name": "Jennifer Olson",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.judgejenniferolson.com/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 32 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-32-mokri-mariam",
+          "name": "Mariam Mokri",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://judgemariammokri.com/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 35 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-35-west-sarah",
+          "name": "Sarah S. West",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 42 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-42-bartolomei-luis",
+          "name": "Luis A. Bartolomei",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 43 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-43-sullivan-bridget",
+          "name": "Bridget Ann Sullivan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 47 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-47-marttila-kristen",
+          "name": "Kristen Marttila",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 54 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-54-froehle-emily",
+          "name": "Emily J. Froehle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 56 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-56-gallia-carrie",
+          "name": "Carrie Ryan Gallia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 57 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-57-reding-jeannice",
+          "name": "Jeannice M. Reding",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 61 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-61-tweeten-andrew",
+          "name": "Andrew Tweeten",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    },
+    {
+      "office": "Judge 63 - District Court, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-hennepin-2026-district-court-63-willms-angela",
+          "name": "Angela Willms",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/30AD9581-E181-40C9-B086-61E8974F220F.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
