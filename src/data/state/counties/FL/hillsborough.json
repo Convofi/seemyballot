@@ -1,0 +1,194 @@
+{
+  "state": "FL",
+  "county": "Hillsborough County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.votehillsborough.gov/DocumentCenter/View/2615/",
+    "https://www.votehillsborough.gov/291/2026-General-Election",
+    "https://www.votehillsborough.gov/191/Offices-Up-for-Election",
+    "https://www.votehillsborough.gov/DocumentCenter/View/216",
+    "https://www.votehillsborough.gov/DocumentCenter/View/218",
+    "https://www.votehillsborough.gov/DocumentCenter/View/2649/HB4027-PDF",
+    "https://www.votehillsborough.gov/DocumentCenter/View/2648/HB4029-PDF",
+    "https://www.votehillsborough.gov/DocumentCenter/View/2647/R26-062-School-Board-PDF",
+    "https://www.templeterrace.gov/directory.aspx"
+  ],
+  "note": "Not shown: County Commission single-member Districts 1 and 3, School Board single-member Districts 2 and 4, community development district supervisor seats, and the Country Run Special Tax District referendum. No circuit judge or county court judge races remain on the November ballot. City of Tampa offices are next elected in 2027 and Tampa has no city question on this ballot. Plant City has no races on this ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Board of County Commissioners District 5 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-hillsborough-2026-bocc-d5-hahn-stacy",
+          "name": "Stacy Hahn",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-hillsborough-2026-bocc-d5-manimala-neil",
+          "name": "Neil Manimala",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+    },
+    {
+      "office": "Board of County Commissioners District 7 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-hillsborough-2026-bocc-d7-wostal-joshua",
+          "name": "Joshua Wostal",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "fl-hillsborough-2026-bocc-d7-rodriguez-aileen",
+          "name": "Aileen Rodriguez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+    },
+    {
+      "office": "School Board Member District 6 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-hillsborough-2026-school-board-d6-gay-kenneth",
+          "name": "Kenneth \"Ken\" Gay",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-hillsborough-2026-school-board-d6-perez-karen",
+          "name": "Karen Perez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Drew Atkinson? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca2-2026-retain-atkinson-drew",
+          "name": "Drew Atkinson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Morris Silberman? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca2-2026-retain-silberman-morris",
+          "name": "Morris Silberman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Daniel H. Sleet? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca2-2026-retain-sleet-daniel",
+          "name": "Daniel H. Sleet",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Andrea Teves Smith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca2-2026-retain-smith-andrea",
+          "name": "Andrea Teves Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+    }
+  ],
+  "measures": [
+    {
+      "id": "No. 1 Hillsborough County Referendum",
+      "title": "Providing for an Elected, Rather than an Appointed, Superintendent of Schools",
+      "summary": "Asks whether Chapter 2026-196, Laws of Florida, should take effect. Under that law, the Superintendent of Schools for Hillsborough County Public Schools would no longer be appointed by the School Board but would be elected in a partisan election to a 4-year term, starting with the 2028 general election.",
+      "yesMeans": "The school superintendent would be elected by county voters in a partisan election starting in 2028.",
+      "noMeans": "The school superintendent stays appointed by the School Board.",
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/",
+      "moreInfo": "https://www.votehillsborough.gov/DocumentCenter/View/2649/HB4027-PDF"
+    },
+    {
+      "id": "No. 2 Hillsborough County Referendum",
+      "title": "Amending the County Charter to Increase Number of County Commissioners, All Elected From Single-Member Districts",
+      "summary": "Would amend the Hillsborough County Charter to increase the Board of County Commissioners from 7 to 9 members, and to 11 members once the county population reaches at least 2,500,000. All commissioners would be elected from single-member districts by voters living in each district only, replacing the current three countywide seats. The board would draw the new districts by October 1, 2027, for use starting at the 2028 general election.",
+      "yesMeans": "The commission grows to 9 members (later 11), all elected by district.",
+      "noMeans": "The commission stays at 7 members, with 4 district seats and 3 countywide seats.",
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/",
+      "moreInfo": "https://www.votehillsborough.gov/DocumentCenter/View/2648/HB4029-PDF"
+    },
+    {
+      "id": "No. 3 Hillsborough County Referendum",
+      "title": "One-Half Cent Sales Surtax for Public School Air Conditioning and Capital Improvements",
+      "summary": "Asks whether the School Board of Hillsborough County should continue its one-half cent school capital outlay sales surtax for ten years beginning January 1, 2029. The money would fund air conditioning replacement and repairs, capital improvements and construction of other schools, building enhancements for school security, and other maintenance needs.",
+      "yesMeans": "The one-half cent school sales surtax continues for ten years starting January 1, 2029.",
+      "noMeans": "The one-half cent school sales surtax is not continued for that period.",
+      "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/",
+      "moreInfo": "https://www.votehillsborough.gov/DocumentCenter/View/2647/R26-062-School-Board-PDF"
+    }
+  ],
+  "municipalities": {
+    "Temple Terrace": {
+      "contests": [
+        {
+          "office": "Temple Terrace City Council",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "fl-hillsborough-2026-temple-terrace-council-fernandez-alison",
+              "name": "Alison McGillivray Fernandez",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "fl-hillsborough-2026-temple-terrace-council-gessman-ryan",
+              "name": "Ryan Gessman",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-hillsborough-2026-temple-terrace-council-michalski-karen",
+              "name": "Karen Michalski",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-hillsborough-2026-temple-terrace-council-papantoniou-eugene",
+              "name": "Eugene Papantoniou",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-hillsborough-2026-temple-terrace-council-treat-amber",
+              "name": "Amber Treat",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.votehillsborough.gov/DocumentCenter/View/2615/"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

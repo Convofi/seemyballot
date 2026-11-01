@@ -1,0 +1,305 @@
+{
+  "state": "WA",
+  "county": "King County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55",
+    "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55",
+    "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=17",
+    "https://www.courts.wa.gov/appellate_trial_courts/bios/?fa=atc_bios.home&folderID=div1",
+    "https://www.seattle.gov/courts/about-us/seattle-municipal-court-judges",
+    "https://kingcounty.gov/en/dept/pao",
+    "https://kingcounty.gov/en/dept/elections/about-us/meet-the-director",
+    "https://kingcounty.gov/en/dept/assessor"
+  ],
+  "note": "Not shown: Metropolitan King County Council districts (2, 4, 6, 8), King County District Court electoral-district judges, Seattle City Council District 5 (unexpired term), legislative and congressional districts, and school district, fire district and cemetery district measures. No King County Superior Court, Port of Seattle (odd-year) or countywide King County measures are on this ballot. Check your official sample ballot for district items.",
+  "contests": [
+    {
+      "office": "King County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-king-2026-prosecutor-manion-leesa",
+          "name": "Leesa Manion",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+    },
+    {
+      "office": "King County Assessor",
+      "candidates": [
+        {
+          "key": "wa-king-2026-assessor-foxcurran-rob",
+          "name": "Rob Foxcurran",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-king-2026-assessor-scarimbolo-dominique",
+          "name": "Dominique M Scarimbolo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+    },
+    {
+      "office": "King County Director of Elections",
+      "candidates": [
+        {
+          "key": "wa-king-2026-elections-director-wise-julie",
+          "name": "Julie Wise",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+    },
+    {
+      "office": "Court of Appeals, Division No. 1, District No. 1, Judge Position No. 5",
+      "candidates": [
+        {
+          "key": "wa-app1d1-2026-pos5-mann-david",
+          "name": "David S. Mann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+    },
+    {
+      "office": "Court of Appeals, Division No. 1, District No. 1, Judge Position No. 6",
+      "candidates": [
+        {
+          "key": "wa-app1d1-2026-pos6-bowman-bill",
+          "name": "Bill A. Bowman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Seattle": {
+      "contests": [
+        {
+          "office": "Seattle Municipal Court Judge Position No. 1",
+          "candidates": [
+            {
+              "key": "wa-king-2026-seattle-muni-pos1-mcdowall-cat",
+              "name": "Cat McDowall",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+        },
+        {
+          "office": "Seattle Municipal Court Judge Position No. 2",
+          "candidates": [
+            {
+              "key": "wa-king-2026-seattle-muni-pos2-edwards-katharine",
+              "name": "Katharine Edwards",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+        },
+        {
+          "office": "Seattle Municipal Court Judge Position No. 3",
+          "candidates": [
+            {
+              "key": "wa-king-2026-seattle-muni-pos3-vaddadi-pooja",
+              "name": "Pooja Vaddadi",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+        },
+        {
+          "office": "Seattle Municipal Court Judge Position No. 4",
+          "candidates": [
+            {
+              "key": "wa-king-2026-seattle-muni-pos4-crawford-willis-anita",
+              "name": "Anita Crawford-Willis",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+        },
+        {
+          "office": "Seattle Municipal Court Judge Position No. 5",
+          "candidates": [
+            {
+              "key": "wa-king-2026-seattle-muni-pos5-rothstein-gabe",
+              "name": "Gabe Rothstein",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "wa-king-2026-seattle-muni-pos5-newsom-garmon",
+              "name": "Garmon Newsom",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+        },
+        {
+          "office": "Seattle Municipal Court Judge Position No. 6",
+          "candidates": [
+            {
+              "key": "wa-king-2026-seattle-muni-pos6-anderson-shantrice",
+              "name": "Shantrice Anderson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+        },
+        {
+          "office": "Seattle Municipal Court Judge Position No. 7",
+          "candidates": [
+            {
+              "key": "wa-king-2026-seattle-muni-pos7-shadid-damon",
+              "name": "Damon Shadid",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://info.kingcounty.gov/kcelections/Vote/contests/candidates.aspx?eid=55"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Seattle – Seattle Transit Measure",
+          "summary": "Would dedicate funding to transit service benefiting Seattle residents, including more frequent service, affordable fare programs for qualifying individuals, reliability, access and climate projects, enhanced RapidRide and other service, and facilitation of Sound Transit expansion, as provided in Ordinance 127474. It authorizes a 0.3% sales and use tax for up to ten years, replacing the current voter-approved 0.15% sales tax that expires March 31, 2027.",
+          "yesMeans": "Seattle would levy a 0.3% sales and use tax for up to ten years to fund the listed transit services and projects.",
+          "noMeans": "The new 0.3% tax is not authorized, and the current 0.15% transit sales tax expires March 31, 2027.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "Bothell": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Bothell – Annexation Into Shoreline Fire Department Regional Fire Authority",
+          "summary": "Under Resolution No. 1784, Bothell would be annexed into and become part of the Shoreline Fire Department Regional Fire Authority, effective March 1, 2027, under an amended authority plan. The stated purpose is to maintain current fire and emergency medical service levels in Bothell.",
+          "yesMeans": "Bothell would join the Shoreline Fire Department Regional Fire Authority on March 1, 2027.",
+          "noMeans": "Bothell would not join the Shoreline Fire Department Regional Fire Authority.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "Clyde Hill": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Clyde Hill – Levy to Continue Providing Public Safety and Land Use Services in Clyde Hill",
+          "summary": "Would raise Clyde Hill's regular property tax levy from about $0.30 to $0.50 per $1,000 of assessed value for 2027 to fund public safety and land use services, with 3% annual increases to the limit factor for 2028-2036. Qualifying seniors, veterans and disabled persons are exempt under RCW 84.36.381.",
+          "yesMeans": "Clyde Hill's property tax levy would rise to about $0.50 per $1,000 for 2027, with the stated increases through 2036.",
+          "noMeans": "The levy increase is not approved and the current levy rules stay in place.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "Issaquah": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Issaquah – Parks and Open Space Bonds",
+          "summary": "Would authorize Issaquah to issue up to $18,000,000 in general obligation bonds maturing within 20 years, repaid by annual excess property taxes, for parks, trails and recreation projects. Listed projects include sports fields and courts, new trails, trailhead improvements, restoration of Confluence Park's Ek House, playground improvements and a new dog park (Ordinance No. 3142).",
+          "yesMeans": "Issaquah could issue up to $18 million in bonds for the listed parks projects and levy property taxes to repay them.",
+          "noMeans": "The bonds and the property tax to repay them are not authorized.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "Kenmore": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Kenmore – Climate & Environmental Stewardship, Affordable Housing, and Human Services Levy",
+          "summary": "Would raise Kenmore's maximum regular property tax levy rate to $1.25 per $1,000 of assessed value for collection in 2027 to fund climate and environmental stewardship, affordable housing and human services (Ordinance 26-0644). It sets a 6% limit factor for levy increases in 2028-2032 and uses the 2032 levy as the base for later levies; qualifying seniors, veterans and others are exempt.",
+          "yesMeans": "Kenmore's property tax levy rate could rise to $1.25 per $1,000 in 2027, with up to 6% yearly increases through 2032.",
+          "noMeans": "The levy increase is not approved and the current levy rules stay in place.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "Lake Forest Park": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Lake Forest Park – Public Safety Services Levy Lid Lift",
+          "summary": "Would set Lake Forest Park's maximum total regular property tax levy rate at $0.88920 per $1,000 of assessed value for collection in 2027, with annual inflation-based increases (Seattle-area CPI-U) for five years (Resolution No. 26-2084). Funds would go to public safety services including police, safety equipment, 911 dispatch, emergency management, jail services and mental health crisis response; qualifying low-income seniors and disabled persons are exempt.",
+          "yesMeans": "Lake Forest Park's levy rate would be set at $0.88920 per $1,000 for 2027, rising with inflation for five years, to fund public safety services.",
+          "noMeans": "The levy lid lift is not approved and the current levy limits stay in place.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "SeaTac": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of SeaTac – Fire Prevention and Criminal Justice Sales and Use Tax",
+          "summary": "Would raise SeaTac's sales and use tax rate by one-tenth of 1% (0.1%) under Ordinance No. 26-1017. The money would fund public safety services allowed under RCW 82.14.450, including fire protection and prevention, emergency medical response, law enforcement staffing and retention, and criminal justice purposes.",
+          "yesMeans": "SeaTac's sales tax would rise by 0.1% to fund public safety services.",
+          "noMeans": "SeaTac's sales tax rate stays the same.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "Milton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Milton – Additional Sales and Use Tax for Police and Public Safety",
+          "summary": "Would raise Milton's sales and use tax rate by one-tenth of one percent (0.1%), effective in 2027, under Resolution 26-2005. The money would provide ongoing funding for public safety purposes allowed under RCW 82.14.450, such as law enforcement staffing.",
+          "yesMeans": "Milton's sales tax would rise by 0.1% starting in 2027 to fund police and public safety.",
+          "noMeans": "Milton's sales tax rate stays the same.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    },
+    "Shoreline": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Shoreline – Formation of the Shoreline Metropolitan Park District",
+          "summary": "Would create the Shoreline Metropolitan Park District, with the same boundaries as Shoreline and governed by the City Councilmembers, to fund a pool facility and future recreational facilities (Resolution No. 562). The district could levy regular property taxes of up to $0.75 per $1,000 of assessed value (anticipated initial rate $0.55, about $8.8 million a year).",
+          "yesMeans": "A Shoreline Metropolitan Park District would be formed with authority to levy property taxes for a pool and recreational facilities.",
+          "noMeans": "No metropolitan park district is formed.",
+          "source": "https://cdn.kingcounty.gov/-/media/king-county/depts/elections/current-election/2026/11/sample-ballot.pdf",
+          "moreInfo": "https://info.kingcounty.gov/kcelections/Vote/contests/ballotmeasures.aspx?eid=55"
+        }
+      ]
+    }
+  }
+}

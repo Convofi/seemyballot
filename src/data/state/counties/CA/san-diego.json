@@ -1,0 +1,52 @@
+{
+  "state": "CA",
+  "county": "San Diego County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf",
+    "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-317.pdf",
+    "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/argument-deadline-measures.pdf",
+    "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/san-diego-county-measure-a-transpansparent-accountable-modern-county-government.pdf",
+    "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/san-diego-county-fund-health-and-safety-services.pdf",
+    "https://www.sandiego.gov/city-clerk/elections"
+  ],
+  "note": "Not shown: Board of Supervisors Districts 4 and 5, County Board of Education districts, City of San Diego City Council Districts 2, 4, 6 and 8, other city council districts, school and community college boards, health, water and community services districts, community planning groups, congressional and legislative districts, Court of Appeal retention questions, and school and special-district measures (such as San Diego Unified's Measure M). Sheriff, District Attorney, County Superintendent of Schools and Superior Court judges are not on the Registrar's November 3, 2026 candidate list. The City of San Diego has no citywide office or citywide measure on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Assessor/Recorder/County Clerk",
+      "candidates": [
+        { "key": "ca-san-diego-2026-assessor-marks-jordan", "name": "Jordan Z. Marks", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    },
+    {
+      "office": "Treasurer-Tax Collector",
+      "candidates": [
+        { "key": "ca-san-diego-2026-treasurer-nakawatase-shirley", "name": "Shirley Nakawatase", "party": "Nonpartisan", "incumbent": false },
+        { "key": "ca-san-diego-2026-treasurer-cohen-larry", "name": "Larry Cohen", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/candidate-list.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure A",
+      "title": "A Transparent, Accountable, Modern County Government",
+      "summary": "Amends the San Diego County Charter to raise the term limit for County Supervisors from two terms to three, and to have the Board confirm certain senior appointments such as the Assistant Chief Administrative Officer, Public Health Officer and Public Defender. It directs the Board to create a seven-member Ethics Commission, allows the Board to appoint an Independent Budget Analyst and Independent Program Auditor, and requires County spending data to be posted online with an annual independent financial and performance audit.",
+      "yesMeans": "The County Charter would be amended as described, including allowing Supervisors to serve up to three terms.",
+      "noMeans": "The County Charter would not be amended, and the two-term limit for Supervisors would remain.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-317.pdf",
+      "moreInfo": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/san-diego-county-measure-a-transpansparent-accountable-modern-county-government.pdf"
+    },
+    {
+      "id": "Measure B",
+      "title": "Measure to Fund San Diego County Health & Safety Services",
+      "summary": "A citizen initiative that imposes a half-cent countywide sales tax, estimated to raise $400 million to $450 million a year, until ended by voters. Revenue goes to a dedicated fund split 22.5% to stopping sewage pollution in the Tijuana River Valley, 17.5% to public safety and wildfire prevention, and 60% to healthcare, childcare and nutrition services. It creates a twelve-member oversight committee and requires public disclosure of spending and annual independent audits.",
+      "yesMeans": "A half-cent countywide sales tax would be imposed to fund the listed health and safety services.",
+      "noMeans": "The half-cent sales tax would not be imposed.",
+      "source": "https://www.sdvote.com/content/dam/rov/en/sb/SB-ENG-317.pdf",
+      "moreInfo": "https://www.sdvote.com/content/dam/rov/en/election/nov-3-2026-gubernatorial-general-election/san-diego-county-fund-health-and-safety-services.pdf"
+    }
+  ],
+  "municipalities": {}
+}

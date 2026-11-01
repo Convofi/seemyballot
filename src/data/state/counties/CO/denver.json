@@ -1,0 +1,338 @@
+{
+  "state": "CO",
+  "county": "Denver County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf",
+    "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-ballot-info-book_accessible.pdf",
+    "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-Clerk-and-Recorder/Elections-Division/Campaign-Candidate-Resources/Candidate-and-Initiative-Tracking",
+    "https://www.denvergov.org/Government/Elections/Elections-Division-Voter-Info",
+    "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-tabor-notice_final-draft.pdf"
+  ],
+  "note": "Denver is a consolidated city and county, so all Denver contests and measures are listed at the county level. Denver Public Schools and the Front Range Passenger Rail District cover all of Denver, so their measures (4A, 7A) are included. Not shown: Regional Transportation District director races (by district), state legislative and congressional districts, and State Board of Education / CU Regent districts. No Denver Public Schools board seats, District Attorney, or other Denver county offices are on the 2026 ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide amendments and propositions are on the Colorado statewide list. Certified write-in candidates for the At-Large Seat B vacancy election were not confirmed. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Denver City Council At-Large, Seat B (vacancy election)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-council-atlarge-b-reyes-alfredo",
+          "name": "Alfredo Reyes",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-traylor-whitney",
+          "name": "Whitney Traylor",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-walker-jeff",
+          "name": "Jeff Walker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-soto-julissa",
+          "name": "Julissa Soto",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-konkle-gabriel",
+          "name": "Gabriel Konkle",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-diaz-cynthia",
+          "name": "Cynthia Diaz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-mejia-melissa",
+          "name": "Melissa Adriana Mejía",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-browne-jake",
+          "name": "Jake Browne",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-martinez-monica",
+          "name": "Monica Martinez",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-denver-2026-council-atlarge-b-doane-raymon",
+          "name": "Raymon Anthony Doane",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District — retain Judge Michael W.V. Angel? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-angel-michael",
+          "name": "Michael W.V. Angel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District — retain Judge Christopher J. Baumann? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-baumann-christopher",
+          "name": "Christopher J. Baumann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District — retain Judge John Eric Elliff? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-elliff-john",
+          "name": "John Eric Elliff",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District — retain Judge Andrew Luxen? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-luxen-andrew",
+          "name": "Andrew Luxen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District — retain Judge Jon J. Olafson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-olafson-jon",
+          "name": "Jon J. Olafson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District — retain Judge Sarah Block Wallace? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-wallace-sarah",
+          "name": "Sarah Block Wallace",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District (Juvenile) — retain Judge Lisa Gomez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-gomez-lisa",
+          "name": "Lisa Gomez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District (Juvenile) — retain Judge Elizabeth Joan McCarthy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-mccarthy-elizabeth",
+          "name": "Elizabeth Joan McCarthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "District Court Judge, 2nd Judicial District (Probate) — retain Judge Elizabeth D. Leith? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-district-leith-elizabeth",
+          "name": "Elizabeth D. Leith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "Denver County Court Judge — retain Judge Andrea Eddy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-county-eddy-andrea",
+          "name": "Andrea Eddy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "Denver County Court Judge — retain Judge Olympia Z. Fay? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-county-fay-olympia",
+          "name": "Olympia Z. Fay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "Denver County Court Judge — retain Judge Kerri Lombardi? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-county-lombardi-kerri",
+          "name": "Kerri Lombardi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "Denver County Court Judge — retain Judge Chelsea Malone? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-county-malone-chelsea",
+          "name": "Chelsea Malone",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "Denver County Court Judge — retain Judge Michelle Martinez-Thomas? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-county-martinez-thomas-michelle",
+          "name": "Michelle Martinez-Thomas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "Denver County Court Judge — retain Judge Isaam L. Shamsid-Deen? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-county-shamsid-deen-isaam",
+          "name": "Isaam L. Shamsid-Deen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    },
+    {
+      "office": "Denver County Court Judge — retain Judge Judith Smith? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-denver-2026-retain-county-smith-judith",
+          "name": "Judith Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Referred Question 2H",
+      "title": "Charter amendment: Auditor enforcement of wage and workplace laws",
+      "summary": "Amends the Denver Charter to state expressly that the Auditor's Office may continue to enforce wage, worker protection, and other workplace rights laws as City Council provides by ordinance. The city's fiscal analysis says there is no anticipated fiscal impact because the Auditor already performs this work.",
+      "yesMeans": "The Charter is amended to list wage and workplace rights enforcement among the Auditor's duties.",
+      "noMeans": "The Charter is not changed.",
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf",
+      "moreInfo": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-ballot-info-book_accessible.pdf"
+    },
+    {
+      "id": "Referred Question 2I",
+      "title": "Charter amendment: budget and appropriation process",
+      "summary": "Amends the Denver Charter's budget and appropriation provisions to let City Council adopt, by ordinance, a two-year budget term, and modernizes or repeals certain Charter sections. It also moves the release of the Mayor's proposed budget from September 15 to the first Friday in September. The city estimates about $50,000 in one-time costs to reconfigure budget systems for a two-year budget.",
+      "yesMeans": "Council may adopt a two-year budget process, the proposed budget is released earlier, and the listed Charter sections are updated.",
+      "noMeans": "The Charter's current annual budget and appropriation process stays as it is.",
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf",
+      "moreInfo": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-ballot-info-book_accessible.pdf"
+    },
+    {
+      "id": "Referred Question 2J",
+      "title": "Charter amendment: Civil Service Commission and Department of Safety",
+      "summary": "Amends the Denver Charter to remove outdated language about the Civil Service Commission and Department of Safety, allow City Council to add Commission duties by ordinance, and allow probation periods to be extended for medical, military, or other approved leave. It also removes the Charter caps on the number of Fire Department (7) and Police Department (18) command assignments; the city's fiscal analysis estimates a minimal financial impact.",
+      "yesMeans": "The Civil Service and Department of Safety Charter provisions are updated as described, including removal of the command-assignment caps.",
+      "noMeans": "The Charter is not changed.",
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf",
+      "moreInfo": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-ballot-info-book_accessible.pdf"
+    },
+    {
+      "id": "Referred Question 2K",
+      "title": "Franchise agreement with Public Service Company of Colorado (Xcel Energy)",
+      "summary": "Approves a 20-year franchise agreement, starting January 1, 2027, with Public Service Company of Colorado (Xcel Energy) to use city streets and property to provide electric and gas service. It keeps the existing franchise fee of 3% of Xcel's applicable Denver revenues (about $34.3 million projected for 2027) and continues programs for undergrounding overhead power lines and emergency management coordination. The current franchise expires at the end of 2026.",
+      "yesMeans": "Denver approves the new 20-year franchise agreement with Xcel Energy.",
+      "noMeans": "The franchise agreement is not approved, and the current agreement expires at the end of 2026.",
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf",
+      "moreInfo": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-ballot-info-book_accessible.pdf"
+    },
+    {
+      "id": "Initiated Ordinance 311",
+      "title": "Prohibition on force-feeding birds and sale of force-fed products, including foie gras",
+      "summary": "Adopts a city ordinance banning the force-feeding of birds in Denver and banning the sale of products made from force-fed birds, including foie gras, with an exception for veterinarians tube-feeding sick birds. Violations would carry civil penalties of $1,000 to $5,000 each, enforced by the Department of Public Health and Environment, with license suspension for repeated violations. It would take effect July 1, 2027.",
+      "yesMeans": "Force-feeding birds and selling force-fed bird products such as foie gras become prohibited in Denver.",
+      "noMeans": "No new city ban on force-feeding birds or on selling foie gras is adopted.",
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf",
+      "moreInfo": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-ballot-info-book_accessible.pdf"
+    },
+    {
+      "id": "Denver Public Schools Ballot Issue 4A",
+      "title": "Denver Public Schools (School District No. 1) mill levy override, up to $44 million annually",
+      "summary": "Raises Denver Public Schools property taxes by up to $44 million in 2026 (collected in 2027) and each year after, through a mill levy override, for educational purposes including educator pay, more career and technical education courses in high-demand fields, and student mental health and special education. Spending of the money would be reported in the district's annual independent audit, and investment earnings on it could be kept and spent as a voter-approved revenue change.",
+      "yesMeans": "Denver Public Schools may raise property taxes by up to $44 million a year for the listed educational purposes.",
+      "noMeans": "This Denver Public Schools property tax increase does not take effect.",
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf",
+      "moreInfo": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/2026-eng-tabor-notice_final-draft.pdf"
+    },
+    {
+      "id": "Front Range Passenger Rail District Ballot Issue 7A",
+      "title": "Front Range Passenger Rail District sales tax and debt for Colorado Connector (CoCo) rail service",
+      "summary": "Raises Front Range Passenger Rail District taxes by $295 million a year, through a 0.333% sales and use tax (one-third of a cent per dollar), and allows $580 million in district debt with a maximum repayment cost of $785 million. The money would build, operate, and maintain Colorado Connector (CoCo) passenger rail between Pueblo, Colorado Springs, Denver, Boulder, Fort Collins and other Front Range communities; state-law exemptions such as gasoline, food, residential utilities, prescription drugs and medical supplies apply. Revenues would be kept as a voter-approved revenue change and reviewed each year by an independent auditor and a rotating group of district taxpayers.",
+      "yesMeans": "The district may levy the 0.333% sales and use tax and take on the stated debt to build and run Front Range passenger rail.",
+      "noMeans": "The district's sales tax and debt are not approved.",
+      "source": "https://www.denvergov.org/files/assets/public/v/1/clerk-and-recorder/documents/elections-division/2026/documents/26-general-election/final-2026-general-sample-ballot-engspa-2.pdf"
+    }
+  ],
+  "municipalities": {}
+}
