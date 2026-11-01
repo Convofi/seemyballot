@@ -6,6 +6,7 @@ import type { District, LookupResult } from "@/lib/census";
 import FederalContests from "@/components/FederalContests";
 import { HowToVote, OfficialFallback } from "@/components/HowToVote";
 import { PollingPlace } from "@/components/PollingPlace";
+import SearchMapSection from "@/components/SearchMapSection";
 import StateLocalContests from "@/components/StateLocalContests";
 import { VotingLogistics } from "@/components/VotingLogistics";
 import { SummaryContext, type Summary, type SummaryPart } from "@/components/summary";
@@ -114,6 +115,7 @@ export default function Home() {
               </button>
             </form>
             <p className="mt-4 text-sm text-ink-3">We don&apos;t store your address.</p>
+            {status.kind === "idle" && !loading && <SearchMapSection />}
           </div>
         )}
 
@@ -320,7 +322,10 @@ function SiteFooter() {
   return (
     <footer className="border-t border-line">
       <div className="mx-auto max-w-[40rem] px-4 py-6 text-xs leading-5 text-ink-3">
-        <p>Nonpartisan. Every fact links to its source. We never store your address.</p>
+        <p>
+          Nonpartisan. Every fact links to its source. We never store your address; we only count searches by
+          state, district, and county.
+        </p>
         <p className="mt-1 flex flex-wrap items-center gap-x-4">
           <a
             href="https://convofi.com"
