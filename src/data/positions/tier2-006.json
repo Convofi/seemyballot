@@ -359,9 +359,34 @@
  "H6KS02276": {
   "name": "Don Coover",
   "website": "https://doncooverforcongress.com/",
-  "bio": null,
-  "positions": [],
-  "status": "no_source_found",
+  "bio": "Rancher, veterinarian, Army veteran, and small business owner.",
+  "positions": [
+   {
+    "topic": "Money in politics",
+    "stance": "Criticizes politicians who take corporate and billionaire donations and then vote for those donors rather than constituents.",
+    "sourceUrl": "https://ballotpedia.org/Don_Coover"
+   },
+   {
+    "topic": "Tariffs and taxes",
+    "stance": "Says tariffs cost Kansas families and farmers and opposes tax breaks for billionaires and corporations paired with health care cuts.",
+    "sourceUrl": "https://ballotpedia.org/Don_Coover"
+   },
+   {
+    "topic": "Health care",
+    "stance": "Wants to make health care more affordable and accessible and to protect rural hospitals.",
+    "sourceUrl": "https://ballotpedia.org/Don_Coover"
+   },
+   {
+    "topic": "War in Iran",
+    "stance": "Calls for stopping the war in Iran, which he says raised fuel prices, limited fertilizer access, and hurt national security.",
+    "sourceUrl": "https://ballotpedia.org/Don_Coover"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
   "generatedAt": "2026-11-01",
   "method": "agent"
  },
@@ -387,8 +412,33 @@
   "name": "Adriel Lam",
   "website": "https://lam4aloha.com/",
   "bio": null,
-  "positions": [],
-  "status": "no_source_found",
+  "positions": [
+   {
+    "topic": "Hawaii's federal voice",
+    "stance": "Wants a strong voice in Washington who advocates for Hawaii's people and leverages federal resources for the islands.",
+    "sourceUrl": "https://ballotpedia.org/Adriel_Lam"
+   },
+   {
+    "topic": "Election security",
+    "stance": "Supports photo ID to vote and says a safe and secure process for every vote is the most basic element of functional government.",
+    "sourceUrl": "https://ballotpedia.org/Adriel_Lam"
+   },
+   {
+    "topic": "General welfare",
+    "stance": "Says promoting the general welfare means making available to all what was once reserved for the elites.",
+    "sourceUrl": "https://ballotpedia.org/Adriel_Lam"
+   },
+   {
+    "topic": "Infrastructure",
+    "stance": "Says transportation and infrastructure are key to a thriving economy and must be maintained and modernized for the 21st century.",
+    "sourceUrl": "https://ballotpedia.org/Adriel_Lam"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
   "generatedAt": "2026-11-01",
   "method": "agent"
  },
@@ -500,9 +550,39 @@
  "H6FL06423": {
   "name": "Michael Gist",
   "website": null,
-  "bio": null,
-  "positions": [],
-  "status": "no_source_found",
+  "bio": "Marine Corps veteran with 14 years of service and former Volusia County public school teacher.",
+  "positions": [
+   {
+    "topic": "Political independence",
+    "stance": "Running as an independent to put the interests of the district's working people ahead of parties and elites.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Gist"
+   },
+   {
+    "topic": "Personal investment accounts",
+    "stance": "Proposes redirecting ineffective government spending into universal personal \"Freedom Accounts\" for education, homeownership, healthcare, and assets.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Gist"
+   },
+   {
+    "topic": "Education outcomes",
+    "stance": "Will fight for better education outcomes, accountability, and opportunity for future generations.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Gist"
+   },
+   {
+    "topic": "National security",
+    "stance": "Believes in a strong national defense, secure borders, and policies that keep America safe.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Gist"
+   },
+   {
+    "topic": "School choice",
+    "stance": "Supports real accountability, parental choice, and education reforms that prioritize thinking skills and opportunity.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Gist"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
   "generatedAt": "2026-11-01",
   "method": "agent"
  },
@@ -518,9 +598,39 @@
  "H6FL24061": {
   "name": "Andy Daro",
   "website": "https://www.andydaro.com/",
-  "bio": null,
-  "positions": [],
-  "status": "no_source_found",
+  "bio": "Real estate professional and local city commissioner.",
+  "positions": [
+   {
+    "topic": "Political independence",
+    "stance": "Describes his campaign as independent and \"America First.\"",
+    "sourceUrl": "https://ballotpedia.org/Andy_Daro"
+   },
+   {
+    "topic": "Housing affordability",
+    "stance": "Lists housing affordability as a key campaign message.",
+    "sourceUrl": "https://ballotpedia.org/Andy_Daro"
+   },
+   {
+    "topic": "Property insurance",
+    "stance": "Lists property insurance as a key campaign message.",
+    "sourceUrl": "https://ballotpedia.org/Andy_Daro"
+   },
+   {
+    "topic": "Compromise",
+    "stance": "Emphasizes centrist ideas and compromise.",
+    "sourceUrl": "https://ballotpedia.org/Andy_Daro"
+   },
+   {
+    "topic": "Governing approach",
+    "stance": "Says he is \"Results Oriented, not Political Partisanship.\"",
+    "sourceUrl": "https://ballotpedia.org/Andy_Daro"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
   "generatedAt": "2026-11-01",
   "method": "agent"
  },
@@ -545,27 +655,117 @@
  "H6IL04187": {
   "name": "Lindsay Church",
   "website": null,
-  "bio": null,
-  "positions": [],
-  "status": "no_source_found",
+  "bio": "U.S. Navy veteran and Persian-Farsi linguist.",
+  "positions": [
+   {
+    "topic": "Democracy reform",
+    "stance": "Supports open primaries, ranked-choice voting, and greater transparency in government.",
+    "sourceUrl": "https://ballotpedia.org/Lindsay_Church"
+   },
+   {
+    "topic": "Health care and rights",
+    "stance": "Supports access to affordable healthcare and protection of civil and human rights.",
+    "sourceUrl": "https://ballotpedia.org/Lindsay_Church"
+   },
+   {
+    "topic": "Immigration",
+    "stance": "Supports immigration reform rooted in dignity that keeps families together while creating a fair and workable system.",
+    "sourceUrl": "https://ballotpedia.org/Lindsay_Church"
+   },
+   {
+    "topic": "Foreign policy",
+    "stance": "Believes war should be a last resort; supports diplomacy, stability, and congressional oversight of military action.",
+    "sourceUrl": "https://ballotpedia.org/Lindsay_Church"
+   },
+   {
+    "topic": "Veterans",
+    "stance": "Supports stronger support systems for veterans and military families.",
+    "sourceUrl": "https://ballotpedia.org/Lindsay_Church"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
   "generatedAt": "2026-11-01",
   "method": "agent"
  },
  "H2IL04178": {
   "name": "Ed Hershey",
   "website": null,
-  "bio": null,
-  "positions": [],
-  "status": "no_source_found",
+  "bio": "Teacher for 18 years at Lindblom High School on Chicago's South Side.",
+  "positions": [
+   {
+    "topic": "Wages",
+    "stance": "Says everyone's wages must be raised to keep pace with inflation, with a minimum wage high enough to support a family.",
+    "sourceUrl": "https://ballotpedia.org/Ed_Hershey"
+   },
+   {
+    "topic": "Immigration",
+    "stance": "Rejects claims that new immigrants take jobs or lower wages and calls for working-class unity.",
+    "sourceUrl": "https://ballotpedia.org/Ed_Hershey"
+   },
+   {
+    "topic": "War",
+    "stance": "Opposes the wars in Gaza and Ukraine and a possible war with China, saying the working class has no interest in them.",
+    "sourceUrl": "https://ballotpedia.org/Ed_Hershey"
+   },
+   {
+    "topic": "Education",
+    "stance": "Says that as a teacher he is interested in education.",
+    "sourceUrl": "https://ballotpedia.org/Ed_Hershey"
+   },
+   {
+    "topic": "Environment",
+    "stance": "Follows climate change and local environmental issues such as industrial pollution in Chicago neighborhoods.",
+    "sourceUrl": "https://ballotpedia.org/Ed_Hershey"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
   "generatedAt": "2026-11-01",
   "method": "agent"
  },
  "wiki:michael-veloff": {
   "name": "Michael Veloff",
   "website": null,
-  "bio": null,
-  "positions": [],
-  "status": "no_source_found",
+  "bio": "Lifelong Ohio resident and Mansfield-OSU graduate who worked part time as a cryptocurrency moderator for nine years.",
+  "positions": [
+   {
+    "topic": "Guns for survivors",
+    "stance": "Proposes guns and training for women who have experienced violence, using firearms from gun buybacks.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Veloff"
+   },
+   {
+    "topic": "Drinking age",
+    "stance": "Wants to lower the drinking age to 16 or lower, saying parents should teach responsible drinking.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Veloff"
+   },
+   {
+    "topic": "Tuesdays",
+    "stance": "Says Tuesdays should be optional.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Veloff"
+   },
+   {
+    "topic": "Cryptocurrency",
+    "stance": "Lists cryptocurrency as a policy area he is passionate about.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Veloff"
+   },
+   {
+    "topic": "Single-payer health care",
+    "stance": "Lists the Single Payer Action Network for Ohio among the policy areas he is passionate about.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Veloff"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
   "generatedAt": "2026-11-01",
   "method": "agent"
  }
