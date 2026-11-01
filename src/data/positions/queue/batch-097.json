@@ -1,0 +1,307 @@
+{
+ "batch": "097",
+ "createdAt": "2026-11-01T03:54:44.564Z",
+ "output": "src/data/positions/batch-097.json",
+ "candidates": [
+  {
+   "key": "tx-tarrant-2026-district-clerk-smith-nathan",
+   "name": "Nathan Smith",
+   "party": "Democratic",
+   "office": "District Clerk, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-county-clerk-nicholson-mary",
+   "name": "Mary Louise Nicholson",
+   "party": "Republican",
+   "office": "County Clerk, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-county-clerk-bean-lydia",
+   "name": "Lydia Bean",
+   "party": "Democratic",
+   "office": "County Clerk, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-district-clerk-mendoza-cathy",
+   "name": "Cathy Mendoza",
+   "party": "Republican",
+   "office": "District Clerk, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-county-clerk-fairbrother-bill",
+   "name": "Bill Fairbrother",
+   "party": "Republican",
+   "office": "County Clerk, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-county-clerk-block-erin",
+   "name": "Erin Block",
+   "party": "Democratic",
+   "office": "County Clerk, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-treasurer-callahan-carole",
+   "name": "Carole Callahan",
+   "party": "Republican",
+   "office": "County Treasurer, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-tax-assessor-unexp-totty-catherine",
+   "name": "Catherine Totty",
+   "party": "Republican",
+   "office": "County Tax Assessor-Collector, Unexpired Term, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-tax-assessor-unexp-hanke-eric",
+   "name": "Eric Hanke",
+   "party": "Democratic",
+   "office": "County Tax Assessor-Collector, Unexpired Term, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-pinellas-2026-bocc-d2-scott-brian",
+   "name": "Brian Scott",
+   "party": "Republican",
+   "office": "Board of County Commissioners District 2 (at-large, countywide), Pinellas County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-pinellas-2026-bocc-d2-hughes-tim",
+   "name": "Tim Hughes",
+   "party": "Democratic",
+   "office": "Board of County Commissioners District 2 (at-large, countywide), Pinellas County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-suffolk-2026-county-clerk-puleo-vincent",
+   "name": "Vincent A Puleo",
+   "party": "Republican",
+   "office": "Suffolk County Clerk, Suffolk County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-suffolk-2026-county-comptroller-estreich-jon",
+   "name": "Jon Estreich",
+   "party": "Democratic",
+   "office": "Suffolk County Comptroller, Suffolk County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-suffolk-2026-county-comptroller-losquadro-daniel",
+   "name": "Daniel P Losquadro",
+   "party": "Republican",
+   "office": "Suffolk County Comptroller, Suffolk County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-westchester-2026-white-plains-council-1yr-simmons-valerie",
+   "name": "Valerie Simmons",
+   "party": "Democratic",
+   "office": "White Plains Common Council Member (1-year unexpired term), White Plains, Westchester County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-westchester-2026-white-plains-council-1yr-guglielmo-kathy",
+   "name": "Kathy Guglielmo",
+   "party": "Republican",
+   "office": "White Plains Common Council Member (1-year unexpired term), White Plains, Westchester County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-westchester-2026-white-plains-council-3yr-caruso-thomas",
+   "name": "Thomas J. Caruso Jr.",
+   "party": "Democratic",
+   "office": "White Plains Common Council Member (3-year unexpired term), White Plains, Westchester County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-westchester-2026-white-plains-council-3yr-cambareri-john",
+   "name": "John Cambareri",
+   "party": "Republican",
+   "office": "White Plains Common Council Member (3-year unexpired term), White Plains, Westchester County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-board-chair-conroy-deb",
+   "name": "Deb Conroy",
+   "party": "Democratic",
+   "office": "DuPage County Board Chairperson, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-board-chair-grasso-gary",
+   "name": "Gary Grasso",
+   "party": "Republican",
+   "office": "DuPage County Board Chairperson, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-sheriff-coolidge-peter",
+   "name": "Peter Joseph Coolidge",
+   "party": "Democratic",
+   "office": "DuPage County Sheriff, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-sheriff-noonan-sean",
+   "name": "Sean T. Noonan",
+   "party": "Republican",
+   "office": "DuPage County Sheriff, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-clerk-garcia-paula",
+   "name": "Paula Deacon Garcia",
+   "party": "Democratic",
+   "office": "DuPage County Clerk, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-clerk-kladis-schiappa-patricia",
+   "name": "Patricia Kladis-Schiappa",
+   "party": "Republican",
+   "office": "DuPage County Clerk, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-treasurer-yoo-yeena",
+   "name": "Yeena Yoo",
+   "party": "Democratic",
+   "office": "DuPage County Treasurer, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-treasurer-henry-gwen",
+   "name": "Gwen Henry",
+   "party": "Republican",
+   "office": "DuPage County Treasurer, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-forest-preserve-president-hebreard-daniel",
+   "name": "Daniel Hebreard",
+   "party": "Democratic",
+   "office": "President, Forest Preserve District of DuPage County, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-dupage-2026-forest-preserve-president-schultz-carl",
+   "name": "Carl Schultz",
+   "party": "Republican",
+   "office": "President, Forest Preserve District of DuPage County, DuPage County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-lake-2026-clerk-vega-anthony",
+   "name": "Anthony Vega",
+   "party": "Democratic",
+   "office": "Lake County Clerk, Lake County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-lake-2026-treasurer-penaherrera-david",
+   "name": "David Penaherrera",
+   "party": "Republican",
+   "office": "Lake County Treasurer, Lake County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

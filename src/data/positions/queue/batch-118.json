@@ -1,0 +1,47 @@
+{
+ "batch": "118",
+ "createdAt": "2026-11-01T03:54:44.568Z",
+ "output": "src/data/positions/batch-118.json",
+ "candidates": [
+  {
+   "key": "mn-ramsey-2026-district-court-28-verdeja-jennifer",
+   "name": "Jennifer L. Verdeja",
+   "party": "Nonpartisan",
+   "office": "Judge 28 - District Court, 2nd Judicial District, Ramsey County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-clackamas-2026-justiceofthepeace-rastetter-kathleen",
+   "name": "Kathleen Rastetter",
+   "party": "Nonpartisan",
+   "office": "Clackamas County Justice of the Peace, Clackamas County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-clackamas-2026-circuit-pos5-brooks-kara",
+   "name": "Kara A Brooks",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, 5th District, Position 5, Clackamas County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-washington-2026-circuit-pos1-tourville-zohra",
+   "name": "Zohra Tourville",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, 20th District, Position 1, Washington County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

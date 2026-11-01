@@ -1,0 +1,307 @@
+{
+ "batch": "101",
+ "createdAt": "2026-11-01T03:54:44.564Z",
+ "output": "src/data/positions/batch-101.json",
+ "candidates": [
+  {
+   "key": "co-arapahoe-2026-treasurer-westerberg-michael",
+   "name": "Michael Westerberg",
+   "party": "Democratic",
+   "office": "County Treasurer, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": "https://www.westerbergfortreasurer.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-arapahoe-2026-assessor-kaiser-pk",
+   "name": "PK Kaiser",
+   "party": "Democratic",
+   "office": "County Assessor, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-arapahoe-2026-assessor-lind-jesse",
+   "name": "Jesse Lind",
+   "party": "Republican",
+   "office": "County Assessor, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": "https://jesselindforassessor.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-arapahoe-2026-sheriff-brown-tyler",
+   "name": "Tyler Scott Brown",
+   "party": "Democratic",
+   "office": "County Sheriff, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": "https://www.tylerbrownforsheriff.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-arapahoe-2026-sheriff-edling-kevin",
+   "name": "Kevin Scott Edling",
+   "party": "Republican",
+   "office": "County Sheriff, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": "https://kevinedlingforsheriff.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-arapahoe-2026-coroner-bitting-casey",
+   "name": "Casey Bitting",
+   "party": "Democratic",
+   "office": "County Coroner, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-commissioner-d3-vandenberg-stephanie",
+   "name": "Stephanie VandenBerg",
+   "party": "Republican",
+   "office": "County Commissioner, District 3 (elected countywide; candidate must live in District 3), Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-commissioner-d3-cutter-lisa",
+   "name": "Lisa A. Cutter",
+   "party": "Democratic",
+   "office": "County Commissioner, District 3 (elected countywide; candidate must live in District 3), Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-clerk-poston-paul",
+   "name": "Paul Poston",
+   "party": "Republican",
+   "office": "County Clerk and Recorder, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-clerk-hensel-nicole",
+   "name": "Nicole Hensel",
+   "party": "Democratic",
+   "office": "County Clerk and Recorder, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-treasurer-proctor-eric",
+   "name": "Eric Proctor",
+   "party": "Democratic",
+   "office": "County Treasurer, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-assessor-king-vera",
+   "name": "Vera King",
+   "party": "Republican",
+   "office": "County Assessor, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-assessor-kerr-andy",
+   "name": "Andy Kerr",
+   "party": "Democratic",
+   "office": "County Assessor, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-sheriff-marinelli-regina",
+   "name": "Regina \"Reggie\" Marinelli",
+   "party": "Democratic",
+   "office": "County Sheriff, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-sheriff-doizaki-randall",
+   "name": "Randall Doizaki",
+   "party": "Republican",
+   "office": "County Sheriff, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-surveyor-hennessy-robert",
+   "name": "Robert Hennessy",
+   "party": "Republican",
+   "office": "County Surveyor, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-coroner-lobello-nick",
+   "name": "Nick Lobello",
+   "party": "Democratic",
+   "office": "County Coroner, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-jefferson-2026-coroner-harmon-allison",
+   "name": "Allison Harmon",
+   "party": "Republican",
+   "office": "County Coroner, Jefferson County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-commission-a-bowen-jeanne",
+   "name": "Jeanne Marie Bowen",
+   "party": "Democratic",
+   "office": "County Commission Seat A, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-commission-a-kaufusi-michelle",
+   "name": "Michelle Kaufusi",
+   "party": "Republican",
+   "office": "County Commission Seat A, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-commission-b-allen-j",
+   "name": "J. Allen",
+   "party": "Democratic",
+   "office": "County Commission Seat B, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-commission-b-spencer-david",
+   "name": "David M. Spencer",
+   "party": "Republican",
+   "office": "County Commission Seat B, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-attorney-gray-jeff",
+   "name": "Jeff Gray",
+   "party": "Republican",
+   "office": "County Attorney, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-auditor-tanner-gina",
+   "name": "Gina Tanner",
+   "party": "Republican",
+   "office": "County Auditor, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-clerk-astill-corey",
+   "name": "Corey K Astill",
+   "party": "Republican",
+   "office": "County Clerk, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-utah-2026-sheriff-smith-mike",
+   "name": "Mike Smith",
+   "party": "Republican",
+   "office": "County Sheriff, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-alameda-2026-oakmayor-robinson-julius",
+   "name": "Julius Robinson",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Oakland (ranked-choice), Oakland, Alameda County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-alameda-2026-oakmayor-lee-barbara",
+   "name": "Barbara Lee",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Oakland (ranked-choice), Oakland, Alameda County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-alameda-2026-oakmayor-grisham-brenda",
+   "name": "Brenda F. Grisham",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Oakland (ranked-choice), Oakland, Alameda County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-alameda-2026-oakmayor-pechenuk-mindy",
+   "name": "Mindy Ruth Pechenuk",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Oakland (ranked-choice), Oakland, Alameda County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

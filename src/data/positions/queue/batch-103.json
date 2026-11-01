@@ -1,0 +1,307 @@
+{
+ "batch": "103",
+ "createdAt": "2026-11-01T03:54:44.565Z",
+ "output": "src/data/positions/batch-103.json",
+ "candidates": [
+  {
+   "key": "tx-collin-2026-weston-ald-mcmanus-john",
+   "name": "John McManus",
+   "party": "Nonpartisan",
+   "office": "Alderman, City of Weston, Weston, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-weston-ald-hill-mike",
+   "name": "Mike Hill",
+   "party": "Nonpartisan",
+   "office": "Alderman, City of Weston, Weston, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-weston-ald-johnston-marla",
+   "name": "Marla Johnston",
+   "party": "Nonpartisan",
+   "office": "Alderman, City of Weston, Weston, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-dcad-p1-cox-angie",
+   "name": "Angie Cox",
+   "party": "Nonpartisan",
+   "office": "Denton Central Appraisal District Board of Directors, Place 1, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-dcad-p2-welker-curtiss",
+   "name": "Curtiss Welker",
+   "party": "Nonpartisan",
+   "office": "Denton Central Appraisal District Board of Directors, Place 2, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-dcad-p3-guzman-rick",
+   "name": "Rick Guzman",
+   "party": "Nonpartisan",
+   "office": "Denton Central Appraisal District Board of Directors, Place 3, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-dcad-p3-irungu-edwin",
+   "name": "Edwin Irungu",
+   "party": "Nonpartisan",
+   "office": "Denton Central Appraisal District Board of Directors, Place 3, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-fbcad-p1-john-martin",
+   "name": "Martin John",
+   "party": "Nonpartisan",
+   "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 1, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-fbcad-p1-chatriwala-shaizad",
+   "name": "Shaizad \"Sam\" Chatriwala",
+   "party": "Nonpartisan",
+   "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 1, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-fbcad-p2-vohra-muzaffar",
+   "name": "Muzaffar Vohra",
+   "party": "Nonpartisan",
+   "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 2, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-fbcad-p2-druke-dayna",
+   "name": "Dayna Druke",
+   "party": "Nonpartisan",
+   "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 2, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-fbcad-p3-malik-ameer",
+   "name": "Ameer Malik",
+   "party": "Nonpartisan",
+   "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 3, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-mcad-p1-inman-dale",
+   "name": "Dale Inman",
+   "party": "Nonpartisan",
+   "office": "Montgomery Central Appraisal District, Board of Directors, Place 1, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-mcad-p1-beck-gary",
+   "name": "Gary Beck",
+   "party": "Nonpartisan",
+   "office": "Montgomery Central Appraisal District, Board of Directors, Place 1, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-mcad-p2-smith-frank",
+   "name": "Frank S. Smith",
+   "party": "Nonpartisan",
+   "office": "Montgomery Central Appraisal District, Board of Directors, Place 2, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-mcad-p2-mixon-creg",
+   "name": "Creg Mixon",
+   "party": "Nonpartisan",
+   "office": "Montgomery Central Appraisal District, Board of Directors, Place 2, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-mcad-p3-tavel-sherry",
+   "name": "Sherry D. Tavel",
+   "party": "Nonpartisan",
+   "office": "Montgomery Central Appraisal District, Board of Directors, Place 3, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-mcad-p3-melder-webb",
+   "name": "Webb Melder",
+   "party": "Nonpartisan",
+   "office": "Montgomery Central Appraisal District, Board of Directors, Place 3, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p1-hardy-rebecca",
+   "name": "Rebecca Hardy",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p1-haynes-byron",
+   "name": "Byron Haynes",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p1-grissom-phyllis",
+   "name": "Phyllis Durbin Grissom",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p1-syed-sayeda",
+   "name": "Sayeda Bilquees Syed",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p2-sharma-ambika",
+   "name": "Ambika Sharma",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p2-cheshire-cary",
+   "name": "Cary Cheshire",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p2-stockard-paul",
+   "name": "Paul Stockard",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p2-hobbs-marshall",
+   "name": "Marshall Hobbs",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p3-adams-john",
+   "name": "John Adams",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 3, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-tad-p3-bryant-matt",
+   "name": "Matt Bryant",
+   "party": "Nonpartisan",
+   "office": "Tarrant Appraisal District Board of Directors, At-Large, Place 3, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-wcad-p1-hisle-piper-hope",
+   "name": "Hope Hisle-Piper",
+   "party": "Nonpartisan",
+   "office": "Williamson Central Appraisal District Board of Directors, Place 1, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-wcad-p1-stephenson-clint",
+   "name": "Clint Stephenson",
+   "party": "Nonpartisan",
+   "office": "Williamson Central Appraisal District Board of Directors, Place 1, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "100",
+ "createdAt": "2026-11-01T03:54:44.564Z",
+ "output": "src/data/positions/batch-100.json",
+ "candidates": [
+  {
+   "key": "md-baltimore-county-2026-exec-dyer-patrick",
+   "name": "Patrick V. Dyer",
+   "party": "Republican",
+   "office": "County Executive, Baltimore County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-county-2026-sa-david-sarah",
+   "name": "Sarah R. David",
+   "party": "Democratic",
+   "office": "State's Attorney, Baltimore County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-county-2026-register-burrell-rohde-alexis",
+   "name": "Alexis Burrell-Rohde",
+   "party": "Democratic",
+   "office": "Register of Wills, Baltimore County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-county-2026-register-schroeder-nicole",
+   "name": "Nicole Schroeder",
+   "party": "Republican",
+   "office": "Register of Wills, Baltimore County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-county-2026-sheriff-boatwright-clyde",
+   "name": "Clyde E. Boatwright",
+   "party": "Democratic",
+   "office": "Sheriff, Baltimore County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-county-2026-sheriff-burke-michael",
+   "name": "Michael F. Burke",
+   "party": "Republican",
+   "office": "Sheriff, Baltimore County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-prince-georges-2026-exec-braveboy-aisha",
+   "name": "Aisha Braveboy",
+   "party": "Democratic",
+   "office": "County Executive, Prince George's County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-prince-georges-2026-council-atlarge-harrison-sydney",
+   "name": "Sydney Harrison",
+   "party": "Democratic",
+   "office": "County Council At Large, Prince George's County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.votesydneyharrison.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-prince-georges-2026-council-atlarge-ivey-jolene",
+   "name": "Jolene Ivey",
+   "party": "Democratic",
+   "office": "County Council At Large, Prince George's County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://joleneivey.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-prince-georges-2026-sa-jackson-tara",
+   "name": "Tara Jackson",
+   "party": "Democratic",
+   "office": "State's Attorney, Prince George's County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.votetarajackson.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-prince-georges-2026-register-route-jocelyn",
+   "name": "Jocelyn Route",
+   "party": "Democratic",
+   "office": "Register of Wills, Prince George's County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-prince-georges-2026-sheriff-carr-john",
+   "name": "John D. B. Carr",
+   "party": "Democratic",
+   "office": "Sheriff, Prince George's County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-executive-ehlmann-steve",
+   "name": "Steve Ehlmann",
+   "party": "Republican",
+   "office": "County Executive, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-executive-veneziano-david",
+   "name": "David Veneziano",
+   "party": "Democratic",
+   "office": "County Executive, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-director-elections-bahr-kurt",
+   "name": "Kurt Bahr",
+   "party": "Republican",
+   "office": "Director of Elections, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-recorder-dempsey-mary",
+   "name": "Mary E Dempsey",
+   "party": "Republican",
+   "office": "Recorder of Deeds, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-prosecutor-mcculloch-joseph",
+   "name": "Joseph G McCulloch",
+   "party": "Republican",
+   "office": "Prosecuting Attorney, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-collector-mcbride-michelle",
+   "name": "Michelle D McBride",
+   "party": "Republican",
+   "office": "Collector of Revenue, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-sheriff-lewis-scott",
+   "name": "Scott A. Lewis",
+   "party": "Republican",
+   "office": "Sheriff, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stcharles-2026-assessor-welge-travis",
+   "name": "Travis Welge",
+   "party": "Republican",
+   "office": "County Assessor, St. Charles County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-waukesha-2026-sheriff-ollinger-nick",
+   "name": "Nick Ollinger",
+   "party": "Republican",
+   "office": "Waukesha County Sheriff, Waukesha County, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-adams-2026-clerk-zygielbaum-josh",
+   "name": "Josh Zygielbaum",
+   "party": "Democratic",
+   "office": "County Clerk and Recorder, Adams County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-adams-2026-clerk-hoopes-karen",
+   "name": "Karen Hoopes",
+   "party": "Republican",
+   "office": "County Clerk and Recorder, Adams County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-adams-2026-treasurer-anaya-ledeboer-jason",
+   "name": "Jason Anaya-Ledeboer",
+   "party": "Democratic",
+   "office": "County Treasurer, Adams County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-adams-2026-assessor-swingle-thomas",
+   "name": "Thomas Swingle",
+   "party": "Democratic",
+   "office": "County Assessor, Adams County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-adams-2026-sheriff-goodell-mark",
+   "name": "Mark Goodell",
+   "party": "Republican",
+   "office": "County Sheriff, Adams County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-adams-2026-sheriff-claps-gene",
+   "name": "Gene R. Claps",
+   "party": "Democratic",
+   "office": "County Sheriff, Adams County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-adams-2026-coroner-broncucia-jordan-monica",
+   "name": "Monica Broncucia-Jordan",
+   "party": "Democratic",
+   "office": "County Coroner, Adams County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-arapahoe-2026-clerk-lopez-joan",
+   "name": "Joan Lopez",
+   "party": "Democratic",
+   "office": "County Clerk and Recorder, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-arapahoe-2026-clerk-budd-annette",
+   "name": "Annette Budd",
+   "party": "Republican",
+   "office": "County Clerk and Recorder, Arapahoe County, Colorado",
+   "state": "CO",
+   "knownWebsite": "https://annetteforarapahoe.com",
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

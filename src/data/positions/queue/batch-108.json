@@ -1,0 +1,307 @@
+{
+ "batch": "108",
+ "createdAt": "2026-11-01T03:54:44.566Z",
+ "output": "src/data/positions/batch-108.json",
+ "candidates": [
+  {
+   "key": "ut-utah-2026-clerk-rampton-russ",
+   "name": "Russ J Rampton",
+   "party": "Other",
+   "office": "County Clerk, Utah County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-johnson-2026-commission-chair-crnkovich-karen",
+   "name": "Karen Crnkovich",
+   "party": "Nonpartisan",
+   "office": "Johnson County Commission Chairman (nonpartisan), Johnson County, Kansas",
+   "state": "KS",
+   "knownWebsite": "https://www.kcforjoco.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ks-johnson-2026-commission-chair-kelly-mike",
+   "name": "Mike Kelly",
+   "party": "Nonpartisan",
+   "office": "Johnson County Commission Chairman (nonpartisan), Johnson County, Kansas",
+   "state": "KS",
+   "knownWebsite": "https://www.mikeforjoco.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-county-judge-hill-chris",
+   "name": "Chris Hill",
+   "party": "Republican",
+   "office": "County Judge, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-county-judge-brown-john",
+   "name": "John R. Buster Brown",
+   "party": "Democratic",
+   "office": "County Judge, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-coa5-p3-kolodoski-matthew",
+   "name": "Matthew Kolodoski",
+   "party": "Republican",
+   "office": "Justice, 5th Court of Appeals District, Place 3, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-coa5-p3-reichek-amanda",
+   "name": "Amanda Reichek",
+   "party": "Democratic",
+   "office": "Justice, 5th Court of Appeals District, Place 3, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-coa5-p6-smith-ben",
+   "name": "Ben Smith",
+   "party": "Republican",
+   "office": "Justice, 5th Court of Appeals District, Place 6, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-coa5-p6-purdy-monica",
+   "name": "Monica Purdy",
+   "party": "Democratic",
+   "office": "Justice, 5th Court of Appeals District, Place 6, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-coa5-p8-wysocki-ashley",
+   "name": "Ashley Wysocki",
+   "party": "Republican",
+   "office": "Justice, 5th Court of Appeals District, Place 8, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-coa5-p8-plumlee-andrea",
+   "name": "Andrea D. Plumlee",
+   "party": "Democratic",
+   "office": "Justice, 5th Court of Appeals District, Place 8, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-dist-219-edgeworth-jennifer",
+   "name": "Jennifer Edgeworth",
+   "party": "Republican",
+   "office": "District Judge, 219th Judicial District, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-dist-296-mccraw-piper",
+   "name": "Piper McCraw",
+   "party": "Republican",
+   "office": "District Judge, 296th Judicial District, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-dist-366-nowak-tom",
+   "name": "Tom Nowak",
+   "party": "Republican",
+   "office": "District Judge, 366th Judicial District, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-dist-417-wheless-cyndi",
+   "name": "Cyndi McCrann Wheless",
+   "party": "Republican",
+   "office": "District Judge, 417th Judicial District, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-dist-429-willis-jill",
+   "name": "Jill Willis",
+   "party": "Republican",
+   "office": "District Judge, 429th Judicial District, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-dist-471-gantt-bryan",
+   "name": "Bryan Gantt",
+   "party": "Republican",
+   "office": "District Judge, 471st Judicial District, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-dist-494-pruitt-kathryn",
+   "name": "Kathryn Pruitt",
+   "party": "Republican",
+   "office": "District Judge, 494th Judicial District, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-ccl-1-mason-corinne",
+   "name": "Corinne Mason",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 1, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-ccl-2-walker-barnett",
+   "name": "Barnett Walker",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 2, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-ccl-3-baxter-lance",
+   "name": "Lance S. Baxter",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 3, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-ccl-4-rippel-david",
+   "name": "David Rippel",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 4, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-ccl-5-johnson-randy",
+   "name": "Randy Johnson",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 5, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-ccl-6-bender-jay",
+   "name": "Jay A. Bender",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 6, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-ccl-7-waddill-david",
+   "name": "David Waddill",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 7, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-probate-duff-sarah",
+   "name": "Sarah R. Duff",
+   "party": "Republican",
+   "office": "Judge, County Probate Court, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-county-judge-eads-andy",
+   "name": "Andy Eads",
+   "party": "Republican",
+   "office": "County Judge, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-county-judge-pappas-nick",
+   "name": "Nick Pappas",
+   "party": "Democratic",
+   "office": "County Judge, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-coa2-p2-taylor-chris",
+   "name": "Chris Taylor",
+   "party": "Republican",
+   "office": "Justice, 2nd Court of Appeals District, Place 2, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-coa2-p7-walker-brian",
+   "name": "Brian Walker",
+   "party": "Republican",
+   "office": "Justice, 2nd Court of Appeals District, Place 7, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

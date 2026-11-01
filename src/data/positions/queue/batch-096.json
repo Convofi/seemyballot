@@ -1,0 +1,307 @@
+{
+ "batch": "096",
+ "createdAt": "2026-11-01T03:54:44.563Z",
+ "output": "src/data/positions/batch-096.json",
+ "candidates": [
+  {
+   "key": "ca-alameda-2026-boe2-lieber-sally",
+   "name": "Sally J. Lieber",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, Alameda County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-alameda-2026-boe2-pimentel-john",
+   "name": "John Pimentel",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, Alameda County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-contra-costa-2026-boe2-lieber-sally",
+   "name": "Sally J. Lieber",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, Contra Costa County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-contra-costa-2026-boe2-pimentel-john",
+   "name": "John Pimentel",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, Contra Costa County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-boe2-lieber-sally",
+   "name": "Sally J. Lieber",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-boe2-pimentel-john",
+   "name": "John Pimentel",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-cda-willis-greg",
+   "name": "Greg Willis",
+   "party": "Republican",
+   "office": "Criminal District Attorney, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-district-clerk-gould-mike",
+   "name": "Mike Gould",
+   "party": "Republican",
+   "office": "District Clerk, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-county-clerk-kemp-stacey",
+   "name": "Stacey Kemp",
+   "party": "Republican",
+   "office": "County Clerk, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-county-clerk-russell-john",
+   "name": "John Russell",
+   "party": "Democratic",
+   "office": "County Clerk, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-cda-johnson-paul",
+   "name": "Paul Johnson",
+   "party": "Republican",
+   "office": "Criminal District Attorney, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-district-clerk-trantham-david",
+   "name": "David Trantham",
+   "party": "Republican",
+   "office": "District Clerk, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-county-clerk-luke-juli",
+   "name": "Juli Luke",
+   "party": "Republican",
+   "office": "County Clerk, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-county-clerk-frey-dale",
+   "name": "Dale Frey",
+   "party": "Democratic",
+   "office": "County Clerk, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-denton-2026-treasurer-brown-cindy",
+   "name": "Cindy Yeatts Brown",
+   "party": "Republican",
+   "office": "County Treasurer, Denton County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-da-mcdonald-shawn",
+   "name": "Shawn McDonald",
+   "party": "Republican",
+   "office": "District Attorney, 268th Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-da-middleton-brian",
+   "name": "Brian M Middleton",
+   "party": "Democratic",
+   "office": "District Attorney, 268th Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-district-clerk-lee-audrey",
+   "name": "Audrey Lee",
+   "party": "Republican",
+   "office": "District Clerk, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-district-clerk-mcgrew-walker-beverley",
+   "name": "Beverley McGrew Walker",
+   "party": "Democratic",
+   "office": "District Clerk, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-county-clerk-mcfarlane-tamara",
+   "name": "Tamara McFarlane",
+   "party": "Republican",
+   "office": "County Clerk, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-county-clerk-jones-sonya",
+   "name": "Sonya Jones",
+   "party": "Democratic",
+   "office": "County Clerk, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-treasurer-rickert-bill",
+   "name": "Bill Rickert",
+   "party": "Republican",
+   "office": "County Treasurer, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-treasurer-boney-jeffrey",
+   "name": "Jeffrey L Boney",
+   "party": "Democratic",
+   "office": "County Treasurer, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-da-holley-mike",
+   "name": "Mike Holley",
+   "party": "Republican",
+   "office": "District Attorney, 9th Judicial District - Unexpired Term, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-district-clerk-miller-melisa",
+   "name": "Melisa Miller",
+   "party": "Republican",
+   "office": "District Clerk, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-county-clerk-steinmann-brandon",
+   "name": "Brandon Steinmann",
+   "party": "Republican",
+   "office": "County Clerk, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-county-treasurer-bush-melanie",
+   "name": "Melanie K. Bush",
+   "party": "Republican",
+   "office": "County Treasurer, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-cda-sorrells-phil",
+   "name": "Phil Sorrells",
+   "party": "Republican",
+   "office": "Criminal District Attorney, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-cda-burks-tiffany",
+   "name": "Tiffany Burks",
+   "party": "Democratic",
+   "office": "Criminal District Attorney, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-district-clerk-wilder-tom",
+   "name": "Tom Wilder",
+   "party": "Republican",
+   "office": "District Clerk, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

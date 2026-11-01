@@ -1,0 +1,307 @@
+{
+ "batch": "112",
+ "createdAt": "2026-11-01T03:54:44.567Z",
+ "output": "src/data/positions/batch-112.json",
+ "candidates": [
+  {
+   "key": "tx-tarrant-2026-fdj325-griffin-andy",
+   "name": "Andy Griffin",
+   "party": "Democratic",
+   "office": "Family District Judge, 325th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-county-judge-o-hare-tim",
+   "name": "Tim O'Hare",
+   "party": "Republican",
+   "office": "County Judge, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-county-judge-simmons-alisa",
+   "name": "Alisa Simmons",
+   "party": "Democratic",
+   "office": "County Judge, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccl1-pierson-don",
+   "name": "Don Pierson",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccl2-rymell-jennifer",
+   "name": "Jennifer Rymell",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccl3-hrabal-mike",
+   "name": "Mike Hrabal",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 3, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc1-cook-david",
+   "name": "David Cook",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc2-walker-carey",
+   "name": "Carey Walker",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc3-mccoy-bob",
+   "name": "Bob McCoy",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 3, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc4-nekhom-deborah",
+   "name": "Deborah Nekhom",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 4, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc5-clark-brad",
+   "name": "Brad Clark",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 5, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc5-billhymer-julya",
+   "name": "Julya \"Jujubill\" Billhymer",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court No. 5, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc6-hartin-randi",
+   "name": "Randi Hartin",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 6, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc7-starnes-eric",
+   "name": "Eric Starnes",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 7, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc8-vanover-charles",
+   "name": "Charles L. \"Chuck\" Vanover",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 8, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc9-bolton-brian",
+   "name": "Brian Bolton",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 9, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc9-pamplin-lesa",
+   "name": "Lesa Pamplin",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court No. 9, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-ccc10-loftin-trent",
+   "name": "Trent Loftin",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court No. 10, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-probate1-burns-patricia",
+   "name": "Patricia Burns",
+   "party": "Republican",
+   "office": "Judge, County Probate Court No. 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-probate2-bell-brook",
+   "name": "Brook Bell",
+   "party": "Republican",
+   "office": "Judge, County Probate Court No. 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-county-judge-snell-steve",
+   "name": "Steve Snell",
+   "party": "Republican",
+   "office": "County Judge, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-county-judge-jefts-heather",
+   "name": "Heather Jefts",
+   "party": "Democratic",
+   "office": "County Judge, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-coa3-chief-liu-cory",
+   "name": "Cory Liu",
+   "party": "Republican",
+   "office": "Chief Justice, 3rd Court of Appeals District, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-coa3-chief-byrne-darlene",
+   "name": "Darlene Byrne",
+   "party": "Democratic",
+   "office": "Chief Justice, 3rd Court of Appeals District, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-dj277-mathews-stacey",
+   "name": "Stacey Mathews",
+   "party": "Republican",
+   "office": "District Judge, 277th Judicial District, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-dj368-bruchmiller-sarah",
+   "name": "Sarah Bruchmiller",
+   "party": "Republican",
+   "office": "District Judge, 368th Judicial District, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-dj480-unexp-davis-terence",
+   "name": "Terence Davis",
+   "party": "Republican",
+   "office": "District Judge, 480th Judicial District, Unexpired Term, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-dj512-moore-sarah",
+   "name": "Sarah Moore",
+   "party": "Republican",
+   "office": "District Judge, 512th Judicial District, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-dj512-booker-leslie",
+   "name": "Leslie Booker",
+   "party": "Democratic",
+   "office": "District Judge, 512th Judicial District, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-williamson-2026-ccl1-hallford-brandy",
+   "name": "Brandy Hallford",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 1, Williamson County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "102",
+ "createdAt": "2026-11-01T03:54:44.565Z",
+ "output": "src/data/positions/batch-102.json",
+ "candidates": [
+  {
+   "key": "ca-alameda-2026-oakauditor-houston-michael",
+   "name": "Michael C. Houston",
+   "party": "Nonpartisan",
+   "office": "City Auditor, City of Oakland (ranked-choice), Oakland, Alameda County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-contra-costa-2026-richmond-mayor-jimenez-claudia",
+   "name": "Claudia Jiménez",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Richmond, Richmond, Contra Costa County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-contra-costa-2026-richmond-mayor-anderson-ahmad",
+   "name": "Ahmad Anderson",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Richmond, Richmond, Contra Costa County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-contra-costa-2026-concord-treasurer-barsotti-patti",
+   "name": "Patti Barsotti",
+   "party": "Nonpartisan",
+   "office": "City Treasurer, City of Concord, Concord, Contra Costa County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-orange-2026-anaheim-mayor-aitken-ashleigh",
+   "name": "Ashleigh Aitken",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Anaheim, Anaheim, Orange County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-orange-2026-anaheim-mayor-rodriguez-alfredo",
+   "name": "Alfredo Rodriguez",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Anaheim, Anaheim, Orange County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-orange-2026-anaheim-mayor-sharief-imran",
+   "name": "Imran Sharief",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Anaheim, Anaheim, Orange County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-orange-2026-santa-ana-mayor-amezcua-valerie",
+   "name": "Valerie Amezcua",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Santa Ana, Santa Ana, Orange County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-orange-2026-santa-ana-mayor-shipp-dwayne",
+   "name": "Dwayne Shipp",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Santa Ana, Santa Ana, Orange County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-orange-2026-santa-ana-mayor-shimell-dan",
+   "name": "Dan Shimell",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Santa Ana, Santa Ana, Orange County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-bernardino-2026-superintendent-vara-alejandro",
+   "name": "Alejandro \"Alex\" Vara",
+   "party": "Nonpartisan",
+   "office": "County Superintendent of Schools, San Bernardino County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.varaforschools.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-bernardino-2026-superintendent-binks-cali",
+   "name": "Cali Binks",
+   "party": "Nonpartisan",
+   "office": "County Superintendent of Schools, San Bernardino County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.cali4countyschools.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-dalycity-council-nuris-thomas",
+   "name": "Thomas A. Nuris",
+   "party": "Nonpartisan",
+   "office": "Member, City Council, Daly City, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": "https://tomnuris.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-dalycity-council-digiovanni-pamela",
+   "name": "Pamela DiGiovanni",
+   "party": "Nonpartisan",
+   "office": "Member, City Council, Daly City, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-dalycity-council-proano-teresa",
+   "name": "Teresa Proaño",
+   "party": "Nonpartisan",
+   "office": "Member, City Council, Daly City, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": "https://teresaproano.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-dalycity-council-bayudan-tony",
+   "name": "Tony Bayudan",
+   "party": "Nonpartisan",
+   "office": "Member, City Council, Daly City, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": "https://tonybayudan.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-dalycity-council-daus-magbual-rod",
+   "name": "Rod Daus-Magbual",
+   "party": "Nonpartisan",
+   "office": "Member, City Council, Daly City, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.roddausmagbual.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-dalycity-council-su-asia",
+   "name": "Asia Su",
+   "party": "Nonpartisan",
+   "office": "Member, City Council, Daly City, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-san-mateo-2026-dalycity-council-rodriguez-barry",
+   "name": "Barry Rodriguez",
+   "party": "Nonpartisan",
+   "office": "Member, City Council, Daly City, San Mateo County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-cad-p1-shinn-randal",
+   "name": "Randal Shinn",
+   "party": "Nonpartisan",
+   "office": "Collin County Appraisal District Board of Directors, Place 1, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-cad-p2-smith-michael",
+   "name": "Michael G. Smith",
+   "party": "Nonpartisan",
+   "office": "Collin County Appraisal District Board of Directors, Place 2, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-cad-p2-cook-andrew",
+   "name": "Andrew Cook",
+   "party": "Nonpartisan",
+   "office": "Collin County Appraisal District Board of Directors, Place 2, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-cad-p3-corcoran-joe",
+   "name": "Joe Corcoran",
+   "party": "Nonpartisan",
+   "office": "Collin County Appraisal District Board of Directors, Place 3, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-josephine-mayor-chappell-gary",
+   "name": "Gary Chappell",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Josephine, Josephine, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-josephine-ald-p3-caserotti-john",
+   "name": "John Caserotti",
+   "party": "Nonpartisan",
+   "office": "Alderman, Place 3, City of Josephine, Josephine, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-josephine-ald-p3-esquivel-alex",
+   "name": "Alex Esquivel",
+   "party": "Nonpartisan",
+   "office": "Alderman, Place 3, City of Josephine, Josephine, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-josephine-ald-p5-brown-lloyd",
+   "name": "Lloyd D. Brown",
+   "party": "Nonpartisan",
+   "office": "Alderman, Place 5, City of Josephine, Josephine, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-josephine-ald-p5-teel-matthew",
+   "name": "Matthew Teel",
+   "party": "Nonpartisan",
+   "office": "Alderman, Place 5, City of Josephine, Josephine, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-weston-ald-goldstein-epi",
+   "name": "Epi Goldstein",
+   "party": "Nonpartisan",
+   "office": "Alderman, City of Weston, Weston, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-collin-2026-weston-ald-bragg-tanner",
+   "name": "Tanner Bragg",
+   "party": "Nonpartisan",
+   "office": "Alderman, City of Weston, Weston, Collin County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

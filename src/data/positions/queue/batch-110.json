@@ -1,0 +1,307 @@
+{
+ "batch": "110",
+ "createdAt": "2026-11-01T03:54:44.566Z",
+ "output": "src/data/positions/batch-110.json",
+ "candidates": [
+  {
+   "key": "tx-fort-bend-2026-dist-328-lybarger-richard",
+   "name": "Richard Lybarger",
+   "party": "Republican",
+   "office": "District Judge, 328th Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-dist-328-rawlins-monica",
+   "name": "Monica Rawlins",
+   "party": "Democratic",
+   "office": "District Judge, 328th Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-dist-458-jaramillo-maggie",
+   "name": "Maggie Jaramillo",
+   "party": "Republican",
+   "office": "District Judge, 458th Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-dist-458-carter-tameika",
+   "name": "Tameika Carter",
+   "party": "Democratic",
+   "office": "District Judge, 458th Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-dist-501-bell-richard",
+   "name": "Richard T. Bell",
+   "party": "Republican",
+   "office": "District Judge, 501st Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-dist-501-mcgill-clayton-latosha",
+   "name": "Latosha McGill Clayton",
+   "party": "Democratic",
+   "office": "District Judge, 501st Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-dist-502-hanna-mark",
+   "name": "Mark H. Hanna",
+   "party": "Republican",
+   "office": "District Judge, 502nd Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-dist-502-glover-tamecia",
+   "name": "Tamecia Glover",
+   "party": "Democratic",
+   "office": "District Judge, 502nd Judicial District, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-county-judge-wong-daniel",
+   "name": "Daniel Wong",
+   "party": "Republican",
+   "office": "County Judge, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-county-judge-mccoy-dexter",
+   "name": "Dexter L McCoy",
+   "party": "Democratic",
+   "office": "County Judge, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-1-morales-chris",
+   "name": "Chris Morales",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 1, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-1-murray-nireasha",
+   "name": "Nireasha Murray",
+   "party": "Democratic",
+   "office": "Judge, County Court at Law No. 1, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-2-maljovec-jorden",
+   "name": "Jorden Maljovec",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 2, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-2-mccollum-tyra",
+   "name": "Tyra McCollum",
+   "party": "Democratic",
+   "office": "Judge, County Court at Law No. 2, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-3-jaramillo-jessica",
+   "name": "Jessica Jaramillo",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 3, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-3-mathew-juli",
+   "name": "Juli A. Mathew",
+   "party": "Democratic",
+   "office": "Judge, County Court at Law No. 3, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-4-moore-michael",
+   "name": "Michael Cody Moore",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 4, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-4-wallace-toni",
+   "name": "Toni Wallace",
+   "party": "Democratic",
+   "office": "Judge, County Court at Law No. 4, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-6-hrbacek-dean",
+   "name": "Dean Hrbacek",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 6, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-fort-bend-2026-ccl-6-longoria-stephen",
+   "name": "Stephen Longoria",
+   "party": "Democratic",
+   "office": "Judge, County Court at Law No. 6, Fort Bend County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-coa9-chief-golemon-scott",
+   "name": "Scott Golemon",
+   "party": "Republican",
+   "office": "Chief Justice, 9th Court of Appeals District, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-dist-221-michalk-lisa",
+   "name": "Lisa Michalk",
+   "party": "Republican",
+   "office": "District Judge, 221st Judicial District, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-dist-284-bays-kristin",
+   "name": "Kristin Bays",
+   "party": "Republican",
+   "office": "District Judge, 284th Judicial District, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-dist-359-ghutzman-michael",
+   "name": "Michael H. Ghutzman",
+   "party": "Republican",
+   "office": "District Judge, 359th Judicial District, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-county-judge-keough-mark",
+   "name": "Mark Keough",
+   "party": "Republican",
+   "office": "County Judge, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-county-judge-graf-james",
+   "name": "James Graf",
+   "party": "Democratic",
+   "office": "County Judge, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-ccl-1-hafley-john",
+   "name": "John C. Hafley",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 1, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-ccl-3-tucker-amy",
+   "name": "Amy Tucker",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 3, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-ccl-4-hutson-echo",
+   "name": "Echo Hutson",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 4, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-montgomery-2026-ccl-6-valdez-scharlene",
+   "name": "Scharlene White Valdez",
+   "party": "Republican",
+   "office": "Judge, County Court at Law No. 6, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

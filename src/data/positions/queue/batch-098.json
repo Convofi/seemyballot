@@ -1,0 +1,307 @@
+{
+ "batch": "098",
+ "createdAt": "2026-11-01T03:54:44.564Z",
+ "output": "src/data/positions/batch-098.json",
+ "candidates": [
+  {
+   "key": "il-lake-2026-treasurer-hart-sandy",
+   "name": "Sandy Hart",
+   "party": "Democratic",
+   "office": "Lake County Treasurer, Lake County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-lake-2026-sheriff-buchberger-roman",
+   "name": "Roman Buchberger",
+   "party": "Republican",
+   "office": "Lake County Sheriff, Lake County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-lake-2026-sheriff-idleburg-john",
+   "name": "John D. Idleburg",
+   "party": "Democratic",
+   "office": "Lake County Sheriff, Lake County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-lake-2026-regional-superintendent-karner-michael",
+   "name": "Michael L. Karner",
+   "party": "Democratic",
+   "office": "Regional Superintendent of Schools (Lake County), Lake County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-will-2026-clerk-parker-annette",
+   "name": "Annette Parker",
+   "party": "Republican",
+   "office": "Will County Clerk, Will County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-will-2026-clerk-stiff-michelle",
+   "name": "Michelle Stiff",
+   "party": "Democratic",
+   "office": "Will County Clerk, Will County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-will-2026-sheriff-reilly-james",
+   "name": "James \"Jim\" Reilly",
+   "party": "Republican",
+   "office": "Will County Sheriff, Will County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-will-2026-sheriff-jones-patrick",
+   "name": "Patrick Jones",
+   "party": "Democratic",
+   "office": "Will County Sheriff, Will County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-will-2026-treasurer-maurella-carmen",
+   "name": "Carmen Maurella III",
+   "party": "Republican",
+   "office": "Will County Treasurer, Will County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-will-2026-treasurer-brophy-tim",
+   "name": "Tim Brophy",
+   "party": "Democratic",
+   "office": "Will County Treasurer, Will County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-cobb-2026-solicitor-metzger-makia",
+   "name": "Makia Metzger",
+   "party": "Democratic",
+   "office": "Cobb County Solicitor General, Cobb County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-cobb-2026-surveyor-evans-chris",
+   "name": "Chris Evans",
+   "party": "Republican",
+   "office": "Cobb County Surveyor, Cobb County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-gwinnett-2026-solicitor-bristol-lisamarie",
+   "name": "Lisamarie N. Bristol",
+   "party": "Democratic",
+   "office": "Solicitor General of Gwinnett County, Gwinnett County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-durham-2026-sheriff-birkhead-clarence",
+   "name": "Clarence F. Birkhead",
+   "party": "Democratic",
+   "office": "Durham County Sheriff, Durham County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-durham-2026-district-attorney-deberry-satana",
+   "name": "Satana Deberry",
+   "party": "Democratic",
+   "office": "District Attorney, District 16, Durham County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-macomb-2026-county-executive-hackel-mark",
+   "name": "Mark A. Hackel",
+   "party": "Democratic",
+   "office": "County Executive (4-year term), Macomb County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-macomb-2026-county-executive-moore-richard",
+   "name": "Richard Moore",
+   "party": "Republican",
+   "office": "County Executive (4-year term), Macomb County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-county-executive-hennessey-todd",
+   "name": "Todd H. Hennessey",
+   "party": "Republican",
+   "office": "County Executive, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-county-executive-tedesco-james",
+   "name": "James J. Tedesco III",
+   "party": "Democratic",
+   "office": "County Executive, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-county-clerk-walsh-timothy",
+   "name": "Timothy C. Walsh",
+   "party": "Republican",
+   "office": "County Clerk, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-county-clerk-hogan-john",
+   "name": "John S. Hogan",
+   "party": "Democratic",
+   "office": "County Clerk, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-surrogate-conte-joseph",
+   "name": "Joseph Stephen Conte",
+   "party": "Republican",
+   "office": "Surrogate, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-surrogate-schwager-linda",
+   "name": "Linda H. Schwager",
+   "party": "Democratic",
+   "office": "Surrogate, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-commissioner-dinice-john",
+   "name": "John DiNice",
+   "party": "Republican",
+   "office": "Members of the Board of County Commissioners, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-commissioner-laman-maria",
+   "name": "Maria Soledad Laman",
+   "party": "Republican",
+   "office": "Members of the Board of County Commissioners, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-commissioner-voss-joan",
+   "name": "Joan M. Voss",
+   "party": "Democratic",
+   "office": "Members of the Board of County Commissioners, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-bergen-2026-commissioner-marte-rafael",
+   "name": "Rafael Marte",
+   "party": "Democratic",
+   "office": "Members of the Board of County Commissioners, Bergen County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-essex-2026-county-executive-mathews-maritza",
+   "name": "Maritza Mathews",
+   "party": "Republican",
+   "office": "County Executive, Essex County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-essex-2026-county-executive-divincenzo-joseph",
+   "name": "Joseph N. DiVincenzo, Jr.",
+   "party": "Democratic",
+   "office": "County Executive, Essex County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nj-essex-2026-commissioner-at-large-eley-demetrius",
+   "name": "Demetrius Eley",
+   "party": "Republican",
+   "office": "Board of County Commissioners At Large, Essex County, New Jersey",
+   "state": "NJ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

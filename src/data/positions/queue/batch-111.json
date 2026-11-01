@@ -1,0 +1,307 @@
+{
+ "batch": "111",
+ "createdAt": "2026-11-01T03:54:44.567Z",
+ "output": "src/data/positions/batch-111.json",
+ "candidates": [
+  {
+   "key": "tx-montgomery-2026-probate-1-laird-claudia",
+   "name": "Claudia Laird",
+   "party": "Republican",
+   "office": "Judge, County Probate Court No. 1, Montgomery County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-coa2-p2-taylor-chris",
+   "name": "Chris Taylor",
+   "party": "Republican",
+   "office": "Justice, 2nd Court of Appeals District, Place 2, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-coa2-p7-walker-brian",
+   "name": "Brian Walker",
+   "party": "Republican",
+   "office": "Justice, 2nd Court of Appeals District, Place 7, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj141-chupp-john",
+   "name": "John P. Chupp",
+   "party": "Republican",
+   "office": "District Judge, 141st Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj213-ferry-michael",
+   "name": "Michael Ferry",
+   "party": "Republican",
+   "office": "District Judge, 213th Judicial District - Unexpired Term, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj213-kamphaus-arthurine",
+   "name": "Arthurine \"AnhThu\" Kamphaus",
+   "party": "Democratic",
+   "office": "District Judge, 213th Judicial District - Unexpired Term, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj236-fillmore-dusty",
+   "name": "Dusty Fillmore",
+   "party": "Republican",
+   "office": "District Judge, 236th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj236-kim-katherine",
+   "name": "Katherine \"Kate\" Kim",
+   "party": "Democratic",
+   "office": "District Judge, 236th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj297-allin-amy",
+   "name": "Amy Allin",
+   "party": "Republican",
+   "office": "District Judge, 297th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj297-howey-fred",
+   "name": "Fred Howey",
+   "party": "Democratic",
+   "office": "District Judge, 297th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj371-hill-ryan",
+   "name": "Ryan Hill",
+   "party": "Republican",
+   "office": "District Judge, 371st Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj371-clayton-marquetta",
+   "name": "Marquetta \"MarQ\" Clayton",
+   "party": "Democratic",
+   "office": "District Judge, 371st Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj372-lugo-julie",
+   "name": "Julie Lugo",
+   "party": "Republican",
+   "office": "District Judge, 372nd Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj432-sorrells-lee",
+   "name": "Lee Sorrells",
+   "party": "Republican",
+   "office": "District Judge, 432nd Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj432-miller-courtney",
+   "name": "Courtney Miller",
+   "party": "Democratic",
+   "office": "District Judge, 432nd Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-dj485-jumes-steven",
+   "name": "Steven Jumes",
+   "party": "Republican",
+   "office": "District Judge, 485th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-cdj1-wagner-sherri",
+   "name": "Sherri Wagner",
+   "party": "Republican",
+   "office": "Criminal District Judge, Court No. 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-cdj1-stormer-cindy",
+   "name": "Cindy Stormer",
+   "party": "Democratic",
+   "office": "Criminal District Judge, Court No. 1, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-cdj3-allen-douglas",
+   "name": "Douglas Allen",
+   "party": "Republican",
+   "office": "Criminal District Judge, Court No. 3, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-cdj4-porter-andy",
+   "name": "Andy Porter",
+   "party": "Republican",
+   "office": "Criminal District Judge, Court No. 4, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-cdj4-brender-john",
+   "name": "John Brender",
+   "party": "Democratic",
+   "office": "Criminal District Judge, Court No. 4, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj231-barrows-leslie",
+   "name": "Leslie Barrows",
+   "party": "Republican",
+   "office": "Family District Judge, 231st Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj231-newell-lyndsay",
+   "name": "Lyndsay Newell",
+   "party": "Democratic",
+   "office": "Family District Judge, 231st Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj233-newell-kenneth",
+   "name": "Kenneth E. Newell",
+   "party": "Republican",
+   "office": "Family District Judge, 233rd Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj322-munford-james",
+   "name": "James B. Munford",
+   "party": "Republican",
+   "office": "Family District Judge, 322nd Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj323-kim-alex",
+   "name": "Alex Kim",
+   "party": "Republican",
+   "office": "Family District Judge, 323rd Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj323-willett-brian",
+   "name": "Brian Willett",
+   "party": "Democratic",
+   "office": "Family District Judge, 323rd Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj324-hsu-andy",
+   "name": "Andy Hsu",
+   "party": "Republican",
+   "office": "Family District Judge, 324th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj324-gayden-crystal",
+   "name": "Crystal Gayden",
+   "party": "Democratic",
+   "office": "Family District Judge, 324th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-tarrant-2026-fdj325-terry-cynthia",
+   "name": "Cynthia Terry",
+   "party": "Republican",
+   "office": "Family District Judge, 325th Judicial District, Tarrant County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}
