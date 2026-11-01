@@ -41,8 +41,10 @@ export default function CandidatePositions({ data }: { data: Data }) {
         <p className="mt-1 text-sm text-ink-3">
           We couldn&apos;t read their campaign site automatically; check it below for their positions.
         </p>
+      ) : data.status === "website_no_issues_page" ? (
+        <p className="mt-1 text-sm text-ink-3">Their campaign site doesn&apos;t state positions on issues.</p>
       ) : (
-        <p className="mt-1 text-sm text-ink-3">No campaign website with an issues page found.</p>
+        <p className="mt-1 text-sm text-ink-3">No campaign website found.</p>
       )}
     </div>
   );
