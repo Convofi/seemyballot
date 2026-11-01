@@ -1,0 +1,134 @@
+{
+  "state": "VA",
+  "county": "Fairfax County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.fairfaxcounty.gov/elections/sample-ballots",
+    "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Full.pdf",
+    "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Herndon_Full.pdf",
+    "https://www.fairfaxcounty.gov/bond/sites/bond/files/Assets/Documents/2026%20Plain%20Language%20Statements/Parks%20PLS%20Web%20English.pdf",
+    "https://www.fairfaxcounty.gov/bond/sites/bond/files/Assets/Documents/2026%20Plain%20Language%20Statements/CHHS%20PLS%20Web%20English.pdf",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Local-Offices-Candidate-List-(rev-10-9-2026).xlsx"
+  ],
+  "note": "Fairfax County's Board of Supervisors, constitutional officers and School Board are not elected in 2026, and no countywide special election is on this ballot. The City of Fairfax and the City of Falls Church are separate jurisdictions with their own ballots. Town of Vienna and Town of Clifton offices are not on the November 2026 ballot. Check your official sample ballot.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Parks and Park Facilities Bonds",
+      "title": "Parks and Park Facilities Bonds",
+      "summary": "Asks whether Fairfax County may borrow up to $180,000,000 by issuing general obligation bonds for the Fairfax County Park Authority. The money would pay to acquire, build, develop and equip new parks and park facilities, preserve open-space land, and improve existing parks. The county's explanation lists current plans such as new parks and amenities, repairs to existing park facilities, rec center renovations (including Audrey Moore Rec Center), ecological restoration, historic site preservation and parkland acquisition.",
+      "yesMeans": "Fairfax County is authorized to issue up to $180,000,000 in bonds for parks and park facilities.",
+      "noMeans": "Fairfax County is not authorized to issue these park bonds.",
+      "source": "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Full.pdf",
+      "moreInfo": "https://www.fairfaxcounty.gov/bond/sites/bond/files/Assets/Documents/2026%20Plain%20Language%20Statements/Parks%20PLS%20Web%20English.pdf"
+    },
+    {
+      "id": "Community Health and Human Services Facilities Bonds",
+      "title": "Community Health and Human Services Facilities Bonds",
+      "summary": "Asks whether Fairfax County may borrow up to $75,000,000 by issuing general obligation bonds for community health and human services facilities, including building, rebuilding, enlarging and equipping facilities and buying land. The county's explanation says it currently plans $35,000,000 to renovate or replace the Joanne Jorgenson Public Health Laboratory and $40,000,000 to renovate or replace facilities at the Tim Harmon Campus (A New Beginning, Fairfax Detox Center and the Cornerstone Facility).",
+      "yesMeans": "Fairfax County is authorized to issue up to $75,000,000 in bonds for community health and human services facilities.",
+      "noMeans": "Fairfax County is not authorized to issue these health and human services facility bonds.",
+      "source": "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Full.pdf",
+      "moreInfo": "https://www.fairfaxcounty.gov/bond/sites/bond/files/Assets/Documents/2026%20Plain%20Language%20Statements/CHHS%20PLS%20Web%20English.pdf"
+    }
+  ],
+  "municipalities": {
+    "Herndon": {
+      "contests": [
+        {
+          "office": "Mayor, Town of Herndon",
+          "candidates": [
+            {
+              "key": "va-fairfax-2026-herndon-mayor-leblanc-keven",
+              "name": "Keven J LeBlanc, Jr",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Herndon_Full.pdf"
+        },
+        {
+          "office": "Member Town Council, Town of Herndon",
+          "seats": 6,
+          "candidates": [
+            {
+              "key": "va-fairfax-2026-herndon-council-ezekilov-josif",
+              "name": "Josif N. Ezekilov",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-del-aguila-cesar",
+              "name": "Cesar A. Del Aguila",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-mejia-douglas",
+              "name": "Douglas Isaac \"Doug\" Mejia",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-bruce-sabrina",
+              "name": "Sabrina A. Bruce",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-garcia-kelvin",
+              "name": "Kelvin Garcia",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-shafiq-yasmin",
+              "name": "Yasmin \"Soniya\" Shafiq",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-yohannes-meron",
+              "name": "Meron T. Yohannes",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-hedrick-clark",
+              "name": "Clark A. Hedrick",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-lloyd-michael",
+              "name": "Michael T. Lloyd",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-britt-justin",
+              "name": "Justin K. Britt",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-reyes-alexis",
+              "name": "Alexis \"Alex\" Reyes",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "va-fairfax-2026-herndon-council-porter-stevan",
+              "name": "Stevan Michael Porter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Herndon_Full.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

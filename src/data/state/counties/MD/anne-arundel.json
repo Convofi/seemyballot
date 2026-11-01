@@ -1,0 +1,198 @@
+{
+  "state": "MD",
+  "county": "Anne Arundel County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_all_counties_candidatelist.html",
+    "https://www.circuitcourt.org/about-us/judges",
+    "https://www.circuitcourt.org/clerk-circuit-court",
+    "https://registers.maryland.gov/main/annearundel.html",
+    "https://www.mdcourts.gov/sites/default/files/import/orphanscourt/pdfs/ocjudgesregisters.pdf",
+    "https://www.aacounty.org/sheriff",
+    "https://www.aacounty.org/states-attorney",
+    "https://www.aacounty.org/county-executive"
+  ],
+  "note": "County Council district seats (Districts 1-7) are not shown; check your official sample ballot for your district. Anne Arundel County has no at-large County Council seats, and no Board of Education contests appear on the 2026 general election ballot. City of Annapolis elections are held in odd-numbered years, so there are no Annapolis city contests or questions on this ballot.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-anne-arundel-2026-exec-pickard-allison",
+          "name": "Allison M. Pickard",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-anne-arundel-2026-exec-crawford-dave",
+          "name": "Dave Crawford",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 5 (vote for up to 2)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "md-anne-arundel-2026-circuit-adams-elizabeth",
+          "name": "Elizabeth Adams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-anne-arundel-2026-circuit-butcher-sidney",
+          "name": "Sidney A. Butcher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-anne-arundel-2026-circuit-jackson-stevenson-ginina",
+          "name": "Ginina A. Jackson-Stevenson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-anne-arundel-2026-sa-leitess-anne",
+          "name": "Anne Colt Leitess",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-anne-arundel-2026-clerk-fowler-mk",
+          "name": "MK Fowler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-anne-arundel-2026-clerk-graham-douglas",
+          "name": "Douglas Finbar Graham",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-anne-arundel-2026-register-jackson-jasmine",
+          "name": "Jasmine M. Jackson",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-anne-arundel-2026-register-lambert-jason",
+          "name": "Jason D. Lambert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-anne-arundel-2026-orphans-moyer-loni",
+          "name": "Loni Moyer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-anne-arundel-2026-orphans-oconnell-matt",
+          "name": "Matt O'Connell",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-anne-arundel-2026-orphans-scott-stacey",
+          "name": "Stacey Scott",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-anne-arundel-2026-orphans-carr-york-maureen",
+          "name": "Maureen Carr-York",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-anne-arundel-2026-orphans-mcconkey-tony",
+          "name": "Tony McConkey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-anne-arundel-2026-orphans-rzepkowski-alan",
+          "name": "Alan Rzepkowski",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-anne-arundel-2026-sheriff-sesker-everett",
+          "name": "Everett Sesker",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-anne-arundel-2026-sheriff-fredericks-jim",
+          "name": "Jim Fredericks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Charter Amendment: Executive Branch - Merit System - Binding Arbitration",
+      "summary": "Amends the Anne Arundel County Charter to let all authorized employee representatives enter into binding arbitration with the County to resolve labor disputes over terms and conditions of employment. Currently only representatives of uniformed firefighters and uniformed officers of the County Police Department, Sheriff's Department, and Office of Detention Facilities may do so.",
+      "yesMeans": "All authorized county employee representatives could use binding arbitration to resolve labor disputes over terms and conditions of employment.",
+      "noMeans": "Only representatives of uniformed firefighters and uniformed police, sheriff, and detention officers could continue to use binding arbitration.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "id": "Question B",
+      "title": "Charter Amendment: Legislative Branch - Officers - Specific Position Titles",
+      "summary": "Amends the County Charter to remove specific position titles from the officers appointed by the County Council. Currently the Charter provides that the Council has an Administrative Officer it appoints, plus other officers provided for in the Council's Rules of Procedure.",
+      "yesMeans": "The Charter would no longer list specific position titles for the officers the County Council may appoint.",
+      "noMeans": "The Charter would still require the County Council to appoint an officer titled Administrative Officer.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    },
+    {
+      "id": "Question C",
+      "title": "Charter Amendment: Executive Branch - Planning Advisory Board - Staggered Terms - Council Confirmation",
+      "summary": "Amends the County Charter to give the seven members of the Planning Advisory Board staggered terms and to require County Council confirmation of the County Executive's appointees, starting December 2026. Initial terms would range from one to four years, with four-year terms for all members after that. Currently members are appointed by the County Executive without Council confirmation and serve terms that run with the County Executive's term.",
+      "yesMeans": "Planning Advisory Board members would serve staggered terms and the County Executive's appointees would need County Council confirmation.",
+      "noMeans": "Planning Advisory Board members would keep terms tied to the County Executive's term and be appointed without County Council confirmation.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/AnneArundel.pdf"
+    }
+  ],
+  "municipalities": {}
+}
