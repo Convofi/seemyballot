@@ -1,0 +1,307 @@
+{
+ "batch": "082",
+ "createdAt": "2026-11-01T03:04:30.241Z",
+ "output": "src/data/positions/batch-082.json",
+ "candidates": [
+  {
+   "key": "tx-harris-2026-ccl-civil2-montgomery-mark",
+   "name": "Mark Montgomery",
+   "party": "Republican",
+   "office": "Judge, County Civil Court at Law No. 2, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil2-williams-ebony",
+   "name": "Ebony N. Williams",
+   "party": "Democratic",
+   "office": "Judge, County Civil Court at Law No. 2, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil3-garcia-israel",
+   "name": "Israel Garcia",
+   "party": "Republican",
+   "office": "Judge, County Civil Court at Law No. 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil3-williams-lashawn",
+   "name": "LaShawn A. Williams",
+   "party": "Democratic",
+   "office": "Judge, County Civil Court at Law No. 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil4-donovan-john",
+   "name": "John Donovan",
+   "party": "Republican",
+   "office": "Judge, County Civil Court at Law No. 4, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil4-singh-m-monica",
+   "name": "M.Monica Singh",
+   "party": "Democratic",
+   "office": "Judge, County Civil Court at Law No. 4, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil5-fason-richard",
+   "name": "Richard Lanier Fason",
+   "party": "Republican",
+   "office": "Judge, County Civil Court at Law No. 5 - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil5-thomas-jermaine",
+   "name": "Jermaine Thomas",
+   "party": "Democratic",
+   "office": "Judge, County Civil Court at Law No. 5 - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal1-swanson-erin",
+   "name": "Erin Swanson",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 1, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal1-salgado-alex",
+   "name": "Alex Salgado",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 1, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal2-alford-matt",
+   "name": "Matt Alford",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 2, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal2-perez-matthew",
+   "name": "Matthew Ruben Perez",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 2, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal3-johnson-leslie",
+   "name": "Leslie R. Johnson",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal3-aguayo-carlos",
+   "name": "Carlos Alberto Aguayo",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal4-aceto-rebecca",
+   "name": "Rebecca Philips Aceto",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 4, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal4-baldwin-shannon",
+   "name": "Shannon B. Baldwin",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 4, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal5-stevens-stella",
+   "name": "Stella Stevens",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 5, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal5-fleischer-david",
+   "name": "David M. Fleischer",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 5, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal6-normand-joshua",
+   "name": "Joshua Normand",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 6, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal6-andrews-kelley",
+   "name": "Kelley Andrews",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 6, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal7-brodrick-thomas",
+   "name": "Thomas Adam Brodrick",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 7, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal7-wright-andrew",
+   "name": "Andrew A. Wright",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 7, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal8-flores-victor",
+   "name": "Victor Flores",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 8, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal8-ramirez-erika",
+   "name": "Erika Ramirez",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 8, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal9-alfaro-xavier",
+   "name": "Xavier Alfaro",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 9, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal9-finch-toria",
+   "name": "Toria J. Finch",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 9, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal10-hoang-bao",
+   "name": "Bao Hoang",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 10, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal10-jackson-juanita",
+   "name": "Juanita A. Jackson",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 10, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal11-buss-elizabeth",
+   "name": "Elizabeth Buss",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 11, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal11-walker-sedrick",
+   "name": "Sedrick T. Walker II",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 11, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

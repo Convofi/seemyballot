@@ -1,0 +1,307 @@
+{
+ "batch": "074",
+ "createdAt": "2026-11-01T03:04:30.240Z",
+ "output": "src/data/positions/batch-074.json",
+ "candidates": [
+  {
+   "key": "tn-shelby-2026-millington-alderman-4-everitt-chris",
+   "name": "Chris Everitt",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 4, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-4-higgins-gordon",
+   "name": "Gordon \"Gordo\" Higgins",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 4, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-4-perales-john",
+   "name": "John \"Johnny\" Perales",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 4, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-7-denson-chris",
+   "name": "Chris Denson",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 7 (unexpired term), Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-7-reed-charles",
+   "name": "Charles P. Reed",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 7 (unexpired term), Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-7-smith-gavin",
+   "name": "Gavin Smith",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 7 (unexpired term), Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-7-turner-ann",
+   "name": "Ann Turner",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 7 (unexpired term), Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-city-2026-boe-atlarge-day-jamar",
+   "name": "Jamar Day",
+   "party": "Nonpartisan",
+   "office": "Board of Education At Large (vote for up to 2), Baltimore city, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-city-2026-boe-atlarge-esposito-ashley",
+   "name": "Ashley Ash Esposito",
+   "party": "Nonpartisan",
+   "office": "Board of Education At Large (vote for up to 2), Baltimore city, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.ashleyesposito.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-city-2026-boe-atlarge-flowers-domonique",
+   "name": "Domonique A. Flowers",
+   "party": "Nonpartisan",
+   "office": "Board of Education At Large (vote for up to 2), Baltimore city, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.domoniqueflowers.com",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-city-2026-boe-atlarge-kenyatta-bey-kwame",
+   "name": "Kwame Jamal Kenyatta-Bey",
+   "party": "Nonpartisan",
+   "office": "Board of Education At Large (vote for up to 2), Baltimore city, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-boe-atlarge-diaz-brenda",
+   "name": "Brenda M. Diaz",
+   "party": "Nonpartisan",
+   "office": "Board of Education At Large, Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://diazforboe.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-boe-atlarge-lazo-omar",
+   "name": "Omar Lazo",
+   "party": "Nonpartisan",
+   "office": "Board of Education At Large, Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.omarlazo4boe.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-recorder-bauer-jerome",
+   "name": "Jerome H. Bauer",
+   "party": "Green",
+   "office": "Recorder of Deeds, St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-school-board-jones-donna",
+   "name": "Donna R. Jones",
+   "party": "Nonpartisan",
+   "office": "Member of the Board of Education, St. Louis Public Schools (four-year term), St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-school-board-goss-wendy",
+   "name": "Wendy Goss",
+   "party": "Nonpartisan",
+   "office": "Member of the Board of Education, St. Louis Public Schools (four-year term), St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-school-board-hubbard-emily",
+   "name": "Emily Hubbard",
+   "party": "Nonpartisan",
+   "office": "Member of the Board of Education, St. Louis Public Schools (four-year term), St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-school-board-jones-aneetra",
+   "name": "Aneetra Williams Jones",
+   "party": "Nonpartisan",
+   "office": "Member of the Board of Education, St. Louis Public Schools (four-year term), St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-school-board-davis-zach",
+   "name": "Zach Davis",
+   "party": "Nonpartisan",
+   "office": "Member of the Board of Education, St. Louis Public Schools (four-year term), St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-executive-mcfarland-j",
+   "name": "J D McFarland",
+   "party": "Green",
+   "office": "County Executive, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-prosecutor-brown-theo",
+   "name": "Theo Brown Sr.",
+   "party": "Libertarian",
+   "office": "Prosecuting Attorney, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-assessor-brown-austin",
+   "name": "Austin Brown",
+   "party": "Green",
+   "office": "County Assessor, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-reyes-alfredo",
+   "name": "Alfredo Reyes",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-traylor-whitney",
+   "name": "Whitney Traylor",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-walker-jeff",
+   "name": "Jeff Walker",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-soto-julissa",
+   "name": "Julissa Soto",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-konkle-gabriel",
+   "name": "Gabriel Konkle",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-diaz-cynthia",
+   "name": "Cynthia Diaz",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-mejia-melissa",
+   "name": "Melissa Adriana Mejía",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-browne-jake",
+   "name": "Jake Browne",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

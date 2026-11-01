@@ -1,0 +1,307 @@
+{
+ "batch": "081",
+ "createdAt": "2026-11-01T03:04:30.241Z",
+ "output": "src/data/positions/batch-081.json",
+ "candidates": [
+  {
+   "key": "tx-harris-2026-dist263-morris-melissa",
+   "name": "Melissa Marie Morris",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 263rd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist482-honeycutt-bryan",
+   "name": "Bryan Honeycutt",
+   "party": "Republican",
+   "office": "Criminal District Judge, 482nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist482-nelson-veronica",
+   "name": "Veronica M. Nelson",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 482nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist486-velasquez-vanessa",
+   "name": "Vanessa Velasquez",
+   "party": "Republican",
+   "office": "Criminal District Judge, 486th Judicial District - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist486-wilson-kathryn",
+   "name": "Kathryn \"Katie\" Wilson",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 486th Judicial District - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist495-deangelo-lori",
+   "name": "Lori Ann DeAngelo",
+   "party": "Republican",
+   "office": "Criminal District Judge, 495th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist495-hill-tiffany",
+   "name": "Tiffany M. Hill",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 495th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist496-simons-dan",
+   "name": "Dan Simons",
+   "party": "Republican",
+   "office": "Criminal District Judge, 496th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist496-franklin-ramona",
+   "name": "Ramona Franklin",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 496th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist497-peebles-peyton",
+   "name": "Peyton Peebles",
+   "party": "Republican",
+   "office": "Criminal District Judge, 497th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist497-schwartz-breanna",
+   "name": "Breanna Schwartz",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 497th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist245-vlahakos-paula",
+   "name": "Paula Vlahakos",
+   "party": "Republican",
+   "office": "Family District Judge, 245th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist245-lancelin-angela",
+   "name": "Angela M Lancelin",
+   "party": "Democratic",
+   "office": "Family District Judge, 245th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist246-graves-harrington-angela",
+   "name": "Angela Graves-Harrington",
+   "party": "Democratic",
+   "office": "Family District Judge, 246th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist247-berg-janice",
+   "name": "Janice Berg",
+   "party": "Democratic",
+   "office": "Family District Judge, 247th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist257-peake-sandra",
+   "name": "Sandra Peake",
+   "party": "Democratic",
+   "office": "Family District Judge, 257th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist280-cardenas-rose",
+   "name": "Rose Cardenas",
+   "party": "Republican",
+   "office": "Family District Judge, 280th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist280-curvey-damiane",
+   "name": "Damiane Dianne Curvey",
+   "party": "Democratic",
+   "office": "Family District Judge, 280th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist308-lopez-gloria",
+   "name": "Gloria Lopez",
+   "party": "Democratic",
+   "office": "Family District Judge, 308th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist309-fertel-melissa",
+   "name": "Melissa Fertel",
+   "party": "Republican",
+   "office": "Family District Judge, 309th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist309-dunson-linda",
+   "name": "Linda Marie Dunson",
+   "party": "Democratic",
+   "office": "Family District Judge, 309th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist310-heath-sonya",
+   "name": "Sonya L. Heath",
+   "party": "Democratic",
+   "office": "Family District Judge, 310th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist311-radler-joe",
+   "name": "Joe Radler",
+   "party": "Republican",
+   "office": "Family District Judge, 311th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist311-tanner-germaine",
+   "name": "Germaine Janet Tanner",
+   "party": "Democratic",
+   "office": "Family District Judge, 311th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist312-guillen-jesus",
+   "name": "Jesus Guillen",
+   "party": "Republican",
+   "office": "Family District Judge, 312th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist312-waldrop-teresa",
+   "name": "Teresa Waldrop",
+   "party": "Democratic",
+   "office": "Family District Judge, 312th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-judge-sanchez-orlando",
+   "name": "Orlando Sanchez",
+   "party": "Republican",
+   "office": "County Judge, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-judge-plummer-letitia",
+   "name": "Letitia Plummer",
+   "party": "Democratic",
+   "office": "County Judge, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil1-king-jamie",
+   "name": "Jamie King",
+   "party": "Republican",
+   "office": "Judge, County Civil Court at Law No. 1, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-civil1-lopez-sonia",
+   "name": "Sonia Lopez",
+   "party": "Democratic",
+   "office": "Judge, County Civil Court at Law No. 1, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

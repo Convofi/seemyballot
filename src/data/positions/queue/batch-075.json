@@ -1,0 +1,307 @@
+{
+ "batch": "075",
+ "createdAt": "2026-11-01T03:04:30.240Z",
+ "output": "src/data/positions/batch-075.json",
+ "candidates": [
+  {
+   "key": "co-denver-2026-council-atlarge-b-martinez-monica",
+   "name": "Monica Martinez",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "co-denver-2026-council-atlarge-b-doane-raymon",
+   "name": "Raymon Anthony Doane",
+   "party": "Nonpartisan",
+   "office": "Denver City Council At-Large, Seat B (vacancy election), Denver County, Colorado",
+   "state": "CO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-county-attorney-folk-anders",
+   "name": "Anders Folk",
+   "party": "Nonpartisan",
+   "office": "County Attorney, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://www.andersfolk.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-county-attorney-frazier-cedrick",
+   "name": "Cedrick Frazier",
+   "party": "Nonpartisan",
+   "office": "County Attorney, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://www.cedrickfrazier.org/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-sheriff-banks-joseph",
+   "name": "Joseph Banks",
+   "party": "Nonpartisan",
+   "office": "County Sheriff, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://www.banks4sheriff.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-sheriff-witt-dawanna",
+   "name": "Dawanna Witt",
+   "party": "Nonpartisan",
+   "office": "County Sheriff, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://sheriffwitt.org/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-mayor-parrish-wright-shameka",
+   "name": "Shameka L. Parrish-Wright",
+   "party": "Nonpartisan",
+   "office": "Louisville Metro Mayor, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-mayor-greenberg-craig",
+   "name": "Craig Greenberg",
+   "party": "Nonpartisan",
+   "office": "Louisville Metro Mayor, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-soil-water-rooney-tyler",
+   "name": "Tyler Rooney",
+   "party": "Nonpartisan",
+   "office": "Soil and Water Conservation District Supervisor, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-soil-water-mayes-william",
+   "name": "William Donald Mayes",
+   "party": "Nonpartisan",
+   "office": "Soil and Water Conservation District Supervisor, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-multnomah-2026-chair-singleton-shannon",
+   "name": "Shannon Singleton",
+   "party": "Nonpartisan",
+   "office": "Multnomah County Chair, Multnomah County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-multnomah-2026-chair-brimedwards-julia",
+   "name": "Julia Brim-Edwards",
+   "party": "Nonpartisan",
+   "office": "Multnomah County Chair, Multnomah County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-multnomah-2026-chair-meieran-sharon",
+   "name": "Sharon Meieran",
+   "party": "Nonpartisan",
+   "office": "Multnomah County Chair, Multnomah County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-multnomah-2026-auditor-pexton-nicole",
+   "name": "Nicole Pexton",
+   "party": "Nonpartisan",
+   "office": "Multnomah County Auditor, Multnomah County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-multnomah-2026-sheriff-morriseyodonnell-nicole",
+   "name": "Nicole Morrisey O'Donnell",
+   "party": "Nonpartisan",
+   "office": "Multnomah County Sheriff, Multnomah County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "or-portland-2026-auditor-rede-simone",
+   "name": "Simone Rede",
+   "party": "Nonpartisan",
+   "office": "City of Portland Auditor, Portland, Multnomah County, Oregon",
+   "state": "OR",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-council-at-large-a-beglarian-gregory",
+   "name": "Gregory Beglarian",
+   "party": "Other",
+   "office": "County Council At-Large A, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-assessor-warren-lynette",
+   "name": "Lynette Warren",
+   "party": "Libertarian",
+   "office": "County Assessor, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-clerk-stamper-george",
+   "name": "George Stamper",
+   "party": "Libertarian",
+   "office": "County Clerk, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-recorder-borella-steven",
+   "name": "Steven T. Borella",
+   "party": "Libertarian",
+   "office": "County Recorder, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-treasurer-ferreira-tim",
+   "name": "Tim J. \"TJ\" Ferreira",
+   "party": "Libertarian",
+   "office": "County Treasurer, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-coa4-chief-richardson-bert",
+   "name": "Bert Richardson",
+   "party": "Republican",
+   "office": "Chief Justice, 4th Court of Appeals District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-coa4-chief-arteaga-antonia",
+   "name": "Antonia \"Toni\" Arteaga",
+   "party": "Democratic",
+   "office": "Chief Justice, 4th Court of Appeals District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-dist-45-alvarez-mary-lou",
+   "name": "Mary Lou Alvarez",
+   "party": "Democratic",
+   "office": "District Judge, 45th Judicial District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-dist-144-de-leon-michael",
+   "name": "Michael De Leon",
+   "party": "Democratic",
+   "office": "District Judge, 144th Judicial District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-dist-150-diaz-monique",
+   "name": "Monique Diaz",
+   "party": "Democratic",
+   "office": "District Judge, 150th Judicial District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-dist-186-escalona-kristina",
+   "name": "Kristina Escalona",
+   "party": "Democratic",
+   "office": "District Judge, 186th Judicial District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-dist-187-franco-stephanie",
+   "name": "Stephanie Franco",
+   "party": "Democratic",
+   "office": "District Judge, 187th Judicial District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-dist-224-flores-marisa",
+   "name": "Marisa Flores",
+   "party": "Democratic",
+   "office": "District Judge, 224th Judicial District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-dist-225-robertson-benjamin",
+   "name": "Benjamin Robertson",
+   "party": "Republican",
+   "office": "District Judge, 225th Judicial District, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

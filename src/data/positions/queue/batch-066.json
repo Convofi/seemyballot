@@ -1,0 +1,307 @@
+{
+ "batch": "066",
+ "createdAt": "2026-11-01T03:04:30.239Z",
+ "output": "src/data/positions/batch-066.json",
+ "candidates": [
+  {
+   "key": "fl-hillsborough-2026-bocc-d7-wostal-joshua",
+   "name": "Joshua Wostal",
+   "party": "Republican",
+   "office": "Board of County Commissioners District 7 (countywide), Hillsborough County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-hillsborough-2026-bocc-d7-rodriguez-aileen",
+   "name": "Aileen Rodriguez",
+   "party": "Democratic",
+   "office": "Board of County Commissioners District 7 (countywide), Hillsborough County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-orange-2026-clerk-of-courts-johnson-roberta",
+   "name": "Roberta Walton Johnson",
+   "party": "Democratic",
+   "office": "Clerk of Courts, Orange County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-bronx-2026-surrogate-gonzalez-nelida",
+   "name": "Nelida Malave Gonzalez",
+   "party": "Democratic",
+   "office": "Surrogate (Bronx County), Bronx County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-erie-2026-county-clerk-meyer-steven",
+   "name": "Steven G. Meyer",
+   "party": "Democratic",
+   "office": "Erie County Clerk, Erie County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-erie-2026-county-clerk-kearns-michael",
+   "name": "Michael P. Kearns",
+   "party": "Republican",
+   "office": "Erie County Clerk, Erie County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-monroe-2026-district-attorney-green-brian",
+   "name": "Brian Green",
+   "party": "Democratic",
+   "office": "District Attorney, Monroe County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ny-new-york-2026-surrogate-mella-rita",
+   "name": "Rita Mella",
+   "party": "Democratic",
+   "office": "Surrogate (New York County), New York County, New York",
+   "state": "NY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-board-president-preckwinkle-toni",
+   "name": "Toni Preckwinkle",
+   "party": "Democratic",
+   "office": "President of the Cook County Board of Commissioners, Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-clerk-gordon-monica",
+   "name": "Monica Gordon",
+   "party": "Democratic",
+   "office": "Cook County Clerk, Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-sheriff-dart-thomas",
+   "name": "Thomas J. Dart",
+   "party": "Democratic",
+   "office": "Cook County Sheriff, Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-treasurer-pappas-maria",
+   "name": "Maria Pappas",
+   "party": "Democratic",
+   "office": "Cook County Treasurer, Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-assessor-hynes-pat",
+   "name": "Pat Hynes",
+   "party": "Democratic",
+   "office": "Cook County Assessor, Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-mwrd-6yr-pennington-michelle",
+   "name": "Michelle Pennington",
+   "party": "Republican",
+   "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (full 6-year term, vote for up to 3), Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-mwrd-6yr-rueckert-timothy",
+   "name": "Timothy E. Rueckert",
+   "party": "Republican",
+   "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (full 6-year term, vote for up to 3), Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-mwrd-6yr-shestokas-jill",
+   "name": "Jill B. Shestokas",
+   "party": "Republican",
+   "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (full 6-year term, vote for up to 3), Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-mwrd-6yr-brady-davis-precious",
+   "name": "Precious Brady-Davis",
+   "party": "Democratic",
+   "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (full 6-year term, vote for up to 3), Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-mwrd-6yr-corral-sepulveda-eira",
+   "name": "Eira Lizeth Corral Sepúlveda",
+   "party": "Democratic",
+   "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (full 6-year term, vote for up to 3), Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-mwrd-6yr-mcelroy-kirkwood-beth",
+   "name": "Beth McElroy Kirkwood",
+   "party": "Democratic",
+   "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (full 6-year term, vote for up to 3), Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-mwrd-2yr-davis-cameron",
+   "name": "Cameron \"Cam\" Davis",
+   "party": "Democratic",
+   "office": "Commissioner, Metropolitan Water Reclamation District of Greater Chicago (unexpired 2-year term), Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-cuyahoga-2026-executive-ronayne-chris",
+   "name": "Chris Ronayne",
+   "party": "Democratic",
+   "office": "County Executive, Cuyahoga County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-commissioner-0101-owens-meeka",
+   "name": "Meeka Owens",
+   "party": "Democratic",
+   "office": "County Commissioner (term beginning 1/1/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-commissioner-0101-pearson-jonathan",
+   "name": "Jonathan Pearson",
+   "party": "Republican",
+   "office": "County Commissioner (term beginning 1/1/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-auditor-miranda-jessica",
+   "name": "Jessica E. Miranda",
+   "party": "Democratic",
+   "office": "County Auditor (term beginning 3/8/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-fulton-2026-commchair-tatum-eric",
+   "name": "Eric J. Tatum",
+   "party": "Republican",
+   "office": "Fulton County Commission Chairperson, Fulton County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-fulton-2026-commchair-ivory-mo",
+   "name": "Mo Ivory",
+   "party": "Democratic",
+   "office": "Fulton County Commission Chairperson, Fulton County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-commissioner-at-large-altman-leigh",
+   "name": "Leigh Altman",
+   "party": "Democratic",
+   "office": "Mecklenburg County Board of Commissioners At-Large, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-commissioner-at-large-townsend-ingram-yvette",
+   "name": "Yvette Townsend-Ingram",
+   "party": "Democratic",
+   "office": "Mecklenburg County Board of Commissioners At-Large, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-commissioner-at-large-griffin-arthur",
+   "name": "Arthur Griffin, Jr.",
+   "party": "Democratic",
+   "office": "Mecklenburg County Board of Commissioners At-Large, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-sheriff-mcfadden-garry",
+   "name": "Garry L. McFadden",
+   "party": "Democratic",
+   "office": "Mecklenburg County Sheriff, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

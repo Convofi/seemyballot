@@ -1,0 +1,307 @@
+{
+ "batch": "080",
+ "createdAt": "2026-11-01T03:04:30.241Z",
+ "output": "src/data/positions/batch-080.json",
+ "candidates": [
+  {
+   "key": "tx-harris-2026-dist313-strickling-amy",
+   "name": "Amy Strickling",
+   "party": "Republican",
+   "office": "Juvenile District Judge, 313th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist313-davis-samantha",
+   "name": "Samantha Y. Davis",
+   "party": "Democratic",
+   "office": "Juvenile District Judge, 313th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist314-moore-michelle",
+   "name": "Michelle Moore",
+   "party": "Democratic",
+   "office": "Juvenile District Judge, 314th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist315-brock-maria",
+   "name": "Maria Valeria Brock",
+   "party": "Republican",
+   "office": "Juvenile District Judge, 315th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist315-shapiro-leah",
+   "name": "Leah Shapiro",
+   "party": "Democratic",
+   "office": "Juvenile District Judge, 315th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist180-pierce-tami",
+   "name": "Tami C. Pierce",
+   "party": "Republican",
+   "office": "Criminal District Judge, 180th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist180-morales-stephanie",
+   "name": "Stephanie Morales",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 180th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist182-haynes-brent",
+   "name": "Brent Haynes",
+   "party": "Republican",
+   "office": "Criminal District Judge, 182nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist182-lacayo-danilo",
+   "name": "Danilo \"Danny\" Lacayo",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 182nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist183-long-lance",
+   "name": "Lance Long",
+   "party": "Republican",
+   "office": "Criminal District Judge, 183rd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist183-maldonado-julia",
+   "name": "Julia Maldonado",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 183rd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist184-hudson-heather",
+   "name": "Heather Hudson",
+   "party": "Republican",
+   "office": "Criminal District Judge, 184th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist184-thomas-katherine",
+   "name": "Katherine \"Kat\" Thomas",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 184th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist185-goldberg-mark",
+   "name": "Mark Goldberg",
+   "party": "Republican",
+   "office": "Criminal District Judge, 185th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist185-beall-andrea",
+   "name": "Andrea Beall",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 185th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist208-driver-stephen",
+   "name": "Stephen F. Driver",
+   "party": "Republican",
+   "office": "Criminal District Judge, 208th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist208-armstrong-beverly",
+   "name": "Beverly D. Armstrong",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 208th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist209-coveny-tony",
+   "name": "Tony Coveny",
+   "party": "Republican",
+   "office": "Criminal District Judge, 209th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist209-warren-brian",
+   "name": "Brian Edward Warren",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 209th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist228-dozier-caroline",
+   "name": "Caroline Dozier",
+   "party": "Republican",
+   "office": "Criminal District Judge, 228th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist228-almaguer-alyson",
+   "name": "Alyson Almaguer",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 228th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist230-long-megan",
+   "name": "Megan Long",
+   "party": "Republican",
+   "office": "Criminal District Judge, 230th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist230-morton-chris",
+   "name": "Chris Morton",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 230th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist232-silverman-chuck",
+   "name": "Chuck Silverman",
+   "party": "Republican",
+   "office": "Criminal District Judge, 232nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist232-hill-josh",
+   "name": "Josh Hill",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 232nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist248-overhuls-david",
+   "name": "David W. Overhuls",
+   "party": "Republican",
+   "office": "Criminal District Judge, 248th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist248-unger-hilary",
+   "name": "Hilary Unger",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 248th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist262-moss-nathan",
+   "name": "Nathan Moss",
+   "party": "Republican",
+   "office": "Criminal District Judge, 262nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist262-gray-lori",
+   "name": "Lori Chambers Gray",
+   "party": "Democratic",
+   "office": "Criminal District Judge, 262nd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist263-campo-jason",
+   "name": "Jason A. Campo",
+   "party": "Republican",
+   "office": "Criminal District Judge, 263rd Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

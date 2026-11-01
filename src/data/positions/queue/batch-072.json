@@ -1,0 +1,307 @@
+{
+ "batch": "072",
+ "createdAt": "2026-11-01T03:04:30.240Z",
+ "output": "src/data/positions/batch-072.json",
+ "candidates": [
+  {
+   "key": "il-cook-2026-cps-board-president-revuluri-sendhil",
+   "name": "Sendhil Revuluri",
+   "party": "Nonpartisan",
+   "office": "President of the Chicago Board of Education, Chicago, Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "il-cook-2026-cps-board-president-dominguez-hilario",
+   "name": "Hilario Dominguez",
+   "party": "Nonpartisan",
+   "office": "President of the Chicago Board of Education, Chicago, Cook County, Illinois",
+   "state": "IL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-fulton-2026-soilwater-placie-zane",
+   "name": "Zane Placie",
+   "party": "Nonpartisan",
+   "office": "Fulton Soil & Water Conservation District Supervisor, Fulton County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-fulton-2026-soilwater-rekuc-walter",
+   "name": "Walter S. Rekuc Jr.",
+   "party": "Nonpartisan",
+   "office": "Fulton Soil & Water Conservation District Supervisor, Fulton County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ga-fulton-2026-soilwater-ulseth-jason",
+   "name": "Jason Ulseth",
+   "party": "Nonpartisan",
+   "office": "Fulton Soil & Water Conservation District Supervisor, Fulton County, Georgia",
+   "state": "GA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-soil-water-bleiweis-barbara",
+   "name": "Barbara Bleiweis",
+   "party": "Nonpartisan",
+   "office": "Mecklenburg Soil and Water Conservation District Supervisor, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-soil-water-betterly-michael",
+   "name": "Michael Betterly",
+   "party": "Nonpartisan",
+   "office": "Mecklenburg Soil and Water Conservation District Supervisor, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-soil-water-tran-long",
+   "name": "Long Tran",
+   "party": "Nonpartisan",
+   "office": "Mecklenburg Soil and Water Conservation District Supervisor, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-soil-water-pearce-makenzie",
+   "name": "Makenzie Pearce",
+   "party": "Nonpartisan",
+   "office": "Mecklenburg Soil and Water Conservation District Supervisor, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-mecklenburg-2026-soil-water-king-jillian",
+   "name": "Jillian King",
+   "party": "Nonpartisan",
+   "office": "Mecklenburg Soil and Water Conservation District Supervisor, Mecklenburg County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-soil-water-farrell-elizabeth",
+   "name": "Beth Pugh Farrell",
+   "party": "Nonpartisan",
+   "office": "Wake Soil and Water Conservation District Supervisor, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-soil-water-white-james",
+   "name": "Jim White",
+   "party": "Nonpartisan",
+   "office": "Wake Soil and Water Conservation District Supervisor, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-soil-water-thomas-terence",
+   "name": "Terence Thomas",
+   "party": "Nonpartisan",
+   "office": "Wake Soil and Water Conservation District Supervisor, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-soil-water-lewis-brian",
+   "name": "Brian K. Lewis",
+   "party": "Nonpartisan",
+   "office": "Wake Soil and Water Conservation District Supervisor, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-soil-water-krop-samantha",
+   "name": "Samantha Krop",
+   "party": "Nonpartisan",
+   "office": "Wake Soil and Water Conservation District Supervisor, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-soil-water-grant-cincilla",
+   "name": "Cece Grant",
+   "party": "Nonpartisan",
+   "office": "Wake Soil and Water Conservation District Supervisor, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-raleigh-mayor-armstrong-ashleigh",
+   "name": "Ashleigh Heath Armstrong",
+   "party": "Nonpartisan",
+   "office": "City of Raleigh Mayor, Raleigh, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-raleigh-mayor-cowell-janet",
+   "name": "Janet Cowell",
+   "party": "Nonpartisan",
+   "office": "City of Raleigh Mayor, Raleigh, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-raleigh-council-at-large-bradley-joshua",
+   "name": "Joshua Bradley",
+   "party": "Nonpartisan",
+   "office": "City of Raleigh City Council At-Large, Raleigh, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-raleigh-council-at-large-forte-stormie",
+   "name": "Ms. Stormie Denise Forte",
+   "party": "Nonpartisan",
+   "office": "City of Raleigh City Council At-Large, Raleigh, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-raleigh-council-at-large-rinehart-clark",
+   "name": "Clark Rinehart",
+   "party": "Nonpartisan",
+   "office": "City of Raleigh City Council At-Large, Raleigh, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nc-wake-2026-raleigh-council-at-large-siddiqui-sana",
+   "name": "Sana Siddiqui",
+   "party": "Nonpartisan",
+   "office": "City of Raleigh City Council At-Large, Raleigh, Wake County, North Carolina",
+   "state": "NC",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wayne-2026-exec-olumba-john",
+   "name": "John Olumba",
+   "party": "Independent",
+   "office": "County Executive, Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-king-2026-prosecutor-manion-leesa",
+   "name": "Leesa Manion",
+   "party": "Nonpartisan",
+   "office": "King County Prosecuting Attorney, King County, Washington",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-king-2026-assessor-foxcurran-rob",
+   "name": "Rob Foxcurran",
+   "party": "Nonpartisan",
+   "office": "King County Assessor, King County, Washington",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-king-2026-assessor-scarimbolo-dominique",
+   "name": "Dominique M Scarimbolo",
+   "party": "Nonpartisan",
+   "office": "King County Assessor, King County, Washington",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wa-king-2026-elections-director-wise-julie",
+   "name": "Julie Wise",
+   "party": "Nonpartisan",
+   "office": "King County Director of Elections, King County, Washington",
+   "state": "WA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-maricopa-2026-mcccd-atlarge-crow-john",
+   "name": "John David Crow",
+   "party": "Nonpartisan",
+   "office": "Maricopa County Community College District Governing Board, At-Large, Maricopa County, Arizona",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "az-maricopa-2026-mcccd-atlarge-schwiebert-judy",
+   "name": "Judy Schwiebert",
+   "party": "Nonpartisan",
+   "office": "Maricopa County Community College District Governing Board, At-Large, Maricopa County, Arizona",
+   "state": "AZ",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-bartlett-mayor-parsons-david",
+   "name": "David Parsons",
+   "party": "Nonpartisan",
+   "office": "Mayor, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

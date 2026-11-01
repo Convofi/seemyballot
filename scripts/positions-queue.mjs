@@ -39,7 +39,10 @@ export const GROUPS = {
   3: "U.S. House nominees",
   4: "Other statewide executive offices",
   5: "Judicial / retention and everything else",
+  6: "Local judges (county files)",
 };
+// Yes/no retention questions: judges almost never run campaign sites; skipped.
+const RETENTION = /\b(retain|retention)\b/i;
 const JUDICIAL = /\b(judge|justice|court|retention|retain)\b/i;
 const GOVERNOR = /^(governor|lieutenant governor|lt\.? governor)\b(?! of )/i;
 // Statewide, but boards/trustees rather than executive offices.
@@ -117,8 +120,9 @@ function stateCandidates() {
     const name = stateName(st);
     const add = (contests, where, statewide) => {
       for (const contest of contests) {
+        if (!statewide && RETENTION.test(contest.office)) continue;
         const group = JUDICIAL.test(contest.office)
-          ? 5
+          ? (where ? 6 : 5)
           : statewide && GOVERNOR.test(contest.office)
             ? 2
             : statewide && !BOARD.test(contest.office)

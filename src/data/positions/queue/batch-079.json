@@ -1,0 +1,307 @@
+{
+ "batch": "079",
+ "createdAt": "2026-11-01T03:04:30.241Z",
+ "output": "src/data/positions/batch-079.json",
+ "candidates": [
+  {
+   "key": "tx-harris-2026-coa14-chief-jewell-kevin",
+   "name": "Kevin Jewell",
+   "party": "Republican",
+   "office": "Chief Justice, 14th Court of Appeals, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa14-chief-landau-sarah",
+   "name": "Sarah Beth Landau",
+   "party": "Democratic",
+   "office": "Chief Justice, 14th Court of Appeals, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa1-p3-frankfort-todd",
+   "name": "Todd Frankfort",
+   "party": "Republican",
+   "office": "Justice, 1st Court of Appeals District, Place 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa1-p3-rivas-molloy-veronica",
+   "name": "Veronica Rivas-Molloy",
+   "party": "Democratic",
+   "office": "Justice, 1st Court of Appeals District, Place 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa1-p4-gunn-david",
+   "name": "David Gunn",
+   "party": "Republican",
+   "office": "Justice, 1st Court of Appeals District, Place 4 - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa1-p4-countiss-julie",
+   "name": "Julie Countiss",
+   "party": "Democratic",
+   "office": "Justice, 1st Court of Appeals District, Place 4 - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa1-p5-caird-jessica",
+   "name": "Jessica Caird",
+   "party": "Republican",
+   "office": "Justice, 1st Court of Appeals District, Place 5, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa1-p5-guerra-amy",
+   "name": "Amy Guerra",
+   "party": "Democratic",
+   "office": "Justice, 1st Court of Appeals District, Place 5, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa14-p7-wise-ken",
+   "name": "Ken Wise",
+   "party": "Republican",
+   "office": "Justice, 14th Court of Appeals District, Place 7, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-coa14-p7-demond-william",
+   "name": "William Demond",
+   "party": "Democratic",
+   "office": "Justice, 14th Court of Appeals District, Place 7, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist55-copeland-nile",
+   "name": "Nile Copeland",
+   "party": "Republican",
+   "office": "Civil District Judge, 55th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist55-payne-latosha",
+   "name": "Latosha Lewis Payne",
+   "party": "Democratic",
+   "office": "Civil District Judge, 55th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist113-sullivan-paul",
+   "name": "Paul M. Sullivan",
+   "party": "Republican",
+   "office": "Civil District Judge, 113th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist113-collier-rabeea",
+   "name": "Rabeea Collier",
+   "party": "Democratic",
+   "office": "Civil District Judge, 113th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist157-fowler-gerald",
+   "name": "Gerald Fowler",
+   "party": "Republican",
+   "office": "Civil District Judge, 157th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist157-garrison-tanya",
+   "name": "Tanya Garrison",
+   "party": "Democratic",
+   "office": "Civil District Judge, 157th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist189-christopher-vance",
+   "name": "Vance Christopher",
+   "party": "Republican",
+   "office": "Civil District Judge, 189th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist189-craft-tamika",
+   "name": "Tamika \"Tami\" Craft",
+   "party": "Democratic",
+   "office": "Civil District Judge, 189th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist190-adams-aaron",
+   "name": "Aaron Adams",
+   "party": "Republican",
+   "office": "Civil District Judge, 190th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist190-miller-beau",
+   "name": "Beau Miller",
+   "party": "Democratic",
+   "office": "Civil District Judge, 190th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist234-harvey-david",
+   "name": "David \"Dave\" Harvey",
+   "party": "Republican",
+   "office": "Civil District Judge, 234th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist234-reeder-lauren",
+   "name": "Lauren Reeder",
+   "party": "Democratic",
+   "office": "Civil District Judge, 234th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist269-pawlak-celena",
+   "name": "Celena Guerra Pawlak",
+   "party": "Republican",
+   "office": "Civil District Judge, 269th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist269-sepolio-cory",
+   "name": "Cory Don Sepolio",
+   "party": "Democratic",
+   "office": "Civil District Judge, 269th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist270-staley-brian",
+   "name": "Brian Staley",
+   "party": "Republican",
+   "office": "Civil District Judge, 270th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist270-davis-dedra",
+   "name": "Dedra Davis",
+   "party": "Democratic",
+   "office": "Civil District Judge, 270th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist281-carmona-chris",
+   "name": "Chris Carmona",
+   "party": "Republican",
+   "office": "Civil District Judge, 281st Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist281-weems-christine",
+   "name": "Christine Weems",
+   "party": "Democratic",
+   "office": "Civil District Judge, 281st Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist295-travis-greg",
+   "name": "Greg Travis",
+   "party": "Republican",
+   "office": "Civil District Judge, 295th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-dist295-roth-donna",
+   "name": "Donna Roth",
+   "party": "Democratic",
+   "office": "Civil District Judge, 295th Judicial District, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

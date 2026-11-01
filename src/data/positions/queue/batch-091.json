@@ -1,0 +1,307 @@
+{
+ "batch": "091",
+ "createdAt": "2026-11-01T03:04:30.242Z",
+ "output": "src/data/positions/batch-091.json",
+ "candidates": [
+  {
+   "key": "md-baltimore-city-2026-circuit-tipton-hope",
+   "name": "Hope Tipton",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, Circuit 8 (vote for up to 6), Baltimore city, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-baltimore-city-2026-circuit-zaslow-levi",
+   "name": "Levi S. Zaslow",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, Circuit 8 (vote for up to 6), Baltimore city, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-circuit-burrell-sharon",
+   "name": "Sharon V. Burrell",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, Circuit 6 (vote for up to 4), Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.electsittingjudgesmcs.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-circuit-del-pino-victor",
+   "name": "Victor M. Del Pino",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, Circuit 6 (vote for up to 4), Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-circuit-dietrich-james",
+   "name": "James J. Dietrich",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, Circuit 6 (vote for up to 4), Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.electsittingjudgesmcs.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-circuit-mcqueen-catherine",
+   "name": "Catherine H. McQueen",
+   "party": "Nonpartisan",
+   "office": "Judge of the Circuit Court, Circuit 6 (vote for up to 4), Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://www.electsittingjudgesmcs.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-1-koch-william",
+   "name": "William H. Koch",
+   "party": "Nonpartisan",
+   "office": "Judge 1 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://www.reelectjudgekoch.org/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-5-meyer-kerry",
+   "name": "Kerry W. Meyer",
+   "party": "Nonpartisan",
+   "office": "Judge 5 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-14-eyler-dean",
+   "name": "Dean Eyler",
+   "party": "Nonpartisan",
+   "office": "Judge 14 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-16-maschka-jane",
+   "name": "Jane Maschka",
+   "party": "Nonpartisan",
+   "office": "Judge 16 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-19-brandt-gina",
+   "name": "Gina M Brandt",
+   "party": "Nonpartisan",
+   "office": "Judge 19 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-20-moreno-daniel",
+   "name": "Daniel C. Moreno",
+   "party": "Nonpartisan",
+   "office": "Judge 20 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-25-hatcher-michelle",
+   "name": "Michelle A. Hatcher",
+   "party": "Nonpartisan",
+   "office": "Judge 25 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-27-wilcox-matthew",
+   "name": "Matthew M. Wilcox",
+   "party": "Nonpartisan",
+   "office": "Judge 27 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-28-mathews-dominick",
+   "name": "Dominick D. Mathews",
+   "party": "Nonpartisan",
+   "office": "Judge 28 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-29-fellman-todd",
+   "name": "Todd M. Fellman",
+   "party": "Nonpartisan",
+   "office": "Judge 29 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://toddfellmanforjudge.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-30-olson-jennifer",
+   "name": "Jennifer Olson",
+   "party": "Nonpartisan",
+   "office": "Judge 30 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://www.judgejenniferolson.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-32-mokri-mariam",
+   "name": "Mariam Mokri",
+   "party": "Nonpartisan",
+   "office": "Judge 32 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": "https://judgemariammokri.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-35-west-sarah",
+   "name": "Sarah S. West",
+   "party": "Nonpartisan",
+   "office": "Judge 35 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-42-bartolomei-luis",
+   "name": "Luis A. Bartolomei",
+   "party": "Nonpartisan",
+   "office": "Judge 42 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-43-sullivan-bridget",
+   "name": "Bridget Ann Sullivan",
+   "party": "Nonpartisan",
+   "office": "Judge 43 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-47-marttila-kristen",
+   "name": "Kristen Marttila",
+   "party": "Nonpartisan",
+   "office": "Judge 47 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-54-froehle-emily",
+   "name": "Emily J. Froehle",
+   "party": "Nonpartisan",
+   "office": "Judge 54 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-56-gallia-carrie",
+   "name": "Carrie Ryan Gallia",
+   "party": "Nonpartisan",
+   "office": "Judge 56 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-57-reding-jeannice",
+   "name": "Jeannice M. Reding",
+   "party": "Nonpartisan",
+   "office": "Judge 57 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-61-tweeten-andrew",
+   "name": "Andrew Tweeten",
+   "party": "Nonpartisan",
+   "office": "Judge 61 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mn-hennepin-2026-district-court-63-willms-angela",
+   "name": "Angela Willms",
+   "party": "Nonpartisan",
+   "office": "Judge 63 - District Court, 4th Judicial District, Hennepin County, Minnesota",
+   "state": "MN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-district-judge-div1-jones-anthony",
+   "name": "Anthony Lewis Jones",
+   "party": "Nonpartisan",
+   "office": "District Judge, 30th Judicial District, 1st Division, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-district-judge-div2-wolf-amber",
+   "name": "Amber B. Wolf",
+   "party": "Nonpartisan",
+   "office": "District Judge, 30th Judicial District, 2nd Division, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-district-judge-div3-garvey-kristina",
+   "name": "Kristina Marie Garvey",
+   "party": "Nonpartisan",
+   "office": "District Judge, 30th Judicial District, 3rd Division, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

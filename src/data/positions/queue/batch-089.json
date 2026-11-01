@@ -1,0 +1,307 @@
+{
+ "batch": "089",
+ "createdAt": "2026-11-01T03:04:30.242Z",
+ "output": "src/data/positions/batch-089.json",
+ "candidates": [
+  {
+   "key": "oh-hamilton-2026-cpgen-0102-jenkins-christian",
+   "name": "Christian A. Jenkins",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/2/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0102-sundermann-betsy",
+   "name": "Betsy Sundermann",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/2/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0104-wagner-chris",
+   "name": "Chris Wagner",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/4/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0209-bouchard-roger",
+   "name": "Roger Bouchard",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0209-branch-jennifer",
+   "name": "Jennifer Branch",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0210-mahoney-dennis",
+   "name": "Dennis Charles Mahoney",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/10/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0210-triggs-alan",
+   "name": "Alan C. Triggs",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/10/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0211-goering-robert",
+   "name": "Robert A. Goering",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/11/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0211-maley-latoya",
+   "name": "Latoya S. Maley",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/11/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0212-cross-wende",
+   "name": "Wende C. Cross",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/12/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-0213-hatheway-alison",
+   "name": "Alison Hatheway",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/13/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-ute0103-henry-sarah",
+   "name": "Sarah Henry",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (unexpired term ending 1/3/2029), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-ute0103-mcdowell-chris",
+   "name": "Chris McDowell",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (unexpired term ending 1/3/2029), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-ute0114-dinkelacker-leah",
+   "name": "Leah Dinkelacker",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (unexpired term ending 1/14/2029), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpgen-ute0114-kotian-manisha",
+   "name": "Manisha Kotian",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, General Division (unexpired term ending 1/14/2029), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpdrug-0103-sanders-nicole",
+   "name": "Nicole L. Sanders",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, Drug Court Division (term beginning 1/3/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-cpdr-0701-evans-tiffany",
+   "name": "Tiffany Evans",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 7/1/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-juvenile-0214-bloom-kari",
+   "name": "Kari L. Bloom",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, Juvenile Division (term beginning 2/14/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-juvenile-0214-luken-susan",
+   "name": "Susan Luken",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, Juvenile Division (term beginning 2/14/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-probate-0209-tye-elizabeth",
+   "name": "Elizabeth A. Tye",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "oh-hamilton-2026-probate-0209-winkler-ralph",
+   "name": "Ralph Winkler",
+   "party": "Nonpartisan",
+   "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027), Hamilton County, Ohio",
+   "state": "OH",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-app1-2026-full-bazzi-mariam",
+   "name": "Mariam Saad Bazzi",
+   "party": "Nonpartisan",
+   "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-app1-2026-full-letica-anica",
+   "name": "Anica Letica",
+   "party": "Nonpartisan",
+   "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-app1-2026-full-murray-christopher",
+   "name": "Christopher M. Murray",
+   "party": "Nonpartisan",
+   "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-app1-2026-partial-lievense-andrew",
+   "name": "Andrew J. Lievense",
+   "party": "Nonpartisan",
+   "office": "Judge of Court of Appeals, 1st District, Incumbent Position (partial term ending 1/1/2031), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wayne-2026-circuit-inc-allen-david",
+   "name": "David J. Allen",
+   "party": "Nonpartisan",
+   "office": "Judge of Circuit Court, 3rd Circuit, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wayne-2026-circuit-inc-baker-robinson-chandra",
+   "name": "Chandra W. Baker-Robinson",
+   "party": "Nonpartisan",
+   "office": "Judge of Circuit Court, 3rd Circuit, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wayne-2026-circuit-inc-blount-christopher",
+   "name": "Christopher M. Blount",
+   "party": "Nonpartisan",
+   "office": "Judge of Circuit Court, 3rd Circuit, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wayne-2026-circuit-inc-castka-nicole",
+   "name": "Nicole L. Castka",
+   "party": "Nonpartisan",
+   "office": "Judge of Circuit Court, 3rd Circuit, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mi-wayne-2026-circuit-inc-cobb-bradley",
+   "name": "Bradley L. Cobb",
+   "party": "Nonpartisan",
+   "office": "Judge of Circuit Court, 3rd Circuit, Incumbent Position (6-year term), Wayne County, Michigan",
+   "state": "MI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

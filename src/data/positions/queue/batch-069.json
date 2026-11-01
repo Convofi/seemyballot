@@ -1,0 +1,307 @@
+{
+ "batch": "069",
+ "createdAt": "2026-11-01T03:04:30.239Z",
+ "output": "src/data/positions/batch-069.json",
+ "candidates": [
+  {
+   "key": "ky-jefferson-2026-surveyor-schroll-william",
+   "name": "William D. Schroll III",
+   "party": "Republican",
+   "office": "County Surveyor, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-oklahoma-2026-assessor-stein-larry",
+   "name": "Larry Stein",
+   "party": "Republican",
+   "office": "County Assessor, Oklahoma County, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-oklahoma-2026-assessor-gibbons-john",
+   "name": "John Gibbons",
+   "party": "Democratic",
+   "office": "County Assessor, Oklahoma County, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-oklahoma-2026-treasurer-miller-christie",
+   "name": "Christie K. Miller",
+   "party": "Republican",
+   "office": "County Treasurer, Oklahoma County, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ok-oklahoma-2026-treasurer-thompson-jessica",
+   "name": "Jessica Thompson",
+   "party": "Democratic",
+   "office": "County Treasurer, Oklahoma County, Oklahoma",
+   "state": "OK",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-council-at-large-a-anderson-kathleen",
+   "name": "Kathleen Anderson",
+   "party": "Republican",
+   "office": "County Council At-Large A, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-council-at-large-a-robinson-zach",
+   "name": "Zach Robinson",
+   "party": "Democratic",
+   "office": "County Council At-Large A, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-district-attorney-gill-sim",
+   "name": "Sim Gill",
+   "party": "Democratic",
+   "office": "County District Attorney, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-district-attorney-davis-kent",
+   "name": "Kent Davis",
+   "party": "Republican",
+   "office": "County District Attorney, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-auditor-cloward-ali",
+   "name": "Ali Cloward",
+   "party": "Democratic",
+   "office": "County Auditor, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-auditor-harding-chris",
+   "name": "Chris Harding",
+   "party": "Republican",
+   "office": "County Auditor, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-clerk-chapman-lannie",
+   "name": "Lannie Chapman",
+   "party": "Democratic",
+   "office": "County Clerk, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-sheriff-manwaring-shane",
+   "name": "Shane Manwaring",
+   "party": "Republican",
+   "office": "County Sheriff, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ut-salt-lake-2026-sheriff-rivera-rosie",
+   "name": "Rosie Rivera",
+   "party": "Democratic",
+   "office": "County Sheriff, Salt Lake County, Utah",
+   "state": "UT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-da-wolfson-steve",
+   "name": "Steve Wolfson",
+   "party": "Democratic",
+   "office": "District Attorney, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-assessor-joe-judy",
+   "name": "Judy Joe",
+   "party": "Republican",
+   "office": "County Assessor, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-assessor-washington-tamicka",
+   "name": "Tamicka N. Washington",
+   "party": "Democratic",
+   "office": "County Assessor, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-clerk-goya-lynn",
+   "name": "Lynn Marie Goya",
+   "party": "Democratic",
+   "office": "County Clerk, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-clerk-shaw-howell",
+   "name": "Howell Shaw",
+   "party": "Republican",
+   "office": "County Clerk, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-recorder-flanagan-tanya",
+   "name": "Tanya Flanagan",
+   "party": "Democratic",
+   "office": "County Recorder, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-recorder-young-bill",
+   "name": "Bill Young",
+   "party": "Republican",
+   "office": "County Recorder, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-treasurer-diaz-j",
+   "name": "J. \"Ken\" Diaz",
+   "party": "Democratic",
+   "office": "County Treasurer, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-treasurer-tracy-mitchell",
+   "name": "Mitchell T. Tracy",
+   "party": "Republican",
+   "office": "County Treasurer, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-pubadmin-itkin-goodman-stephanie",
+   "name": "Stephanie Itkin-Goodman",
+   "party": "Democratic",
+   "office": "Public Administrator, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-pubadmin-murphy-michael",
+   "name": "Michael Murphy",
+   "party": "Republican",
+   "office": "Public Administrator, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-sheriff-luna-robert",
+   "name": "Robert G. Luna",
+   "party": "Nonpartisan",
+   "office": "Sheriff, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.lunaforsheriff.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-sheriff-villanueva-alex",
+   "name": "Alex Villanueva",
+   "party": "Nonpartisan",
+   "office": "Sheriff, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-mayor-raman-nithya",
+   "name": "Nithya Raman",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Los Angeles, Los Angeles, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-mayor-bass-karen",
+   "name": "Karen Ruth Bass",
+   "party": "Nonpartisan",
+   "office": "Mayor, City of Los Angeles, Los Angeles, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-cityattorney-mckinney-john",
+   "name": "John McKinney",
+   "party": "Nonpartisan",
+   "office": "City Attorney, City of Los Angeles, Los Angeles, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

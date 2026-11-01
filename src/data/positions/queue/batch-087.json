@@ -1,0 +1,307 @@
+{
+ "batch": "087",
+ "createdAt": "2026-11-01T03:04:30.242Z",
+ "output": "src/data/positions/batch-087.json",
+ "candidates": [
+  {
+   "key": "la-orleans-2026-cdc-divl-mckenna-warren",
+   "name": "Warren McKenna, III",
+   "party": "Democratic",
+   "office": "Judge, Civil District Court, Division L, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-cdc-divl-newell-candace",
+   "name": "Candace N. Newell",
+   "party": "Democratic",
+   "office": "Judge, Civil District Court, Division L, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-cdc-divm-bridges-stephanie",
+   "name": "Stephanie Bridges",
+   "party": "Democratic",
+   "office": "Judge, Civil District Court, Division M, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-cdc-divm-lindsay-shawn",
+   "name": "Shawn Lindsay",
+   "party": "Democratic",
+   "office": "Judge, Civil District Court, Division M, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-cdc-dom1-hall-michael",
+   "name": "Michael \"Mike\" Hall",
+   "party": "Democratic",
+   "office": "Judge, Civil District Court, Domestic Section 1, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-cdc-dom1-williams-marie",
+   "name": "Marie Williams",
+   "party": "Democratic",
+   "office": "Judge, Civil District Court, Domestic Section 1, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-crim-secd-holmes-kimya",
+   "name": "Kimya Holmes",
+   "party": "Democratic",
+   "office": "Judge, Criminal District Court, Section D, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-crim-secd-levine-simone",
+   "name": "Simone Levine",
+   "party": "Democratic",
+   "office": "Judge, Criminal District Court, Section D, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-crim-sech-buras-camille",
+   "name": "Camille Buras",
+   "party": "Democratic",
+   "office": "Judge, Criminal District Court, Section H, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-crim-sech-roche-leon",
+   "name": "Leon Roché",
+   "party": "Democratic",
+   "office": "Judge, Criminal District Court, Section H, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-magistrate-debose-chanel",
+   "name": "Chanel Robinson Debose",
+   "party": "Democratic",
+   "office": "Magistrate, Magistrate Section, Criminal District Court, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "la-orleans-2026-magistrate-lombard-juana",
+   "name": "Juana Marine Lombard",
+   "party": "Democratic",
+   "office": "Magistrate, Magistrate Section, Criminal District Court, Orleans Parish, Louisiana",
+   "state": "LA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-judge-exec-averette-queenie",
+   "name": "Queenie Louise Averette",
+   "party": "Democratic",
+   "office": "County Judge/Executive, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ct-capitol-2026-probate-hartford-smith-foye",
+   "name": "Foye A Smith",
+   "party": "Democratic",
+   "office": "Judge of Probate, Hartford Probate District (City of Hartford), Hartford, Capitol Planning Region, Connecticut",
+   "state": "CT",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-064-haymon-rhonda",
+   "name": "Rhonda A. Haymon",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 64, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-064-ghobadi-maria",
+   "name": "Maria Ghobadi",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 64, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-065-reitano-anna",
+   "name": "Anna Slotky Reitano",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 65, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.reitanoforjudge.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-065-clayton-justin",
+   "name": "Justin Allen Clayton",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 65, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.claytonforjudge2026.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-087-dejute-david",
+   "name": "David DeJute",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 87, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.dejuteforjudge.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-087-bayne-anthony",
+   "name": "Anthony (A.J.) Bayne",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 87, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-131-tryfman-donna",
+   "name": "Donna Tryfman",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 131, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": "https://www.tryfmanforjudge2026.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-los-angeles-2026-judge-131-ross-david",
+   "name": "David Ross",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 131, Los Angeles County, California",
+   "state": "CA",
+   "knownWebsite": "https://davidrossforjudge2026.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-riverside-2026-judge-010-paradise-michelle",
+   "name": "Michelle Paradise",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 10, Riverside County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-riverside-2026-judge-010-garcia-andrea",
+   "name": "Andrea Garcia",
+   "party": "Nonpartisan",
+   "office": "Judge of the Superior Court, Office No. 10, Riverside County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-santaclara-2026-retain-app6-chung-frederick",
+   "name": "Frederick S. Chung",
+   "party": "Nonpartisan",
+   "office": "Associate Justice, Court of Appeal, Sixth District — elect Frederick S. Chung? (yes/no confirmation), Santa Clara County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-duval-2026-county-judge-g13-buncome-melina",
+   "name": "Melina Buncome",
+   "party": "Nonpartisan",
+   "office": "County Court Judge, Group 13, Duval County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-duval-2026-county-judge-g13-holliday-octavius",
+   "name": "Octavius A. Holliday Jr.",
+   "party": "Nonpartisan",
+   "office": "County Court Judge, Group 13, Duval County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-miami-dade-2026-circuit-g5-mcneil-arthur",
+   "name": "Arthur LeMar \"Marty\" McNeil",
+   "party": "Nonpartisan",
+   "office": "Circuit Judge, 11th Judicial Circuit, Group 5, Miami-Dade County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-miami-dade-2026-circuit-g5-segura-monica",
+   "name": "Monica Segura",
+   "party": "Nonpartisan",
+   "office": "Circuit Judge, 11th Judicial Circuit, Group 5, Miami-Dade County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-miami-dade-2026-circuit-g69-baez-rita",
+   "name": "Rita Maria Baez",
+   "party": "Nonpartisan",
+   "office": "Circuit Judge, 11th Judicial Circuit, Group 69, Miami-Dade County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

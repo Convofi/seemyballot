@@ -1,0 +1,307 @@
+{
+ "batch": "065",
+ "createdAt": "2026-11-01T03:04:30.238Z",
+ "output": "src/data/positions/batch-065.json",
+ "candidates": [
+  {
+   "key": "ca-sanfrancisco-2026-boe2-lieber-sally",
+   "name": "Sally J. Lieber",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, San Francisco County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ca-sanfrancisco-2026-boe2-pimentel-john",
+   "name": "John Pimentel",
+   "party": "Democratic",
+   "office": "Board of Equalization Member, District 2, San Francisco County, California",
+   "state": "CA",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-da-foster-ashley",
+   "name": "Ashley Foster",
+   "party": "Republican",
+   "office": "Criminal District Attorney, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-da-chapa-luz-elena",
+   "name": "Luz Elena Chapa",
+   "party": "Democratic",
+   "office": "Criminal District Attorney, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-district-clerk-castillo-christine",
+   "name": "Christine \"Chris\" Castillo",
+   "party": "Democratic",
+   "office": "District Clerk, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-bexar-2026-county-clerk-adame-clark-lucy",
+   "name": "Lucy Adame-Clark",
+   "party": "Democratic",
+   "office": "County Clerk, Bexar County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-dallas-2026-cda-givens-amber",
+   "name": "Amber Givens",
+   "party": "Democratic",
+   "office": "Criminal District Attorney, Dallas County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-dallas-2026-district-clerk-muehlhaeusler-dave",
+   "name": "Dave Muehlhaeusler",
+   "party": "Republican",
+   "office": "District Clerk, Dallas County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-dallas-2026-district-clerk-pitre-felicia",
+   "name": "Felicia Pitre",
+   "party": "Democratic",
+   "office": "District Clerk, Dallas County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-dallas-2026-county-clerk-garcia-skye",
+   "name": "Skye Garcia",
+   "party": "Republican",
+   "office": "County Clerk, Dallas County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-dallas-2026-county-clerk-offord-damarcus",
+   "name": "Damarcus L Offord",
+   "party": "Democratic",
+   "office": "County Clerk, Dallas County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-dallas-2026-treasurer-phelps-corsandra",
+   "name": "Corsandra Brigham Phelps",
+   "party": "Republican",
+   "office": "County Treasurer, Dallas County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-dallas-2026-treasurer-medrano-pauline",
+   "name": "Pauline Medrano",
+   "party": "Democratic",
+   "office": "County Treasurer, Dallas County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-attorney-smith-jacqueline",
+   "name": "Jacqueline Lucci Smith",
+   "party": "Republican",
+   "office": "County Attorney - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-attorney-kamin-abbie",
+   "name": "Abbie Kamin",
+   "party": "Democratic",
+   "office": "County Attorney - Unexpired Term, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-district-clerk-daniel-chris",
+   "name": "Chris Daniel",
+   "party": "Republican",
+   "office": "District Clerk, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-district-clerk-jordan-darrell",
+   "name": "Darrell Jordan, Jr",
+   "party": "Democratic",
+   "office": "District Clerk, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-clerk-wolfe-mike",
+   "name": "Mike Wolfe",
+   "party": "Republican",
+   "office": "County Clerk, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-clerk-hudspeth-teneshia",
+   "name": "Teneshia Hudspeth",
+   "party": "Democratic",
+   "office": "County Clerk, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-treasurer-cowart-marc",
+   "name": "Marc Cowart",
+   "party": "Republican",
+   "office": "County Treasurer, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-county-treasurer-wyatt-carla",
+   "name": "Carla L. Wyatt",
+   "party": "Democratic",
+   "office": "County Treasurer, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-hcde-p5-bal-sartaj",
+   "name": "Sartaj Bal",
+   "party": "Republican",
+   "office": "County School Trustee, Position 5, At Large, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-hcde-p5-davis-erica",
+   "name": "Erica Davis",
+   "party": "Democratic",
+   "office": "County School Trustee, Position 5, At Large, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-hcde-p7-dick-denise",
+   "name": "Denise Dick",
+   "party": "Republican",
+   "office": "County School Trustee, Position 7, At Large, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-hcde-p7-malik-silky",
+   "name": "Silky Joshi Malik",
+   "party": "Democratic",
+   "office": "County School Trustee, Position 7, At Large, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-district-clerk-price-velva",
+   "name": "Velva L. Price",
+   "party": "Democratic",
+   "office": "District Clerk, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-county-clerk-limon-mercado-dyana",
+   "name": "Dyana Limon-Mercado",
+   "party": "Democratic",
+   "office": "County Clerk, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-treasurer-carter-dolores",
+   "name": "Dolores Ortega Carter",
+   "party": "Democratic",
+   "office": "County Treasurer, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-hillsborough-2026-bocc-d5-hahn-stacy",
+   "name": "Stacy Hahn",
+   "party": "Republican",
+   "office": "Board of County Commissioners District 5 (countywide), Hillsborough County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "fl-hillsborough-2026-bocc-d5-manimala-neil",
+   "name": "Neil Manimala",
+   "party": "Democratic",
+   "office": "Board of County Commissioners District 5 (countywide), Hillsborough County, Florida",
+   "state": "FL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "073",
+ "createdAt": "2026-11-01T03:04:30.240Z",
+ "output": "src/data/positions/batch-073.json",
+ "candidates": [
+  {
+   "key": "tn-shelby-2026-bartlett-alderman-1-jenkins-jerry",
+   "name": "Jerry L. Jenkins",
+   "party": "Nonpartisan",
+   "office": "Bartlett Alderman, Position 1, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-bartlett-alderman-1-king-harold",
+   "name": "Harold Brad King",
+   "party": "Nonpartisan",
+   "office": "Bartlett Alderman, Position 1, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-bartlett-alderman-2-cromwell-cynthia",
+   "name": "Cynthia \"Cindy\" Cromwell",
+   "party": "Nonpartisan",
+   "office": "Bartlett Alderman, Position 2, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-bartlett-alderman-2-griffin-robert",
+   "name": "Robert Griffin",
+   "party": "Nonpartisan",
+   "office": "Bartlett Alderman, Position 2, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-bartlett-alderman-2-schlum-tim",
+   "name": "Tim Schlum",
+   "party": "Nonpartisan",
+   "office": "Bartlett Alderman, Position 2, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-bartlett-alderman-3-dubose-tamisha",
+   "name": "Tamisha P. DuBose",
+   "party": "Nonpartisan",
+   "office": "Bartlett Alderman, Position 3, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-bartlett-alderman-3-reaves-david",
+   "name": "David Reaves",
+   "party": "Nonpartisan",
+   "office": "Bartlett Alderman, Position 3, Bartlett, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-1-goddard-tim",
+   "name": "Tim Goddard",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 1, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-1-hall-charles",
+   "name": "Charles Hall",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 1, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-1-lederfine-jason",
+   "name": "Jason Lederfine",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 1, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-2-christensen-steve",
+   "name": "Steve Christensen",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 2, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-2-jordan-jewel",
+   "name": "Jewel Jordan",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 2, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-2-kelsey-chad",
+   "name": "Chad Kelsey",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 2, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-4-deely-liz",
+   "name": "Liz Deely",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 4, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-collierville-alderman-4-marshall-missy",
+   "name": "Missy Marshall",
+   "party": "Nonpartisan",
+   "office": "Collierville Alderman, Position 4, Collierville, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-germantown-mayor-babian-edgar",
+   "name": "Edgar Babian",
+   "party": "Nonpartisan",
+   "office": "Mayor, Germantown, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-germantown-mayor-salvaggio-tony",
+   "name": "Tony Salvaggio",
+   "party": "Nonpartisan",
+   "office": "Mayor, Germantown, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-germantown-alderman-1-sanders-scott",
+   "name": "Scott A. Sanders",
+   "party": "Nonpartisan",
+   "office": "Germantown Alderman, Position 1, Germantown, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-germantown-alderman-2-adams-todd",
+   "name": "Todd Adams",
+   "party": "Nonpartisan",
+   "office": "Germantown Alderman, Position 2, Germantown, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-germantown-alderman-2-gibson-mary",
+   "name": "Mary Anne Gibson",
+   "party": "Nonpartisan",
+   "office": "Germantown Alderman, Position 2, Germantown, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-lakeland-mayor-mccarter-connie",
+   "name": "Connie McCarter",
+   "party": "Nonpartisan",
+   "office": "Mayor, Lakeland, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-lakeland-mayor-roman-josh",
+   "name": "Josh Roman",
+   "party": "Nonpartisan",
+   "office": "Mayor, Lakeland, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-lakeland-commissioner-burnett-jeremy",
+   "name": "Jeremy Burnett",
+   "party": "Nonpartisan",
+   "office": "Commissioner, Lakeland, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-lakeland-commissioner-long-heather",
+   "name": "Heather Ann Long",
+   "party": "Nonpartisan",
+   "office": "Commissioner, Lakeland, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-lakeland-commissioner-reap-lindsey",
+   "name": "Lindsey Reap",
+   "party": "Nonpartisan",
+   "office": "Commissioner, Lakeland, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-1-huffman-bethany",
+   "name": "Bethany K. Huffman",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 1, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-2-childress-cody",
+   "name": "Cody Childress",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 2, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-2-declue-willis",
+   "name": "Willis S Declue",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 2, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-2-sneed-tammy",
+   "name": "Tammy Sneed",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 2, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tn-shelby-2026-millington-alderman-3-ford-chris",
+   "name": "Chris Ford",
+   "party": "Nonpartisan",
+   "office": "Millington Alderman, Position 3, Millington, Shelby County, Tennessee",
+   "state": "TN",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

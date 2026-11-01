@@ -1,0 +1,87 @@
+{
+ "batch": "095",
+ "createdAt": "2026-11-01T03:04:30.243Z",
+ "output": "src/data/positions/batch-095.json",
+ "candidates": [
+  {
+   "key": "nv-clark-2026-dcfam-w-rocheleau-stacy",
+   "name": "Stacy Rocheleau",
+   "party": "Nonpartisan",
+   "office": "District Court Judge, Eighth Judicial District, Family Division, Department W, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-dcfam-x-almase-heidi",
+   "name": "Heidi Almase",
+   "party": "Nonpartisan",
+   "office": "District Court Judge, Eighth Judicial District, Family Division, Department X, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-dcfam-y-rincon-white-adriana",
+   "name": "Adriana Rincon White",
+   "party": "Nonpartisan",
+   "office": "District Court Judge, Eighth Judicial District, Family Division, Department Y, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-clark-2026-dcfam-z-mercer-michele",
+   "name": "Michele \"Shell\" Mercer",
+   "party": "Nonpartisan",
+   "office": "District Court Judge, Eighth Judicial District, Family Division, Department Z, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-lasvegas-2026-muni1-pellizzari-amanda",
+   "name": "Amanda Pellizzari",
+   "party": "Nonpartisan",
+   "office": "Las Vegas Municipal Court Judge, Department 1 (2-year unexpired term), Las Vegas, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-lasvegas-2026-muni1-walker-matt",
+   "name": "Matt Walker",
+   "party": "Nonpartisan",
+   "office": "Las Vegas Municipal Court Judge, Department 1 (2-year unexpired term), Las Vegas, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-lasvegas-2026-muni2-green-jessica",
+   "name": "Jessica A. Green",
+   "party": "Nonpartisan",
+   "office": "Las Vegas Municipal Court Judge, Department 2 (4-year unexpired term), Las Vegas, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "nv-lasvegas-2026-muni2-murphy-allycia",
+   "name": "Allycia Murphy",
+   "party": "Nonpartisan",
+   "office": "Las Vegas Municipal Court Judge, Department 2 (4-year unexpired term), Las Vegas, Clark County, Nevada",
+   "state": "NV",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "batch": "068",
+ "createdAt": "2026-11-01T03:04:30.239Z",
+ "output": "src/data/positions/batch-068.json",
+ "candidates": [
+  {
+   "key": "md-montgomery-2026-sa-mccarthy-john",
+   "name": "John McCarthy",
+   "party": "Democratic",
+   "office": "State's Attorney, Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-register-ebel-barbara",
+   "name": "Barbara Ebel",
+   "party": "Democratic",
+   "office": "Register of Wills, Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-register-reyes-t-dolores",
+   "name": "T. Dolores Reyes",
+   "party": "Republican",
+   "office": "Register of Wills, Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "md-montgomery-2026-sheriff-milam-will",
+   "name": "Will Milam",
+   "party": "Democratic",
+   "office": "Sheriff, Montgomery County, Maryland",
+   "state": "MD",
+   "knownWebsite": "https://willmilam.com/",
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-jackson-2026-county-executive-rohlfing-alan",
+   "name": "Alan Rohlfing",
+   "party": "Republican",
+   "office": "Jackson County Executive, Jackson County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-jackson-2026-county-executive-lake-stacy",
+   "name": "Stacy Lake",
+   "party": "Democratic",
+   "office": "Jackson County Executive, Jackson County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-jackson-2026-legislator-al1-pollard-lance",
+   "name": "Lance Pollard",
+   "party": "Republican",
+   "office": "County Legislator, 1st District At-Large, Jackson County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-jackson-2026-legislator-al1-fields-carla",
+   "name": "Carla Fields",
+   "party": "Democratic",
+   "office": "County Legislator, 1st District At-Large, Jackson County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-jackson-2026-legislator-al2-cabrera-gresia",
+   "name": "Gresia Cabrera",
+   "party": "Republican",
+   "office": "County Legislator, 2nd District At-Large, Jackson County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-jackson-2026-legislator-al2-peyton-donna",
+   "name": "Donna Peyton",
+   "party": "Democratic",
+   "office": "County Legislator, 2nd District At-Large, Jackson County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-jackson-2026-legislator-al3-wilson-susan",
+   "name": "Susan B. Wilson",
+   "party": "Democratic",
+   "office": "County Legislator, 3rd District At-Large, Jackson County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-collector-daly-gregory",
+   "name": "Gregory F.X. Daly",
+   "party": "Democratic",
+   "office": "Collector of Revenue, St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-license-collector-thompson-mavis",
+   "name": "Mavis \"Tessa\" Thompson",
+   "party": "Democratic",
+   "office": "License Collector, St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscity-2026-recorder-cohn-shane",
+   "name": "Shane Cohn",
+   "party": "Democratic",
+   "office": "Recorder of Deeds, St. Louis city, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-executive-hancock-dennis",
+   "name": "Dennis Hancock",
+   "party": "Republican",
+   "office": "County Executive, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-executive-zimmerman-jake",
+   "name": "Jake Zimmerman",
+   "party": "Democratic",
+   "office": "County Executive, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-prosecutor-price-smith-melissa",
+   "name": "Melissa Price Smith",
+   "party": "Democratic",
+   "office": "Prosecuting Attorney, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-assessor-messner-david",
+   "name": "David Messner",
+   "party": "Republican",
+   "office": "County Assessor, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "mo-stlouiscounty-2026-assessor-clemens-doug",
+   "name": "Doug Clemens",
+   "party": "Democratic",
+   "office": "County Assessor, St. Louis County, Missouri",
+   "state": "MO",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "wi-milwaukee-2026-sheriff-ball-denita",
+   "name": "Denita R. Ball",
+   "party": "Democratic",
+   "office": "Milwaukee County Sheriff, Milwaukee County, Wisconsin",
+   "state": "WI",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-jefferson-2026-sheriff-pettway-mark",
+   "name": "Mark Levie Pettway",
+   "party": "Democratic",
+   "office": "Jefferson County Sheriff, Jefferson County, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-jefferson-2026-sheriff-reach-jacob",
+   "name": "Jacob Reach",
+   "party": "Republican",
+   "office": "Jefferson County Sheriff, Jefferson County, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-jefferson-2026-tax-assessor-hendricks-gaynell",
+   "name": "Gaynell Hendricks",
+   "party": "Democratic",
+   "office": "Tax Assessor, Jefferson County, Jefferson County, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "al-jefferson-2026-tax-collector-smallwood-jt",
+   "name": "J.T. Smallwood",
+   "party": "Democratic",
+   "office": "Tax Collector, Jefferson County, Jefferson County, Alabama",
+   "state": "AL",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-pva-younger-colleen",
+   "name": "Colleen Younger",
+   "party": "Democratic",
+   "office": "Property Valuation Administrator, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-county-attorney-martin-sarah",
+   "name": "Sarah Martin",
+   "party": "Democratic",
+   "office": "County Attorney, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-county-clerk-yates-david",
+   "name": "David Yates",
+   "party": "Democratic",
+   "office": "County Clerk, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-sheriff-marson-alexander",
+   "name": "Alexander William Marson",
+   "party": "Republican",
+   "office": "Sheriff, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-sheriff-yancey-stephen",
+   "name": "Stephen Yancey",
+   "party": "Democratic",
+   "office": "Sheriff, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "ky-jefferson-2026-coroner-farmer-jo-ann",
+   "name": "Jo-Ann Farmer",
+   "party": "Democratic",
+   "office": "Coroner, Jefferson County, Kentucky",
+   "state": "KY",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}

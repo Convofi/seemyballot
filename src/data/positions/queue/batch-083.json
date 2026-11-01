@@ -1,0 +1,307 @@
+{
+ "batch": "083",
+ "createdAt": "2026-11-01T03:04:30.241Z",
+ "output": "src/data/positions/batch-083.json",
+ "candidates": [
+  {
+   "key": "tx-harris-2026-ccl-criminal12-emmons-anna",
+   "name": "Anna Emmons",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 12, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal12-guice-ashley",
+   "name": "Ashley Mayes Guice",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 12, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal13-cox-amber",
+   "name": "Amber Cox",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 13, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal13-rodriguez-raul",
+   "name": "Raul Rodriguez",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 13, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal14-padilla-jessica",
+   "name": "Jessica N. Padilla",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 14, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal14-quezada-yahaira",
+   "name": "Yahaira Quezada",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 14, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal15-martin-stephen",
+   "name": "Stephen C. St. Martin",
+   "party": "Republican",
+   "office": "Judge, County Criminal Court at Law No. 15, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-ccl-criminal15-jones-tonya",
+   "name": "Tonya Jones",
+   "party": "Democratic",
+   "office": "Judge, County Criminal Court at Law No. 15, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate1-wright-loyd",
+   "name": "Loyd H. Wright",
+   "party": "Republican",
+   "office": "Judge, County Probate Court No. 1, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate1-simoneaux-jerry",
+   "name": "Jerry Simoneaux",
+   "party": "Democratic",
+   "office": "Judge, County Probate Court No. 1, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate2-shanklin-paul",
+   "name": "Paul Shanklin",
+   "party": "Republican",
+   "office": "Judge, County Probate Court No. 2, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate2-medina-pamela",
+   "name": "Pamela Medina",
+   "party": "Democratic",
+   "office": "Judge, County Probate Court No. 2, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate3-schramm-ronald",
+   "name": "Ronald Schramm",
+   "party": "Republican",
+   "office": "Judge, County Probate Court No. 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate3-cox-jason",
+   "name": "Jason Cox",
+   "party": "Democratic",
+   "office": "Judge, County Probate Court No. 3, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate4-fulton-kevin",
+   "name": "Kevin Fulton",
+   "party": "Republican",
+   "office": "Judge, County Probate Court No. 4, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-harris-2026-probate4-horwitz-james",
+   "name": "James S. Horwitz",
+   "party": "Democratic",
+   "office": "Judge, County Probate Court No. 4, Harris County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-county-judge-brown-andy",
+   "name": "Andy Brown",
+   "party": "Democratic",
+   "office": "County Judge, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-coa3-chief-liu-cory",
+   "name": "Cory Liu",
+   "party": "Republican",
+   "office": "Chief Justice, 3rd Court of Appeals District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-coa3-chief-byrne-darlene",
+   "name": "Darlene Byrne",
+   "party": "Democratic",
+   "office": "Chief Justice, 3rd Court of Appeals District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj147-brown-cliff",
+   "name": "Cliff Brown",
+   "party": "Democratic",
+   "office": "District Judge, 147th Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj201-meachum-amy",
+   "name": "Amy Clark Meachum",
+   "party": "Democratic",
+   "office": "District Judge, 201st Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj250-wooten-kennon",
+   "name": "Kennon Lily Wooten",
+   "party": "Democratic",
+   "office": "District Judge, 250th Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj261-lyttle-daniella",
+   "name": "Daniella Deseta Lyttle",
+   "party": "Democratic",
+   "office": "District Judge, 261st Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj299-sage-karen",
+   "name": "Karen R. Sage",
+   "party": "Democratic",
+   "office": "District Judge, 299th Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj331-eldridge-chantal",
+   "name": "Chantal Melissa Eldridge",
+   "party": "Democratic",
+   "office": "District Judge, 331st Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj403-mueller-brandy",
+   "name": "Brandy Mueller",
+   "party": "Democratic",
+   "office": "District Judge, 403rd Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj419-mauzy-catherine",
+   "name": "Catherine A. Mauzy",
+   "party": "Democratic",
+   "office": "District Judge, 419th Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj455-eiserloh-laurie",
+   "name": "Laurie Eiserloh",
+   "party": "Democratic",
+   "office": "District Judge, 455th Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-dj459-gamble-maya",
+   "name": "Maya Guerra Gamble",
+   "party": "Democratic",
+   "office": "District Judge, 459th Judicial District, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  },
+  {
+   "key": "tx-travis-2026-ccl1-wong-todd",
+   "name": "Todd Wong",
+   "party": "Democratic",
+   "office": "Judge, County Court at Law No. 1, Travis County, Texas",
+   "state": "TX",
+   "knownWebsite": null,
+   "fecUrl": null,
+   "status": "pending"
+  }
+ ]
+}
