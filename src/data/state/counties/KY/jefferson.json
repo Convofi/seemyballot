@@ -1,0 +1,355 @@
+{
+  "state": "KY",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://strap.jeffersoncountyclerk.org/WhereDoIVote/images/ballots/C124.pdf",
+    "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17",
+    "https://jeffersonpva.ky.gov/",
+    "https://elect.ky.gov/results/2020-2029/2022ElectionReports/GeneralRecaps/Jefferson%20County.pdf"
+  ],
+  "note": "Louisville Metro and Jefferson County are consolidated, so the Metro Mayor is shown at the county level. Not shown because they depend on districts the address lookup cannot resolve: Louisville Metro Council (odd districts), County Commissioner district, Justice of the Peace and Constable (magisterial districts), Jefferson County Board of Education districts, and mayors, city councils and school boards of the small cities inside Jefferson County (Anchorage, St. Matthews, Jeffersontown, Shively and others). No countywide public questions appear on the official sample ballot. No Circuit Court, Family Court, Court of Appeals or Supreme Court seat for Jefferson County is on the 2026 ballot. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Louisville Metro Mayor",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-mayor-parrish-wright-shameka",
+          "name": "Shameka L. Parrish-Wright",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-jefferson-2026-mayor-greenberg-craig",
+          "name": "Craig Greenberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-pva-younger-colleen",
+          "name": "Colleen Younger",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-judge-exec-averette-queenie",
+          "name": "Queenie Louise Averette",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-county-attorney-martin-sarah",
+          "name": "Sarah Martin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-county-clerk-yates-david",
+          "name": "David Yates",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-sheriff-marson-alexander",
+          "name": "Alexander William Marson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-jefferson-2026-sheriff-yancey-stephen",
+          "name": "Stephen Yancey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-coroner-farmer-jo-ann",
+          "name": "Jo-Ann Farmer",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-surveyor-schroll-william",
+          "name": "William D. Schroll III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Supervisor",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-soil-water-rooney-tyler",
+          "name": "Tyler Rooney",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-jefferson-2026-soil-water-mayes-william",
+          "name": "William Donald Mayes",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffersoncountyclerk.org/files/assets/clerk/v/1/elections/documents/2026-candidate-filing-8-10-26.pdf"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div1-jones-anthony",
+          "name": "Anthony Lewis Jones",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div2-wolf-amber",
+          "name": "Amber B. Wolf",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 3rd Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div3-garvey-kristina",
+          "name": "Kristina Marie Garvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 4th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div4-de-la-guardia-yvette",
+          "name": "Yvette De La Guardia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 5th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div5-leibson-jennifer",
+          "name": "Jennifer H. Leibson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 6th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div6-langford-lisa",
+          "name": "Lisa L. Langford",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ky-jefferson-2026-district-judge-div6-gordon-teddy",
+          "name": "Teddy B. Gordon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 7th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div7-mcdonald-megan",
+          "name": "Megan McDonald",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 8th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div8-allen-jonathan",
+          "name": "Jonathan Max Allen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-jefferson-2026-district-judge-div8-faulkner-karen",
+          "name": "Karen Faulkner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 9th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div9-hickerson-tanisha",
+          "name": "Tanisha Ann Hickerson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 10th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div10-nicholson-sara",
+          "name": "Sara Michael Nicholson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 11th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div11-moore-jessica",
+          "name": "Jessica Ann Moore",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 12th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div12-buckner-josephine",
+          "name": "Josephine Layne Buckner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 13th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div13-delahanty-anne",
+          "name": "Anne Delahanty",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 14th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div14-burke-stephanie",
+          "name": "Stephanie Pearce Burke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 15th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div15-wolford-mary",
+          "name": "Mary Jude Wolford",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ky-jefferson-2026-district-judge-div15-wilson-michael",
+          "name": "Michael R. Wilson",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 30th Judicial District, 16th Division",
+      "candidates": [
+        {
+          "key": "ky-jefferson-2026-district-judge-div16-king-katie",
+          "name": "Katie King",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
