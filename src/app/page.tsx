@@ -253,6 +253,10 @@ function Results({ result: r, onChange }: { result: LookupResult; onChange: () =
 
       <h1 className="mt-8 text-[1.75rem] font-semibold leading-tight tracking-tight text-ink">Your ballot</h1>
       <SummaryLine summary={summary} />
+      <p className="mt-2 text-sm text-ink-3">
+        Candidate and issue summaries were researched with AI and can contain mistakes. Please verify against
+        the linked sources and your official sample ballot.
+      </p>
 
       <Card className="mt-6">
         <h2 className="text-xs font-semibold uppercase tracking-[0.08em] text-ink-3">Your ballot area</h2>
@@ -323,8 +327,9 @@ function SiteFooter() {
     <footer className="border-t border-line">
       <div className="mx-auto max-w-[40rem] px-4 py-6 text-xs leading-5 text-ink-3">
         <p>
-          Nonpartisan. Every fact links to its source. We never store your address; we only count searches by
-          state, district, and county.
+          Nonpartisan. Every fact links to its source. Summaries were researched with AI and may contain
+          errors, so please verify them yourself. We never store your address; we only count searches by state,
+          district, and county.
         </p>
         <p className="mt-1 flex flex-wrap items-center gap-x-4">
           <a
