@@ -1,0 +1,36 @@
+{
+  "state": "LA",
+  "county": "Jefferson Parish",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=27&parishName=JEFFERSON",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "No parish-wide contest or proposition is on the Jefferson Parish ballot: parish government offices were elected in 2023, and the District Attorney (24th JDC), Juvenile Court Sections A-C and most 24th JDC divisions were unopposed and do not appear on the ballot. Not shown (they depend on a district or section the address lookup cannot resolve): Judge, 24th Judicial District Court, Election Section 2, Division F; Judge, 1st Parish Court, Divisions A and B (east bank); School Board districts; State Representative District 92; Justice of the Peace and Constable; City of Harahan offices; Public Service Commission District 1 and BESE District 1. City of Gretna voters: the Fire millage (8.5 mills) is on the ballot only in precincts G-001 through G-011 (it excludes the annexed Timberlane parts of G-012 and G-013), so it is not shown. Kenner has no citywide item on this ballot. Check your official sample ballot for these.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Gretna": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Gretna (Ambulance)",
+          "title": "City of Gretna (Ambulance) - 4.00 Mills - CC - 10 Yrs.",
+          "summary": "Authorizes the City of Gretna to levy a special property tax of 4.00 mills for ten years, 2028 through 2037, to provide ambulance service within the city. The tax is estimated to raise about $683,939 per year.",
+          "yesMeans": "Gretna may levy a 4.00-mill property tax for ambulance service from 2028 through 2037.",
+          "noMeans": "Gretna may not levy this 4.00-mill ambulance tax.",
+          "source": "https://voterportal.sos.la.gov/SampleBallot"
+        },
+        {
+          "id": "City of Gretna (Police)",
+          "title": "City of Gretna (Police) - 8.00 Mills - CC - 10 Yrs.",
+          "summary": "Authorizes the City of Gretna to levy a special property tax of 8.00 mills for ten years, 2028 through 2037, to maintain existing City Police Department manpower levels. The tax is estimated to raise about $1,367,879 per year.",
+          "yesMeans": "Gretna may levy an 8.00-mill property tax for police staffing from 2028 through 2037.",
+          "noMeans": "Gretna may not levy this 8.00-mill police tax.",
+          "source": "https://voterportal.sos.la.gov/SampleBallot"
+        }
+      ]
+    }
+  }
+}
