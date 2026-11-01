@@ -3,6 +3,7 @@ import fec2026 from "@/data/fec2026.json";
 import nominees2026 from "@/data/nominees2026.json";
 import { getFinance, type CandidateFinance } from "@/lib/finance";
 import { getPositions, type CandidatePositions } from "@/lib/positions";
+import { getVotes, type CandidateVotes } from "@/lib/votes";
 
 // Static snapshot of OpenFEC /candidates/ (all 2026 House + Senate filers,
 // raw flags kept) written by `npm run fetch-fec`, plus Wikipedia's list of
@@ -29,6 +30,8 @@ export type Candidate = {
   positions: CandidatePositions | null;
   /** FEC money summary; only on `likely` candidates (null = none on file). */
   finance?: CandidateFinance | null;
+  /** Roll-call record for sitting members of Congress; only on `likely` candidates. */
+  votes?: CandidateVotes | null;
 };
 
 export type Contest = {
@@ -380,13 +383,14 @@ function dedupe(rows: FecCandidate[]): FecCandidate[] {
   return [...byPerson.values()];
 }
 
-/** Attach FEC money data to the likely tier only; other filers stay lean. */
+/** Attach FEC money data and voting records to the likely tier only; other filers stay lean. */
 function withFinance<T extends { likely: Candidate[] }>(contest: T): T {
   return {
     ...contest,
     likely: contest.likely.map((c) => ({
       ...c,
       finance: c.candidateId.startsWith("wiki:") ? null : getFinance(c.candidateId),
+      votes: c.candidateId.startsWith("wiki:") ? null : getVotes(c.candidateId),
     })),
   };
 }

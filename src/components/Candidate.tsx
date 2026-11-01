@@ -1,8 +1,10 @@
 import type { ReactNode } from "react";
 import type { CandidatePositions as PositionsData } from "@/lib/positions";
 import type { CandidateFinance as FinanceData } from "@/lib/finance";
+import type { CandidateVotes as VotesData } from "@/lib/votes";
 import CandidateFinance from "@/components/CandidateFinance";
 import CandidatePositions from "@/components/CandidatePositions";
+import CandidateVotes from "@/components/CandidateVotes";
 import { ExtLink, PartyMarker, hostname } from "@/components/ui";
 
 type Props = {
@@ -19,10 +21,12 @@ type Props = {
   positions: PositionsData | null;
   /** FEC money summary; federal nominees only. */
   finance?: FinanceData | null;
+  /** Roll-call record; federal nominees who sit in Congress only. */
+  votes?: VotesData | null;
 };
 
 /** One candidate row: name, party marker and tags, positions, then a quiet links line. */
-export function Candidate({ name, runningMate, party, partyTitle, tags, website, fecUrl, positions, finance }: Props) {
+export function Candidate({ name, runningMate, party, partyTitle, tags, website, fecUrl, positions, finance, votes }: Props) {
   const sites = [website, positions?.website].filter((u): u is string => !!u);
   const uniqueSites = sites.filter((u, i) => sites.findIndex((v) => hostname(v) === hostname(u)) === i);
   const links: ReactNode[] = [
@@ -52,6 +56,7 @@ export function Candidate({ name, runningMate, party, partyTitle, tags, website,
       </div>
       {positions && <CandidatePositions data={positions} />}
       {finance && <CandidateFinance data={finance} />}
+      {votes && <CandidateVotes data={votes} />}
       {links.length > 0 && (
         <p className="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-xs text-ink-3">{links}</p>
       )}
