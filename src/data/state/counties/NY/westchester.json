@@ -1,0 +1,63 @@
+{
+  "state": "NY",
+  "county": "Westchester County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://citizenparticipation.westchestercountyny.gov/images/stories/pdfs/2026/2026-candidate-list-no-address.pdf",
+    "https://citizenparticipation.westchestercountyny.gov/election-dates/overview"
+  ],
+  "note": "Candidates come from the Westchester County Board of Elections 2026 Unofficial General Election Candidate List; confirm on your official sample ballot. New York uses fusion voting: candidates on more than one party line are listed once under their main party. Supreme Court candidates Maria G. Rosa (Democratic and Working Families), George E. Fufidio (Democratic and Republican) and Alden H. Wolfe (Democratic and Conservative) are shown under Democratic; Richard S. Fava Pastilha (Republican and Conservative) is shown under Republican. Yonkers City Court Judge candidate Alexandra R. Bisesi is on the Democratic and Conservative lines. Not shown here because they depend on your district, town or village: Representative in Congress, State Senator, Member of Assembly, County Legislator (all 17 districts), town offices (Supervisor, Town Council, Town Clerk, Superintendent of Highways, Town Justice), village offices, Mount Vernon City Court Judge and Rye City Council. No County Executive, County Clerk, District Attorney, County Court, Family Court or Surrogate race is on the 2026 candidate list, and no countywide or city proposition was found on the Board of Elections site. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 9th Judicial District",
+      "seats": 3,
+      "candidates": [
+        { "key": "ny-westchester-2026-supreme-court-rosa-maria", "name": "Maria G. Rosa", "party": "Democratic", "incumbent": false },
+        { "key": "ny-westchester-2026-supreme-court-fufidio-george", "name": "George E. Fufidio", "party": "Democratic", "incumbent": false },
+        { "key": "ny-westchester-2026-supreme-court-wolfe-alden", "name": "Alden H. Wolfe", "party": "Democratic", "incumbent": false },
+        { "key": "ny-westchester-2026-supreme-court-fava-pastilha-richard", "name": "Richard S. Fava Pastilha", "party": "Republican", "incumbent": false },
+        { "key": "ny-westchester-2026-supreme-court-ciampoli-john", "name": "John Ciampoli", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://citizenparticipation.westchestercountyny.gov/images/stories/pdfs/2026/2026-candidate-list-no-address.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Yonkers": {
+      "contests": [
+        {
+          "office": "Yonkers City Court Judge",
+          "seats": 1,
+          "candidates": [
+            { "key": "ny-westchester-2026-yonkers-city-court-bisesi-alexandra", "name": "Alexandra R. Bisesi", "party": "Democratic", "incumbent": false }
+          ],
+          "source": "https://citizenparticipation.westchestercountyny.gov/images/stories/pdfs/2026/2026-candidate-list-no-address.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "White Plains": {
+      "contests": [
+        {
+          "office": "White Plains Common Council Member (1-year unexpired term)",
+          "seats": 1,
+          "candidates": [
+            { "key": "ny-westchester-2026-white-plains-council-1yr-simmons-valerie", "name": "Valerie Simmons", "party": "Democratic", "incumbent": false },
+            { "key": "ny-westchester-2026-white-plains-council-1yr-guglielmo-kathy", "name": "Kathy Guglielmo", "party": "Republican", "incumbent": false }
+          ],
+          "source": "https://citizenparticipation.westchestercountyny.gov/images/stories/pdfs/2026/2026-candidate-list-no-address.pdf"
+        },
+        {
+          "office": "White Plains Common Council Member (3-year unexpired term)",
+          "seats": 1,
+          "candidates": [
+            { "key": "ny-westchester-2026-white-plains-council-3yr-caruso-thomas", "name": "Thomas J. Caruso Jr.", "party": "Democratic", "incumbent": false },
+            { "key": "ny-westchester-2026-white-plains-council-3yr-cambareri-john", "name": "John Cambareri", "party": "Republican", "incumbent": false }
+          ],
+          "source": "https://citizenparticipation.westchestercountyny.gov/images/stories/pdfs/2026/2026-candidate-list-no-address.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
