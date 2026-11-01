@@ -1,0 +1,167 @@
+{
+  "state": "MN",
+  "county": "Ramsey County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf",
+    "https://www.ramseycountymn.gov/residents/elections-voting",
+    "https://www.ramseycountymn.gov/your-government/leadership/sheriffs-office",
+    "https://www.ramseycountymn.gov/your-government/leadership/county-attorneys-office"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for a St. Paul precinct (W-2 P-07), with incumbency for Sheriff and County Attorney confirmed on Ramsey County's own office pages. Not shown here because they depend on your district: County Commissioner districts, school board members and school district ballot questions (including St. Paul ISD No. 625 at-large seats), soil and water conservation district supervisors, and city offices and questions outside St. Paul. Check your official sample ballot for those. St. Paul city offices are elected in odd years. No countywide ballot questions are on the November 2026 ballot. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-sheriff-fletcher-bob",
+          "name": "Bob Fletcher",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.fletcherforsheriff.com/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-county-attorney-choi-john",
+          "name": "John Choi",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://johnchoi.org/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 1 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-1-castro-leonardo",
+          "name": "Leonardo Castro",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 8 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-8-gardner-victoria",
+          "name": "Victoria Gardner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 13 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-13-stennes-stacy",
+          "name": "Stacy Stennes",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.judgestacystennes.com/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 14 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-14-bierwerth-jessica",
+          "name": "Jessica Bierwerth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-15-vuelo-sophia",
+          "name": "Sophia Vuelo",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://reelectjudgevuelo.org/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 24 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-24-iyer-veena",
+          "name": "Veena Iyer",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://veenaiyer.com/"
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 26 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-26-yang-der",
+          "name": "Der Yang",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 27 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-27-olmstead-kelly",
+          "name": "Kelly Olmstead",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    },
+    {
+      "office": "Judge 28 - District Court, 2nd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-ramsey-2026-district-court-28-verdeja-jennifer",
+          "name": "Jennifer L. Verdeja",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "St. Paul": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City Question 1",
+          "title": "Creating Chapter 34A of the Saint Paul Legislative Code",
+          "summary": "This question asks whether St. Paul should adopt a proposed ordinance on a tenant's right to repair. The ordinance would allow tenants to make repairs to their building after giving the landlord written notice, and deduct the cost from rent, up to $500 or one-half month's rent.",
+          "yesMeans": "A yes vote amends the City of Saint Paul's Legislative Code to adopt the proposed tenant right-to-repair ordinance.",
+          "noMeans": "A no vote makes no change to the City's Legislative Code.",
+          "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/50BC8F25-06F2-4D18-95CC-C43FC829343C.pdf"
+        }
+      ]
+    }
+  }
+}

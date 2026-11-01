@@ -1,0 +1,298 @@
+{
+  "state": "CO",
+  "county": "Arapahoe County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf",
+    "https://www.arapahoeco.gov/your_county/arapahoevotes/election_resources/index.php",
+    "https://www.arapahoeco.gov/your_county/elected_officials.php",
+    "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents/TABOR%20Notice%202026.pdf",
+    "https://www.arapahoeco.gov/news_detail_votes_T90_R1698.php"
+  ],
+  "note": "No countywide Arapahoe County ballot issues or questions, District Attorney, or Surveyor contest are on the 2026 ballot. Not shown: County Commissioner Districts 2 and 4 (elected by district), Regional Transportation District director races, state legislative and congressional districts, school district measures (Littleton Public Schools 4A, Bennett 5A), special district measures (including Hills at Cherry Creek 6A and Bennett Fire 7F/7G), and city contests and measures for cities other than Aurora (Centennial 2A, Glendale 2B, Cherry Hills Village offices and 2C, Sheridan 2D). Front Range Passenger Rail District Issue 7A covers only part of Arapahoe County; the county says about 262,000 voters outside the district's new lines received it on their ballot, and only votes from inside the district will be counted. No City of Littleton contests or measures are on the 2026 ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-clerk-lopez-joan",
+          "name": "Joan Lopez",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "co-arapahoe-2026-clerk-budd-annette",
+          "name": "Annette Budd",
+          "party": "Republican",
+          "incumbent": false,
+          "website": "https://annetteforarapahoe.com"
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-treasurer-westerberg-michael",
+          "name": "Michael Westerberg",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": "https://www.westerbergfortreasurer.com"
+        },
+        {
+          "key": "co-arapahoe-2026-treasurer-rutledge-bennett",
+          "name": "Bennett Rutledge",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": "https://bennettrutledge.info/"
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-assessor-kaiser-pk",
+          "name": "PK Kaiser",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "co-arapahoe-2026-assessor-lind-jesse",
+          "name": "Jesse Lind",
+          "party": "Republican",
+          "incumbent": false,
+          "website": "https://jesselindforassessor.com"
+        },
+        {
+          "key": "co-arapahoe-2026-assessor-ormiston-lee",
+          "name": "Lee D. Ormiston",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-sheriff-brown-tyler",
+          "name": "Tyler Scott Brown",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": "https://www.tylerbrownforsheriff.com/"
+        },
+        {
+          "key": "co-arapahoe-2026-sheriff-edling-kevin",
+          "name": "Kevin Scott Edling",
+          "party": "Republican",
+          "incumbent": false,
+          "website": "https://kevinedlingforsheriff.com"
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-coroner-bitting-casey",
+          "name": "Casey Bitting",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge Michelle Ann Amico? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-amico-michelle",
+          "name": "Michelle Ann Amico",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge LaQunya Latrese Baker-McKay? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-baker-mckay-laqunya",
+          "name": "LaQunya Latrese Baker-McKay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge Jacob A. Edson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-edson-jacob",
+          "name": "Jacob A. Edson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge Thomas W. Henderson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-henderson-thomas",
+          "name": "Thomas W. Henderson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge Michelle Jones? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-jones-michelle",
+          "name": "Michelle Jones",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge David N. Karpel? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-karpel-david",
+          "name": "David N. Karpel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge Natalie G. Stricklin? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-stricklin-natalie",
+          "name": "Natalie G. Stricklin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge Darren L. Vahle? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-vahle-darren",
+          "name": "Darren L. Vahle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District — retain Judge Christine A. Washburn? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-district-washburn-christine",
+          "name": "Christine A. Washburn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "Arapahoe County Court Judge — retain Judge Christina Marie Apostoli? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-county-apostoli-christina",
+          "name": "Christina Marie Apostoli",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "Arapahoe County Court Judge — retain Judge Colleen Clark? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-county-clark-colleen",
+          "name": "Colleen Clark",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    },
+    {
+      "office": "Arapahoe County Court Judge — retain Judge Cheryl Rowles-Stokes? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-arapahoe-2026-retain-county-rowles-stokes-cheryl",
+          "name": "Cheryl Rowles-Stokes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Aurora": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Aurora Ballot Issue 3A",
+          "title": "Referred measure to dedicate sales tax for community facilities, including libraries and recreation and community centers",
+          "summary": "Creates a new 0.129% City of Aurora sales and use tax (12.9 cents on every $100 purchase) from January 1, 2027 through December 31, 2057, raising up to $12,640,000 in the first year, for community facilities, including libraries and recreation and community centers. It also allows the city to issue up to $105,000,000 in revenue bonds, with a maximum repayment cost of $204,870,000, repaid from the new tax, for projects such as park renovations and new parks, recreation center improvements and new recreation centers, and library improvements and new libraries. The city could keep and spend all revenue from the tax as a voter-approved revenue change.",
+          "yesMeans": "Aurora adds the 0.129% sales and use tax through 2057 and may issue the stated bonds for community facilities, including libraries and recreation and community centers.",
+          "noMeans": "The new sales and use tax and bonds are not approved.",
+          "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf",
+          "moreInfo": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents/TABOR%20Notice%202026.pdf"
+        },
+        {
+          "id": "City of Aurora Ballot Issue 3B",
+          "title": "Referred measure to dedicate sales tax for public safety infrastructure and facilities",
+          "summary": "Creates a new 0.064% City of Aurora sales and use tax (6.4 cents on every $100 purchase) from January 1, 2027 through December 31, 2057, raising up to $6,270,000 in the first year, for public safety infrastructure and facilities. It also allows the city to issue up to $53,000,000 in revenue bonds, with a maximum repayment cost of $101,600,000, repaid from the new tax, for projects such as fire station renovations and remodels and Aurora 911 and police facility improvements. The city could keep and spend all revenue from the tax as a voter-approved revenue change.",
+          "yesMeans": "Aurora adds the 0.064% sales and use tax through 2057 and may issue the stated bonds for public safety infrastructure and facilities.",
+          "noMeans": "The new sales and use tax and bonds are not approved.",
+          "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf",
+          "moreInfo": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents/TABOR%20Notice%202026.pdf"
+        },
+        {
+          "id": "City of Aurora Ballot Issue 3C",
+          "title": "Referred measure to dedicate sales tax for transportation infrastructure and facilities",
+          "summary": "Creates a new 0.132% City of Aurora sales and use tax (13.2 cents on every $100 purchase) from January 1, 2027 through December 31, 2057, raising up to $12,940,000 in the first year, for transportation infrastructure and facilities. It also allows the city to issue up to $108,000,000 in revenue bonds, with a maximum repayment cost of $209,733,000, repaid from the new tax, for projects such as traffic, intersection and pedestrian safety improvements, major bridge replacements, and roadway improvements and expansion. The city could keep and spend all revenue from the tax as a voter-approved revenue change.",
+          "yesMeans": "Aurora adds the 0.132% sales and use tax through 2057 and may issue the stated bonds for transportation infrastructure and facilities.",
+          "noMeans": "The new sales and use tax and bonds are not approved.",
+          "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf",
+          "moreInfo": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents/TABOR%20Notice%202026.pdf"
+        },
+        {
+          "id": "City of Aurora Ballot Question 3D",
+          "title": "Referred measure to move the City of Aurora's regular municipal elections to even-numbered years",
+          "summary": "Amends the Aurora City Charter to move regular municipal elections from odd-numbered years to even-numbered years. It also amends the Charter to allow one-time shortened terms of office needed to make the transition.",
+          "yesMeans": "Aurora's regular city elections move to even-numbered years, with some terms shortened once to make the change.",
+          "noMeans": "Aurora's regular city elections stay in odd-numbered years.",
+          "source": "https://www.arapahoeco.gov/Clerk%20and%20Recorder/ArapahoeVotes/Documents-Articles/2026%20Sample%20Ballots/2026%20Arapahoe%20County%20General%20Election%20Sample%20Ballot%20-%20English.pdf"
+        }
+      ]
+    }
+  }
+}
