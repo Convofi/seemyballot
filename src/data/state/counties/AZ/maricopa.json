@@ -1,0 +1,735 @@
+{
+  "state": "AZ",
+  "county": "Maricopa County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf",
+    "https://elections.maricopa.gov/asset/jcr:5af11871-7e96-4ad1-a13a-5492f096c005/2026%20General%20Election%20Publicity%20Pamphlet%20-%20Maricopa%20County%20-%20Website%20Version.pdf",
+    "https://elections.maricopa.gov/asset/jcr:bfbe5c69-60a5-4e6c-89ef-8ab88fdf6e3b/2026%20General%20Election%20Write-In%20&%20Withdrawn%20Candidate%20List%20-%20Website%20List.pdf",
+    "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf",
+    "https://www.azcleanelections.gov/november-3-2026/maricopa",
+    "https://www.phoenix.gov/content/dam/phoenix/cityclerksite/documents/elections/WEB_ENG_Pub_Pamphlet_Nov_3_2026.pdf"
+  ],
+  "note": "Not shown: Board of Supervisors (not up in 2026), Justice of the Peace and Constable precincts, Community College District 3 and 4 seats, Special Health Care District 3 and 4 seats, EVIT and school district boards and measures, and other city and town contests and measures. County Attorney, Sheriff, Assessor, Recorder, Treasurer and School Superintendent were elected in 2024 and are not on this ballot. City of Phoenix has only district council races (Districts 2, 4, 6 and 8) and no citywide measures this year. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Clerk of the Superior Court",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-clerk-matta-sebastian",
+          "name": "Sebastian Seb Maximiliano Matta",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "az-maricopa-2026-clerk-dial-jeff",
+          "name": "Jeff Dial",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Maricopa County Community College District Governing Board, At-Large",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-mcccd-atlarge-crow-john",
+          "name": "John David Crow",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "az-maricopa-2026-mcccd-atlarge-schwiebert-judy",
+          "name": "Judy Schwiebert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge Michael S. Catlett? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-catlett-michael",
+          "name": "Michael S. Catlett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge Anni Hill Foster? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-foster-anni",
+          "name": "Anni Hill Foster",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge Randall M. Howe? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-howe-randall",
+          "name": "Randall M. Howe",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge Andrew M. Jacobs? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-jacobs-andrew",
+          "name": "Andrew M. Jacobs",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge Daniel J. Kiley? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-kiley-daniel",
+          "name": "Daniel J. Kiley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge James B. Morse? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-morse-james",
+          "name": "James B. Morse",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge Jennifer M. Perkins? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-perkins-jennifer",
+          "name": "Jennifer M. Perkins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division One: retain Judge David Weinzweig? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-coa1-weinzweig-david",
+          "name": "David Weinzweig",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Superior Court, Division 17: retain Judge Brad Astrowsky? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div17-astrowsky-brad",
+          "name": "Brad Astrowsky",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 37: retain Judge Michael C. Blair? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div37-blair-michael",
+          "name": "Michael C. Blair",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 53: retain Judge John Blanchard? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div53-blanchard-john",
+          "name": "John Blanchard",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 54: retain Judge Robert Ian Brooks? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div54-brooks-robert",
+          "name": "Robert Ian Brooks",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 76: retain Judge Sunita A. Cairo? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div76-cairo-sunita",
+          "name": "Sunita A. Cairo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 78: retain Judge Michelle Carson? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div78-carson-michelle",
+          "name": "Michelle Carson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 35: retain Judge Gregory S. Como? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div35-como-gregory",
+          "name": "Gregory S. Como",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 15: retain Judge Katherine (Kay) Margaret Cooper? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div15-cooper-katherine",
+          "name": "Katherine (Kay) Margaret Cooper",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 60: retain Judge Max-Henri Covil? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div60-covil-max-henri",
+          "name": "Max-Henri Covil",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 36: retain Judge Kristin R. Culbertson? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div36-culbertson-kristin",
+          "name": "Kristin R. Culbertson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 55: retain Judge Marvin L. Davis? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div55-davis-marvin",
+          "name": "Marvin L. Davis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 61: retain Judge Monica N.B. Edelstein? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div61-edelstein-monica",
+          "name": "Monica N.B. Edelstein",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 25: retain Judge Geoffrey H Fish? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div25-fish-geoffrey",
+          "name": "Geoffrey H Fish",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 29: retain Judge Dewain Fox? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div29-fox-dewain",
+          "name": "Dewain Fox",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 75: retain Judge Jillian Francis? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div75-francis-jillian",
+          "name": "Jillian Francis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 82: retain Judge Marischa Gilla? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div82-gilla-marischa",
+          "name": "Marischa Gilla",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 28: retain Judge Jennifer E. Green? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div28-green-jennifer",
+          "name": "Jennifer E. Green",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 86: retain Judge Lauren R. Guyton? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div86-guyton-lauren",
+          "name": "Lauren R. Guyton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 79: retain Judge Melody G. Harmon? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div79-harmon-melody",
+          "name": "Melody G. Harmon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 14: retain Judge Michael J. Herrod? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div14-herrod-michael",
+          "name": "Michael J. Herrod",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 74: retain Judge Charlene D Jackson? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div74-jackson-charlene",
+          "name": "Charlene D Jackson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 50: retain Judge Melissa I. Julian? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div50-julian-melissa",
+          "name": "Melissa I. Julian",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 80: retain Judge Amy Michelle Kalman? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div80-kalman-amy",
+          "name": "Amy Michelle Kalman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 51: retain Judge Joseph Kiefer? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div51-kiefer-joseph",
+          "name": "Joseph Kiefer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 32: retain Judge Ronee Korbin Steiner? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div32-korbin-steiner-ronee",
+          "name": "Ronee Korbin Steiner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 3: retain Judge Joseph C Kreamer? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div3-kreamer-joseph",
+          "name": "Joseph C Kreamer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 33: retain Judge Kerstin LeMaire? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div33-lemaire-kerstin",
+          "name": "Kerstin LeMaire",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 5: retain Judge Daniel G. Martin? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div5-martin-daniel",
+          "name": "Daniel G. Martin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 59: retain Judge Julie Mata? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div59-mata-julie",
+          "name": "Julie Mata",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 81: retain Judge Steven Warren McCarthy? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div81-mccarthy-steven",
+          "name": "Steven Warren McCarthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 26: retain Judge Frank William Moskowitz? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div26-moskowitz-frank",
+          "name": "Frank William Moskowitz",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 6: retain Judge Sam J. Myers? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div6-myers-sam",
+          "name": "Sam J. Myers",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 56: retain Judge Suzanne M. Nicholls? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div56-nicholls-suzanne",
+          "name": "Suzanne M. Nicholls",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 83: retain Judge Colleen O'Donnell-Smith? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div83-o-donnell-smith-colleen",
+          "name": "Colleen O'Donnell-Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 16: retain Judge Jay M. Polk? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div16-polk-jay",
+          "name": "Jay M. Polk",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 57: retain Judge Michael Z Rassas? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div57-rassas-michael",
+          "name": "Michael Z Rassas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 31: retain Judge Joshua D Rogers? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div31-rogers-joshua",
+          "name": "Joshua D Rogers",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 30: retain Judge Jeffrey Rueter? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div30-rueter-jeffrey",
+          "name": "Jeffrey Rueter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 27: retain Judge Jennifer Ryan-Touhill? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div27-ryan-touhill-jennifer",
+          "name": "Jennifer Ryan-Touhill",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 58: retain Judge Aryeh D. Schwartz? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div58-schwartz-aryeh",
+          "name": "Aryeh D. Schwartz",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 13: retain Judge Danielle J. Viola? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div13-viola-danielle",
+          "name": "Danielle J. Viola",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 7: retain Judge Randall H. Warner? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div7-warner-randall",
+          "name": "Randall H. Warner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 2: retain Judge Joseph C Welty? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div2-welty-joseph",
+          "name": "Joseph C Welty",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 34: retain Judge Roy \"Chuck\" Whitehead? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div34-whitehead-roy",
+          "name": "Roy \"Chuck\" Whitehead",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 85: retain Judge Paula Williams? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div85-williams-paula",
+          "name": "Paula Williams",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 84: retain Judge William R. Wingard? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div84-wingard-william",
+          "name": "William R. Wingard",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 52: retain Judge Cassie Bray Woo? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div52-woo-cassie",
+          "name": "Cassie Bray Woo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    },
+    {
+      "office": "Superior Court, Division 77: retain Judge Melissa Zabor? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-maricopa-2026-supct-div77-zabor-melissa",
+          "name": "Melissa Zabor",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maricopa.gov/asset/jcr:1673a1e7-bbed-4d76-94fe-ae0ccc1ce9d5/2026%20General%20Election%20Maricopa%20County%20Candidates%20On%20Ballot%20-%20Remediated.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition 413",
+      "title": "County Jails: Transaction Privilege Tax of One-Fifth of One Cent, the same rate as the existing jail facilities excise tax expiring in March 2027",
+      "summary": "Referred by the Maricopa County Board of Supervisors under A.R.S. 42-6109.02. It would levy a countywide sales (transaction privilege) tax of one-fifth of one cent, the same rate as the current jail facilities excise tax that expires in March 2027, for up to 20 years. The money may be used only to build, renovate, maintain and operate adult and juvenile jail facilities and for programs meant to reduce jail costs.",
+      "yesMeans": "A sales tax of one-fifth of one cent ($0.002) for county jail facilities and programs is approved, at the same rate as the current tax that is expiring.",
+      "noMeans": "The one-fifth of one cent ($0.002) sales tax for jail facilities and programs is rejected, and the current tax expires in March 2027.",
+      "source": "https://elections.maricopa.gov/asset/jcr:5af11871-7e96-4ad1-a13a-5492f096c005/2026%20General%20Election%20Publicity%20Pamphlet%20-%20Maricopa%20County%20-%20Website%20Version.pdf"
+    }
+  ],
+  "municipalities": {}
+}

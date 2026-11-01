@@ -1,0 +1,47 @@
+{
+  "state": "FL",
+  "county": "Orange County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://voteorangefl.gov/wp-content/uploads/2026/10/26GEN113-CB-EN-26-10-1-15-9-21.pdf",
+    "https://voteorangefl.gov/sample-ballots/"
+  ],
+  "note": "Not shown: County Commission districts (2, 4, 6, 7, 8), School Board District 3, Soil and Water Conservation Supervisor districts (1, 3, 5), and community development district seats. No Sheriff, Comptroller, Property Appraiser, Tax Collector or Supervisor of Elections contest, no 6th District Court of Appeal retention question, and no City of Orlando contest or question appear on the official November composite ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Mayor",
+      "candidates": [
+        { "key": "fl-orange-2026-county-mayor-messina-chris", "name": "Chris Messina", "party": "Nonpartisan", "incumbent": false },
+        { "key": "fl-orange-2026-county-mayor-russell-tiffany", "name": "Tiffany Moore Russell", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://voteorangefl.gov/wp-content/uploads/2026/10/26GEN113-CB-EN-26-10-1-15-9-21.pdf"
+    },
+    {
+      "office": "Clerk of Courts",
+      "candidates": [
+        { "key": "fl-orange-2026-clerk-of-courts-johnson-roberta", "name": "Roberta Walton Johnson", "party": "Democratic", "incumbent": false },
+        { "key": "fl-orange-2026-clerk-of-courts-thomas-terrell", "name": "Terrell Thomas", "party": "Independent", "incumbent": false }
+      ],
+      "source": "https://voteorangefl.gov/wp-content/uploads/2026/10/26GEN113-CB-EN-26-10-1-15-9-21.pdf"
+    },
+    {
+      "office": "Circuit Judge, 9th Judicial Circuit, Group 1",
+      "candidates": [
+        { "key": "fl-orange-2026-circuit-g1-hampton-johnson-temika", "name": "Temika Hampton-Johnson", "party": "Nonpartisan", "incumbent": false },
+        { "key": "fl-orange-2026-circuit-g1-hart-charles", "name": "Charles Hart", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://voteorangefl.gov/wp-content/uploads/2026/10/26GEN113-CB-EN-26-10-1-15-9-21.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "School Board Question",
+      "title": "The School Board of Orange County, Florida Ad Valorem Millage Election",
+      "summary": "Asks whether the School Board of Orange County should continue its current one-mill property tax for essential operating expenses, including pay for teachers and educational support staff and preserving academic programs, arts, athletics and student activities. The levy would run from July 1, 2027 through June 30, 2031, be shared proportionately with charter schools as required by law, and come with annual reporting.",
+      "yesMeans": "The current one-mill school operating levy continues from July 1, 2027 to June 30, 2031.",
+      "noMeans": "The current one-mill levy is not continued for that period.",
+      "source": "https://voteorangefl.gov/wp-content/uploads/2026/10/26GEN113-CB-EN-26-10-1-15-9-21.pdf"
+    }
+  ],
+  "municipalities": {}
+}

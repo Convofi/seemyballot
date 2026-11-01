@@ -1,0 +1,245 @@
+{
+  "state": "MI",
+  "county": "Wayne County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf",
+    "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-proposal-list_november-3-2026-2_1.pdf",
+    "https://www.waynecountymi.gov/Government/Elected-Officials/County-Executive"
+  ],
+  "note": "Not shown: County Commissioner (District 5 partial term), Wayne County Community College District trustees (Districts 2, 8, 9), Schoolcraft College trustees, district court judges (16th through 36th Districts, including Detroit's 36th District Court), city, township, library and school board offices, and city, township, school, library and college proposals. Each depends on a district the address lookup cannot resolve. No City of Detroit offices or proposals are on this ballot. County Executive is the only county office elected in 2026; Prosecutor, Sheriff, Clerk, Treasurer and Register of Deeds are elected in presidential years. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "mi-wayne-2026-exec-evans-warren",
+          "name": "Warren C. Evans",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-exec-evans-michael",
+          "name": "Michael A. Evans",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mi-wayne-2026-exec-olumba-john",
+          "name": "John Olumba",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-app1-2026-full-bazzi-mariam",
+          "name": "Mariam Saad Bazzi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-app1-2026-full-letica-anica",
+          "name": "Anica Letica",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-app1-2026-full-murray-christopher",
+          "name": "Christopher M. Murray",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-app1-2026-partial-lievense-andrew",
+          "name": "Andrew J. Lievense",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 3rd Circuit, Incumbent Position (6-year term)",
+      "seats": 16,
+      "candidates": [
+        {
+          "key": "mi-wayne-2026-circuit-inc-allen-david",
+          "name": "David J. Allen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-baker-robinson-chandra",
+          "name": "Chandra W. Baker-Robinson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-blount-christopher",
+          "name": "Christopher M. Blount",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-castka-nicole",
+          "name": "Nicole L. Castka",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-cobb-bradley",
+          "name": "Bradley L. Cobb",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-dingell-chris",
+          "name": "Chris Dingell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-elder-charlene",
+          "name": "Charlene M. Elder",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-farhat-helal",
+          "name": "Helal A. Farhat",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-goodson-nicole",
+          "name": "Nicole N. Goodson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-joseph-edward",
+          "name": "Edward J. Joseph",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-kelly-mary",
+          "name": "Mary Beth Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-knapp-don",
+          "name": "Don Knapp",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-miller-cylenthia",
+          "name": "Cylenthia LaToye Miller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-testani-carla",
+          "name": "Carla G. Testani",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-houten-margaret",
+          "name": "Margaret M. Van Houten",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-wayne-2026-circuit-inc-walker-shannon",
+          "name": "Shannon Nicol Walker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 3rd Circuit, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-wayne-2026-circuit-noninc-hawkins-shakira",
+          "name": "Shakira Lynn Hawkins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 3rd Circuit, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-wayne-2026-circuit-partial-sabree-aliyah",
+          "name": "Aliyah S. Sabree",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf"
+    },
+    {
+      "office": "Judge of Probate Court, Non-Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-wayne-2026-probate-noninc-colegrove-sarah",
+          "name": "Sarah Colegrove",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-wayne-2026-probate-noninc-fanning-suzanne",
+          "name": "Suzanne Fanning",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-wayne-2026-probate-noninc-moss-vanessa",
+          "name": "Vanessa M. Moss",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-candidate-list_november-3-2026.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Wayne County Zoological Authority Proposal",
+      "title": "Renewal of Wayne County Zoological Authority Millage in Support of the Detroit Zoo",
+      "summary": "Renews the Wayne County Zoological Authority property tax that funds the Detroit Zoo, first approved in 2008 and renewed in 2016. It would levy 0.10 mill ($0.10 per $1,000 of taxable value) on all taxable property in Wayne County for ten years, 2028 through 2037, restoring the 0.0018 mill lost to required rollbacks. The official ballot language estimates $6,145,462 in the first year.",
+      "yesMeans": "A YES vote renews and restores the 0.10 mill Detroit Zoo levy in Wayne County for 2028 through 2037.",
+      "noMeans": "A NO vote does not renew the levy, so the Zoological Authority millage would not be collected after it expires.",
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-proposal-list_november-3-2026-2_1.pdf"
+    },
+    {
+      "id": "Southeast Michigan Public Historical Museum Authority Proposal",
+      "title": "Southeast Michigan Public Historical Museum Authority Millage Proposal",
+      "summary": "Creates a new 0.2 mill tax ($0.20 per $1,000 of taxable value) on all taxable property in Wayne County for ten years, 2026 through 2035, levied by a joint Wayne and Oakland County authority. The money would support the Charles H. Wright Museum of African American History, the Detroit Historical Museum, the Dossin Great Lakes Museum, and, through 15% of Wayne County revenue after administrative costs, other historical museums in Wayne County. The official ballot language estimates about $12,219,200 from Wayne County property in 2026.",
+      "yesMeans": "A YES vote authorizes a new 0.2 mill tax in Wayne County for 2026 through 2035 to fund public historical museums.",
+      "noMeans": "A NO vote does not authorize the new historical museum tax.",
+      "source": "https://www.waynecountymi.gov/files/assets/mainsite/v/1/clerk/documents/elections/official-proposal-list_november-3-2026-2_1.pdf"
+    }
+  ],
+  "municipalities": {}
+}
