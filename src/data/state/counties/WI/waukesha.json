@@ -1,0 +1,42 @@
+{
+  "state": "WI",
+  "county": "Waukesha County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://storage.googleapis.com/juniper-media-library/484/2026/09/Sample%20Ballot%2011-3-2026.pdf",
+    "https://storage.googleapis.com/juniper-media-library/484/2026/09/November%203,2026%20Referendum%20Information.pdf",
+    "https://www.waukeshacounty.gov/county-clerks-office/election-information/",
+    "https://www.waukeshacounty.gov/media/gcfiyvk3/contests-by-reporting-unit-for-county-use.xlsx",
+    "https://www.waukeshacounty.gov/circuit-courts/clerk-of-circuit-court/",
+    "https://www.waukeshacounty.gov/sheriff/"
+  ],
+  "note": "Countywide contests are from the official November 3, 2026 sample ballot (Village of Wales, Waukesha County); myvote.wi.gov and elections.wi.gov blocked automated access. The Waukesha County Clerk's November 3 referendum notice lists only the three statewide questions, so there is no countywide referendum. The vacant County Executive seat is filled at a separate special election on December 15, 2026, not on this ballot. County Clerk, Treasurer and Register of Deeds are next elected in 2028, and County Board and City of Waukesha offices are elected in spring. No City of Waukesha referendum was found for November 3. Municipal and school district referenda are not shown here; check your official sample ballot at myvote.wi.gov for those.",
+  "contests": [
+    {
+      "office": "Waukesha County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-waukesha-2026-sheriff-ollinger-nick",
+          "name": "Nick Ollinger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://storage.googleapis.com/juniper-media-library/484/2026/09/Sample%20Ballot%2011-3-2026.pdf"
+    },
+    {
+      "office": "Waukesha County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-waukesha-2026-clerkcircuit-paz-monica",
+          "name": "Monica Paz",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storage.googleapis.com/juniper-media-library/484/2026/09/Sample%20Ballot%2011-3-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

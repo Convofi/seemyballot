@@ -1,0 +1,242 @@
+{
+  "state": "MO",
+  "county": "St. Charles County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.sccmo.org/DocumentCenter/View/29008",
+    "https://www.sccmo.org/DocumentCenter/View/29010",
+    "https://www.sccmo.org/2424/November-3-2026-General-Election-Voter-G",
+    "https://www.sccmo.org/DocumentCenter/View/20299/FEDERAL-STATE-AND-COUNTY-ELECTED-OFFICIALS-FEBRUARY-2023"
+  ],
+  "note": "From the St. Charles County Election Authority's official November 3, 2026 sample ballot (notice of election). Incumbents per the county's Federal, State & County Elected Officials list. St. Charles County judges are elected in partisan races (not under the Nonpartisan Court Plan); the circuit and associate circuit judge races listed here are uncontested. Proposition PARAMEDICS is shown countywide because the St. Charles County Ambulance District serves all of St. Charles County. Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Not shown: County Council Districts 1, 3, 5 and 7, U.S. House, state Senate and House districts, City of St. Charles Council Ward 4 (unexpired term), and school district and fire protection district questions (Fort Zumwalt R-II Proposition 1, Francis Howell R-III Propositions H and O, Orchard Farm R-V Proposition T, Central County Fire and Rescue Proposition T). The City of St. Charles and O'Fallon have no citywide contest or question on this ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-executive-ehlmann-steve",
+          "name": "Steve Ehlmann",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "mo-stcharles-2026-executive-veneziano-david",
+          "name": "David Veneziano",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Director of Elections",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-director-elections-bahr-kurt",
+          "name": "Kurt Bahr",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "mo-stcharles-2026-director-elections-freese-carl",
+          "name": "Carl Herman Freese",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-recorder-dempsey-mary",
+          "name": "Mary E Dempsey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-prosecutor-mcculloch-joseph",
+          "name": "Joseph G McCulloch",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-collector-mcbride-michelle",
+          "name": "Michelle D McBride",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-sheriff-lewis-scott",
+          "name": "Scott A. Lewis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-assessor-welge-travis",
+          "name": "Travis Welge",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Circuit Judge, 11th Judicial Circuit, Division 1",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-circuit-div1-smith-brittney",
+          "name": "Brittney R. Smith",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Associate Circuit Judge, 11th Judicial Circuit, Division 6",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-assoc-circuit-div6-mcculloch-trisha",
+          "name": "Trisha Elizabeth McCulloch",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Associate Circuit Judge, 11th Judicial Circuit, Division 8",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-assoc-circuit-div8-lassiter-peter",
+          "name": "Peter A Lassiter",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Associate Circuit Judge, 11th Judicial Circuit, Division 9",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-assoc-circuit-div9-sandcork-jeff",
+          "name": "Jeff Sandcork",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Associate Circuit Judge, 11th Judicial Circuit, Division 10",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-assoc-circuit-div10-chassaniol-dennis",
+          "name": "Dennis Chassaniol",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Associate Circuit Judge, 11th Judicial Circuit, Division 11",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-assoc-circuit-div11-childress-denise",
+          "name": "Denise L. Childress",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Associate Circuit Judge, 11th Judicial Circuit, Division 12",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-assoc-circuit-div12-byrnes-william",
+          "name": "William Byrnes",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-retain-appeals-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-retain-appeals-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stcharles-2026-retain-appeals-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition PARAMEDICS",
+      "title": "St. Charles County Ambulance District sales tax for paramedics and emergency medical services",
+      "summary": "This question asks whether the St. Charles County Ambulance District, which serves all municipalities and unincorporated areas of St. Charles County, should impose a sales tax of 3/8 of 1% (0.375%) to fund its operations, including hiring paramedics and providing emergency medical services. Each year, the district's total property tax levy would be reduced by an amount equal to half of the previous year's revenue from this sales tax. The ballot states that for every five dollars spent on applicable purchases, the cost to a consumer would be less than two cents.",
+      "yesMeans": "The ambulance district imposes a 3/8-cent sales tax for its operations, and its property tax levy is reduced each year by half of the prior year's sales tax revenue.",
+      "noMeans": "The ambulance district does not impose this sales tax, and its property tax levy is not reduced under this question.",
+      "source": "https://www.sccmo.org/DocumentCenter/View/29008",
+      "moreInfo": "https://www.sccmo.org/2424/November-3-2026-General-Election-Voter-G"
+    }
+  ],
+  "municipalities": {}
+}

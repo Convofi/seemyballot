@@ -1,0 +1,70 @@
+{
+  "state": "OR",
+  "county": "Washington County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.washingtoncountyor.gov/elections/current-election",
+    "https://www.washingtoncountyor.gov/elections/documents/november-3-2026-voters-pamphlet/download?inline",
+    "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf"
+  ],
+  "note": "Not shown: Washington County Commissioner District 4 (Kipperlyn Sinclair vs. Steve Callaway), Hillsboro City Council Wards 1, 2 and 3 (Position A), city offices and measures in Banks, Cornelius, Durham, Forest Grove, Gaston, King City, Lake Oswego, North Plains, Portland, Rivergrove, Sherwood, Tigard, Tualatin and Wilsonville, Tualatin and West Multnomah Soil & Water Conservation District directors, and school-district measures (Hillsboro School District 34-355). Measure 34-352 (law enforcement levy) is a City of Banks measure, not countywide. Check your sample ballot for those. No countywide measures and no Sheriff, District Attorney or Auditor races are on this ballot; Hillsboro has no citywide contests or measures this election.",
+  "contests": [
+    {
+      "office": "Washington County Commissioner At-Large (Chair)",
+      "candidates": [
+        {
+          "key": "or-washington-2026-chair-fai-nafisa",
+          "name": "Nafisa Fai",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-washington-2026-chair-treece-pam",
+          "name": "Pam Treece",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washingtoncountyor.gov/elections/current-election"
+    },
+    {
+      "office": "Judge of the Circuit Court, 20th District, Position 1",
+      "candidates": [
+        {
+          "key": "or-washington-2026-circuit-pos1-tourville-zohra",
+          "name": "Zohra Tourville",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Beaverton": {
+      "contests": [
+        {
+          "office": "Beaverton City Council, Position 1",
+          "candidates": [
+            {
+              "key": "or-beaverton-2026-council-pos1-kocher-evelyn",
+              "name": "Evelyn Kocher",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-beaverton-2026-council-pos1-philip-rachel",
+              "name": "Rachel Philip",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washingtoncountyor.gov/elections/current-election"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

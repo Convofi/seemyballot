@@ -1,0 +1,234 @@
+{
+  "state": "OR",
+  "county": "Clackamas County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.clackamas.us/elections/november-3-2026-general-election",
+    "https://docs.clackamas.us/documents/drupal/03f4f9db-a1ab-4a1f-9ce1-16059d49a513",
+    "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f",
+    "https://docs.clackamas.us/documents/drupal/11adcfe0-1df4-4a9d-ad00-30bcf2701bca",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf"
+  ],
+  "note": "Not shown: offices in other Clackamas County cities (including Canby, Estacada, Gladstone, Happy Valley, Milwaukie, Sandy, Tualatin, West Linn, Wilsonville and the Portland City Council districts), Clackamas Soil and Water Conservation District directors, and city, school-district and special-district measures (3-638 Estacada, 3-639 North Clackamas SD, 3-640 Monitor RFPD, 3-641 Wilsonville, 3-642 and 3-643 Canby, 3-644 Gladstone SD, 24-528 Silver Falls SD, 24-529 Mt. Angel-Monitor Fire District). Check your sample ballot for those. No countywide Clackamas County measures, Board Chair, Assessor or District Attorney races are on this ballot. Lake Oswego residents who live in Multnomah or Washington County also vote in the Lake Oswego City Council race.",
+  "contests": [
+    {
+      "office": "Clackamas County Clerk",
+      "candidates": [
+        {
+          "key": "or-clackamas-2026-clerk-mcmullen-catherine",
+          "name": "Catherine McMullen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "or-clackamas-2026-clerk-reaksecker-mark",
+          "name": "Mark Reaksecker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election"
+    },
+    {
+      "office": "Clackamas County Treasurer",
+      "candidates": [
+        {
+          "key": "or-clackamas-2026-treasurer-nava-brian",
+          "name": "Brian T Nava",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election"
+    },
+    {
+      "office": "Clackamas County Sheriff",
+      "candidates": [
+        {
+          "key": "or-clackamas-2026-sheriff-oneil-brad",
+          "name": "Brad O'Neil",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-clackamas-2026-sheriff-rhodes-james",
+          "name": "James Rhodes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election"
+    },
+    {
+      "office": "Clackamas County Commissioner, Position 2",
+      "candidates": [
+        {
+          "key": "or-clackamas-2026-commissioner-pos2-shull-mark",
+          "name": "Mark Shull",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-clackamas-2026-commissioner-pos2-savas-paul",
+          "name": "Paul Savas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election"
+    },
+    {
+      "office": "Clackamas County Commissioner, Position 4",
+      "candidates": [
+        {
+          "key": "or-clackamas-2026-commissioner-pos4-smith-rw",
+          "name": "R W Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-clackamas-2026-commissioner-pos4-helm-diana",
+          "name": "Diana Helm",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election"
+    },
+    {
+      "office": "Clackamas County Justice of the Peace",
+      "candidates": [
+        {
+          "key": "or-clackamas-2026-justiceofthepeace-rastetter-kathleen",
+          "name": "Kathleen Rastetter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election"
+    },
+    {
+      "office": "Judge of the Circuit Court, 5th District, Position 5",
+      "candidates": [
+        {
+          "key": "or-clackamas-2026-circuit-pos5-brooks-kara",
+          "name": "Kara A Brooks",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Oregon City": {
+      "contests": [
+        {
+          "office": "City of Oregon City Mayor",
+          "candidates": [
+            {
+              "key": "or-oregoncity-2026-mayor-mabee-damon",
+              "name": "Damon Mabee",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-oregoncity-2026-mayor-marl-adam",
+              "name": "Adam Marl",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-oregoncity-2026-mayor-labarr-rodney",
+              "name": "Rodney La Barr",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+        },
+        {
+          "office": "City of Oregon City Commissioner",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "or-oregoncity-2026-commissioner-mumm-betty",
+              "name": "Betty Mumm",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-oregoncity-2026-commissioner-nicita-james",
+              "name": "James Nicita",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-oregoncity-2026-commissioner-espe-paul",
+              "name": "Paul Espe",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-oregoncity-2026-commissioner-lawrence-gordon",
+              "name": "Gordon J Lawrence",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://docs.clackamas.us/documents/drupal/5bbe34f4-5f57-4a8e-b0e2-3af19ce68d0f"
+        }
+      ],
+      "measures": []
+    },
+    "Lake Oswego": {
+      "contests": [
+        {
+          "office": "City of Lake Oswego Councilor",
+          "seats": 4,
+          "candidates": [
+            {
+              "key": "or-lakeoswego-2026-councilor-guiney-bryan",
+              "name": "Bryan Guiney",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-lakeoswego-2026-councilor-walsh-patrick",
+              "name": "Patrick Walsh",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-lakeoswego-2026-councilor-miles-suzanne",
+              "name": "Suzanne Miles",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-lakeoswego-2026-councilor-tiemann-peren",
+              "name": "Peren Tiemann",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-lakeoswego-2026-councilor-tunmore-neil",
+              "name": "Neil Tunmore",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-lakeoswego-2026-councilor-ramsey-heather",
+              "name": "Heather Ramsey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://docs.clackamas.us/documents/drupal/11adcfe0-1df4-4a9d-ad00-30bcf2701bca"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

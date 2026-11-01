@@ -1,0 +1,137 @@
+{
+  "state": "IL",
+  "county": "Will County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.willcountyclerk.gov/november-3-2026-general-election/",
+    "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Candidates/Countywide.pdf",
+    "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Notices/SpecimenBallot.pdf",
+    "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/AllSampleBallots.pdf",
+    "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Candidates/WRITEINLIST.pdf"
+  ],
+  "note": "Not shown: Will County Board districts 1-5, 8, 9 and 11 (the County Board also serves as the Forest Preserve District board; there is no separate countywide forest preserve office), Regional Superintendent of Schools (Will voters are split among the Will, DuPage, Grundy-Kendall and Iroquois-Kankakee regional offices of education depending on school district), 12th Judicial Circuit subcircuit vacancies (1st, 3rd and 5th subcircuits; there are no countywide circuit vacancies), sanitary district trustees, Congress and state legislature, and all local propositions (Joliet Township advisory questions on redistricting and AI data centers, Crete, Frankfort, Green Garden and DuPage township advisory questions, City of Aurora, Richland SD 88A, Troy CCSD 30-C, Oswego CUSD 308, Braidwood and Frankfort fire protection districts). County Executive and State's Attorney are not up in 2026. There is no countywide referendum, and the City of Joliet has no citywide question. Write-in filings in Will County are for state and legislative offices only. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Will County Clerk",
+      "candidates": [
+        {
+          "key": "il-will-2026-clerk-parker-annette",
+          "name": "Annette Parker",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "il-will-2026-clerk-stiff-michelle",
+          "name": "Michelle Stiff",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Candidates/Countywide.pdf"
+    },
+    {
+      "office": "Will County Sheriff",
+      "candidates": [
+        {
+          "key": "il-will-2026-sheriff-reilly-james",
+          "name": "James \"Jim\" Reilly",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-will-2026-sheriff-jones-patrick",
+          "name": "Patrick Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Candidates/Countywide.pdf"
+    },
+    {
+      "office": "Will County Treasurer",
+      "candidates": [
+        {
+          "key": "il-will-2026-treasurer-maurella-carmen",
+          "name": "Carmen Maurella III",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-will-2026-treasurer-brophy-tim",
+          "name": "Tim Brophy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Candidates/Countywide.pdf"
+    },
+    {
+      "office": "Judge of the Illinois Appellate Court, 3rd District (Vacancy of McDade)",
+      "candidates": [
+        {
+          "key": "il-will-2026-appellate-mcdade-helland-jason",
+          "name": "Jason A. Helland",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-will-2026-appellate-mcdade-o-connell-margaret",
+          "name": "Margaret \"Peggy\" O'Connell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Notices/SpecimenBallot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 12th Judicial Circuit — retain Judge Amy M. Bertani-Tomczak? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-will-2026-retain-circuit-bertani-tomczak-amy",
+          "name": "Amy M. Bertani-Tomczak",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Notices/SpecimenBallot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 12th Judicial Circuit — retain Judge Sarah Jones? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-will-2026-retain-circuit-jones-sarah",
+          "name": "Sarah Jones",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Notices/SpecimenBallot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 12th Judicial Circuit — retain Judge Daniel L. Kennedy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-will-2026-retain-circuit-kennedy-daniel",
+          "name": "Daniel L. Kennedy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Notices/SpecimenBallot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 12th Judicial Circuit — retain Judge Daniel D. Rippy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-will-2026-retain-circuit-rippy-daniel",
+          "name": "Daniel D. Rippy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/will-il.connect.clarityelections.com/Elections/2026GeneralElection/Notices/SpecimenBallot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
