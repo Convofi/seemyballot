@@ -1,0 +1,211 @@
+{
+  "state": "MO",
+  "county": "Jackson County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf",
+    "https://kceb.org/sample-ballot-for-november-3-2026-election/",
+    "https://drive.google.com/file/d/1K9yPQmPpIB1g9qoErahvNjTGhrBRi9A2/view?usp=sharing"
+  ],
+  "note": "County Legislature in-district seats (Districts 1-6 on the ballot depending on address), U.S. House, state legislative districts, and city or fire-district questions outside Kansas City (Blue Springs, Independence, Lee's Summit, Sni Valley Fire Protection District) are not shown here because they depend on where you live in the county. Prosecuting Attorney and Sheriff are not on the November 2026 ballot. Kansas City has no city-wide question on this ballot; the Kansas City part of Jackson County votes through the Kansas City Election Board and the rest of the county through the Jackson County Election Board, and both list the same countywide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Jackson County Executive",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-county-executive-rohlfing-alan",
+          "name": "Alan Rohlfing",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-jackson-2026-county-executive-lake-stacy",
+          "name": "Stacy Lake",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "County Legislator, 1st District At-Large",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-legislator-al1-pollard-lance",
+          "name": "Lance Pollard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-jackson-2026-legislator-al1-fields-carla",
+          "name": "Carla Fields",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "County Legislator, 2nd District At-Large",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-legislator-al2-cabrera-gresia",
+          "name": "Gresia Cabrera",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-jackson-2026-legislator-al2-peyton-donna",
+          "name": "Donna Peyton",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "County Legislator, 3rd District At-Large",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-legislator-al3-wilson-susan",
+          "name": "Susan B. Wilson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Western District — retain Judge Lisa White Hardwick? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-appwd-hardwick-lisa",
+          "name": "Lisa White Hardwick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Circuit Judge, 16th Judicial Circuit, Division 2 — retain Judge Kenneth R. Garrett, III? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div2-garrett-kenneth",
+          "name": "Kenneth R. Garrett, III",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Circuit Judge, 16th Judicial Circuit, Division 4 — retain Judge Patrick C. Edwards? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div4-edwards-patrick",
+          "name": "Patrick C. Edwards",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Circuit Judge, 16th Judicial Circuit, Division 14 — retain Judge Lauren D. Barrett? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div14-barrett-lauren",
+          "name": "Lauren D. Barrett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Circuit Judge, 16th Judicial Circuit, Division 17 — retain Judge Cory L. Atkins? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div17-atkins-cory",
+          "name": "Cory L. Atkins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Circuit Judge, 16th Judicial Circuit, Division 18 — retain Judge Kevin D. Harrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div18-harrell-kevin",
+          "name": "Kevin D. Harrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 16th Judicial Circuit, Division 25 — retain Judge Abbie Rothermich? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div25-rothermich-abbie",
+          "name": "Abbie Rothermich",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 16th Judicial Circuit, Division 26 — retain Judge R. Travis Willingham? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div26-willingham-r-travis",
+          "name": "R. Travis Willingham",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 16th Judicial Circuit, Division 27 — retain Judge Kea S. Bird-Riley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div27-bird-riley-kea",
+          "name": "Kea S. Bird-Riley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 16th Judicial Circuit, Division 31 — retain Judge Mary Frances Weir? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "mo-jackson-2026-retain-cir16-div31-weir-mary",
+          "name": "Mary Frances Weir",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question 1",
+      "title": "Continue the Jackson County anti-crime sales tax (COMBAT)",
+      "summary": "This question asks whether Jackson County should continue its quarter-cent anti-crime sales tax, known as COMBAT, for ten more years. The money would pay for public safety, including drug abuse prevention and treatment and the investigation, prosecution and detention of violent criminals and drug dealers. Proceeds would go into a separate Jackson County Anti-Crime Sales Tax Trust Fund, apart from the county's general fund.",
+      "yesMeans": "The one-quarter-cent COMBAT sales tax continues for ten years to fund public safety and drug abuse prevention and treatment programs.",
+      "noMeans": "The COMBAT sales tax is not continued under this question.",
+      "source": "https://jcebmo.org/wp-content/uploads/11.03.26-Notice-of-Election-Sample-Ballot-Poster.pdf",
+      "moreInfo": "https://kceb.org/sample-ballot-for-november-3-2026-election/"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,272 @@
+{
+  "state": "NC",
+  "county": "Mecklenburg County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://vote.mecknc.gov/2026-offices-ballot-and-filing-fees",
+    "https://vote.mecknc.gov/upcoming-elections",
+    "https://bocc.mecknc.gov/",
+    "https://www.nccourts.gov/judicial-directory?field_county_target_id=197",
+    "https://www.mecksheriff.com/",
+    "https://conserve.mecknc.gov/Board"
+  ],
+  "note": "Not shown: County Commissioner districts 1-6, NC Superior Court Judge districts 26C, 26F and 26H (each is only part of Mecklenburg County under G.S. 7A-41), and state legislative and U.S. House districts. Check your official sample ballot for those. There is no county-wide measure in 2026; Charlotte city offices and the Charlotte-Mecklenburg Board of Education at-large seats are next elected in 2027.",
+  "contests": [
+    {
+      "office": "Mecklenburg County Board of Commissioners At-Large",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-commissioner-at-large-altman-leigh",
+          "name": "Leigh Altman",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nc-mecklenburg-2026-commissioner-at-large-townsend-ingram-yvette",
+          "name": "Yvette Townsend-Ingram",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nc-mecklenburg-2026-commissioner-at-large-griffin-arthur",
+          "name": "Arthur Griffin, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Mecklenburg County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-sheriff-mcfadden-garry",
+          "name": "Garry L. McFadden",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Mecklenburg County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-clerk-superior-court-gary-elisa",
+          "name": "Elisa Chinn Gary",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "District Attorney, District 26",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-attorney-merriweather-spencer",
+          "name": "Spencer Merriweather",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 13",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-13-davis-roderick",
+          "name": "Roderick G. Davis",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 14",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-14-levine-alyssa",
+          "name": "Alyssa M. Levine",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 15",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-15-fleet-jennifer",
+          "name": "Jennifer L. Fleet",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 16",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-16-newton-matthew",
+          "name": "Matt Newton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 17",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-17-mcthenia-paige",
+          "name": "Paige McThenia",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 18",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-18-cannon-habekah",
+          "name": "Habekah Cannon",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 19",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-19-mobley-samantha",
+          "name": "Samantha C. Mobley",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 20",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-20-mccallum-karen",
+          "name": "Karen D. McCallum",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 21",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-21-patterson-wrighten-rhonda",
+          "name": "Rhonda L. Patterson-Wrighten",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge, District 26, Seat 6 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-district-court-seat-06-unexpired-best-kimberly",
+          "name": "Kimberly Y. Best",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Mecklenburg Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-mecklenburg-2026-soil-water-bleiweis-barbara",
+          "name": "Barbara Bleiweis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nc-mecklenburg-2026-soil-water-betterly-michael",
+          "name": "Michael Betterly",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mecklenburg-2026-soil-water-tran-long",
+          "name": "Long Tran",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mecklenburg-2026-soil-water-pearce-makenzie",
+          "name": "Makenzie Pearce",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mecklenburg-2026-soil-water-king-jillian",
+          "name": "Jillian King",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Charlotte": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Charlotte Transportation Bonds Referendum",
+          "title": "City of Charlotte Transportation Bonds",
+          "summary": "Asks whether the City of Charlotte may borrow up to $280,000,000 by issuing bonds to pay for street, road, intersection, sidewalk, bike and pedestrian path, bridge, storm drainage and related transportation improvements. The official ballot statement estimates the total cost over the life of the bonds at $437,113,600 ($280,000,000 principal plus $157,113,600 interest) and estimates the property tax increase needed to repay them at $0.00 per year per $100,000 of property value. If approved, the city may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+          "yesMeans": "The City of Charlotte may issue up to $280,000,000 in bonds for street, road, intersection, sidewalk, bike and pedestrian path, bridge, storm drainage and related transportation improvements, and may levy property taxes sufficient to repay them.",
+          "noMeans": "The City of Charlotte may not issue these $280,000,000 in bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://vote.mecknc.gov/upcoming-elections"
+        },
+        {
+          "id": "City of Charlotte Housing Bonds Referendum",
+          "title": "City of Charlotte Housing Bonds",
+          "summary": "Asks whether the City of Charlotte may borrow up to $125,000,000 by issuing bonds to pay for housing projects for people with low or moderate incomes, including related infrastructure and land. The official ballot statement estimates the total cost over the life of the bonds at $198,396,312.50 ($125,000,000 principal plus $73,396,312.50 interest) and estimates the property tax increase needed to repay them at $0.00 per year per $100,000 of property value. If approved, the city may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+          "yesMeans": "The City of Charlotte may issue up to $125,000,000 in bonds for housing projects for people with low or moderate incomes, including related infrastructure and land, and may levy property taxes sufficient to repay them.",
+          "noMeans": "The City of Charlotte may not issue these $125,000,000 in bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://vote.mecknc.gov/upcoming-elections"
+        },
+        {
+          "id": "City of Charlotte Neighborhood Improvement Bonds Referendum",
+          "title": "City of Charlotte Neighborhood Improvement Bonds",
+          "summary": "Asks whether the City of Charlotte may borrow up to $20,000,000 by issuing bonds to pay for neighborhood infrastructure such as curbs, gutters, storm drainage, sidewalks, bike and pedestrian paths, street resurfacing, lighting and public open space. The official ballot statement estimates the total cost over the life of the bonds at $31,222,400 ($20,000,000 principal plus $11,222,400 interest) and estimates the property tax increase needed to repay them at $0.00 per year per $100,000 of property value. If approved, the city may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+          "yesMeans": "The City of Charlotte may issue up to $20,000,000 in bonds for neighborhood infrastructure such as curbs, gutters, storm drainage, sidewalks, bike and pedestrian paths, street resurfacing, lighting and public open space, and may levy property taxes sufficient to repay them.",
+          "noMeans": "The City of Charlotte may not issue these $20,000,000 in bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://vote.mecknc.gov/upcoming-elections"
+        }
+      ]
+    }
+  }
+}

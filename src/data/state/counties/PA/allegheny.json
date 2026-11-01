@@ -1,0 +1,22 @@
+{
+  "state": "PA",
+  "county": "Allegheny County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.alleghenycounty.us/files/assets/county/v/4/government/elections/documents/ballot-questions-november-2026-general-election-8-19-2026.pdf",
+    "https://www.alleghenycounty.us/files/assets/county/v/4/government/elections/documents/unofficial_general_election_candidate_list_08272026.xlsx"
+  ],
+  "note": "One countywide Home Rule Charter question is shown. No county offices, no City of Pittsburgh offices or ballot questions, and no Allegheny County judicial elections or retention questions are on the November 3, 2026 ballot (Pennsylvania holds municipal and judicial elections in odd-numbered years). U.S. House, State Senate and State House races depend on your district and are not shown here, nor are local questions limited to a single municipality (Braddock, Duquesne, Penn Hills) or the Whitehall Borough Council race. Check your official sample ballot for those.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Proposed Amendment to the County of Allegheny Home Rule Charter",
+      "title": "Repeal of Article III, Subsection 7(c): County Council Staff, District Offices and Benefits",
+      "summary": "Repeals Article III, Subsection 7(c) of the Allegheny County Home Rule Charter, which bars County Council members from receiving County funding for personal staff, district offices, and fringe benefits such as health and life insurance, pensions, or personal motor vehicles. Council members currently receive only a stipend. The change does not itself create a budget or funding allocation for these benefits.",
+      "yesMeans": "The restriction is removed, so County Council members could in the future receive County funding for personal staff, district offices, and fringe benefits.",
+      "noMeans": "The Charter continues to bar County Council members from receiving County funding for personal staff, district offices, and fringe benefits.",
+      "source": "https://www.alleghenycounty.us/files/assets/county/v/4/government/elections/documents/ballot-questions-november-2026-general-election-8-19-2026.pdf"
+    }
+  ],
+  "municipalities": {}
+}
