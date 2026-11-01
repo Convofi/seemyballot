@@ -1,0 +1,240 @@
+{
+  "state": "CA",
+  "county": "Contra Costa County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.contracostavote.gov/election/november-3-2026-general-election/",
+    "https://www.contracostavote.gov/m9001-en-2/",
+    "https://www.contracostavote.gov/cs6501-en/",
+    "https://www.contracostavote.gov/cs5316-en/",
+    "https://www.contracostavote.gov/m9007-en/",
+    "https://www.contracostavote.gov/m9009-en-2/",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "No county offices, Superior Court contests or countywide county measures are on the November ballot (none appear on the Contra Costa County Elections Division's November 3, 2026 list of candidates and measures). Not shown: U.S. Representative (Districts 8, 9, 10), State Assembly (Districts 11, 14, 15, 16), Board of Supervisors and BART districts (none on this ballot), Concord City Council Districts 1, 3 and 5, Martinez City Council District 1, councils, mayors, clerks, treasurers and measures of other cities (Antioch, Brentwood, Clayton, Danville, El Cerrito, Hercules, Moraga, Orinda, Pinole, Pittsburg, Pleasant Hill, San Pablo, San Ramon, Walnut Creek; Measures M, N, P, R, S, T, U), County Board of Education Area 2, Contra Costa Community College District Wards 1 and 3, school district boards and measures (V, W, X), and special districts (EBMUD, East Bay Regional Park, Contra Costa Water, sanitary, fire and others). Check your sample ballot for these.",
+  "contests": [
+    {
+      "office": "Board of Equalization Member, District 2",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-boe2-lieber-sally",
+          "name": "Sally J. Lieber",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ca-contra-costa-2026-boe2-pimentel-john",
+          "name": "John Pimentel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Monique Langhorne Wilson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div1-wilson-monique",
+          "name": "Monique Langhorne Wilson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Charles A. Smiley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div1-smiley-charles",
+          "name": "Charles A. Smiley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Kathleen M. Banke? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div1-banke-kathleen",
+          "name": "Kathleen M. Banke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Two — retain Therese M. Stewart? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div2-stewart-therese",
+          "name": "Therese M. Stewart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Two — retain Tara M. Desautels? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div2-desautels-tara",
+          "name": "Tara M. Desautels",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Ioana Petrou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div3-petrou-ioana",
+          "name": "Ioana Petrou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Victor A. Rodriguez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div3-rodriguez-victor",
+          "name": "Victor A. Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Four — retain Tracie L. Brown? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div4-brown-tracie",
+          "name": "Tracie L. Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Danny Y. Chou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div5-chou-danny",
+          "name": "Danny Y. Chou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Mark Simons? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div5-simons-mark",
+          "name": "Mark Simons",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Gordon Burns? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-contra-costa-2026-retain-app1-div5-burns-gordon",
+          "name": "Gordon Burns",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure RTM",
+      "title": "Regional Transit Measure",
+      "summary": "Would enact a sales tax of 0.5% in Alameda, Contra Costa, San Mateo and Santa Clara counties and 1% in San Francisco for 14 years, estimated to raise about $980 million a year. The money would go to transit service including BART, Caltrain, VTA, SamTrans, AC Transit and Muni, to transit safety, cleanliness, affordability and reliability, and to repairing targeted roads and potholes, with financial transparency and oversight requirements. It is decided by a majority of all votes cast across the five-county Public Transit Revenue Measure District.",
+      "yesMeans": "You want to enact the regional transit sales tax for 14 years.",
+      "noMeans": "You do not want to enact the tax.",
+      "source": "https://www.contracostavote.gov/m9001-en-2/",
+      "moreInfo": "https://www.contracostavote.gov/election/november-3-2026-general-election/"
+    }
+  ],
+  "municipalities": {
+    "Richmond": {
+      "contests": [
+        {
+          "office": "Mayor, City of Richmond",
+          "candidates": [
+            {
+              "key": "ca-contra-costa-2026-richmond-mayor-jimenez-claudia",
+              "name": "Claudia Jiménez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-contra-costa-2026-richmond-mayor-anderson-ahmad",
+              "name": "Ahmad Anderson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.contracostavote.gov/election/november-3-2026-general-election/"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Measure Q",
+          "title": "City of Richmond Fire Facilities Bond",
+          "summary": "Would authorize the City of Richmond to issue up to $120 million in general obligation bonds to modernize and rehabilitate firefighter housing and facilities, including mold and asbestos removal, electrical, plumbing and roof replacement, and disaster resiliency improvements, to support 911 emergency medical response. The bonds would be repaid by a property tax estimated to average $22.15 per $100,000 of assessed value, about $7.57 million a year while the bonds are outstanding, with citizen oversight and audits. It requires two-thirds approval.",
+          "yesMeans": "You want Richmond to issue up to $120 million in bonds for fire facilities, repaid by a property tax.",
+          "noMeans": "You do not want Richmond to issue these bonds or levy the tax.",
+          "source": "https://www.contracostavote.gov/m9009-en-2/",
+          "moreInfo": "https://www.contracostavote.gov/election/november-3-2026-general-election/"
+        }
+      ]
+    },
+    "Concord": {
+      "contests": [
+        {
+          "office": "City Treasurer, City of Concord",
+          "candidates": [
+            {
+              "key": "ca-contra-costa-2026-concord-treasurer-barsotti-patti",
+              "name": "Patti Barsotti",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.contracostavote.gov/election/november-3-2026-general-election/"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Measure O",
+          "title": "Business License Tax Simplification Ballot Measure",
+          "summary": "Would replace Concord's tiered gross-receipts business license tax rates, which decline from 0.1% to 0.03% as gross receipts rise, with a single 0.1% rate, raising an estimated additional $2.9 million a year for general city purposes until ended by voters. It would exempt any business with under $5,000 in gross receipts, apply inflation adjustments to the $25 minimum tax, add interest on delinquent amounts, and require an annual audit report reviewed by the Measure V Citizens' Oversight Committee. Rates for manufacturing, specified professions, apartments, hotels, contractors and other listed categories would not change.",
+          "yesMeans": "You want Concord to adopt a single 0.1% gross-receipts business license tax rate.",
+          "noMeans": "You want Concord to keep its existing tiered business license tax rates.",
+          "source": "https://www.contracostavote.gov/m9007-en/",
+          "moreInfo": "https://www.contracostavote.gov/election/november-3-2026-general-election/"
+        }
+      ]
+    }
+  }
+}

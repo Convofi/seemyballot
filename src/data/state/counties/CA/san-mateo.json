@@ -1,0 +1,287 @@
+{
+  "state": "CA",
+  "county": "San Mateo County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://smcacre.gov/elections/november-3-2026-statewide-general-election",
+    "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf",
+    "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+    "https://smcacre.gov/system/files/2026-07/52-ENG-M206-Contest%20Code-Reso-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf",
+    "https://smcacre.gov/system/files/2026-07/52-ENG-M108-Contest%20Code-Reso-RWC%20Housing_Redacted.pdf",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "No county offices, Superior Court contests or county judicial runoffs are on the November ballot (none appear on the Registration & Elections Division's roster of candidates). Not shown: U.S. Representative (Districts 15 and 16), State Assembly (Districts 19, 21 and 23), Board of Supervisors District 5 (short term), County Board of Education Trustee Area 2, community college and school district boards, city council districts (including Redwood City Districts 2, 5 and 6), councils, mayors and offices of other cities (Belmont, Brisbane, Colma, East Palo Alto, Portola Valley, San Bruno, San Carlos, South San Francisco and others), special districts, and school-district and other cities' measures (Measures D, F, G, H, I, K, M, N, O, P, Q, R, S, T, V, W, X, Y, Z, BB, CC, DD, EE). Check your sample ballot for these.",
+  "contests": [
+    {
+      "office": "Board of Equalization Member, District 2",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-boe2-lieber-sally",
+          "name": "Sally J. Lieber",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ca-san-mateo-2026-boe2-pimentel-john",
+          "name": "John Pimentel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Monique Langhorne Wilson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div1-wilson-monique",
+          "name": "Monique Langhorne Wilson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Charles A. Smiley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div1-smiley-charles",
+          "name": "Charles A. Smiley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Kathleen M. Banke? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div1-banke-kathleen",
+          "name": "Kathleen M. Banke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Two — retain Therese M. Stewart? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div2-stewart-therese",
+          "name": "Therese M. Stewart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Two — retain Tara M. Desautels? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div2-desautels-tara",
+          "name": "Tara M. Desautels",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Ioana Petrou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div3-petrou-ioana",
+          "name": "Ioana Petrou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Victor A. Rodriguez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div3-rodriguez-victor",
+          "name": "Victor A. Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Four — retain Tracie L. Brown? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div4-brown-tracie",
+          "name": "Tracie L. Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Danny Y. Chou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div5-chou-danny",
+          "name": "Danny Y. Chou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Mark Simons? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div5-simons-mark",
+          "name": "Mark Simons",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Gordon Burns? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-mateo-2026-retain-app1-div5-burns-gordon",
+          "name": "Gordon Burns",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Regional Measure RTM",
+      "title": "Regional Transit Measure – Public Transit Revenue Measure District: Transactions and Use Tax Measure",
+      "summary": "Citizen initiative that would impose a sales tax of 0.5% in San Mateo, Alameda, Contra Costa and Santa Clara counties and 1% in San Francisco for 14 years, estimated to raise about $980 million a year. Revenue would go to transit operators including Caltrain, SamTrans, BART and Muni, plus transit affordability, accessibility and road repair programs, with oversight requirements. It is decided by a majority of all votes cast across the five-county Public Transit Revenue Measure District.",
+      "yesMeans": "You want to impose the regional transit sales tax for 14 years.",
+      "noMeans": "You do not want to impose the tax.",
+      "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M206-Contest%20Code-Reso-Public%20Transit%20District%20Sales%20Tax_Redacted.pdf",
+      "moreInfo": "https://smcacre.gov/elections/november-3-2026-statewide-general-election"
+    },
+    {
+      "id": "Measure L",
+      "title": "San Mateo County Charter Amendment Measure – Extreme Weather Events",
+      "summary": "Would add a paragraph to the preamble of the San Mateo County Charter stating that long-term resilience against extreme weather events, including fire, flood, wind, rain, heat, drought and sea level rise, is a County priority to be pursued together with cities, districts and other public agencies.",
+      "yesMeans": "You want to add the extreme-weather resilience policy statement to the County Charter preamble.",
+      "noMeans": "You do not want to add this statement to the Charter.",
+      "source": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+      "moreInfo": "https://smcacre.gov/elections/november-3-2026-statewide-general-election"
+    },
+    {
+      "id": "Measure AA",
+      "title": "San Mateo County Charter Amendment Measure – Affirmation of Rights",
+      "summary": "Would add a paragraph to the preamble of the San Mateo County Charter affirming the County's commitment to the dignity, civil rights and equal protection of all County residents in a manner that promotes equity, fairness, inclusion, belonging, accessibility and opportunity.",
+      "yesMeans": "You want to add the affirmation-of-rights statement to the County Charter preamble.",
+      "noMeans": "You do not want to add this statement to the Charter.",
+      "source": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+      "moreInfo": "https://smcacre.gov/elections/november-3-2026-statewide-general-election"
+    },
+    {
+      "id": "Measure J",
+      "title": "San Mateo County Charter Amendment Measure – Extension to Call a Special Election or Appoint",
+      "summary": "When an elected county office other than the Board of Supervisors becomes vacant, the Board must now either appoint someone or call a special election within 30 days. This amendment would extend that deadline to 60 days and require the Board to hold at least one noticed public meeting to take public comment before making an appointment.",
+      "yesMeans": "You want to extend the deadline to 60 days and require a public meeting before an appointment.",
+      "noMeans": "You want to keep the current 30-day deadline with no public-meeting requirement.",
+      "source": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+      "moreInfo": "https://smcacre.gov/elections/november-3-2026-statewide-general-election"
+    },
+    {
+      "id": "Measure U",
+      "title": "San Mateo County Charter Amendment Measure – Reapportionment of Supervisorial Districts",
+      "summary": "Would amend the County Charter to require that the five supervisorial district boundaries be redrawn after each federal census by an independent redistricting commission, as defined and governed by the California Elections Code.",
+      "yesMeans": "You want an independent redistricting commission to redraw supervisorial districts after each census.",
+      "noMeans": "You do not want to add this requirement to the Charter.",
+      "source": "https://smcacre.gov/system/files/2026-07/San%20Mateo%20County%20Amendments.pdf",
+      "moreInfo": "https://smcacre.gov/elections/november-3-2026-statewide-general-election"
+    }
+  ],
+  "municipalities": {
+    "Daly City": {
+      "contests": [
+        {
+          "office": "Member, City Council",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "ca-san-mateo-2026-dalycity-council-nuris-thomas",
+              "name": "Thomas A. Nuris",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "website": "https://tomnuris.com"
+            },
+            {
+              "key": "ca-san-mateo-2026-dalycity-council-digiovanni-pamela",
+              "name": "Pamela DiGiovanni",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-san-mateo-2026-dalycity-council-proano-teresa",
+              "name": "Teresa Proaño",
+              "party": "Nonpartisan",
+              "incumbent": true,
+              "website": "https://teresaproano.com"
+            },
+            {
+              "key": "ca-san-mateo-2026-dalycity-council-bayudan-tony",
+              "name": "Tony Bayudan",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "website": "https://tonybayudan.com"
+            },
+            {
+              "key": "ca-san-mateo-2026-dalycity-council-daus-magbual-rod",
+              "name": "Rod Daus-Magbual",
+              "party": "Nonpartisan",
+              "incumbent": true,
+              "website": "https://www.roddausmagbual.com"
+            },
+            {
+              "key": "ca-san-mateo-2026-dalycity-council-su-asia",
+              "name": "Asia Su",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-san-mateo-2026-dalycity-council-rodriguez-barry",
+              "name": "Barry Rodriguez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://smcacre.gov/system/files/2026-09/52_candidateroster0903.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Redwood City": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Measure E",
+          "title": "City of Redwood City: Rent Control and Eviction Limits Initiative",
+          "summary": "Citizen initiative that would repeal Redwood City Municipal Code Chapter 42 and replace it with a new chapter that limits rent increases on multifamily housing built before February 1, 1995 and extends just-cause eviction protections to most rental housing, including single-family homes, ADUs and affordable housing. It would also increase relocation assistance for no-fault evictions and create new City administration, estimated to cost $5 million to $11 million a year, funded by annual fees on rental property owners.",
+          "yesMeans": "You want to adopt the new rent control and just-cause eviction ordinance.",
+          "noMeans": "You want to keep the city's current rules.",
+          "source": "https://smcacre.gov/system/files/2026-07/52-ENG-M108-Contest%20Code-Reso-RWC%20Housing_Redacted.pdf",
+          "moreInfo": "https://smcacre.gov/elections/november-3-2026-statewide-general-election"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "state": "GA",
+  "county": "Cobb County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://assets.cobbcounty.gov/files/2026-09/SAMPLE%20BALLOT%20DRAFT%20v4%20WEB.pdf",
+    "https://assets.cobbcounty.gov/files/2026-04/2026%20Offices%20to%20be%20elected_Revised42726.pdf",
+    "https://assets.cobbcounty.gov/files/2026-03/Democratic%20Candidate%20List_03-06-2026_FINAL_Signature.pdf",
+    "https://assets.cobbcounty.gov/files/2026-03/Republican%20Candidate%20List_03-10-2026_Final%20after%20reopen_Signature.pdf"
+  ],
+  "note": "County Commission Districts 1 and 3, Board of Education Posts 2, 4 and 6, and state legislative and U.S. House districts are not shown here; check your official sample ballot (Georgia My Voter Page) for those. Cobb's Commission Chair, Sheriff, District Attorney, Clerk of Superior Court, Tax Commissioner, Probate Judge and Chief Magistrate are not on this ballot. The Superior Court and State Court judgeships up in 2026 were decided at the May 19 nonpartisan election and are not on the November ballot. The statewide constitutional amendments are on every Cobb ballot but are statewide questions.",
+  "contests": [
+    {
+      "office": "Cobb County Solicitor General",
+      "candidates": [
+        { "key": "ga-cobb-2026-solicitor-metzger-makia", "name": "Makia Metzger", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://assets.cobbcounty.gov/files/2026-09/SAMPLE%20BALLOT%20DRAFT%20v4%20WEB.pdf"
+    },
+    {
+      "office": "Cobb County Surveyor",
+      "candidates": [
+        { "key": "ga-cobb-2026-surveyor-evans-chris", "name": "Chris Evans", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://assets.cobbcounty.gov/files/2026-09/SAMPLE%20BALLOT%20DRAFT%20v4%20WEB.pdf"
+    },
+    {
+      "office": "Cobb Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        { "key": "ga-cobb-2026-soilwater-lloyd-john", "name": "John I. Lloyd", "party": "Nonpartisan", "incumbent": true },
+        { "key": "ga-cobb-2026-soilwater-whitfield-brad", "name": "Brad A. Whitfield", "party": "Nonpartisan", "incumbent": false },
+        { "key": "ga-cobb-2026-soilwater-wigington-frank", "name": "Frank Wigington", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://assets.cobbcounty.gov/files/2026-09/SAMPLE%20BALLOT%20DRAFT%20v4%20WEB.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Cobb County Special Purpose Local Option Sales Tax",
+      "title": "Cobb County Special Purpose Local Option Sales Tax (SPLOST)",
+      "summary": "Re-imposes a special 1 percent sales and use tax in Cobb County for up to six years to raise an estimated $1,150,000,000. The money is shared by the county and the cities of Acworth, Austell, Kennesaw, Mableton, Marietta, Powder Springs and Smyrna for transportation, water and stormwater infrastructure, parks and recreation, facilities (including libraries, public safety buildings, a State Court courthouse and a jail infirmary building), vehicles and equipment, and technology improvements.",
+      "yesMeans": "The 1 percent special purpose sales tax is re-imposed in Cobb County for up to six years to fund the listed county and city projects.",
+      "noMeans": "The 1 percent special purpose sales tax is not re-imposed.",
+      "source": "https://assets.cobbcounty.gov/files/2026-09/SAMPLE%20BALLOT%20DRAFT%20v4%20WEB.pdf"
+    }
+  ],
+  "municipalities": {
+    "Mableton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "\"Redevelopment Powers Law\" Referendum",
+          "title": "City of Mableton \"Redevelopment Powers Law\" Referendum",
+          "summary": "Asks whether to approve the Act that authorizes the City of Mableton to use all redevelopment powers allowed under Georgia's Redevelopment Powers Law, as that law may be amended over time.",
+          "yesMeans": "Mableton may exercise the redevelopment powers allowed under the Redevelopment Powers Law.",
+          "noMeans": "The Act is not approved and Mableton does not gain those redevelopment powers.",
+          "source": "https://assets.cobbcounty.gov/files/2026-09/SAMPLE%20BALLOT%20DRAFT%20v4%20WEB.pdf"
+        }
+      ]
+    }
+  }
+}

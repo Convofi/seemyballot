@@ -1,0 +1,167 @@
+{
+  "state": "KS",
+  "county": "Johnson County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf",
+    "https://www.jocoelection.org/candidates-elected-officials/candidates",
+    "https://www.jocoelection.org/events-elections/november-3-2026-general-election"
+  ],
+  "note": "County Commissioner Districts 1, 4 and 5, Kansas House and State Board of Education districts, township clerks, and the Prairie Village mayor race are not shown here because they depend on where you live in the county. Sheriff, District Attorney, County Clerk, Treasurer, Register of Deeds and Johnson County Community College trustees are not on the November 2026 ballot. The Election Office lists no county or city ballot questions; Olathe and Overland Park have no city-wide contest or question. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Johnson County Commission Chairman (nonpartisan)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-commission-chair-crnkovich-karen",
+          "name": "Karen Crnkovich",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.kcforjoco.com/"
+        },
+        {
+          "key": "ks-johnson-2026-commission-chair-kelly-mike",
+          "name": "Mike Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "website": "https://www.mikeforjoco.com/"
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 1 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div1-ogrady-keven",
+          "name": "Keven M. P. O'Grady",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 4 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div4-mason-rhonda",
+          "name": "Rhonda K. Mason",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 5 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div5-schoenig-erica",
+          "name": "Erica K. Schoenig",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 9 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div9-gyllenborg-christina",
+          "name": "Christina Dunn Gyllenborg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 10 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div10-sloan-kathleen",
+          "name": "Kathleen L. Sloan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 15 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div15-joyce-michael",
+          "name": "Michael Patrick Joyce",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 16 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div16-foth-neil",
+          "name": "Neil B. Foth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 17 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div17-ryan-thomas",
+          "name": "Thomas Kelly Ryan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 18 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div18-mccarthy-timothy",
+          "name": "Timothy P. McCarthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District, Division 19 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-dist10-div19-rokusek-jacquelyn",
+          "name": "Jacquelyn Ellen Rokusek",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    },
+    {
+      "office": "District Magistrate Judge, 10th Judicial District, Position 1 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-johnson-2026-magistrate10-pos1-ashford-jenifer",
+          "name": "Jenifer J. Ashford",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jocoelection.org/sites/default/files/2026-10/11-03-2026%20-%20Notice%20of%20Election%20%28candidates%29%20-%20REVISED.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
