@@ -1,0 +1,231 @@
+{
+  "state": "FL",
+  "county": "Broward County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf",
+    "https://browardvotes.gov/sites/default/files/2026_nge_bro_english.pdf",
+    "https://broward.legistar1.com/broward/attachments/845df4c8-a29a-483a-93bf-34bbe5df3598.pdf",
+    "https://broward.legistar1.com/broward/attachments/c6fd5d3d-257a-4141-a514-0b59fe385455.pdf",
+    "https://broward.legistar1.com/broward/attachments/90d6e03a-2742-45ad-91f3-385fab0f0b3f.pdf",
+    "https://broward.legistar1.com/broward/attachments/d0b533e2-a03f-4c26-9d4f-2553543fed42.pdf",
+    "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+    "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+  ],
+  "note": "Not shown: County Commission Districts 2, 4, 6 and 8 (decided earlier or not on this ballot), School Board District 6 (single-member district), Fort Lauderdale City Commission District 1 special election, other cities' races and questions, and water control, drainage, improvement and community development district seats. No county constitutional offices (Sheriff, Clerk, Property Appraiser, Supervisor of Elections, Tax Collector) or State Attorney/Public Defender are on this ballot. Only Circuit Judge Group 52 remains of the 17th Circuit seats in the election notice; no County Court judge races and no countywide School Board seat remain on the November ballot. Fort Lauderdale's mayor is not up in 2026. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "4th District Court of Appeal — retain Judge Alan O. Forst? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca4-2026-retain-forst-alan",
+          "name": "Alan O. Forst",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Mark W. Klingensmith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca4-2026-retain-klingensmith-mark",
+          "name": "Mark W. Klingensmith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Johnathan D. Lott? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca4-2026-retain-lott-johnathan",
+          "name": "Johnathan D. Lott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Shannon K. Shaw? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca4-2026-retain-shaw-shannon",
+          "name": "Shannon K. Shaw",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Caroline Cahill Shepherd? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-dca4-2026-retain-shepherd-caroline",
+          "name": "Caroline Cahill Shepherd",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "office": "Circuit Judge, 17th Judicial Circuit, Group 52",
+      "candidates": [
+        {
+          "key": "fl-broward-2026-circuit-g52-fry-david",
+          "name": "David Andrew Fry",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-broward-2026-circuit-g52-hamilton-tamar",
+          "name": "Tamar Hamilton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Broward County Question 1",
+      "title": "Health Care Services, Such as Heart and Cancer Screenings, for County Residents, Funded by Surtax",
+      "summary": "Asks whether Broward County should levy a one-quarter of one percent (0.25%) sales surtax for five years. The money would fund preventive heart and cancer tests not covered by insurance for qualified residents, primary and preventive health care for indigent or medically poor residents, and other health services described in a County health care plan. The surtax would be automatically repealed if a 1% infrastructure surtax is levied.",
+      "yesMeans": "The county levies a 0.25% sales surtax for five years to fund the county health care plan.",
+      "noMeans": "The 0.25% health care sales surtax is not levied.",
+      "source": "https://broward.legistar1.com/broward/attachments/845df4c8-a29a-483a-93bf-34bbe5df3598.pdf",
+      "moreInfo": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "id": "Broward County Question 2",
+      "title": "Alternative Process for County Plat Approval",
+      "summary": "Currently the Broward County Charter requires the County Commission to approve all plats in the county before they are recorded. This amendment would let the County Commission set up, by ordinance and as permitted by state law, an alternative process for approving plats, such as administrative approval, including approval while the Commission is in recess.",
+      "yesMeans": "The County Commission may create an alternative plat approval process, such as administrative approval.",
+      "noMeans": "All plats continue to require approval by the County Commission before recording.",
+      "source": "https://broward.legistar1.com/broward/attachments/c6fd5d3d-257a-4141-a514-0b59fe385455.pdf",
+      "moreInfo": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "id": "Broward County Question 3",
+      "title": "Revised Process for Selecting the County Auditor",
+      "summary": "Currently under the Broward County Charter, an independent board nominates one person for County Auditor and the County Commission ratifies that choice if the nominee is qualified. This amendment would have the independent board nominate three people, and the County Commission would appoint the qualified nominee it determines is best able to serve.",
+      "yesMeans": "The independent board nominates three candidates and the County Commission chooses the County Auditor from among them.",
+      "noMeans": "The independent board continues to nominate a single candidate for the County Commission to ratify.",
+      "source": "https://broward.legistar1.com/broward/attachments/90d6e03a-2742-45ad-91f3-385fab0f0b3f.pdf",
+      "moreInfo": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    },
+    {
+      "id": "School Board Question 1",
+      "title": "Fund School Employee Pay, Safety, and Mental Health through a One-Mill Property Tax Levy",
+      "summary": "Asks whether the School Board of Broward County should continue levying a one-mill property tax from January 1, 2027, through December 31, 2030. The money would fund school safety personnel, mental health services, and increased pay for teachers and school-based and support staff at public and charter schools.",
+      "yesMeans": "The School Board continues a one-mill property tax for school operations from 2027 through 2030.",
+      "noMeans": "The School Board does not continue the one-mill property tax levy for that period.",
+      "source": "https://broward.legistar1.com/broward/attachments/d0b533e2-a03f-4c26-9d4f-2553543fed42.pdf",
+      "moreInfo": "https://browardvotes.gov/sites/default/files/list-of-candidates-for-november-elections.pdf"
+    }
+  ],
+  "municipalities": {
+    "Fort Lauderdale": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Fort Lauderdale Question 1",
+          "title": "Charter Amendment No. 1: Qualifications for Eligibility to Hold Office, Organizational Meeting, and Designation of Vice Mayor",
+          "summary": "Would update the charter's qualifications for mayor and city commissioner. Elected officials would take office at the first regular City Commission meeting after their election is certified, and the vice mayor would be designated at the Commission's first meeting after a regular election and annually thereafter, instead of at the first meeting in April.",
+          "yesMeans": "The charter's qualification, swearing-in, and vice mayor designation rules are updated as described.",
+          "noMeans": "The current qualification, organizational meeting, and April vice mayor designation rules stay in place.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 2",
+          "title": "Charter Amendment No. 2: Submission of Candidate Documentation",
+          "summary": "Would amend the charter to specify the procedure for candidates for mayor or city commissioner to submit documentation to the City Clerk for review.",
+          "yesMeans": "The charter sets out how mayoral and commission candidates submit documentation to the City Clerk.",
+          "noMeans": "The charter does not add this candidate documentation procedure.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 3",
+          "title": "Charter Amendment No. 3: Removal of City Commission Consideration of Elector Challenges to Candidates",
+          "summary": "Would remove the City Commission's authority to receive affidavits alleging that a candidate for mayor or city commissioner violated the charter or is unqualified, and to make findings on such claims. Those questions would be left to the courts.",
+          "yesMeans": "The City Commission no longer rules on challenges to candidates; such challenges go to the courts.",
+          "noMeans": "The City Commission keeps its authority to receive and decide challenges to candidates.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 4",
+          "title": "Charter Amendment No. 4: Special Meetings of the City Commission",
+          "summary": "Would allow special meetings of the City Commission to be called on at least 72 hours' notice. In an emergency with potential for imminent harm, a special meeting could be called on whatever notice is practicable.",
+          "yesMeans": "Special Commission meetings require at least 72 hours' notice, with a shorter-notice exception for emergencies.",
+          "noMeans": "The current charter rules for calling special meetings stay in place.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 5",
+          "title": "Charter Amendment No. 5: Civil Service Board",
+          "summary": "Would set a method for breaking ties in nominations to the Civil Service Board Nominating Committee and change the makeup of the Election Board that certifies classified employees' election results for Civil Service Board recommendations. It would also remove the Civil Service Board's duty to review and advise the City Manager on job class specifications.",
+          "yesMeans": "The Civil Service Board provisions change as described, including removal of its job-classification advisory duty.",
+          "noMeans": "The current Civil Service Board provisions stay in place.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 6",
+          "title": "Charter Amendment No. 6: Deleting Primary Election References, Removing Publication Requirement, and Updating Interim and Acting City Manager Titles",
+          "summary": "Would delete charter references to primary elections and remove the requirement of two newspaper publications for public hearings and other notices. It would also distinguish an interim city manager, appointed after the city manager resigns or is terminated, from an acting city manager, appointed during temporary absences.",
+          "yesMeans": "The charter drops primary election references and the two-publication notice rule, and defines interim and acting city manager separately.",
+          "noMeans": "These charter provisions stay as they are.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 7",
+          "title": "Charter Amendment No. 7: Sale of City-Owned Personal Property and Sale or Lease of City-Owned Land",
+          "summary": "Would simplify the sale of City-owned personal property, such as vehicles, furniture, and equipment, and of City-owned land other than parks. It would add limits on lease, license, concession, or other use agreements with private parties for City-owned land, and on the sale or lease of City-owned land to other governments.",
+          "yesMeans": "The charter's rules for selling, leasing, and licensing City property change as described.",
+          "noMeans": "The current charter rules for City property sales and leases stay in place.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 8",
+          "title": "Charter Amendment No. 8: City-Owned Park Land",
+          "summary": "Would require a unanimous vote of the entire City Commission for any license, concession, facility use, or other use agreement longer than one year for City-owned park land.",
+          "yesMeans": "Use agreements for park land longer than one year require a unanimous vote of the full City Commission.",
+          "noMeans": "No unanimous-vote requirement is added for long-term park land use agreements.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 9",
+          "title": "Charter Amendment No. 9: Establishment of the Charter Position of Police Chief",
+          "summary": "Would create a Police Chief position in the charter. The Police Chief would report directly to the City Commission rather than the City Manager, and would be employed and paid on terms the City Commission sets.",
+          "yesMeans": "The Police Chief becomes a charter officer reporting directly to the City Commission.",
+          "noMeans": "The Police Chief continues to report to the City Manager.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        },
+        {
+          "id": "Fort Lauderdale Question 10",
+          "title": "Charter Amendment No. 10: Establishment of the Charter Position of Fire Chief",
+          "summary": "Would create a Fire Chief position in the charter. The Fire Chief would report directly to the City Commission rather than the City Manager, and would be employed and paid on terms the City Commission sets.",
+          "yesMeans": "The Fire Chief becomes a charter officer reporting directly to the City Commission.",
+          "noMeans": "The Fire Chief continues to report to the City Manager.",
+          "source": "https://legistar.granicus.com/FortLauderdale/attachments/81964b80-0fba-4cef-8b86-f4815c9b1921.pdf",
+          "moreInfo": "https://legistar.granicus.com/FortLauderdale/attachments/bd8fee3a-08b8-4e2f-9de7-4b84c1b6ae52.pdf"
+        }
+      ]
+    }
+  }
+}
