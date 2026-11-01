@@ -1,0 +1,321 @@
+{
+  "state": "CO",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF",
+    "https://www.jeffco.us/4652/On-the-Ballot",
+    "https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF",
+    "https://www.jeffcosheriffco.gov/about",
+    "https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations"
+  ],
+  "note": "Jefferson County commissioners are elected by all county voters, but each must live in the district they represent; only the District 3 seat is up in 2026. The District Attorney (1st Judicial District) is not on the 2026 ballot, and there are no countywide Jefferson County ballot issues (1A, 1B...). Jefferson County School District R-1 covers all of Jefferson County, so its measures (5A, 5B) are included. Not shown: Regional Transportation District director races (Districts J, L, N), state legislative and congressional districts, State Board of Education and CU Regent districts, the Front Range Passenger Rail District Issue 7A (covers only part of the county), fire, water and recreation district measures (6A-6E, 7B-7D), and measures and races in other towns and cities (Edgewater 2K, Wheat Ridge 2A, Mountain View 2B-2C, Morrison mayor, trustees and 2D-2F). The City of Golden has no questions on this ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide amendments and propositions are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 3 (elected countywide; candidate must live in District 3)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-commissioner-d3-vandenberg-stephanie",
+          "name": "Stephanie VandenBerg",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-jefferson-2026-commissioner-d3-cutter-lisa",
+          "name": "Lisa A. Cutter",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-clerk-poston-paul",
+          "name": "Paul Poston",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-jefferson-2026-clerk-hensel-nicole",
+          "name": "Nicole Hensel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-treasurer-proctor-eric",
+          "name": "Eric Proctor",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-jefferson-2026-treasurer-hendrickson-murl",
+          "name": "Murl Hendrickson",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-assessor-king-vera",
+          "name": "Vera King",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-jefferson-2026-assessor-kerr-andy",
+          "name": "Andy Kerr",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-jefferson-2026-assessor-ketcham-greg",
+          "name": "Greg Ketcham",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-sheriff-marinelli-regina",
+          "name": "Regina \"Reggie\" Marinelli",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "co-jefferson-2026-sheriff-doizaki-randall",
+          "name": "Randall Doizaki",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-surveyor-hennessy-robert",
+          "name": "Robert Hennessy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-coroner-lobello-nick",
+          "name": "Nick Lobello",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-jefferson-2026-coroner-harmon-allison",
+          "name": "Allison Harmon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District — retain Judge Chantel E. Contiguglia? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-district-contiguglia-chantel",
+          "name": "Chantel E. Contiguglia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District — retain Judge Ryan P. Loewer? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-district-loewer-ryan",
+          "name": "Ryan P. Loewer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District — retain Judge Meegan Miloud? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-district-miloud-meegan",
+          "name": "Meegan Miloud",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District — retain Judge Andrew C. Poland? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-district-poland-andrew",
+          "name": "Andrew C. Poland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District — retain Judge Christopher Rhamey? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-district-rhamey-christopher",
+          "name": "Christopher Rhamey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District — retain Judge Tamara S. Russell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-district-russell-tamara",
+          "name": "Tamara S. Russell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District — retain Judge Christopher C. Zenisek? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-district-zenisek-christopher",
+          "name": "Christopher C. Zenisek",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Jefferson County Court Judge — retain Judge Sara Garrido? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-county-garrido-sara",
+          "name": "Sara Garrido",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Jefferson County Court Judge — retain Judge Corinne Magid? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-county-magid-corinne",
+          "name": "Corinne Magid",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Jefferson County Court Judge — retain Judge Jennifer Lynn Melton? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-jefferson-2026-retain-county-melton-jennifer",
+          "name": "Jennifer Lynn Melton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Jefferson County School District R-1 Ballot Issue 5A",
+      "title": "Jefferson County School District R-1 mill levy override, $73 million in 2026",
+      "summary": "Raises Jeffco Public Schools property taxes by $73 million in 2026 (collected in 2027), and by amounts in later years that, combined with earlier mill levy overrides, stay within the state-law limit for the district. The money would go to the general fund for purposes such as raising pay for teachers, support professionals, staff and school leaders closer to the market average, and career and technical education. Spending would be reviewed by a board-appointed citizens' committee and reported publicly each year.",
+      "yesMeans": "Jeffco Public Schools may raise property taxes by $73 million in 2026 and later amounts within the state limit for the listed purposes.",
+      "noMeans": "This Jeffco Public Schools property tax increase does not take effect.",
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF",
+      "moreInfo": "https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF"
+    },
+    {
+      "id": "Jefferson County School District R-1 Ballot Issue 5B",
+      "title": "Jefferson County School District R-1 capital mill levy, $60 million in 2026",
+      "summary": "Raises Jeffco Public Schools property taxes by $60 million in 2026 (collected in 2027) and each year after, with annual increases for inflation, under the state Debt Free Schools Act. The money would go into a dedicated fund for capital construction, technology and maintenance, such as roof, plumbing and parking lot repairs, heating, cooling and ventilation, aging infrastructure, and school security. Spending would be reviewed by a board-appointed citizens' committee and reported publicly each year.",
+      "yesMeans": "Jeffco Public Schools may raise property taxes by $60 million a year, adjusted for inflation, for building, technology and maintenance needs.",
+      "noMeans": "This Jeffco Public Schools property tax increase does not take effect.",
+      "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF",
+      "moreInfo": "https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF"
+    }
+  ],
+  "municipalities": {
+    "Lakewood": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Lakewood Ballot Issue 2G",
+          "title": "Additional 0.5% city sales and use tax for public safety and traffic safety",
+          "summary": "Raises Lakewood's sales and use tax from 3% to 3.5% starting January 1, 2027, raising up to $17.6 million in the first full year, with food (including groceries) exempt from the added tax. The revenue could be used only for public safety, including crime prevention and homelessness response, and for traffic safety improvements such as street and sidewalk maintenance and construction, speed-reduction road improvements, and pedestrian and bicycle safety. The revenue would be kept and spent as a voter-approved revenue change.",
+          "yesMeans": "Lakewood's sales and use tax rises to 3.5%, with the added revenue limited to public safety and traffic safety uses.",
+          "noMeans": "Lakewood's sales and use tax stays at 3%.",
+          "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF",
+          "moreInfo": "https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF"
+        },
+        {
+          "id": "City of Lakewood Ballot Question 2H",
+          "title": "Establishing when the term of a newly elected Mayor and City Councilmember begins",
+          "summary": "Amends Section 2.6(a) of the Lakewood Home Rule Charter so that the term of a newly elected Mayor or City Councilmember begins at the first regular council meeting after the results of the regular municipal election are certified.",
+          "yesMeans": "The Charter is amended so new terms begin at the first regular meeting after the election results are certified.",
+          "noMeans": "The Charter's current term-of-office language is not changed.",
+          "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+        },
+        {
+          "id": "City of Lakewood Ballot Question 2I",
+          "title": "Repealing and replacing Charter 12.12 to prohibit property tax increases without a vote of the electorate",
+          "summary": "Repeals and replaces Section 12.12 of the Lakewood Home Rule Charter, removing language that authorizes an annual property tax increase of up to 7% without voter approval. The replacement states that the City must comply with the Colorado Constitution and may not increase property taxes without approval of the City's voters.",
+          "yesMeans": "The 7% annual property tax increase language is removed and the Charter states that property tax increases require voter approval.",
+          "noMeans": "Section 12.12 of the Charter stays as it is.",
+          "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+        },
+        {
+          "id": "City of Lakewood Ballot Question 2J",
+          "title": "Establishing time frames for holding regular or special elections for initiative ordinances and referendums",
+          "summary": "Amends Sections 13.1(d) and 13.2(e) of the Lakewood Home Rule Charter so that an election on an initiative ordinance or referendum is held not less than 60 days and not more than 150 days after the final determination that the petition is sufficient.",
+          "yesMeans": "Elections on initiatives and referendums are held 60 to 150 days after a petition is found sufficient.",
+          "noMeans": "The Charter's current initiative and referendum election time frames are not changed.",
+          "source": "https://www.jeffco.us/DocumentCenter/View/59222/2026-GEN-Sample-Ballot-PDF"
+        }
+      ]
+    }
+  }
+}
