@@ -1,0 +1,91 @@
+{
+  "state": "GA",
+  "county": "DeKalb County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://dekalbcountyga.gov/sites/default/files/2026-09/sample-booklet.pdf",
+    "https://www.dekalbcountyga.gov/voter-registration-elections"
+  ],
+  "note": "County Commission districts 2, 3 and 7, school board, state legislative and U.S. House districts, the Brookhaven City Council District 2 special election and the Stonecrest City Council District Post 2 special election are not shown here because they depend on your district; check your official sample ballot (Georgia My Voter Page, mvp.sos.ga.gov). The City of Tucker annexation question (Senate Bill 622) is also not shown because the composite sample ballot does not say which voters receive it. CEO, Sheriff, District Attorney, Solicitor General, Clerk of Superior Court, Tax Commissioner, Probate Judge and countywide judges are not on this ballot. The City of Decatur has no city question on this ballot. The three statewide constitutional amendments are on every DeKalb ballot but are statewide questions.",
+  "contests": [
+    {
+      "office": "DeKalb County Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ga-dekalb-2026-soilwater-dunaway-jan",
+          "name": "Jan Dunaway",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ga-dekalb-2026-soilwater-hayes-carol",
+          "name": "Carol Hayes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dekalbcountyga.gov/sites/default/files/2026-09/sample-booklet.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "DeKalb County ESPLOST",
+      "title": "DeKalb County ESPLOST",
+      "summary": "Reimposes the existing 1 percent sales and use tax for education in DeKalb County when the current tax expires, starting July 1, 2027, for up to 20 calendar quarters, to raise up to $1,046,154,324. Up to $946,773,776 goes to the DeKalb County School District, up to $41,504,193 to Atlanta Public Schools and up to $57,876,355 to City Schools of Decatur, for new and renovated schools and facilities, technology and safety improvements, equipment, and buses and vehicles. If voters within the DeKalb County School District approve, the vote also authorizes that district to issue up to $500,000,000 in general obligation debt for part of its projects.",
+      "yesMeans": "The 1 percent education sales tax continues for up to five more years, and the DeKalb County School District may issue up to $500 million in bonds if its voters approve.",
+      "noMeans": "The education sales tax is not reimposed when the current tax expires, and the bonds are not authorized.",
+      "source": "https://dekalbcountyga.gov/sites/default/files/2026-09/sample-booklet.pdf"
+    }
+  ],
+  "municipalities": {
+    "Brookhaven": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Brookhaven Homestead Exemption for Senior Citizens and Disabled Persons",
+          "title": "Homestead Exemption for Senior Citizens and Disabled Persons (House Bill 1307, Act No. 555)",
+          "summary": "Asks whether the Act incorporating the City of Brookhaven should be amended to increase the city homestead exemption for senior citizens and disabled persons from $160,000 to $200,000.",
+          "yesMeans": "The city homestead exemption for qualifying senior citizens and disabled persons increases from $160,000 to $200,000.",
+          "noMeans": "The exemption stays at $160,000.",
+          "source": "https://dekalbcountyga.gov/sites/default/files/2026-09/sample-booklet.pdf"
+        }
+      ]
+    },
+    "Doraville": {
+      "contests": [
+        {
+          "office": "Doraville City Council District 2, Post 2 At Large (Special Election, unexpired term of Carrie Armistead)",
+          "candidates": [
+            { "key": "ga-dekalb-2026-doraville-council-d2p2-clark-schuyler", "name": "Schuyler \"Sky\" Clark", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ga-dekalb-2026-doraville-council-d2p2-fults-tammi", "name": "Tammi Bailey Fults", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ga-dekalb-2026-doraville-council-d2p2-hart-tom", "name": "Tom Hart", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ga-dekalb-2026-doraville-council-d2p2-kyser-brian", "name": "Brian Kyser", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ga-dekalb-2026-doraville-council-d2p2-tooley-angie", "name": "Angie Riley Tooley", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://dekalbcountyga.gov/sites/default/files/2026-09/sample-booklet.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Pine Lake": {
+      "contests": [
+        {
+          "office": "Pine Lake Mayor (Special Election, unexpired term of Brandy Hall)",
+          "candidates": [
+            { "key": "ga-dekalb-2026-pinelake-mayor-goldberg-jeff", "name": "Jeff Goldberg", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://dekalbcountyga.gov/sites/default/files/2026-09/sample-booklet.pdf"
+        },
+        {
+          "office": "Pine Lake City Council (Special Election, unexpired term of Jeff Goldberg)",
+          "candidates": [
+            { "key": "ga-dekalb-2026-pinelake-council-paproski-james", "name": "James Paproski", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://dekalbcountyga.gov/sites/default/files/2026-09/sample-booklet.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "state": "GA",
+  "county": "Gwinnett County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.gwinnettcounty.com/documents/d/gwinnett-county/nov-3-general-election-special-election-consolidated-sample-ballot-english-spanish",
+    "https://www.gwinnettcounty.com/documents/d/gwinnett-county/certified-list-write-in-candidates",
+    "https://www.gwinnettcounty.com/documents/d/gwinnett-county/november-3-special-election-call-hb-540"
+  ],
+  "note": "County Commission Districts 2 and 4, state legislative and U.S. House districts are not shown here; check your official sample ballot (Georgia My Voter Page) for those. The HB 540 special election question (expanding the $2,000 school-tax homestead exemption for certain public service employees to disabled veterans and all Gwinnett County and Buford City school district employees) is put only to voters in the Gwinnett County School District, not Buford City Schools, so it is not shown. Commission Chair, Sheriff, District Attorney, Clerk of Superior Court, Tax Commissioner and Probate Judge are not on this ballot, and no city questions appear on the county's consolidated sample ballot. The three statewide constitutional amendments are on every Gwinnett ballot but are statewide questions.",
+  "contests": [
+    {
+      "office": "Solicitor General of Gwinnett County",
+      "candidates": [
+        {
+          "key": "ga-gwinnett-2026-solicitor-bristol-lisamarie",
+          "name": "Lisamarie N. Bristol",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/nov-3-general-election-special-election-consolidated-sample-ballot-english-spanish"
+    },
+    {
+      "office": "Gwinnett County Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-gwinnett-2026-soilwater-vanlandingham-david",
+          "name": "David VanLandingham",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/nov-3-general-election-special-election-consolidated-sample-ballot-english-spanish"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
