@@ -150,8 +150,8 @@ async function check(url) {
       const res = await fetch(url, { headers: BROWSER_HEADERS, redirect: "follow", signal: AbortSignal.timeout(20_000) });
       await res.body?.cancel();
       if (res.status >= 200 && res.status < 400) return null;
-      // Bot walls answer 403 to plain fetches but often render in a real browser.
-      if (res.status === 403 && (await chromeRenders(url))) return null;
+      // Bot walls answer 403 (or rate-limit with 429) to plain fetches but often render in a real browser.
+      if ((res.status === 403 || res.status === 429) && (await chromeRenders(url))) return null;
       if (attempt === 2 || res.status < 500) return `HTTP ${res.status}`;
     } catch (e) {
       if (attempt === 2) return e.cause?.code ?? e.name ?? String(e);
