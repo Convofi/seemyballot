@@ -1,0 +1,174 @@
+{
+  "state": "WA",
+  "county": "Snohomish County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.snohomishcountywa.gov/5722/Candidates-and-Measures-on-the-Ballot",
+    "https://www.snohomishcountywa.gov/DocumentCenter/View/128277",
+    "https://www.snohomishcountywa.gov/DocumentCenter/View/150228",
+    "https://www.snohomishcountywa.gov/DocumentCenter/View/150601",
+    "https://www.snohomishcountywa.gov/DocumentCenter/View/150524",
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34",
+    "https://snohomishcountywa.gov/202/Prosecutor",
+    "https://www.courts.wa.gov/appellate_trial_courts/bios/?fa=atc_bios.home&folderID=div1",
+    "https://www.snopud.com/about/commission-meetings/"
+  ],
+  "note": "Not shown: Snohomish County District Court electoral-district judges (Cascade, Everett, Evergreen and South District Courts), legislative and congressional districts, and school district, fire district, regional fire authority and hospital district measures. No Snohomish County Superior Court positions or County Council seats are on this ballot. Everett city offices are elected in odd years. Check your official sample ballot for district items.",
+  "contests": [
+    {
+      "office": "Snohomish County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-snohomish-2026-prosecutor-cummings-jason",
+          "name": "Jason Cummings",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/128277"
+    },
+    {
+      "office": "Court of Appeals, Division 1, District 2, Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-app1d2-2026-pos2-coburn-linda",
+          "name": "Linda Coburn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/128277"
+    },
+    {
+      "office": "Public Utility District No. 1 Commissioner District 1",
+      "candidates": [
+        {
+          "key": "wa-snohomish-2026-pud-comm1-logan-sid",
+          "name": "Sid Logan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "wa-snohomish-2026-pud-comm1-stclair-janet",
+          "name": "Janet St Clair",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/128277"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition No. 1",
+      "title": "Adoption of a Foundational Government Services Policy",
+      "summary": "A Snohomish County Charter amendment proposed by the Charter Review Commission. It would require the county legislature and executive branch to prioritize and protect funding for the offices of the Assessor, Auditor, Clerk, Executive, Prosecuting Attorney, Sheriff and Treasurer, and for District and Superior Court judges, by adding a new section to Article 6 of the charter.",
+      "yesMeans": "The charter would require the county to prioritize and protect funding for the listed core offices and courts.",
+      "noMeans": "The charter would not be amended to add this funding policy.",
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150228",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+    },
+    {
+      "id": "Proposition No. 2",
+      "title": "Prioritize Funding of Budget Stabilization Funds",
+      "summary": "A Snohomish County Charter amendment proposed by the Charter Review Commission. It would require the county legislature and executive branch to prioritize funding the county's budget stabilization funds, which are meant to help with severe economic downturns, revenue shortfalls, emergencies and catastrophic events. It adds a new section to Article 6 of the charter.",
+      "yesMeans": "The charter would require the county to prioritize funding its budget stabilization funds.",
+      "noMeans": "The charter would not be amended to add this requirement.",
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150228",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+    },
+    {
+      "id": "Proposition No. 3",
+      "title": "Converting All Elected County Offices to Non-partisan Offices",
+      "summary": "A Snohomish County Charter amendment proposed by the Charter Review Commission. It would make all elected county offices nonpartisan, so candidates for county office would appear on the ballot without a political party preference. It amends Sections 4.15 and 4.80 of the charter.",
+      "yesMeans": "All elected Snohomish County offices would become nonpartisan, with no party shown for candidates on the ballot.",
+      "noMeans": "County offices that are partisan now would stay partisan.",
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150228",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+    },
+    {
+      "id": "Proposition No. 4",
+      "title": "Increasing Public Access to County Financial Transparency",
+      "summary": "A Snohomish County Charter amendment proposed by the Charter Review Commission. It would require the county to make available all financial information that is legally available, where reasonably practicable through existing systems or future modernization efforts. It adds a new section to Article 6 of the charter.",
+      "yesMeans": "The charter would require the county to make its legally available financial information accessible to the public where reasonably practicable.",
+      "noMeans": "The charter would not be amended to add this requirement.",
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150228",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+    },
+    {
+      "id": "Proposition No. 5",
+      "title": "Requiring a 4/5 Supermajority Council Vote to Increase Taxes",
+      "summary": "A Snohomish County Charter amendment proposed by the Charter Review Commission. It would require a four-fifths supermajority vote of the County Council to assess, levy or increase any councilmanic tax (a tax the council can impose without a public vote). It amends Section 2.20 of the charter.",
+      "yesMeans": "The County Council would need a 4/5 vote to assess, levy or increase any councilmanic tax.",
+      "noMeans": "The charter's current council voting rules for taxes would stay the same.",
+      "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150228",
+      "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+    }
+  ],
+  "municipalities": {
+    "Everett": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 261",
+          "title": "Amendment to Everett City Charter Sections 2.2 and 4.10",
+          "summary": "Would require candidates for Mayor and City Council to have been registered to vote in Everett and to have lived in the city (and district, if applicable) for at least one year before the filing deadline. It would bar elected officials from holding another elected office at the same time, and would amend Section 4.10 so elected officials are only required to take an official oath of office.",
+          "yesMeans": "The listed residency, registration, single-office and oath rules would be added to the Everett City Charter.",
+          "noMeans": "Charter Sections 2.2 and 4.10 stay as they are.",
+          "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150601",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+        },
+        {
+          "id": "Proposition No. 262",
+          "title": "Amendment to Everett City Charter Section 3.2",
+          "summary": "Would require the City Council to hold at least two meetings per month and at least 36 meetings per year, and to publish a schedule of those meetings each January. It would also revise how the presiding officer is chosen when the Council President is absent.",
+          "yesMeans": "The Everett City Charter would set the minimum meeting schedule and the other Section 3.2 changes.",
+          "noMeans": "Charter Section 3.2 stays as it is.",
+          "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150601",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+        },
+        {
+          "id": "Proposition No. 263",
+          "title": "Amendment to Everett City Charter Section 8.3",
+          "summary": "Would revise the city's Civil Service rules in the charter so that the Civil Service Commission's responsibilities are consistent with the requirements of state law.",
+          "yesMeans": "Charter Section 8.3 would be revised to align the Civil Service Commission's duties with state law.",
+          "noMeans": "Charter Section 8.3 stays as it is.",
+          "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150601",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+        },
+        {
+          "id": "Proposition No. 264",
+          "title": "Amendment to Four Sections of the Everett City Charter",
+          "summary": "Would amend Sections 11.1, 11.2, 11.3 and 11.5 so that an initiative or referendum petition needs signatures equal to ten percent of the total votes cast at the last mayoral election. It would allow 10 days to correct faulty signatures, streamline the initiative process, and require the city to prepare a fiscal analysis of each measure for voters.",
+          "yesMeans": "The listed changes to Everett's initiative and referendum process would be adopted.",
+          "noMeans": "The charter's current initiative and referendum rules stay in place.",
+          "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150601",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+        },
+        {
+          "id": "Proposition No. 265",
+          "title": "Amendment to Eight Sections of the Everett City Charter",
+          "summary": "Would amend Sections 3.4, 3.5, 4.13, 11.6, 13.9, 15.5, 16.2 and 16.3 to let the city publish public notices, appointments, ordinances and proposed ordinances, proposed initiatives and referenda, bid advertisements and franchises on the city's website instead of in a newspaper. The information would also be available for public examination at the City Clerk's office.",
+          "yesMeans": "Everett could publish required public notices on its website instead of in a newspaper.",
+          "noMeans": "The charter's current newspaper publication requirements stay in place.",
+          "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150601",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+        }
+      ]
+    },
+    "Bothell": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "City of Bothell – Annexation Into Shoreline Fire Department Regional Fire Authority",
+          "summary": "Under Resolution No. 1784, Bothell would be annexed into and become part of the Shoreline Fire Department Regional Fire Authority, effective March 1, 2027, under an amended authority plan. The stated purpose is to maintain current fire and emergency medical service levels in Bothell.",
+          "yesMeans": "Bothell would join the Shoreline Fire Department Regional Fire Authority on March 1, 2027.",
+          "noMeans": "Bothell would not join the Shoreline Fire Department Regional Fire Authority.",
+          "source": "https://www.snohomishcountywa.gov/DocumentCenter/View/150524",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=34"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "state": "NJ",
+  "county": "Middlesex County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.middlesexcountynj.gov/home/showpublisheddocument/10312/639239380595670000",
+    "https://www.middlesexcountynj.gov/home/showpublisheddocument/10310/639239380223430000",
+    "https://www.middlesexcountynj.gov/government/departments/department-of-community-services/office-of-county-clerk/election-services",
+    "https://www.middlesexcountynj.gov/government/find-my-elected-official/county-officials",
+    "https://www.cityofnewbrunswick.org/citycouncil"
+  ],
+  "note": "There are no countywide public questions in Middlesex County this year. Mayor, council and township committee races, Board of Education seats, and local public questions (Old Bridge, Sayreville) in other towns vary by municipality and are not shown here. New Brunswick has no Board of Education election on this ballot. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "County Surrogate (5-year term)",
+      "candidates": [
+        {
+          "key": "nj-middlesex-2026-surrogate-kane-harold",
+          "name": "Harold V. Kane, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-middlesex-2026-surrogate-cortes-claribel",
+          "name": "Claribel Cortes",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.middlesexcountynj.gov/home/showpublisheddocument/10312/639239380595670000"
+    },
+    {
+      "office": "County Commissioners (3-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nj-middlesex-2026-commissioner-mikolajczyk-john",
+          "name": "John \"Jack\" Mikolajczyk",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-middlesex-2026-commissioner-zaborney-andrew",
+          "name": "Andrew Zaborney",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-middlesex-2026-commissioner-tomaro-charles",
+          "name": "Charles Tomaro",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-middlesex-2026-commissioner-koppel-leslie",
+          "name": "Leslie Koppel",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.middlesexcountynj.gov/home/showpublisheddocument/10312/639239380595670000"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "New Brunswick": {
+      "contests": [
+        {
+          "office": "New Brunswick Mayor (4-year term)",
+          "candidates": [
+            {
+              "key": "nj-middlesex-2026-newbrunswick-mayor-cahill-jim",
+              "name": "Jim Cahill",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.middlesexcountynj.gov/home/showpublisheddocument/10312/639239380595670000"
+        },
+        {
+          "office": "New Brunswick City Council (4-year term)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "nj-middlesex-2026-newbrunswick-council-escobar-rebecca",
+              "name": "Rebecca H. Escobar",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "nj-middlesex-2026-newbrunswick-council-gaskins-petra",
+              "name": "Petra N. Gaskins",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "nj-middlesex-2026-newbrunswick-council-ferguson-matthew",
+              "name": "Matthew B. Ferguson",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.middlesexcountynj.gov/home/showpublisheddocument/10312/639239380595670000"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
