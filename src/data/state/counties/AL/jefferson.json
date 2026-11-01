@@ -1,0 +1,141 @@
+{
+  "state": "AL",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots",
+    "https://jeffcosheriffal.com/meet-sheriff-mark-pettway/"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Jefferson County sample ballot. Not shown because they depend on your district or division: Jefferson County Commission Districts 1-5, Jefferson County Board of Education (District 4; unincorporated areas only), and the Bessemer Division Assistant Tax Assessor and Assistant Tax Collector (Bessemer Cutoff area only). Probate Judge and District Attorney are not on the November 2026 ballot. No Jefferson County local constitutional amendments or City of Birmingham measures appear on the official sample ballot. Incumbent flags other than Sheriff are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 10th Judicial Circuit, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-circuit-p1-huff-brian",
+          "name": "Brian Huff",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 10th Judicial Circuit, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-circuit-p2-owens-shanta",
+          "name": "Shanta Craig Owens",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 10th Judicial Circuit, Place No. 3",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-circuit-p3-davis-kechia",
+          "name": "Kechia Davis",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 10th Judicial Circuit, Place No. 10",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-circuit-p10-clark-ruby",
+          "name": "Ruby Clark",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Jefferson County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-district-p1-cook-martha",
+          "name": "Martha Reeves Cook",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Jefferson County, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-district-p2-fortune-maria",
+          "name": "Maria Fortune",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Jefferson County, Place No. 7",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-district-p7-jones-tiffany",
+          "name": "Tiffany Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "Jefferson County Sheriff",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-sheriff-pettway-mark",
+          "name": "Mark Levie Pettway",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "al-jefferson-2026-sheriff-reach-jacob",
+          "name": "Jacob Reach",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "Tax Assessor, Jefferson County",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-tax-assessor-hendricks-gaynell",
+          "name": "Gaynell Hendricks",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    },
+    {
+      "office": "Tax Collector, Jefferson County",
+      "candidates": [
+        {
+          "key": "al-jefferson-2026-tax-collector-smallwood-jt",
+          "name": "J.T. Smallwood",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Jefferson-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

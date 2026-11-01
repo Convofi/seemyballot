@@ -1,0 +1,128 @@
+{
+  "state": "NC",
+  "county": "Wake County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/documents/2026-07/2026%20nov%20candidate%20list_11.pdf",
+    "https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/documents/2026-08/2026%20November%20General%20Sample%20Ballot%20Key.pdf",
+    "https://www.wake.gov/departments-government/board-elections/election-information/upcoming-election-information",
+    "https://www.wake.gov/departments-government/sheriffs-office"
+  ],
+  "note": "Not shown: Wake County Board of Commissioners Districts 1, 2, 3 and 7 (the official 2026 sample ballot key assigns these only to voters living in each district, so they are not county-wide this year), Wake County Board of Education Districts 1, 2, 7 and 9, NC Superior Court Judge Districts 10B and 10D, NC District Court Judge Districts 10A, 10B, 10D, 10E and 10F (each is only part of Wake County), Raleigh City Council Districts A-E, town bond referenda (such as Knightdale), and state legislative and U.S. House districts. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Wake County Board of Commissioners At-Large",
+      "seats": 2,
+      "candidates": [
+        { "key": "nc-wake-2026-commissioner-at-large-stogoski-kyle", "name": "Kyle Stogoski", "party": "Republican", "incumbent": false },
+        { "key": "nc-wake-2026-commissioner-at-large-singh-mona", "name": "Mona Singh", "party": "Democratic", "incumbent": false },
+        { "key": "nc-wake-2026-commissioner-at-large-kushner-christine", "name": "Christine Kushner", "party": "Democratic", "incumbent": false },
+        { "key": "nc-wake-2026-commissioner-at-large-hartong-gary", "name": "Gary Dale Hartong", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Wake County Clerk of Superior Court",
+      "candidates": [
+        { "key": "nc-wake-2026-clerk-superior-court-croom-claudia", "name": "Claudia C. Croom", "party": "Democratic", "incumbent": false },
+        { "key": "nc-wake-2026-clerk-superior-court-teague-joe", "name": "Joe E. Teague, Jr.", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Wake County Sheriff",
+      "candidates": [
+        { "key": "nc-wake-2026-sheriff-blackwell-kenneth", "name": "Kenny Blackwell", "party": "Republican", "incumbent": false },
+        { "key": "nc-wake-2026-sheriff-rowe-willie", "name": "Willie Rowe", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "District Attorney, District 10",
+      "candidates": [
+        { "key": "nc-wake-2026-district-attorney-nickel-george", "name": "Wiley Nickel", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Wake Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        { "key": "nc-wake-2026-soil-water-farrell-elizabeth", "name": "Beth Pugh Farrell", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nc-wake-2026-soil-water-white-james", "name": "Jim White", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nc-wake-2026-soil-water-thomas-terence", "name": "Terence Thomas", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nc-wake-2026-soil-water-lewis-brian", "name": "Brian K. Lewis", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nc-wake-2026-soil-water-krop-samantha", "name": "Samantha Krop", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nc-wake-2026-soil-water-grant-cincilla", "name": "Cece Grant", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Wake County School Bonds Referendum",
+      "title": "Wake County School Bonds",
+      "summary": "Asks whether Wake County may borrow up to $680,000,000 by issuing bonds to build, renovate, expand, improve and equip school buildings and other facilities for the Wake County Public School System. The official ballot statement estimates the total cost over the life of the bonds at $1,043,387,458 ($680,000,000 principal plus $363,387,458 interest) and estimates the property tax increase needed to repay them at $4.10 per year per $100,000 of property value. If approved, the county may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+      "yesMeans": "Wake County may issue up to $680,000,000 in bonds for Wake County Public School System facilities and may levy property taxes sufficient to repay them.",
+      "noMeans": "Wake County may not issue these $680,000,000 in school bonds.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+      "moreInfo": "https://www.wake.gov/departments-government/board-elections/election-information/upcoming-election-information"
+    },
+    {
+      "id": "Wake County Community College Bonds Referendum",
+      "title": "Wake County Community College Bonds",
+      "summary": "Asks whether Wake County may borrow up to $149,100,000 by issuing bonds to build, renovate, expand, improve and equip facilities for Wake Technical Community College. The official ballot statement estimates the total cost over the life of the bonds at $228,767,016 ($149,100,000 principal plus $79,667,016 interest) and estimates the property tax increase needed to repay them at $0.90 per year per $100,000 of property value. If approved, the county may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+      "yesMeans": "Wake County may issue up to $149,100,000 in bonds for Wake Technical Community College facilities and may levy property taxes sufficient to repay them.",
+      "noMeans": "Wake County may not issue these $149,100,000 in community college bonds.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+      "moreInfo": "https://www.wake.gov/departments-government/board-elections/election-information/upcoming-election-information"
+    }
+  ],
+  "municipalities": {
+    "Raleigh": {
+      "contests": [
+        {
+          "office": "City of Raleigh Mayor",
+          "candidates": [
+            { "key": "nc-wake-2026-raleigh-mayor-armstrong-ashleigh", "name": "Ashleigh Heath Armstrong", "party": "Nonpartisan", "incumbent": false },
+            { "key": "nc-wake-2026-raleigh-mayor-cowell-janet", "name": "Janet Cowell", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+        },
+        {
+          "office": "City of Raleigh City Council At-Large",
+          "seats": 2,
+          "candidates": [
+            { "key": "nc-wake-2026-raleigh-council-at-large-bradley-joshua", "name": "Joshua Bradley", "party": "Nonpartisan", "incumbent": false },
+            { "key": "nc-wake-2026-raleigh-council-at-large-forte-stormie", "name": "Ms. Stormie Denise Forte", "party": "Nonpartisan", "incumbent": false },
+            { "key": "nc-wake-2026-raleigh-council-at-large-rinehart-clark", "name": "Clark Rinehart", "party": "Nonpartisan", "incumbent": false },
+            { "key": "nc-wake-2026-raleigh-council-at-large-siddiqui-sana", "name": "Sana Siddiqui", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Raleigh Housing Bonds Referendum",
+          "title": "City of Raleigh Housing Bonds",
+          "summary": "Asks whether the City of Raleigh may borrow up to $101,500,000 by issuing bonds for community development programs that build or rehabilitate multifamily and single-family housing inside the city, principally for people with low and moderate incomes, including loans and other financial help and related land acquisition. The official ballot statement estimates the total cost over the life of the bonds at $167,885,618 ($101,500,000 principal plus $66,385,618 interest) and estimates the property tax increase needed to repay them at $0 per year per $100,000 of property value. If approved, the city may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+          "yesMeans": "The City of Raleigh may issue up to $101,500,000 in bonds for housing programs principally for people with low and moderate incomes, and may levy property taxes sufficient to repay them.",
+          "noMeans": "The City of Raleigh may not issue these $101,500,000 in housing bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://www.wake.gov/departments-government/board-elections/election-information/upcoming-election-information"
+        },
+        {
+          "id": "City of Raleigh Transportation Bonds Referendum",
+          "title": "City of Raleigh Transportation Bonds",
+          "summary": "Asks whether the City of Raleigh may borrow up to $101,500,000 by issuing bonds for transportation improvements inside and outside the city limits, including streets, sidewalks and streetscapes, bridges, bicycle lanes, curbs and drains, traffic controls, greenways, bus and train station and shelter improvements, and related land. The official ballot statement estimates the total cost over the life of the bonds at $164,607,118 ($101,500,000 principal plus $63,107,118 interest) and estimates the property tax increase needed to repay them at $0 per year per $100,000 of property value. If approved, the city may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+          "yesMeans": "The City of Raleigh may issue up to $101,500,000 in bonds for street, sidewalk, bridge, bicycle lane, greenway, transit stop and related transportation improvements, and may levy property taxes sufficient to repay them.",
+          "noMeans": "The City of Raleigh may not issue these $101,500,000 in transportation bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://www.wake.gov/departments-government/board-elections/election-information/upcoming-election-information"
+        }
+      ]
+    }
+  }
+}

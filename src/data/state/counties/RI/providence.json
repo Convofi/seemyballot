@@ -1,0 +1,36 @@
+{
+  "state": "RI",
+  "county": "Providence County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.providenceri.gov/wp-content/uploads/2026/09/November-2026-Local-Question-Explanantions.pdf",
+    "https://www.providenceri.gov/canvassers/2026-election-information/",
+    "https://www.providenceri.gov/wp-content/uploads/2026/06/List-of-Offices.pdf"
+  ],
+  "note": "Rhode Island has no county government, so there are no county offices or county questions. The race for Mayor of Providence is on your ballot but is not shown here: the state's certified candidate list and sample ballots (vote.sos.ri.gov, elections.ri.gov) could not be reached to confirm the certified names. Providence City Council (elected by ward), General Assembly districts, and party ward and district committees are also not shown. Providence has no elected school board seats on the 2026 ballot. Check your official sample ballot at vote.sos.ri.gov for these races.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Providence": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question 6",
+          "title": "Providence Housing Trust Fund to Finance Affordable Multi-Family Housing Projects in the City – $25,000,000 Bonds and Notes",
+          "summary": "Asks voters to approve a 2026 state law letting the City of Providence issue up to $25,000,000 in general obligation bonds and notes for the Providence Housing Trust Fund. The money would finance affordable multi-family housing for low- and moderate-income households, and units financed must stay affordable for at least 30 years. The city estimates total debt service of about $40,118,250 at an assumed 5% interest rate over 20 years.",
+          "yesMeans": "The City of Providence may issue up to $25,000,000 in general obligation bonds to fund the Providence Housing Trust Fund for affordable multi-family housing.",
+          "noMeans": "The City of Providence may not issue these $25,000,000 in bonds for the Providence Housing Trust Fund.",
+          "source": "https://www.providenceri.gov/wp-content/uploads/2026/09/November-2026-Local-Question-Explanantions.pdf"
+        },
+        {
+          "id": "Question 7",
+          "title": "An Ordinance Divesting from Foreign Countries Conducting Severe Violation of Human Rights",
+          "summary": "Asks voters to approve a city ordinance, placed on the ballot by City Council Resolution 326, requiring Providence to withdraw city fund investments from foreign countries that conduct ethnic cleansing, apartheid, illegal military occupation or genocide, and from corporations that enable those abuses. The restrictions would not apply where they would violate the city's fiduciary duties to pensioners and beneficiaries. The City Treasurer would review the portfolio and file an annual implementation report with the City Clerk by January 31.",
+          "yesMeans": "The divestment ordinance is approved and the city must screen and withdraw covered investments, subject to its fiduciary duties.",
+          "noMeans": "The divestment ordinance is not approved and the city's investment rules do not change.",
+          "source": "https://www.providenceri.gov/wp-content/uploads/2026/09/November-2026-Local-Question-Explanantions.pdf"
+        }
+      ]
+    }
+  }
+}

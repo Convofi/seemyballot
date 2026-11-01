@@ -1,0 +1,192 @@
+{
+  "state": "NY",
+  "county": "Erie County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.elections.erie.gov/pdfs/2026%20General%20Candidates%20List%20For%20Web.pdf",
+    "https://www.elections.erie.gov/pdfs/08.31.26%20Offices%20to%20be%20Elected.pdf",
+    "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf",
+    "https://www.elections.erie.gov/"
+  ],
+  "note": "Candidates come from the Erie County Board of Elections 2026 General Election candidate list. New York uses fusion voting: candidates on more than one party line are listed once under their main party; candidates who appear only on a minor-party line (e.g., Conservative) are shown as 'Other'. Supreme Court candidates Michael L. Amodeo and Robert N. Richardson are each nominated by both the Democratic and Republican parties (and minor parties) and are shown under Democratic, the first line on which they appear. County Clerk Michael P. Kearns appears on the Republican and Conservative lines. Not shown here because they depend on your district or town: Representative in Congress, State Senator, Member of Assembly, Erie County Legislator (all 11 districts are on the ballot), and town offices and town propositions outside Buffalo (e.g., Amherst and Cheektowaga Proposal No. 1). No County Executive, Sheriff, Comptroller, County Court, Family Court or Surrogate race is on the 2026 ballot. Buffalo Mayor and Common Council are not up in 2026. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 8th Judicial District",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "ny-erie-2026-supreme-court-bucki-craig",
+          "name": "Craig R. Bucki",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-erie-2026-supreme-court-joynt-anne",
+          "name": "Anne E. Joynt",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-erie-2026-supreme-court-amodeo-michael",
+          "name": "Michael L. Amodeo",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-erie-2026-supreme-court-richardson-robert",
+          "name": "Robert N. Richardson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-erie-2026-supreme-court-tripi-deanne",
+          "name": "Deanne M. Tripi",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-erie-2026-supreme-court-hickey-jonathan",
+          "name": "Jonathan S. Hickey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-erie-2026-supreme-court-vario-robert",
+          "name": "Robert R. Vario",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elections.erie.gov/pdfs/2026%20General%20Candidates%20List%20For%20Web.pdf"
+    },
+    {
+      "office": "Erie County Clerk",
+      "seats": 1,
+      "candidates": [
+        {
+          "key": "ny-erie-2026-county-clerk-meyer-steven",
+          "name": "Steven G. Meyer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-erie-2026-county-clerk-kearns-michael",
+          "name": "Michael P. Kearns",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.erie.gov/pdfs/2026%20General%20Candidates%20List%20For%20Web.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Buffalo": {
+      "contests": [
+        {
+          "office": "Buffalo City Court Judge",
+          "seats": 1,
+          "candidates": [
+            {
+              "key": "ny-erie-2026-buffalo-city-court-pacifico-michael",
+              "name": "Michael J. Pacifico",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.elections.erie.gov/pdfs/2026%20General%20Candidates%20List%20For%20Web.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Proposal No. 1",
+          "title": "City of Buffalo Charter Amendment regarding Acting Public Officials",
+          "summary": "Would amend the City Charter to state that any reference to the Mayor, Comptroller, Council Member, Common Council President or Council President pro tempore includes a person holding that office in an acting capacity. A person serving in one of these offices on an acting basis would have all the powers and duties of the permanent office.",
+          "yesMeans": "The Charter is amended to state that officials serving in an acting capacity have all the powers of the permanent office.",
+          "noMeans": "The City Charter stays unchanged.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 2",
+          "title": "City of Buffalo Charter Amendment to require Charter Revision Commissions Every Ten Years",
+          "summary": "Would require the Common Council to establish a Charter Revision Commission to formally review the City Charter at least once every ten years. The official abstract notes the Charter has been reviewed by such a commission twice since 1999.",
+          "yesMeans": "A Charter Revision Commission is required at least every ten years.",
+          "noMeans": "A Charter Revision Commission is not required every ten years.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 3",
+          "title": "City of Buffalo Charter Amendment empowering Council to fill vacancy if Council President becomes Acting Mayor",
+          "summary": "Would let the Common Council temporarily fill the district Council seat of the Common Council President if that person becomes Acting Mayor. Under current rules that district seat is left vacant.",
+          "yesMeans": "The Common Council may temporarily fill the district seat of a Council President who becomes Acting Mayor.",
+          "noMeans": "The district seat of a Council President who becomes Acting Mayor stays vacant.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 4",
+          "title": "City of Buffalo Charter Amendment to Limit Holdover Terms and to Review Inactive Boards",
+          "summary": "Would limit members of City boards to serving no more than sixty days after their terms expire. It would also suspend City boards that have been inactive until the Common Council reviews whether they are still needed.",
+          "yesMeans": "Board members may serve no more than sixty days past the end of their terms, and the Common Council must review inactive City boards.",
+          "noMeans": "Board members may keep serving after their terms expire, and inactive boards stay in existence.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 5",
+          "title": "City of Buffalo Charter Amendment regarding Mayoral Succession",
+          "summary": "Would amend section 4-5 of the City Charter to state that if the office of Mayor becomes vacant, the Common Council President becomes Acting Mayor. The President's district Council seat would become temporarily vacant and could be filled by the Common Council.",
+          "yesMeans": "The Charter states that the Common Council President becomes Acting Mayor if the office of Mayor becomes vacant.",
+          "noMeans": "The City Charter stays unchanged.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 6",
+          "title": "City of Buffalo Charter Amendment to require public website about City boards and board training",
+          "summary": "Would require the City to maintain a public website with information about City boards, commissions and other public bodies, including an application to fill vacancies. It would also require orientation and training for new board members.",
+          "yesMeans": "The City must maintain a website about City boards and provide training for new board members.",
+          "noMeans": "The website and training are not required.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 7",
+          "title": "City of Buffalo Charter Amendment for creation of temporary task forces",
+          "summary": "Would allow the Mayor and the Common Council to appoint temporary task forces, for terms of up to two years, to advise them on matters concerning the administration, safety or welfare of the City.",
+          "yesMeans": "The Mayor and Common Council may appoint temporary task forces.",
+          "noMeans": "The Mayor and Common Council are not given this power.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 8",
+          "title": "City of Buffalo Charter Amendment on Budget Adoption Procedures",
+          "summary": "Would require the Mayor to give the proposed budget to the City Comptroller before it goes to the Common Council, and let the Comptroller recommend changes to revenue and expenditure estimates. The Common Council could then lower estimates by a two-thirds vote, or raise an expenditure estimate by a majority vote, based on those recommendations.",
+          "yesMeans": "The Comptroller gains power to recommend budget estimate changes, and the Common Council may act on them.",
+          "noMeans": "The current budget powers stay unchanged.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 9",
+          "title": "City of Buffalo Charter Amendment to create an Election Reforms Task Force",
+          "summary": "Would establish a task force to study election changes for City offices, such as ranked choice voting and open primaries. The task force would make recommendations for possible local law proposals at the November 2028 general election.",
+          "yesMeans": "An Election Reforms Task Force is established.",
+          "noMeans": "No Election Reforms Task Force is established.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 10",
+          "title": "City of Buffalo Charter Amendment to Create a Civilian Police Advisory Commission",
+          "summary": "Would create a Civilian Police Advisory Commission of city residents, effective February 1, 2027. The commission would advise City departments on Buffalo policing policies.",
+          "yesMeans": "A Civilian Police Advisory Commission is created.",
+          "noMeans": "No Civilian Police Advisory Commission is created.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        },
+        {
+          "id": "Proposal No. 11",
+          "title": "City of Buffalo Charter Amendment to create a Commission on Human Rights",
+          "summary": "Would establish a Commission on Human Rights, replacing the current Commission on Citizens' Rights and Community Relations. The new commission would have expanded powers, including making recommendations to the Mayor, Common Council, City departments and the community on human rights protections.",
+          "yesMeans": "A Commission on Human Rights is established.",
+          "noMeans": "No Commission on Human Rights is established.",
+          "source": "https://www.elections.erie.gov/pdfs/City%20of%20Buffalo%20Proposals.pdf"
+        }
+      ]
+    }
+  }
+}
