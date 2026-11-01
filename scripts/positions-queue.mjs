@@ -5,6 +5,10 @@
 //   node scripts/positions-queue.mjs batch <n> [--size 30] write the next n batch files to
 //                                                         src/data/positions/queue/batch-<nnn>.json
 //   node scripts/positions-queue.mjs status               done / pending / total
+//   node scripts/positions-queue.mjs tier2 list           tier-2 universe (docs/POSITIONS_TIER2_BRIEF.md)
+//   node scripts/positions-queue.mjs tier2 batch <n> [--size 30]
+//                                                         write src/data/positions/queue/tier2-<nnn>.json
+//   node scripts/positions-queue.mjs tier2 status         tier-2 done / pending
 //
 // Universe = every federal general-election nominee the app shows (the `likely`
 // tier of src/lib/fec.ts, loaded through jiti so it is the exact same code,
@@ -81,6 +85,7 @@ async function federalCandidates() {
         state: st,
         knownWebsite: null,
         fecUrl: c.fecUrl,
+        incumbent: c.incumbent,
         group,
       });
     }
@@ -139,6 +144,7 @@ function stateCandidates() {
             state: st,
             knownWebsite: c.website ?? null,
             fecUrl: null,
+            incumbent: c.incumbent ?? null,
             group,
           });
         }
@@ -185,6 +191,45 @@ function batchFiles() {
     .filter((f) => /^batch-\d{3,}\.json$/.test(f))
     .sort()
     .map((f) => ({ file: f, ...JSON.parse(readFileSync(join(QUEUE_DIR, f), "utf8")) }));
+}
+
+// ---------- tier 2: candidates whose own campaign site gave no positions ----------
+const TIER2_PRIOR = new Set(["no_website_found", "website_no_issues_page", "website_unreachable"]);
+
+/** Tier-1 entries merged as src/lib/positions.ts does (file-name order, "ok" wins); tier2-* files excluded. */
+function mergedTier1() {
+  const data = new Map();
+  for (const f of readdirSync(POSITIONS_DIR).filter((f) => f.endsWith(".json") && !f.startsWith("tier2-")).sort()) {
+    for (const [key, entry] of Object.entries(JSON.parse(readFileSync(join(POSITIONS_DIR, f), "utf8")))) {
+      if (data.get(key)?.status === "ok" && entry.status !== "ok") continue;
+      data.set(key, entry);
+    }
+  }
+  return data;
+}
+
+function tier2Files() {
+  mkdirSync(QUEUE_DIR, { recursive: true });
+  return readdirSync(QUEUE_DIR)
+    .filter((f) => /^tier2-\d{3,}\.json$/.test(f))
+    .sort()
+    .map((f) => ({ file: f, ...JSON.parse(readFileSync(join(QUEUE_DIR, f), "utf8")) }));
+}
+
+/** Keys with an entry in any src/data/positions/tier2-*.json. */
+function tier2Done() {
+  const keys = new Set();
+  for (const f of readdirSync(POSITIONS_DIR).filter((f) => /^tier2-\d{3,}\.json$/.test(f)))
+    for (const k of Object.keys(JSON.parse(readFileSync(join(POSITIONS_DIR, f), "utf8")))) keys.add(k);
+  return keys;
+}
+
+/** Non-judicial candidates whose merged tier-1 status found no positions, in priority order (all, incl. covered). */
+async function tier2Universe() {
+  const merged = mergedTier1();
+  return (await universe())
+    .filter((c) => TIER2_PRIOR.has(merged.get(c.key)?.status) && !JUDICIAL.test(c.office))
+    .map((c) => ({ ...c, priorStatus: merged.get(c.key).status, knownWebsite: merged.get(c.key).website ?? c.knownWebsite }));
 }
 
 const [cmd, ...rest] = process.argv.slice(2);
@@ -262,7 +307,80 @@ if (cmd === "list") {
     `\nTotal ${all.length}: done ${nDone}, pending ${all.length - nDone} ` +
       `(${nBatched} in a batch, ${all.length - nDone - nBatched} not yet batched).`,
   );
+} else if (cmd === "tier2" && rest[0] === "list") {
+  const done = tier2Done();
+  for (const b of tier2Files()) for (const c of b.candidates) done.add(c.key);
+  const todo = (await tier2Universe()).filter((c) => !done.has(c.key));
+  let group = 0;
+  for (const c of todo) {
+    if (c.group !== group) {
+      group = c.group;
+      const n = todo.filter((x) => x.group === group).length;
+      console.log(`\n## ${group}. ${GROUPS[group]} (${n})`);
+    }
+    console.log(`${c.key}\t${c.name}\t${c.party}\t${c.office}\t${c.priorStatus}`);
+  }
+  console.log(`\n${todo.length} tier-2 candidate(s) not yet covered or queued.`);
+} else if (cmd === "tier2" && rest[0] === "batch") {
+  const count = Number(rest[1]);
+  const size = Number(flag("--size", "30"));
+  if (!Number.isInteger(count) || count < 1 || !Number.isInteger(size) || size < 1) {
+    console.error("Usage: node scripts/positions-queue.mjs tier2 batch <n> [--size 30]");
+    process.exit(1);
+  }
+  const batches = tier2Files();
+  const taken = tier2Done();
+  for (const b of batches) for (const c of b.candidates) taken.add(c.key);
+  const todo = (await tier2Universe()).filter((c) => !taken.has(c.key));
+  let next = Math.max(0, ...batches.map((b) => Number(b.batch))) + 1;
+  for (let n = 0; n < count && todo.length; n++, next++) {
+    const id = String(next).padStart(3, "0");
+    const candidates = todo
+      .splice(0, size)
+      .map(({ key, name, party, office, state, incumbent, knownWebsite, fecUrl, priorStatus }) => ({
+        key,
+        name,
+        party,
+        office,
+        state,
+        incumbent,
+        knownWebsite,
+        fecUrl,
+        priorStatus,
+        status: "pending",
+      }));
+    const file = join(QUEUE_DIR, `tier2-${id}.json`);
+    writeFileSync(
+      file,
+      JSON.stringify(
+        { batch: id, createdAt: new Date().toISOString(), output: `src/data/positions/tier2-${id}.json`, candidates },
+        null,
+        1,
+      ) + "\n",
+    );
+    console.log(`wrote src/data/positions/queue/tier2-${id}.json (${candidates.length} candidates)`);
+  }
+  console.log(`${todo.length} tier-2 candidate(s) left unbatched.`);
+} else if (cmd === "tier2" && rest[0] === "status") {
+  const all = await tier2Universe();
+  const done = tier2Done();
+  const batched = new Set();
+  for (const b of tier2Files()) {
+    const keys = b.candidates.map((c) => c.key);
+    keys.forEach((k) => batched.add(k));
+    console.log(`tier2-${b.batch}: ${keys.filter((k) => done.has(k)).length}/${keys.length} done`);
+  }
+  // Union, in case a key left the tier-1 universe after it was queued.
+  const keys = new Set([...all.map((c) => c.key), ...done, ...batched]);
+  const nDone = [...keys].filter((k) => done.has(k)).length;
+  const nBatched = [...keys].filter((k) => !done.has(k) && batched.has(k)).length;
+  console.log(
+    `\nTier 2 total ${keys.size}: done ${nDone}, pending ${keys.size - nDone} ` +
+      `(${nBatched} in a batch, ${keys.size - nDone - nBatched} not yet batched).`,
+  );
 } else {
-  console.error("Usage: node scripts/positions-queue.mjs (list | batch <n> [--size 30] | status)");
+  console.error(
+    "Usage: node scripts/positions-queue.mjs (list | batch <n> [--size 30] | status | tier2 (list | batch <n> [--size 30] | status))",
+  );
   process.exit(1);
 }

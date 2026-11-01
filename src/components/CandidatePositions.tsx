@@ -21,7 +21,10 @@ export default function CandidatePositions({ data }: { data: Data }) {
             </span>
           </summary>
           <div className="mb-1 border-l-2 border-line pl-3">
-            <p className="text-xs text-ink-3">In their own words, from their campaign site.</p>
+            <p className="text-xs text-ink-3">
+              In their own words, from {data.source ? data.source.label : "their campaign site"}. Summarized with AI;
+              verify at the source links.
+            </p>
             <ul className="mt-2 space-y-3">
               {data.positions.map((p) => (
                 <li key={p.topic}>

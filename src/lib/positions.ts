@@ -23,8 +23,23 @@ export type Position = {
 /**
  * "website_unreachable": the official site is known (website set) but blocks
  * automated reading (e.g. bot protection), so positions are [].
+ * "no_source_found": a tier-2 pass (docs/POSITIONS_TIER2_BRIEF.md) found no
+ * other source in the candidate's own words; ignored when an earlier entry exists.
  */
-export type PositionsStatus = "ok" | "no_website_found" | "website_no_issues_page" | "website_unreachable" | "error";
+export type PositionsStatus =
+  | "ok"
+  | "no_website_found"
+  | "website_no_issues_page"
+  | "website_unreachable"
+  | "no_source_found"
+  | "error";
+
+/** Where the positions came from when not the campaign site's issues page (tier 2). */
+export type PositionsSource = {
+  kind: "campaign_site" | "official_office" | "questionnaire" | "statement" | "press_release";
+  /** Short and user-facing, e.g. "their U.S. Senate office website". */
+  label: string;
+};
 
 export type CandidatePositions = {
   name: string;
@@ -36,6 +51,8 @@ export type CandidatePositions = {
   status: PositionsStatus;
   generatedAt: string;
   method: "manual" | "claude" | "agent";
+  /** Absent = the candidate's campaign site. */
+  source?: PositionsSource;
 };
 
 const DIR = path.join(process.cwd(), "src", "data", "positions");
@@ -45,7 +62,8 @@ let cache: { signature: string; data: Map<string, CandidatePositions> } | null =
 /**
  * All positions files merged. Re-read only when a file is added, removed or
  * modified (signature = names + mtimes). Later files (by name) override
- * earlier ones, except that an "ok" entry is never replaced by a non-"ok" one.
+ * earlier ones, except that an "ok" entry is never replaced by a non-"ok" one
+ * and a "no_source_found" entry never replaces any earlier entry.
  */
 function load(): Map<string, CandidatePositions> {
   const files = readdirSync(DIR)
@@ -58,6 +76,7 @@ function load(): Map<string, CandidatePositions> {
     const entries = JSON.parse(readFileSync(path.join(DIR, f), "utf8")) as Record<string, CandidatePositions>;
     for (const [key, entry] of Object.entries(entries)) {
       if (data.get(key)?.status === "ok" && entry.status !== "ok") continue;
+      if (entry.status === "no_source_found" && data.has(key)) continue;
       data.set(key, entry);
     }
   }

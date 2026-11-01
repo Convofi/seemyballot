@@ -6,6 +6,11 @@
 //
 //   node scripts/positions-merge-check.mjs src/data/positions/batch-001.json
 //   node scripts/positions-merge-check.mjs /tmp/batch-001.json --queue src/data/positions/queue/batch-001.json
+//
+// tier2-<nnn>.json files (docs/POSITIONS_TIER2_BRIEF.md) use queue/tier2-<nnn>.json,
+// allow only ok / no_source_found, require `source` on ok entries, and allow
+// sourceUrls off the campaign site (some otherwise-banned hosts only for the matching
+// source kind).
 import { readFileSync } from "node:fs";
 import { basename, join, resolve } from "node:path";
 
@@ -20,12 +25,17 @@ const STATUSES = new Set(["ok", "no_website_found", "website_no_issues_page", "w
 const BANNED_HOSTS =
   /(^|\.)(ballotpedia\.org|wikipedia\.org|votesmart\.org|vote411\.org|fec\.gov|facebook\.com|x\.com|twitter\.com|instagram\.com|linkedin\.com|youtube\.com|tiktok\.com|linktr\.ee|nytimes\.com|washingtonpost\.com|politico\.com|apnews\.com|cnn\.com|foxnews\.com)$|\.gov$/i;
 const ENTRY_FIELDS = ["name", "website", "positions", "bio", "status", "generatedAt", "method"];
+// Tier 2: positions in the candidate's own words from somewhere other than the campaign site.
+const TIER2_STATUSES = new Set(["ok", "no_source_found"]);
+const SOURCE_KINDS = new Set(["official_office", "questionnaire", "statement", "press_release"]);
+const NEWS_HOSTS = /(^|\.)(nytimes\.com|washingtonpost\.com|politico\.com|apnews\.com|cnn\.com|foxnews\.com)$/i;
 
 const file = process.argv[2];
-if (!file || !/^batch-\d{3,}\.json$/.test(basename(file))) {
-  console.error("Usage: node scripts/positions-merge-check.mjs src/data/positions/batch-<nnn>.json");
+if (!file || !/^(batch|tier2)-\d{3,}\.json$/.test(basename(file))) {
+  console.error("Usage: node scripts/positions-merge-check.mjs src/data/positions/(batch|tier2)-<nnn>.json");
   process.exit(1);
 }
+const tier2 = basename(file).startsWith("tier2-");
 // --queue <path> overrides the default queue/<same name> (e.g. to check a temp copy).
 const qi = process.argv.indexOf("--queue");
 const queuePath =
@@ -82,24 +92,47 @@ for (const [key, e] of Object.entries(data)) {
     continue;
   }
   for (const f of ENTRY_FIELDS) if (!(f in e)) fail(where, `missing field "${f}"`);
-  for (const f of Object.keys(e)) if (!ENTRY_FIELDS.includes(f)) fail(where, `unknown field "${f}"`);
+  for (const f of Object.keys(e)) if (!ENTRY_FIELDS.includes(f) && !(tier2 && f === "source")) fail(where, `unknown field "${f}"`);
   if (!isStr(e.name)) fail(where, "name must be a non-empty string");
   else if (e.name !== queued.get(key).name) warnings.push(`${where}: name "${e.name}" differs from queue "${queued.get(key).name}"`);
   if (e.method !== "agent") fail(where, `method must be "agent" (got ${JSON.stringify(e.method)})`);
   if (!isStr(e.generatedAt) || Number.isNaN(Date.parse(e.generatedAt))) fail(where, "generatedAt must be an ISO date");
-  if (!STATUSES.has(e.status)) fail(where, `status must be one of ${[...STATUSES].join(" / ")} (got ${JSON.stringify(e.status)})`);
+  const statuses = tier2 ? TIER2_STATUSES : STATUSES;
+  if (!statuses.has(e.status)) fail(where, `status must be one of ${[...statuses].join(" / ")} (got ${JSON.stringify(e.status)})`);
   if (e.bio !== null && !isStr(e.bio)) fail(where, "bio must be a string or null");
 
+  const q = queued.get(key);
   const siteHost = e.website === null ? null : host(e.website);
   if (e.website !== null) {
     if (!siteHost) fail(where, `website is not an http(s) URL: ${JSON.stringify(e.website)}`);
     else if (BANNED_HOSTS.test(siteHost)) fail(where, `website ${e.website} is not a campaign's own site`);
     // website_unreachable: the site is known but blocks automated reads, so skip the fetch.
-    else if (e.status !== "website_unreachable") needUrl(e.website, `${where} website`);
+    // Tier 2: same for a carried-over website that tier 1 already found unreachable,
+    // and for no_source_found (nothing new is asserted).
+    else if (
+      e.status !== "website_unreachable" &&
+      e.status !== "no_source_found" &&
+      !(tier2 && q.priorStatus === "website_unreachable" && host(q.knownWebsite ?? "") === siteHost)
+    )
+      needUrl(e.website, `${where} website`);
   }
-  if (e.status === "no_website_found" && e.website !== null) fail(where, "no_website_found must have website: null");
-  if (e.status !== "no_website_found" && e.website === null) fail(where, `status ${e.status} needs a website`);
-  if (e.website === null && e.bio !== null) fail(where, "bio must be null when no website was found");
+  if (tier2) {
+    if (e.status === "ok") {
+      const src = e.source;
+      if (!src || typeof src !== "object") fail(where, 'status "ok" needs source: { kind, label }');
+      else {
+        for (const f of Object.keys(src)) if (!["kind", "label"].includes(f)) fail(where, `source: unknown field "${f}"`);
+        if (!SOURCE_KINDS.has(src.kind))
+          fail(where, `source.kind must be one of ${[...SOURCE_KINDS].join(" / ")} (got ${JSON.stringify(src.kind)})`);
+        if (!isStr(src.label)) fail(where, "source.label must be a non-empty string");
+        else if (words(src.label) > 12) warnings.push(`${where}: source.label is long (${words(src.label)} words)`);
+      }
+    } else if ("source" in e) fail(where, `status ${e.status} must not have a source`);
+  } else {
+    if (e.status === "no_website_found" && e.website !== null) fail(where, "no_website_found must have website: null");
+    if (e.status !== "no_website_found" && e.website === null) fail(where, `status ${e.status} needs a website`);
+    if (e.website === null && e.bio !== null) fail(where, "bio must be null when no website was found");
+  }
 
   if (!Array.isArray(e.positions)) {
     fail(where, "positions must be an array");
@@ -119,12 +152,38 @@ for (const [key, e] of Object.entries(data)) {
     else if (words(p.stance) > 30) warnings.push(`${pw}: stance is ${words(p.stance)} words (aim for ≤ 30)`);
     const h = isStr(p.sourceUrl) ? host(p.sourceUrl) : null;
     if (!h) return fail(pw, `sourceUrl is not an http(s) URL: ${JSON.stringify(p.sourceUrl)}`);
-    if (siteHost && h !== siteHost) fail(pw, `sourceUrl host ${h} differs from website host ${siteHost}`);
+    if (tier2) {
+      const problem = tier2SourceProblem(p.sourceUrl, h, e.source?.kind, q.name);
+      if (problem) fail(pw, problem);
+    } else if (siteHost && h !== siteHost) fail(pw, `sourceUrl host ${h} differs from website host ${siteHost}`);
     needUrl(p.sourceUrl, pw);
   });
 }
 const missing = [...queued.keys()].filter((k) => !(k in data));
 for (const k of missing) fail(k, "queued key has no entry (use a not-found status rather than leaving it out)");
+
+/** Tier 2: may this sourceUrl be used for this source kind? null = yes. */
+function tier2SourceProblem(url, h, kind, name) {
+  if (/(^|\.)fec\.gov$/i.test(h)) return `sourceUrl ${h} is never a source of the candidate's own words`;
+  if (/\.gov$/i.test(h)) return kind === "official_office" ? null : `.gov sourceUrl needs source.kind "official_office"`;
+  if (/(^|\.)vote411\.org$/i.test(h)) return kind === "questionnaire" ? null : `vote411.org sourceUrl needs source.kind "questionnaire"`;
+  if (/(^|\.)ballotpedia\.org$/i.test(h)) {
+    if (kind !== "questionnaire") return `ballotpedia.org sourceUrl needs source.kind "questionnaire"`;
+    const path = decodeURIComponent(new URL(url).pathname);
+    const surname = name
+      .replace(/,?\s+(jr|sr|ii|iii|iv)\.?$/i, "")
+      .trim()
+      .split(/\s+/)
+      .pop()
+      .replace(/[^\p{L}'-]/gu, "");
+    if (/Candidate_Connection/i.test(path) || path.toLowerCase().includes(surname.toLowerCase())) return null;
+    return `ballotpedia.org sourceUrl must be a Candidate Connection page or the candidate's own page (path should contain "${surname}")`;
+  }
+  if (NEWS_HOSTS.test(h)) return kind === "statement" ? null : `news sourceUrl ${h} needs source.kind "statement" (an op-ed by the candidate)`;
+  if (BANNED_HOSTS.test(h)) return `sourceUrl ${h} is never a source of the candidate's own words`;
+  if (kind === "official_office") warnings.push(`${url}: official_office source on a non-.gov host ${h}; confirm it is the office's own site`);
+  return null;
+}
 
 // ---------- links ----------
 import { execFile } from "node:child_process";
@@ -179,9 +238,11 @@ const entries = Object.values(data);
 const count = (s) => entries.filter((e) => e?.status === s).length;
 console.log(`Batch ${basename(file)} vs queue/${basename(queuePath)}`);
 console.log(
-  `  ${queued.size - missing.length}/${queued.size} queued candidates covered: ${count("ok")} ok, ` +
-    `${count("website_no_issues_page")} website_no_issues_page, ${count("website_unreachable")} website_unreachable, ` +
-    `${count("no_website_found")} no_website_found`,
+  tier2
+    ? `  ${queued.size - missing.length}/${queued.size} queued candidates covered: ${count("ok")} ok, ${count("no_source_found")} no_source_found`
+    : `  ${queued.size - missing.length}/${queued.size} queued candidates covered: ${count("ok")} ok, ` +
+        `${count("website_no_issues_page")} website_no_issues_page, ${count("website_unreachable")} website_unreachable, ` +
+        `${count("no_website_found")} no_website_found`,
 );
 console.log(`  ${loaded}/${list.length} URLs loaded`);
 if (warnings.length) {
