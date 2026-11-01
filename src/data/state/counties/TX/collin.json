@@ -1,0 +1,598 @@
+{
+  "state": "TX",
+  "county": "Collin County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+    "https://www.collincountytx.gov/elections/sample-ballots",
+    "https://www.collincountytx.gov/elections/notices",
+    "https://www.collincountytx.gov/docs/default-source/elections/election-notices/collin-county-bond-voter-information-documents---english.pdf?sfvrsn=ace00f3f_3",
+    "https://www.collincountytx.gov/elections/cad-board-election",
+    "https://www.collincountytx.gov/government/commissioners-court",
+    "https://www.collincountytx.gov/county-clerk",
+    "https://www.collincountytx.gov/district-clerk",
+    "https://www.collincountytx.gov/courts/district-courts",
+    "https://www.collincountytx.gov/courts/county-courts-at-law",
+    "https://www.txcourts.gov/5thcoa/about-the-court/justices/"
+  ],
+  "note": "From the Collin County Elections all-race sample ballot for November 3, 2026. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precincts 1-4), U.S. House, State Senate and State House districts, school district races and measures (e.g. McKinney ISD, Wylie ISD, Princeton ISD, Bland ISD), municipal utility district and other special-district races and measures, the Lavon Municipal Development District proposition, the Collin County Community College District Proposition A ($600 million bond), and city council races in Lavon, Lowry Crossing and Princeton (not confirmed as citywide). There is no County Treasurer or countywide constable race on the Collin County ballot this year. Statewide races, including the 15th Court of Appeals, are listed with the Texas statewide ballot. Incumbent flags come from Collin County's own court and office pages and the 5th Court of Appeals justices page. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-county-judge-hill-chris",
+          "name": "Chris Hill",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-collin-2026-county-judge-brown-john",
+          "name": "John R. Buster Brown",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-cda-willis-greg",
+          "name": "Greg Willis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-district-clerk-gould-mike",
+          "name": "Mike Gould",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-county-clerk-kemp-stacey",
+          "name": "Stacey Kemp",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-collin-2026-county-clerk-russell-john",
+          "name": "John Russell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-coa5-p3-kolodoski-matthew",
+          "name": "Matthew Kolodoski",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-collin-2026-coa5-p3-reichek-amanda",
+          "name": "Amanda Reichek",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-coa5-p6-smith-ben",
+          "name": "Ben Smith",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-collin-2026-coa5-p6-purdy-monica",
+          "name": "Monica Purdy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 8",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-coa5-p8-wysocki-ashley",
+          "name": "Ashley Wysocki",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-collin-2026-coa5-p8-plumlee-andrea",
+          "name": "Andrea D. Plumlee",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Judge, 219th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-dist-219-edgeworth-jennifer",
+          "name": "Jennifer Edgeworth",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Judge, 296th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-dist-296-mccraw-piper",
+          "name": "Piper McCraw",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Judge, 366th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-dist-366-nowak-tom",
+          "name": "Tom Nowak",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Judge, 417th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-dist-417-wheless-cyndi",
+          "name": "Cyndi McCrann Wheless",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Judge, 429th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-dist-429-willis-jill",
+          "name": "Jill Willis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Judge, 471st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-dist-471-gantt-bryan",
+          "name": "Bryan Gantt",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "District Judge, 494th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-dist-494-pruitt-kathryn",
+          "name": "Kathryn Pruitt",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-ccl-1-mason-corinne",
+          "name": "Corinne Mason",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-ccl-2-walker-barnett",
+          "name": "Barnett Walker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-ccl-3-baxter-lance",
+          "name": "Lance S. Baxter",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-ccl-4-rippel-david",
+          "name": "David Rippel",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Court at Law No. 5",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-ccl-5-johnson-randy",
+          "name": "Randy Johnson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Court at Law No. 6",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-ccl-6-bender-jay",
+          "name": "Jay A. Bender",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Court at Law No. 7",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-ccl-7-waddill-david",
+          "name": "David Waddill",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Judge, County Probate Court",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-probate-duff-sarah",
+          "name": "Sarah R. Duff",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Collin County Appraisal District Board of Directors, Place 1",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-cad-p1-shinn-randal",
+          "name": "Randal Shinn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Collin County Appraisal District Board of Directors, Place 2",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-cad-p2-smith-michael",
+          "name": "Michael G. Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-collin-2026-cad-p2-cook-andrew",
+          "name": "Andrew Cook",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    },
+    {
+      "office": "Collin County Appraisal District Board of Directors, Place 3",
+      "candidates": [
+        {
+          "key": "tx-collin-2026-cad-p3-corcoran-joe",
+          "name": "Joe Corcoran",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition A",
+      "title": "Collin County Proposition A: Court and detention facility bonds",
+      "summary": "Authorizes Collin County to issue $296,500,000 in bonds to design, build, renovate, expand and equip court facilities, adult detention facilities, medical and mental health detention facilities, and adult probation facilities, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase. The county's voter information document estimates principal plus interest at $472,813,083.",
+      "yesMeans": "The county may issue $296,500,000 in bonds for court, detention and probation facilities and levy a tax to repay them.",
+      "noMeans": "The county may not issue these bonds.",
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+      "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/collin-county-bond-voter-information-documents---english.pdf?sfvrsn=ace00f3f_3"
+    },
+    {
+      "id": "Proposition B",
+      "title": "Collin County Proposition B: Road and bridge bonds",
+      "summary": "Authorizes Collin County to issue $475,000,000 in bonds to design, build, improve, extend and maintain non-tolled roads and bridges in Collin County, including buying land and rights-of-way, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase. The county's voter information document estimates principal plus interest at $757,458,083.",
+      "yesMeans": "The county may issue $475,000,000 in bonds for non-tolled roads and bridges and levy a tax to repay them.",
+      "noMeans": "The county may not issue these bonds.",
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+      "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/collin-county-bond-voter-information-documents---english.pdf?sfvrsn=ace00f3f_3"
+    },
+    {
+      "id": "Proposition C",
+      "title": "Collin County Proposition C: Parks and open space bonds",
+      "summary": "Authorizes Collin County to issue $6,000,000 in bonds to acquire, design, build and equip land for parks and open space, including joint county-city projects, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase. The county's voter information document estimates principal plus interest at $9,566,000.",
+      "yesMeans": "The county may issue $6,000,000 in bonds for parks and open space and levy a tax to repay them.",
+      "noMeans": "The county may not issue these bonds.",
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+      "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/collin-county-bond-voter-information-documents---english.pdf?sfvrsn=ace00f3f_3"
+    },
+    {
+      "id": "Proposition D",
+      "title": "Collin County Proposition D: Elections and storage facility bonds",
+      "summary": "Authorizes Collin County to issue $40,000,000 in bonds to design, build and equip a new county elections and storage facility, including election offices, training and storage, and storage for county records, historical documents and equipment, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase. The county's voter information document estimates principal plus interest at $63,783,333.",
+      "yesMeans": "The county may issue $40,000,000 in bonds for a new elections and storage facility and levy a tax to repay them.",
+      "noMeans": "The county may not issue these bonds.",
+      "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+      "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/collin-county-bond-voter-information-documents---english.pdf?sfvrsn=ace00f3f_3"
+    }
+  ],
+  "municipalities": {
+    "Plano": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Plano Proposition A: Multipurpose arena venue project and venue taxes",
+          "summary": "Authorizes the City of Plano's venue project, a new multipurpose arena for professional or amateur sports, entertainment and civic events in The Shops at Willow Bend area. To finance it, the city could impose one or more of: a short-term motor vehicle rental tax up to 5%, an event parking tax up to $3 per vehicle, an event admissions tax up to 10% of each ticket, a facility use tax up to $5,000 per game on each member of a visiting major league team, and a hotel occupancy tax up to 2%. The ballot labels this a tax increase and states the maximum total hotel occupancy tax in Plano would be 15%.",
+          "yesMeans": "The city may build the arena venue project and impose one or more of the listed venue taxes to pay for it.",
+          "noMeans": "The city may not proceed with this venue project or impose these venue taxes.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/plano-city-ordinance-for-venue-tax-election.pdf?sfvrsn=d908b63e_3"
+        }
+      ]
+    },
+    "Dallas": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Dallas Proposition A: Public safety bonds",
+          "summary": "Authorizes the City of Dallas to issue $443,000,000 in general obligation bonds for public safety improvements and facilities, including fire, police and emergency services. The city would levy a tax sufficient to pay principal and interest; the ballot estimates total repayment, including principal and interest at current market conditions, at $629,618,180. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $443 million in bonds for public safety facilities and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/notice-of-bond-election---city-of-dallas.pdf?sfvrsn=6a13da46_3"
+        }
+      ]
+    },
+    "Anna": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Anna Proposition A: Street improvement bonds",
+          "summary": "Authorizes the City of Anna to issue $60,000,000 in bonds for street improvements and to levy taxes sufficient to pay principal and interest. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $60 million in bonds for street improvements and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/city-of-anna-notice-of-election---english.pdf?sfvrsn=c89677b9_3"
+        }
+      ]
+    },
+    "Garland": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Garland Proposition A: Tax rate approval",
+          "summary": "Asks voters to approve a City of Garland property tax rate of $0.679900 per $100 of valuation for the current year, which is $0.036646 per $100 higher than the voter-approval rate. The ballot says the purpose is to add police, fire, 9-1-1 dispatch and parks staff, increase road construction and maintenance funding, maintain and enhance city services, and provide competitive pay. Last year's rate was $0.689746 per $100; the ballot labels this a tax increase.",
+          "yesMeans": "The city's tax rate for this year will be $0.679900 per $100 of valuation.",
+          "noMeans": "The city's tax rate will be limited to the lower voter-approval rate.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/garland-city-notice-of-special-election.pdf?sfvrsn=fe82976b_3"
+        }
+      ]
+    },
+    "Wylie": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Wylie Proposition A: Street improvement bonds",
+          "summary": "Authorizes the City of Wylie to issue $25,500,000 in general obligation bonds for street improvements in the Wylie Downtown Historic District and Ballard/Sachse Road, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $25,500,000 in bonds for street improvements in the Wylie Downtown Historic District and Ballard/Sachse Road and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/wylie-nov-2026-election---final-notice-of-bond-election.pdf?sfvrsn=692b9b05_3"
+        },
+        {
+          "id": "Proposition B",
+          "title": "City of Wylie Proposition B: Park and recreation bonds",
+          "summary": "Authorizes the City of Wylie to issue $22,500,000 in general obligation bonds for park and recreation facilities at Founders Park, Community Park, East Fork Park and Avalon Lake Park, land for future parks, and renovating a city building for parks use, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $22,500,000 in bonds for park and recreation facilities at Founders Park and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/wylie-nov-2026-election---final-notice-of-bond-election.pdf?sfvrsn=692b9b05_3"
+        },
+        {
+          "id": "Proposition C",
+          "title": "City of Wylie Proposition C: Public safety facility bonds",
+          "summary": "Authorizes the City of Wylie to issue $25,000,000 in general obligation bonds for public safety facilities, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $25,000,000 in bonds for public safety facilities and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/wylie-nov-2026-election---final-notice-of-bond-election.pdf?sfvrsn=692b9b05_3"
+        },
+        {
+          "id": "Proposition D",
+          "title": "City of Wylie Proposition D: Public works complex bonds",
+          "summary": "Authorizes the City of Wylie to issue $5,500,000 in general obligation bonds for a public works complex, including renovating a city building for public works use, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $5,500,000 in bonds for a public works complex and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/wylie-nov-2026-election---final-notice-of-bond-election.pdf?sfvrsn=692b9b05_3"
+        },
+        {
+          "id": "Proposition E",
+          "title": "City of Wylie Proposition E: Animal shelter bonds",
+          "summary": "Authorizes the City of Wylie to issue $12,000,000 in general obligation bonds for an animal shelter, and to levy a tax sufficient to pay principal and interest. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $12,000,000 in bonds for an animal shelter and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5",
+          "moreInfo": "https://www.collincountytx.gov/docs/default-source/elections/election-notices/wylie-nov-2026-election---final-notice-of-bond-election.pdf?sfvrsn=692b9b05_3"
+        }
+      ]
+    },
+    "Josephine": {
+      "contests": [
+        {
+          "office": "Mayor, City of Josephine",
+          "candidates": [
+            {
+              "key": "tx-collin-2026-josephine-mayor-chappell-gary",
+              "name": "Gary Chappell",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+        },
+        {
+          "office": "Alderman, Place 3, City of Josephine",
+          "candidates": [
+            {
+              "key": "tx-collin-2026-josephine-ald-p3-caserotti-john",
+              "name": "John Caserotti",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-collin-2026-josephine-ald-p3-esquivel-alex",
+              "name": "Alex Esquivel",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+        },
+        {
+          "office": "Alderman, Place 5, City of Josephine",
+          "candidates": [
+            {
+              "key": "tx-collin-2026-josephine-ald-p5-brown-lloyd",
+              "name": "Lloyd D. Brown",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-collin-2026-josephine-ald-p5-teel-matthew",
+              "name": "Matthew Teel",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+        }
+      ],
+      "measures": []
+    },
+    "Weston": {
+      "contests": [
+        {
+          "office": "Alderman, City of Weston",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "tx-collin-2026-weston-ald-goldstein-epi",
+              "name": "Epi Goldstein",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-collin-2026-weston-ald-bragg-tanner",
+              "name": "Tanner Bragg",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-collin-2026-weston-ald-mcmanus-john",
+              "name": "John McManus",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-collin-2026-weston-ald-hill-mike",
+              "name": "Mike Hill",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-collin-2026-weston-ald-johnston-marla",
+              "name": "Marla Johnston",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.collincountytx.gov/docs/default-source/elections/sample-ballots/20261103_joint-general-and-special-election_all-race-sample-ballot_final.pdf?sfvrsn=e253de7b_5"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
