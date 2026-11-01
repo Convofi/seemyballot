@@ -1,0 +1,552 @@
+{
+ "pa-gov-2026-shapiro-josh": {
+  "name": "Josh Shapiro",
+  "website": "https://joshshapiro.org/",
+  "bio": "48th Governor of Pennsylvania, in office since January 2023.",
+  "positions": [
+   {
+    "topic": "Accountability",
+    "stance": "Says he continues to \"take on the powerful on behalf of the people,\" as he did as Attorney General.",
+    "sourceUrl": "https://www.pa.gov/governor/accomplishments/accountability"
+   },
+   {
+    "topic": "Agriculture",
+    "stance": "Calls agriculture key to Pennsylvania's economic development and has prioritized investments in farmers and the industry.",
+    "sourceUrl": "https://www.pa.gov/governor/accomplishments/agriculture"
+   },
+   {
+    "topic": "Criminal justice",
+    "stance": "Working to make the criminal justice system \"more just and more fair\" and to support people reentering communities.",
+    "sourceUrl": "https://www.pa.gov/governor/accomplishments/criminal-justice"
+   },
+   {
+    "topic": "Cost of living",
+    "stance": "Working to lower costs so Pennsylvanians can stay in their homes, afford rent, and keep more of their money.",
+    "sourceUrl": "https://www.pa.gov/governor/accomplishments/cutting-costs"
+   },
+   {
+    "topic": "Economic development",
+    "stance": "Aims to make Pennsylvania a national leader in innovation, job creation, and economic development.",
+    "sourceUrl": "https://www.pa.gov/governor/accomplishments/economic-development"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "official_office",
+   "label": "their Pennsylvania governor's office website"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "az-gov-2026-hobbs-katie": {
+  "name": "Katie Hobbs",
+  "website": "https://katiehobbs.org/",
+  "bio": "Governor of Arizona and a trained social worker.",
+  "positions": [
+   {
+    "topic": "Education",
+    "stance": "Supports free early childhood education, affordable child care, and access to school counselors and social workers for every student.",
+    "sourceUrl": "https://azgovernor.gov/governor/priorities/improving-education"
+   },
+   {
+    "topic": "Housing",
+    "stance": "Plans to empower local communities to build more affordable housing and to address homelessness.",
+    "sourceUrl": "https://azgovernor.gov/governor/priorities/housing-and-human-services"
+   },
+   {
+    "topic": "Reproductive rights",
+    "stance": "Supports repealing the 1901 abortion law and expanding access to abortion services and family planning.",
+    "sourceUrl": "https://azgovernor.gov/governor/priorities/health-and-reproductive-rights"
+   },
+   {
+    "topic": "Water and environment",
+    "stance": "Prioritizes securing and modernizing Arizona's water supply and building a clean energy economy.",
+    "sourceUrl": "https://azgovernor.gov/governor/priorities/resilience-water-and-environment"
+   },
+   {
+    "topic": "Border security",
+    "stance": "Wants more funding and state police assistance for sheriffs and local law enforcement handling migrant crossings.",
+    "sourceUrl": "https://azgovernor.gov/governor/priorities/public-safety-border-security-and-corrections"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "official_office",
+   "label": "their Arizona governor's office website"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "wi-gov-2026-tiffany-tom": {
+  "name": "Tom Tiffany",
+  "website": "https://tomtiffany.com",
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ar-gov-2026-sanders-sarah": {
+  "name": "Sarah Huckabee Sanders",
+  "website": "https://sarahforgovernor.com",
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "id-ltgov-2026-myricks-eric": {
+  "name": "Eric Myricks",
+  "website": "https://ericforidaho.com",
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "sd-gov-2026-rhoden-larry": {
+  "name": "Larry Rhoden",
+  "website": "https://governorlarryrhoden.com/",
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "wy-gov-2026-casner-kenneth": {
+  "name": "Kenneth R. Casner",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "fl-gov-2026-datto-jeffrey": {
+  "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "mi-gov-2026-brandenburg-donna": {
+  "name": "Donna Brandenburg",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "mi-gov-2026-campbell-douglas": {
+  "name": "Douglas Campbell",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tn-gov-2026-brewer-dean": {
+  "name": "Dean Brewer",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tn-gov-2026-brown-ray": {
+  "name": "Ray Brown",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tn-gov-2026-morgan-charles": {
+  "name": "Charles Van Morgan",
+  "website": null,
+  "bio": null,
+  "positions": [
+   {
+    "topic": "Government",
+    "stance": "\"Give Tennesseans back their Government.\"",
+    "sourceUrl": "https://ballotpedia.org/Charles_Morgan_(Tennessee)"
+   },
+   {
+    "topic": "Public safety",
+    "stance": "\"Provide for public safety.\"",
+    "sourceUrl": "https://ballotpedia.org/Charles_Morgan_(Tennessee)"
+   },
+   {
+    "topic": "Tennessee first",
+    "stance": "\"Put Tennesseans first.\"",
+    "sourceUrl": "https://ballotpedia.org/Charles_Morgan_(Tennessee)"
+   },
+   {
+    "topic": "Corruption",
+    "stance": "Sees corruption as Tennessee's greatest challenge over the next decade.",
+    "sourceUrl": "https://ballotpedia.org/Charles_Morgan_(Tennessee)"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their 2022 Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tn-gov-2026-murphy-eddie": {
+  "name": "Eddie Lee Murphy",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tn-gov-2026-smithson-karl": {
+  "name": "Karl Knox Smithson",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tn-gov-2026-taylor-webb": {
+  "name": "L. Webb Taylor",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "md-gov-2026-white-cathy": {
+  "name": "Cathy White",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "co-gov-2026-hamilton-stephen": {
+  "name": "Stephen T. Hamilton",
+  "website": null,
+  "bio": null,
+  "positions": [
+   {
+    "topic": "Taxes",
+    "stance": "Wants to drop taxes in all Colorado counties, including no tax on milk, and \"no more extra taxes to the people.\"",
+    "sourceUrl": "https://ballotpedia.org/Stephen_Hamilton"
+   },
+   {
+    "topic": "Education",
+    "stance": "Wants to cut federal programs in schools and give them back to the state of Colorado.",
+    "sourceUrl": "https://ballotpedia.org/Stephen_Hamilton"
+   },
+   {
+    "topic": "Immigration",
+    "stance": "Criticizes the taxpayer cost of Denver's sanctuary city policies and calls for putting \"Americans First.\"",
+    "sourceUrl": "https://ballotpedia.org/Stephen_Hamilton"
+   },
+   {
+    "topic": "Transportation",
+    "stance": "Says I-25 should have a third lane next to the express lane, or no express lane at all.",
+    "sourceUrl": "https://ballotpedia.org/Stephen_Hamilton"
+   },
+   {
+    "topic": "Local spending",
+    "stance": "Says funds for some county programs are not being used as they should be.",
+    "sourceUrl": "https://ballotpedia.org/Stephen_Hamilton"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their 2024 Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "co-gov-2026-peckman-jeff": {
+  "name": "Jeff Peckman",
+  "website": null,
+  "bio": null,
+  "positions": [
+   {
+    "topic": "Government coherence",
+    "stance": "Says increasing coherence in government and society through \"coherence principles and technologies\" benefits all areas of government.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Peckman"
+   },
+   {
+    "topic": "Emissions",
+    "stance": "Says a Colorado technology converting methane into hydrogen and graphene could meet state emissions goals without more EV incentives.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Peckman"
+   },
+   {
+    "topic": "Air pollution",
+    "stance": "Says Colorado has a solution to largely solve the global air pollution problem within five years.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Peckman"
+   },
+   {
+    "topic": "Problem solving",
+    "stance": "Says too much is invested in exploiting problems instead of preventing and solving them.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Peckman"
+   },
+   {
+    "topic": "Two-party system",
+    "stance": "Wants a new model of government based on coherence to break \"the two-party stranglehold on America.\"",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Peckman"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "sc-gov-2026-addison-michael": {
+  "name": "Michael Addison",
+  "website": "https://www.addisonforsc.com/",
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ok-gov-2026-bush-orlando": {
+  "name": "Orlando Lynn Bush",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ok-gov-2026-brooks-robert": {
+  "name": "Robert E Brooks Sr",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ok-gov-2026-griffin-jerry": {
+  "name": "Jerry Griffin",
+  "website": "https://governorgriffin2027.com/",
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "nv-gov-2026-ford-danielle": {
+  "name": "Danielle Ford",
+  "website": "https://daniellefornevada.com/",
+  "bio": "Member of the Nevada State Board of Education and former Clark County School District trustee.",
+  "positions": [
+   {
+    "topic": "Nonpartisanship",
+    "stance": "Running as a \"Nevada-first nonpartisan,\" making decisions based on Nevada's needs instead of partisan talking points.",
+    "sourceUrl": "https://ballotpedia.org/Danielle_Ford"
+   },
+   {
+    "topic": "Public systems",
+    "stance": "Focuses on repairing systems families rely on, including affordability, education, health care, water, energy, and government accountability.",
+    "sourceUrl": "https://ballotpedia.org/Danielle_Ford"
+   },
+   {
+    "topic": "Accountability",
+    "stance": "Says she asks hard questions, follows public money, and holds public systems accountable.",
+    "sourceUrl": "https://ballotpedia.org/Danielle_Ford"
+   },
+   {
+    "topic": "AI and technology",
+    "stance": "Wants guardrails on student data, surveillance, automated decision-making, algorithmic bias, and data centers' water and energy use.",
+    "sourceUrl": "https://ballotpedia.org/Danielle_Ford"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ne-gov-2026-beard-rick": {
+  "name": "Rick Beard",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "id-gov-2026-pro-life-marvin": {
+  "name": "Pro-Life (formerly known as Marvin Richardson)",
+  "website": null,
+  "bio": "Organic farmer and self-described political and moral activist.",
+  "positions": [
+   {
+    "topic": "Abortion",
+    "stance": "\"Abortion is murder.\"",
+    "sourceUrl": "https://ballotpedia.org/Pro-Life_(Marvin_Thomas_Richardson)"
+   },
+   {
+    "topic": "Gender",
+    "stance": "\"There are only males and females.\"",
+    "sourceUrl": "https://ballotpedia.org/Pro-Life_(Marvin_Thomas_Richardson)"
+   },
+   {
+    "topic": "Socialism",
+    "stance": "\"Socialism is collective theft.\"",
+    "sourceUrl": "https://ballotpedia.org/Pro-Life_(Marvin_Thomas_Richardson)"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "vt-gov-2026-goodband-june": {
+  "name": "June Goodband",
+  "website": null,
+  "bio": "Counselor for more than 30 years.",
+  "positions": [
+   {
+    "topic": "Money in politics",
+    "stance": "Would restrict campaign spending and outlaw paid lobbying so corporations and big money do not control government.",
+    "sourceUrl": "https://ballotpedia.org/June_Goodband"
+   },
+   {
+    "topic": "Basic needs",
+    "stance": "Wants to meet needs like food, housing, health care, and child care through regulating employers and landlords and fair taxation.",
+    "sourceUrl": "https://ballotpedia.org/June_Goodband"
+   },
+   {
+    "topic": "Public safety",
+    "stance": "Would reduce spending on prisons and invest in housing, social support, and mental health and addictions care.",
+    "sourceUrl": "https://ballotpedia.org/June_Goodband"
+   },
+   {
+    "topic": "Climate change",
+    "stance": "Calls for urgent cuts in greenhouse gas emissions and a shift toward plant-based organic agriculture and local food systems.",
+    "sourceUrl": "https://ballotpedia.org/June_Goodband"
+   },
+   {
+    "topic": "Energy efficiency",
+    "stance": "Supports energy-efficient transportation and increasing the energy efficiency of all buildings in Vermont.",
+    "sourceUrl": "https://ballotpedia.org/June_Goodband"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their 2024 Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "vt-gov-2026-judd-brian": {
+  "name": "Brian Judd",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "H2CA06259": {
+  "name": "Jared Huffman",
+  "website": "https://www.jaredhuffman.com/",
+  "bio": "U.S. Representative for California's 2nd District and Ranking Member of the House Natural Resources Committee.",
+  "positions": [
+   {
+    "topic": "Agriculture",
+    "stance": "Wants agriculture to prioritize healthy, local, organic, affordable food over the needs of the largest agribusinesses.",
+    "sourceUrl": "https://huffman.house.gov/policy-issues/agriculture-and-food-safety"
+   },
+   {
+    "topic": "Climate change",
+    "stance": "Calls addressing climate change \"the greatest imperative of our time,\" requiring investment in infrastructure, new technologies, and jobs.",
+    "sourceUrl": "https://huffman.house.gov/policy-issues/climate-action-energy-and-environment"
+   },
+   {
+    "topic": "Disaster response",
+    "stance": "Working to secure resources to prevent and recover from disasters, including increasing wildfire resiliency.",
+    "sourceUrl": "https://huffman.house.gov/policy-issues/disaster-preparedness-and-response"
+   },
+   {
+    "topic": "Economy",
+    "stance": "Supports budget investments in infrastructure, research, clean energy, and education, plus a higher minimum wage and paid family leave.",
+    "sourceUrl": "https://huffman.house.gov/policy-issues/economy-and-jobs"
+   },
+   {
+    "topic": "Education",
+    "stance": "Supports proper funding for programs like Head Start and opposes redirecting public school funds to private and charter schools.",
+    "sourceUrl": "https://huffman.house.gov/policy-issues/education"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "official_office",
+   "label": "their U.S. House office website"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "H4CA12055": {
+  "name": "Ro Khanna",
+  "website": "https://www.rokhanna.com/",
+  "bio": "U.S. Representative for California's 17th District and member of the House Armed Services Committee.",
+  "positions": [
+   {
+    "topic": "Economy",
+    "stance": "Supports advanced American manufacturing and nationwide investment in high-tech apprenticeships and worker training.",
+    "sourceUrl": "https://khanna.house.gov/issues/economy"
+   },
+   {
+    "topic": "Education",
+    "stance": "Supports free public college, community college, and vocational school, and forgiving student debt for working and middle-class people.",
+    "sourceUrl": "https://khanna.house.gov/issues/education"
+   },
+   {
+    "topic": "Energy",
+    "stance": "Supports a renewable energy \"moonshot,\" repealing fossil fuel subsidies, and banning fracking on public lands.",
+    "sourceUrl": "https://khanna.house.gov/issues/environment-climate"
+   },
+   {
+    "topic": "Civil rights",
+    "stance": "Says no one should face discrimination based on sexual orientation or gender identity, and supports strong voting rights protections.",
+    "sourceUrl": "https://khanna.house.gov/issues/equality-and-social-justice"
+   },
+   {
+    "topic": "Foreign policy",
+    "stance": "Favors diplomatic solutions over military action and opposes broad authorizations of military force.",
+    "sourceUrl": "https://khanna.house.gov/issues/foreign-policy-and-national-security"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "official_office",
+   "label": "their U.S. House office website"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ }
+}
