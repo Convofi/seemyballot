@@ -1,0 +1,25 @@
+{
+  "state": "VA",
+  "county": "Richmond city",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.rva.gov/sites/default/files/2026-09/Style_001-Yellow_SampleNovember_Redacted.pdf",
+    "https://www.rva.gov/elections/nov-3-election",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Local-Offices-Candidate-List-(rev-10-9-2026).xlsx"
+  ],
+  "note": "Richmond's mayor, City Council and School Board are not elected in 2026. The School Board District 6 special election (Anne B. Holton, Jacqueline T. \"Jackie\" McDonnough) appears only on ballots in School Board District 6 and is not shown here. Check your official sample ballot.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Local Sales Tax Option",
+      "title": "Local Sales Tax Option",
+      "summary": "Asks whether the City of Richmond may levy an additional general retail sales tax of up to 1%. The money could be used only for capital projects to build or majorly renovate schools in the city. If approved, the tax would expire no later than June 30, 2046.",
+      "yesMeans": "The City of Richmond is authorized to levy an additional sales tax of up to 1% for school construction and major renovation, expiring no later than June 30, 2046.",
+      "noMeans": "The City of Richmond is not authorized to levy this additional sales tax.",
+      "source": "https://www.rva.gov/sites/default/files/2026-09/Style_001-Yellow_SampleNovember_Redacted.pdf",
+      "moreInfo": "https://www.rva.gov/elections/nov-3-election"
+    }
+  ],
+  "municipalities": {}
+}
