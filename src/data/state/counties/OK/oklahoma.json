@@ -1,0 +1,62 @@
+{
+  "state": "OK",
+  "county": "Oklahoma County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://hosting.okelections.gov/electionlist.html",
+    "https://www.oklahomacounty.org/Portals/0/DNNGalleryPro/uploads/2026/4/3/CountyCandidateFilings(11).pdf",
+    "https://oklahomacounty.legistar1.com/oklahomacounty/attachments/d86841b6-a6b1-4f98-b13e-3c062161e1b0.docx",
+    "https://www.oklahomacounty.org/Elected-Offices/Assessor",
+    "https://www.oklahomacounty.org/Elected-Offices/Treasurer"
+  ],
+  "note": "County Commissioner District 3 is on the ballot only in that district and is not shown. City of Choctaw (Propositions 1-3) and City of Harrah propositions, school district and other local questions are not shown. Oklahoma prints only contested races: District Attorney, district and associate district judges, and other county offices are not on the November 3, 2026 Oklahoma County ballot according to the State Election Board's list. Oklahoma City has no city-wide items on this ballot. Check your official sample ballot at the OK Voter Portal.",
+  "contests": [
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "ok-oklahoma-2026-assessor-stein-larry",
+          "name": "Larry Stein",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ok-oklahoma-2026-assessor-gibbons-john",
+          "name": "John Gibbons",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ok-oklahoma-2026-treasurer-miller-christie",
+          "name": "Christie K. Miller",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ok-oklahoma-2026-treasurer-thompson-jessica",
+          "name": "Jessica Thompson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition",
+      "title": "Proposition for a Sales Tax Increase in Oklahoma County",
+      "summary": "Would authorize Oklahoma County to levy a new countywide sales tax of four-tenths of one percent (0.40%), in addition to existing state and local sales taxes. The money would be used to operate, maintain, construct, renovate, finance, equip and staff county detention, diversion, and mental health facilities and programs. The tax would run for 25 years, from April 1, 2027 through March 31, 2052.",
+      "yesMeans": "Oklahoma County would add a 0.40% sales tax from April 1, 2027 to March 31, 2052 for detention, diversion, and mental health facilities and programs.",
+      "noMeans": "The new county sales tax would not be levied.",
+      "source": "https://oklahomacounty.legistar1.com/oklahomacounty/attachments/d86841b6-a6b1-4f98-b13e-3c062161e1b0.docx"
+    }
+  ],
+  "municipalities": {}
+}

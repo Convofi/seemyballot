@@ -1,0 +1,304 @@
+{
+  "state": "MO",
+  "county": "St. Louis city",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf",
+    "https://www.stlouis-mo.gov/government/departments/collector/",
+    "https://www.stlouis-mo.gov/government/departments/license/",
+    "https://www.stlouis-mo.gov/government/departments/recorder/"
+  ],
+  "note": "From the St. Louis Board of Election Commissioners official 'All Precincts' sample ballot for November 3, 2026. St. Louis is an independent city, so city offices, 22nd Circuit retention questions and city propositions are listed here. Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: U.S. House, state Senate and state House districts. Check your official sample ballot for these.",
+  "contests": [
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-collector-daly-gregory",
+          "name": "Gregory F.X. Daly",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "License Collector",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-license-collector-thompson-mavis",
+          "name": "Mavis \"Tessa\" Thompson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-recorder-cohn-shane",
+          "name": "Shane Cohn",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscity-2026-recorder-bauer-jerome",
+          "name": "Jerome H. Bauer",
+          "party": "Green",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-appeals-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-appeals-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-appeals-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 2 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-wright-clinton",
+          "name": "Clinton Robert Wright",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 3 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-hogan-elizabeth",
+          "name": "Elizabeth Byrne Hogan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 4 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-fowler-katherine",
+          "name": "Katherine M. Fowler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 5 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-llewellyn-annette",
+          "name": "Annette Llewellyn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 7 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-whyte-joseph",
+          "name": "Joseph P. Whyte",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 8 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-boyer-timothy",
+          "name": "Timothy J. Boyer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 9 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-millikan-scott",
+          "name": "Scott A. Millikan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 10 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-stovall-reid-calea",
+          "name": "Calea Stovall-Reid",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 12 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-connolly-madeline",
+          "name": "Madeline Orling Connolly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 14 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-hays-heather",
+          "name": "Heather J. Hays",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 15 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-roither-david",
+          "name": "David A. Roither",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, 22nd Judicial Circuit, Division 30 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-circuit-stelzer-michael",
+          "name": "Michael F. Stelzer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 22nd Judicial Circuit, Division 28 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-retain-assoc-dauphin-michael",
+          "name": "Michael R. Dauphin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Member of the Board of Education, St. Louis Public Schools (four-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mo-stlouiscity-2026-school-board-jones-donna",
+          "name": "Donna R. Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscity-2026-school-board-goss-wendy",
+          "name": "Wendy Goss",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscity-2026-school-board-hubbard-emily",
+          "name": "Emily Hubbard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscity-2026-school-board-jones-aneetra",
+          "name": "Aneetra Williams Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscity-2026-school-board-davis-zach",
+          "name": "Zach Davis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "City Proposition 1",
+      "title": "Charter amendment: use the nonpartisan top-two runoff system in special elections",
+      "summary": "This City Charter amendment would repeal Section 5 of Article IV of the Charter so that special elections use the same nonpartisan, top-two runoff system already used in regular city elections.",
+      "yesMeans": "City special elections would use the same nonpartisan, top-two runoff system as regular city elections.",
+      "noMeans": "Section 5 of Article IV of the Charter stays in place, and special elections keep their current rules.",
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    },
+    {
+      "id": "City Proposition B",
+      "title": "Charter amendment: half-cent citywide sales tax for an Early Childhood Education Fund",
+      "summary": "Proposed by initiative petition, this City Charter amendment would impose a citywide sales tax of one-half of one percent on all retail sales in St. Louis. The revenue would create an Early Childhood Education Fund for programs and services on the quality, affordability and access of early childhood education for children aged five and younger. A newly established St. Louis Early Childhood Education Board of Trustees would administer the money under a contract with the City.",
+      "yesMeans": "The City adds a half-cent sales tax on retail sales to fund early childhood education for children five and younger, administered by a new board of trustees.",
+      "noMeans": "The City does not impose this sales tax or create the Early Childhood Education Fund and board.",
+      "source": "https://www.stlouis-mo.gov/government/departments/board-election-commissioners/documents/upload/Nov26-All-Races-Sample-Ballot.pdf"
+    }
+  ],
+  "municipalities": {}
+}

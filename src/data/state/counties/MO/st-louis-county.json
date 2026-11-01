@@ -1,0 +1,315 @@
+{
+  "state": "MO",
+  "county": "St. Louis County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data",
+    "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1f0a7fef4fc54047b4e6bcdcd8fcc601/data",
+    "https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/",
+    "https://stlcopa.stlouiscountymo.gov/"
+  ],
+  "note": "From the St. Louis County Board of Elections official November 3, 2026 sample ballots (precincts CLA-003 and FLO-012; countywide items match). Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: County Council districts, U.S. House, state Senate and House districts, and any municipal, school district, fire, ambulance, library or other special-district questions. Check your official sample ballot for these.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-executive-hancock-dennis",
+          "name": "Dennis Hancock",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscounty-2026-executive-zimmerman-jake",
+          "name": "Jake Zimmerman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscounty-2026-executive-mcfarland-j",
+          "name": "J D McFarland",
+          "party": "Green",
+          "incumbent": false
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-prosecutor-price-smith-melissa",
+          "name": "Melissa Price Smith",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "mo-stlouiscounty-2026-prosecutor-brown-theo",
+          "name": "Theo Brown Sr.",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-assessor-messner-david",
+          "name": "David Messner",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscounty-2026-assessor-clemens-doug",
+          "name": "Doug Clemens",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mo-stlouiscounty-2026-assessor-brown-austin",
+          "name": "Austin Brown",
+          "party": "Green",
+          "incumbent": false
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-appeals-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-appeals-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-appeals-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 2 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-stewart-richard",
+          "name": "Richard M. Stewart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 6 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-borbonus-john",
+          "name": "John Borbonus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 7 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-ott-mary",
+          "name": "Mary Elizabeth Ott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 8 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-mcnelley-amanda",
+          "name": "Amanda B. McNelley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 16 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-mcpherson-jeffery",
+          "name": "Jeffery McPherson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 17 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-baker-lorne",
+          "name": "Lorne Baker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 20 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-hearne-matt",
+          "name": "Matt Hearne",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Circuit Judge, 21st Judicial Circuit, Division 21 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-circuit-dunne-ellen",
+          "name": "Ellen Wyatt Dunne",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Associate Circuit Judge, 21st Judicial Circuit, Division 32 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-assoc-lasater-julia",
+          "name": "Julia Pusateri Lasater",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Associate Circuit Judge, 21st Judicial Circuit, Division 33 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-assoc-klapp-nicolette",
+          "name": "Nicolette Antonia Klapp",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Associate Circuit Judge, 21st Judicial Circuit, Division 34 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-assoc-ruth-justin",
+          "name": "Justin W. Ruth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Associate Circuit Judge, 21st Judicial Circuit, Division 35 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-assoc-lewis-jason",
+          "name": "Jason K. Lewis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Associate Circuit Judge, 21st Judicial Circuit, Division 39 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-assoc-snyder-kelly",
+          "name": "Kelly Snyder",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Associate Circuit Judge, 21st Judicial Circuit, Division 43 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-assoc-ghasedi-mondonna",
+          "name": "Mondonna L. Ghasedi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "office": "Associate Circuit Judge, 21st Judicial Circuit, Division 44 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-stlouiscounty-2026-retain-assoc-dillon-amelung-chastidy",
+          "name": "Chastidy Dillon-Amelung",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition A",
+      "title": "St. Louis County Charter amendment: remove the term of office for the County Auditor",
+      "summary": "This St. Louis County Charter amendment would change Sections 2.200 and 2.210 of the Charter to remove the term of office from the position of County Auditor, as set out in Exhibit A of County Ordinance No. 29,627. It needs a simple majority to pass.",
+      "yesMeans": "The County Charter is amended so the County Auditor position no longer has a set term of office.",
+      "noMeans": "The County Charter stays as it is, and the County Auditor position keeps its current term of office.",
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    },
+    {
+      "id": "Proposition S",
+      "title": "St. Louis County tax levy for services to persons 60 years of age or older",
+      "summary": "St. Louis County would levy a property tax of five cents per $100 of assessed valuation. The money would be used to provide services to persons 60 years of age or older. It needs a simple majority to pass.",
+      "yesMeans": "St. Louis County levies a tax of five cents per $100 of assessed valuation to fund services for people 60 and older.",
+      "noMeans": "The county does not levy this tax for services to people 60 and older.",
+      "source": "https://stlouiscovotes.maps.arcgis.com/sharing/rest/content/items/1728e79eea904603ae0112166efcdf6f/data"
+    }
+  ],
+  "municipalities": {}
+}
