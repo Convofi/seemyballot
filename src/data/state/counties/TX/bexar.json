@@ -1,0 +1,583 @@
+{
+  "state": "TX",
+  "county": "Bexar County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot",
+    "https://elections.bexar.gov/163/Election-Information",
+    "https://www.bexar.org/2946/County-Clerk",
+    "https://www.bexar.org/3688/District-Clerk"
+  ],
+  "note": "From the Bexar County Elections Department's generic sample ballot for November 3, 2026. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precincts 1, 3 and 4), U.S. House, State Senate and State House districts, Edwards Aquifer Authority District 1 director, school district (e.g. San Antonio ISD, Northside ISD, South San Antonio ISD) and municipal utility district measures, and races or measures in cities other than San Antonio (e.g. Converse, Live Oak, Schertz, Windcrest). There are no countywide Bexar County propositions, and no Sheriff, County Treasurer or Constable races, on this ballot. Incumbent flags are shown only where the county's own website confirms the officeholder; judges are not marked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Chief Justice, 4th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-coa4-chief-richardson-bert",
+          "name": "Bert Richardson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-coa4-chief-arteaga-antonia",
+          "name": "Antonia \"Toni\" Arteaga",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 45th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-45-alvarez-mary-lou",
+          "name": "Mary Lou Alvarez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 144th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-144-de-leon-michael",
+          "name": "Michael De Leon",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 150th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-150-diaz-monique",
+          "name": "Monique Diaz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 186th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-186-escalona-kristina",
+          "name": "Kristina Escalona",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 187th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-187-franco-stephanie",
+          "name": "Stephanie Franco",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 224th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-224-flores-marisa",
+          "name": "Marisa Flores",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 225th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-225-robertson-benjamin",
+          "name": "Benjamin Robertson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-dist-225-vasquez-hortick-christine",
+          "name": "Christine Vasquez Hortick",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 226th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-226-ochoa-nelson-anastacia",
+          "name": "Anastacia \"Ana\" Ochoa Nelson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 227th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-227-del-prado-christine",
+          "name": "Christine Del Prado",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 285th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-285-nieto-nadine",
+          "name": "Nadine Melissa Nieto",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 288th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-288-chapa-cynthia",
+          "name": "Cynthia Marie Chapa",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 289th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-289-sosa-rose",
+          "name": "Rose Sosa",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 290th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-290-pena-jennifer",
+          "name": "Jennifer Pena",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 436th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-436-villareal-raymond",
+          "name": "Raymond A. Villareal",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 437th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-dist-437-perez-joel",
+          "name": "Joel Perez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-da-foster-ashley",
+          "name": "Ashley Foster",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-da-chapa-luz-elena",
+          "name": "Luz Elena Chapa",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-da-wolff-jason",
+          "name": "Jason Wolff",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-county-judge-von-dohlen-patrick",
+          "name": "Patrick Von Dohlen",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-county-judge-nirenberg-ron",
+          "name": "Ron Nirenberg",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl1-behrens-bob",
+          "name": "Bob Behrens",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-ccl1-petry-stowe-helen",
+          "name": "Helen Petry Stowe",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl2-saenz-melissa",
+          "name": "Melissa Saenz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl3-rodriguez-david",
+          "name": "David J. Rodriguez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl4-garrahan-jason",
+          "name": "Jason Roland Garrahan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-ccl4-ximenez-alfredo",
+          "name": "Alfredo Ximenez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 5",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl5-arevalos-andrea",
+          "name": "Andrea Arevalos",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 6",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl6-dominguez-erica",
+          "name": "Erica Dominguez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 7",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl7-lira-melanie",
+          "name": "Melanie M. Lira",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 8",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl8-brown-celeste",
+          "name": "Celeste Brown",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-ccl8-cruz-victoria",
+          "name": "Victoria Cruz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 9",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl9-previti-austin-daphne",
+          "name": "Daphne Previti Austin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-ccl9-gonzalez-jessica",
+          "name": "Jessica A. Gonzalez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 10",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl10-garcia-cesar",
+          "name": "Cesar Garcia",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 11",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl11-pena-erica",
+          "name": "Erica Peña",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 12",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl12-dietzmann-deborah",
+          "name": "Deborah Dietzmann",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-ccl12-zamora-lauren",
+          "name": "Lauren Zamora",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 13",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl13-perez-alicia",
+          "name": "Alicia \"Ali\" Perez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 14",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl14-martinez-audrey",
+          "name": "Audrey Martinez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 15",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-ccl15-vara-melissa",
+          "name": "Melissa Vara",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-probate1-kazen-oscar",
+          "name": "Oscar J. Kazen",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Judge, Probate Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-probate2-vasquez-veronica",
+          "name": "Veronica Vasquez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-district-clerk-castillo-christine",
+          "name": "Christine \"Chris\" Castillo",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-county-clerk-adame-clark-lucy",
+          "name": "Lucy Adame-Clark",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Bexar Central Appraisal District Director, Place 1",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-bcad-p1-bayne-susan",
+          "name": "Susan Bayne",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-bcad-p1-arevalo-diana",
+          "name": "Diana Arévalo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Bexar Central Appraisal District Director, Place 2",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-bcad-p2-anguiano-leticia",
+          "name": "Leticia Anguiano",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bexar-2026-bcad-p2-hizel-erika",
+          "name": "Erika Hizel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    },
+    {
+      "office": "Bexar Central Appraisal District Director, Place 3",
+      "candidates": [
+        {
+          "key": "tx-bexar-2026-bcad-p3-melendez-jon",
+          "name": "Jon Melendez",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "San Antonio": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of San Antonio Proposition A: Pre-K 4 SA sales and use tax 20-year reauthorization",
+          "summary": "Reauthorizes the Pre-K 4 SA early childhood education program and renews the city's sales and use tax at one-eighth of one percent to keep funding programs of the San Antonio Early Childhood Education Municipal Development Corporation. The renewal would run for up to 20 years after the current authorization expires in 2029.",
+          "yesMeans": "The one-eighth cent sales and use tax for Pre-K 4 SA continues for up to 20 more years after 2029.",
+          "noMeans": "The Pre-K 4 SA sales and use tax is not reauthorized beyond its current 2029 expiration.",
+          "source": "https://elections.bexar.gov/DocumentCenter/View/1708/Generic-Sample-Ballot",
+          "moreInfo": "https://elections.bexar.gov/163/Election-Information"
+        }
+      ]
+    }
+  }
+}
