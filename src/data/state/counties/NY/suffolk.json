@@ -1,0 +1,192 @@
+{
+  "state": "NY",
+  "county": "Suffolk County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://suffolkcountyny.gov/Departments/BOE/2026-General-Election-Candidate-List",
+    "https://suffolkcountyny.gov/Portals/0/formsdocs/boe/General%20Election,%202026%20-%20Sample%20Ballot%20Booklet.pdf",
+    "https://suffolkcountyny.gov/Board-Of-Elections"
+  ],
+  "note": "Candidates come from the Suffolk County Board of Elections 2026 General Election Candidate List (dated 9/21/2026); vote-for counts confirmed in the Board's 2026 General Election Sample Ballot Booklet. Confirm on your official sample ballot. New York uses fusion voting: candidates on more than one party line are listed once under their main party; candidates who appear only on a minor-party line are shown as 'Other'. County Clerk Vincent A Puleo and Comptroller candidate Daniel P Losquadro are on the Republican and Conservative lines. Supreme Court candidates Richard Ambro (Democratic and Republican), Leonard D Steinman and Joy M Watson (Democratic, Republican and Conservative) are shown under Democratic, the first line on which they appear; Anthony R Portesy appears only on the Conservative line. All County Court and Family Court candidates are on the Republican and Conservative lines (uncontested). Not shown here because they depend on your district or town: Representative in Congress, State Senator, Member of Assembly, District Court Judge (3rd District, Huntington; 5th District, Islip; 6th District, Brookhaven), and town offices (Supervisor in East Hampton, Riverhead, Shelter Island and Southampton; Superintendent of Highways in East Hampton and Shelter Island; Receiver of Taxes in Smithtown; Southampton Town Trustees; Shelter Island Town Justice). No County Executive, County Legislator, Sheriff, District Attorney or Surrogate race is on the 2026 candidate list, and no countywide proposition appears in the 2026 sample ballot booklet. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Suffolk County Clerk",
+      "candidates": [
+        {
+          "key": "ny-suffolk-2026-county-clerk-puleo-vincent",
+          "name": "Vincent A Puleo",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://suffolkcountyny.gov/Departments/BOE/2026-General-Election-Candidate-List"
+    },
+    {
+      "office": "Suffolk County Comptroller",
+      "candidates": [
+        {
+          "key": "ny-suffolk-2026-county-comptroller-estreich-jon",
+          "name": "Jon Estreich",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-county-comptroller-losquadro-daniel",
+          "name": "Daniel P Losquadro",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://suffolkcountyny.gov/Departments/BOE/2026-General-Election-Candidate-List"
+    },
+    {
+      "office": "Justice of the Supreme Court, 10th Judicial District",
+      "seats": 8,
+      "candidates": [
+        {
+          "key": "ny-suffolk-2026-supreme-court-ambro-richard",
+          "name": "Richard Ambro",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-steinman-leonard",
+          "name": "Leonard D Steinman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-porter-mary",
+          "name": "Mary E Porter",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-watson-joy",
+          "name": "Joy M Watson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-ukeiley-stephen",
+          "name": "Stephen L Ukeiley",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-sachs-eric",
+          "name": "Eric Sachs",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-wexler-william",
+          "name": "William D Wexler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-kelly-john",
+          "name": "John Kelly",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-reape-kelly",
+          "name": "Kelly A Reape",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-wilutis-karen",
+          "name": "Karen M Wilutis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-iliou-john",
+          "name": "John Iliou",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-mcdonaugh-james",
+          "name": "James A McDonaugh",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-mullen-mary-kate",
+          "name": "Mary Kate Mullen",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-supreme-court-portesy-anthony",
+          "name": "Anthony R Portesy",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://suffolkcountyny.gov/Departments/BOE/2026-General-Election-Candidate-List"
+    },
+    {
+      "office": "Suffolk County Court Judge",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "ny-suffolk-2026-county-court-driscoll-daniel",
+          "name": "Daniel T Driscoll",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-county-court-senft-anthony",
+          "name": "Anthony S Senft Jr",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-county-court-acquafredda-anna",
+          "name": "Anna Acquafredda",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-county-court-chalifoux-james",
+          "name": "James G Chalifoux",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://suffolkcountyny.gov/Departments/BOE/2026-General-Election-Candidate-List"
+    },
+    {
+      "office": "Suffolk County Family Court Judge",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ny-suffolk-2026-family-court-tantone-frank",
+          "name": "Frank A Tantone",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-family-court-garbarino-william",
+          "name": "William F Garbarino",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-suffolk-2026-family-court-tanenbaum-evan",
+          "name": "Evan S Tanenbaum",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://suffolkcountyny.gov/Departments/BOE/2026-General-Election-Candidate-List"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
