@@ -1,0 +1,100 @@
+{
+  "state": "CA",
+  "county": "Sacramento County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+    "https://elections.saccounty.gov/content/vre/us/en/campaign-services/candidate-report.html",
+    "https://elections.saccounty.gov/content/vre/us/en/campaign-services/positions-up-for-election.html",
+    "https://elections.saccounty.gov/content/vre/us/en/election-information/current-measure-information.html"
+  ],
+  "note": "Not shown: Board of Supervisors District 1, congressional and legislative districts, city council districts and other city offices outside the City of Sacramento (Elk Grove mayor, Folsom, Galt, Isleton, Citrus Heights, Rancho Cordova), school and community college boards, SMUD wards, fire, water, park, flood control and community services districts, and school, college and city measures that are not countywide (Measures D, E, G, H, I, J, K, L and M). No Sheriff, District Attorney, Assessor, other countywide office or Superior Court judge is on the County's November 3, 2026 candidate list, and there is no countywide measure. The City of Sacramento has no citywide office on this ballot, and its only measure (Measure F, SCERS charter amendment) was withdrawn. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Administrative Presiding Justice, Court of Appeal, Third District — retain Laurie Earl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sacramento-2026-coa3-earl-laurie",
+          "name": "Laurie Earl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Shama Mesiwala? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sacramento-2026-coa3-mesiwala-shama",
+          "name": "Shama Mesiwala",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain David B. Sapp? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sacramento-2026-coa3-sapp-david",
+          "name": "David B. Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Lauri Damrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sacramento-2026-coa3-damrell-lauri",
+          "name": "Lauri Damrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Stacy Boulware Eurie? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sacramento-2026-coa3-eurie-stacy",
+          "name": "Stacy Boulware Eurie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Aimee A. Feinberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sacramento-2026-coa3-feinberg-aimee",
+          "name": "Aimee A. Feinberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Jonathan Renner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-sacramento-2026-coa3-renner-jonathan",
+          "name": "Jonathan Renner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
