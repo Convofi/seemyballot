@@ -1,5 +1,5 @@
 import "server-only";
-import { readFile } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 import type { CandidatePositions } from "@/lib/positions";
 
@@ -62,6 +62,18 @@ export type CountyBallot = BallotSection & {
   note?: string;
 };
 
+/**
+ * One county's local ballot, src/data/state/counties/{ST}/{slug}.json (see
+ * docs/COUNTY_BALLOT_BRIEF.md). Merged into StateBallot.counties on read.
+ */
+export type CountyBallotFile = CountyBallot & {
+  state: string;
+  /** Census county NAME, e.g. "Harris County", "Orleans Parish", "Baltimore city". */
+  county: string;
+  verifiedAt: string;
+  sources: string[];
+};
+
 export type StateBallot = {
   state: string;
   electionDate: string;
@@ -104,12 +116,26 @@ const STATE_DIR = path.join(process.cwd(), "src", "data", "state");
 export async function readStateBallot(stateAbbr: string): Promise<StateBallot | null> {
   const st = stateAbbr.toUpperCase();
   if (!/^[A-Z]{2}$/.test(st)) return null;
+  let ballot: StateBallot;
   try {
-    return JSON.parse(await readFile(path.join(STATE_DIR, `${st}.json`), "utf8")) as StateBallot;
+    ballot = JSON.parse(await readFile(path.join(STATE_DIR, `${st}.json`), "utf8")) as StateBallot;
   } catch (e) {
     if ((e as NodeJS.ErrnoException).code === "ENOENT") return null;
     throw e;
   }
+  // County files add to (or replace) counties in the state file.
+  const dir = path.join(STATE_DIR, "counties", st);
+  let files: string[] = [];
+  try {
+    files = (await readdir(dir)).filter((f) => f.endsWith(".json"));
+  } catch (e) {
+    if ((e as NodeJS.ErrnoException).code !== "ENOENT") throw e;
+  }
+  for (const f of files) {
+    const c = JSON.parse(await readFile(path.join(dir, f), "utf8")) as CountyBallotFile;
+    ballot.counties[c.county] = { contests: c.contests, measures: c.measures, municipalities: c.municipalities, note: c.note };
+  }
+  return ballot;
 }
 
 export function getCountyBallot(ballot: StateBallot | null, county: string | null): CountyBallot | null {

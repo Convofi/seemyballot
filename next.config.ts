@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
   partialPrefetching: true,
   // These routes read these from disk at request time.
   outputFileTracingIncludes: {
-    "/api/state-ballot": ["./src/data/state/*.json", "./src/data/positions/*.json"],
+    "/api/state-ballot": ["./src/data/state/*.json", "./src/data/state/counties/*/*.json", "./src/data/positions/*.json"],
     "/api/contests": ["./src/data/positions/*.json"],
   },
   turbopack: {

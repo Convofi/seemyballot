@@ -1,6 +1,7 @@
 // Validates src/data/state/*.json against the StateBallot shape in
-// src/lib/stateBallot.ts. Usage: node scripts/check-state-ballot.mjs
-import { readdirSync, readFileSync } from "node:fs";
+// src/lib/stateBallot.ts, and src/data/state/counties/{ST}/*.json against
+// CountyBallotFile. Usage: node scripts/check-state-ballot.mjs
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
 const DIR = join(import.meta.dirname, "..", "src", "data", "state");
@@ -72,9 +73,31 @@ for (const file of files) {
   }
 }
 
+const COUNTY_DIR = join(DIR, "counties");
+const COUNTY_FIELDS = ["state", "county", "verifiedAt", "sources", "note", "contests", "measures", "municipalities"];
+let countyFiles = 0;
+for (const st of existsSync(COUNTY_DIR) ? readdirSync(COUNTY_DIR) : []) {
+  for (const file of readdirSync(join(COUNTY_DIR, st)).filter((f) => f.endsWith(".json"))) {
+    const w = `counties/${st}/${file}`;
+    countyFiles++;
+    need(/^[a-z0-9-]+\.json$/.test(file), w, "filename must be a lowercase slug");
+    const b = JSON.parse(readFileSync(join(COUNTY_DIR, st, file), "utf8"));
+    need(b.state === st && files.includes(`${st}.json`), w, "state must match the folder and have a state file");
+    need(isStr(b.county) && /^[A-Z]/.test(b.county), w, 'county must be the Census NAME, e.g. "Harris County"');
+    need(/^\d{4}-\d{2}-\d{2}$/.test(b.verifiedAt), w, "bad verifiedAt");
+    need(Array.isArray(b.sources) && b.sources.length > 0 && b.sources.every(isUrl), w, "sources must be https URLs");
+    need(b.note === undefined || isStr(b.note), w, "bad note");
+    const extra = Object.keys(b).filter((k) => !COUNTY_FIELDS.includes(k));
+    need(extra.length === 0, w, `unknown field(s) ${extra.join(", ")}`);
+    checkSection(b, w);
+    need(b.municipalities && typeof b.municipalities === "object", w, "needs municipalities{}");
+    for (const [place, mb] of Object.entries(b.municipalities ?? {})) checkSection(mb, `${w} > ${place}`);
+  }
+}
+
 if (errors.length) {
   console.error(errors.join("\n"));
   console.error(`\n${errors.length} problem(s)`);
   process.exit(1);
 }
-console.log(`OK: ${files.length} state file(s), ${keys.size} candidates`);
+console.log(`OK: ${files.length} state file(s), ${countyFiles} county file(s), ${keys.size} candidates`);

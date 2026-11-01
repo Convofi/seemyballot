@@ -12,7 +12,7 @@
 // write-ins. A key counts as done once any src/data/positions/*.json file has
 // an entry for it, whatever its status. Batches never overlap: `batch` skips
 // keys that are already in a queue file or a positions file.
-import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { createJiti } from "jiti";
 
@@ -109,6 +109,11 @@ function stateCandidates() {
   for (const f of readdirSync(STATE_DIR).filter((f) => f.endsWith(".json")).sort()) {
     const ballot = JSON.parse(readFileSync(join(STATE_DIR, f), "utf8"));
     const st = ballot.state;
+    const countyDir = join(STATE_DIR, "counties", st);
+    for (const cf of existsSync(countyDir) ? readdirSync(countyDir).filter((x) => x.endsWith(".json")) : []) {
+      const c = JSON.parse(readFileSync(join(countyDir, cf), "utf8"));
+      ballot.counties[c.county] = c;
+    }
     const name = stateName(st);
     const add = (contests, where, statewide) => {
       for (const contest of contests) {
