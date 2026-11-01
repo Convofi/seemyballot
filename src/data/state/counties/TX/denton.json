@@ -1,0 +1,453 @@
+{
+  "state": "TX",
+  "county": "Denton County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+    "https://www.votedenton.gov/current-and-upcoming-election-information/",
+    "https://www.votedenton.gov/denton-central-appraisal-district-election-information/",
+    "https://www.votedenton.gov/elected-officials/elected-official-listings/elected-officials/"
+  ],
+  "note": "From the Denton County Elections preview ballot (all precincts) for the November 3, 2026 General & Special Elections; every county contest below is on every Denton County ballot. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precincts 1-6), Constable Precinct 1 (unexpired term), U.S. House (Districts 4, 13, 26), State Board of Education District 14, State House (Districts 57, 63, 64, 65, 106), City of Denton Council District 1 (unexpired term), City of The Colony Council Places 3-6 (single-member districts), and special-district measures (Brookfield WCID, Cole Ranch Improvement District No. 2, Denton County MUD No. 7, Northlake FWSD No. 1, Sanctuary MUD No. 2). There are no countywide propositions and no Sheriff, Tax Assessor-Collector or County Attorney races this year. City measures are shown for Bartonville, Dallas, Double Oak, Flower Mound, Hickory Creek, Justin, Lake Dallas and Plano. Statewide races, including the 15th Court of Appeals, are listed with the Texas statewide ballot. Incumbent flags come from Denton County Elections' elected-officials listing. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-county-judge-eads-andy",
+          "name": "Andy Eads",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-denton-2026-county-judge-pappas-nick",
+          "name": "Nick Pappas",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-cda-johnson-paul",
+          "name": "Paul Johnson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-district-clerk-trantham-david",
+          "name": "David Trantham",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-county-clerk-luke-juli",
+          "name": "Juli Luke",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-denton-2026-county-clerk-frey-dale",
+          "name": "Dale Frey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-treasurer-brown-cindy",
+          "name": "Cindy Yeatts Brown",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-coa2-p2-taylor-chris",
+          "name": "Chris Taylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-coa2-p7-walker-brian",
+          "name": "Brian Walker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "District Judge, 158th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dj158-burgess-steve",
+          "name": "Steve Burgess",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "District Judge, 211th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dj211-shanklin-brody",
+          "name": "Brody Shanklin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "District Judge, 367th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dj367-hill-brent",
+          "name": "Brent Hill",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "District Judge, 467th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dj467-jones-derbha",
+          "name": "Derbha Jones",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "District Judge, 477th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dj477-dickens-michael",
+          "name": "Michael Dickens",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "District Judge, 481st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dj481-levonius-crystal",
+          "name": "Crystal Edmonson Levonius",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-denton-2026-dj481-fuller-seth",
+          "name": "Seth Fuller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-ccl1-mccary-kimberly",
+          "name": "Kimberly McCary",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-ccl2-ramirez-robert",
+          "name": "Robert Ramirez",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-ccrim1-ragland-lauri",
+          "name": "Lauri Ragland",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-ccrim2-piel-susan",
+          "name": "Susan Piel",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-ccrim3-beadle-forrest",
+          "name": "Forrest C. Beadle",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-ccrim4-oliver-chance",
+          "name": "Chance Oliver",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 5",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-ccrim5-waddill-coby",
+          "name": "Coby Waddill",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-probate1-jahn-david",
+          "name": "David Jahn",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Judge, County Probate Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-probate2-everett-christopher",
+          "name": "Christopher J. Everett",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Denton Central Appraisal District Board of Directors, Place 1",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dcad-p1-cox-angie",
+          "name": "Angie Cox",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Denton Central Appraisal District Board of Directors, Place 2",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dcad-p2-welker-curtiss",
+          "name": "Curtiss Welker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    },
+    {
+      "office": "Denton Central Appraisal District Board of Directors, Place 3",
+      "candidates": [
+        {
+          "key": "tx-denton-2026-dcad-p3-guzman-rick",
+          "name": "Rick Guzman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "tx-denton-2026-dcad-p3-irungu-edwin",
+          "name": "Edwin Irungu",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Dallas": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Dallas Proposition A: Public safety bonds",
+          "summary": "Authorizes the City of Dallas to issue $443,000,000 in general obligation bonds for public safety improvements and facilities, including fire, police and emergency services. The city would levy a tax sufficient to pay principal and interest; the ballot estimates total repayment, including principal and interest at current market conditions, at $629,618,180. The ballot labels this a tax increase.",
+          "yesMeans": "The city may issue $443 million in bonds for public safety facilities and levy a tax to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    },
+    "Bartonville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Town of Bartonville Proposition A: Street maintenance sales tax reauthorization",
+          "summary": "Would reauthorize the Town of Bartonville's local sales and use tax at the rate of five-eighths of one percent (0.625%) to continue providing revenue for maintenance and repair of municipal streets.",
+          "yesMeans": "The five-eighths of one percent (0.625%) sales tax for street maintenance and repair continues.",
+          "noMeans": "The five-eighths of one percent (0.625%) street maintenance sales tax is not reauthorized.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    },
+    "Flower Mound": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Town of Flower Mound Proposition A: Street maintenance sales tax reauthorization",
+          "summary": "Would reauthorize the Town of Flower Mound's local sales and use tax at the rate of one-quarter of one percent to continue providing revenue for maintenance and repair of municipal streets. The tax expires on the fourth anniversary of the election unless it is reauthorized again.",
+          "yesMeans": "The one-quarter of one percent sales tax for street maintenance and repair continues.",
+          "noMeans": "The one-quarter of one percent street maintenance sales tax is not reauthorized.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    },
+    "Justin": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Justin Proposition A: Street maintenance sales tax reauthorization",
+          "summary": "Would reauthorize the City of Justin's local sales and use tax at the rate of one-half of one percent to continue providing revenue for maintenance and repair of municipal streets. The tax expires on the fourth anniversary of the election unless it is reauthorized again.",
+          "yesMeans": "The one-half of one percent sales tax for street maintenance and repair continues.",
+          "noMeans": "The one-half of one percent street maintenance sales tax is not reauthorized.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    },
+    "Lake Dallas": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Lake Dallas Proposition A: Street maintenance sales tax reauthorization",
+          "summary": "Would reauthorize the City of Lake Dallas's local sales and use tax at the rate of one-fourth of one percent to continue providing revenue for maintenance and repair of municipal streets. The tax expires on the fifth anniversary of the election unless it is reauthorized again.",
+          "yesMeans": "The one-fourth of one percent sales tax for street maintenance and repair continues.",
+          "noMeans": "The one-fourth of one percent street maintenance sales tax is not reauthorized.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    },
+    "Double Oak": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Town of Double Oak Proposition A: Legal sale of all alcoholic beverages",
+          "summary": "Would legalize the legal sale of all alcoholic beverages, including mixed beverages, in the Town of Double Oak.",
+          "yesMeans": "The sale of all alcoholic beverages, including mixed beverages, becomes legal in Double Oak.",
+          "noMeans": "Current alcohol sales rules in Double Oak stay as they are.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    },
+    "Hickory Creek": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Town of Hickory Creek Proposition A: End economic development corporation and adopt sales tax",
+          "summary": "Would terminate the Hickory Creek Economic Development Corporation and adopt a local sales and use tax in the Town of Hickory Creek at the rate of one and three-quarters percent (1.75%).",
+          "yesMeans": "The Hickory Creek Economic Development Corporation is terminated and a 1.75% local sales and use tax is adopted.",
+          "noMeans": "The economic development corporation continues and the 1.75% local sales and use tax is not adopted.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    },
+    "Plano": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Plano Proposition A: Multipurpose arena venue project and taxes (ballot states: this is a tax increase)",
+          "summary": "Would authorize a new multipurpose arena for professional or amateur sports, entertainment and civic events in The Shops at Willow Bend area, and authorize one or more taxes to finance it: a short-term motor vehicle rental tax up to 5%, an event parking tax up to $3.00 per vehicle, an event admissions tax up to 10% of each ticket price, a venue facility use tax up to $5,000 per game on each member of a visiting major league team, and a hotel occupancy tax up to 2%. If approved, the maximum hotel occupancy tax rate from all sources in Plano would be 15% of a room's price. The ballot labels this a tax increase.",
+          "yesMeans": "Plano may build the arena venue project and impose one or more of the listed taxes to finance it.",
+          "noMeans": "Plano may not use these venue taxes to finance the arena project.",
+          "source": "https://www.votedenton.gov/wp-content/uploads/2026/09/1126-Active-Contest-List.pdf",
+          "moreInfo": "https://www.votedenton.gov/current-and-upcoming-election-information/"
+        }
+      ]
+    }
+  }
+}
