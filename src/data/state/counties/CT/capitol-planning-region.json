@@ -1,0 +1,31 @@
+{
+  "state": "CT",
+  "county": "Capitol Planning Region",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/hartford_sample_ada.pdf",
+    "https://www.ctprobate.gov/courts/hartford-probate-court"
+  ],
+  "note": "Connecticut has no county government, so there are no region-wide offices or measures. Only City of Hartford items are shown; Hartford's November 2026 sample ballot has no Registrar of Voters race and no local ballot question. Other towns in the Capitol Planning Region elect their own Judge of Probate by probate district; check your town's official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Hartford": {
+      "contests": [
+        {
+          "office": "Judge of Probate, Hartford Probate District (City of Hartford)",
+          "candidates": [
+            {
+              "key": "ct-capitol-2026-probate-hartford-smith-foye",
+              "name": "Foye A Smith",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/hartford_sample_ada.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
