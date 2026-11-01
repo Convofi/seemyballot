@@ -1,0 +1,46 @@
+{
+  "state": "NY",
+  "county": "Monroe County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.monroecounty.gov/files/boe/GE26%20Candidates%20List%20Certification%20(10-6-26).pdf",
+    "https://www.monroecounty.gov/files/boe/Offices%20to%20Be%20Elected%2020260304.pdf",
+    "https://www.monroecounty.gov/files/boe/Offices%20and%20Office%20Holders%2020260305.pdf",
+    "https://www.monroecounty.gov/elections"
+  ],
+  "note": "Candidates come from the Monroe County Board of Elections certified candidate list for the November 3, 2026 General Election (dated 10/6/2026). New York uses fusion voting: candidates on more than one party line are listed once under their main party. The certified list shows no Justice of the Supreme Court (7th Judicial District), County Court, Family Court, or Surrogate race, and we found no countywide or Rochester city proposition on the Board of Elections site; confirm on your official sample ballot. Rochester's Mayor and City Council are not on the 2026 ballot. Not shown here because they depend on your district or town: Representative in Congress, State Senator, Member of Assembly, and town or village offices (supervisor, town clerk, town council, town justice, highway superintendent, receiver of taxes, Fairport village mayor and trustees). Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "District Attorney",
+      "candidates": [
+        {
+          "key": "ny-monroe-2026-district-attorney-green-brian",
+          "name": "Brian Green",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.monroecounty.gov/files/boe/GE26%20Candidates%20List%20Certification%20(10-6-26).pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Rochester": {
+      "contests": [
+        {
+          "office": "Rochester City Court Judge",
+          "candidates": [
+            {
+              "key": "ny-monroe-2026-rochester-city-court-dixon-maija",
+              "name": "Maija C Dixon",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.monroecounty.gov/files/boe/GE26%20Candidates%20List%20Certification%20(10-6-26).pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "state": "UT",
+  "county": "Salt Lake County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf",
+    "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/election-certification-notice_finalv.pdf",
+    "https://www.utah.gov/pmn/files/1492833.pdf",
+    "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/2026-elections/salt-lake-county-bond/voter-information-pamphlet.pdf"
+  ],
+  "note": "Not shown: Salt Lake County Council Districts 1, 3 and 5; State Board of Education districts; and local school board races (Canyons, Granite, Jordan, Murray and Salt Lake school districts), which depend on your district. The County Assessor, Treasurer, Recorder and Surveyor are not on the 2026 ballot. Check your official sample ballot for your district races.",
+  "contests": [
+    {
+      "office": "County Council At-Large A",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-council-at-large-a-beglarian-gregory",
+          "name": "Gregory Beglarian",
+          "party": "Other",
+          "incumbent": false
+        },
+        {
+          "key": "ut-salt-lake-2026-council-at-large-a-anderson-kathleen",
+          "name": "Kathleen Anderson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-salt-lake-2026-council-at-large-a-robinson-zach",
+          "name": "Zach Robinson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "County District Attorney",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-district-attorney-gill-sim",
+          "name": "Sim Gill",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ut-salt-lake-2026-district-attorney-davis-kent",
+          "name": "Kent Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-auditor-cloward-ali",
+          "name": "Ali Cloward",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ut-salt-lake-2026-auditor-harding-chris",
+          "name": "Chris Harding",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-clerk-chapman-lannie",
+          "name": "Lannie Chapman",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-sheriff-manwaring-shane",
+          "name": "Shane Manwaring",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-salt-lake-2026-sheriff-rivera-rosie",
+          "name": "Rosie Rivera",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-dist3-bates-matthew",
+          "name": "Matthew David Bates",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-dist3-stormont-charles",
+          "name": "Charles A. Stormont",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-dist3-sanchez-coral",
+          "name": "Coral Sanchez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-dist3-shaughnessy-todd",
+          "name": "Todd Shaughnessy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-juv3-eisenman-susan",
+          "name": "Susan Heather Eisenman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-juv3-beck-steven",
+          "name": "Steven K. Beck",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-salt-lake-2026-juv3-flater-aaron",
+          "name": "Aaron William Flater",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Salt Lake County Special Bond Election",
+      "title": "Salt Lake County Recreation General Obligation Bond",
+      "summary": "Authorizes Salt Lake County to issue up to $128,000,000 in general obligation bonds, maturing within 11 years, to repair, complete, acquire, build or renovate open space, natural habitat, parks, community trails, recreational facilities and related county facilities. The official estimate is $16.39 per year in property tax on a $658,000 primary residence for the new bonds, but a net increase of $0 because older county bonds are being paid off. The county also estimates about $4.71 million a year in added operating and maintenance costs over the first ten years.",
+      "yesMeans": "The county may issue up to $128 million in bonds for parks, trails, open space and recreation facilities, repaid by property taxes.",
+      "noMeans": "The county may not issue these bonds.",
+      "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf",
+      "moreInfo": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/2026-elections/salt-lake-county-bond/voter-information-pamphlet.pdf"
+    }
+  ],
+  "municipalities": {
+    "Salt Lake City": {
+      "contests": [
+        {
+          "office": "Judge of the Salt Lake City Municipal Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-salt-lake-city-2026-justice-liu-jojo",
+              "name": "Jojo C. Liu",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Alta": {
+      "contests": [
+        {
+          "office": "Judge of the Alta Municipal Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-alta-2026-justice-farr-paul",
+              "name": "Paul Curtis Farr",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Draper": {
+      "contests": [
+        {
+          "office": "Judge of the Draper Municipal Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-draper-2026-justice-garner-lisa",
+              "name": "Lisa A. Garner",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Herriman": {
+      "contests": [
+        {
+          "office": "Judge of the Herriman Municipal Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-herriman-2026-justice-garner-lisa",
+              "name": "Lisa A. Garner",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Holladay": {
+      "contests": [
+        {
+          "office": "Judge of the Holladay Municipal Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-holladay-2026-justice-chin-augustus",
+              "name": "Augustus Griffith Chin",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Midvale": {
+      "contests": [
+        {
+          "office": "Judge of the Midvale City Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-midvale-2026-justice-vo-duc-george",
+              "name": "George Frederick Vo-Duc",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Riverton": {
+      "contests": [
+        {
+          "office": "Judge of the Riverton Municipal Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-riverton-2026-justice-bown-christopher",
+              "name": "Christopher Gregory Bown",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Sandy": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Sandy City Special Bond Election Proposition",
+          "title": "Sandy City General Obligation Bonds (former Crescent View Middle School property)",
+          "summary": "Authorizes the Sandy City Council to issue up to $30,000,000 in general obligation bonds, payable within 21 years, to acquire, develop, renovate and equip the former Crescent View Middle School property for community, recreation, arts, cultural, park, open-space, trail, municipal and related public uses. The official estimate is an average of $59.98 per year ($5.00 per month) in property tax on a $739,100 primary residence and $109.06 per year on a business property of the same value.",
+          "yesMeans": "Sandy City may issue up to $30 million in bonds for the former Crescent View Middle School property, repaid by property taxes.",
+          "noMeans": "Sandy City may not issue these bonds.",
+          "source": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/notices--petitions/2026/2026-general-election-sample-ballot.pdf",
+          "moreInfo": "https://www.saltlakecounty.gov/globalassets/1-site-files/clerk/elections/2026-elections/sandy-city-crescent-view-bond/sandy-city-go-bond-final-arguments-and-rebuttals.pdf"
+        }
+      ]
+    }
+  }
+}

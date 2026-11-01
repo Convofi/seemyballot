@@ -1,0 +1,133 @@
+{
+  "state": "LA",
+  "county": "Orleans Parish",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=37&parishName=ORLEANS",
+    "https://voterportal.sos.la.gov/SampleBallot",
+    "https://www.criminalcourt.org/judges"
+  ],
+  "note": "Orleans Parish and the City of New Orleans are coterminous, so all parish-wide items are listed here. Unopposed candidates (other Civil, Criminal and Juvenile Court seats, District Attorney, 4th Circuit Court of Appeal, Supreme Court 1st District) were declared elected and do not appear on the ballot. Not shown: Constable, 1st City Court (east bank only), Public Service Commission District 1 and BESE District 1 (district-based). Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Judge, Civil District Court, Division L",
+      "candidates": [
+        {
+          "key": "la-orleans-2026-cdc-divl-mckenna-warren",
+          "name": "Warren McKenna, III",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "la-orleans-2026-cdc-divl-newell-candace",
+          "name": "Candace N. Newell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=37&parishName=ORLEANS"
+    },
+    {
+      "office": "Judge, Civil District Court, Division M",
+      "candidates": [
+        {
+          "key": "la-orleans-2026-cdc-divm-bridges-stephanie",
+          "name": "Stephanie Bridges",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "la-orleans-2026-cdc-divm-lindsay-shawn",
+          "name": "Shawn Lindsay",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=37&parishName=ORLEANS"
+    },
+    {
+      "office": "Judge, Civil District Court, Domestic Section 1",
+      "candidates": [
+        {
+          "key": "la-orleans-2026-cdc-dom1-hall-michael",
+          "name": "Michael \"Mike\" Hall",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "la-orleans-2026-cdc-dom1-williams-marie",
+          "name": "Marie Williams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=37&parishName=ORLEANS"
+    },
+    {
+      "office": "Judge, Criminal District Court, Section D",
+      "candidates": [
+        {
+          "key": "la-orleans-2026-crim-secd-holmes-kimya",
+          "name": "Kimya Holmes",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "la-orleans-2026-crim-secd-levine-simone",
+          "name": "Simone Levine",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=37&parishName=ORLEANS"
+    },
+    {
+      "office": "Judge, Criminal District Court, Section H",
+      "candidates": [
+        {
+          "key": "la-orleans-2026-crim-sech-buras-camille",
+          "name": "Camille Buras",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "la-orleans-2026-crim-sech-roche-leon",
+          "name": "Leon Roché",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=37&parishName=ORLEANS"
+    },
+    {
+      "office": "Magistrate, Magistrate Section, Criminal District Court",
+      "candidates": [
+        {
+          "key": "la-orleans-2026-magistrate-debose-chanel",
+          "name": "Chanel Robinson Debose",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "la-orleans-2026-magistrate-lombard-juana",
+          "name": "Juana Marine Lombard",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=37&parishName=ORLEANS"
+    }
+  ],
+  "measures": [
+    {
+      "id": "PW HRC Amendment",
+      "title": "HRC Amendment - Amends Sec. 6-103 - CC",
+      "summary": "Amends Section 6-103 of the Home Rule Charter of the City of New Orleans (Ordinance No. 30553 M.C.S.) on spending against the adopted operating budget. It would bar allotments, reallotments or transfers of budgeted operating funds, and the approval of any requisition, purchase order, voucher or check, that would cause or are reasonably expected to cause spending in any category to exceed the amount appropriated for the year unless the budget ordinance is first amended to reflect the increase. It would also require monthly expenditure reports to the City Council.",
+      "yesMeans": "The charter is amended to bar spending or fund transfers that would exceed a department's or category's appropriation without a budget amendment, and to require monthly spending reports to the City Council.",
+      "noMeans": "Section 6-103 of the Home Rule Charter is not changed.",
+      "source": "https://voterportal.sos.la.gov/SampleBallot"
+    }
+  ],
+  "municipalities": {}
+}
