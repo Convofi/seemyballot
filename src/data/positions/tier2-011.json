@@ -1,0 +1,392 @@
+{
+ "dc-shadowsen-2026-simmons-robert": {
+  "name": "Robert Simmons",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "dc-shadowrep-2026-ivanof-ciprian": {
+  "name": "Ciprian Ivanof",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "dc-shadowrep-2026-garcia-franklin": {
+  "name": "Franklin Garcia",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "vt-sos-2026-paige-h-brooke": {
+  "name": "H. Brooke Paige",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "vt-ag-2026-kemon-edwin": {
+  "name": "Edwin Howell Kemon",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "wy-sos-2026-mccarty-bryan": {
+  "name": "Bryan McCarty",
+  "website": null,
+  "bio": "Holds an MBA and has worked as a salaried employee in a range of positions.",
+  "positions": [
+   {
+    "topic": "Democracy",
+    "stance": "Says \"Our democracy is burning down around us.\"",
+    "sourceUrl": "https://ballotpedia.org/Bryan_McCarty"
+   },
+   {
+    "topic": "Public lands",
+    "stance": "Wants to keep public lands in public hands and administer them responsibly, legally, and on the basis of science.",
+    "sourceUrl": "https://ballotpedia.org/Bryan_McCarty"
+   },
+   {
+    "topic": "Collaboration",
+    "stance": "Says \"Working together, when we can, where we can, with who we can, is the way forward.\"",
+    "sourceUrl": "https://ballotpedia.org/Bryan_McCarty"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "wy-spi-2026-cordova-ana": {
+  "name": "Ana Cordova",
+  "website": null,
+  "bio": "Education advocate who has worked at universities and education-focused nonprofits.",
+  "positions": [
+   {
+    "topic": "Public school funding",
+    "stance": "Believes in keeping public money in public schools.",
+    "sourceUrl": "https://ballotpedia.org/Ana_Cordova"
+   },
+   {
+    "topic": "Student readiness",
+    "stance": "Wants all students prepared for the workforce, the trades, or college.",
+    "sourceUrl": "https://ballotpedia.org/Ana_Cordova"
+   },
+   {
+    "topic": "Local control",
+    "stance": "Says local leaders should be trusted to meet state standards in ways they see fit for their communities.",
+    "sourceUrl": "https://ballotpedia.org/Ana_Cordova"
+   },
+   {
+    "topic": "Teacher qualifications",
+    "stance": "Supports upholding requirements that all educators be trained, credentialed, and qualified to teach.",
+    "sourceUrl": "https://ballotpedia.org/Ana_Cordova"
+   },
+   {
+    "topic": "School vouchers",
+    "stance": "Says funneling public money to private entities undermines public education; aims to make the Steamboat Legacy Scholarship program essentially unnecessary.",
+    "sourceUrl": "https://ballotpedia.org/Ana_Cordova"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-ag-2026-oxford-tom": {
+  "name": "Tom Oxford",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-comptroller-2026-echavarria-garza-alonzo": {
+  "name": "V. Alonzo Echavarria-Garza",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "tx-land-2026-snider-neill": {
+  "name": "Neill Snider",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "oh-sos-2026-pruss-tom": {
+  "name": "Tom Pruss",
+  "website": null,
+  "bio": "Owner of a Toledo print and mail marketing business since 2017.",
+  "positions": [
+   {
+    "topic": "Voting access",
+    "stance": "Will work to make registration and voting simple, transparent, and accessible while protecting every legitimate vote.",
+    "sourceUrl": "https://ballotpedia.org/Tom_Pruss"
+   },
+   {
+    "topic": "Election security",
+    "stance": "Supports common-sense voter ID, transparent counting, auditable systems, and free state IDs.",
+    "sourceUrl": "https://ballotpedia.org/Tom_Pruss"
+   },
+   {
+    "topic": "Ballot access",
+    "stance": "Will fight for ballot access, fair rules for all candidates, and reforms like Ranked Choice Voting.",
+    "sourceUrl": "https://ballotpedia.org/Tom_Pruss"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "mi-sos-2026-aughney-scott": {
+  "name": "Scott E. Aughney",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "mi-ag-2026-ludtke-john": {
+  "name": "John Perry Ludtke, Jr.",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "mi-ag-2026-polonowski-jeff": {
+  "name": "Jeff Polonowski",
+  "website": null,
+  "bio": "Retired research scientist who worked 36 years in over-the-counter drug R&D.",
+  "positions": [
+   {
+    "topic": "Social justice",
+    "stance": "Seeks a world free of oppression and promotes non-violent resolution of international and domestic conflicts.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Polonowski"
+   },
+   {
+    "topic": "Workers' rights",
+    "stance": "Supports all workers' rights to strike, unionize, earn livable pay, and have safe workplaces.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Polonowski"
+   },
+   {
+    "topic": "Foreclosure protections",
+    "stance": "Wants Michigan to be a \"no-recourse\" state and to require proof in court before foreclosure.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Polonowski"
+   },
+   {
+    "topic": "Consumer protection",
+    "stance": "Wants to protect citizens from corporations colluding to force up grocery prices and rents.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Polonowski"
+   },
+   {
+    "topic": "Environment",
+    "stance": "Supports banning hydraulic fracturing, opposing Line 5, and treating water as a human right.",
+    "sourceUrl": "https://ballotpedia.org/Jeff_Polonowski"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "mi-ag-2026-dern-doug": {
+  "name": "Doug Dern",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "az-sos-2026-collier-duwayne": {
+  "name": "Duwayne Collier",
+  "website": "https://www.duwaynecollier.com/",
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "az-corp-comm-2026-cease-mike": {
+  "name": "Mike Cease",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "in-comptroller-2026-schick-john": {
+  "name": "John Schick",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "co-treas-2026-barr-jodie": {
+  "name": "Jodie Barr",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "co-treas-2026-sturgis-marilee": {
+  "name": "Marilee Langner Sturgis",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "sc-supt-2026-ojuok-baba": {
+  "name": "Baba Amin Ojuok",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "sc-ag-comm-2026-sullens-michael": {
+  "name": "Michael Sullens",
+  "website": null,
+  "bio": "Restaurant operator in Anderson, South Carolina.",
+  "positions": [
+   {
+    "topic": "Food safety inspections",
+    "stance": "Would refocus inspections on actual safety and give independent producers fair, transparent hearings.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Sullens"
+   },
+   {
+    "topic": "Farmland protection",
+    "stance": "Opposes using state subsidies or tax breaks to turn farmland into solar fields, data centers, and industrial corridors.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Sullens"
+   },
+   {
+    "topic": "Local food supply",
+    "stance": "Wants in-state processing and packing facilities connecting growers directly to local restaurants, schools, and markets.",
+    "sourceUrl": "https://ballotpedia.org/Michael_Sullens"
+   }
+  ],
+  "status": "ok",
+  "source": {
+   "kind": "questionnaire",
+   "label": "their Ballotpedia Candidate Connection survey"
+  },
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "sc-ag-comm-2026-nelums-chris": {
+  "name": "Chris Nelums",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "nv-sos-2026-kennedy-john": {
+  "name": "John T. Kennedy",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ar-lands-2026-olson-christopher": {
+  "name": "Christopher Olson",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ks-treas-2026-lund-eric": {
+  "name": "Eric Lund",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ks-ins-2026-koehn-ric": {
+  "name": "Ric Koehn",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "ne-aud-2026-knight-john": {
+  "name": "John Knight",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "id-spi-2026-roundy-teresa": {
+  "name": "Teresa Roundy",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ },
+ "de-aud-2026-cassidy-austin": {
+  "name": "Austin Cassidy",
+  "website": null,
+  "bio": null,
+  "positions": [],
+  "status": "no_source_found",
+  "generatedAt": "2026-11-01",
+  "method": "agent"
+ }
+}
