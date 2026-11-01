@@ -1,0 +1,94 @@
+{
+  "state": "NJ",
+  "county": "Essex County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.essexclerk.com/_Content/pdf/Essex-2026-Sample-Ballots.pdf",
+    "https://ecfnj.com/cms/26/Members",
+    "https://essexcountynj.org/essex-county-executive-2/"
+  ],
+  "note": "Board of County Commissioners district seats (Districts 1-5, one per district on the 2026 ballot), municipal offices, Board of Education seats, and municipal or school public questions vary by address and are not shown here. County Clerk, Sheriff, Surrogate and Register of Deeds are not on the November 2026 Essex ballot. There are no countywide public questions, and Newark has no city offices or city public questions on this ballot. Check your official sample ballot for district and local races.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "nj-essex-2026-county-executive-mathews-maritza",
+          "name": "Maritza Mathews",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-county-executive-divincenzo-joseph",
+          "name": "Joseph N. DiVincenzo, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.essexclerk.com/_Content/pdf/Essex-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Board of County Commissioners At Large",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "nj-essex-2026-commissioner-at-large-eley-demetrius",
+          "name": "Demetrius Eley",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-ferreira-almeida-daniela",
+          "name": "Daniela Ferreira Almeida",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-freeman-douglas",
+          "name": "Douglas Freeman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-defrank-sahwa",
+          "name": "Sahwa DeFrank",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-mcgrath-christine",
+          "name": "Christine McGrath",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-yasin-abdur",
+          "name": "Abdur R. Yasin",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-engel-deborah",
+          "name": "Deborah Engel",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-richardson-wayne",
+          "name": "Wayne Richardson",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-essex-2026-commissioner-at-large-victor-hinds-wynnie-fred",
+          "name": "Wynnie-Fred Victor Hinds",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.essexclerk.com/_Content/pdf/Essex-2026-Sample-Ballots.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,224 @@
+{
+  "state": "FL",
+  "county": "Pinellas County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.votepinellas.gov/382",
+    "https://pinellas.gov/pinellas-county-board-of-county-commissioners/",
+    "https://www.pcsb.org/school-board/school-board/dawn-m-peters",
+    "https://www.stpete.org/mayor_s_office/mayor_s_biography.php"
+  ],
+  "note": "Not shown: County Commission District 6 (single-member), special fire control and rescue district seats (East Lake Tarpon, Palm Harbor, Pinellas Suncoast) and community development district seats, and other cities' races and questions (Belleair, Belleair Beach, Dunedin, Largo, Madeira Beach, Redington Shores, Seminole, Treasure Island). No Sheriff, Clerk, Property Appraiser, Supervisor of Elections or Tax Collector race, no 6th Circuit or County Court judge race, and no countywide referendum is on this ballot; unopposed candidates do not appear on the ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Board of County Commissioners District 2 (at-large, countywide)",
+      "candidates": [
+        {
+          "key": "fl-pinellas-2026-bocc-d2-scott-brian",
+          "name": "Brian Scott",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "fl-pinellas-2026-bocc-d2-hughes-tim",
+          "name": "Tim Hughes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votepinellas.gov/382"
+    },
+    {
+      "office": "School Board Member District 3 (at-large, countywide)",
+      "candidates": [
+        {
+          "key": "fl-pinellas-2026-school-board-d3-campogni-curtis",
+          "name": "Curtis Campogni",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-pinellas-2026-school-board-d3-peters-dawn",
+          "name": "Dawn Peters",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepinellas.gov/382"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Drew Atkinson? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pinellas-2026-dca2-retain-atkinson-drew",
+          "name": "Drew Atkinson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepinellas.gov/382"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Morris Silberman? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pinellas-2026-dca2-retain-silberman-morris",
+          "name": "Morris Silberman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepinellas.gov/382"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Daniel H. Sleet? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pinellas-2026-dca2-retain-sleet-daniel",
+          "name": "Daniel H. Sleet",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepinellas.gov/382"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Andrea Teves Smith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pinellas-2026-dca2-retain-smith-andrea",
+          "name": "Andrea Teves Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votepinellas.gov/382"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "St. Petersburg": {
+      "contests": [
+        {
+          "office": "St. Petersburg Mayor",
+          "candidates": [
+            {
+              "key": "fl-pinellas-2026-st-petersburg-mayor-crist-charlie",
+              "name": "Charlie Crist",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-pinellas-2026-st-petersburg-mayor-welch-kenneth",
+              "name": "Kenneth T. Welch",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.votepinellas.gov/382"
+        },
+        {
+          "office": "St. Petersburg City Council Member District 2 (citywide in the general election)",
+          "candidates": [
+            {
+              "key": "fl-pinellas-2026-st-petersburg-council-d2-bermudez-courtney",
+              "name": "Courtney Bermudez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-pinellas-2026-st-petersburg-council-d2-hament-gabriel",
+              "name": "Gabriel Hament",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.votepinellas.gov/382"
+        },
+        {
+          "office": "St. Petersburg City Council Member District 6 (citywide in the general election)",
+          "candidates": [
+            {
+              "key": "fl-pinellas-2026-st-petersburg-council-d6-grove-linsey",
+              "name": "Linsey Grove",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-pinellas-2026-st-petersburg-council-d6-mallory-trevor",
+              "name": "Trevor Mallory",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.votepinellas.gov/382"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of St. Petersburg No. 1 Referendum Question",
+          "title": "Stormwater, Wastewater and/or Potable Water Improvements General Obligation Bond Referendum",
+          "summary": "Asks whether the City may issue general obligation bonds of up to $600,000,000, maturing in no more than 30 years, to pay for storm resilience improvements such as floodwater protection, stormwater pump stations and drainage, plus wastewater and drinking water facilities. The bonds would be backed by the City's full faith, credit and unlimited property taxing power.",
+          "yesMeans": "The City may issue up to $600 million in general obligation bonds for storm, wastewater and drinking water improvements.",
+          "noMeans": "The City may not issue these general obligation bonds.",
+          "source": "https://www.votepinellas.gov/382"
+        },
+        {
+          "id": "City of St. Petersburg No. 1 Charter Amendment",
+          "title": "Removing City-Owned Vacant Lots from Park and Waterfront Map to Create Housing",
+          "summary": "The City Charter's Park and Waterfront Map includes a \"Jamestown\" parcel made up of Unity Park, open space at the Jamestown apartments, and nine vacant City-owned lots closed to the public. This amendment would remove those nine vacant lots from the map so that separate land use changes and a possible sale of the lots for affordable or workforce housing could follow.",
+          "yesMeans": "The nine vacant Jamestown lots are removed from the Charter's Park and Waterfront Map.",
+          "noMeans": "The nine lots stay on the Park and Waterfront Map.",
+          "source": "https://www.votepinellas.gov/382"
+        },
+        {
+          "id": "City of St. Petersburg No. 2 Referendum Question",
+          "title": "Authorizing Amendment of Harborage Marina Lease to Extend Term to 30 Years and Require Improvements",
+          "summary": "Asks whether City Council may amend the lease of City-owned submerged lands at Harborage Marina under the conditions in ordinance 640-H. The amendment would extend the lease to 30 years and require the tenant to build new improvements at no cost to the City, including 200 linear feet of docks, boat lifts and expanded restrooms, which the City would own when the lease ends.",
+          "yesMeans": "City Council may extend the Harborage Marina lease to 30 years with the required tenant-built improvements.",
+          "noMeans": "City Council may not approve this lease amendment.",
+          "source": "https://www.votepinellas.gov/382"
+        },
+        {
+          "id": "City of St. Petersburg No. 2 Charter Amendment",
+          "title": "Authorizing a 25-year Lease Limitation for the Port of St. Petersburg",
+          "summary": "The City Charter now limits leases at the Port of St. Petersburg to 10 years unless approved by a citywide referendum. This amendment would raise that limit to 25 years, matching the adjacent Albert Whitted Airport. It would not change the permitted use of the Port.",
+          "yesMeans": "Port of St. Petersburg leases of up to 25 years could be made without a citywide referendum.",
+          "noMeans": "The 10-year limit on Port leases without a referendum stays in place.",
+          "source": "https://www.votepinellas.gov/382"
+        },
+        {
+          "id": "City of St. Petersburg No. 3 Charter Amendment",
+          "title": "Technical, Clarifying, and Conforming Changes to Effectuate Holding Municipal Elections in Even-Numbered Years",
+          "summary": "In 2022, city voters approved moving Mayor and City Council elections to even-numbered years to align with state and national elections. This amendment would make technical, clarifying and conforming changes to the Charter to carry out that decision, including aligning the Charter-review process with the current election schedule.",
+          "yesMeans": "The Charter is updated with technical changes to match the even-year election schedule.",
+          "noMeans": "The Charter is not changed with these technical updates.",
+          "source": "https://www.votepinellas.gov/382"
+        }
+      ]
+    },
+    "Clearwater": {
+      "contests": [
+        {
+          "office": "Clearwater City Council Seat 5",
+          "candidates": [
+            {
+              "key": "fl-pinellas-2026-clearwater-council-seat5-bunker-mark",
+              "name": "Mark Bunker",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-pinellas-2026-clearwater-council-seat5-wilson-sam",
+              "name": "Sam Wilson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.votepinellas.gov/382"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
