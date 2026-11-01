@@ -1,0 +1,250 @@
+{
+  "state": "MD",
+  "county": "Baltimore city",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_all_counties_candidatelist.html",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html",
+    "https://www.baltimorecitycourt.org/judges",
+    "https://www.baltimorecitycourt.org/clerks-office/welcome-clerk-of-court/",
+    "https://www.stattorney.org/",
+    "https://www.baltimorecity.gov/sheriff",
+    "https://registers.maryland.gov/main/baltimorecity.html",
+    "https://www.mdcourts.gov/sites/default/files/import/orphanscourt/pdfs/ocjudgesregisters.pdf"
+  ],
+  "note": "Baltimore City is independent of any county, so all citywide items are listed at the county level. Congressional, State Senate, and House of Delegates district races are not shown here; check your official sample ballot for those. Mayor, City Council, and Comptroller are not on the 2026 ballot (elected in 2024). Board of Education incumbency is not marked because the school board roster could not be verified.",
+  "contests": [
+    {
+      "office": "Judge of the Circuit Court, Circuit 8 (vote for up to 6)",
+      "seats": 6,
+      "candidates": [
+        {
+          "key": "md-baltimore-city-2026-circuit-chen-catherine",
+          "name": "Catherine Chen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-circuit-fletcher-hill-lawrence",
+          "name": "Lawrence P. Fletcher-Hill",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-circuit-mcbride-kimberly",
+          "name": "Kimberly C. McBride",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-circuit-mckeithen-piper",
+          "name": "Piper Faith McKeithen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-circuit-tipton-hope",
+          "name": "Hope Tipton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-circuit-zaslow-levi",
+          "name": "Levi S. Zaslow",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-baltimore-city-2026-sa-bates-ivan",
+          "name": "Ivan J. Bates",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": "https://www.batesforbaltimore.com"
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-baltimore-city-2026-clerk-conaway-xavier",
+          "name": "Xavier A. Conaway",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-baltimore-city-2026-register-conaway-belinda",
+          "name": "Belinda K. Conaway",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-register-zipay-andy",
+          "name": "Andy Zipay",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-baltimore-city-2026-orphans-bernstein-charles",
+          "name": "Charles \"Chuck\" Bernstein",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-orphans-garrett-lewyn",
+          "name": "Lewyn Scott Garrett",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-baltimore-city-2026-orphans-loewenthal-michele",
+          "name": "Michele E. Loewenthal",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-baltimore-city-2026-sheriff-tapp-harper-sabrina",
+          "name": "Sabrina Tapp-Harper",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "office": "Board of Education At Large (vote for up to 2)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "md-baltimore-city-2026-boe-atlarge-day-jamar",
+          "name": "Jamar Day",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-baltimore-city-2026-boe-atlarge-esposito-ashley",
+          "name": "Ashley Ash Esposito",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.ashleyesposito.com"
+        },
+        {
+          "key": "md-baltimore-city-2026-boe-atlarge-flowers-domonique",
+          "name": "Domonique A. Flowers",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "website": "https://www.domoniqueflowers.com"
+        },
+        {
+          "key": "md-baltimore-city-2026-boe-atlarge-kenyatta-bey-kwame",
+          "name": "Kwame Jamal Kenyatta-Bey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Bond Issue: Affordable Housing Loan",
+      "summary": "Authorizes Baltimore City to borrow up to $22,000,000 for the City's Affordable Housing Program, including acquiring, redeveloping, and disposing of property. The money may be used to rehabilitate, build, and operate rental and homeownership housing, for related assistance programs and the Affordable Housing Trust Fund, and to eliminate unsafe conditions such as blight.",
+      "yesMeans": "The City may borrow up to $22,000,000 for these purposes.",
+      "noMeans": "The City may not borrow this money.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question B",
+      "title": "Bond Issue: School Loan",
+      "summary": "Authorizes Baltimore City to borrow up to $60,000,000 for school purposes. The money may be used to acquire property and to build or improve school buildings, athletic facilities, and community health and recreation facilities, and to buy equipment for them.",
+      "yesMeans": "The City may borrow up to $60,000,000 for these purposes.",
+      "noMeans": "The City may not borrow this money.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question C",
+      "title": "Bond Issue: Community and Economic Development Loan",
+      "summary": "Authorizes Baltimore City to borrow up to $50,000,000 for the City's economic development program, including acquiring, developing, and disposing of property. The money may be used to eliminate blight, improve neighborhoods, retail corridors, and public structures, and for loans or grants to businesses, homeowners, home repair, cultural life, and tourism.",
+      "yesMeans": "The City may borrow up to $50,000,000 for these purposes.",
+      "noMeans": "The City may not borrow this money.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question D",
+      "title": "Bond Issue: Public Infrastructure Loan",
+      "summary": "Authorizes Baltimore City to borrow up to $148,000,000 to develop public infrastructure owned or controlled by the City, including City buildings, Enoch Pratt Free Library facilities, and public parks. The money may also be used to build or repair streets, utilities, and other structures, including information technology infrastructure, and to acquire trees, equipment, and fixtures.",
+      "yesMeans": "The City may borrow up to $148,000,000 for these purposes.",
+      "noMeans": "The City may not borrow this money.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question E",
+      "title": "Charter Amendment: Contract Bidding and Awards",
+      "summary": "Removes from the City Charter the requirement to award contracts to the lowest bidder, the process for resolving tie bids, and the provisions on bid bonds and performance bonds. The removal takes effect November 7, 2028, unless an ordinance or regulation on the topic is adopted sooner.",
+      "yesMeans": "These contract bidding and award provisions are removed from the Charter.",
+      "noMeans": "The current Charter language on contract bidding and awards stays in place.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question F",
+      "title": "Charter Amendment: Legislation, Budget, and Board of Estimates",
+      "summary": "Shortens the time the Mayor has to veto legislation and the time the City Council has to override a veto, and moves preparation of the proposed budget from the Board of Estimates to the Mayor. It removes the $1 million cap on the contingent fund and shifts revenue estimates, tax-rate setting, surplus estimates, and salary decisions from the Board of Estimates to the Mayor, Finance Department, Finance Director, or Planning Commission. It also removes several other Board of Estimates duties from the Charter, which could be reassigned by ordinance.",
+      "yesMeans": "The legislative, budget, and Board of Estimates changes take effect on the dates set out in the amendment (December 3, 2026 through December 5, 2028).",
+      "noMeans": "The current Charter language on legislation, the budget, and the Board of Estimates stays in place.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question G",
+      "title": "Charter Amendment: Franchises and Minor Privileges",
+      "summary": "Changes the Charter rules on how third parties may use City property, adding the stormwater system to property that cannot be sold or rented as a franchise and clarifying that conduit space can be rented but the conduit system cannot be sold. It moves the power to grant minor privileges from the Board of Estimates to an executive agency under a process set by ordinance, and removes obsolete provisions on street railways and trackless trolleys.",
+      "yesMeans": "The franchise and minor-privilege changes take effect (December 3, 2026, with removed sections ending November 7, 2028, unless replaced sooner).",
+      "noMeans": "The current Charter language on franchises and minor privileges stays in place.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question H",
+      "title": "Charter Amendment: Department of Water and Wastewater",
+      "summary": "Creates a new Department of Water and Wastewater in the City Charter, led by a Director, and moves responsibility for the City's water supply and wastewater systems to it from the Department of Public Works. It also removes the requirement that Public Works bureaus be created or abolished by ordinance. The changes take effect January 1, 2029.",
+      "yesMeans": "A new Department of Water and Wastewater is created and takes over the water and wastewater systems, effective January 1, 2029.",
+      "noMeans": "The current Charter language on the water and wastewater systems stays in place.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    },
+    {
+      "id": "Question I",
+      "title": "Charter Amendment: Baltimore Baby Fund",
+      "summary": "Creates the Baltimore Baby Fund, a separate City fund that may be used only to improve the economic stability of families with newborns, and not to replace existing funding for newborns. Each year's City budget must contribute $0.03 for every $100 of taxable property value, and the fund may also accept grants and donations. Money in the fund cannot be moved to other purposes.",
+      "yesMeans": "The Baltimore Baby Fund is created and the City must fund it each year as described.",
+      "noMeans": "The Baltimore Baby Fund is not created.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/BaltimoreCity.pdf"
+    }
+  ],
+  "municipalities": {}
+}

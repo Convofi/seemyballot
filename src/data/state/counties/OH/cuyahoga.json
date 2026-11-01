@@ -1,0 +1,327 @@
+{
+  "state": "OH",
+  "county": "Cuyahoga County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740",
+    "https://boe.cuyahogacounty.gov/docs/default-source/boe/elections/2026-11-03-issues-list.pdf?sfvrsn=3285f23b_6",
+    "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/master-elected-officials-list.xlsx?sfvrsn=b324beb0_59"
+  ],
+  "note": "Not shown: County Council (by district: Districts 1, 3, 5, 7, 9 and 11 are on the ballot this year), school district issues, city and village charter amendments and levies outside Cleveland, township issues, and precinct local-liquor-option questions (including six in Cleveland precincts). Cleveland has no citywide contests or issues on this ballot; Cleveland mayor, council and municipal court judges are elected in odd years, and the County Prosecutor is not up in 2026. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-executive-ronayne-chris",
+          "name": "Chris Ronayne",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-cuyahoga-2026-executive-litwinowicz-christopher",
+          "name": "Christopher Michael Litwinowicz",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 8th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-app8-0209-crossman-jeffrey",
+          "name": "Jeffrey A. Crossman",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 8th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-app8-0210-ryan-michael",
+          "name": "Michael John Ryan",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 8th District (term beginning 2/11/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-app8-0211-groves-emanuella",
+          "name": "Emanuella D. Groves",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 8th District (term beginning 2/12/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-app8-0212-laster-mays-anita",
+          "name": "Anita Laster Mays",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-cuyahoga-2026-app8-0212-alto-anthony",
+          "name": "Anthony Alto",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 8th District (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-app8-unexp2028-kilbane-ashley",
+          "name": "Ashley Kilbane",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0101-krivosh-kira",
+          "name": "Kira Krivosh",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0101-westfall-jacob",
+          "name": "Jacob Westfall",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0102-caruso-morgan",
+          "name": "Morgan Raye Caruso",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0102-dennie-daryl",
+          "name": "Daryl T. Dennie",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/3/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0103-clary-timothy",
+          "name": "Timothy W. Clary",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0103-vodrey-william",
+          "name": "William Vodrey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/4/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0104-odonnell-jennifer",
+          "name": "Jennifer O'Donnell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/5/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0105-sheehan-brendan",
+          "name": "Brendan J. Sheehan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/6/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0106-santoli-andrew",
+          "name": "Andrew J. Santoli",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/7/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0107-russell-diane",
+          "name": "Diane P. Russell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0110-gallagher-shannon",
+          "name": "Shannon M. Gallagher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0209-nicholson-antonio",
+          "name": "Antonio S. Nicholson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-cuyahoga-2026-cpgen-0209-radigan-fallon",
+          "name": "Fallon Marie Radigan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/8/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpdr-0108-reali-colleen",
+          "name": "Colleen Ann Reali",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-cpdr-0109-hawkins-pamela",
+          "name": "Pamela A. Hawkins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-cuyahoga-2026-cpdr-0109-simon-sunny",
+          "name": "Sunny Simon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-probate-0101-celebrezze-nicholas",
+          "name": "Nicholas J. Celebrezze",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-cuyahoga-2026-probate-0209-gallagher-laura",
+          "name": "Laura J. Gallagher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf?sfvrsn=4b1792c0_740"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 10",
+      "title": "Cuyahoga County – Proposed Tax Levy (Additional): Board of Developmental Disabilities",
+      "summary": "A new property tax of up to 2.25 mills for ten years for the Cuyahoga County Board of Developmental Disabilities, to operate its programs and services and to acquire, build, renovate, finance, maintain and operate its facilities. The County Fiscal Officer estimates it will collect $99,684,616 a year, which amounts to $79 for each $100,000 of the Fiscal Officer's market value. Collection would start in 2026, first due in 2027.",
+      "yesMeans": "The new 2.25-mill developmental disabilities levy is collected for ten years.",
+      "noMeans": "The new levy is not collected.",
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/elections/2026-11-03-issues-list.pdf?sfvrsn=3285f23b_6"
+    },
+    {
+      "id": "Issue 11",
+      "title": "Cuyahoga County – Proposed Tax Levy (Renewal and Increase): Health and Human Services",
+      "summary": "Renews an existing 4.7-mill county property tax and adds 2.5 mills, for a total of up to 7.2 mills for ten years, to supplement county general fund spending on health and human or social services. The County Fiscal Officer estimates it will collect $261,527,652 a year, which amounts to $196 for each $100,000 of the Fiscal Officer's market value. Collection would start in 2026, first due in 2027.",
+      "yesMeans": "The 4.7-mill levy is renewed and increased to 7.2 mills for ten years.",
+      "noMeans": "Neither the renewal nor the increase is approved.",
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/elections/2026-11-03-issues-list.pdf?sfvrsn=3285f23b_6"
+    },
+    {
+      "id": "Issue 12",
+      "title": "Cuyahoga County – Proposed Charter Amendment: Council Confirmation of Board Removals",
+      "summary": "Amends Article II, Section 2.03 and Article VI, Section 6.04 of the county charter. When the County Executive removes a member of a board, agency, commission or authority created under the charter, a board whose members general law has county commissioners appoint, or a special board created by agreement or court order, County Council would have to confirm the removal.",
+      "yesMeans": "County Council would have to confirm the County Executive's removal of members of these boards and commissions.",
+      "noMeans": "The charter is not changed; these removals would not need Council confirmation.",
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/elections/2026-11-03-issues-list.pdf?sfvrsn=3285f23b_6"
+    },
+    {
+      "id": "Issue 13",
+      "title": "Cuyahoga County – Proposed Charter Amendment: Director of Law",
+      "summary": "Amends Article V, Section 5.06 of the county charter to make the Director of Law the primary legal representative for labor matters, non-litigation employment matters, public records, risk management, and non-litigation contracts and other legal instruments the County Executive enters into, and to give written opinions and legal advice to county officials and entities. It states that county officials may still seek advice from the Prosecuting Attorney, that the Prosecutor's powers are not limited, and that the Director of Law may not handle any litigation for the county unless the Prosecuting Attorney refers it.",
+      "yesMeans": "The charter would set out the Director of Law's duties and limits as described.",
+      "noMeans": "The charter section on the Director of Law stays as it is.",
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/elections/2026-11-03-issues-list.pdf?sfvrsn=3285f23b_6"
+    },
+    {
+      "id": "Issue 14",
+      "title": "Cuyahoga County – Proposed Charter Amendment: Charter Review Commission Appointments",
+      "summary": "Amends Article XII, Section 12.09 of the county charter on who appoints the Charter Review Commission. Four members would be appointed by the County Executive without Council confirmation, four by County Council without the Executive's approval, and one by the County Executive subject to Council confirmation.",
+      "yesMeans": "Charter Review Commission members would be appointed as described (4 by the Executive, 4 by Council, 1 by the Executive with Council confirmation).",
+      "noMeans": "The current appointment rules for the Charter Review Commission stay in place.",
+      "source": "https://boe.cuyahogacounty.gov/docs/default-source/boe/elections/2026-11-03-issues-list.pdf?sfvrsn=3285f23b_6"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,978 @@
+{
+  "state": "NV",
+  "county": "Clark County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf",
+    "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:dde8b423-5fd3-4635-a9e5-653e57b5491d/original/as/Notice-Gen-Election-26G.pdf",
+    "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:e74294d7-218d-41cc-995f-0e16bc0a9e1f/original/as/all-quests-26g.pdf",
+    "https://www.clarkcountynv.gov/government/departments/elections/all_elected_officials/countywide",
+    "https://www.clarkcountynv.gov/government/departments/elections/all_elected_officials/justices-of-the-nv-supreme-court-and-judges",
+    "https://elections.clarkcountynv.gov/VoterRequestsTV/VoterRegistrationTotals/elecoff.pdf"
+  ],
+  "note": "Not shown: County Commission Districts E, F and G; Clark County School District trustee Districts D, F and G; Board of Regents Districts 2, 3, 5 and 8; Justice of the Peace and Constable township races; Moapa Valley and Virgin Valley water district boards; town advisory boards; and Las Vegas City Council Ward 2. Check your official sample ballot for these. There are no Clark County or City of Las Vegas ballot questions this year (only State Questions 6 and 7, plus two Boulder City questions). The Sheriff's office does not appear on the November ballot.",
+  "contests": [
+    {
+      "office": "District Attorney",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-da-wolfson-steve",
+          "name": "Steve Wolfson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-assessor-joe-judy",
+          "name": "Judy Joe",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-assessor-warren-lynette",
+          "name": "Lynette Warren",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-assessor-washington-tamicka",
+          "name": "Tamicka N. Washington",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-clerk-goya-lynn",
+          "name": "Lynn Marie Goya",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nv-clark-2026-clerk-shaw-howell",
+          "name": "Howell Shaw",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-clerk-stamper-george",
+          "name": "George Stamper",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-recorder-borella-steven",
+          "name": "Steven T. Borella",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-recorder-flanagan-tanya",
+          "name": "Tanya Flanagan",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-recorder-young-bill",
+          "name": "Bill Young",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-treasurer-diaz-j",
+          "name": "J. \"Ken\" Diaz",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nv-clark-2026-treasurer-ferreira-tim",
+          "name": "Tim J. \"TJ\" Ferreira",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-treasurer-tracy-mitchell",
+          "name": "Mitchell T. Tracy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "Public Administrator",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-pubadmin-itkin-goodman-stephanie",
+          "name": "Stephanie Itkin-Goodman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-pubadmin-murphy-michael",
+          "name": "Michael Murphy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 1",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc01-yeager-bita",
+          "name": "Bita \"Marie\" Yeager",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 2",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc02-kierny-carli",
+          "name": "Carli Lynn Kierny",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 3",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc03-trujillo-monica",
+          "name": "Monica Trujillo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 4",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc04-krall-nadia",
+          "name": "Nadia Krall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 5",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc05-barisich-veronica",
+          "name": "Veronica Barisich",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nv-clark-2026-dc05-hibbetts-tracy",
+          "name": "Tracy Hibbetts",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 6",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc06-bluth-jacqueline",
+          "name": "Jacqueline M. Bluth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 7",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc07-pieper-danielle",
+          "name": "Danielle K. Pieper",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 8",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc08-beaumont-austin",
+          "name": "Austin Beaumont",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dc08-peterson-jessica",
+          "name": "Jessica K. Peterson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 9",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc09-gall-maria",
+          "name": "Maria Alice Gall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 10",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc10-jones-tierra",
+          "name": "Tierra D. Jones",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 11",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc11-albertson-anna",
+          "name": "Anna Albertson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 12",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc12-gilliam-dan",
+          "name": "Dan Gilliam",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dc12-leavitt-michelle",
+          "name": "Michelle Leavitt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 13",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc13-ganz-adam",
+          "name": "Adam Ganz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 14",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc14-talim-tina",
+          "name": "Tina Talim",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 15",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc15-hardy-joe",
+          "name": "Joe Hardy, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 16",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc16-williams-tim",
+          "name": "Tim Williams",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 17",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc17-schwartz-jennifer",
+          "name": "Jennifer Schwartz",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nv-clark-2026-dc17-villani-jake",
+          "name": "Jake Villani",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 18",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc18-holthus-mary",
+          "name": "Mary Kay Holthus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 19",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc19-eller-crystal",
+          "name": "Crystal Eller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 20",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc20-johnson-eric",
+          "name": "Eric Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 21",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc21-clark-newberry-tara",
+          "name": "Tara Clark Newberry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nv-clark-2026-dc21-hubert-alex",
+          "name": "Alex Hubert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 22",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc22-johnson-susan",
+          "name": "Susan Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 23",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc23-bauhaus-martina",
+          "name": "Martina Bauhaus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dc23-lilly-spells-jasmin",
+          "name": "Jasmin Lilly-Spells",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 24",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc24-brown-colleen",
+          "name": "Colleen Brown",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 25",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc25-delaney-kathleen",
+          "name": "Kathleen E. Delaney",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 26",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc26-goodey-jessica",
+          "name": "Jessica Goodey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 27",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc27-mendoza-erika",
+          "name": "Erika Mendoza",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 28",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc28-demonte-noreen",
+          "name": "Noreen C. DeMonte",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dc28-tarmu-danielle",
+          "name": "Danielle A. Tarmu",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 29",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc29-quagge-alex",
+          "name": "Alex Quagge",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dc29-reynolds-jacob",
+          "name": "Jacob Reynolds",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 30",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc30-santeramo-josh",
+          "name": "Josh Santeramo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dc30-wiese-jerry",
+          "name": "Jerry A. Wiese, II",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 31",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc31-kishner-joanna",
+          "name": "Joanna S. Kishner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nv-clark-2026-dc31-mcleod-alexandra",
+          "name": "Alexandra Beth McLeod",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Department 32",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dc32-craig-christy",
+          "name": "Christy Craig",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department A",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-a-parlade-maria-belleza",
+          "name": "Maria-Belleza D. \"Mari\" Parladé",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department B",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-b-marquis-linda",
+          "name": "Linda Marquis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department C",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-c-gordon-gregory",
+          "name": "Gregory G. Gordon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department D",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-d-marr-patricia",
+          "name": "Patricia A. Marr",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dcfam-d-smith-gwynneth",
+          "name": "Gwynneth Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department E",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-e-hoskin-charles",
+          "name": "Charles \"Chuck\" Hoskin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nv-clark-2026-dcfam-e-treffinger-timothy",
+          "name": "Timothy Treffinger",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department F",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-f-gentile-denise",
+          "name": "Denise L. Gentile",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department G",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-g-forsberg-rhonda",
+          "name": "Rhonda K. Forsberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department H",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-h-mcfarling-emily",
+          "name": "Emily McFarling",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department I",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-i-bailey-soonhee",
+          "name": "Soonhee \"Sunny\" Bailey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department J",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-j-butler-dedree",
+          "name": "Dedree \"DEE\" Butler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department K",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-k-giuliani-cynthia",
+          "name": "Cynthia N. Giuliani",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department L",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-l-gibson-david",
+          "name": "David S. Gibson, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department M",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-m-mastin-amy",
+          "name": "Amy M. Mastin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department N",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-n-gaudet-michel",
+          "name": "Michel Gaudet",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dcfam-n-maxey-kerri",
+          "name": "Kerri Jean Maxey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department O",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-o-mcconnell-gina",
+          "name": "Gina McConnell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department P",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-p-isso-jennifer",
+          "name": "Jennifer Isso",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dcfam-p-perry-mary",
+          "name": "Mary Perry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department Q",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-q-duckworth-bryce",
+          "name": "Bryce C. Duckworth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department R",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-r-caston-marilyn",
+          "name": "Marilyn A. Caston",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dcfam-r-henderson-bill",
+          "name": "Bill Henderson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department S",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-s-brewer-kristine",
+          "name": "Kristine Brewer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-clark-2026-dcfam-s-forman-randall",
+          "name": "Randall Forman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department T",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-t-cutter-nadin",
+          "name": "Nadin Cutter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department U",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-u-throne-dawn",
+          "name": "Dawn R. Throne",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department V",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-v-pickard-margaret",
+          "name": "Margaret E. Pickard",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department W",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-w-rocheleau-stacy",
+          "name": "Stacy Rocheleau",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department X",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-x-almase-heidi",
+          "name": "Heidi Almase",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department Y",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-y-rincon-white-adriana",
+          "name": "Adriana Rincon White",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    },
+    {
+      "office": "District Court Judge, Eighth Judicial District, Family Division, Department Z",
+      "candidates": [
+        {
+          "key": "nv-clark-2026-dcfam-z-mercer-michele",
+          "name": "Michele \"Shell\" Mercer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Las Vegas": {
+      "contests": [
+        {
+          "office": "Las Vegas Municipal Court Judge, Department 1 (2-year unexpired term)",
+          "candidates": [
+            {
+              "key": "nv-lasvegas-2026-muni1-pellizzari-amanda",
+              "name": "Amanda Pellizzari",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nv-lasvegas-2026-muni1-walker-matt",
+              "name": "Matt Walker",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+        },
+        {
+          "office": "Las Vegas Municipal Court Judge, Department 2 (4-year unexpired term)",
+          "candidates": [
+            {
+              "key": "nv-lasvegas-2026-muni2-green-jessica",
+              "name": "Jessica A. Green",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nv-lasvegas-2026-muni2-murphy-allycia",
+              "name": "Allycia Murphy",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1db09a57-4c1b-47e1-94d9-e7782c442571/original/as/officesup-26g.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
