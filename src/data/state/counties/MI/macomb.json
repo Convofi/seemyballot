@@ -1,0 +1,199 @@
+{
+  "state": "MI",
+  "county": "Macomb County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-Official-Candidate-List-printable.pdf",
+    "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-proposals.pdf",
+    "https://macombgovdocs.org/clerk/pdfs/electedofficialslist.pdf"
+  ],
+  "note": "Prosecuting Attorney, Sheriff, Clerk/Register of Deeds, Treasurer, Public Works Commissioner and County Commissioners are elected in presidential years and are not on this ballot (except a 1st District commissioner partial term). The Southeast Michigan Public Historical Museum Authority millage is not on the Macomb ballot. Not shown: the County Commissioner 1st District partial term, district court judges (37th, 38th, 39th, 40th, 41A, 41B, 42-1), city, village and township offices, school board members (including Mount Clemens Community Schools), library boards, and city, village, township and school proposals. Each depends on a district the address lookup cannot resolve. No City of Mount Clemens offices or proposals are on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "County Executive (4-year term)",
+      "candidates": [
+        {
+          "key": "mi-macomb-2026-county-executive-hackel-mark",
+          "name": "Mark A. Hackel",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "mi-macomb-2026-county-executive-moore-richard",
+          "name": "Richard Moore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-Official-Candidate-List-printable.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 2nd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-macomb-2026-app2-inc-patel-sima",
+          "name": "Sima G. Patel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-macomb-2026-app2-inc-trebilcock-christopher",
+          "name": "Christopher M. Trebilcock",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-Official-Candidate-List-printable.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 16th Circuit, Incumbent Position (6-year term)",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "mi-macomb-2026-circuit-inc-gatti-julie",
+          "name": "Julie Gatti",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-macomb-2026-circuit-inc-grillo-tanya",
+          "name": "Tanya A. Grillo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-macomb-2026-circuit-inc-maceroni-james",
+          "name": "James M. Maceroni",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-macomb-2026-circuit-inc-switalski-matthew",
+          "name": "Matthew S. Switalski",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-Official-Candidate-List-printable.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 16th Circuit, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-macomb-2026-circuit-noninc-spagnuolo-james",
+          "name": "James L. Spagnuolo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-macomb-2026-circuit-noninc-taylor-genevieve",
+          "name": "Genevieve L. Taylor",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-Official-Candidate-List-printable.pdf"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-macomb-2026-probate-inc-schimke-sara",
+          "name": "Sara A. Schimke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-Official-Candidate-List-printable.pdf"
+    },
+    {
+      "office": "Macomb Community College Trustee (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-macomb-2026-mcc-backus-joseph",
+          "name": "Joseph A. Backus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-macomb-2026-mcc-cusumano-frank",
+          "name": "Frank Cusumano",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-macomb-2026-mcc-haywood-dwayne",
+          "name": "Dwayne Anthony Haywood",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-macomb-2026-mcc-kress-drake",
+          "name": "Drake Kress",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-macomb-2026-mcc-papa-ronald",
+          "name": "Ronald P. Papa",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-macomb-2026-mcc-pianello-vito",
+          "name": "Vito Pianello",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-macomb-2026-mcc-shaffer-richard",
+          "name": "Richard D. Shaffer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-macomb-2026-mcc-vitale-shelley",
+          "name": "Shelley Vitale",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-macomb-2026-mcc-viviano-vince",
+          "name": "Vince Viviano",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-Official-Candidate-List-printable.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Macomb County Veterans' Millage",
+      "title": "Macomb County Veterans' Millage",
+      "summary": "Renews the Macomb County veterans' property tax that expires in 2026 and restores 0.0017 mill lost to required rollbacks, for a total of 0.0690 mill (6.9 cents per $1,000 of taxable value) for four years, 2027 through 2030. The money funds financial aid and services for Macomb County veterans and the administration of the county Department of Veterans Affairs and Veterans Affairs Commission. The official ballot language estimates about $2,877,813 in the first year.",
+      "yesMeans": "A YES vote renews and restores the 0.0690 mill veterans' levy in Macomb County for 2027 through 2030.",
+      "noMeans": "A NO vote does not renew the levy, so the veterans' millage would not be collected after it expires in 2026.",
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-proposals.pdf"
+    },
+    {
+      "id": "Macomb County Public Transportation Millage",
+      "title": "Public Transportation Millage",
+      "summary": "Replaces the expiring 0.95 mill tax for public transit (2022 through 2026) with a new 0.94 mill tax ($0.94 per $1,000 of taxable value) on property in Macomb County for five years, 2027 through 2031. The money goes to SMART and to the county's townships, cities and villages, each of which receives 12.5% of the collections from its own jurisdiction for transportation serving older adults, people with disabilities and the general public. The official ballot language estimates about $39,204,999 in the first year.",
+      "yesMeans": "A YES vote authorizes a 0.94 mill public transportation tax in Macomb County for 2027 through 2031.",
+      "noMeans": "A NO vote does not authorize the tax, so the current transit millage would end after 2026.",
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-proposals.pdf"
+    },
+    {
+      "id": "Macomb County Zoological Authority Proposal",
+      "title": "Renewal of Macomb County Zoological Authority Millage in Support of the Detroit Zoo",
+      "summary": "Renews the Macomb County Zoological Authority property tax that funds the Detroit Zoo, first approved in 2008 and renewed in 2016. It would levy 0.10 mill ($0.10 per $1,000 of taxable value) on all taxable property in Macomb County for ten years, 2028 through 2037, renewing 0.0922 mill and restoring the 0.0078 mill lost to required rollbacks. The official ballot language estimates $3,845,426 in the first year.",
+      "yesMeans": "A YES vote renews and restores the 0.10 mill Detroit Zoo levy in Macomb County for 2028 through 2037.",
+      "noMeans": "A NO vote does not renew the levy, so the Zoological Authority millage would not be collected after it expires.",
+      "source": "https://macombgovdocs.org/clerk/pdfs/elect-2026-11-03-proposals.pdf"
+    }
+  ],
+  "municipalities": {}
+}

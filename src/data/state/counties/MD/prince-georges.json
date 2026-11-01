@@ -1,0 +1,296 @@
+{
+  "state": "MD",
+  "county": "Prince George's County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_all_counties_candidatelist.html",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html",
+    "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pge.html",
+    "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pgl.html",
+    "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pgj.html",
+    "https://www.mdcourts.gov/sites/default/files/import/hr/pdfs/judges_list_external.pdf",
+    "https://registers.maryland.gov/main/princegeorges.html"
+  ],
+  "note": "County Council district seats (Districts 1-9) and Board of Education district seats (Districts 2, 3, 6 and 9) are not shown; check your official sample ballot for those. Prince George's County has no at-large Board of Education seat on the 2026 ballot. No municipal contests or questions appear on the certified county ballot. The Supreme Court of Maryland (Circuit 4) retention of Peter Killough is listed here because only Prince George's County voters decide it.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-exec-braveboy-aisha",
+          "name": "Aisha Braveboy",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-exec-sweat-moisette",
+          "name": "Moisette Tonya Sweat",
+          "party": "Independent",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "County Council At Large",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-council-atlarge-harrison-sydney",
+          "name": "Sydney Harrison",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": "https://www.votesydneyharrison.com/"
+        },
+        {
+          "key": "md-prince-georges-2026-council-atlarge-ivey-jolene",
+          "name": "Jolene Ivey",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": "https://joleneivey.com/"
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 7",
+      "seats": 9,
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-circuit-allen-lakeecia",
+          "name": "LaKeecia Allen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-carrington-scott",
+          "name": "Scott M. Carrington",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-clark-edwards-ada",
+          "name": "Ada Elizabeth Clark-Edwards",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-cobb-smith-stacey",
+          "name": "Stacey Cobb Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-stewart-jones-althea",
+          "name": "Althea Stewart Jones",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-lewis-donnaka",
+          "name": "Donnaka Varner Lewis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-pearson-michael",
+          "name": "Michael Ray Pearson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-ruddy-joseph",
+          "name": "Joseph C. Ruddy, III",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-circuit-steuart-todd",
+          "name": "Todd Steuart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "Justice, Supreme Court of Maryland, Circuit 4 (retention: vote Yes or No on continuance in office)",
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-supreme-c4-killough-peter",
+          "name": "Peter Killough",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-sa-jackson-tara",
+          "name": "Tara Jackson",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": "https://www.votetarajackson.com/"
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-clerk-johnson-qiana",
+          "name": "Qiana Johnson",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": "https://www.qianaforclerk.com/"
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-register-route-jocelyn",
+          "name": "Jocelyn Route",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-orphans-cartwright-wendy",
+          "name": "Wendy Alise Cartwright",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-orphans-deloach-jason",
+          "name": "Jason A. DeLoach",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-orphans-groves-athena",
+          "name": "Athena Malloy Groves",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-prince-georges-2026-sheriff-carr-john",
+          "name": "John D. B. Carr",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-prince-georges-2026-sheriff-grogan-dave",
+          "name": "Dave Grogan",
+          "party": "Independent",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Charter Amendment: Harmful Businesses Taxes and Fees",
+      "summary": "Removes the County Charter requirement that the public vote on taxes and fees imposed on operators of businesses deemed to have an adverse impact on community health, safety, and welfare, or on County economic development. The ballot lists tobacco stores, liquor stores, and self-storage as examples. Any such tax or fee would still have to be authorized by law.",
+      "yesMeans": "The County may impose taxes and fees, to the extent authorized by law, on operators of these businesses without a public vote.",
+      "noMeans": "The County may not impose these taxes and fees on these businesses without a public vote.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question B",
+      "title": "Charter Amendment: Eliminate At-large Council Members",
+      "summary": "Reduces the County Council from 11 members to 9 by eliminating the two at-large seats, which do not represent a specific council district. The change takes effect in December 2030 and applies to each election cycle after that.",
+      "yesMeans": "Starting in December 2030 the County Council will have 9 district members and no at-large members.",
+      "noMeans": "The County Council stays at 11 members, including the two at-large members.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question C",
+      "title": "Charter Amendment: Bill to Change Redistricting Plan",
+      "summary": "Amends Section 305 of the County Charter so that if the County Council changes the redistricting plan proposed by the Redistricting Commission, it must do so by bill, after notice and a public hearing, rather than by resolution.",
+      "yesMeans": "The County Council must pass a bill, not a resolution, to change the Redistricting Commission's proposed plan.",
+      "noMeans": "Section 305 of the Charter is not changed, and the Council could change the plan by resolution.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question D",
+      "title": "Charter Amendment: County Purchasing",
+      "summary": "Allows the County Purchasing Agent to sign all purchasing documents. It also allows the County to partner with other public entities to buy goods and services.",
+      "yesMeans": "The County Purchasing Agent gets broader signing authority, and the County may buy goods and services jointly with other public entities.",
+      "noMeans": "The Purchasing Agent keeps the current, more limited signing authority, and the County's ability to buy jointly with other public entities stays limited.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question E",
+      "title": "Charter Amendment: County Union Independent Arbitration Service",
+      "summary": "Allows unionized County employees to submit disputed labor issues to an independent arbitration service for arbitration, in addition to the current options.",
+      "yesMeans": "Unionized County employees may also use an independent arbitration service to resolve labor disputes.",
+      "noMeans": "Unionized County employees keep only the current options for resolving labor disputes.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question F",
+      "title": "Bond Issue: Community College Facilities Bonds",
+      "summary": "Authorizes Prince George's County to borrow up to $67,306,000 by issuing bonds to pay for the design, construction, acquisition, improvement, or repair of Community College facilities. Voters approve or reject this borrowing as a referred law.",
+      "yesMeans": "The County may issue bonds of up to $67,306,000 to pay for Community College facilities.",
+      "noMeans": "The County may not issue these bonds to pay for Community College facilities.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question G",
+      "title": "Bond Issue: Public Works and Transportation Bonds",
+      "summary": "Authorizes Prince George's County to borrow up to $140,089,000 by issuing bonds to pay for roads, bridges, parking lots, and maintenance facilities. Voters approve or reject this borrowing as a referred law.",
+      "yesMeans": "The County may issue bonds of up to $140,089,000 to pay for roads, bridges, parking lots, and maintenance facilities.",
+      "noMeans": "The County may not issue these bonds to pay for roads, bridges, parking lots, and maintenance facilities.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question H",
+      "title": "Bond Issue: County Buildings Bonds",
+      "summary": "Authorizes Prince George's County to borrow up to $117,848,000 by issuing bonds to pay for the design, construction, acquisition, improvement, or repair of County buildings. Voters approve or reject this borrowing as a referred law.",
+      "yesMeans": "The County may issue bonds of up to $117,848,000 to pay for County buildings.",
+      "noMeans": "The County may not issue these bonds to pay for County buildings.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question I",
+      "title": "Bond Issue: Library Facilities Bonds",
+      "summary": "Authorizes Prince George's County to borrow up to $33,656,000 by issuing bonds to build, expand, repair, or improve County library buildings and facilities, including acquiring and developing library sites, hiring architects and engineers, and buying equipment. Voters approve or reject this borrowing as a referred law.",
+      "yesMeans": "The County may issue bonds of up to $33,656,000 to pay for County library facilities.",
+      "noMeans": "The County may not issue these bonds to pay for County library facilities.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    },
+    {
+      "id": "Question J",
+      "title": "Bond Issue: Public Safety Facilities Bonds",
+      "summary": "Authorizes Prince George's County to borrow up to $53,503,000 by issuing bonds to finance the design, construction, acquisition, improvement, or repair of Public Safety facilities, including Fire Department facilities. Voters approve or reject this borrowing as a referred law.",
+      "yesMeans": "The County may issue bonds of up to $53,503,000 to pay for Public Safety facilities, including Fire Department facilities.",
+      "noMeans": "The County may not issue these bonds to pay for Public Safety facilities, including Fire Department facilities.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/PrinceGeorges.pdf"
+    }
+  ],
+  "municipalities": {}
+}
