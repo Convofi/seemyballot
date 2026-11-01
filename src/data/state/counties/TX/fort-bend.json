@@ -1,0 +1,459 @@
+{
+  "state": "TX",
+  "county": "Fort Bend County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/sample-ballots-nov-3",
+    "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf",
+    "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031004BS5.pdf",
+    "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/election-notices-2026",
+    "https://www.fortbendcountytx.gov/government/governing-body/elected-officials",
+    "https://www.txcourts.gov/1stcoa/about-the-court/justices/",
+    "https://www.txcourts.gov/14thcoa/about-the-court/justices/"
+  ],
+  "note": "From the Fort Bend County Elections official precinct sample ballots for November 3, 2026; every contest below appears on all 250 ballot styles. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precinct 1 Places 1 and 2, Precinct 2 Place 1, Precinct 3 Places 1 and 2), U.S. House, State Board of Education, State Senate and State House districts, Fort Bend ISD trustee and other school district races, municipal utility district and other special-district races and measures, and city races or measures in cities other than Houston. There are no countywide propositions and no County Attorney, Sheriff or Constable races on the Fort Bend County ballot this year; Richmond and Sugar Land have no November city items. Statewide races, including the 15th Court of Appeals, are listed with the Texas statewide ballot. Incumbent flags come from Fort Bend County's elected-officials roster and the 1st and 14th Courts of Appeals' justices pages. Names are shown in normal capitalization; the ballot prints them in capitals. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Chief Justice, 14th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-coa14-chief-jewell-kevin",
+          "name": "Kevin Jewell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-coa14-chief-landau-sarah",
+          "name": "Sarah Beth Landau",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-coa1-p3-frankfort-todd",
+          "name": "Todd Frankfort",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-coa1-p3-rivas-molloy-veronica",
+          "name": "Veronica Rivas-Molloy",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 4 - Unexpired Term",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-coa1-p4-gunn-david",
+          "name": "David Gunn",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-coa1-p4-countiss-julie",
+          "name": "Julie Countiss",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 5",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-coa1-p5-caird-jessica",
+          "name": "Jessica Caird",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-coa1-p5-guerra-amy",
+          "name": "Amy Guerra",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Justice, 14th Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-coa14-p7-wise-ken",
+          "name": "Ken Wise",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-coa14-p7-demond-william",
+          "name": "William Demond",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Judge, 240th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-dist-240-reddi-asha",
+          "name": "Asha Reddi",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-dist-240-pattel-surendran",
+          "name": "Surendran K. Pattel",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Judge, 268th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-dist-268-rogers-steve",
+          "name": "Steve Rogers",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-dist-268-scott-brendetta",
+          "name": "Brendetta Scott",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Judge, 328th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-dist-328-lybarger-richard",
+          "name": "Richard Lybarger",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-dist-328-rawlins-monica",
+          "name": "Monica Rawlins",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Judge, 458th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-dist-458-jaramillo-maggie",
+          "name": "Maggie Jaramillo",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-dist-458-carter-tameika",
+          "name": "Tameika Carter",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Judge, 501st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-dist-501-bell-richard",
+          "name": "Richard T. Bell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-dist-501-mcgill-clayton-latosha",
+          "name": "Latosha McGill Clayton",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Judge, 502nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-dist-502-hanna-mark",
+          "name": "Mark H. Hanna",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-dist-502-glover-tamecia",
+          "name": "Tamecia Glover",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Attorney, 268th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-da-mcdonald-shawn",
+          "name": "Shawn McDonald",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-da-middleton-brian",
+          "name": "Brian M Middleton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-county-judge-wong-daniel",
+          "name": "Daniel Wong",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-county-judge-mccoy-dexter",
+          "name": "Dexter L McCoy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-ccl-1-morales-chris",
+          "name": "Chris Morales",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-ccl-1-murray-nireasha",
+          "name": "Nireasha Murray",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-ccl-2-maljovec-jorden",
+          "name": "Jorden Maljovec",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-ccl-2-mccollum-tyra",
+          "name": "Tyra McCollum",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-ccl-3-jaramillo-jessica",
+          "name": "Jessica Jaramillo",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-ccl-3-mathew-juli",
+          "name": "Juli A. Mathew",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-ccl-4-moore-michael",
+          "name": "Michael Cody Moore",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-ccl-4-wallace-toni",
+          "name": "Toni Wallace",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 6",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-ccl-6-hrbacek-dean",
+          "name": "Dean Hrbacek",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-ccl-6-longoria-stephen",
+          "name": "Stephen Longoria",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-district-clerk-lee-audrey",
+          "name": "Audrey Lee",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-district-clerk-mcgrew-walker-beverley",
+          "name": "Beverley McGrew Walker",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-county-clerk-mcfarlane-tamara",
+          "name": "Tamara McFarlane",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-county-clerk-jones-sonya",
+          "name": "Sonya Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-treasurer-rickert-bill",
+          "name": "Bill Rickert",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-fort-bend-2026-treasurer-boney-jeffrey",
+          "name": "Jeffrey L Boney",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 1",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-fbcad-p1-john-martin",
+          "name": "Martin John",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-fbcad-p1-chatriwala-shaizad",
+          "name": "Shaizad \"Sam\" Chatriwala",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 2",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-fbcad-p2-vohra-muzaffar",
+          "name": "Muzaffar Vohra",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-fort-bend-2026-fbcad-p2-druke-dayna",
+          "name": "Dayna Druke",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    },
+    {
+      "office": "Fort Bend Central Appraisal District Board of Directors, At-Large Position No. 3",
+      "candidates": [
+        {
+          "key": "tx-fort-bend-2026-fbcad-p3-malik-ameer",
+          "name": "Ameer Malik",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031002BS1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Houston": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Houston Charter Amendment Election, Proposition A",
+          "summary": "Would amend the Houston City Charter to require the Houston Police Department to make enforcement of Class A and Class B misdemeanor marijuana possession its lowest law-enforcement priority, with related reporting requirements. It would also prohibit Houston police officers from requesting or executing \"no-knock\" search warrants.",
+          "yesMeans": "The charter would make misdemeanor marijuana possession HPD's lowest enforcement priority, add related reporting, and ban no-knock warrants by Houston police.",
+          "noMeans": "The charter is not changed; current police enforcement priorities and warrant practices stay as they are.",
+          "source": "https://sampleballots.fortbendcountytx.gov/Congressional-Election/11031004BS5.pdf"
+        }
+      ]
+    }
+  }
+}
