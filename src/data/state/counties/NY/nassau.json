@@ -1,0 +1,124 @@
+{
+  "state": "NY",
+  "county": "Nassau County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.nassaucountyny.gov/DocumentCenter/View/54522/Candidate-List-as-of-09182026",
+    "https://www.nassaucountyny.gov/566/Board-of-Elections"
+  ],
+  "note": "Candidates come from the Nassau County Board of Elections 2026 General Election candidate list (as of 09/18/2026), marked 'subject to change'; confirm on your official sample ballot. New York uses fusion voting: candidates on more than one party line are listed once under their main party; candidates who appear only on a minor-party line (e.g., Conservative) are shown as 'Other'. Supreme Court candidates Richard Ambro (Democratic and Republican), Leonard D. Steinman and Joy M. Watson (Democratic, Republican and Conservative) are shown under Democratic, the first line on which they appear. Family Court candidates Ellen R. Greenberg and Ayesha Keri Brantley are each on the Democratic, Republican and Conservative lines and are shown under Democratic. Not shown here because they depend on your district or town: Representative in Congress, State Senator, Member of Assembly, County Legislator (all 19 districts), District Court Judge (2nd, 3rd and 4th Districts), and town offices (Supervisor and Town Clerk in Hempstead, Supervisor in North Hempstead, Supervisor and Town Clerk in Oyster Bay). No County Executive, County Clerk, Comptroller, District Attorney, County Court or Surrogate race is on the 2026 candidate list, and no countywide proposition was found on the Board of Elections site. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 10th Judicial District",
+      "seats": 8,
+      "candidates": [
+        {
+          "key": "ny-nassau-2026-supreme-court-ambro-richard",
+          "name": "Richard Ambro",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-portesy-anthony",
+          "name": "Anthony R. Portesy",
+          "party": "Other",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-steinman-leonard",
+          "name": "Leonard D. Steinman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-porter-mary",
+          "name": "Mary E. Porter",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-reape-kelly",
+          "name": "Kelly A. Reape",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-watson-joy",
+          "name": "Joy M. Watson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-ukeiley-stephen",
+          "name": "Stephen L. Ukeiley",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-wilutis-karen",
+          "name": "Karen M. Wilutis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-sachs-eric",
+          "name": "Eric Sachs",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-iliou-john",
+          "name": "John Iliou",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-wexler-william",
+          "name": "William D. Wexler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-mcdonaugh-james",
+          "name": "James A. McDonaugh",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-kelly-john",
+          "name": "John Kelly",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-supreme-court-mullen-mary-kate",
+          "name": "Mary Kate Mullen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nassaucountyny.gov/DocumentCenter/View/54522/Candidate-List-as-of-09182026"
+    },
+    {
+      "office": "Nassau County Family Court Judge",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ny-nassau-2026-family-court-greenberg-ellen",
+          "name": "Ellen R. Greenberg",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-nassau-2026-family-court-brantley-ayesha",
+          "name": "Ayesha Keri Brantley",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nassaucountyny.gov/DocumentCenter/View/54522/Candidate-List-as-of-09182026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
