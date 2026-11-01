@@ -1,0 +1,40 @@
+{
+  "state": "WI",
+  "county": "Milwaukee County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://county.milwaukee.gov/files/county/county-clerk/Election-Commission/Upcoming-Elections/ElectionCandidates",
+    "https://county.milwaukee.gov/EN/County-Clerk/Election-Commission",
+    "https://myvote.wi.gov/en-us/Whats-On-My-Ballot",
+    "https://city.milwaukee.gov/election/ElectionInformation/UpcomingElection"
+  ],
+  "note": "Milwaukee County Executive, Comptroller, County Board and City of Milwaukee offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are next elected in 2028, so none are on this ballot. The MyVote sample ballot for downtown Milwaukee shows no county or City of Milwaukee referendum. Suburban municipal and school district referenda are not shown here; check your official sample ballot at myvote.wi.gov for those.",
+  "contests": [
+    {
+      "office": "Milwaukee County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-milwaukee-2026-sheriff-ball-denita",
+          "name": "Denita R. Ball",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://county.milwaukee.gov/files/county/county-clerk/Election-Commission/Upcoming-Elections/ElectionCandidates"
+    },
+    {
+      "office": "Milwaukee County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-milwaukee-2026-clerkcircuit-hodges-anna",
+          "name": "Anna Maria Hodges",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://county.milwaukee.gov/files/county/county-clerk/Election-Commission/Upcoming-Elections/ElectionCandidates"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
