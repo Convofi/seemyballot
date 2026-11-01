@@ -1,0 +1,259 @@
+{
+  "state": "UT",
+  "county": "Utah County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF",
+    "https://www.utahcounty.gov/elected-officials"
+  ],
+  "note": "Not shown: State Board of Education districts and local school board races (Nebo and Provo school districts), which depend on your district. The County Assessor, Treasurer, Recorder and Surveyor are not on the 2026 ballot, and Utah County has no countywide propositions or bonds in 2026. Provo and Lehi city offices are elected in odd years; neither city has a justice court retention or city measure on this ballot. Check your official sample ballot for your district races.",
+  "contests": [
+    {
+      "office": "County Commission Seat A",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-commission-a-bowen-jeanne",
+          "name": "Jeanne Marie Bowen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ut-utah-2026-commission-a-kaufusi-michelle",
+          "name": "Michelle Kaufusi",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-utah-2026-commission-a-oaks-jacob",
+          "name": "Jacob D. Oaks",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "County Commission Seat B",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-commission-b-allen-j",
+          "name": "J. Allen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ut-utah-2026-commission-b-spencer-david",
+          "name": "David M. Spencer",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-utah-2026-commission-b-hinckley-david",
+          "name": "David Hinckley",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-attorney-gray-jeff",
+          "name": "Jeff Gray",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-auditor-tanner-gina",
+          "name": "Gina Tanner",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-utah-2026-auditor-andersen-hans",
+          "name": "Hans V. Andersen",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-clerk-astill-corey",
+          "name": "Corey K Astill",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-utah-2026-clerk-rampton-russ",
+          "name": "Russ J Rampton",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-sheriff-smith-mike",
+          "name": "Mike Smith",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "Judge of the District Court, Fourth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-dist4-eldridge-jared",
+          "name": "Jared William Eldridge",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "Judge of the District Court, Fourth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-dist4-powell-kraig",
+          "name": "Kraig Powell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "Judge of the District Court, Fourth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-dist4-low-thomas",
+          "name": "Thomas Low",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "Judge of the District Court, Fourth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-dist4-howell-anthony",
+          "name": "Anthony Leonard Howell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Fourth Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-juv4-nielsen-douglas",
+          "name": "Douglas John Nielsen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    },
+    {
+      "office": "Judge of the Utah County Justice Court (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-utah-2026-justice-patten-kelton",
+          "name": "Kelton Shawn Patten",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Highland": {
+      "contests": [
+        {
+          "office": "Judge of the Highland/Alpine Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-highland-2026-justice-schaeffer-bullock-kelly",
+              "name": "Kelly N. Schaeffer-Bullock",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+        }
+      ],
+      "measures": []
+    },
+    "Alpine": {
+      "contests": [
+        {
+          "office": "Judge of the Highland/Alpine Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-alpine-2026-justice-schaeffer-bullock-kelly",
+              "name": "Kelly N. Schaeffer-Bullock",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+        }
+      ],
+      "measures": []
+    },
+    "Springville": {
+      "contests": [
+        {
+          "office": "Judge of the Springville Municipal Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-springville-2026-justice-jewell-eric",
+              "name": "Eric Stephen Jewell",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+        }
+      ],
+      "measures": []
+    },
+    "Salem": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition #8",
+          "title": "Salem City Recreational, Arts and Parks (RAP) Sales and Use Tax",
+          "summary": "Authorizes Salem City to impose a sales and use tax of one-tenth of one percent (0.1%), one cent for every ten dollars spent on taxable purchases in the city, for ten years. The revenue would fund recreational (including parks) and cultural facilities and organizations, such as parks, trails, playing fields and courts, senior facilities, and arts and cultural programs.",
+          "yesMeans": "Salem City may levy a 0.1% sales and use tax for recreation, parks, arts and cultural purposes for ten years.",
+          "noMeans": "Salem City may not levy this tax.",
+          "source": "https://vote.utahcounty.gov/api/media/file/2026%20Sample%20Ballots.PDF"
+        }
+      ]
+    }
+  }
+}

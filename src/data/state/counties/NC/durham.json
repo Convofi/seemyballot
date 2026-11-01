@@ -1,0 +1,212 @@
+{
+  "state": "NC",
+  "county": "Durham County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: NC Superior Court Judge District 16B Seats 02 and 03 (G.S. 7A-41 makes District 16B only part of Durham County), City of Raleigh City Council District E (only the Raleigh part of Durham County, by district), and state legislative and U.S. House districts. The official NCSBE candidate and referendum lists show no Durham County Board of Commissioners, Board of Education or Register of Deeds contest and no Durham County or City of Durham bond referendum on the November 3, 2026 ballot; City of Durham mayor and council are elected in odd years. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Durham County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-sheriff-birkhead-clarence",
+          "name": "Clarence F. Birkhead",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Durham County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-clerk-superior-court-thompson-aminah",
+          "name": "Aminah Thompson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "District Attorney, District 16",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-district-attorney-deberry-satana",
+          "name": "Satana Deberry",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge District 16 Seat 01",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-district-court-16-seat-01-hall-orlin",
+          "name": "Dave Hall",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge District 16 Seat 02",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-district-court-16-seat-02-walker-doretta",
+          "name": "Doretta L. Walker",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge District 16 Seat 03",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-district-court-16-seat-03-jones-kevin",
+          "name": "Kevin E. Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge District 16 Seat 04",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-district-court-16-seat-04-mitchell-dorothy",
+          "name": "Dorothy Hairston Mitchell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge District 16 Seat 05",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-district-court-16-seat-05-malott-christy",
+          "name": "Christy A. Hamilton Malott",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "NC District Court Judge District 16 Seat 06",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-district-court-16-seat-06-maris-amanda",
+          "name": "Amanda L. Maris",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    },
+    {
+      "office": "Durham Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "nc-durham-2026-soil-water-waller-mark",
+          "name": "Mark W. Waller",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-durham-2026-soil-water-harris-david",
+          "name": "David Harris",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Raleigh": {
+      "contests": [
+        {
+          "office": "City of Raleigh Mayor",
+          "candidates": [
+            {
+              "key": "nc-durham-2026-raleigh-mayor-armstrong-ashleigh",
+              "name": "Ashleigh Heath Armstrong",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-durham-2026-raleigh-mayor-cowell-janet",
+              "name": "Janet Cowell",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+        },
+        {
+          "office": "City of Raleigh City Council At-Large",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "nc-durham-2026-raleigh-council-at-large-bradley-joshua",
+              "name": "Joshua Bradley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-durham-2026-raleigh-council-at-large-forte-stormie",
+              "name": "Ms. Stormie Denise Forte",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-durham-2026-raleigh-council-at-large-rinehart-clark",
+              "name": "Clark Rinehart",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-durham-2026-raleigh-council-at-large-siddiqui-sana",
+              "name": "Sana Siddiqui",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Raleigh Housing Bonds Referendum",
+          "title": "City of Raleigh Housing Bonds",
+          "summary": "Asks whether the City of Raleigh may borrow up to $101,500,000 by issuing bonds for community development programs that build or rehabilitate multifamily and single-family housing inside the city, principally for people with low and moderate incomes, including loans and other financial help and related land acquisition. The official ballot statement estimates the total cost over the life of the bonds at $167,885,618 ($101,500,000 principal plus $66,385,618 interest) and estimates the property tax increase needed to repay them at $0 per year per $100,000 of property value. If approved, the city may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+          "yesMeans": "The City of Raleigh may issue up to $101,500,000 in bonds for housing programs principally for people with low and moderate incomes, and may levy property taxes sufficient to repay them.",
+          "noMeans": "The City of Raleigh may not issue these $101,500,000 in housing bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+        },
+        {
+          "id": "City of Raleigh Transportation Bonds Referendum",
+          "title": "City of Raleigh Transportation Bonds",
+          "summary": "Asks whether the City of Raleigh may borrow up to $101,500,000 by issuing bonds for transportation improvements inside and outside the city limits, including streets, sidewalks and streetscapes, bridges, bicycle lanes, curbs and drains, traffic controls, greenways, bus and train station and shelter improvements, and related land. The official ballot statement estimates the total cost over the life of the bonds at $164,607,118 ($101,500,000 principal plus $63,107,118 interest) and estimates the property tax increase needed to repay them at $0 per year per $100,000 of property value. If approved, the city may levy additional property taxes in an amount sufficient to pay the principal and interest.",
+          "yesMeans": "The City of Raleigh may issue up to $101,500,000 in bonds for street, sidewalk, bridge, bicycle lane, greenway, transit stop and related transportation improvements, and may levy property taxes sufficient to repay them.",
+          "noMeans": "The City of Raleigh may not issue these $101,500,000 in transportation bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+        }
+      ]
+    }
+  }
+}
