@@ -1,0 +1,27 @@
+{
+  "state": "VA",
+  "county": "Chesterfield County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.chesterfield.gov/elections",
+    "https://www.chesterfield.gov/DocumentCenter/View/48627/General-and-Special-Elections---Ballot-Style-1-PDF",
+    "https://www.chesterfield.gov/DocumentCenter/View/48623/General-and-Special-Elections---Ballot-Style-5-PDF",
+    "https://www.chesterfield.gov/1forschools",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Local-Offices-Candidate-List-(rev-10-9-2026).xlsx"
+  ],
+  "note": "Chesterfield County's Board of Supervisors, constitutional officers and School Board are not regularly elected in 2026. Two district special elections are not shown because they appear only on some ballots: Board of Supervisors, Dale District (LeQuan M. Hylton) and School Board, Clover Hill District (Christina Romers Brady, Elizabeth L. Schultz). Check your official sample ballot.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Sales Tax",
+      "title": "Sales Tax",
+      "summary": "Asks whether Chesterfield County may levy an additional local general retail sales tax of up to 1%. The money could be used only for capital projects to build or renovate schools serving the county. The tax would expire on July 22, 2046.",
+      "yesMeans": "Chesterfield County is authorized to levy an additional sales tax of up to 1% for school construction and renovation, expiring July 22, 2046; the Board of Supervisors would still need to adopt an ordinance to levy it.",
+      "noMeans": "Chesterfield County is not authorized to levy this additional sales tax.",
+      "source": "https://www.chesterfield.gov/DocumentCenter/View/48627/General-and-Special-Elections---Ballot-Style-1-PDF",
+      "moreInfo": "https://www.chesterfield.gov/1forschools"
+    }
+  ],
+  "municipalities": {}
+}
