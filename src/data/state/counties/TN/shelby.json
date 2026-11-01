@@ -1,0 +1,399 @@
+{
+  "state": "TN",
+  "county": "Shelby County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf",
+    "https://www.electionsshelbytn.gov/wp-content/uploads/2026/06/Nov-3-2026-Key-Dates-6.5.26-updated-interactive.pdf"
+  ],
+  "note": "No countywide contests or measures are on the November 3, 2026 Shelby County ballot (county offices were elected in August 2026). Municipal school board races in Bartlett, Collierville, Germantown, Lakeland and Millington are not shown because school district boundaries may not match city limits; check your official sample ballot for those. Incumbency is not marked for municipal candidates because the official ballot does not indicate it.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Memphis": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Ordinance No. 5966",
+          "title": "City of Memphis Charter Referendum Ordinance No. 5966 (Civil Service exemptions)",
+          "summary": "Rewrites Article 34, Section 250 of the Memphis Home Rule Charter, which lists the city officers and employees who are exempt from civil service rules. The amended list includes elected officers and judges, Board of Education and MLGW board members and employees, division directors, legal department employees, board and commission members, staff of the Mayor's and Chief Administrative Officer's offices, certain executive secretaries, library officers, City Council office employees, and other positions the Mayor and Council agree cannot be covered. It states that this last category cannot be used to remove civil service protection from anyone whose position is covered at that time; the city's Finance Director certified no impact on city revenues or expenditures.",
+          "yesMeans": "Article 34, Section 250 of the charter is replaced with the amended list of positions exempt from civil service.",
+          "noMeans": "The current text of Article 34, Section 250 of the charter stays in place.",
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "id": "Ordinance No. 5977",
+          "title": "City of Memphis Charter Referendum Ordinance No. 5977 (Lobbyist registration)",
+          "summary": "Amends the Memphis Home Rule Charter to require the City Council to create, by ordinance, a process for lobbyists to register and disclose their activities. The city's Finance Director certified no impact on city revenues or expenditures.",
+          "yesMeans": "The charter would require the City Council to set up a lobbyist registration and disclosure process by ordinance.",
+          "noMeans": "The charter is not changed and does not require a lobbyist registration and disclosure process.",
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "id": "Ordinance No. 5978",
+          "title": "City of Memphis Charter Referendum Ordinance No. 5978 (Civil service appeals procedures)",
+          "summary": "Amends the Memphis charter to let the City Council, in consultation with the Mayor, set by ordinance uniform administrative procedures for appeals that may affect a civil service employee's employment status. This includes setting the makeup of boards, commissions and hearing panels with people trained or experienced in labor and benefits matters. The city's Finance Director certified no impact on city revenues or expenditures.",
+          "yesMeans": "The City Council, consulting the Mayor, could set uniform procedures and panel makeup for civil service employment appeals by ordinance.",
+          "noMeans": "The charter is not changed to authorize these appeal procedures by ordinance.",
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        }
+      ]
+    },
+    "Bartlett": {
+      "contests": [
+        {
+          "office": "Mayor",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-bartlett-mayor-parsons-david",
+              "name": "David Parsons",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Bartlett Alderman, Position 1",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-bartlett-alderman-1-jenkins-jerry",
+              "name": "Jerry L. Jenkins",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-bartlett-alderman-1-king-harold",
+              "name": "Harold Brad King",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Bartlett Alderman, Position 2",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-bartlett-alderman-2-cromwell-cynthia",
+              "name": "Cynthia \"Cindy\" Cromwell",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-bartlett-alderman-2-griffin-robert",
+              "name": "Robert Griffin",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-bartlett-alderman-2-schlum-tim",
+              "name": "Tim Schlum",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Bartlett Alderman, Position 3",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-bartlett-alderman-3-dubose-tamisha",
+              "name": "Tamisha P. DuBose",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-bartlett-alderman-3-reaves-david",
+              "name": "David Reaves",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Collierville": {
+      "contests": [
+        {
+          "office": "Collierville Alderman, Position 1",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-collierville-alderman-1-goddard-tim",
+              "name": "Tim Goddard",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-collierville-alderman-1-hall-charles",
+              "name": "Charles Hall",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-collierville-alderman-1-lederfine-jason",
+              "name": "Jason Lederfine",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Collierville Alderman, Position 2",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-collierville-alderman-2-christensen-steve",
+              "name": "Steve Christensen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-collierville-alderman-2-jordan-jewel",
+              "name": "Jewel Jordan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-collierville-alderman-2-kelsey-chad",
+              "name": "Chad Kelsey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Collierville Alderman, Position 4",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-collierville-alderman-4-deely-liz",
+              "name": "Liz Deely",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-collierville-alderman-4-marshall-missy",
+              "name": "Missy Marshall",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Germantown": {
+      "contests": [
+        {
+          "office": "Mayor",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-germantown-mayor-babian-edgar",
+              "name": "Edgar Babian",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-germantown-mayor-salvaggio-tony",
+              "name": "Tony Salvaggio",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Germantown Alderman, Position 1",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-germantown-alderman-1-sanders-scott",
+              "name": "Scott A. Sanders",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Germantown Alderman, Position 2",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-germantown-alderman-2-adams-todd",
+              "name": "Todd Adams",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-germantown-alderman-2-gibson-mary",
+              "name": "Mary Anne Gibson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Lakeland": {
+      "contests": [
+        {
+          "office": "Mayor",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-lakeland-mayor-mccarter-connie",
+              "name": "Connie McCarter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-lakeland-mayor-roman-josh",
+              "name": "Josh Roman",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Commissioner",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-lakeland-commissioner-burnett-jeremy",
+              "name": "Jeremy Burnett",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-lakeland-commissioner-long-heather",
+              "name": "Heather Ann Long",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-lakeland-commissioner-reap-lindsey",
+              "name": "Lindsey Reap",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Millington": {
+      "contests": [
+        {
+          "office": "Millington Alderman, Position 1",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-millington-alderman-1-huffman-bethany",
+              "name": "Bethany K. Huffman",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Millington Alderman, Position 2",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-millington-alderman-2-childress-cody",
+              "name": "Cody Childress",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-millington-alderman-2-declue-willis",
+              "name": "Willis S Declue",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-millington-alderman-2-sneed-tammy",
+              "name": "Tammy Sneed",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Millington Alderman, Position 3",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-millington-alderman-3-ford-chris",
+              "name": "Chris Ford",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Millington Alderman, Position 4",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-millington-alderman-4-everitt-chris",
+              "name": "Chris Everitt",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-millington-alderman-4-higgins-gordon",
+              "name": "Gordon \"Gordo\" Higgins",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-millington-alderman-4-perales-john",
+              "name": "John \"Johnny\" Perales",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        },
+        {
+          "office": "Millington Alderman, Position 7 (unexpired term)",
+          "candidates": [
+            {
+              "key": "tn-shelby-2026-millington-alderman-7-denson-chris",
+              "name": "Chris Denson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-millington-alderman-7-reed-charles",
+              "name": "Charles P. Reed",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-millington-alderman-7-smith-gavin",
+              "name": "Gavin Smith",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tn-shelby-2026-millington-alderman-7-turner-ann",
+              "name": "Ann Turner",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.electionsshelbytn.gov/wp-content/uploads/2026/09/Nov-3-2026-Official-Sample-2026-State-and-Federal-General-Election-and-Municipal-Elections-Paper-Ver-2.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "state": "FL",
+  "county": "Duval County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+  ],
+  "note": "Jacksonville is consolidated with Duval County, so countywide items are shown at the county level. Not shown: School Board Districts 2, 4 and 6, and community development district seats (Beach, Cypress Bluff, Tolomato, Trails CDDs). No circuit judge, Sheriff, Clerk, Property Appraiser, Tax Collector, Supervisor of Elections, City of Jacksonville office, or City of Jacksonville / Duval County charter question appears on the official November all-races sample ballot. Duval County is in the Fifth District Court of Appeal. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        { "key": "fl-duval-2026-dca5-retain-harris-john", "name": "John M. Harris", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        { "key": "fl-duval-2026-dca5-retain-makar-scott", "name": "Scott D. Makar", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        { "key": "fl-duval-2026-dca5-retain-wallis-rand", "name": "F. Rand Wallis", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+    },
+    {
+      "office": "County Court Judge, Group 13",
+      "candidates": [
+        { "key": "fl-duval-2026-county-judge-g13-buncome-melina", "name": "Melina Buncome", "party": "Nonpartisan", "incumbent": false },
+        { "key": "fl-duval-2026-county-judge-g13-holliday-octavius", "name": "Octavius A. Holliday Jr.", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+    }
+  ],
+  "measures": [
+    {
+      "id": "School District Millage Question",
+      "title": "Duval County School District Ad Valorem Millage Election",
+      "summary": "Asks whether the Duval County School District should continue its current one-mill property tax for essential operating expenses, including pay for teachers, security and support staff, and preserving academic programs, arts, athletics and student activities. The levy would run from July 1, 2027 through June 30, 2031, be shared proportionately with charter schools, and come with annual reporting.",
+      "yesMeans": "The current one-mill school operating levy continues from July 1, 2027 to June 30, 2031.",
+      "noMeans": "The current one-mill levy is not continued for that period.",
+      "source": "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+    }
+  ],
+  "municipalities": {
+    "Atlantic Beach": {
+      "contests": [
+        {
+          "office": "Atlantic Beach Mayor-Commissioner, Seat 1",
+          "candidates": [
+            { "key": "fl-duval-2026-atlantic-beach-mayor-s1-ford-curtis", "name": "Curtis R. Ford", "party": "Nonpartisan", "incumbent": false },
+            { "key": "fl-duval-2026-atlantic-beach-mayor-s1-staats-nancy", "name": "Nancy Staats", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+        },
+        {
+          "office": "Atlantic Beach Commissioner, Seat 4",
+          "candidates": [
+            { "key": "fl-duval-2026-atlantic-beach-commissioner-s4-herrold-lisa", "name": "Lisa Herrold", "party": "Nonpartisan", "incumbent": false },
+            { "key": "fl-duval-2026-atlantic-beach-commissioner-s4-lagner-jennifer", "name": "Jennifer Lagner", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://www.duvalelections.gov/DocumentCenter/View/1644/2026-General-All-Races"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
