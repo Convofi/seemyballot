@@ -1,0 +1,101 @@
+{
+  "state": "NJ",
+  "county": "Bergen County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.bergencountyclerk.gov/_Content/pdf/voting/sample-ballots/2026-general/Hackensack-26GEN.pdf",
+    "https://www.bergencountyclerk.gov/Services/89",
+    "https://docs.google.com/spreadsheets/d/1uS4o-ogeeIrZMyfxYs0Eg5WDcSYPuIrkMskOTXKJDP4/edit?usp=sharing",
+    "https://bergencountynj.gov/bergen-county-board-of-commissioners/"
+  ],
+  "note": "Municipal offices (mayor, council, township committee), local and regional Board of Education seats, and municipal or school public questions vary by town and are not shown here. Hackensack has no city offices or city questions on this ballot; its Board of Education race is not shown. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "nj-bergen-2026-county-executive-hennessey-todd",
+          "name": "Todd H. Hennessey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-bergen-2026-county-executive-tedesco-james",
+          "name": "James J. Tedesco III",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bergencountyclerk.gov/_Content/pdf/voting/sample-ballots/2026-general/Hackensack-26GEN.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "nj-bergen-2026-county-clerk-walsh-timothy",
+          "name": "Timothy C. Walsh",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-bergen-2026-county-clerk-hogan-john",
+          "name": "John S. Hogan",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bergencountyclerk.gov/_Content/pdf/voting/sample-ballots/2026-general/Hackensack-26GEN.pdf"
+    },
+    {
+      "office": "Surrogate",
+      "candidates": [
+        {
+          "key": "nj-bergen-2026-surrogate-conte-joseph",
+          "name": "Joseph Stephen Conte",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-bergen-2026-surrogate-schwager-linda",
+          "name": "Linda H. Schwager",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bergencountyclerk.gov/_Content/pdf/voting/sample-ballots/2026-general/Hackensack-26GEN.pdf"
+    },
+    {
+      "office": "Members of the Board of County Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nj-bergen-2026-commissioner-dinice-john",
+          "name": "John DiNice",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-bergen-2026-commissioner-laman-maria",
+          "name": "Maria Soledad Laman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-bergen-2026-commissioner-voss-joan",
+          "name": "Joan M. Voss",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-bergen-2026-commissioner-marte-rafael",
+          "name": "Rafael Marte",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bergencountyclerk.gov/_Content/pdf/voting/sample-ballots/2026-general/Hackensack-26GEN.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

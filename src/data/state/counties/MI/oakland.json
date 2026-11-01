@@ -1,0 +1,205 @@
+{
+  "state": "MI",
+  "county": "Oakland County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1",
+    "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/clerk-elections/elections-voting/11032026-proposal-list.pdf?sfvrsn=8d0d66ab_1",
+    "https://elections.oaklandcountymi.gov/"
+  ],
+  "note": "No Oakland County executive or row offices are on this ballot: County Executive, Prosecuting Attorney, Sheriff, Clerk/Register of Deeds, Treasurer, Water Resources Commissioner and County Commissioners are elected in presidential years. Not shown: district court judges (35th, 43rd, 45th, 46th, 47th, 48th, 50th, 51st, 52nd Divisions 1-4, 67th Division 4), city, village and township offices, school board members (including the School District of the City of Pontiac), Mott Community College and Schoolcraft College trustees, and city, village, township, library and school proposals outside Pontiac. Each depends on a district the address lookup cannot resolve. No City of Pontiac offices are on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 2nd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-oakland-2026-app2-inc-patel-sima",
+          "name": "Sima G. Patel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-oakland-2026-app2-inc-trebilcock-christopher",
+          "name": "Christopher M. Trebilcock",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+    },
+    {
+      "office": "Judge of Circuit Court, 6th Circuit, Incumbent Position (6-year term)",
+      "seats": 6,
+      "candidates": [
+        {
+          "key": "mi-oakland-2026-circuit-inc-brennan-mary",
+          "name": "Mary Ellen T. Brennan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-oakland-2026-circuit-inc-cohen-david",
+          "name": "David M. Cohen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-oakland-2026-circuit-inc-gorcyca-lisa",
+          "name": "Lisa Gorcyca",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-oakland-2026-circuit-inc-grant-nanci",
+          "name": "Nanci Grant",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-oakland-2026-circuit-inc-matis-jeffery",
+          "name": "Jeffery S. Matis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-oakland-2026-circuit-inc-savin-lorie",
+          "name": "Lorie N. Savin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+    },
+    {
+      "office": "Judge of Circuit Court, 6th Circuit, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-oakland-2026-circuit-noninc-king-victoria",
+          "name": "Victoria King",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-circuit-noninc-neilson-lisa",
+          "name": "Lisa Marie Neilson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (partial term ending 1/1/2029)",
+      "candidates": [
+        {
+          "key": "mi-oakland-2026-probate-partial-huddleston-nicole",
+          "name": "Nicole S. Huddleston",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+    },
+    {
+      "office": "Judge of Probate Court, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-oakland-2026-probate-noninc-dery-elisabeth",
+          "name": "Elisabeth Dery",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-probate-noninc-hallmark-jessica",
+          "name": "Jessica Ann Hallmark",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+    },
+    {
+      "office": "Oakland Community College Board of Trustees Member (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-oakland-2026-occ-aliaga-jose",
+          "name": "Jose F. Aliaga",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-occ-blocker-marian",
+          "name": "Marian Blocker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-occ-burrus-mivida",
+          "name": "MiVida M. Burrus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-occ-kelly-jacqueline",
+          "name": "Jacqueline A. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-occ-mcgregor-robin",
+          "name": "Robin L. McGregor",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-occ-morgan-alexandra",
+          "name": "Alexandra Morgan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-oakland-2026-occ-snyder-deborah",
+          "name": "Deborah Snyder",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/official-candidate-list488be47f-6596-4103-9847-fbdcaacfd308.pdf?sfvrsn=7e119b85_1"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Oakland County Zoological Authority Proposal",
+      "title": "Renewal of Oakland County Zoological Authority Millage in Support of the Detroit Zoo",
+      "summary": "Renews the Oakland County Zoological Authority property tax that funds the Detroit Zoo, first approved in 2008 and renewed in 2016. It would levy 0.10 mill ($0.10 per $1,000 of taxable value) on all taxable property in Oakland County for ten years, 2028 through 2037, renewing 0.0927 mill and restoring the 0.0073 mill lost to required rollbacks. The official ballot language estimates $8,831,012 in the first year.",
+      "yesMeans": "A YES vote renews and restores the 0.10 mill Detroit Zoo levy in Oakland County for 2028 through 2037.",
+      "noMeans": "A NO vote does not renew the levy, so the Zoological Authority millage would not be collected after it expires.",
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/clerk-elections/elections-voting/11032026-proposal-list.pdf?sfvrsn=8d0d66ab_1"
+    },
+    {
+      "id": "Southeast Michigan Public Historical Museum Authority Proposal",
+      "title": "Southeast Michigan Public Historical Museum Authority Millage Proposal",
+      "summary": "Creates a new 0.2 mill tax ($0.20 per $1,000 of taxable value) on all taxable property in Oakland County for ten years, 2026 through 2035, levied by a joint Wayne and Oakland County authority. The money would support the Charles H. Wright Museum of African American History, the Detroit Historical Museum, the Dossin Great Lakes Museum, and, through 15% of Oakland County revenue after administrative costs, other historical museums in Oakland County. The official ballot language estimates about $17,733,800 from Oakland County property in 2026.",
+      "yesMeans": "A YES vote authorizes a new 0.2 mill tax in Oakland County for 2026 through 2035 to fund public historical museums.",
+      "noMeans": "A NO vote does not authorize the new historical museum tax.",
+      "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/clerk-elections/elections-voting/11032026-proposal-list.pdf?sfvrsn=8d0d66ab_1"
+    }
+  ],
+  "municipalities": {
+    "Pontiac": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Road and Road Facilities Bond Proposal",
+          "title": "Road and Road Facilities Bond Proposal",
+          "summary": "Asks whether the City of Pontiac may borrow up to $75,000,000 by issuing unlimited tax general obligation bonds, repaid over up to 30 years per series. The money would pay for reconstructing and resurfacing streets, sidewalks, curbs, storm sewers and drainage, street lighting, traffic signals and related facilities throughout the city. The official ballot language estimates a 3.360 mill levy in 2027 and an average of 2.400 mills per year to retire the bonds.",
+          "yesMeans": "A YES vote lets the City of Pontiac borrow up to $75 million in bonds for road and related improvements, repaid by a property tax.",
+          "noMeans": "A NO vote does not authorize the city to issue these road bonds.",
+          "source": "https://cdn.oaklandcountymi.gov/oakland-sitefinity-prod/docs/default-source/clerk/clerk-elections/elections-voting/11032026-proposal-list.pdf?sfvrsn=8d0d66ab_1"
+        }
+      ]
+    }
+  }
+}
