@@ -1,0 +1,258 @@
+{
+  "state": "CO",
+  "county": "Adams County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf",
+    "https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/adams-county-elections/",
+    "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-Adams-County-2026G-TABOR-Notice-092426.pdf",
+    "https://adamscountyco.gov/wp-content/uploads/2026/10/CR-Certified-Write-in-Candidates-101526.pdf",
+    "https://adamscountyco.gov/our-county/elected-officials/clerk-recorder/",
+    "https://adamscountyco.gov/our-county/elected-officials/assessor/",
+    "https://adamssheriffco.gov/",
+    "https://officeofthecoroner.com/"
+  ],
+  "note": "Adams County commissioners are elected by district voters only; Districts 3 and 4 are on the 2026 ballot and are not shown. The County Surveyor contest is on the ballot with no candidates. The District Attorney (17th Judicial District) is not on the 2026 ballot, and there are no countywide Adams County ballot issues (1A, 1B...); 17th Judicial District Question 7E (District Attorney term limits) is on every Adams County ballot and is included. Not shown: Regional Transportation District director races (Districts B, J, K, L), state legislative and congressional districts, State Board of Education districts, Town of Lochbuie trustees, school district measures (Westminster Public Schools 4A, Bennett 29J 5A), special district measures (North Range Metropolitan District No. 3 6A-6D, Adams County Fire 6E, Central Colorado Water Conservancy 7B-7C, Greater Brighton Fire 7D, Bennett Fire 7F-7G), and Front Range Passenger Rail District Issue 7A (covers only part of the county). Brighton, Westminster, Commerce City and Federal Heights have no citywide questions on this ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-adams-2026-clerk-zygielbaum-josh",
+          "name": "Josh Zygielbaum",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "co-adams-2026-clerk-hoopes-karen",
+          "name": "Karen Hoopes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-adams-2026-treasurer-anaya-ledeboer-jason",
+          "name": "Jason Anaya-Ledeboer",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-adams-2026-assessor-swingle-thomas",
+          "name": "Thomas Swingle",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "co-adams-2026-assessor-zavala-glenna",
+          "name": "Glenna Marie Zavala",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-adams-2026-sheriff-goodell-mark",
+          "name": "Mark Goodell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-adams-2026-sheriff-claps-gene",
+          "name": "Gene R. Claps",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-adams-2026-coroner-broncucia-jordan-monica",
+          "name": "Monica Broncucia-Jordan",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Caryn A. Datz? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-adams-2026-retain-district-datz-caryn",
+          "name": "Caryn A. Datz",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Sean Patrick Finn? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-adams-2026-retain-district-finn-sean",
+          "name": "Sean Patrick Finn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Priscilla Loew? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-adams-2026-retain-district-loew-priscilla",
+          "name": "Priscilla Loew",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Jeffrey Dean Ruff? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-adams-2026-retain-district-ruff-jeffrey",
+          "name": "Jeffrey Dean Ruff",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Kelley R. Southerland? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-adams-2026-retain-district-southerland-kelley",
+          "name": "Kelley R. Southerland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "Adams County Court Judge — retain Judge Lara M. Jimenez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-adams-2026-retain-county-jimenez-lara",
+          "name": "Lara M. Jimenez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    },
+    {
+      "office": "Adams County Court Judge — retain Judge MaryAnn \"Mariana\" Vielma? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-adams-2026-retain-county-vielma-maryann",
+          "name": "MaryAnn \"Mariana\" Vielma",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "17th Judicial District Ballot Question 7E",
+      "title": "District Attorney Term Limits",
+      "summary": "Asks voters in the 17th Judicial District (Adams County and the City and County of Broomfield) whether the District Attorney should be limited to no more than three consecutive terms of office. The ballot says this would be consistent with the term limits for other county offices in Adams County and Broomfield.",
+      "yesMeans": "The 17th Judicial District Attorney is limited to no more than three consecutive terms.",
+      "noMeans": "The term limit for the 17th Judicial District Attorney is not changed by this question.",
+      "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+    }
+  ],
+  "municipalities": {
+    "Aurora": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Aurora Ballot Issue 3A",
+          "title": "Referred measure to dedicate sales tax for community facilities",
+          "summary": "Creates a new 0.129% City of Aurora sales and use tax (12.9 cents on every $100 purchase) from January 1, 2027 through December 31, 2057, raising up to $12,640,000 in the first year, for community facilities, including libraries and recreation and community centers. It also allows the city to issue up to $105,000,000 in revenue bonds, with a maximum repayment cost of $204,870,000, repaid from the new tax, for projects such as park renovations and new parks, recreation center improvements and new recreation centers, and library improvements and new libraries. The city could keep and spend all revenue from the tax as a voter-approved revenue change.",
+          "yesMeans": "Aurora adds the 0.129% sales and use tax through 2057 and may issue the stated bonds for community facilities, including libraries and recreation and community centers.",
+          "noMeans": "The new sales and use tax and bonds are not approved.",
+          "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf",
+          "moreInfo": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-Adams-County-2026G-TABOR-Notice-092426.pdf"
+        },
+        {
+          "id": "City of Aurora Ballot Issue 3B",
+          "title": "Referred measure to dedicate sales tax for public safety infrastructure and facilities",
+          "summary": "Creates a new 0.064% City of Aurora sales and use tax (6.4 cents on every $100 purchase) from January 1, 2027 through December 31, 2057, raising up to $6,270,000 in the first year, for public safety infrastructure and facilities. It also allows the city to issue up to $53,000,000 in revenue bonds, with a maximum repayment cost of $101,600,000, repaid from the new tax, for projects such as fire station renovations and remodels and Aurora 911 and police facility improvements. The city could keep and spend all revenue from the tax as a voter-approved revenue change.",
+          "yesMeans": "Aurora adds the 0.064% sales and use tax through 2057 and may issue the stated bonds for public safety infrastructure and facilities.",
+          "noMeans": "The new sales and use tax and bonds are not approved.",
+          "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf",
+          "moreInfo": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-Adams-County-2026G-TABOR-Notice-092426.pdf"
+        },
+        {
+          "id": "City of Aurora Ballot Issue 3C",
+          "title": "Referred measure to dedicate sales tax for transportation infrastructure and facilities",
+          "summary": "Creates a new 0.132% City of Aurora sales and use tax (13.2 cents on every $100 purchase) from January 1, 2027 through December 31, 2057, raising up to $12,940,000 in the first year, for transportation infrastructure and facilities. It also allows the city to issue up to $108,000,000 in revenue bonds, with a maximum repayment cost of $209,733,000, repaid from the new tax, for projects such as traffic, intersection and pedestrian safety improvements, major bridge replacements, and roadway improvements and expansion. The city could keep and spend all revenue from the tax as a voter-approved revenue change.",
+          "yesMeans": "Aurora adds the 0.132% sales and use tax through 2057 and may issue the stated bonds for transportation infrastructure and facilities.",
+          "noMeans": "The new sales and use tax and bonds are not approved.",
+          "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf",
+          "moreInfo": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-Adams-County-2026G-TABOR-Notice-092426.pdf"
+        },
+        {
+          "id": "City of Aurora Ballot Question 3D",
+          "title": "Referred measure to move the City of Aurora's regular municipal elections to even-numbered years",
+          "summary": "Amends the Aurora City Charter to move regular municipal elections from odd-numbered years to even-numbered years. It also amends the Charter to allow one-time shortened terms of office needed to make the transition.",
+          "yesMeans": "Aurora's regular city elections move to even-numbered years, with some terms shortened once to make the change.",
+          "noMeans": "Aurora's regular city elections stay in odd-numbered years.",
+          "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+        }
+      ]
+    },
+    "Thornton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Thornton Ballot Question No. 2A",
+          "title": "Charter amendment: council members and the mayor vacate office when declaring candidacy for another office",
+          "summary": "Amends Section 4.5 of the Thornton City Charter so that any member of the Thornton City Council, including the Mayor, is deemed to have resigned and vacated the office upon formally declaring candidacy for any elected office other than Thornton City Council member or Mayor. Formally declaring includes filing a candidate affidavit, petition, or other official candidacy document required by law.",
+          "yesMeans": "A Thornton council member or mayor who formally declares candidacy for another elected office is deemed to have resigned from the council.",
+          "noMeans": "Section 4.5 of the Thornton City Charter is not changed.",
+          "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+        }
+      ]
+    },
+    "Northglenn": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Northglenn Ballot Issue 3H",
+          "title": "Increase in sales tax on accommodations services",
+          "summary": "Raises the City of Northglenn sales tax rate on accommodation services (lodging) from 5% to 8%, increasing city taxes by $450,000 a year starting in 2027 and by whatever amounts are raised each year after. The money would be used for general government purposes, including public safety, street maintenance, parks, recreation and culture, and city administration, and would be collected and spent as a voter-approved revenue change.",
+          "yesMeans": "Northglenn's sales tax on accommodation services rises from 5% to 8%.",
+          "noMeans": "Northglenn's sales tax on accommodation services stays at 5%.",
+          "source": "https://adamscountyco.gov/wp-content/uploads/2026/09/CR-2026-General-Election-Sample-Ballot-092826.pdf"
+        }
+      ]
+    }
+  }
+}

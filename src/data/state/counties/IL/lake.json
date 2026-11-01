@@ -1,0 +1,74 @@
+{
+  "state": "IL",
+  "county": "Lake County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.lakecountyil.gov/4138/November-3-2026-General-Election",
+    "https://www.lakecountyil.gov/DocumentCenter/View/13059/Candidate-List",
+    "https://www.lakecountyil.gov/DocumentCenter/View/22120/Notice-of-Election",
+    "https://www.lakecountyil.gov/DocumentCenter/View/21161/Referenda",
+    "https://www.lakecountyil.gov/DocumentCenter/View/27096/Voter-Information-Guide",
+    "https://www.lakecountyil.gov/4920/Sheriff",
+    "https://www.lakecountyil.gov/4923/Treasurer",
+    "https://www.lake.k12.il.us/meet-our-staff"
+  ],
+  "note": "Not shown: Lake County Board districts 1, 3, 4, 6, 7, 9, 10, 11, 14, 15, 16, 17 and 19, North Shore Water Reclamation District trustees (Wards 2 and 3), Congress and state legislature, and local questions (Village of Lake Zurich, Village of Round Lake, Village of Wauconda, City of Highland Park, Antioch Township, Vernon Area Public Library District, Fox Lake and Newport Township fire protection districts). The Lake County Board chair is chosen by the board, and the Forest Preserve board is the County Board, so neither is a separate countywide race. There are no 19th Circuit vacancies, subcircuit races or 2nd District Appellate Court contests on the Lake County ballot; the only judicial items are two countywide retention questions. Waukegan has no citywide question. The clerk's candidate list is dated September 9, 2026. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Lake County Clerk",
+      "candidates": [
+        { "key": "il-lake-2026-clerk-vega-anthony", "name": "Anthony Vega", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.lakecountyil.gov/DocumentCenter/View/13059/Candidate-List"
+    },
+    {
+      "office": "Lake County Treasurer",
+      "candidates": [
+        { "key": "il-lake-2026-treasurer-penaherrera-david", "name": "David Penaherrera", "party": "Republican", "incumbent": false },
+        { "key": "il-lake-2026-treasurer-hart-sandy", "name": "Sandy Hart", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.lakecountyil.gov/DocumentCenter/View/13059/Candidate-List"
+    },
+    {
+      "office": "Lake County Sheriff",
+      "candidates": [
+        { "key": "il-lake-2026-sheriff-buchberger-roman", "name": "Roman Buchberger", "party": "Republican", "incumbent": false },
+        { "key": "il-lake-2026-sheriff-idleburg-john", "name": "John D. Idleburg", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.lakecountyil.gov/DocumentCenter/View/13059/Candidate-List"
+    },
+    {
+      "office": "Regional Superintendent of Schools (Lake County)",
+      "candidates": [
+        { "key": "il-lake-2026-regional-superintendent-karner-michael", "name": "Michael L. Karner", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.lakecountyil.gov/DocumentCenter/View/13059/Candidate-List"
+    },
+    {
+      "office": "Judge of the Circuit Court, 19th Judicial Circuit — retain Judge Marnie M. Slavin? (yes/no retention)",
+      "candidates": [
+        { "key": "il-lake-2026-retain-circuit-slavin-marnie", "name": "Marnie M. Slavin", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.lakecountyil.gov/DocumentCenter/View/22120/Notice-of-Election"
+    },
+    {
+      "office": "Judge of the Circuit Court, 19th Judicial Circuit — retain Judge James K. Booras? (yes/no retention)",
+      "candidates": [
+        { "key": "il-lake-2026-retain-circuit-booras-james", "name": "James K. Booras", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.lakecountyil.gov/DocumentCenter/View/22120/Notice-of-Election"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition To Impose County School Sales Tax",
+      "title": "Lake County Proposition To Impose County School Sales Tax",
+      "summary": "Asks Lake County voters whether to impose a 1% retailers' occupation tax and service occupation tax (commonly called a sales tax) in Lake County. The money would be used only for school facility purposes, school resource officers, and mental health professionals. The question was placed on the ballot by the Lake County Regional Board of Schools.",
+      "yesMeans": "A 1% county school sales tax would be imposed in Lake County, with the money used only for school facilities, school resource officers, and mental health professionals.",
+      "noMeans": "The 1% county school sales tax would not be imposed.",
+      "source": "https://www.lakecountyil.gov/DocumentCenter/View/21161/Referenda",
+      "moreInfo": "https://www.lakecountyil.gov/DocumentCenter/View/22120/Notice-of-Election"
+    }
+  ],
+  "municipalities": {}
+}
