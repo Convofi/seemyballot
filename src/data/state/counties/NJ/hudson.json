@@ -1,0 +1,34 @@
+{
+  "state": "NJ",
+  "county": "Hudson County",
+  "verifiedAt": "2026-10-31",
+  "sources": [
+    "https://www.hudsoncountyclerk.org/wp-content/uploads/2026/09/2026-F09-JC.pdf",
+    "https://www.hudsoncountyclerk.org/2026-general-election-sample-ballots/",
+    "https://www.hudsoncountyclerk.org/wp-content/uploads/2026/08/2026-November-3-General-Elecction-Official-Master-List.pdf",
+    "https://www.hudsoncountyclerk.org/elected-officials/"
+  ],
+  "note": "Board of County Commissioners seats (Districts 1-9, one per district on the 2026 ballot), municipal offices, Board of Education seats, and municipal or school public questions vary by address and are not shown here. County Executive, County Clerk, Sheriff and Surrogate are not on the November 2026 Hudson ballot. There are no countywide public questions, and Jersey City has no city offices or city public questions on this ballot; its Board of Education races are not shown. Check your official sample ballot for district and local races.",
+  "contests": [
+    {
+      "office": "Register",
+      "candidates": [
+        {
+          "key": "nj-hudson-2026-register-raza-qamar",
+          "name": "Qamar Raza",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-hudson-2026-register-dublin-jeffrey",
+          "name": "Jeffrey Dublin",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hudsoncountyclerk.org/wp-content/uploads/2026/09/2026-F09-JC.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
