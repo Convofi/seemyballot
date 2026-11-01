@@ -82,7 +82,7 @@ export default function Home() {
       <main className="mx-auto w-full max-w-[40rem] flex-1 px-4 pb-16">
         {!done && (
           <div className="pt-14 sm:pt-24">
-            <p className="text-sm font-semibold tracking-tight text-ink-2">BallotHelper</p>
+            <p className="text-sm font-semibold tracking-tight text-ink-2">See My Ballot</p>
             <h1 className="mt-10 text-[2rem] font-semibold leading-[1.15] tracking-tight text-ink sm:text-[2.5rem]">
               See exactly what&apos;s on your ballot.
             </h1>
@@ -343,7 +343,7 @@ function SiteFooter() {
             <span aria-hidden="true">ConvoFi</span>
           </a>
           <a
-            href="https://github.com/Convofi/ballothelper"
+            href="https://github.com/Convofi/seemyballot"
             target="_blank"
             rel="noopener noreferrer"
             className="link inline-flex min-h-11 items-center"

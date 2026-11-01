@@ -12,14 +12,14 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const title = "BallotHelper — See exactly what's on your ballot";
+const title = "See My Ballot — See exactly what's on your ballot";
 const description =
   "Type your address to see every race and measure on your 2026 ballot, where to vote, and what each choice means, with a source for every fact.";
 
 export const metadata: Metadata = {
   title,
   description,
-  openGraph: { title, description, type: "website", siteName: "BallotHelper" },
+  openGraph: { title, description, type: "website", siteName: "See My Ballot" },
 };
 
 // Matches --paper in globals.css so the phone's browser chrome blends in.

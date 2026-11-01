@@ -1,7 +1,7 @@
 # County ballots: research agent brief
 
 You are building the local (county and city) ballot for one metro area for
-BallotHelper, a strictly nonpartisan voter guide, for the **November 3, 2026
+See My Ballot, a strictly nonpartisan voter guide, for the **November 3, 2026
 general election**. Voters type an address and see what is on their ballot.
 Your job is to record, from official election-office sources, every county and
 city contest and measure that **every voter in that county (or city) votes

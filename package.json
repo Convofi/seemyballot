@@ -1,5 +1,5 @@
 {
-  "name": "ballothelper",
+  "name": "seemyballot",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,8 @@
     "check-voting": "node scripts/check-voting.mjs",
     "fetch-positions": "node scripts/fetch-positions.mjs",
     "fetch-nominees": "node scripts/fetch-nominees.mjs",
-    "fetch-finance": "node scripts/fetch-finance.mjs"
+    "fetch-finance": "node scripts/fetch-finance.mjs",
+    "fetch-votes": "node scripts/fetch-votes.mjs"
   },
   "dependencies": {
     "@upstash/redis": "^1.40.0",

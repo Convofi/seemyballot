@@ -1,4 +1,4 @@
-# BallotHelper — Vision & v0 Spec
+# See My Ballot — Vision & v0 Spec
 
 ## The one sentence
 Type your address. See exactly what's on your ballot. Understand every choice in under 60 seconds.

@@ -1,6 +1,6 @@
 # Candidate positions: research agent brief
 
-You are researching one batch of ~30 candidates for BallotHelper, a strictly
+You are researching one batch of ~30 candidates for See My Ballot, a strictly
 nonpartisan voter guide. For each candidate you record what the candidate says
 about themselves on their **own official campaign website**, and nothing else.
 An empty answer is always better than a guessed one.

@@ -1,4 +1,4 @@
-# BallotHelper
+# See My Ballot
 
 Type your address. See exactly what's on your ballot. See [VISION.md](VISION.md).
 

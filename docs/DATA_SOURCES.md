@@ -1,4 +1,4 @@
-# BallotHelper — Data Sources Spike
+# See My Ballot — Data Sources Spike
 
 **Date of spike:** 2026-10-31 (general election 2026-11-03). Every "verified" claim below comes from an HTTP call made on this date; responses are trimmed, not edited.
 

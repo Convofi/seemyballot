@@ -6,7 +6,7 @@ their **own campaign site**. For candidates whose campaign site gave nothing
 excluded), you look for the **candidate's own words hosted somewhere else**:
 their official office site, their own questionnaire answers, their press
 releases, or an op-ed they wrote. The app tells voters where each one came from,
-so the source must be exactly what `source.label` says it is. BallotHelper is
+so the source must be exactly what `source.label` says it is. See My Ballot is
 strictly nonpartisan: an empty answer is always better than a guessed one.
 
 ## Your batch
