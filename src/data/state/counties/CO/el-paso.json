@@ -1,0 +1,224 @@
+{
+  "state": "CO",
+  "county": "El Paso County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf",
+    "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/2026-General-Election-TABOR-Accessible.pdf",
+    "https://clerkandrecorder.elpasoco.com/elections/",
+    "https://www.elpasoco.com/elected-officials/"
+  ],
+  "note": "No candidate filed for County Surveyor, so that office shows no names on the ballot. Not shown: County Commissioner Districts 1 and 5 (elected by district), state legislative and congressional districts, State Board of Education and CU Regent districts, town offices and measures (Green Mountain Falls, Monument, Palmer Lake, Manitou Springs 2A), school district measures (Colorado Springs School District 11, Cheyenne Mountain 4B, Hanover 4C and others), and special district measures (Peyton Fire 6A, Elbert Fire 7B and others). Front Range Passenger Rail District Issue 7A covers only part of El Paso County, so it is not shown. The City of Colorado Springs has no contest or measure on this ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-clerk-schleiker-steve",
+          "name": "Steve Schleiker",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "co-el-paso-2026-clerk-woods-tracie",
+          "name": "Tracie Woods",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-treasurer-broerman-chuck",
+          "name": "Chuck Broerman",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-assessor-traenkle-david",
+          "name": "David 'Muka' Traenkle",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-el-paso-2026-assessor-fuller-becky",
+          "name": "Becky Fuller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-sheriff-montoya-collis-mateo",
+          "name": "Mateo Montoya-Collis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-el-paso-2026-sheriff-roybal-joe",
+          "name": "Joe Roybal",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-coroner-russell-kinsley-emily",
+          "name": "Emily Russell-Kinsley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "District Court Judge, 4th Judicial District — retain Judge William B. Bain? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-district-bain-william",
+          "name": "William B. Bain",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "District Court Judge, 4th Judicial District — retain Judge Hilary Gurney? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-district-gurney-hilary",
+          "name": "Hilary Gurney",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "District Court Judge, 4th Judicial District — retain Judge Dennis L. McGuire? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-district-mcguire-dennis",
+          "name": "Dennis L. McGuire",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "District Court Judge, 4th Judicial District — retain Judge Amanda J. Philipps? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-district-philipps-amanda",
+          "name": "Amanda J. Philipps",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "District Court Judge, 4th Judicial District — retain Judge Erin Lynn Sokol? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-district-sokol-erin",
+          "name": "Erin Lynn Sokol",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "District Court Judge, 4th Judicial District — retain Judge Gregory Robert Werner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-district-werner-gregory",
+          "name": "Gregory Robert Werner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "El Paso County Court Judge — retain Judge Sam Burney? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-county-burney-sam",
+          "name": "Sam Burney",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "El Paso County Court Judge — retain Judge Marika Frady? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-county-frady-marika",
+          "name": "Marika Frady",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "El Paso County Court Judge — retain Judge Meredith Patrick Cord? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-county-cord-meredith",
+          "name": "Meredith Patrick Cord",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    },
+    {
+      "office": "El Paso County Court Judge — retain Judge Ann M. Rotolo? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-el-paso-2026-retain-county-rotolo-ann",
+          "name": "Ann M. Rotolo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "El Paso County Ballot Issue 1A",
+      "title": "Extension of the existing 0.23% public safety sales and use tax",
+      "summary": "Extends El Paso County's existing 0.23% public safety sales and use tax to January 1, 2037, without raising the rate. The revenue may be used only for law enforcement, criminal justice and county jail needs, and wildland fire and emergency response, and the Sheriff's Office must report revenue and spending each year at a public Board of County Commissioners hearing.",
+      "yesMeans": "The existing 0.23% public safety sales and use tax continues until January 1, 2037, for the listed public safety purposes.",
+      "noMeans": "The existing public safety sales and use tax is not extended.",
+      "source": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/SampleBallot_EN_Prod.pdf",
+      "moreInfo": "https://epc-assets.elpasoco.com/wp-content/uploads/sites/5/2026-General-Election-TABOR-Accessible.pdf"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,101 @@
+{
+  "state": "CA",
+  "county": "San Joaquin County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/candidate-roster-(35).pdf?sfvrsn=8b61f2ae_100",
+    "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/candidate-services/offices-up-for-2026-general-election.pdf?sfvrsn=9d3a8055_13",
+    "https://www.sjgov.org/docs/default-source/registrar-of-voters-documents/elections/gubernatorial-general-election-2026/current-election/sj-composite-eng-(1).pdf?sfvrsn=98168b81_1",
+    "https://www.sjgov.org/department/rov/election-information/current_election",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "Not shown: Board of Supervisors and other county offices (none is on the November 3, 2026 ballot; no Superior Court judge contest qualified), Stockton City Council Districts 1, 3 and 5 and other city council districts, the mayor contests in Lathrop, Manteca and Tracy and at-large council seats in Escalon, Lathrop, Mountain House and Ripon, school and community college boards, water, irrigation, fire and other special districts, congressional and legislative districts, and school district measures (Measures G, T, U and V). There is no countywide measure, and the City of Stockton has no citywide office or measure on this ballot. Statewide races and the Supreme Court retention are on the California statewide list. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Administrative Presiding Justice, Court of Appeal, Third District — retain Laurie Earl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-joaquin-2026-coa3-earl-laurie",
+          "name": "Laurie Earl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Lauri Damrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-joaquin-2026-coa3-damrell-lauri",
+          "name": "Lauri Damrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain David B. Sapp? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-joaquin-2026-coa3-sapp-david",
+          "name": "David B. Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Stacy Boulware Eurie? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-joaquin-2026-coa3-eurie-stacy",
+          "name": "Stacy Boulware Eurie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Jonathan Renner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-joaquin-2026-coa3-renner-jonathan",
+          "name": "Jonathan Renner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Aimee A. Feinberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-joaquin-2026-coa3-feinberg-aimee",
+          "name": "Aimee A. Feinberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Shama Mesiwala? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-san-joaquin-2026-coa3-mesiwala-shama",
+          "name": "Shama Mesiwala",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
