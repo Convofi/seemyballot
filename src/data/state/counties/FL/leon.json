@@ -1,0 +1,159 @@
+{
+  "state": "FL",
+  "county": "Leon County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.leonvotes.gov/Candidates/Candidates/Candidate-List",
+    "https://www.leonvotes.gov/Candidates/Elected-Officials",
+    "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+  ],
+  "note": "From the Leon County Supervisor of Elections' candidate list, elected officials page and General Election ballot questions page, which states that all Leon County voters have the 11 ballot questions on their ballot (3 state amendments plus the 8 local questions shown here). Local questions are labeled by their official titles because the numbered sample ballots could not be opened. Not shown: County Commission Districts 3 and 5, School Board District 1, community development district seats, and state legislative and U.S. House districts. Already decided without a November contest: County Judge Seat 5, County Commission District 1, School Board Districts 3 and 5, and Soil and Water Districts 1 and 5. Tallahassee City Commission seats are elected citywide. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Leon County Commission At Large, Group 2",
+      "candidates": [
+        {
+          "key": "fl-leon-2026-commission-at-large-g2-maddox-nick",
+          "name": "Nick Maddox",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "fl-leon-2026-commission-at-large-g2-rashid-mehwish",
+          "name": "Mehwish Rashid",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.leonvotes.gov/Candidates/Candidates/Candidate-List"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Ordinances to Prevail Over Municipal Ordinances",
+      "title": "County Ordinances to Prevail Over Municipal Ordinances",
+      "summary": "Proposed by the Board of County Commissioners, this charter amendment would provide that Leon County ordinances adopted after January 1, 2027 prevail over conflicting city ordinances, to the extent permitted by law. The stated purpose is to let the County set regulations and standards on matters affecting residents in both incorporated and unincorporated areas.",
+      "yesMeans": "County ordinances adopted after January 1, 2027 would prevail over conflicting municipal ordinances, as permitted by law.",
+      "noMeans": "The charter is not amended and the current relationship between county and city ordinances stays as it is.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    },
+    {
+      "id": "Uniform Street Naming, Renaming, and Property Numbering Standards",
+      "title": "Uniform Street Naming, Renaming, and Property Numbering Standards",
+      "summary": "Proposed by the Board of County Commissioners, this charter amendment would provide for uniform countywide street naming, renaming and property numbering standards set by county ordinance. Those standards would prevail over conflicting municipal ordinances, as permitted by law, to support emergency response.",
+      "yesMeans": "Countywide street naming and property numbering standards would be set by county ordinance and prevail over conflicting city rules.",
+      "noMeans": "The charter is not amended to provide for countywide street naming and numbering standards.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    },
+    {
+      "id": "Affirmation of Human Dignity",
+      "title": "Affirmation of Human Dignity",
+      "summary": "Proposed by the Board of County Commissioners, this amendment would change the Preamble of the Leon County Home Rule Charter to affirm the shared dignity of all residents and that it deserves consideration in public affairs. It states that the Charter's existing framework for local self-governance is preserved.",
+      "yesMeans": "The Charter's Preamble is amended to add the affirmation of human dignity.",
+      "noMeans": "The Preamble is not changed.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    },
+    {
+      "id": "Remove and Replace Outdated Statutory References",
+      "title": "Remove and Replace Outdated Statutory References",
+      "summary": "Proposed by the Board of County Commissioners, this charter amendment would remove outdated statutory references about establishing the Charter and specify public hearing and notice requirements for considering charter amendments. It would also require the Citizen Charter Review Committee to submit its recommendations 150 days before the general election.",
+      "yesMeans": "The charter's outdated references are removed, amendment hearing and notice requirements are specified, and the review committee's deadline moves to 150 days before the general election.",
+      "noMeans": "The charter's current references and procedures stay as they are.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    },
+    {
+      "id": "Affirmation of County’s Commitment to Historically Underserved and Vulnerable Populations",
+      "title": "Affirmation of County’s Commitment to Historically Underserved and Vulnerable Populations",
+      "summary": "This charter amendment would provide for a periodic Community Impact Assessment process, public reporting, and Board of County Commissioners review regarding adverse community conditions related to the County's historic laws, policies and practices.",
+      "yesMeans": "The charter would require periodic community impact assessments, public reporting and Board review on these conditions.",
+      "noMeans": "The charter is not amended to add this assessment process.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    },
+    {
+      "id": "School District Referendum Continuing Sales Surtax to Fund School Safety, Technology, Transportation and Facilities Improvements",
+      "title": "School District Referendum Continuing Sales Surtax to Fund School Safety, Technology, Transportation and Facilities Improvements",
+      "summary": "Asks whether the Leon County school district should continue levying a one-half cent sales surtax for ten years. Per the ballot summary, the money would fund school safety and security, technology, transportation and facilities improvements for Leon County schools.",
+      "yesMeans": "The one-half cent school sales surtax continues for ten more years for the listed purposes.",
+      "noMeans": "The one-half cent school sales surtax is not continued by this referendum.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    },
+    {
+      "id": "School Board Ad Valorem Levy to Improve Teacher Compensation, School Safety and School Enrichment Programs",
+      "title": "School Board Ad Valorem Levy to Improve Teacher Compensation, School Safety and School Enrichment Programs",
+      "summary": "Asks whether the Leon County School Board may levy an additional operating property tax of one mill each year from July 1, 2027 through June 30, 2031. Per the ballot summary, the money would raise teacher and staff pay, support school security and fund programs such as arts and athletics, would be shared with eligible charter schools, and spending would be reviewed by a citizens' advisory committee.",
+      "yesMeans": "The School Board may levy one additional mill of property tax a year from July 2027 through June 2031 for the listed purposes.",
+      "noMeans": "The additional one-mill school property tax is not authorized.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    },
+    {
+      "id": "Advisory Referendum to Pursue County-City Consolidation Plan Under Leon County Government Structure and Leadership",
+      "title": "Advisory Referendum to Pursue County-City Consolidation Plan Under Leon County Government Structure and Leadership",
+      "summary": "A nonbinding straw ballot question asking whether Leon County should pursue a plan to consolidate the governments of Leon County and the City of Tallahassee into one government under the Leon County structure and leadership. Any consolidation would still require a special act of the Florida Legislature and voter approval; this question only gauges voter sentiment.",
+      "yesMeans": "Voters indicate support for the County pursuing a county-city consolidation plan; nothing changes on its own.",
+      "noMeans": "Voters indicate opposition to pursuing the plan; nothing changes on its own.",
+      "source": "https://www.leonvotes.gov/Voting/Election-Ready/General-Election-Ballot-Questions"
+    }
+  ],
+  "municipalities": {
+    "Tallahassee": {
+      "contests": [
+        {
+          "office": "Tallahassee City Commission Seat 3",
+          "candidates": [
+            {
+              "key": "fl-leon-2026-tallahassee-seat3-derzypolski-tom",
+              "name": "Tom Derzypolski",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-leon-2026-tallahassee-seat3-perez-pj",
+              "name": "PJ Perez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.leonvotes.gov/Candidates/Candidates/Candidate-List"
+        },
+        {
+          "office": "Tallahassee City Commission Seat 4 (Mayor)",
+          "candidates": [
+            {
+              "key": "fl-leon-2026-tallahassee-mayor-ausley-loranne",
+              "name": "Loranne Elizabeth Ausley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-leon-2026-tallahassee-mayor-matlow-jeremy",
+              "name": "Jeremy Matlow",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.leonvotes.gov/Candidates/Candidates/Candidate-List"
+        },
+        {
+          "office": "Tallahassee City Commission Seat 5",
+          "candidates": [
+            {
+              "key": "fl-leon-2026-tallahassee-seat5-inman-johnson-dot",
+              "name": "Dot Inman-Johnson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-leon-2026-tallahassee-seat5-williams-cox-dianne",
+              "name": "Dianne Williams-Cox",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.leonvotes.gov/Candidates/Candidates/Candidate-List"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

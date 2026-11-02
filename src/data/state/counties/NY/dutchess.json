@@ -1,0 +1,64 @@
+{
+  "state": "NY",
+  "county": "Dutchess County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.dutchessny.gov/wp-content/uploads/2026/09/Candidate-Notice-Website-1.pdf",
+    "https://elections.dutchessny.gov/2026/09/23/general-election-2026-sample-ballots/",
+    "https://elections.dutchessny.gov/wp-content/uploads/2026/09/CITY-OF-POUGHKEEPSIE-W-1-ED-1-C.pdf"
+  ],
+  "note": "From the Dutchess County Board of Elections' certified list of nominations and its election-district sample ballots (Sheriff and Supreme Court appear on all 160 posted sample ballots). New York uses fusion voting: candidates on more than one party line are listed once under their main party. Maria G. Rosa (Democratic and Working Families), George E. Fufidio (Democratic and Republican), Alden H. Wolfe (Democratic and Conservative), Richard S. Fava Pastilha (Republican and Conservative) and Kirk A. Imperati (Republican and Conservative). Not shown: County Legislator Districts 1-25, town and village offices, Poughkeepsie Public Library District trustee and 2027 budget (Proposition 1), town library and bond propositions, and State Senate, Assembly and U.S. House districts. There is no countywide Dutchess County proposition and no City of Poughkeepsie contest or proposition other than the library district items. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 9th Judicial District",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ny-dutchess-2026-supreme-court-rosa-maria",
+          "name": "Maria G. Rosa",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-dutchess-2026-supreme-court-fufidio-george",
+          "name": "George E. Fufidio",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-dutchess-2026-supreme-court-wolfe-alden",
+          "name": "Alden H. Wolfe",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-dutchess-2026-supreme-court-fava-pastilha-richard",
+          "name": "Richard S. Fava Pastilha",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-dutchess-2026-supreme-court-ciampoli-john",
+          "name": "John Ciampoli",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.dutchessny.gov/wp-content/uploads/2026/09/Candidate-Notice-Website-1.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ny-dutchess-2026-sheriff-imperati-kirk",
+          "name": "Kirk A. Imperati",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.dutchessny.gov/wp-content/uploads/2026/09/Candidate-Notice-Website-1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

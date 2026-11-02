@@ -1,0 +1,188 @@
+{
+  "state": "WA",
+  "county": "Yakima County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=39&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Yakima County. Party is the candidate's stated preference. Incumbent flags are not set because we could not check an official roster. Not shown: County Commissioner District 1 (voted on only within the district), legislative and congressional districts, and any local district measures. No countywide Yakima County measure and no City of Yakima office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 3, District 3, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-app3d3-2026-pos1-murphy-megan",
+          "name": "Megan K. Murphy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County Assessor",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-assessor-tate-jacob",
+          "name": "Jacob Tate",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-yakima-2026-assessor-effler-keith",
+          "name": "Keith Effler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County Auditor",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-auditor-ross-charles",
+          "name": "Charles Ross",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-yakima-2026-auditor-cuevas-maria",
+          "name": "Maria Cuevas",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County Clerk",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-clerk-maggard-billie",
+          "name": "Billie A. Maggard",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County Coroner",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-coroner-slight-marshall",
+          "name": "Marshall Slight",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-prosecuting-attorney-haueter-tyler",
+          "name": "Tyler Haueter",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-yakima-2026-prosecuting-attorney-dalan-quinn",
+          "name": "Quinn Dalan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-sheriff-church-jake",
+          "name": "Jake Church",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-yakima-2026-sheriff-kilinkaridis-roman",
+          "name": "Roman Kilinkaridis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-treasurer-patterson-stephanie",
+          "name": "Stephanie Patterson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-yakima-2026-treasurer-johnson-sam",
+          "name": "Sam Johnson",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County District Court Judge Position No. 1",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-district-court-pos1-hintze-gary",
+          "name": "Gary Hintze",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County District Court Judge Position No. 2",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-district-court-pos2-sanderson-brian",
+          "name": "Brian Sanderson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County District Court Judge Position No. 3",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-district-court-pos3-davis-julia",
+          "name": "Julia A. Davis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    },
+    {
+      "office": "Yakima County District Court Judge Position No. 4",
+      "candidates": [
+        {
+          "key": "wa-yakima-2026-district-court-pos4-schweppe-alfred",
+          "name": "Alfred G. Schweppe",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=39"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

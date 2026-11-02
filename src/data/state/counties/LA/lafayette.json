@@ -1,0 +1,23 @@
+{
+  "state": "LA",
+  "county": "Lafayette Parish",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=29&parishName=LAFAYETTE",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 131 Lafayette Parish precincts; District Attorney is the only local contest on every precinct ballot. Unopposed candidates were declared elected and do not appear on the ballot (15th Judicial District Court ES 1 Divisions B and D, ES 2 Division E, ES 3 Divisions H, K and L; Lafayette City Court Division A judge and City Marshal). Not shown because they depend on where you live: 15th Judicial District Court Election Section 3 Divisions I and M, Lafayette City Court Division B judge (on the ballot only within the court's jurisdiction, which does not match city limits), School Board District 2, and races in Broussard, Carencro, Duson, Scott and Youngsville. There is no parishwide proposition and no City of Lafayette question. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Attorney, 15th Judicial District",
+      "candidates": [
+        { "key": "la-lafayette-2026-da-earles-kristian", "name": "Kristian Earles", "party": "Republican", "incumbent": false },
+        { "key": "la-lafayette-2026-da-landry-donald", "name": "Donald \"Don\" Landry", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=29&parishName=LAFAYETTE"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

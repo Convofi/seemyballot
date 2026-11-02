@@ -1,0 +1,200 @@
+{
+  "state": "UT",
+  "county": "Weber County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf",
+    "https://www.weberelections.gov/2026elections"
+  ],
+  "note": "From the Weber County Clerk/Auditor's official notice of general election and sample ballot. Gary C. New is listed with the Forward Party and is shown as Other. Incumbent flags are set only for judges standing for retention. Not shown because they depend on where you live: State Board of Education, Ogden and Weber school board districts, the Roy/Weber County Justice Court and other city justice court retentions outside Ogden, and the Roy City referendum (Proposition #10). Weber County has no countywide proposition in 2026. Supreme Court and Court of Appeals retention questions appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commission Seat A",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-commission-a-new-gary",
+          "name": "Gary C. New",
+          "party": "Other",
+          "incumbent": false
+        },
+        {
+          "key": "ut-weber-2026-commission-a-thurgood-alvin",
+          "name": "Alvin Thurgood",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ut-weber-2026-commission-a-kearsley-duane",
+          "name": "Duane D Kearsley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "County Commission Seat B",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-commission-b-beesley-jon",
+          "name": "Jon D. Beesley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-assessor-preisler-jared",
+          "name": "Jared L. Preisler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-attorney-allred-chris",
+          "name": "Chris F Allred",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "County Clerk/Auditor",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-clerk-auditor-hatch-ricky",
+          "name": "Ricky Hatch",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-sheriff-arbon-ryan",
+          "name": "Ryan Arbon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Second Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-dist2-nelson-jason",
+          "name": "Jason Craig Nelson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Second Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-dist2-valencia-jennifer",
+          "name": "Jennifer Lyn Valencia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Second Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-dist2-rawson-eldred",
+          "name": "Eldred Blaine Rawson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Second Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-juv2-westmoreland-rick",
+          "name": "Rick Westmoreland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Second Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-juv2-neill-robert",
+          "name": "Robert Garrett Neill",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Second Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-weber-2026-juv2-noland-jeffrey",
+          "name": "Jeffrey J. Noland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Ogden": {
+      "contests": [
+        {
+          "office": "Judge of the North Ogden City and Ogden City Justice Courts (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-weber-2026-ogden-justice-junk-junk-michael",
+              "name": "Michael Sam Junk",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+        },
+        {
+          "office": "Judge of the Ogden City Justice Court (retention: vote Yes or No)",
+          "candidates": [
+            {
+              "key": "ut-weber-2026-ogden-justice-stucki-stucki-clay",
+              "name": "Clay W. Stucki",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.weberelections.gov/_files/ugd/7e3a53_36d84f3d78cd464ab332a2573c13ca6e.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

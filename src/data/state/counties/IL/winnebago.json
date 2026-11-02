@@ -1,0 +1,153 @@
+{
+  "state": "IL",
+  "county": "Winnebago County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://wincoil.gov/media/attachments/2026/09/25/november-2026-candidate-list.pdf",
+    "https://wincoil.gov/media/attachments/2026/10/03/sample-ballot.pdf",
+    "https://wincoil.gov/media/attachments/2026/08/27/questions-nov-3-2026-2.pdf",
+    "https://wincoil.gov/media/attachments/2026/09/16/write-in-nov-3-2026.pdf",
+    "https://wincoil.gov/departments/clerks-office/election-information",
+    "https://wincoil.gov/departments/treasurer",
+    "https://wincoil.gov/departments/county-clerk"
+  ],
+  "note": "From the Winnebago County Clerk's specimen ballot, candidate list and referenda list. Not shown: County Board districts, Regional Superintendent of Schools (Winnebago voters are split among more than one regional office of education), 17th Judicial Circuit subcircuit vacancies (First Subcircuit, Lowry vacancy; Second Subcircuit, Doherty vacancy), Congress and state legislature, and the Pecatonica Fire Protection District tax rate question. The County Clerk's candidate list and referenda list include no City of Rockford offices or questions. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Winnebago County Clerk",
+      "candidates": [
+        {
+          "key": "il-winnebago-2026-clerk-gummow-lori",
+          "name": "Lori Gummow",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wincoil.gov/media/attachments/2026/09/25/november-2026-candidate-list.pdf"
+    },
+    {
+      "office": "Winnebago County Treasurer",
+      "candidates": [
+        {
+          "key": "il-winnebago-2026-treasurer-grennan-theresa",
+          "name": "Theresa Grennan",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wincoil.gov/media/attachments/2026/09/25/november-2026-candidate-list.pdf"
+    },
+    {
+      "office": "Winnebago County Sheriff",
+      "candidates": [
+        {
+          "key": "il-winnebago-2026-sheriff-caruana-gary",
+          "name": "Gary Caruana",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-winnebago-2026-sheriff-barcellona-dominick",
+          "name": "Dominick Barcellona",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wincoil.gov/media/attachments/2026/09/25/november-2026-candidate-list.pdf"
+    },
+    {
+      "office": "Forest Preserve Commissioner (vote for not more than two)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "il-winnebago-2026-forest-preserve-johnson-eric",
+          "name": "Eric Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "il-winnebago-2026-forest-preserve-kallstrom-george",
+          "name": "George Kallstrom",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "il-winnebago-2026-forest-preserve-maggio-cheryl",
+          "name": "Cheryl A. Maggio",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "il-winnebago-2026-forest-preserve-tilly-jeff",
+          "name": "Jeff Tilly",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wincoil.gov/media/attachments/2026/10/03/sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 17th Judicial Circuit — retain Judge Lisa R. Fabiano? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-winnebago-2026-retain-circuit-fabiano-lisa",
+          "name": "Lisa R. Fabiano",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wincoil.gov/media/attachments/2026/10/03/sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 17th Judicial Circuit — retain Judge Gwyn Gulley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-winnebago-2026-retain-circuit-gulley-gwyn",
+          "name": "Gwyn Gulley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wincoil.gov/media/attachments/2026/10/03/sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 17th Judicial Circuit — retain Judge Ronald J. \"Ron\" White? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-winnebago-2026-retain-circuit-white-ronald",
+          "name": "Ronald J. \"Ron\" White",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wincoil.gov/media/attachments/2026/10/03/sample-ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Advisory Question: Voting Qualifications",
+      "title": "Non-binding advisory question concerning voting qualifications",
+      "summary": "Asks whether Illinois law should be changed to require voters to provide a valid photo identification once, either when registering to vote or before voting for the first time, while ensuring all eligible citizens can get that identification free of charge. The question is advisory only and does not change any law.",
+      "yesMeans": "You support the change described in this advisory question.",
+      "noMeans": "You do not support the change described in this advisory question.",
+      "source": "https://wincoil.gov/media/attachments/2026/08/27/questions-nov-3-2026-2.pdf"
+    },
+    {
+      "id": "Advisory Question: Redistricting",
+      "title": "Non-binding advisory question concerning the redistricting process for state legislative maps",
+      "summary": "Asks whether state legislative districts should be compact, contiguous and equal in population, and drawn by a non-partisan commission instead of elected officials, without considering party registration and voting history data. The question is advisory only and does not change any law.",
+      "yesMeans": "You support the change described in this advisory question.",
+      "noMeans": "You do not support the change described in this advisory question.",
+      "source": "https://wincoil.gov/media/attachments/2026/08/27/questions-nov-3-2026-2.pdf"
+    },
+    {
+      "id": "Advisory Question: Property Tax Relief",
+      "title": "Non-binding advisory question concerning property tax relief",
+      "summary": "Asks whether the Illinois General Assembly should pass legislation to cap and lower local property taxes and provide state funding to local governments that agree to reduce property tax levies. The question is advisory only and does not change any law.",
+      "yesMeans": "You support the change described in this advisory question.",
+      "noMeans": "You do not support the change described in this advisory question.",
+      "source": "https://wincoil.gov/media/attachments/2026/08/27/questions-nov-3-2026-2.pdf"
+    }
+  ],
+  "municipalities": {}
+}

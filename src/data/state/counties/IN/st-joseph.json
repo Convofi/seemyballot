@@ -1,0 +1,105 @@
+{
+  "state": "IN",
+  "county": "St. Joseph County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 1, County Council Districts A, B, C, E and H, township races, and school board races. We could not confirm from an official St. Joseph County sample ballot whether the commissioner race is voted on countywide, because the county election site could not be reached; any St. Joseph Superior Court retention questions could not be verified either. South Bend city offices are not on the 2026 ballot (next elected in 2027). The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. St. Joseph is in the Court of Appeals Third District, which has no judge on the 2026 ballot. Incumbent status is not marked because the county's roster could not be reached. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Prosecuting Attorney, 60th Judicial Circuit (St. Joseph County)",
+      "candidates": [
+        {
+          "key": "in-st-joseph-2026-prosecutor-cressy-amy",
+          "name": "Amy Suzanne Cressy",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-st-joseph-2026-prosecutor-maciejczyk-john",
+          "name": "John Michael Maciejczyk",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "St. Joseph County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-st-joseph-2026-clerk-ball-stephanie",
+          "name": "Stephanie Ball",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-st-joseph-2026-clerk-rolfes-amy",
+          "name": "Amy Rolfes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "St. Joseph County Auditor",
+      "candidates": [
+        {
+          "key": "in-st-joseph-2026-auditor-kaylor-autumn",
+          "name": "Autumn Kaylor",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-st-joseph-2026-auditor-doyle-abby",
+          "name": "Abby Doyle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "St. Joseph County Sheriff",
+      "candidates": [
+        {
+          "key": "in-st-joseph-2026-sheriff-ruszkowski-scott",
+          "name": "Scott Ruszkowski",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-st-joseph-2026-sheriff-laureys-rod",
+          "name": "Rod Laureys",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "St. Joseph County Assessor",
+      "candidates": [
+        {
+          "key": "in-st-joseph-2026-assessor-cummings-victor",
+          "name": "Victor Cummings",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-st-joseph-2026-assessor-castellon-mike",
+          "name": "Mike Castellon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

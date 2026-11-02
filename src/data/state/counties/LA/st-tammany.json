@@ -1,0 +1,117 @@
+{
+  "state": "LA",
+  "county": "St. Tammany Parish",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=53&parishName=ST.%20TAMMANY",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 171 St. Tammany Parish precincts; the contests shown appear on every precinct ballot. Unopposed candidates were declared elected and do not appear on the ballot: District Attorney (Collin Sims), Associate Justice of the Supreme Court 1st District, and 22nd Judicial District Court Divisions A, B, C, D, F, I, J, K and L. PSC District 1 and BESE District 1 are state district offices. Not shown because they depend on where you live: East St. Tammany City Court judge and marshal, School Board districts, Justices of the Peace and Constables, town races in Abita Springs, Pearl River and Folsom, Covington City Council District A, and the Drainage District No. 4 parcel fee. There is no parishwide proposition. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Judge, 22nd Judicial District Court, Division E",
+      "candidates": [
+        {
+          "key": "la-sttammany-2026-22jdc-dive-echols-michele",
+          "name": "Michele Moore Echols",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-22jdc-dive-mary-cameron",
+          "name": "Cameron Mary",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=53&parishName=ST.%20TAMMANY"
+    },
+    {
+      "office": "District Judge, 22nd Judicial District Court, Division G",
+      "candidates": [
+        {
+          "key": "la-sttammany-2026-22jdc-divg-clayton-ben",
+          "name": "\"Ben\" Clayton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-22jdc-divg-cuccia-jason",
+          "name": "Jason Cuccia",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-22jdc-divg-jones-theophile",
+          "name": "Theophile \"Theo\" Jones",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-22jdc-divg-trosclair-amanda",
+          "name": "Amanda A. Trosclair",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-22jdc-divg-valuri-angelina",
+          "name": "Angelina Valuri",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=53&parishName=ST.%20TAMMANY"
+    },
+    {
+      "office": "District Judge, 22nd Judicial District Court, Division H",
+      "candidates": [
+        {
+          "key": "la-sttammany-2026-22jdc-divh-germany-whitney",
+          "name": "Whitney Germany",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-22jdc-divh-lancaster-luke",
+          "name": "Luke Lancaster",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=53&parishName=ST.%20TAMMANY"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "la-sttammany-2026-sheriff-hodges-robert",
+          "name": "Robert Hodges",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-sheriff-illing-scott",
+          "name": "Scott Illing",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-sheriff-maki-david",
+          "name": "David Maki",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "la-sttammany-2026-sheriff-seuzeneau-daniel",
+          "name": "Daniel Seuzeneau",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=53&parishName=ST.%20TAMMANY"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

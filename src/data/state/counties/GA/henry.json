@@ -1,0 +1,44 @@
+{
+  "state": "GA",
+  "county": "Henry County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://content.civicplus.com/api/assets/ga-henrycounty/0337ba6c-42e3-417c-9fd7-e20386bdcf1a?cache=1800",
+    "https://content.civicplus.com/api/assets/ga-henrycounty/992dd78b-a050-492d-9bb1-0db88655368e?cache=1800",
+    "https://content.civicplus.com/api/assets/ga-henrycounty/c4e47fc3-d283-43a9-b5f0-e94bc57a6e0d?cache=1800",
+    "https://www.henrycountyga.gov/elections-public-announcements-notices"
+  ],
+  "note": "From the Henry County composite sample ballot, which marks incumbents with (I). Not shown because they depend on your district or city: County Commission Districts 3, 4 and 5, state legislative and U.S. House districts, the City of McDonough package sales of distilled spirits question, and the City of Hampton homestead exemption question. Commission Chair, Sheriff, Clerk of Superior Court, Tax Commissioner, District Attorney, Probate Judge and judicial races are not on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Henry County Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        { "key": "ga-henry-2026-soilwater-johnson-kyrishia", "name": "Kyrishia R. Johnson", "party": "Nonpartisan", "incumbent": true },
+        { "key": "ga-henry-2026-soilwater-patterson-george", "name": "George Patterson", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://content.civicplus.com/api/assets/ga-henrycounty/0337ba6c-42e3-417c-9fd7-e20386bdcf1a?cache=1800"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Special Election",
+      "title": "Reimposition of the Henry County Special District Mass Transportation Sales Tax (TSPLOST) Referendum",
+      "summary": "Asks whether to reimpose a special 1% sales and use tax in the special district of Henry County for up to six years to raise up to an estimated $330,000,000 for transportation purposes and projects of Henry County and the cities of Hampton, Locust Grove, McDonough and Stockbridge, as provided in an intergovernmental agreement. Approval would also authorize Henry County to issue up to $80,000,000 in general obligation debt for the Henry County projects.",
+      "yesMeans": "The 1% transportation sales tax is reimposed for up to six years and the county may issue up to $80 million in general obligation debt for its projects.",
+      "noMeans": "The transportation sales tax is not reimposed and the debt is not authorized.",
+      "source": "https://content.civicplus.com/api/assets/ga-henrycounty/0337ba6c-42e3-417c-9fd7-e20386bdcf1a?cache=1800",
+      "moreInfo": "https://content.civicplus.com/api/assets/ga-henrycounty/c4e47fc3-d283-43a9-b5f0-e94bc57a6e0d?cache=1800"
+    },
+    {
+      "id": "Henry County Floating Local Option Sales Tax (FLOST) Referendum",
+      "title": "Floating Local Option Sales Tax (FLOST) to lower property taxes",
+      "summary": "Asks whether to impose a special 1% sales and use tax for five years within the special district of Henry County, with the proceeds used only to lower property taxes imposed by Henry County and the cities of Hampton, Locust Grove, McDonough and Stockbridge.",
+      "yesMeans": "A 1% sales tax is imposed for five years and its proceeds are used to lower county and city property taxes.",
+      "noMeans": "The FLOST is not imposed.",
+      "source": "https://content.civicplus.com/api/assets/ga-henrycounty/0337ba6c-42e3-417c-9fd7-e20386bdcf1a?cache=1800",
+      "moreInfo": "https://content.civicplus.com/api/assets/ga-henrycounty/992dd78b-a050-492d-9bb1-0db88655368e?cache=1800"
+    }
+  ],
+  "municipalities": {}
+}
