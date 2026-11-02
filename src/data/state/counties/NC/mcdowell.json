@@ -1,0 +1,158 @@
+{
+  "state": "NC",
+  "county": "McDowell County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): McDowell County Board of Education Glenwood District; McDowell County Board of Education Marion District; McDowell County Board of Education Nebo District; McDowell County Board of Education Pleasant Gardens District; also state legislative and U.S. House districts. Check your official sample ballot for those. Marion city offices are not on the 2026 ballot. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 41, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-district-court-seat-01-martelle-robert",
+          "name": "Robert K. Martelle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 41, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-district-court-seat-02-mcentire-ann",
+          "name": "Michelle McEntire",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 41, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-district-court-seat-03-shelley-ellen",
+          "name": "Ellen M. Shelley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 41",
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-district-attorney-norris-david",
+          "name": "David Norris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "McDowell County Board of Commissioners",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-commissioner-brown-tony",
+          "name": "Tony G. Brown",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mcdowell-2026-commissioner-allison-christopher",
+          "name": "Chris Allison",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mcdowell-2026-commissioner-walker-david",
+          "name": "David Walker",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mcdowell-2026-commissioner-english-terry",
+          "name": "Terry English",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mcdowell-2026-commissioner-tenery-stephanie",
+          "name": "Stephanie Tenery",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mcdowell-2026-commissioner-suttles-john",
+          "name": "Matt Suttles",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "McDowell County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-clerk-superior-court-adams-melissa",
+          "name": "Melissa Holland Adams",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "McDowell County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-sheriff-mace-nathan",
+          "name": "Nathan Mace",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "McDowell Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-mcdowell-2026-mcdowell-soil-water-brackett-robert",
+          "name": "Neil Brackett",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-mcdowell-2026-mcdowell-soil-water-banner-stephen",
+          "name": "Stephen Banner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "McDowell County Local Sales and Use Tax Referendum",
+      "title": "McDowell County Local Sales and Use Tax",
+      "summary": "Asks whether McDowell County should levy a local sales and use tax at the rate of one-quarter percent (0.25%) in addition to all other State and local sales and use taxes.",
+      "yesMeans": "The additional 0.25% local sales and use tax may be levied in McDowell County.",
+      "noMeans": "The additional local sales and use tax is not levied.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {}
+}

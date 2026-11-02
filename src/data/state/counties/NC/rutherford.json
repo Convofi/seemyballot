@@ -1,0 +1,179 @@
+{
+  "state": "NC",
+  "county": "Rutherford County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Rutherford County Board of Commissioners District 1; Rutherford County Board of Commissioners District 4; Rutherford County Board of Commissioners District 5; Rutherford County Board of Education District 1; Rutherford County Board of Education District 2; Rutherford County Board of Education District 3; Town of Bostic Mayor; Town of Bostic Commissioner; Chimney Rock Village Councilman; Town of Ellenboro Aldermen; Town of Lake Lure Mayor; Town of Lake Lure Commissioner; Town of Rutherfordton Mayor; Town of Rutherfordton Councilman; Town of Spindale Mayor; Town of Spindale Commissioner; Town of Spindale Commissioner (Unexpired Term); also state legislative and U.S. House districts. Check your official sample ballot for those. The only referendums in Rutherford County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 41, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-rutherford-2026-district-court-seat-01-martelle-robert",
+          "name": "Robert K. Martelle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 41, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-rutherford-2026-district-court-seat-02-mcentire-ann",
+          "name": "Michelle McEntire",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 41, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-rutherford-2026-district-court-seat-03-shelley-ellen",
+          "name": "Ellen M. Shelley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 41",
+      "candidates": [
+        {
+          "key": "nc-rutherford-2026-district-attorney-norris-david",
+          "name": "David Norris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rutherford County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-rutherford-2026-clerk-superior-court-owens-steve",
+          "name": "Steve H. Owens",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rutherford County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-rutherford-2026-sheriff-ellenburg-james",
+          "name": "Aaron Ellenburg",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rutherford Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-rutherford-2026-rutherford-soil-water-darnell-cathy",
+          "name": "Cathy Darnell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rutherford-2026-rutherford-soil-water-buckley-shannon",
+          "name": "Shannon Buckley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rutherford-2026-rutherford-soil-water-amorello-terrayle",
+          "name": "Mortellus Amorello",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rutherford-2026-rutherford-soil-water-hines-reginald",
+          "name": "Reggie Hines",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rutherford-2026-rutherford-soil-water-green-william",
+          "name": "Clint Green",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Forest City": {
+      "contests": [
+        {
+          "office": "Town of Forest City Mayor",
+          "candidates": [
+            {
+              "key": "nc-rutherford-2026-town-of-forest-city-mayor-holland-steve",
+              "name": "Steve Holland",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-rutherford-2026-town-of-forest-city-mayor-mccurry-kimberly",
+              "name": "Kimberly (SunShine) McCurry",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        },
+        {
+          "office": "Town of Forest City Commissioner",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "nc-rutherford-2026-town-of-forest-city-commissioner-bennett-john",
+              "name": "John Mark Bennett",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-rutherford-2026-town-of-forest-city-commissioner-duncan-john",
+              "name": "Marc Duncan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-rutherford-2026-town-of-forest-city-commissioner-haulk-anastasia",
+              "name": "Anastasia Haulk",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-rutherford-2026-town-of-forest-city-commissioner-ramsey-carl",
+              "name": "Carl Ramsey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

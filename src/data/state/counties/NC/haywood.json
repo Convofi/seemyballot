@@ -1,0 +1,203 @@
+{
+  "state": "NC",
+  "county": "Haywood County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Haywood County Board of Education Bethel District; Haywood County Board of Education Clyde District; Haywood County Board of Education Crabtree-Ironduff District; Haywood County Board of Education Fines Creek District; Haywood - Junaluska Sanitary District; Haywood - Maggie Valley Sanitary District; also state legislative and U.S. House districts. Check your official sample ballot for those. Waynesville town offices are not on the 2026 ballot. The only referendums in Haywood County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 43B, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-superior-court-seat-01-wijewickrama-roy",
+          "name": "Roy Wijewickrama",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 43, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-district-court-seat-01-forga-donna",
+          "name": "Donna Forga",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 43, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-district-court-seat-02-greene-justin",
+          "name": "Justin B. Greene",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 43, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-district-court-seat-03-jones-william",
+          "name": "William (Bill) Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 43",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-district-attorney-welch-ashley",
+          "name": "Ashley Hornsby Welch",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Haywood County Board of Commissioners",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-commissioner-burnette-david",
+          "name": "David Burnette",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-commissioner-stines-jeffrey",
+          "name": "Jeff Stines",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-commissioner-long-thomas",
+          "name": "Tommy Long",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-commissioner-sorrells-michael",
+          "name": "Michael T. Sorrells",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-commissioner-pugh-carly",
+          "name": "Carly Pugh",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-commissioner-hyatt-vicki",
+          "name": "Vicki Hyatt",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-commissioner-hart-blake",
+          "name": "Blake T. Hart",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Haywood County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-clerk-superior-court-haynes-jeffery",
+          "name": "Jeff Haynes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Haywood County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-register-of-deeds-moore-stacy",
+          "name": "Stacy Cutshaw Moore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Haywood County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-sheriff-mease-mark",
+          "name": "Mark E. Mease",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-sheriff-howell-tyler",
+          "name": "Tyler J. Howell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Haywood County Tax Collector",
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-tax-collector-west-gregory",
+          "name": "Greg West",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Haywood Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-haywood-2026-haywood-soil-water-boyd-charles",
+          "name": "Charles Boyd",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-haywood-soil-water-morrow-william",
+          "name": "Will Morrow",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-haywood-2026-haywood-soil-water-knight-jason",
+          "name": "Jason Knight",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

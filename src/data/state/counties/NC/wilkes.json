@@ -1,0 +1,131 @@
+{
+  "state": "NC",
+  "county": "Wilkes County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Town of Elkin Commissioner; Town of Ronda Mayor (Unexpired Term); Town of Ronda Board of Commissioners; Town of Ronda Board of Commissioners (Unexpired Term); also state legislative and U.S. House districts. Check your official sample ballot for those. Wilkesboro and North Wilkesboro town offices are not on the 2026 ballot. The only referendums in Wilkes County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 34, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-district-court-seat-01-crumpton-robert",
+          "name": "Robert (Rob) Crumpton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 34, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-district-court-seat-02-warren-andrew",
+          "name": "Andrew Warren",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 34, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-district-court-seat-03-luffman-laura",
+          "name": "Laura Byrd Luffman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 34",
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-district-attorney-bollinger-lee",
+          "name": "Lee Boone Bollinger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wilkes County Board of Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-commissioner-elmore-giddeon",
+          "name": "G. Keith Elmore",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wilkes-2026-commissioner-greene-howard",
+          "name": "H. S. Greene",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wilkes-2026-commissioner-woodie-billy",
+          "name": "Joe Woodie",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wilkes County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-clerk-superior-court-billings-regina",
+          "name": "Regina C. Billings",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wilkes County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-sheriff-shew-chris",
+          "name": "Chris Shew",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wilkes Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-wilkes-2026-wilkes-soil-water-shew-claude",
+          "name": "Claude Shew, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wilkes-2026-wilkes-soil-water-parker-brian",
+          "name": "Brian Lee Parker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

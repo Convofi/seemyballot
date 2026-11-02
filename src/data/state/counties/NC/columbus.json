@@ -1,0 +1,151 @@
+{
+  "state": "NC",
+  "county": "Columbus County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Columbus County Board of Commissioners District 1; Columbus County Board of Commissioners District 6; Columbus County Board of Commissioners District 7; Columbus County Schools Board of Education District 2; Columbus County Schools Board of Education District 3; Columbus County Schools Board of Education District 4; Whiteville City Schools Board of Education At-Large; Whiteville City Schools Board of Education District 1; Whiteville City Schools Board of Education District 2; also state legislative and U.S. House districts. Check your official sample ballot for those. Whiteville city offices are not on the 2026 ballot. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 15, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-columbus-2026-district-court-seat-02-wilson-bryan",
+          "name": "Bryan D. Wilson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 15, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-columbus-2026-district-court-seat-05-callihan-willie",
+          "name": "Will M. Callihan, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 15, Seat 7",
+      "candidates": [
+        {
+          "key": "nc-columbus-2026-district-court-seat-07-mcpherson-sarah",
+          "name": "Sarah McPherson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 15",
+      "candidates": [
+        {
+          "key": "nc-columbus-2026-district-attorney-somers-james",
+          "name": "J.K. Somers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Columbus County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-columbus-2026-clerk-superior-court-hill-jesse",
+          "name": "Jess Hill",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Columbus County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-columbus-2026-sheriff-rogers-william",
+          "name": "W. A. (Bill) Rogers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Columbus Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-columbus-2026-columbus-soil-water-formyduval-lanny",
+          "name": "Lanny Formyduval",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-columbus-2026-columbus-soil-water-beatty-latoya",
+          "name": "Latoya Beatty",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-columbus-2026-columbus-soil-water-malpass-james",
+          "name": "Jimmy Malpass",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-columbus-2026-columbus-soil-water-galloway-arthur",
+          "name": "Frank Galloway",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Columbus County Malt Beverage Election",
+      "title": "Columbus County Malt Beverage Election",
+      "summary": "Asks Columbus County voters whether to permit the \"on-premises\" and \"off-premises\" sale of malt beverages in the county.",
+      "yesMeans": "The \"on-premises\" and \"off-premises\" sale of malt beverages is permitted in Columbus County.",
+      "noMeans": "This election does not authorize the \"on-premises\" and \"off-premises\" sale of malt beverages.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    },
+    {
+      "id": "Columbus County Unfortified Wine Election",
+      "title": "Columbus County Unfortified Wine Election",
+      "summary": "Asks Columbus County voters whether to permit the \"on-premises\" and \"off-premises\" sale of unfortified wine in the county.",
+      "yesMeans": "The \"on-premises\" and \"off-premises\" sale of unfortified wine is permitted in Columbus County.",
+      "noMeans": "This election does not authorize the \"on-premises\" and \"off-premises\" sale of unfortified wine.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    },
+    {
+      "id": "Columbus County Mixed Beverage Election",
+      "title": "Columbus County Mixed Beverage Election",
+      "summary": "Asks Columbus County voters whether to permit the sale of mixed beverages in hotels, restaurants, private clubs, community theatres and convention centers, and the \"on-premises\" and \"off-premises\" sale of malt beverages and unfortified wine in qualified establishments in the county.",
+      "yesMeans": "The sale of mixed beverages in hotels, restaurants, private clubs, community theatres and convention centers, and the \"on-premises\" and \"off-premises\" sale of malt beverages and unfortified wine in qualified establishments is permitted in Columbus County.",
+      "noMeans": "This election does not authorize the sale of mixed beverages in hotels, restaurants, private clubs, community theatres and convention centers, and the \"on-premises\" and \"off-premises\" sale of malt beverages and unfortified wine in qualified establishments.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    },
+    {
+      "id": "Columbus County Local Sales and Use Tax Referendum",
+      "title": "Columbus County Local Sales and Use Tax",
+      "summary": "Asks whether Columbus County should levy a local sales and use tax at the rate of one-quarter percent (0.25%) in addition to all other State and local sales and use taxes.",
+      "yesMeans": "The additional 0.25% local sales and use tax may be levied in Columbus County.",
+      "noMeans": "The additional local sales and use tax is not levied.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {}
+}

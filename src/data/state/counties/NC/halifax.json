@@ -1,0 +1,100 @@
+{
+  "state": "NC",
+  "county": "Halifax County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Halifax - Fishing Creek Soil and Water Conservation District; Weldon City Schools Board of Education; also state legislative and U.S. House districts. Check your official sample ballot for those. Roanoke Rapids city offices are not on the 2026 ballot. The only referendums in Halifax County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "District Attorney, District 7",
+      "candidates": [
+        {
+          "key": "nc-halifax-2026-district-attorney-scott-kim",
+          "name": "Kim Gourrier Scott",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Halifax County Board of Commissioners At-Large",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-halifax-2026-commissioner-at-large-few-tyus",
+          "name": "Tyus S. Few",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-halifax-2026-commissioner-at-large-davis-chenoa",
+          "name": "Chenoa Richardson Davis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-halifax-2026-commissioner-at-large-bryant-vernon",
+          "name": "Vernon J. Bryant",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-halifax-2026-commissioner-at-large-whichard-john",
+          "name": "John Whichard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-halifax-2026-commissioner-at-large-webb-sammy",
+          "name": "Sammy Davis Webb",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-halifax-2026-commissioner-at-large-hasty-charlie",
+          "name": "Chuck Hasty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Halifax County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-halifax-2026-clerk-superior-court-kidd-christopher",
+          "name": "Chris Kidd",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Halifax County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-halifax-2026-sheriff-davis-m-bechi",
+          "name": "Tyree Davis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-halifax-2026-sheriff-story-tracy",
+          "name": "Tracy Story",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

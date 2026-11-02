@@ -1,0 +1,161 @@
+{
+  "state": "NC",
+  "county": "Beaufort County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://beaufortncboe.org/article/sample-ballots-available-online-november-3rd-2026-general-election"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Beaufort County Board of Education District 2; Beaufort County Board of Education District 4; Beaufort County Board of Education District 6; Beaufort County Board of Education District 8; also state legislative and U.S. House districts. Check your official sample ballot for those. Beaufort County's official sample ballots instruct voters to vote for ONE candidate in the Board of Commissioners contest (four candidates are listed). Washington city offices are not on the 2026 ballot. The only referendums in Beaufort County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 2, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-superior-court-seat-01-parker-regina",
+          "name": "Regina Rodgers Parker",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-superior-court-seat-01-pafford-jerauld",
+          "name": "Jerauld Brian Pafford",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 2, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-district-court-seat-01-cayton-darrell",
+          "name": "Darrell B. Cayton, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 2, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-district-court-seat-02-williams-lloyd",
+          "name": "Lloyd Williams",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-district-court-seat-02-phelps-david",
+          "name": "D. Cole Phelps",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 2",
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-district-attorney-anglim-thomas",
+          "name": "Tom Anglim",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Beaufort County Board of Commissioners",
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-commissioner-edwards-john",
+          "name": "John T. Edwards",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-commissioner-deatherage-william",
+          "name": "Stan Deatherage",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-commissioner-woolard-ashley",
+          "name": "Ashley Woolard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-commissioner-booth-edwin",
+          "name": "Ed Booth",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Beaufort County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-clerk-superior-court-gravely-sherry",
+          "name": "Sherry Gravely",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Beaufort County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-sheriff-hammonds-arnold",
+          "name": "Scott Hammonds",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-sheriff-dixon-corey",
+          "name": "Corey Dixon",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Beaufort Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-beaufort-2026-beaufort-soil-water-philipps-adam",
+          "name": "Adam Philipps",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-beaufort-soil-water-howell-forrest",
+          "name": "Forrest Howell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-beaufort-2026-beaufort-soil-water-griffin-steven",
+          "name": "Archie Griffin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

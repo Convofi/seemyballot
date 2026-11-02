@@ -1,0 +1,142 @@
+{
+  "state": "NC",
+  "county": "Franklin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Franklin County Board of Commissioners District 2; Franklin County Board of Commissioners District 4; Franklin County Board of Education District 1; Franklin County Board of Education District 3; Franklin County Board of Education District 5; also state legislative and U.S. House districts. Check your official sample ballot for those. Louisburg town offices are not on the 2026 ballot. The only referendums in Franklin County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 11, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-superior-court-seat-01-dunlow-john",
+          "name": "John M. Dunlow",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 11, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-superior-court-seat-02-sturges-cynthia",
+          "name": "Cindy Sturges",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 11",
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-district-attorney-waters-michael",
+          "name": "Mike Waters",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Franklin County Board of Commissioners At-Large Seat 6",
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-commissioner-at-large-seat-06-foy-harry",
+          "name": "Harry Foy",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-franklin-2026-commissioner-at-large-seat-06-newell-milltrene",
+          "name": "Milltrene Brodie Newell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Franklin County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-clerk-superior-court-dickerson-shelley",
+          "name": "Shelley Dickerson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-franklin-2026-clerk-superior-court-jones-george",
+          "name": "George Jones",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Franklin County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-sheriff-white-kevin",
+          "name": "Kevin White",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-franklin-2026-sheriff-gupton-timothy",
+          "name": "Tim Gupton",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Franklin County Board of Education At-Large Seat 7",
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-board-of-education-at-large-seat-07-sayles-paige",
+          "name": "Paige Sayles",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-franklin-2026-board-of-education-at-large-seat-07-paylor-jennifer",
+          "name": "Jennifer Paylor",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Franklin Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-franklin-2026-franklin-soil-water-champion-seth",
+          "name": "Seth Champion",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-franklin-2026-franklin-soil-water-may-ricky",
+          "name": "Ricky May",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

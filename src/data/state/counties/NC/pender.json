@@ -1,0 +1,154 @@
+{
+  "state": "NC",
+  "county": "Pender County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Pender County Board of Commissioners District 1; Pender County Board of Commissioners District 2; Pender County Board of Commissioners District 3; Pender County Board of Commissioners District 4 (Unexpired Term); Pender County Board of Education District 1; Pender County Board of Education District 2; Pender County Board of Education District 4; also state legislative and U.S. House districts. Check your official sample ballot for those. Burgaw town offices are not on the 2026 ballot. The only referendums in Pender County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 6, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-pender-2026-district-court-seat-01-mckee-lindsey",
+          "name": "Lindsey L. McKee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 6, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-pender-2026-district-court-seat-02-fryar-kurt",
+          "name": "Kurt B. Fryar",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pender-2026-district-court-seat-02-faison-james",
+          "name": "James H. Faison III",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 6, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-pender-2026-district-court-seat-03-crouch-melinda",
+          "name": "Melinda H. Crouch",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pender-2026-district-court-seat-03-cline-janelle",
+          "name": "Janelle L. Cline",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 6, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-pender-2026-district-court-seat-04-corpening-katherine",
+          "name": "Katherine Corpening",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pender-2026-district-court-seat-04-hogston-chad",
+          "name": "Chad Hogston",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 6",
+      "candidates": [
+        {
+          "key": "nc-pender-2026-district-attorney-smith-jason",
+          "name": "Jason W. Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Pender County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-pender-2026-clerk-superior-court-harrell-camille",
+          "name": "Camille Costin Harrell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Pender County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-pender-2026-sheriff-cutler-alan",
+          "name": "Alan W. Cutler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Pender Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-pender-2026-pender-soil-water-blume-ivan",
+          "name": "Ivan Christopher Blume",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pender-2026-pender-soil-water-wells-michael",
+          "name": "Michael Shaun Wells",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pender-2026-pender-soil-water-murrell-william",
+          "name": "W.W. (Bill) Murrell, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pender-2026-pender-soil-water-lanier-gene",
+          "name": "Gene Buron Lanier",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pender-2026-pender-soil-water-hornacek-jennifer",
+          "name": "Jennifer Hornacek",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

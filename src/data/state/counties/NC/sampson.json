@@ -1,0 +1,139 @@
+{
+  "state": "NC",
+  "county": "Sampson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Sampson County Board of Commissioners District 1; Sampson County Board of Commissioners District 3; Sampson County Board of Commissioners District 5; also state legislative and U.S. House districts. Check your official sample ballot for those. Clinton city offices are not on the 2026 ballot. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 5, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-superior-court-seat-01-gilmore-robert",
+          "name": "Robert H. Gilmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-district-court-seat-01-white-mario",
+          "name": "Mario White",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-district-court-seat-02-swinson-morgan",
+          "name": "Morgan H. Swinson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 8 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-district-court-seat-08-unexpired-naylor-johnathon",
+          "name": "Johnathon S. Naylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 5",
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-district-attorney-lee-ernest",
+          "name": "Ernie Lee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Sampson County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-clerk-superior-court-grady-tammy",
+          "name": "Tammy Grady",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Sampson County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-sheriff-thornton-james",
+          "name": "Jimmy Thornton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-sampson-2026-sheriff-edwards-donald",
+          "name": "Donald Earl Edwards",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Sampson Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-sampson-2026-sampson-soil-water-wooldridge-brandon",
+          "name": "Brandon Wooldridge",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-sampson-2026-sampson-soil-water-moore-henry",
+          "name": "Henry E. Moore III",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-sampson-2026-sampson-soil-water-johnson-eric",
+          "name": "Eric L. Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Sampson County Local Sales and Use Tax Referendum",
+      "title": "Sampson County Local Sales and Use Tax",
+      "summary": "Asks whether Sampson County should levy a local sales and use tax at the rate of one-half percent (0.5%) in addition to the current local sales and use taxes, with the revenue to be used only for public education.",
+      "yesMeans": "The additional 0.5% local sales and use tax may be levied in Sampson County.",
+      "noMeans": "The additional local sales and use tax is not levied.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,118 @@
+{
+  "state": "NC",
+  "county": "Watauga County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Watauga County Board of Commissioners District 1; Watauga County Board of Commissioners District 2; Watauga County Board of Education District 1; Watauga County Board of Education District 4; also state legislative and U.S. House districts. Check your official sample ballot for those. Boone town offices are not on the 2026 ballot. The only referendums in Watauga County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 35, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-watauga-2026-superior-court-seat-01-rupp-matthew",
+          "name": "Matthew Rupp",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 35, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-watauga-2026-district-court-seat-01-eller-eric",
+          "name": "Eric F. Eller",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-watauga-2026-district-court-seat-01-brooks-andrew",
+          "name": "Andrew Brooks",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 35",
+      "candidates": [
+        {
+          "key": "nc-watauga-2026-district-attorney-banks-robert",
+          "name": "Seth Banks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Watauga County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-watauga-2026-clerk-superior-court-fehl-holly",
+          "name": "Holly Fehl",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-watauga-2026-clerk-superior-court-haynes-charles",
+          "name": "Charles M. Haynes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Watauga County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-watauga-2026-sheriff-church-darin",
+          "name": "Darin Church",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-watauga-2026-sheriff-hagaman-len",
+          "name": "Len (LD) Hagaman, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Watauga Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-watauga-2026-watauga-soil-water-williams-david",
+          "name": "David Williams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-watauga-2026-watauga-soil-water-scott-david",
+          "name": "David Scott",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-watauga-2026-watauga-soil-water-grig-david",
+          "name": "Aaron Grig",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

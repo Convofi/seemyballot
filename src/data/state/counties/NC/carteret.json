@@ -1,0 +1,94 @@
+{
+  "state": "NC",
+  "county": "Carteret County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Carteret County Board of Commissioners District 1; Carteret County Board of Commissioners District 2; Carteret County Board of Commissioners District 3; Carteret County Board of Commissioners District 6; Carteret County Board of Education District 1; Carteret County Board of Education District 3; Carteret County Board of Education District 5; Carteret County Board of Education District 6; Carteret - Harkers Island Sanitary Board Member; also state legislative and U.S. House districts. Check your official sample ballot for those. Morehead City offices are not on the 2026 ballot. The only referendums in Carteret County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "District Attorney, District 4",
+      "candidates": [
+        {
+          "key": "nc-carteret-2026-district-attorney-wareham-matthew",
+          "name": "Matt Wareham",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Carteret County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-carteret-2026-clerk-superior-court-raper-william",
+          "name": "Ken Raper",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Carteret County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-carteret-2026-register-of-deeds-hardesty-karen",
+          "name": "Karen Hardesty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Carteret County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-carteret-2026-sheriff-nyberg-john",
+          "name": "John Nyberg",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-carteret-2026-sheriff-rice-franklin",
+          "name": "Franklin Rice",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Carteret Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-carteret-2026-carteret-soil-water-collins-dennis",
+          "name": "Dennis Collins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-carteret-2026-carteret-soil-water-simmons-leland",
+          "name": "Mickey Simmons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-carteret-2026-carteret-soil-water-howell-vernon",
+          "name": "Glenn Howell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

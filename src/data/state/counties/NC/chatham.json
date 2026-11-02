@@ -1,0 +1,88 @@
+{
+  "state": "NC",
+  "county": "Chatham County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Chatham County Board of Commissioners District 3; Chatham County Board of Commissioners District 4; Chatham County Board of Commissioners District 5; Chatham County Board of Education District 3; Chatham County Board of Education District 4; Chatham County Board of Education District 5; also state legislative and U.S. House districts. Check your official sample ballot for those. Pittsboro and Siler City town offices are not on the 2026 ballot. The only referendums in Chatham County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 18, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-chatham-2026-district-court-seat-01-roper-christopher",
+          "name": "C. Todd Roper",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 18",
+      "candidates": [
+        {
+          "key": "nc-chatham-2026-district-attorney-nieman-jeffrey",
+          "name": "Jeff Nieman",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Chatham County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-chatham-2026-clerk-superior-court-hackney-dana",
+          "name": "Dana M. Hackney",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Chatham County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-chatham-2026-sheriff-maynor-steven",
+          "name": "Steve Maynor",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-chatham-2026-sheriff-globuschutz-marcus",
+          "name": "Marcus A. Globuschutz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Chatham Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-chatham-2026-chatham-soil-water-hayes-richard",
+          "name": "Richard Hayes",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-chatham-2026-chatham-soil-water-glosson-john",
+          "name": "John S. Glosson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

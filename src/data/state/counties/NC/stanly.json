@@ -1,0 +1,191 @@
+{
+  "state": "NC",
+  "county": "Stanly County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Stanly County Board of Commissioners District 1; Stanly County Board of Commissioners District 2; Stanly County Board of Commissioners District 3; Stanly County Board of Commissioners District 4; Stanly County Board of Education District 1; City of Albemarle City Council Member District 2; City of Albemarle City Council Member District 4; Town of Badin Town Council Member At-Large; Town of Badin Town Council Member East District; Town of Badin Town Council Member West District; City of Locust Mayor; City of Locust City Council; Village of Misenheimer Village Council; Town of New London Mayor; Town of New London Board of Commissioners; Town of Norwood Town Council; Town of Oakboro Board of Commissioners; Town of Red Cross Town Council; Town of Richfield Mayor; Town of Richfield Board of Commissioners; Town of Stanfield Mayor; Town of Stanfield Board of Commissioners; also state legislative and U.S. House districts. Check your official sample ballot for those. Albemarle City Council district seats are elected by district. The only referendums in Stanly County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 28, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-district-court-seat-01-cornett-phillip",
+          "name": "Phillip Cornett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 28, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-district-court-seat-02-fulcher-stacy",
+          "name": "Stacy D. Fulcher",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 28, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-district-court-seat-03-vang-thai",
+          "name": "Thai Vang",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 28",
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-district-attorney-clodfelter-terry",
+          "name": "T. Lynn Clodfelter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Stanly County Board of Commissioners At-Large",
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-commissioner-at-large-harris-gwendolyn",
+          "name": "Gwendolyn Harris",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-stanly-2026-commissioner-at-large-poole-melvin",
+          "name": "Melvin B. Poole",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "nc-stanly-2026-commissioner-at-large-lawhon-willie",
+          "name": "Bill Lawhon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Stanly County Board of Education At-Large",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-board-of-education-at-large-barringer-patrice",
+          "name": "Patrice Barringer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-stanly-2026-board-of-education-at-large-almond-meghan",
+          "name": "Meghan Almond",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-stanly-2026-board-of-education-at-large-lear-hannah",
+          "name": "Hannah Chavis Lear",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-stanly-2026-board-of-education-at-large-harris-tarrence",
+          "name": "Chody Harris",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Stanly County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-clerk-superior-court-efird-ginger",
+          "name": "Ginger D. Efird",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Stanly County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-sheriff-crisco-jeffrey",
+          "name": "Jeff Crisco",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Stanly Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-stanly-2026-stanly-soil-water-furr-curtis",
+          "name": "Curtis R. Furr",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-stanly-2026-stanly-soil-water-poplin-danny",
+          "name": "Danny Poplin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Albemarle": {
+      "contests": [
+        {
+          "office": "City of Albemarle City Council Member At-Large",
+          "candidates": [
+            {
+              "key": "nc-stanly-2026-city-of-albemarle-city-council-member-at-large-bramlett-christopher",
+              "name": "Chris Bramlett",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-stanly-2026-city-of-albemarle-city-council-member-at-large-kiser-lisa",
+              "name": "Lisa Kiser",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-stanly-2026-city-of-albemarle-city-council-member-at-large-lambert-michael",
+              "name": "Mike Lambert",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

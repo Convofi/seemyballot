@@ -1,0 +1,130 @@
+{
+  "state": "NC",
+  "county": "Surry County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Surry County Board of Commissioners Central District; Surry County Board of Commissioners Mount Airy District; Surry County Board of Commissioners South District; Surry County Schools Board of Education District 2; Surry County Schools Board of Education District 3; Surry County Schools Board of Education District 4; Elkin City Schools Board of Education City District; Elkin City Schools Board of Education West District; Mount Airy City Schools Board of Education At-Large; Mount Airy City Schools Board of Education District A; Mount Airy City Schools Board of Education District B; Town of Dobson Mayor; Town of Dobson Commissioner; Town of Elkin Commissioner; City of Mount Airy Commissioner North Ward; City of Mount Airy Commissioner South Ward; Town of Pilot Mountain Mayor; Town of Pilot Mountain Commissioner; also state legislative and U.S. House districts. Check your official sample ballot for those. Mount Airy city commissioner ward seats are elected by ward. The only referendums in Surry County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 23, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-surry-2026-district-court-seat-01-kirkman-gretchen",
+          "name": "Gretchen Hollar Kirkman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 23, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-surry-2026-district-court-seat-02-langan-thomas",
+          "name": "Tom Langan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 23, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-surry-2026-district-court-seat-03-boone-marion",
+          "name": "Marion McNeil Boone",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 23",
+      "candidates": [
+        {
+          "key": "nc-surry-2026-district-attorney-harris-quentin",
+          "name": "Quentin E. Harris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Surry County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-surry-2026-clerk-superior-court-brendle-landon",
+          "name": "L. Neil Brendle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Surry County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-surry-2026-sheriff-johnson-david",
+          "name": "Brandon Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Surry Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-surry-2026-surry-soil-water-boyd-william",
+          "name": "Brad Boyd",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-surry-2026-surry-soil-water-johnson-jeremy",
+          "name": "Jeremy Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Mount Airy": {
+      "contests": [
+        {
+          "office": "City of Mount Airy Mayor",
+          "candidates": [
+            {
+              "key": "nc-surry-2026-city-of-mount-airy-mayor-cawley-jonathon",
+              "name": "Jon Cawley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-surry-2026-city-of-mount-airy-mayor-goins-billie",
+              "name": "Bill Goins",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

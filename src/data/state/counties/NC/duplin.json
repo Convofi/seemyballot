@@ -1,0 +1,118 @@
+{
+  "state": "NC",
+  "county": "Duplin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Duplin County Board of Commissioners District 2; Duplin County Board of Commissioners District 3; Duplin County Board of Education District 2; Duplin County Board of Education District 3; also state legislative and U.S. House districts. Check your official sample ballot for those. The Natural Wells Fire District fire tax election is for that fire district only. The only referendums in Duplin County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 5, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-superior-court-seat-01-gilmore-robert",
+          "name": "Robert H. Gilmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-district-court-seat-01-white-mario",
+          "name": "Mario White",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-district-court-seat-02-swinson-morgan",
+          "name": "Morgan H. Swinson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 8 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-district-court-seat-08-unexpired-naylor-johnathon",
+          "name": "Johnathon S. Naylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 5",
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-district-attorney-lee-ernest",
+          "name": "Ernie Lee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Duplin County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-clerk-superior-court-price-amy",
+          "name": "Amy Price",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Duplin County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-sheriff-southerland-samuel",
+          "name": "Eric Southerland",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Duplin Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-duplin-2026-duplin-soil-water-britt-luke",
+          "name": "Luke Britt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-duplin-2026-duplin-soil-water-williams-franklin",
+          "name": "Franklin O. Williams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,100 @@
+{
+  "state": "NC",
+  "county": "Granville County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Granville County Board of Commissioners District 2; Granville County Board of Commissioners District 6; Granville County Board of Commissioners District 7; also state legislative and U.S. House districts. Check your official sample ballot for those. Oxford city offices are not on the 2026 ballot. The only referendums in Granville County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 11, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-granville-2026-superior-court-seat-01-dunlow-john",
+          "name": "John M. Dunlow",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 11, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-granville-2026-superior-court-seat-02-sturges-cynthia",
+          "name": "Cindy Sturges",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 11",
+      "candidates": [
+        {
+          "key": "nc-granville-2026-district-attorney-waters-michael",
+          "name": "Mike Waters",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Granville County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-granville-2026-clerk-superior-court-washington-james",
+          "name": "Yancey Washington",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Granville County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-granville-2026-sheriff-newman-bruce",
+          "name": "Ed Newman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-granville-2026-sheriff-fountain-robert",
+          "name": "Robert D. Fountain, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Granville Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-granville-2026-granville-soil-water-dixon-jason",
+          "name": "Jason West Dixon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-granville-2026-granville-soil-water-jones-james",
+          "name": "James J. Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

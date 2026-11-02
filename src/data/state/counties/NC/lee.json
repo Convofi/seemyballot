@@ -1,0 +1,131 @@
+{
+  "state": "NC",
+  "county": "Lee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): Lee County Board of Commissioners District 1; Lee County Board of Commissioners District 2; Lee County Board of Commissioners District 3; Lee County Board of Commissioners District 4; also state legislative and U.S. House districts. Check your official sample ballot for those. Sanford city offices are not on the 2026 ballot. The only referendums in Lee County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 12, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-lee-2026-district-court-seat-01-jones-joy",
+          "name": "Joy A. Jones",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 12, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-lee-2026-district-court-seat-02-wheeler-travis",
+          "name": "Travis N. Wheeler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 12, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-lee-2026-district-court-seat-03-kimble-jason",
+          "name": "Jason P. Kimble",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lee County Board of Education",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-lee-2026-board-of-education-stryffeler-laura",
+          "name": "Laura Stryffeler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lee-2026-board-of-education-rummel-alan",
+          "name": "Alan Rummel",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lee-2026-board-of-education-koballa-karla",
+          "name": "Karla Koballa",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lee-2026-board-of-education-kelly-patrick",
+          "name": "Patrick Kelly",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lee County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-lee-2026-clerk-superior-court-thomas-deborah",
+          "name": "Susie K. Thomas",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lee County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-lee-2026-sheriff-estes-charles",
+          "name": "Brian Estes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lee Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-lee-2026-lee-soil-water-arnold-luke",
+          "name": "Luke (Sawyer) Arnold",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lee-2026-lee-soil-water-gross-john",
+          "name": "John Gross",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lee-2026-lee-soil-water-gaster-michael",
+          "name": "Michael L. Gaster",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

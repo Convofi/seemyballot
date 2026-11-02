@@ -1,0 +1,240 @@
+{
+  "state": "NC",
+  "county": "Caldwell County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): ; also state legislative and U.S. House districts. Check your official sample ballot for those. Lenoir city offices are not on the 2026 ballot. The only referendums in Caldwell County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC Superior Court Judge, District 36, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-superior-court-seat-01-rooks-timothy",
+          "name": "Tim Rooks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-01-aycock-david",
+          "name": "David W. Aycock",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-02-barkley-wesley",
+          "name": "Wes W. Barkley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-03-cabe-matthew",
+          "name": "Matthew D. Cabe",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-04-mullinax-robert",
+          "name": "Robert A. Mullinax, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-05-hayes-gregory",
+          "name": "Gregory R. (Greg) Hayes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 6",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-06-lippert-scott",
+          "name": "Scott M. Lippert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 7",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-07-killian-mark",
+          "name": "Mark L. Killian",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 9 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-court-seat-09-unexpired-markham-lippert-ashley",
+          "name": "Michelle Markham Lippert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 36",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-district-attorney-walker-anthony",
+          "name": "Mitch Walker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Caldwell County Board of Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-commissioner-moore-corey",
+          "name": "Corey Moore",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-caldwell-2026-commissioner-labrose-michael",
+          "name": "Mike LaBrose",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-caldwell-2026-commissioner-patterson-roger",
+          "name": "Roger Patterson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-caldwell-2026-commissioner-naff-faith",
+          "name": "Faith Naff",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Caldwell County Board of Education",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-board-of-education-fore-william",
+          "name": "William (BJ) Fore",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-caldwell-2026-board-of-education-branch-teresa",
+          "name": "Teresa Branch",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-caldwell-2026-board-of-education-widener-melessa",
+          "name": "Lesa Bolick Widener",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-caldwell-2026-board-of-education-sims-joseph",
+          "name": "Joe Sims",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Caldwell County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-clerk-superior-court-kidd-angela",
+          "name": "Angela Ashley Kidd",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Caldwell County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-sheriff-bean-kevin",
+          "name": "Kevin H. Bean",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Caldwell Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-caldwell-2026-caldwell-soil-water-starnes-noah",
+          "name": "Noah James Starnes",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-caldwell-2026-caldwell-soil-water-spivey-edward",
+          "name": "Ed Spivey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,136 @@
+{
+  "state": "NC",
+  "county": "Wilson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown (each covers only part of the county, or no official source we could reach shows it on every county ballot): NC Superior Court Judge, District 8B, Seat 1; Wilson County Board of Commissioners District 1; Wilson County Board of Commissioners District 2; Wilson County Board of Commissioners District 3; Wilson County Board of Commissioners District 4; Wilson County Board of Commissioners District 5; Wilson County Board of Commissioners District 6; Wilson County Board of Commissioners District 7; Wilson County Board of Education District 1; Wilson County Board of Education District 3; Wilson County Board of Education District 5; Wilson County Board of Education District 7; also state legislative and U.S. House districts. Check your official sample ballot for those. Wilson city offices are not on the 2026 ballot. The only referendums in Wilson County are the three statewide constitutional amendments. Incumbent flags are not set because we did not check an official roster.",
+  "contests": [
+    {
+      "office": "NC District Court Judge, District 8, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-district-court-seat-01-cooper-pell",
+          "name": "Pell Cooper",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 8, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-district-court-seat-02-boyette-wayne",
+          "name": "Wayne S. Boyette",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 8, Seat 3 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-district-court-seat-03-unexpired-taylor-tia",
+          "name": "Tia Hudgins Taylor",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wilson-2026-district-court-seat-03-unexpired-osterhout-mark",
+          "name": "Mark Osterhout",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 8, Seat 6 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-district-court-seat-06-unexpired-quinn-caroline",
+          "name": "Caroline Farris Quinn",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 8",
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-district-attorney-spellman-rena",
+          "name": "Rena Spellman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wilson-2026-district-attorney-marsigli-jeffrey",
+          "name": "Jeffrey A. Marsigli",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wilson County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-clerk-superior-court-wellington-karen",
+          "name": "Karen F. Wellington",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wilson County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-sheriff-barbrey-brandon",
+          "name": "Brandon L. Barbrey",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wilson-2026-sheriff-knight-duval",
+          "name": "Bobby Knight",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wilson Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-wilson-2026-wilson-soil-water-scott-gary",
+          "name": "Gary Scott",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wilson-2026-wilson-soil-water-lamm-robert",
+          "name": "Bryan Lamm",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
