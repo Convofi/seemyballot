@@ -1,0 +1,151 @@
+{
+  "state": "KY",
+  "county": "Scott County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+  ],
+  "note": "Countywide items are those the Scott County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. Not shown because they depend on your district: Magistrate and Constable (1st-7th Magisterial Districts), Scott County Board of Education Districts 4 and 5, Georgetown mayor and council, the mayor and commission races in Corinth, Sadieville and Stamping Ground, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-pva-burke-john",
+          "name": "John Burke",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-judge-executive-covington-joe",
+          "name": "Joe Pat Covington",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-county-attorney-culbertson-cam",
+          "name": "Cam Culbertson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-county-clerk-johnson-rebecca",
+          "name": "Rebecca M. Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-sheriff-nettles-jeremy",
+          "name": "Jeremy Nettles",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-jailer-broyles-derran",
+          "name": "Derran C. Broyles",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-coroner-sutton-mark",
+          "name": "Mark Sutton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-surveyor-brock-barry",
+          "name": "Barry Brock",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 5th Appellate District, 1st Division (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-coa5-div1-vanmeter-lucy",
+          "name": "Lucy Ferguson VanMeter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-scott-2026-coa5-div1-moynahan-will",
+          "name": "Will Moynahan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 14th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-district-judge-div1-bevins-bolton",
+          "name": "Bolton Bevins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 14th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-scott-2026-district-judge-div2-spedding-sarah",
+          "name": "Sarah Hays Spedding",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/SCOTT%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

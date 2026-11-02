@@ -1,0 +1,145 @@
+{
+  "state": "KY",
+  "county": "Franklin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+  ],
+  "note": "Countywide items are those the Franklin County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. No candidate filed for County Surveyor; that race appears on the ballot with only a write-in line. Not shown because they depend on your district: Magistrate and Constable (1st-6th Magisterial Districts), Franklin County Board of Education districts, Frankfort city commission, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-pva-rhodes-wil",
+          "name": "Wil Rhodes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-judge-executive-mueller-michael",
+          "name": "Michael Mueller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-county-attorney-comley-max",
+          "name": "Max H. Comley",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-county-clerk-hancock-jeff",
+          "name": "Jeff Hancock",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-sheriff-curry-logan",
+          "name": "Logan Curry",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-franklin-2026-sheriff-depp-dwayne",
+          "name": "Dwayne Forrest Depp",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-jailer-hopper-tracy",
+          "name": "Tracy Hopper",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-coroner-harrod-will",
+          "name": "Will Harrod",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 5th Appellate District, 1st Division (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-coa5-div1-vanmeter-lucy",
+          "name": "Lucy Ferguson VanMeter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-franklin-2026-coa5-div1-moynahan-will",
+          "name": "Will Moynahan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 48th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-district-judge-div1-mangeot-kathy",
+          "name": "Kathy R. Mangeot",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 48th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-franklin-2026-district-judge-div2-olds-chris",
+          "name": "Chris Olds",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/FRANKLIN%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,169 @@
+{
+  "state": "KY",
+  "county": "Madison County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+  ],
+  "note": "Countywide items are those the Madison County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. Not shown because they depend on your district: Magistrate and Constable (1st-4th Magisterial Districts), Madison County Board of Education districts, Berea Independent Board of Education, Richmond mayor and city commission, Berea mayor and council, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-pva-ackerman-billy",
+          "name": "Billy Ackerman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-judge-executive-agee-donna",
+          "name": "Donna Agee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-county-attorney-haymond-jennie",
+          "name": "Jennie Y. Haymond",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-county-clerk-barger-kenny",
+          "name": "Kenny Barger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-sheriff-terry-tony",
+          "name": "Tony Terry",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-jailer-thomas-doug",
+          "name": "Doug Thomas",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-coroner-cornelison-jimmy",
+          "name": "Jimmy Cornelison",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-surveyor-spencer-stuart",
+          "name": "Stuart W. Spencer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 5th Appellate District",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-coa5-vanmeter-lucy",
+          "name": "Lucy Ferguson VanMeter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-madison-2026-coa5-moynahan-will",
+          "name": "Will Moynahan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 25th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-district-judge-div1-botts-darrian",
+          "name": "Darrian D. Botts",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-madison-2026-district-judge-div1-frazier-tyler",
+          "name": "Tyler S. Frazier",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 25th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-district-judge-div2-jennings-robert",
+          "name": "Robert Jennings",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 25th Judicial District, 3rd Division",
+      "candidates": [
+        {
+          "key": "ky-madison-2026-district-judge-div3-neal-earl-ray",
+          "name": "Earl-Ray Neal",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/MADISON%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

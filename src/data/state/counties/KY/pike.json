@@ -1,0 +1,134 @@
+{
+  "state": "KY",
+  "county": "Pike County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+  ],
+  "note": "Countywide items are those the Pike County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. Candidate names come from the ballot's text version, which the Secretary of State warns may contain errors; the number of candidates matches the printed ballot and District Judge names match the Secretary of State's filing list. No candidate filed for County Surveyor; that race appears on the ballot with only a write-in line. Not shown because they depend on your district: Magistrate and Constable (1st-6th Magisterial Districts), Pike County and Pikeville Independent Board of Education seats, the mayor and commission races in Pikeville, Coal Run and Elkhorn City, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-pva-auton-kevin",
+          "name": "Kevin Auton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-judge-executive-shearer-suzy",
+          "name": "Suzy Gibson Shearer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-county-attorney-howard-paul",
+          "name": "Paul Howard Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-county-clerk-pugh-darrell",
+          "name": "Darrell Pugh",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-pike-2026-county-clerk-taylor-rhonda",
+          "name": "Rhonda Taylor",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-sheriff-scott-rodney",
+          "name": "Rodney Scott",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-jailer-bostic-ricky",
+          "name": "Ricky Bostic",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-pike-2026-jailer-bevins-scott",
+          "name": "Scott Bevins",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-coroner-hall-kevin",
+          "name": "Kevin Hall",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 35th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-district-judge-div1-wright-robert",
+          "name": "Robert F. Wright",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 35th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-pike-2026-district-judge-div2-may-tommy",
+          "name": "Tommy \"T. J.\" May",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/PIKE%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

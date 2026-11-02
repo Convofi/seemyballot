@@ -1,0 +1,175 @@
+{
+  "state": "KY",
+  "county": "Clark County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+  ],
+  "note": "Countywide items are those the Clark County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. No candidate filed for County Surveyor; that race appears on the ballot with only a write-in line. Not shown because they depend on your district: Magistrate and Constable (1st-6th Magisterial Districts), Clark County Board of Education Districts 1 and 4, Winchester mayor and city commission, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-pva-brady-jada",
+          "name": "Jada Brady",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-clark-2026-pva-neely-jason",
+          "name": "Jason Neely",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-judge-executive-charles-justin",
+          "name": "Justin Charles",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-clark-2026-judge-executive-king-vache",
+          "name": "Vaché L. King",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-county-attorney-elkins-william",
+          "name": "William Elkins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-county-clerk-turner-michelle",
+          "name": "Michelle Turner",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-sheriff-perdue-berl",
+          "name": "Berl Perdue Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-jailer-grant-chris",
+          "name": "Chris Grant",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-clark-2026-jailer-doyle-frank",
+          "name": "Frank \"Squatty\" Doyle",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-coroner-oliver-neal",
+          "name": "Neal Oliver",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 5th Appellate District, 1st Division (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-coa5-div1-vanmeter-lucy",
+          "name": "Lucy Ferguson VanMeter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-clark-2026-coa5-div1-moynahan-will",
+          "name": "Will Moynahan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 25th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-district-judge-div1-botts-darrian",
+          "name": "Darrian D. Botts",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-clark-2026-district-judge-div1-frazier-tyler",
+          "name": "Tyler S. Frazier",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 25th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-district-judge-div2-jennings-robert",
+          "name": "Robert Jennings",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 25th Judicial District, 3rd Division",
+      "candidates": [
+        {
+          "key": "ky-clark-2026-district-judge-div3-neal-earl-ray",
+          "name": "Earl-Ray Neal",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CLARK%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,145 @@
+{
+  "state": "KY",
+  "county": "Henderson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+  ],
+  "note": "Countywide items are those the Henderson County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. Candidate names come from the ballot's text version, which the Secretary of State warns may contain errors; the number of candidates in each race matches the printed ballot. Not shown because they depend on your district: Magistrate and Constable (1st-5th Magisterial Districts), Henderson County Board of Education Districts 1 and 2, the mayor and commission or council races in Henderson, Corydon and Robards, the alcohol sales question for the Robards precinct, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-pva-powell-andrew",
+          "name": "Andrew M. Powell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-judge-executive-dunn-timothy",
+          "name": "Timothy R. Dunn",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-henderson-2026-judge-executive-jenkins-mackey-les",
+          "name": "L. \"Les\" Jenkins-Mackey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-county-attorney-gold-steven",
+          "name": "Steven R. Gold",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-county-clerk-smith-carrie",
+          "name": "Carrie Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-sheriff-stauffer-charles",
+          "name": "Charles \"Chip\" Stauffer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-jailer-willett-anthony",
+          "name": "Anthony Willett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-coroner-reneer-dewayne",
+          "name": "Dewayne L. Reneer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-surveyor-krahwinkel-clifton",
+          "name": "Clifton Lee Krahwinkel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 51st Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-district-judge-div1-turner-lindsey",
+          "name": "Lindsey Noller Turner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-henderson-2026-district-judge-div1-hampton-ashley",
+          "name": "Ashley Renee Hampton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 51st Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-henderson-2026-district-judge-div2-newman-leslie",
+          "name": "Leslie M. Newman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/HENDERSON%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

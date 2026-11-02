@@ -1,0 +1,146 @@
+{
+  "state": "KY",
+  "county": "Oldham County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+  ],
+  "note": "Countywide items are those the Oldham County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. Candidate names come from the ballot's text version, which the Secretary of State warns may contain errors; the number of candidates matches the printed ballot and District Judge names match the Secretary of State's filing list. Not shown because they depend on your district: Magistrate and Constable (1st-7th Magisterial Districts), Oldham County Board of Education districts, the mayor and council races in La Grange, Crestwood, Pewee Valley, Prospect and the county's other cities, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-pva-dietrich-barbara",
+          "name": "Barbara Winters Dietrich",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-judge-executive-houchens-robert",
+          "name": "Robert Houchens",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-oldham-2026-judge-executive-bayer-adam",
+          "name": "Adam W. Bayer",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-county-attorney-baxter-berry",
+          "name": "D. Berry Baxter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-county-clerk-alvey-amy",
+          "name": "Amy Alvey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-sheriff-wakefield-timothy",
+          "name": "Timothy R. Wakefield",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-jailer-tindall-jeff",
+          "name": "Jeff Tindall",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-coroner-pendleton-david",
+          "name": "David Thomas Pendleton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-surveyor-scannell-joseph",
+          "name": "Joseph W. Scannell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-oldham-2026-surveyor-denham-walter",
+          "name": "Walter Denham",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 12th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-district-judge-div1-fendley-daniel",
+          "name": "Daniel Fendley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 12th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-oldham-2026-district-judge-div2-beard-jessica",
+          "name": "Jessica N. Beard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/OLDHAM%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

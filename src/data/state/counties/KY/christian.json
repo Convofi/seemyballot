@@ -1,0 +1,134 @@
+{
+  "state": "KY",
+  "county": "Christian County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+  ],
+  "note": "Countywide items follow the Christian County sample ballot published by the Kentucky Secretary of State. The ballot labels the Property Valuation Administrator, County Judge/Executive, County Attorney, County Clerk, Sheriff and Jailer races as appearing in all precincts except precinct G105; voters in G105 should check their sample ballot. Coroner, County Surveyor and the District Judge races are on every ballot. Not shown because they depend on your district: Magistrate and Constable (1st-8th Magisterial Districts), Christian County Board of Education districts, Hopkinsville mayor and ward council seats, the mayor and council races in Crofton, Lafayette, Oak Grove and Pembroke, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-pva-ezell-amber",
+          "name": "Amber Ezell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-judge-executive-gilliam-jerry",
+          "name": "Jerry Gilliam",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-county-attorney-foster-lincoln",
+          "name": "Lincoln W. Foster",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-county-clerk-humphries-melinda",
+          "name": "Melinda A. Humphries",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-sheriff-dearmond-tyler",
+          "name": "Tyler DeArmond",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-jailer-smith-adam",
+          "name": "Adam Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-coroner-daniel-scott",
+          "name": "Scott Daniel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-surveyor-chaudoin-wm",
+          "name": "Wm. \"Bill\" Chaudoin Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 3rd Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-district-judge-div1-adams-john",
+          "name": "John Lindsey Adams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 3rd Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-christian-2026-district-judge-div2-cotthoff-foster",
+          "name": "J. Foster Cotthoff",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CHRISTIAN%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

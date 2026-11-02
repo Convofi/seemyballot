@@ -1,0 +1,175 @@
+{
+  "state": "KY",
+  "county": "Laurel County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+  ],
+  "note": "Countywide items are those the Laurel County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. Not shown because they depend on your district: Magistrate and Constable (Districts 1-6), Laurel County Board of Education Districts 1 and 3, East Bernstadt Independent Board of Education, London mayor and city council, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-pva-mcfadden-don",
+          "name": "Don McFadden",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-judge-executive-hulett-walter",
+          "name": "Walter T. Hulett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-county-attorney-albright-jodi",
+          "name": "Jodi L. Albright",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-county-clerk-brown-joe",
+          "name": "Joe \"Tony\" Brown",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-sheriff-root-john",
+          "name": "John Root",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-jailer-mosley-jamie",
+          "name": "Jamie Mosley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-coroner-masters-mike",
+          "name": "Mike Masters",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "Surveyor",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-surveyor-hubbard-chris",
+          "name": "Chris Hubbard",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "Justice of the Supreme Court, 3rd Supreme Court District",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-supreme-d3-lambert-debra",
+          "name": "Debra Hembree Lambert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 3rd Appellate District, 2nd Division (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-coa3-div2-lay-greg",
+          "name": "Greg Lay",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 27th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-district-judge-div1-hammons-w",
+          "name": "W. \"Skip\" Hammons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 27th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-district-judge-div2-chappell-john",
+          "name": "John P. Chappell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Supervisor (Vote for Three)",
+      "candidates": [
+        {
+          "key": "ky-laurel-2026-soilwater-massey-charles",
+          "name": "Charles K. Massey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-laurel-2026-soilwater-davis-stephen",
+          "name": "Stephen Davis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/LAUREL%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
