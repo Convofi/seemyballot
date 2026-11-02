@@ -1,0 +1,120 @@
+{
+  "state": "CA",
+  "county": "Santa Cruz County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Santa%20Cruz%20NOE%20November%203%2C%202026.pdf",
+    "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Santa%20Cruz%20NOE_Supplemental_November%203%202026.pdf",
+    "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/ContactCandidates.aspx",
+    "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures.aspx",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "From the Santa Cruz County Clerk/Elections Department's Notice of Election, supplemental notice, candidate contact list and local measures page. No Board of Supervisors seat or other county office and no Superior Court judge is on this ballot. Not shown: Capitola and Scotts Valley council seats, Watsonville council districts, County Board of Education and Cabrillo College trustee areas, school, fire, water, port, recreation and other special districts, congressional and legislative districts, and the Scotts Valley hotel tax measure (G) and Los Gatos-Saratoga high school bond (N). Statewide races and the Supreme Court retention are on the California statewide list. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Associate Justice, Court of Appeal, Sixth District — retain Daniel H. Bromberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-cruz-2026-coa6-bromberg-daniel",
+          "name": "Daniel H. Bromberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Sixth District — retain Charles E. Wilson II? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-cruz-2026-coa6-wilson-charles",
+          "name": "Charles E. Wilson II",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Sixth District — retain Charles F. Adams? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-cruz-2026-coa6-adams-charles",
+          "name": "Charles F. Adams",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Sixth District — retain Frederick S. Chung? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-cruz-2026-coa6-chung-frederick",
+          "name": "Frederick S. Chung",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Sixth District — retain Allison Marston Danner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-cruz-2026-coa6-danner-allison",
+          "name": "Allison Marston Danner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure D",
+      "title": "Update of Measure A (1986) to cover deep-sea mining onshore facilities",
+      "summary": "Amends the county code chapter that voters adopted as Measure A in 1986, which requires voter approval for land use changes for onshore facilities that support offshore oil and gas development. The update would also require voter approval for onshore facilities related to deep-sea mining, add purpose, findings and definitions sections, create an exemption for certain projects, and make other changes the county says are meant to strengthen the law.",
+      "yesMeans": "The county code is amended to also require voter approval for onshore facilities supporting deep-sea mining, along with the other listed changes.",
+      "noMeans": "The 1986 Measure A rules stay as they are.",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Santa%20Cruz%20NOE_Supplemental_November%203%202026.pdf",
+      "moreInfo": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureD.aspx"
+    },
+    {
+      "id": "Measure E",
+      "title": "County of Santa Cruz temporary half-cent general sales tax",
+      "summary": "Adds a one-half percent general sales (transactions and use) tax throughout Santa Cruz County, including the cities, for five years, from April 1, 2027 through April 1, 2032. The county estimates about $27,000,000 a year, placed in the General Fund for any lawful purpose; the ballot question lists keeping hospitals and emergency rooms open, ambulance response, urgent and mental health care, and food and housing assistance.",
+      "yesMeans": "The county adds a half-cent sales tax for five years.",
+      "noMeans": "The half-cent sales tax is not added.",
+      "source": "https://votescount.santacruzcountyca.gov/Portals/16/nov26/Santa%20Cruz%20NOE_Supplemental_November%203%202026.pdf",
+      "moreInfo": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/LocalMeasures/MeasureE.aspx"
+    }
+  ],
+  "municipalities": {
+    "Santa Cruz": {
+      "contests": [
+        {
+          "office": "City of Santa Cruz Mayor (runoff)",
+          "candidates": [
+            {
+              "key": "ca-santa-cruz-2026-sccity-mayor-coonerty-ryan",
+              "name": "Ryan Coonerty",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-santa-cruz-2026-sccity-mayor-mills-ami",
+              "name": "Ami Chen Mills",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://votescount.santacruzcountyca.gov/Home/Elections/November3,2026CaliforniaGeneralElection/ContactCandidates.aspx"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
