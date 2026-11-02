@@ -1,0 +1,118 @@
+{
+  "state": "MD",
+  "county": "Harford County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Harford.pdf",
+    "https://www.harfordcountymd.gov/",
+    "https://registers.maryland.gov/main/harford.html",
+    "https://mdcourts.gov/clerks/harford"
+  ],
+  "note": "Every contest shown here appears on all 63 Harford County ballot styles in the State Board of Elections' certified ballot file. Not shown: County Council district seats (Districts A-F) and Board of Education district seats (Districts A-F); check your official sample ballot for your district. No Circuit Court or Orphans' Court judges and no county questions appear on the 2026 Harford ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official county or state office site confirms the officeholder.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-harford-2026-exec-kreamer-barbara",
+          "name": "Barbara Osborn Kreamer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-harford-2026-exec-cassilly-bob",
+          "name": "Bob Cassilly",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Harford.pdf"
+    },
+    {
+      "office": "President of the County Council",
+      "candidates": [
+        {
+          "key": "md-harford-2026-council-president-ciufo-mike",
+          "name": "Mike Ciufo",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-harford-2026-council-president-boniface-billy",
+          "name": "Billy Boniface",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Harford.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-harford-2026-sa-healey-alison",
+          "name": "Alison M. Healey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Harford.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-harford-2026-clerk-brown-matthew",
+          "name": "Matthew J. Brown",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-harford-2026-clerk-karczeski-michelle",
+          "name": "Michelle L. Karczeski",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Harford.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-harford-2026-wills-strickland-lucas-jo-wanda",
+          "name": "Jo Wanda Strickland-Lucas",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-harford-2026-wills-hopkins-derek",
+          "name": "Derek K. Hopkins",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Harford.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-harford-2026-sheriff-rogers-terrence",
+          "name": "Terrence Rogers",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-harford-2026-sheriff-gahler-jeffrey",
+          "name": "Jeffrey R. Gahler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Harford.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

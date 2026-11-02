@@ -1,0 +1,83 @@
+{
+  "state": "NJ",
+  "county": "Atlantic County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.atlanticcountyclerk.org/wp-content/uploads/2026/08/Candidates-List-2026-General-8-12-26-1.pdf",
+    "https://www.atlanticcountyclerk.org/sample-ballots/",
+    "https://www.atlanticcountyclerk.org/wp-content/uploads/2026/09/ATLANTIC-CITY-FORM-3.pdf",
+    "https://www.atlanticcountyclerk.org/"
+  ],
+  "note": "There are no countywide public questions in Atlantic County this year. County Commissioner District 3 is elected by district and is not shown. Mayor, council and township committee races, Board of Education seats, and municipal or school questions vary by town and are not shown here. Atlantic City has no city offices or city questions on this ballot; its Board of Education race is not shown. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "nj-atlantic-2026-sheriff-odonoghue-joe",
+          "name": "Joe \"Tokyo\" O'Donoghue",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-atlantic-2026-sheriff-riggin-sean",
+          "name": "Sean Riggin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.atlanticcountyclerk.org/wp-content/uploads/2026/08/Candidates-List-2026-General-8-12-26-1.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "nj-atlantic-2026-county-clerk-giralo-joseph",
+          "name": "Joseph J. Giralo",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nj-atlantic-2026-county-clerk-bender-elizabeth",
+          "name": "Elizabeth \"Lisa\" Bender",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.atlanticcountyclerk.org/wp-content/uploads/2026/08/Candidates-List-2026-General-8-12-26-1.pdf"
+    },
+    {
+      "office": "County Commissioner-at-Large",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nj-atlantic-2026-commissioner-at-large-risley-john",
+          "name": "John W. Risley, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-atlantic-2026-commissioner-at-large-byrnes-june",
+          "name": "June Byrnes",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-atlantic-2026-commissioner-at-large-marcellus-jonathan",
+          "name": "Jonathan Marcellus",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-atlantic-2026-commissioner-at-large-gornick-kyle",
+          "name": "Kyle Gornick",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.atlanticcountyclerk.org/wp-content/uploads/2026/08/Candidates-List-2026-General-8-12-26-1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

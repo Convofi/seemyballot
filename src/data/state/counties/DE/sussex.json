@@ -1,0 +1,39 @@
+{
+  "state": "DE",
+  "county": "Sussex County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
+    "https://elections.delaware.gov/candidates/candidatelist/genl_wcddt_2026.html",
+    "https://elections.delaware.gov/elections/general/sampleballots/GE2026/37-01.html",
+    "https://sussexcountyde.gov/sheriff",
+    "https://sussexcountyde.gov/register-wills",
+    "https://sussexcountyde.gov/recorder-deeds"
+  ],
+  "note": "Sussex County Council seats are elected by district (Districts 4 and 5 are on the 2026 ballot) and are not shown here; check your sample ballot for your district. There are no countywide questions, and no declared write-in candidates have filed for Sussex County offices. Town offices (including Georgetown and Lewes) are not on the November ballot.",
+  "contests": [
+    {
+      "office": "Sussex County Recorder of Deeds",
+      "candidates": [
+        { "key": "de-sussex-2026-recorder-of-deeds-baker-alexandra", "name": "Alexandra Reed Baker", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    },
+    {
+      "office": "Sussex County Register of Wills",
+      "candidates": [
+        { "key": "de-sussex-2026-register-of-wills-fuller-greg", "name": "Greg Fuller", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    },
+    {
+      "office": "Sussex County Sheriff",
+      "candidates": [
+        { "key": "de-sussex-2026-sheriff-lee-robert", "name": "Robert T. Lee", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
