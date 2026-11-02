@@ -1,0 +1,67 @@
+{
+  "state": "IL",
+  "county": "Rock Island County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.rockislandcountyil.gov/DocumentCenter/View/3377",
+    "https://www.rockislandcountyil.gov/DocumentCenter/View/2818",
+    "https://www.rockislandcountyil.gov/DocumentCenter/View/3428",
+    "https://www.rockislandcountyil.gov/247/Elections"
+  ],
+  "note": "From the Rock Island County Clerk's sample ballot, candidate list and write-in list. Not shown: County Board districts 2, 3, 5, 7, 8, 9, 12, 13 and 18, Regional Superintendent of Schools (Rock Island voters are split among the Rock Island County, Bureau-Henry-Stark, Lee-Ogle-Whiteside and Henderson-Knox-Mercer-Warren regional offices by school district), Congress and state legislature, and school district questions (Orion CUSD 223 and Rockridge CUSD 300 at-large board elections). There is no countywide referendum and no City of Rock Island question. Certified write-ins are for federal and state offices only. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Rock Island County Clerk",
+      "candidates": [
+        { "key": "il-rock-island-2026-clerk-crouch-maggie", "name": "Maggie (McGrath) Crouch", "party": "Democratic", "incumbent": false },
+        { "key": "il-rock-island-2026-clerk-rugh-steven", "name": "Steven G Rugh", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.rockislandcountyil.gov/DocumentCenter/View/3377"
+    },
+    {
+      "office": "Rock Island County Sheriff",
+      "candidates": [
+        { "key": "il-rock-island-2026-sheriff-herbert-marcus", "name": "Marcus Herbert", "party": "Democratic", "incumbent": false },
+        { "key": "il-rock-island-2026-sheriff-shoemaker-jamie", "name": "Jamie M. Shoemaker", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.rockislandcountyil.gov/DocumentCenter/View/3377"
+    },
+    {
+      "office": "Rock Island County Treasurer",
+      "candidates": [
+        { "key": "il-rock-island-2026-treasurer-camlin-nick", "name": "Nick Camlin", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.rockislandcountyil.gov/DocumentCenter/View/3377"
+    },
+    {
+      "office": "Judge of the Circuit Court, 14th Judicial Circuit, Rock Island County (vacancy of the Hon. Linnea E. Thompson)",
+      "candidates": [
+        { "key": "il-rock-island-2026-circuit-thompson-vacancy-carter-tionn", "name": "Tionn Fambro Carter", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.rockislandcountyil.gov/DocumentCenter/View/3377"
+    },
+    {
+      "office": "Judge of the Circuit Court, 14th Judicial Circuit — retain Judge Terence M. Patton? (yes/no retention)",
+      "candidates": [
+        { "key": "il-rock-island-2026-retain-circuit-patton-terence", "name": "Terence M. Patton", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.rockislandcountyil.gov/DocumentCenter/View/3377"
+    },
+    {
+      "office": "Judge of the Circuit Court, 14th Judicial Circuit — retain Judge Peter W. Church? (yes/no retention)",
+      "candidates": [
+        { "key": "il-rock-island-2026-retain-circuit-church-peter", "name": "Peter W. Church", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.rockislandcountyil.gov/DocumentCenter/View/3377"
+    },
+    {
+      "office": "Judge of the Circuit Court, 14th Judicial Circuit — retain Judge John L. McGehee? (yes/no retention)",
+      "candidates": [
+        { "key": "il-rock-island-2026-retain-circuit-mcgehee-john", "name": "John L. McGehee", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.rockislandcountyil.gov/DocumentCenter/View/3377"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

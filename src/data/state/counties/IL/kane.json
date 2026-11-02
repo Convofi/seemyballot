@@ -1,0 +1,82 @@
+{
+  "state": "IL",
+  "county": "Kane County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://applications.kanecountyil.gov/ElectionWebsite/en-US/Candidates/List/31/NP",
+    "https://clerk.kanecountyil.gov/Elections/Pages/Referenda.aspx",
+    "https://clerk.kanecountyil.gov/Elections/Documents/List%20of%20Write-in%20Candidates%20Who%20Filed%20Declaration%20of%20Intent%20%20GE2026.pdf",
+    "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+  ],
+  "note": "County offices come from the Kane County Clerk's 2026 General Election candidate list, measures from the Clerk's referenda list, and write-ins from the Clerk's write-in declaration list. The Clerk's candidate list does not include judges, so the 16th Circuit retention questions come from the Illinois State Board of Elections candidate filing list. Not shown: County Board districts 1, 2, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21 and 23 (one certified write-in, Carly Joi Jugenitz, for District 13), Regional Superintendent of Schools (Kane voters are split among the Kane, DeKalb, Grundy-Kendall, Lake and McHenry regional offices by school district), Wasco Sanitary District trustees, Congress and state legislature, and local questions (CUSD 300, Oswego SD 308, St. Charles SD 303 and Yorkville SD 115 bonds, East Dundee and Countryside Fire Protection District questions, St. Charles Township refuse collection). There is no countywide referendum and no 16th Circuit or 2nd District Appellate vacancy. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Kane County Clerk",
+      "candidates": [
+        { "key": "il-kane-2026-clerk-rodgers-brenda", "name": "Brenda Rodgers", "party": "Democratic", "incumbent": false },
+        { "key": "il-kane-2026-clerk-cunningham-john", "name": "John A. \"Jack\" Cunningham", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://applications.kanecountyil.gov/ElectionWebsite/en-US/Candidates/List/31/NP"
+    },
+    {
+      "office": "Kane County Sheriff",
+      "candidates": [
+        { "key": "il-kane-2026-sheriff-johnson-amy", "name": "Amy Johnson", "party": "Democratic", "incumbent": false },
+        { "key": "il-kane-2026-sheriff-russell-rob", "name": "Rob Russell", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://applications.kanecountyil.gov/ElectionWebsite/en-US/Candidates/List/31/NP"
+    },
+    {
+      "office": "Kane County Treasurer",
+      "candidates": [
+        { "key": "il-kane-2026-treasurer-wegman-penny", "name": "Penny Wegman", "party": "Democratic", "incumbent": false },
+        { "key": "il-kane-2026-treasurer-lauzen-chris", "name": "Chris Lauzen", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://applications.kanecountyil.gov/ElectionWebsite/en-US/Candidates/List/31/NP"
+    },
+    {
+      "office": "Judge of the Circuit Court, 16th Judicial Circuit — retain Judge Joseph M. Grady? (yes/no retention)",
+      "candidates": [
+        { "key": "il-kane-2026-retain-circuit-grady-joseph", "name": "Joseph M. Grady", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 16th Judicial Circuit — retain Judge Donald (D.J.) Tegeler? (yes/no retention)",
+      "candidates": [
+        { "key": "il-kane-2026-retain-circuit-tegeler-donald", "name": "Donald (D.J.) Tegeler", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 16th Judicial Circuit — retain Judge Robert K. Villa? (yes/no retention)",
+      "candidates": [
+        { "key": "il-kane-2026-retain-circuit-villa-robert", "name": "Robert K. Villa", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 16th Judicial Circuit — retain Judge Elizabeth Flood? (yes/no retention)",
+      "candidates": [
+        { "key": "il-kane-2026-retain-circuit-flood-elizabeth", "name": "Elizabeth Flood", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Aurora": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Aurora Binding Referendum: Recall of Mayor",
+          "title": "Recall and removal of the Mayor of the City of Aurora",
+          "summary": "Asks whether Aurora should adopt a system allowing voters to recall the Mayor. A recall election would be triggered by a petition signed by Aurora electors equal to 20% of the total votes cast for mayor in the previous mayoral election, and the recall question would go on the next regularly scheduled election ballot. If the Mayor is removed, the City Council would appoint a replacement within 30 days, or, if more than 13 months remain in the term, set a special election within 9 months.",
+          "yesMeans": "Aurora adopts a process allowing voters to recall and remove the Mayor by petition and recall election.",
+          "noMeans": "Aurora does not adopt a mayoral recall process.",
+          "source": "https://clerk.kanecountyil.gov/Elections/Pages/Referenda.aspx"
+        }
+      ]
+    }
+  }
+}

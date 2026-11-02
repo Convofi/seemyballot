@@ -1,0 +1,58 @@
+{
+  "state": "IL",
+  "county": "Tazewell County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://tazewell-il.gov/wp-content/uploads/2026/09/Binder1.pdf",
+    "https://tazewell-il.gov/countyclerkrecorder/countyclerkelections/"
+  ],
+  "note": "From the Tazewell County Clerk's 2026 General Election sample ballots (all precinct ballot styles). Not shown: County Board districts (4-year and unexpired 2-year terms), Regional Superintendent of Schools (Tazewell voters are split among regional offices by school district), Congress and state legislature, and local questions (Morton Park District and other municipal, school, park and fire district propositions). The 10th Circuit vacancy on the Peoria County ballot does not appear on Tazewell ballots, and there are no appellate contests. The clerk has not posted a write-in candidate list. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Tazewell County Clerk and Recorder",
+      "candidates": [
+        { "key": "il-tazewell-2026-clerk-ackerman-john", "name": "John C. Ackerman", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://tazewell-il.gov/wp-content/uploads/2026/09/Binder1.pdf"
+    },
+    {
+      "office": "Tazewell County Treasurer",
+      "candidates": [
+        { "key": "il-tazewell-2026-treasurer-clark-hannah", "name": "Hannah M. Clark", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://tazewell-il.gov/wp-content/uploads/2026/09/Binder1.pdf"
+    },
+    {
+      "office": "Tazewell County Sheriff",
+      "candidates": [
+        { "key": "il-tazewell-2026-sheriff-lower-jeffrey", "name": "Jeffrey Lower", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://tazewell-il.gov/wp-content/uploads/2026/09/Binder1.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 10th Judicial Circuit — retain Judge James A. Mack? (yes/no retention)",
+      "candidates": [
+        { "key": "il-tazewell-2026-retain-circuit-mack-james", "name": "James A. Mack", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://tazewell-il.gov/wp-content/uploads/2026/09/Binder1.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 10th Judicial Circuit — retain Judge Christopher R. Doscotch? (yes/no retention)",
+      "candidates": [
+        { "key": "il-tazewell-2026-retain-circuit-doscotch-christopher", "name": "Christopher R. Doscotch", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://tazewell-il.gov/wp-content/uploads/2026/09/Binder1.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition to Impose County School Sales Tax",
+      "title": "Tazewell County school facility sales tax",
+      "summary": "Asks whether to impose a 1% retailers' occupation tax and service occupation tax (a sales tax) in Tazewell County. The revenue would be used only for school facility purposes, school resource officers, and mental health professionals.",
+      "yesMeans": "A 1% county sales tax for school facilities, school resource officers, and mental health professionals is imposed.",
+      "noMeans": "The 1% county school sales tax is not imposed.",
+      "source": "https://tazewell-il.gov/wp-content/uploads/2026/09/Binder1.pdf"
+    }
+  ],
+  "municipalities": {}
+}
