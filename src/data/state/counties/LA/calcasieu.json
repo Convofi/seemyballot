@@ -1,0 +1,33 @@
+{
+  "state": "LA",
+  "county": "Calcasieu Parish",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=11&parishName=CALCASIEU",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 123 Calcasieu Parish precincts; the Magistrate Judge race is the only local item on every precinct ballot. Unopposed candidates were declared elected and do not appear on the ballot: District Attorney (Stephen Dwight), Associate Justice of the Supreme Court 3rd District, 14th Judicial District Court Divisions A, B, C, D, E, F, G and H, Lake Charles City Court Division A judge, Lake Charles and Sulphur City Marshals, and most School Board seats. Calcasieu Parish Police Jury seats are not on this ballot. Not shown because they depend on where you live: 14th Judicial District Court Election Section 1 Division J; Lake Charles City Court Division B judge (on the ballot only within the court's jurisdiction, which does not match city limits); Sulphur City Court judge; School Board Districts 1 and 2; Justices of the Peace and Constables; School District No. 30 bond; and races and questions in DeQuincy, Iowa and Westlake. The City of Lake Charles has no citywide item on this ballot. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Magistrate Judge, 14th Judicial District Court",
+      "candidates": [
+        {
+          "key": "la-calcasieu-2026-magistrate-hawkins-brent",
+          "name": "Brent Hawkins",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "la-calcasieu-2026-magistrate-williams-joseph",
+          "name": "Joseph \"Joey\" Williams",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=11&parishName=CALCASIEU"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

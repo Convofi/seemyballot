@@ -1,0 +1,117 @@
+{
+  "state": "LA",
+  "county": "Caddo Parish",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=10&parishName=CADDO",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 128 Caddo Parish precincts; the parish items shown appear on every precinct ballot, and the Shreveport items appear on every ballot that includes the City of Shreveport. Unopposed candidates were declared elected and do not appear on the ballot: 1st Judicial District Court Divisions A, B, C, D, E, G, H, I, J and K, Juvenile Court judges, Shreveport City Court Divisions A, B and C, Shreveport City Marshal, and School Board Districts 1, 3, 7 and 11. Caddo Parish Commission seats are not on this ballot. PSC District 5 is a state district office. Not shown because they depend on where you live: 1st Judicial District Court Election Section 3 Division F, Shreveport City Court Election District 2 Division D, Shreveport City Council Districts A, B, C, E, F and G, School Board districts, Justices of the Peace and Constables, and town and village races in Blanchard, Vivian and Mooringsport. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Attorney, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "la-caddo-2026-da-anderson-lauren",
+          "name": "Lauren Ray Anderson",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "la-caddo-2026-da-gilley-patricia",
+          "name": "Patricia \"Pat\" Gilley",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "la-caddo-2026-da-seabaugh-alan",
+          "name": "Alan Seabaugh",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-caddo-2026-da-stewart-james",
+          "name": "James E. Stewart, Sr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=10&parishName=CADDO"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Parishwide Proposition",
+      "title": "Parishwide Proposition - $60M Bond - PC - 25 Yrs.",
+      "summary": "Asks whether Caddo Parish may borrow up to $60,000,000 by issuing general obligation bonds for up to 25 years, at no more than 7% interest. The money would pay for building a multi-sports complex and other capital improvements, including land, equipment and furnishings. The bonds would be repaid from property taxes; the ballot states no estimated increase above the 1.50 mills now levied for parish general obligation bonds in the first year.",
+      "yesMeans": "The parish may issue up to $60 million in property-tax-backed bonds for a multi-sports complex and other capital improvements.",
+      "noMeans": "The parish may not issue these bonds.",
+      "source": "https://voterportal.sos.la.gov/SampleBallot"
+    }
+  ],
+  "municipalities": {
+    "Shreveport": {
+      "contests": [
+        {
+          "office": "Mayor, City of Shreveport",
+          "candidates": [
+            {
+              "key": "la-caddo-2026-shreveport-mayor-arceneaux-tom",
+              "name": "\"Tom\" Arceneaux",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-caddo-2026-shreveport-mayor-fakhriravari-siavash",
+              "name": "Siavash \"Sia\" Fakhriravari",
+              "party": "Independent",
+              "incumbent": false
+            },
+            {
+              "key": "la-caddo-2026-shreveport-mayor-mero-chaunta",
+              "name": "Chaunta Mero",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-caddo-2026-shreveport-mayor-phelps-tammy",
+              "name": "Tammy Phelps",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-caddo-2026-shreveport-mayor-watts-stormy",
+              "name": "Stormy Gage Watts",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-caddo-2026-shreveport-mayor-williams-michael",
+              "name": "Michael D. Williams",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-caddo-2026-shreveport-mayor-young-john-paul",
+              "name": "John-Paul Young",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=10&parishName=CADDO"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Shreveport (Downtown Dev. Dist.)",
+          "title": "City of Shreveport (Downtown Dev. Dist.) - 9.04 Mills Cont. - CC - 25 Yrs.",
+          "summary": "Asks whether the City of Shreveport may continue a 9.04-mill property tax on property inside the Downtown Development District for 25 years, 2028 through 2052. The money, an estimated $714,179 a year, would be spent by the Downtown Development Authority only for the district, on administration, operations, property, projects or debt. The ballot states this is a 1.05-mill increase, due to reappraisal, over the 7.99 mills authorized through 2027.",
+          "yesMeans": "The city may keep taxing property in the Downtown Development District at 9.04 mills from 2028 through 2052.",
+          "noMeans": "The city may not continue this downtown district tax past 2027.",
+          "source": "https://voterportal.sos.la.gov/SampleBallot"
+        }
+      ]
+    }
+  }
+}

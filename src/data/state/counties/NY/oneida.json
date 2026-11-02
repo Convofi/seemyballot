@@ -1,0 +1,61 @@
+{
+  "state": "NY",
+  "county": "Oneida County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/County-Certification-for-the-November-3-2026-General-Election.pdf",
+    "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/combined_3812_EDV_3813_EDV.pdf",
+    "https://oneidacountynyvotes.gov/whats-on-the-ballot/",
+    "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/09.28.2026-OfficeHolderReport.pdf"
+  ],
+  "note": "From the Oneida County Board of Elections' County Certification for the November 3, 2026 General Election (dated September 9, 2026) and its election-district sample ballots (Utica Ward 1 District 1 shown). The 2026 ballot is two sheets; check both sides of both. Incumbent flags come from the Board's Office Holder Report of September 28, 2026. New York uses fusion voting: each candidate is listed once under their main party. Joseph Zavaglia and Michael D. Brown also appear on the Working Families line; Michael J. Manfredi, Mary Finegan, Jared A. Pearl, Robert L. Bauer, Stephanie Singe-Cully and Megan Dorr also appear on the Conservative line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, the 23 County Legislator districts, town and village offices (supervisor, clerk, justice, highway superintendent, tax collector, councilperson, trustee), and town propositions (Ava, Floyd and Western term-length local laws). The Board's certification lists no City of Utica office or proposition and no countywide proposition. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 5th Judicial District",
+      "candidates": [
+        { "key": "ny-oneida-2026-supreme-court-zavaglia-joseph", "name": "Joseph Zavaglia", "party": "Democratic", "incumbent": false },
+        { "key": "ny-oneida-2026-supreme-court-manfredi-michael", "name": "Michael J. Manfredi", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/combined_3812_EDV_3813_EDV.pdf"
+    },
+    {
+      "office": "Oneida County Clerk",
+      "candidates": [
+        { "key": "ny-oneida-2026-county-clerk-brown-michael", "name": "Michael D. Brown", "party": "Democratic", "incumbent": false },
+        { "key": "ny-oneida-2026-county-clerk-finegan-mary", "name": "Mary Finegan", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/County-Certification-for-the-November-3-2026-General-Election.pdf"
+    },
+    {
+      "office": "Oneida County Sheriff",
+      "candidates": [
+        { "key": "ny-oneida-2026-sheriff-maciol-robert", "name": "Robert M. Maciol", "party": "Democratic", "incumbent": true },
+        { "key": "ny-oneida-2026-sheriff-pearl-jared", "name": "Jared A. Pearl", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/County-Certification-for-the-November-3-2026-General-Election.pdf"
+    },
+    {
+      "office": "Oneida County Court Judge",
+      "candidates": [
+        { "key": "ny-oneida-2026-county-court-bauer-robert", "name": "Robert L. Bauer", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/County-Certification-for-the-November-3-2026-General-Election.pdf"
+    },
+    {
+      "office": "Oneida County Family Court Judge",
+      "candidates": [
+        { "key": "ny-oneida-2026-family-court-singe-cully-stephanie", "name": "Stephanie Singe-Cully", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/County-Certification-for-the-November-3-2026-General-Election.pdf"
+    },
+    {
+      "office": "Oneida County Surrogate Court Judge",
+      "candidates": [
+        { "key": "ny-oneida-2026-surrogate-court-dorr-megan", "name": "Megan Dorr", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://oneidacountynyvotes.gov/wp-content/uploads/2026/09/County-Certification-for-the-November-3-2026-General-Election.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

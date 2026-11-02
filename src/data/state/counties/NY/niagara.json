@@ -1,0 +1,35 @@
+{
+  "state": "NY",
+  "county": "Niagara County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.niagaracounty.gov/wp-content/uploads/2026/09/20260915163539-ge26-ballot-order-offices-and-candidates-for-november-3-2026.pdf",
+    "https://elections.niagaracounty.gov/wp-content/uploads/2026/02/2026-02-06-081212-2026-elected-officials.pdf"
+  ],
+  "note": "From the Niagara County Board of Elections' General Election Ballot Order of offices and candidates for November 3, 2026. The incumbent flag for County Treasurer comes from the Board's 2026 elected officials list. New York uses fusion voting: each candidate is listed once under their main party. Craig R. Bucki and Anne E. Joynt also appear on the Working Families line; Michael L. Amodeo appears on the Democratic, Republican and Working Families lines and Robert N. Richardson on the Democratic, Republican and Conservative lines (both shown under Democratic, the first line on which they appear); Deanne M. Tripi, Jonathan S. Hickey and Kyle R Andrews also appear on the Conservative line; Robert R. Vario appears only on the Conservative line and is shown as Other. Not shown because they depend on your district or town: Representative in Congress (23rd, 24th and 26th Districts), State Senate, Member of Assembly, Coroner District #1, County Legislative Districts 1-15, City of North Tonawanda City Court Judge and community center bond proposition, town offices (Cambria, Lewiston, Lockport, Newfane, Pendleton, Royalton, Somerset, Wheatfield, Wilson) and the Town of Somerset LOSAP proposition. The Board's list has no countywide proposition and no City of Niagara Falls office or proposition. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 8th Judicial District",
+      "seats": 4,
+      "candidates": [
+        { "key": "ny-niagara-2026-supreme-court-bucki-craig", "name": "Craig R. Bucki", "party": "Democratic", "incumbent": false },
+        { "key": "ny-niagara-2026-supreme-court-joynt-anne", "name": "Anne E. Joynt", "party": "Democratic", "incumbent": false },
+        { "key": "ny-niagara-2026-supreme-court-amodeo-michael", "name": "Michael L. Amodeo", "party": "Democratic", "incumbent": false },
+        { "key": "ny-niagara-2026-supreme-court-richardson-robert", "name": "Robert N. Richardson", "party": "Democratic", "incumbent": false },
+        { "key": "ny-niagara-2026-supreme-court-tripi-deanne", "name": "Deanne M. Tripi", "party": "Republican", "incumbent": false },
+        { "key": "ny-niagara-2026-supreme-court-hickey-jonathan", "name": "Jonathan S. Hickey", "party": "Republican", "incumbent": false },
+        { "key": "ny-niagara-2026-supreme-court-vario-robert", "name": "Robert R. Vario", "party": "Other", "incumbent": false }
+      ],
+      "source": "https://elections.niagaracounty.gov/wp-content/uploads/2026/09/20260915163539-ge26-ballot-order-offices-and-candidates-for-november-3-2026.pdf"
+    },
+    {
+      "office": "Niagara County Treasurer",
+      "candidates": [
+        { "key": "ny-niagara-2026-county-treasurer-andrews-kyle", "name": "Kyle R Andrews", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://elections.niagaracounty.gov/wp-content/uploads/2026/09/20260915163539-ge26-ballot-order-offices-and-candidates-for-november-3-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

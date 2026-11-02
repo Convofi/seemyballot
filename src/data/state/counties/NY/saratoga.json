@@ -1,0 +1,43 @@
+{
+  "state": "NY",
+  "county": "Saratoga County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/09/BOE-Sample-Saratoga-Springs-2026.pdf",
+    "https://www.saratogacountyny.gov/departments/board-of-elections/offices-and-candidates/2026-offices/",
+    "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/09/BOE-General-Election-Ballot-Certification-2026.pdf",
+    "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/09/BOE-Sample-Mechanicville-2026.pdf"
+  ],
+  "note": "From the Saratoga County Board of Elections' 2026 sample ballots, its list of 2026 offices, and its certification of local nominations (dated September 8, 2026). The Supreme Court contest appears on all of the county's posted town and city sample ballots. The Board lists no county offices on the 2026 ballot and no City of Saratoga Springs offices or propositions. New York uses fusion voting: each candidate is listed once under their main party. Tom Buchanan, John T. Ellis, Kate Hogan and Keith S. Massey Jr. also appear on the Conservative line. Not shown because they depend on your town or district: Representative in Congress (20th and 21st Districts), State Senate, Member of Assembly, and town offices (Town/County Supervisor, Supervisor, Town Clerk, Town Justice, Highway Superintendent, Tax Collector), Village of Round Lake offices, and town and library propositions (Town of Malta Round Lake Library contribution, Crandall Public Library District budget). Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 4th Judicial District",
+      "seats": 4,
+      "candidates": [
+        { "key": "ny-saratoga-2026-supreme-court-wanner-bradley", "name": "Bradley M. Wanner", "party": "Democratic", "incumbent": false },
+        { "key": "ny-saratoga-2026-supreme-court-clark-christine", "name": "Christine M. Clark", "party": "Democratic", "incumbent": false },
+        { "key": "ny-saratoga-2026-supreme-court-buchanan-tom", "name": "Tom Buchanan", "party": "Republican", "incumbent": false },
+        { "key": "ny-saratoga-2026-supreme-court-ellis-john", "name": "John T. Ellis", "party": "Republican", "incumbent": false },
+        { "key": "ny-saratoga-2026-supreme-court-hogan-kate", "name": "Kate Hogan", "party": "Republican", "incumbent": false },
+        { "key": "ny-saratoga-2026-supreme-court-massey-keith", "name": "Keith S. Massey Jr.", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/09/BOE-Sample-Saratoga-Springs-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Mechanicville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition #1",
+          "title": "City Council - Professional City Manager form of government",
+          "summary": "Asks whether the City of Mechanicville should adopt a City Council - Professional City Manager form of government, replacing its current Commission form. The change would take effect January 1, 2027.",
+          "yesMeans": "Mechanicville changes to a City Council - Professional City Manager form of government starting January 1, 2027.",
+          "noMeans": "Mechanicville keeps its current Commission form of government.",
+          "source": "https://www.saratogacountyny.gov/wp/wp-content/uploads/2026/09/BOE-Sample-Mechanicville-2026.pdf"
+        }
+      ]
+    }
+  }
+}

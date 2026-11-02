@@ -1,0 +1,193 @@
+{
+  "state": "NM",
+  "county": "Doña Ana County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07",
+    "https://www.donaanacountyelections.com/wp-content/uploads/2026/10/Super-Sample_GN-2026.pdf",
+    "https://www.donaanacountyelections.com/wp-content/uploads/2026/08/City-of-Las-Cruces.pdf",
+    "https://www.donaana.gov/government/other_elected_officials/index.php"
+  ],
+  "note": "From the New Mexico Secretary of State's certified candidate list and the Doña Ana County Clerk's 2026 general election super sample ballot; every contest shown is marked for all precincts. There is no countywide bond or tax question on this ballot. Not shown because they depend on where you live: County Commission Districts 1 and 3, State House districts, Public Education Commission District 7, and the Doña Ana Soil and Water Conservation District mill levy question (on all precincts except parts of Precincts 1, 2, 3, 60, 64, 95, 111 and 171). Incumbency is marked only for the assessor and probate judge, who are listed as the current officeholders on the county's website, and for judges standing for retention. Names appear as filed with the Secretary of State, shown here in standard capitalization. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-sheriff-garrison-todd",
+          "name": "Todd J Garrison",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nm-donaana-2026-sheriff-ordonez-vanessa",
+          "name": "Vanessa Ordoñez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-assessor-montoya-ortega-eugenia",
+          "name": "Eugenia Montoya Ortega",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-probate-judge-baca-judith",
+          "name": "Judith Ann Baca",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "District Court Judge, Third Judicial District, Division 4",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-district-judge-div4-jerabek-isabel",
+          "name": "Isabel D Jerabek",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Magistrate Judge, Division 1",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-magistrate-div1-graff-nathan",
+          "name": "Nathan William Graff",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Magistrate Judge, Division 2",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-magistrate-div2-flores-linda",
+          "name": "Linda L Flores",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Magistrate Judge, Division 3",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-magistrate-div3-chavez-lara-rosenda",
+          "name": "Rosenda Maria Chavez Lara",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Magistrate Judge, Division 4",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-magistrate-div4-gelecki-bryan",
+          "name": "Bryan Michael Gelecki",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Magistrate Judge, Division 5",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-magistrate-div5-gonzalez-chrystian",
+          "name": "Chrystian Julian Gonzalez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Magistrate Judge, Division 6",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-magistrate-div6-mondragon-jannette",
+          "name": "Jannette Alicia Mondragon",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "Magistrate Judge, Division 7",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-magistrate-div7-rossario-gian",
+          "name": "Gian Alexander Rossario",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "District Court Judge retention, Third Judicial District, Division 1: Manuel Isaac Arrieta (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-district-judge-retain-div1-arrieta-manuel",
+          "name": "Manuel Isaac Arrieta",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    },
+    {
+      "office": "District Court Judge retention, Third Judicial District, Division 7: Douglas R Driggers (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-donaana-2026-district-judge-retain-div7-driggers-douglas",
+          "name": "Douglas R Driggers",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=07"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Las Cruces": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Las Cruces General Obligation Library Bond",
+          "title": "City of Las Cruces General Obligation Library Bond",
+          "summary": "Asks whether the City of Las Cruces may issue up to $26,000,000 in general obligation bonds, repaid from property taxes. The money would be used to acquire, plan, design, develop, build, improve, renovate, modernize, automate, furnish and equip the Thomas Branigan Memorial Library.",
+          "yesMeans": "The city may issue up to $26 million in property-tax-backed bonds for the Thomas Branigan Memorial Library.",
+          "noMeans": "The city may not issue these library bonds.",
+          "source": "https://www.donaanacountyelections.com/wp-content/uploads/2026/10/Super-Sample_GN-2026.pdf",
+          "moreInfo": "https://www.donaanacountyelections.com/wp-content/uploads/2026/08/City-of-Las-Cruces.pdf"
+        }
+      ]
+    }
+  }
+}
