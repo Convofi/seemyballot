@@ -1,0 +1,39 @@
+{
+  "state": "KS",
+  "county": "Leavenworth County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.leavenworthcounty.gov/Department/Clerk/Election/26GLEAVEN_NO%20SEAL_SAMPLE.pdf",
+    "https://www.leavenworthcounty.gov/government/county_clerk_s_office/elections/index.php",
+    "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+  ],
+  "note": "From the Leavenworth County Clerk's November 3, 2026 sample ballots (all 52 ballot styles carry the items shown here). County Commissioner Districts 1, 4 and 5, Kansas House and State Board of Education districts, township clerks, the Lan-Del Water Board, and the Unified School District No. 339 question are not shown because they appear on only some ballots. Sheriff, County Attorney, County Clerk, Treasurer and Register of Deeds are not on this ballot. There is no countywide or City of Leavenworth ballot question. Supreme Court and Court of Appeals retention questions and the constitutional amendment appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 1st Judicial District, Division 5 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-leavenworth-2026-1st-judge-div5-retain-lowdon-joan",
+          "name": "Joan M. Lowdon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.leavenworthcounty.gov/Department/Clerk/Election/26GLEAVEN_NO%20SEAL_SAMPLE.pdf"
+    },
+    {
+      "office": "District Court Judge, 1st Judicial District, Division 6 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-leavenworth-2026-1st-judge-div6-retain-bryant-john",
+          "name": "John James Bryant, Jr",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.leavenworthcounty.gov/Department/Clerk/Election/26GLEAVEN_NO%20SEAL_SAMPLE.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

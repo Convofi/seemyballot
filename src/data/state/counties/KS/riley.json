@@ -1,0 +1,53 @@
+{
+  "state": "KS",
+  "county": "Riley County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.rileycountyks.gov/DocumentCenter/View/27509",
+    "https://www.rileycountyks.gov/DocumentCenter/View/27512",
+    "https://www.rileycountyks.gov/128/Elections"
+  ],
+  "note": "From the Riley County Clerk/Election Officer's Notice of General Election (September 16, 2026) and the posted Constitutional Amendment and City of Manhattan Question sample ballot. Riley County (21st Judicial District) keeps district judges by retention vote. Not shown because they depend on where you live: County Commissioner District 1, Kansas House and State Board of Education districts, township clerks, and the USD 329 question. Sheriff, County Attorney, County Clerk, Treasurer and Register of Deeds are not on this ballot. Supreme Court and Court of Appeals retention questions and the constitutional amendment appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 21st Judicial District, Division 1 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-riley-2026-21st-judge-div1-retain-bosch-john",
+          "name": "John F. Bosch",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.rileycountyks.gov/DocumentCenter/View/27509"
+    },
+    {
+      "office": "District Court Judge, 21st Judicial District, Division 3 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-riley-2026-21st-judge-div3-retain-bannister-grant",
+          "name": "Grant Bannister",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.rileycountyks.gov/DocumentCenter/View/27509"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Manhattan": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Manhattan Question",
+          "title": "Citywide one-half percent sales tax for street infrastructure maintenance",
+          "summary": "Asks whether the City of Manhattan may levy an additional one-half percent (0.5%) citywide retailers' sales tax for street infrastructure maintenance under K.S.A. 12-187. The tax would take effect April 1, 2027, the day after the existing special-purpose citywide sales tax that took effect April 1, 2017 expires, or as soon after as the law allows, and would expire 10 years later.",
+          "yesMeans": "The city may levy the 0.5% sales tax for street maintenance for 10 years starting in 2027.",
+          "noMeans": "The city may not levy this 0.5% sales tax.",
+          "source": "https://www.rileycountyks.gov/DocumentCenter/View/27512"
+        }
+      ]
+    }
+  }
+}

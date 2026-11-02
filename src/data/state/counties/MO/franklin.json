@@ -1,0 +1,183 @@
+{
+  "state": "MO",
+  "county": "Franklin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.franklinmo.gov/DocumentCenter/View/484",
+    "https://www.franklinmo.gov/176/Election-Information",
+    "https://www.franklinmo.gov/175/County-Commission"
+  ],
+  "note": "From the Franklin County Clerk's \"What's on the November Ballot\" list for November 3, 2026 (names are printed in capitals there). Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Not shown because they depend on where you live: U.S. House District 2, State Senate District 26, State House Districts 109, 118 and 119, the Union Ambulance District sales tax proposition and Meramec Valley R-III School District Proposition K. The City of Union has no city-wide item on this list. Incumbent flags come from the county's office pages; the County Auditor page lists Angela Gibson, so Anne Barry is not marked incumbent, and associate circuit judge incumbency was not confirmed. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-presiding-commissioner-schatz-dave",
+          "name": "Dave Schatz",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "mo-franklin-2026-presiding-commissioner-landa-richele",
+          "name": "Richele Landa",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mo-franklin-2026-presiding-commissioner-krausch-thomas",
+          "name": "Thomas Krausch",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-auditor-barry-anne",
+          "name": "Anne Barry",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-circuit-clerk-ward-connie",
+          "name": "Connie S. Ward",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-collector-trentmann-doug",
+          "name": "Doug Trentmann",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-county-clerk-baker-tim",
+          "name": "Tim Baker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-recorder-smart-lisa",
+          "name": "Lisa Smart",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-prosecutor-becker-matthew",
+          "name": "Matthew Becker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Associate Circuit Judge, Division V",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-assoc-judge-div5-purschke-joe",
+          "name": "Joe Purschke",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Associate Circuit Judge, Division VI",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-assoc-judge-div6-houston-matthew",
+          "name": "Matthew Houston",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Associate Circuit Judge, Division VII",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-assoc-judge-div7-brinkmann-mark",
+          "name": "Mark E. Brinkmann",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain Virginia W. Lay)",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-appeals-eastern-retain-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain Rebeca Navarro-McKelvey)",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-appeals-eastern-retain-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain Angela Turner Quigless)",
+      "candidates": [
+        {
+          "key": "mo-franklin-2026-appeals-eastern-retain-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.franklinmo.gov/DocumentCenter/View/484"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

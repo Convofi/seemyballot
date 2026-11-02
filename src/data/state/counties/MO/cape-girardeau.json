@@ -1,0 +1,171 @@
+{
+  "state": "MO",
+  "county": "Cape Girardeau County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf",
+    "https://www.capecounty.us/cape-girardeau-county-clerk/whats-on-my-ballot",
+    "https://www.capecounty.us/cape-girardeau-county-clerk/federal-state-and-local-officials"
+  ],
+  "note": "From the Cape Girardeau County Clerk's November 3, 2026 countywide sample ballot (notice of election). Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: U.S. House and state House districts (146, 147, 151), which depend on where you live. All county races have one candidate (Republican) plus a write-in line; circuit and associate circuit judges in the 32nd Circuit are elected on a partisan ballot. The countywide sample ballot lists no county, City of Jackson or City of Cape Girardeau question. Check your official sample ballot. Incumbent flags come from the County Clerk's officials list; Charlie Herbst is currently the 2nd District Commissioner, not Presiding Commissioner.",
+  "contests": [
+    {
+      "office": "Circuit Judge, 32nd Judicial Circuit, Division 1",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-circuit-judge-div1-lipke-scott",
+          "name": "Scott A. Lipke",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 4",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-assoc-circuit-judge-div4-crowe-austin",
+          "name": "Austin D Crowe",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 7",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-assoc-circuit-judge-div7-trueblood-amy",
+          "name": "Amy K. Trueblood",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-presiding-commissioner-herbst-charlie",
+          "name": "Charlie Herbst",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-county-clerk-summers-kara",
+          "name": "Kara Clark Summers",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-circuit-clerk-schuessler-ashley",
+          "name": "Ashley Schuessler",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-recorder-blattner-andrew",
+          "name": "Andrew David Blattner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-prosecutor-welker-mark",
+          "name": "Mark J. Welker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-auditor-frazier-eugene",
+          "name": "Eugene (Pete) Frazier III",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-collector-gholson-barbara",
+          "name": "Barbara Gholson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain Virginia W. Lay)",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-appeals-ed-retain-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain Rebeca Navarro-McKelvey)",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-appeals-ed-retain-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain Angela Turner Quigless)",
+      "candidates": [
+        {
+          "key": "mo-cape-girardeau-2026-appeals-ed-retain-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.capecounty.us/wp-content/uploads/2026/09/Cape-Girardeau-Publication-110326.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

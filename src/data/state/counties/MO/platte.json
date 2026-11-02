@@ -1,0 +1,213 @@
+{
+  "state": "MO",
+  "county": "Platte County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf",
+    "https://www.plattecountymovotes.gov/ballot"
+  ],
+  "note": "From the Platte County Board of Elections' November 3, 2026 election proof (all candidates and questions on any Platte County ballot), which covers the Kansas City part of Platte County too. Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: U.S. House, State Senate 34 and State House districts 12, 13 and 14, which depend on where you live. Platte City and Kansas City have no city question on this ballot; Parkville and Houston Lake questions are shown for those cities. Check your official sample ballot. Incumbent flags are set only for judges on retention; the county's officials roster could not be reached (bot wall), so other county candidates are not marked as incumbents.",
+  "contests": [
+    {
+      "office": "Judge of the Missouri Court of Appeals, Western District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-appeals-wd-retain-hardwick-lisa",
+          "name": "Lisa White Hardwick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "Circuit Judge, 6th Judicial Circuit, Division 1 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-circuit-judge-div1-retain-perry-myles",
+          "name": "Myles A. Perry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 6th Judicial Circuit, Division 4 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-assoc-circuit-judge-div4-retain-casey-susan",
+          "name": "Susan M. Casey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-presiding-commissioner-maki-jason",
+          "name": "Jason Maki",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-platte-2026-presiding-commissioner-mckenna-mary",
+          "name": "Mary McKenna",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mo-platte-2026-presiding-commissioner-brouk-dale",
+          "name": "Dale W. Brouk",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-county-clerk-calvillo-mary",
+          "name": "Mary Calvillo",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-platte-2026-county-clerk-peter-hans",
+          "name": "Hans Peter",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-recorder-wright-christopher",
+          "name": "Christopher L. Wright",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-prosecutor-luetkemeyer-tony",
+          "name": "Tony Luetkemeyer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-auditor-waldon-laura",
+          "name": "Laura Waldon",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-platte-2026-auditor-robinson-kevin",
+          "name": "Kevin Robinson",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "County Collector",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-collector-bosch-jim",
+          "name": "Jim Bosch",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-platte-2026-collector-cayer-holly",
+          "name": "Holly Cayer",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "mo-platte-2026-treasurer-jury-krysten",
+          "name": "Krysten Jury",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-platte-2026-treasurer-kendall-chris",
+          "name": "Chris Kendall",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Parkville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition P",
+          "title": "City of Parkville public safety property tax levy",
+          "summary": "Would have the City of Parkville begin collecting its property tax levy of $0.1790 per $100 of assessed valuation for ten years, tax years 2027 through 2036. The money would fund public safety services, including law enforcement personnel, equipment, technology, vehicles, training, communications systems and related operations.",
+          "yesMeans": "Parkville would collect the $0.1790 public safety levy for tax years 2027 through 2036.",
+          "noMeans": "Parkville would not begin collecting this levy.",
+          "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+        },
+        {
+          "id": "Proposition I",
+          "title": "City of Parkville transportation and infrastructure property tax levy",
+          "summary": "Would have the City of Parkville begin collecting its property tax levy of $0.1280 per $100 of assessed valuation for 10 years, 2027 through 2036. The money would fund transportation and infrastructure needs, equipment and services provided by the city.",
+          "yesMeans": "Parkville would collect the $0.1280 transportation and infrastructure levy for 2027 through 2036.",
+          "noMeans": "Parkville would not begin collecting this levy.",
+          "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+        },
+        {
+          "id": "Proposition F",
+          "title": "City of Parkville city facilities property tax levy",
+          "summary": "Would have the City of Parkville begin collecting a property tax levy of $0.0820 per $100 of assessed valuation for twenty years. The money would fund maintenance, repair, improvement and replacement of city facilities, including the city's transportation facility, that support city staff and services.",
+          "yesMeans": "Parkville would collect the $0.0820 facilities levy for twenty years.",
+          "noMeans": "Parkville would not begin collecting this levy.",
+          "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+        }
+      ]
+    },
+    "Houston Lake": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question",
+          "title": "City of Houston Lake local use tax",
+          "summary": "Would let the City of Houston Lake impose a local use tax at the same rate as its total local sales tax rate. If the local sales tax rate is later raised or lowered by voter approval, the use tax rate would change by the same action.",
+          "yesMeans": "Houston Lake would impose a local use tax equal to its local sales tax rate.",
+          "noMeans": "Houston Lake would not impose a local use tax.",
+          "source": "https://www.plattecountymovotes.gov/s/Election_Proof_Report_136.pdf"
+        }
+      ]
+    }
+  }
+}

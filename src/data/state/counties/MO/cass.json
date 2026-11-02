@@ -1,0 +1,193 @@
+{
+  "state": "MO",
+  "county": "Cass County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf",
+    "https://www.casscounty.com/2352/Sample-Ballots",
+    "https://www.casscounty.com/873/Elected-Officials",
+    "https://www.casscounty.com/2208/Judges"
+  ],
+  "note": "From the Cass County Clerk's November 3, 2026 Notice of Election and sample ballot. Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Not shown because they depend on where you live: U.S. House District 4 and State House Districts 55, 56 and 62. The City of Harrisonville has no item on this ballot; the Drexel and Lee's Summit questions are shown only for those cities (Lee's Summit residents of Jackson County vote through Jackson County election offices). Incumbent flags come from the county's elected-officials and judges pages; Sandy Massa is listed there as interim Circuit Clerk, and Division 5 is currently held by Alyssa Mayer Berko, so Tiffany Tschudi is not marked incumbent. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-presiding-commissioner-huston-bob",
+          "name": "Bob Huston",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-county-clerk-lambertz-kathy",
+          "name": "Kathy Lambertz",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Circuit Clerk",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-circuit-clerk-massa-sandy",
+          "name": "Sandy Massa",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-recorder-medsker-mike",
+          "name": "Mike Medsker",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "mo-cass-2026-recorder-ruiz-art",
+          "name": "Art Ruiz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-prosecutor-butler-ben",
+          "name": "Ben Butler",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-collector-molendorp-chris",
+          "name": "Chris Molendorp",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-auditor-bondon-jack",
+          "name": "Jack Bondon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 3",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-assoc-judge-div3-eftink-james",
+          "name": "James G. Eftink",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 4",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-assoc-judge-div4-spencer-derek",
+          "name": "Derek Spencer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 5",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-assoc-judge-div5-tschudi-tiffany",
+          "name": "Tiffany Tschudi",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 6",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-assoc-judge-div6-howell-jason",
+          "name": "Jason M. Howell",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Western District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-cass-2026-appeals-western-retain-hardwick-lisa",
+          "name": "Lisa White Hardwick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Drexel": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question",
+          "title": "City of Drexel general sales tax increase (Ordinance No. 796)",
+          "summary": "Asks whether to approve Ordinance No. 796, which increases the City of Drexel's general sales tax by one-half of one percent (1/2 of 1%) on retail sales taxable by the State of Missouri. The money would go to general municipal purposes, including downtown improvements and city-wide economic development.",
+          "yesMeans": "The city's general sales tax increases by one-half of one percent.",
+          "noMeans": "The city's general sales tax does not increase.",
+          "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+        }
+      ]
+    },
+    "Lee's Summit": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question",
+          "title": "City of Lee's Summit residential solid waste collection",
+          "summary": "Asks whether the City of Lee's Summit should provide city-wide solid waste collection services for residences.",
+          "yesMeans": "The city would provide residential city-wide solid waste collection services.",
+          "noMeans": "The city would not provide residential city-wide solid waste collection services.",
+          "source": "https://www.casscounty.com/DocumentCenter/View/4496/November-2026-Sample-Ballotpdf"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "state": "KS",
+  "county": "Butler County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://www.bucoks.gov/127/Elections"
+  ],
+  "note": "From the Kansas Secretary of State's 2026 General Election candidate list. Butler County is in the 13th Judicial District, which elects district judges on a partisan ballot; both races shown have one candidate. The Butler County Election Office has not posted a notice of election or sample ballot online, so countywide or city ballot questions could not be confirmed and none are shown. Not shown because they depend on where you live: County Commission districts, Kansas Senate and House and State Board of Education districts, township offices, and city, school and special-district questions. Sheriff, County Attorney, County Clerk, Treasurer and Register of Deeds are not on the November 2026 ballot. Check your official sample ballot at myvoteinfo.voteks.org.",
+  "contests": [
+    {
+      "office": "District Court Judge, 13th Judicial District, Division 1",
+      "candidates": [
+        {
+          "key": "ks-butler-2026-13th-judge-div1-satterfield-janette",
+          "name": "Janette L. Satterfield",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    },
+    {
+      "office": "District Court Judge, 13th Judicial District, Division 4",
+      "candidates": [
+        {
+          "key": "ks-butler-2026-13th-judge-div4-crum-chad",
+          "name": "Chad M. Crum",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

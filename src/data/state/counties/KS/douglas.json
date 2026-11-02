@@ -1,0 +1,39 @@
+{
+  "state": "KS",
+  "county": "Douglas County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://www.dgcoks.gov/county-clerk/voting-and-elections/current-candidates",
+    "https://www.dgcoks.gov/county-clerk/voting-and-elections"
+  ],
+  "note": "District judge retention questions for the 7th Judicial District are from the Kansas Secretary of State's 2026 General Election candidate list; county contests are from the Douglas County Clerk's 2026 election contest list. The only county offices on the 2026 ballot are County Commissioner Districts 1, 4 and 5, which are not shown because they depend on where you live, and neither are Kansas House and State Board of Education districts, Lecompton City Council and township clerks. Sheriff, District Attorney, County Clerk, Treasurer and Register of Deeds are not on this ballot. The County Clerk lists no countywide or City of Lawrence ballot question (only the statewide constitutional amendment); Lawrence elects its city offices in odd-numbered years. Supreme Court and Court of Appeals retention questions appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 7th Judicial District, Division 1 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-douglas-2026-7th-judge-div1-retain-hanley-amy",
+          "name": "Amy J. Hanley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    },
+    {
+      "office": "District Court Judge, 7th Judicial District, Division 6 (retention: vote yes or no on keeping this judge)",
+      "candidates": [
+        {
+          "key": "ks-douglas-2026-7th-judge-div6-retain-donovan-stacey",
+          "name": "Stacey L. Donovan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

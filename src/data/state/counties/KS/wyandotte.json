@@ -1,0 +1,147 @@
+{
+  "state": "KS",
+  "county": "Wyandotte County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf",
+    "https://wycovoteskck.gov/s/NOTICE-OF-SPECIAL-QUESTION-ELECTION-COUNTY-WIDE.pdf",
+    "https://wycovoteskck.gov/s/NOTICE-OF-SPECIAL-QUESTION-ELECTION-KANSAS-CITY-KANSAS.pdf",
+    "https://wycovoteskck.gov/public-notice/2026/9/11/2026-general-election-public-notices"
+  ],
+  "note": "From the Wyandotte County Election Office's November 3, 2026 Notice of General Election and its notices of special question elections. Wyandotte County (29th Judicial District) elects district judges on a partisan ballot; every race shown has one candidate. Incumbent flags are not set because no official judge roster could be checked. Unified Government Mayor/CEO, Commission and Board of Public Utilities seats are elected in odd-numbered years and are not on this ballot. Kansas House and State Board of Education districts and precinct committee races are not shown because they depend on where you live. Supreme Court and Court of Appeals retention questions and the constitutional amendment appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 3",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div3-york-delia",
+          "name": "Delia Maria York",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 4",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div4-mahoney-william",
+          "name": "William P. Mahoney",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 5",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div5-roehler-kayla",
+          "name": "Kayla Roehler",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 6",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div6-lynch-kate",
+          "name": "Kate Lynch",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 10",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div10-williamson-allison",
+          "name": "Allison Williamson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 11",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div11-dupree-timothy",
+          "name": "Timothy L. Dupree",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 12",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div12-alcaraz-candice",
+          "name": "Candice Alcaraz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 15",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div15-roberts-aaron",
+          "name": "Aaron T. Roberts",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    },
+    {
+      "office": "District Court Judge, 29th Judicial District, Division 16",
+      "candidates": [
+        {
+          "key": "ks-wyandotte-2026-29th-judge-div16-mitchell-damon",
+          "name": "Damon D. Mitchell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wycovoteskck.gov/s/Notice-of-Election-and-Polling-Locations-GN2026.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Wyandotte County Special Question",
+      "title": "Countywide 0.25% sales tax for health care services",
+      "summary": "Would authorize Wyandotte County to impose a one-quarter percent (0.25%) countywide retailers' sales tax. The money would pay for health care services, including indigent care, behavioral health, substance abuse, preventive health care and the County Health Department. Collection would begin April 1, 2027, or as soon after as the law allows.",
+      "yesMeans": "The county may impose the 0.25% countywide sales tax for health care services.",
+      "noMeans": "The county does not impose this sales tax.",
+      "source": "https://wycovoteskck.gov/s/NOTICE-OF-SPECIAL-QUESTION-ELECTION-COUNTY-WIDE.pdf"
+    }
+  ],
+  "municipalities": {
+    "Kansas City": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Kansas City, Kansas Special Question",
+          "title": "Additional 3/8-cent citywide sales tax for parks and infrastructure",
+          "summary": "Would authorize the City of Kansas City, Kansas, to impose an additional three-eighths of one percent citywide retailers' sales tax. About half of the money would finance park capital projects, including parks, community centers and trails, and about half would finance infrastructure such as roads, bridges and sidewalks. Collection would begin April 1, 2027, or as soon after as the law allows, and end ten years later.",
+          "yesMeans": "The city may impose the additional 3/8-cent sales tax for ten years for parks and infrastructure.",
+          "noMeans": "The city does not impose this additional sales tax.",
+          "source": "https://wycovoteskck.gov/s/NOTICE-OF-SPECIAL-QUESTION-ELECTION-KANSAS-CITY-KANSAS.pdf"
+        }
+      ]
+    }
+  }
+}

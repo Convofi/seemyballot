@@ -1,0 +1,237 @@
+{
+  "state": "MO",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF",
+    "https://www.jeffcomo.gov/386/County-wide-Sample-Ballot",
+    "https://www.jeffcomo.gov/DocumentCenter/View/21149/August-4-2026-Primary-Election-Candidate-Filings"
+  ],
+  "note": "From the Jefferson County Clerk's November 3, 2026 county-wide sample ballot and notice of election; name capitalization follows the County Clerk's candidate filings list. Jefferson County (23rd Judicial Circuit) elects circuit and associate circuit judges on a partisan ballot. Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown because they depend on where you live: County Council Districts 1, 3, 5 and 7, U.S. House districts 3 and 8, state Senate and House districts, and school district questions (Hillsboro R-3 Proposition H, Meramec Valley R-III Proposition K). The sample ballot lists no countywide question and no Hillsboro or Arnold city question. Check your official sample ballot. Incumbent flags come from the county's Auditor, Prosecuting Attorney, Recorder of Deeds and Circuit Clerk pages and the retention format; other incumbents were not confirmed on an official roster.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-county-executive-whitney-tim",
+          "name": "Tim Whitney",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-jefferson-2026-county-executive-frank-david",
+          "name": "David Frank",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-county-clerk-riebold-jaclyn",
+          "name": "Jaclyn Riebold",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-jefferson-2026-county-clerk-johnson-tracy",
+          "name": "Tracy Johnson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-recorder-waters-debbie",
+          "name": "Debbie (Dunnegan) Waters",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Collector",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-collector-modray-jennifer",
+          "name": "Jennifer Modray",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-auditor-apprill-kristy",
+          "name": "Kristy Apprill",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-prosecutor-stefanski-trisha",
+          "name": "Trisha C Stefanski",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Circuit Clerk",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-circuit-clerk-reuter-mike",
+          "name": "Mike Reuter",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Circuit Judge, 23rd Judicial Circuit, Division 2",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-circuit-judge-div2-coleman-jeffrey",
+          "name": "Jeffrey Coleman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 10",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-assoc-judge-div10-null-lucas",
+          "name": "Lucas Null",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-jefferson-2026-assoc-judge-div10-smith-hynes-colby",
+          "name": "Colby Smith-Hynes",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 11",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-assoc-judge-div11-hand-juli",
+          "name": "Juli Hand",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 12",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-assoc-judge-div12-reuter-renee",
+          "name": "Renee Reuter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 13",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-assoc-judge-div13-senkel-katherine",
+          "name": "Katherine Hardy Senkel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 14",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-assoc-judge-div14-miller-timothy",
+          "name": "Timothy Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 15",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-assoc-judge-div15-hughes-michelle",
+          "name": "Michelle Hughes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-appeals-ed-retain-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-appeals-ed-retain-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-jefferson-2026-appeals-ed-retain-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jeffcomo.gov/DocumentCenter/View/22933/November-3-2026-General-Election-County-Wide-Sample-Ballot-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

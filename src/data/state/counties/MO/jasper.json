@@ -1,0 +1,148 @@
+{
+  "state": "MO",
+  "county": "Jasper County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf",
+    "https://www.jaspercountymo.gov/county-clerk",
+    "https://www.jaspercountymo.gov/elected-officials",
+    "https://www.jaspercountymo.gov/commissioners"
+  ],
+  "note": "From the Jasper County Clerk's November 3, 2026 sample ballots (12 ballot styles). Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: Eastern District County Commissioner (only on part of the county's ballots), U.S. House, State Senate and State House districts, and the Sarcoxie Rural Fire Protection District Question 1, because they depend on where you live. All county races have one Republican candidate plus a write-in line; associate circuit judges are elected on a partisan ballot. The sample ballots list no countywide or City of Joplin question. Four of the 12 posted ballot styles carry only federal and state items, without the county offices or the Court of Appeals retention. Check your official sample ballot. Incumbent flags come from the county's elected-officials and commissioners pages.",
+  "contests": [
+    {
+      "office": "Associate Circuit Judge, Division 4",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-assoc-circuit-judge-div4-nicholas-john",
+          "name": "John A. Nicholas",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 5",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-assoc-circuit-judge-div5-carlton-nicole",
+          "name": "Nicole Marie Carlton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 6",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-assoc-circuit-judge-div6-boyer-luke",
+          "name": "Luke Boyer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Presiding Commissioner of the County Commission",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-presiding-commissioner-roberts-lane",
+          "name": "Lane J. Roberts",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-circuit-clerk-holcomb-melissa",
+          "name": "Melissa Holcomb",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Clerk of the County Commission (County Clerk)",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-county-clerk-davis-charlie",
+          "name": "Charlie Davis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-recorder-hensley-brent",
+          "name": "Brent L. Hensley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-prosecutor-roberts-mike",
+          "name": "Mike Roberts",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-collector-mcintosh-steven",
+          "name": "Steven E. McIntosh",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-auditor-hoover-sarah",
+          "name": "Sarah D. Hoover",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Southern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-jasper-2026-appeals-sd-retain-hamner-matthew",
+          "name": "Matthew P. Hamner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jaspercountymo.gov/_files/ugd/d9f579_55f86f639dc64d3c87994d6d910ebe21.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
