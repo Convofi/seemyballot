@@ -1,0 +1,141 @@
+{
+  "state": "AZ",
+  "county": "Pinal County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.pinal.gov/DocumentCenter/View/31792/2026-General-Election-County--Local-Candidate-List-PDF",
+    "https://www.pinal.gov/DocumentCenter/View/32860/2026-General-Election-Write-in--Withdrawn-Candidates-List-PDF",
+    "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf",
+    "https://www.azcleanelections.gov/november-3-2026/pinal",
+    "https://casagrandeaz.gov/DocumentCenter/View/6429/Sample-Ballot-Pamphlet",
+    "https://casagrandeaz.gov/722/Proposition-407-APS-Franchise-Agreement"
+  ],
+  "note": "Not shown: Justice of the Peace and Constable precincts, Central Arizona College District 5, City of Maricopa council runoff, school district boards, and city, town and school measures outside Casa Grande (Propositions 408-416 and 427). Each depends on a district the address lookup cannot resolve. Arizona Supreme Court retention is statewide and not repeated here. The Central Arizona Water Conservation District seat was uncontested and is not on the ballot. Board of Supervisors, County Attorney, Sheriff, Assessor, Recorder, Treasurer and School Superintendent were elected in 2024 and are not on this ballot. The state publicity pamphlet also lists Superior Court Judge Steven J. Fuller for retention, but Pinal County's candidate list does not, so he is not shown. Casa Grande has no city offices on this ballot. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Clerk of the Superior Court",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-clerk-padilla-rebecca",
+          "name": "Rebecca Padilla",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pinal.gov/DocumentCenter/View/31792/2026-General-Election-County--Local-Candidate-List-PDF"
+    },
+    {
+      "office": "Court of Appeals, Division Two: retain Judge Karl C. Eppich? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-coa2-eppich-karl",
+          "name": "Karl C. Eppich",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division Two: retain Judge Lacey Stover Gard? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-coa2-gard-lacey",
+          "name": "Lacey Stover Gard",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Court of Appeals, Division Two: retain Judge Christopher J. O’Neil? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-coa2-o-neil-christopher",
+          "name": "Christopher J. O’Neil",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+    },
+    {
+      "office": "Superior Court, Division 24: retain Judge Daniel A. Washburn? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-supct-div24-washburn-daniel",
+          "name": "Daniel A. Washburn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pinal.gov/DocumentCenter/View/31792/2026-General-Election-County--Local-Candidate-List-PDF"
+    },
+    {
+      "office": "Superior Court, Division 28: retain Judge Delia R. Neal? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-supct-div28-neal-delia",
+          "name": "Delia R. Neal",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pinal.gov/DocumentCenter/View/31792/2026-General-Election-County--Local-Candidate-List-PDF"
+    },
+    {
+      "office": "Superior Court, Division 33: retain Judge Danielle Harris? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-supct-div33-harris-danielle",
+          "name": "Danielle Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pinal.gov/DocumentCenter/View/31792/2026-General-Election-County--Local-Candidate-List-PDF"
+    },
+    {
+      "office": "Superior Court, Division 34: retain Judge Jessica K. Dixon? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-supct-div34-dixon-jessica",
+          "name": "Jessica K. Dixon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pinal.gov/DocumentCenter/View/31792/2026-General-Election-County--Local-Candidate-List-PDF"
+    },
+    {
+      "office": "Superior Court, Division 35: retain Judge Karen F. Palmer? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pinal-2026-supct-div35-palmer-karen",
+          "name": "Karen F. Palmer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pinal.gov/DocumentCenter/View/31792/2026-General-Election-County--Local-Candidate-List-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Casa Grande": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 407",
+          "title": "APS Franchise Agreement",
+          "summary": "Asks Casa Grande voters to approve a 25-year franchise agreement with Arizona Public Service Company (APS) to build, operate and maintain its electric utility facilities in city rights-of-way. The current agreement, approved in 2002, expires in April 2027. Under the proposed agreement, which would begin April 2, 2027, APS would pay the city a franchise fee of 2% of its revenues from electricity sold or delivered within city limits.",
+          "yesMeans": "The city would approve the 25-year franchise agreement allowing APS to use city rights-of-way for its electric utility.",
+          "noMeans": "The proposed franchise agreement with APS would not be approved.",
+          "source": "https://casagrandeaz.gov/DocumentCenter/View/6429/Sample-Ballot-Pamphlet",
+          "moreInfo": "https://casagrandeaz.gov/722/Proposition-407-APS-Franchise-Agreement"
+        }
+      ]
+    }
+  }
+}

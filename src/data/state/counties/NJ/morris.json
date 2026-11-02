@@ -1,0 +1,31 @@
+{
+  "state": "NJ",
+  "county": "Morris County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.morriscountyclerk.org/files/sharedassets/clerk/v/1/elections/sample-ballots/2026-general-sample-morristown.pdf"
+  ],
+  "note": "The only countywide contest on the 2026 Morris County ballot is one Board of County Commissioners seat; there are no countywide public questions. Mayor, council and township committee races, Board of Education seats (including the Morris School District board on the Morristown ballot), and municipal or school public questions vary by town and are not shown here. The Town of Morristown has no town offices or town questions on this ballot. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Member of the Board of County Commissioners (3-year term)",
+      "candidates": [
+        {
+          "key": "nj-morris-2026-commissioner-selen-tayfun",
+          "name": "Tayfun Selen",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-morris-2026-commissioner-russo-christopher",
+          "name": "Christopher (Chris) Russo",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.morriscountyclerk.org/files/sharedassets/clerk/v/1/elections/sample-ballots/2026-general-sample-morristown.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

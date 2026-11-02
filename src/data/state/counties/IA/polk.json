@@ -1,0 +1,331 @@
+{
+  "state": "IA",
+  "county": "Polk County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf",
+    "https://www.polkcountyiowa.gov/media/4xehjvif/candidate-list.pdf",
+    "https://www.polkcountyiowa.gov/media/khol4c1p/publication-_general_2026.pdf",
+    "https://www.polkcountyiowa.gov/county-auditor/election/news-and-press-releases/general-election-november-3-2026-voter-information/"
+  ],
+  "note": "Not shown: Board of Supervisors Districts 1, 4 and 5, township offices, and the public measures limited to the Saydel and Madrid Community School Districts and the City of Urbandale. Each depends on a district the address lookup cannot resolve. District 5C is Polk County, so every Polk County voter votes on the District 5C judicial retention questions. The City of Des Moines has no city offices or measures on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-treasurer-wells-mary",
+          "name": "Mary L. Wells",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-recorder-chiodo-lisa",
+          "name": "Lisa J. Chiodo",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-attorney-dyer-jonah",
+          "name": "Jonah Dyer",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-attorney-graham-kimberly",
+          "name": "Kimberly Graham",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "County Hospital Trustee",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ia-polk-2026-hospital-trustee-webb-emily",
+          "name": "Emily Webb",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-hospital-trustee-westergaard-emily",
+          "name": "Emily Westergaard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-hospital-trustee-sillah-abu",
+          "name": "Abu Bakarr Sillah",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "Soil and Water Commissioner",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ia-polk-2026-soil-water-neustadt-deborah",
+          "name": "Deborah Neustadt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-soil-water-zehr-douglas",
+          "name": "Douglas R. Zehr",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-soil-water-norris-kirk",
+          "name": "Kirk Norris",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-soil-water-ogden-autumn",
+          "name": "Autumn L. Ogden",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "seats": 5,
+      "candidates": [
+        {
+          "key": "ia-polk-2026-ag-extension-hilbert-angela",
+          "name": "Angela Hilbert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-ag-extension-twedt-cynthia",
+          "name": "Cynthia Twedt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-ag-extension-runde-emma",
+          "name": "Emma Runde",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-ag-extension-goering-dennis",
+          "name": "Dennis H. Goering",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-polk-2026-ag-extension-quiner-jennifer",
+          "name": "Jennifer Quiner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "County Agricultural Extension Council (to fill vacancy)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-ag-extension-vacancy-furlow-harrison",
+          "name": "Harrison Furlow",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Scott J. Beattie be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-beattie-scott",
+          "name": "Scott J. Beattie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Sarah Crane be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-crane-sarah",
+          "name": "Sarah Crane",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Celene Gogerty be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-gogerty-celene",
+          "name": "Celene Gogerty",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Samantha J. Gronewald be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-gronewald-samantha",
+          "name": "Samantha J. Gronewald",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Christopher Kemp be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-kemp-christopher",
+          "name": "Christopher Kemp",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Coleman McAllister be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-mcallister-coleman",
+          "name": "Coleman McAllister",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Lawrence P. McLellan be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-mclellan-lawrence",
+          "name": "Lawrence P. McLellan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Judge - Retention: shall Joseph W. Seidlin be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-judge-retain-seidlin-joseph",
+          "name": "Joseph W. Seidlin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Associate Judge - Retention: shall Kimberly Ayotte be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-assoc-judge-retain-ayotte-kimberly",
+          "name": "Kimberly Ayotte",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Associate Judge - Retention: shall Brendan L. Greiner be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-assoc-judge-retain-greiner-brendan",
+          "name": "Brendan L. Greiner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Associate Judge - Retention: shall Lynn Poschner be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-assoc-judge-retain-poschner-lynn",
+          "name": "Lynn Poschner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Associate Judge - Retention: shall Tabitha Turner be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-assoc-judge-retain-turner-tabitha",
+          "name": "Tabitha Turner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Associate Judge - Retention: shall Jordan Brackey be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-assoc-judge-retain-brackey-jordan",
+          "name": "Jordan Brackey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    },
+    {
+      "office": "District 5C District Associate Judge - Retention: shall Ashley Stewart be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-polk-2026-5c-assoc-judge-retain-stewart-ashley",
+          "name": "Ashley Stewart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.polkcountyiowa.gov/media/1ruimsfl/des_moines_11-sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
