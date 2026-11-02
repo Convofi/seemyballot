@@ -1,0 +1,174 @@
+{
+  "state": "NC",
+  "county": "Rowan County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.rowancountync.gov/250/County-Elected-Officials"
+  ],
+  "note": "Not shown: Rowan-Salisbury Board of Education seats (voters in the Kannapolis City Schools area of Rowan County do not vote on them), the City of Kannapolis Parks and Recreation Bonds referendum (Kannapolis voters only), Town of China Grove and Town of Faith races, and state legislative and U.S. House districts. Check your official sample ballot for those. Salisbury city offices are not on the 2026 ballot and there is no City of Salisbury referendum. Incumbent flags come from the county's County Elected Officials page.",
+  "contests": [
+    {
+      "office": "Rowan County Board of Commissioners",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-commissioner-leonard-karla",
+          "name": "Karla Foster Leonard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rowan-2026-commissioner-lancaster-daniel",
+          "name": "Daniel R. Lancaster",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rowan-2026-commissioner-hinson-jason",
+          "name": "Jason Scott Hinson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rowan-2026-commissioner-addair-hannah",
+          "name": "Hannah Addair",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rowan-2026-commissioner-redmond-alissa",
+          "name": "Alissa Redmond",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rowan-2026-commissioner-pope-ray",
+          "name": "Ray Pope",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rowan County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-sheriff-burleyson-jody",
+          "name": "Jody Burleyson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rowan County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-clerk-superior-court-wyrick-richard",
+          "name": "Todd Wyrick",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rowan County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-register-of-deeds-brindle-jonathan",
+          "name": "John Brindle",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 27",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-district-attorney-cook-brandy",
+          "name": "Brandy Cook",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 27, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-district-court-seat-01-sease-christopher",
+          "name": "Chris Sease",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 27, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-district-court-seat-02-dixon-beth",
+          "name": "Beth S. Dixon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 27, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-district-court-seat-03-dry-cynthia",
+          "name": "Cynthia G. Dry",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 27, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-district-court-seat-04-randolph-james",
+          "name": "James Randolph",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rowan Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-rowan-2026-soil-water-correll-cheryl",
+          "name": "Cheryl McCoy Correll",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nc-rowan-2026-soil-water-may-kristin",
+          "name": "Kristin May",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

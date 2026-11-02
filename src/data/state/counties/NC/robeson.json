@@ -1,0 +1,137 @@
+{
+  "state": "NC",
+  "county": "Robeson County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.robesoncountync.gov/_files/ugd/269399_862c05f9400f4f8e860a3f071a1720e7.pdf"
+  ],
+  "note": "Not shown: Robeson County Board of Commissioners Districts 2, 4, 6 and 8 (each elected by district; no official source we could reach shows them on every county ballot), town races, and state legislative and U.S. House districts. Check your official sample ballot for those. Lumberton city offices are not on the 2026 ballot, and the only referendums in Robeson County are the three statewide constitutional amendments. Incumbent flags are not set because we could not reach a current official roster.",
+  "contests": [
+    {
+      "office": "Robeson County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-sheriff-dimery-dakota",
+          "name": "Dakota Dimery",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-robeson-2026-sheriff-wilkins-burnis",
+          "name": "Burnis Wilkins",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Robeson County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-clerk-superior-court-smith-shelena",
+          "name": "Shelena Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 20",
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-district-attorney-scott-matthew",
+          "name": "Matt Scott",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 20, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-district-court-seat-01-clewis-ethan",
+          "name": "Ethan Clewis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-robeson-2026-district-court-seat-01-melvin-krystle",
+          "name": "Krystle Melvin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 20, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-district-court-seat-02-lanier-leah",
+          "name": "Leah Britt Lanier",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 20, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-district-court-seat-03-mcintyre-angelica",
+          "name": "Angelica Chavis McIntyre",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 20, Seat 4 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-district-court-seat-04-brooks-mark",
+          "name": "Mark Simeon Brooks",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-robeson-2026-district-court-seat-04-gurnee-graham",
+          "name": "Graham Gurnee",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Robeson Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-robeson-2026-soil-water-lewis-gilbert",
+          "name": "Gilbert (Chip) Lewis, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-robeson-2026-soil-water-herndon-michael",
+          "name": "Michael Herndon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

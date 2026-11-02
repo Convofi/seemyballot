@@ -1,0 +1,119 @@
+{
+  "state": "NC",
+  "county": "Orange County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.orangecountync.gov/953/Board-of-County-Commissioners-BOCC"
+  ],
+  "note": "Not shown: Orange County Board of Commissioners Districts 1 and 2 (only voters in each district), town races, and state legislative and U.S. House districts. Check your official sample ballot for those. Chapel Hill town offices are not on the 2026 ballot, and the only referendums in Orange County are the three statewide constitutional amendments. Incumbent flags are not set because we could not confirm the other officeholders on an official roster; neither at-large commissioner candidate is on the county's current board list.",
+  "contests": [
+    {
+      "office": "Orange County Board of Commissioners At-Large",
+      "candidates": [
+        {
+          "key": "nc-orange-2026-commissioner-at-large-stegman-karen",
+          "name": "Karen Stegman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-orange-2026-commissioner-at-large-hoagland-jeffrey",
+          "name": "Jeffrey Hoagland",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Orange County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-orange-2026-sheriff-blackwood-charles",
+          "name": "Charles Blackwood",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Orange County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-orange-2026-clerk-superior-court-kleinschmidt-mark",
+          "name": "Mark Kleinschmidt",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Orange County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-orange-2026-register-of-deeds-mclamb-amy",
+          "name": "Amy Jo McLamb",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 18",
+      "candidates": [
+        {
+          "key": "nc-orange-2026-district-attorney-nieman-jeffrey",
+          "name": "Jeff Nieman",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 18, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-orange-2026-district-court-seat-01-roper-christopher",
+          "name": "C. Todd Roper",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Orange Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-orange-2026-soil-water-foreman-kane",
+          "name": "K. Alexander Foreman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-orange-2026-soil-water-vanhook-richal",
+          "name": "Richal Vanhook",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-orange-2026-soil-water-hogan-william",
+          "name": "W. Chris Hogan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
