@@ -1,0 +1,411 @@
+{
+  "state": "CO",
+  "county": "Boulder County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+    "https://bouldercounty.gov/elections/ballot-information/",
+    "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/",
+    "https://bouldercounty.gov/government/elected-officials/",
+    "https://bouldercolorado.gov/government/city-council"
+  ],
+  "note": "Boulder County commissioners live in residence districts but are elected by voters of the whole county, so the District 3 seat is shown for everyone. No District Attorney contest and no countywide candidate besides those shown is on the 2026 ballot. Not shown: Regional Transportation District director races, state legislative and congressional districts, State Board of Education and CU Regent districts, school district and special district measures, Front Range Passenger Rail District Issue 7A (covers only the district), and offices and measures in other towns and cities (Erie council districts, Superior mayor and council, Lafayette 2A, Louisville 2B and others). Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-commissioner-d3-stolzmann-ashley",
+          "name": "Ashley Stolzmann",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-clerk-fitzpatrick-molly",
+          "name": "Molly Fitzpatrick",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-treasurer-friend-rachel",
+          "name": "Rachel Friend",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-assessor-braddock-cynthia",
+          "name": "Cynthia Braddock",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-sheriff-johnson-curtis",
+          "name": "Curtis Johnson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-surveyor-keane-kayce",
+          "name": "Kayce D. W. Keane",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-coroner-martin-jeff",
+          "name": "Jeff Martin",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "District Court Judge, 20th Judicial District — retain Judge Michael Kotlarczyk? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-retain-district-kotlarczyk-michael",
+          "name": "Michael Kotlarczyk",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "District Court Judge, 20th Judicial District — retain Judge J. Chris Larson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-retain-district-larson-chris",
+          "name": "J. Chris Larson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "District Court Judge, 20th Judicial District — retain Judge Nancy Woodruff Salomone? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-retain-district-salomone-nancy",
+          "name": "Nancy Woodruff Salomone",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Boulder County Court Judge — retain Judge Elizabeth House Moulton Brodsky? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-retain-county-brodsky-elizabeth",
+          "name": "Elizabeth House Moulton Brodsky",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Boulder County Court Judge — retain Judge Monica Haenselman? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-retain-county-haenselman-monica",
+          "name": "Monica Haenselman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Boulder County Court Judge — retain Judge Zachary Ilya Malkinson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-boulder-2026-retain-county-malkinson-zachary",
+          "name": "Zachary Ilya Malkinson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Boulder County Ballot Issue 1A",
+      "title": "Early childhood care and education mill levy increase and voter-approved revenue change",
+      "summary": "Adds a new Boulder County property tax of 2.579 mills, raising about $30,000,000 in 2027 (about $115 a year on a $725,000 home at current assessment rates). The money would go to lowering child care and preschool costs for families, raising pay for child care and preschool staff, and expanding the number of child care and preschool spots. The county could keep and spend all of the revenue as a voter-approved revenue change.",
+      "yesMeans": "Boulder County adds the 2.579-mill property tax for child care and preschool programs.",
+      "noMeans": "The new property tax is not approved.",
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+      "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+    },
+    {
+      "id": "Boulder County Ballot Question 200",
+      "title": "Increase the Board of County Commissioners from three to five members",
+      "summary": "Asks whether the Boulder County Board of Commissioners should grow from three members to five.",
+      "yesMeans": "The Board of County Commissioners grows from three to five members.",
+      "noMeans": "The Board stays at three members.",
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+      "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+    },
+    {
+      "id": "Boulder County Ballot Question 201",
+      "title": "Method of electing a five-member Board of County Commissioners",
+      "summary": "Applies only if the Board grows to five members. Instead of yes or no, voters choose one of two methods: (1) all five commissioners live in districts and are elected only by voters in their district, or (2) three commissioners are elected by district voters only and two are elected by voters of the whole county.",
+      "yesMeans": "This question has no yes/no vote. Choosing the first option means all five commissioners would be elected only by voters in their own district.",
+      "noMeans": "Choosing the second option means three commissioners elected by district voters plus two elected countywide.",
+      "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+      "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+    }
+  ],
+  "municipalities": {
+    "Boulder": {
+      "contests": [
+        {
+          "office": "City of Boulder Mayor (ranked choice, rank up to six)",
+          "candidates": [
+            {
+              "key": "co-boulder-2026-boulder-city-mayor-jacobs-lisa",
+              "name": "Lisa Ann Jacobs",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-mayor-adams-taishya",
+              "name": "Taishya Adams",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-mayor-brockett-aaron",
+              "name": "Aaron Brockett",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-mayor-goldstein-jameson",
+              "name": "Jameson (Jamo) Goldstein",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-mayor-instead-grateful",
+              "name": "Grateful Fred Instead",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-mayor-grave-aquiles",
+              "name": "Aquiles La Grave",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+        },
+        {
+          "office": "City of Boulder City Council (vote for up to five)",
+          "candidates": [
+            {
+              "key": "co-boulder-2026-boulder-city-council-gilbert-lee",
+              "name": "Lee Gilbert",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-fuqua-sam",
+              "name": "Sam Fuqua",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-schuchard-ryan",
+              "name": "Ryan Schuchard",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-richmond-jamillah",
+              "name": "Jamillah Richmond",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-duran-benita",
+              "name": "Benita Duran",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-winer-tara",
+              "name": "Tara Winer",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-isaacson-rachel",
+              "name": "Rachel Rose Isaacson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-martus-dave",
+              "name": "Dave Martus",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-rendleman-scott",
+              "name": "Scott Rendleman",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-grano-jill",
+              "name": "Jill Adler Grano",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-jamieson-ryan",
+              "name": "Ryan Jamieson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-segal-lynn",
+              "name": "Lynn Segal",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-boulder-2026-boulder-city-council-marquis-tina",
+              "name": "Tina Marquis",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Boulder Ballot Issue 2J",
+          "title": "Residential vacancy excise tax",
+          "summary": "Creates a City of Boulder tax of $4,000 a year on homes occupied 183 days or less per year, rising with inflation to no more than $7,000, estimated to raise $6,000,000 in 2028. The revenue would support city services such as police and fire protection, parks and recreation, and transportation and maintenance, and the city could keep and spend it as a voter-approved revenue change.",
+          "yesMeans": "Boulder adds the residential vacancy excise tax.",
+          "noMeans": "The vacancy tax is not adopted.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        },
+        {
+          "id": "City of Boulder Ballot Issue 2K",
+          "title": "Recreation and safety bond",
+          "summary": "Allows the City of Boulder to borrow up to $400,000,000 (maximum repayment cost $650,000,000), repaid with property taxes of up to $32,500,000 a year. Projects listed include the South and North Boulder recreation centers, fire stations, a new public safety building for police and 911, the Penfield Tate II Municipal Building, and the Municipal Service Center.",
+          "yesMeans": "Boulder may issue the bonds and levy property taxes to repay them for the listed projects.",
+          "noMeans": "The bonds and related property taxes are not approved.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        },
+        {
+          "id": "City of Boulder Ballot Question 2L",
+          "title": "Bargaining rights for union firefighters in the City Charter",
+          "summary": "Adds a new Section 73 to the Boulder City Charter giving full-time fire department employees a charter right to bargain collectively over safety, wages, benefits and other employment terms, except rights reserved to management. Impasses would go to non-binding fact-finding and, if needed, a vote of city voters.",
+          "yesMeans": "The Charter adds collective bargaining rights for full-time firefighters.",
+          "noMeans": "The Charter is not changed.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        },
+        {
+          "id": "City of Boulder Ballot Question 2M",
+          "title": "Debt limit City Charter language change",
+          "summary": "Amends Section 97 of the Boulder Home Rule Charter so the city's debt limit is set at no more than three percent of the actual value of taxable property in the city.",
+          "yesMeans": "The Charter's debt limit is changed to three percent of the actual value of taxable property.",
+          "noMeans": "The current Charter debt limit language stays.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        }
+      ]
+    },
+    "Longmont": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Longmont Ballot Issue 3A",
+          "title": "Maintain and increase fire and police services via tax increases",
+          "summary": "Raises City of Longmont taxes by about $19.5 million in the first full year through a new property tax of up to 2.44 mills (starting in tax collection year 2027) and a new 0.33% sales and use tax (starting January 1, 2027). The money must be used for public safety, such as police officers, emergency dispatchers, firefighters, support staff, and equipment, vehicles and facilities; the city may also adjust the levy to offset certain future state tax reductions.",
+          "yesMeans": "Longmont adds the property tax and 0.33% sales and use tax for police and fire services.",
+          "noMeans": "The new public safety taxes are not approved.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        },
+        {
+          "id": "City of Longmont Ballot Question 3B",
+          "title": "Charter amendment to protect open space lands",
+          "summary": "Amends Section 13.2 of the Longmont Home Rule Charter so open space land cannot be sold or conveyed without voter approval, with exceptions for public roads, utilities, life-essential infrastructure, open space operations, and structures on such land.",
+          "yesMeans": "Selling or conveying city open space generally requires voter approval.",
+          "noMeans": "The Charter is not changed.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        },
+        {
+          "id": "City of Longmont Ballot Question 3C",
+          "title": "Charter amendment to allow ranked choice voting methods",
+          "summary": "Adds Section 2.10 to the Longmont Home Rule Charter to use ranked choice voting, where possible, to elect future mayors and councilmembers starting in November 2029.",
+          "yesMeans": "Longmont uses ranked choice voting for mayor and council where possible starting in 2029.",
+          "noMeans": "Longmont does not adopt ranked choice voting.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        },
+        {
+          "id": "City of Longmont Ballot Question 3D",
+          "title": "Charter amendment to adjust City Council electoral cycles",
+          "summary": "Amends Section 3.6 of the Longmont Home Rule Charter so the three at-large councilmembers are elected in one cycle and the three ward councilmembers in the other, alternating from then on. This change takes effect only if Question 3C (ranked choice voting) is also approved.",
+          "yesMeans": "Council elections are realigned into alternating at-large and ward cycles, if 3C also passes.",
+          "noMeans": "Council election cycles are not changed.",
+          "source": "https://assets.bouldercounty.gov/wp-content/uploads/2026/09/Boulder-County-2026-General-Sample-Ballot.pdf",
+          "moreInfo": "https://bouldercounty.gov/elections/information/2026-general-election-candidates-and-ballot-measures/"
+        }
+      ]
+    }
+  }
+}

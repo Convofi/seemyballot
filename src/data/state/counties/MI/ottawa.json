@@ -1,0 +1,68 @@
+{
+  "state": "MI",
+  "county": "Ottawa County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://app.miottawa.org/ElectionManagement/viewPublicFile.action?viewFile=%2Fmnt%2Fottawa-apps%2Fcontent%2FappImages%2FElectionManagement%2FcandidateFile-226.pdf",
+    "https://miottawa.org/clerk/elections/running-for-office/"
+  ],
+  "note": "From the Ottawa County Clerk's 2026 candidate listing (which the county titles an unofficial listing). County proposals could not be checked: the county site posts no proposal list and the state's sample-ballot site blocks automated access, so countywide millage or other proposals may be missing. No Ottawa County executive or row offices are on this ballot: Prosecuting Attorney, Sheriff, Clerk/Register of Deeds, Treasurer and Water Resources Commissioner are elected in presidential years. Not shown: County Commissioner districts, Grand Rapids Community College trustees, school board members, Spring Lake Village president and council, township offices (Crockery, Polkton, Robinson, Zeeland Charter), and city, township, village, library and school proposals. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term, vote for 2)",
+      "candidates": [
+        {
+          "key": "mi-ottawa-2026-coa3-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ottawa-2026-coa3-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://app.miottawa.org/ElectionManagement/viewPublicFile.action?viewFile=%2Fmnt%2Fottawa-apps%2Fcontent%2FappImages%2FElectionManagement%2FcandidateFile-226.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 20th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-ottawa-2026-circuit20-hulsing-jon",
+          "name": "Jon Hulsing",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://app.miottawa.org/ElectionManagement/viewPublicFile.action?viewFile=%2Fmnt%2Fottawa-apps%2Fcontent%2FappImages%2FElectionManagement%2FcandidateFile-226.pdf"
+    },
+    {
+      "office": "Judge of District Court, 58th District, Incumbent Position (6-year term, vote for 2)",
+      "candidates": [
+        {
+          "key": "mi-ottawa-2026-district58-bocanegra-juanita",
+          "name": "Juanita F. Bocanegra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ottawa-2026-district58-white-anna",
+          "name": "Anna White",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ottawa-2026-district58-ledford-paul",
+          "name": "Paul Ledford",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://app.miottawa.org/ElectionManagement/viewPublicFile.action?viewFile=%2Fmnt%2Fottawa-apps%2Fcontent%2FappImages%2FElectionManagement%2FcandidateFile-226.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
