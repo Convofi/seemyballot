@@ -1,0 +1,80 @@
+{
+  "state": "AL",
+  "county": "Marshall County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Marshall-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Marshall County sample ballot. Not shown because they depend on your district or school system: Marshall County Commission Districts 1 and 4, and Superintendent and At-Large Member of the Marshall County Board of Education (elected only by voters in the county school system, not Albertville, Arab, Boaz or Guntersville city schools). There is no local amendment. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Court Judge, Marshall County, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-marshall-2026-district-p2-ross-zach",
+          "name": "Zach Ross",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Marshall-Sample.pdf"
+    },
+    {
+      "office": "Chairman, Marshall County Commission",
+      "candidates": [
+        {
+          "key": "al-marshall-2026-commission-chair-young-john",
+          "name": "John Young",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Marshall-Sample.pdf"
+    },
+    {
+      "office": "Marshall County Sheriff",
+      "candidates": [
+        {
+          "key": "al-marshall-2026-sheriff-sims-phil",
+          "name": "Phil Sims",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Marshall-Sample.pdf"
+    },
+    {
+      "office": "Marshall County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-marshall-2026-revenue-commissioner-johnson-michael",
+          "name": "Michael Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Marshall-Sample.pdf"
+    },
+    {
+      "office": "Marshall County Coroner",
+      "candidates": [
+        {
+          "key": "al-marshall-2026-coroner-warren-rebacca",
+          "name": "Rebacca Warren",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-marshall-2026-coroner-mccormack-mike",
+          "name": "Mike McCormack",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Marshall-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

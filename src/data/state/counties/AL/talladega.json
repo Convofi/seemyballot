@@ -1,0 +1,74 @@
+{
+  "state": "AL",
+  "county": "Talladega County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Talladega_Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Talladega County sample ballot. Not shown because they depend on your district or school system: Talladega County Commission Districts 2 and 4, and Talladega County Board of Education District 4. There is no local amendment. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Court Judge, Talladega County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-talladega-2026-district-p1-brewer-j",
+          "name": "J. Scott Brewer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Talladega_Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Talladega County, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-talladega-2026-district-p2-price-dale",
+          "name": "Dale Price",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Talladega_Sample.pdf"
+    },
+    {
+      "office": "Talladega County Sheriff",
+      "candidates": [
+        {
+          "key": "al-talladega-2026-sheriff-kilgore-jimmy",
+          "name": "Jimmy Kilgore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Talladega_Sample.pdf"
+    },
+    {
+      "office": "Talladega County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-talladega-2026-revenue-commissioner-pennington-cindy",
+          "name": "Cindy Pennington",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Talladega_Sample.pdf"
+    },
+    {
+      "office": "Talladega County Coroner",
+      "candidates": [
+        {
+          "key": "al-talladega-2026-coroner-murphy-shaddix",
+          "name": "Shaddix Murphy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Talladega_Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

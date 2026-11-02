@@ -1,0 +1,62 @@
+{
+  "state": "AL",
+  "county": "Calhoun County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Calhoun-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Calhoun County sample ballot. Not shown because they depend on your district or school system: Calhoun County Commission Districts 1 through 5. There is no local amendment. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 7th Judicial Circuit, Place No. 4",
+      "candidates": [
+        {
+          "key": "al-calhoun-2026-circuit-p4-lacher-peggy",
+          "name": "Peggy P. Miller Lacher",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Calhoun-Sample.pdf"
+    },
+    {
+      "office": "Calhoun County Sheriff",
+      "candidates": [
+        {
+          "key": "al-calhoun-2026-sheriff-hurst-falon",
+          "name": "Falon Hurst",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Calhoun-Sample.pdf"
+    },
+    {
+      "office": "Calhoun County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-calhoun-2026-revenue-commissioner-hodges-tim",
+          "name": "Tim Hodges",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Calhoun-Sample.pdf"
+    },
+    {
+      "office": "Calhoun County Coroner",
+      "candidates": [
+        {
+          "key": "al-calhoun-2026-coroner-brown-pat",
+          "name": "Pat Brown",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Calhoun-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

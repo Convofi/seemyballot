@@ -1,0 +1,74 @@
+{
+  "state": "AL",
+  "county": "Houston County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Houston-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Houston County sample ballot. Not shown because they depend on your district or school system: Houston County Commission Districts 1 through 4 and Houston County Board of Education District 2. There is no local amendment. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 20th Judicial Circuit, Place No. 5",
+      "candidates": [
+        {
+          "key": "al-houston-2026-circuit-p5-derrick-todd",
+          "name": "Todd Derrick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Houston-Sample.pdf"
+    },
+    {
+      "office": "Chairman, Houston County Commission",
+      "candidates": [
+        {
+          "key": "al-houston-2026-commission-chair-shoupe-brandon",
+          "name": "Brandon Shoupe",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Houston-Sample.pdf"
+    },
+    {
+      "office": "Houston County Sheriff",
+      "candidates": [
+        {
+          "key": "al-houston-2026-sheriff-valenza-donald",
+          "name": "Donald J. Valenza",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Houston-Sample.pdf"
+    },
+    {
+      "office": "Houston County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-houston-2026-revenue-commissioner-holland-greg",
+          "name": "Greg Holland",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Houston-Sample.pdf"
+    },
+    {
+      "office": "Houston County Coroner",
+      "candidates": [
+        {
+          "key": "al-houston-2026-coroner-glover-kendall",
+          "name": "Kendall Glover",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Houston-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

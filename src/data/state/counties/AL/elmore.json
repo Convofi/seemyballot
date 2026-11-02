@@ -1,0 +1,86 @@
+{
+  "state": "AL",
+  "county": "Elmore County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Elmore-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Elmore County sample ballot. Not shown because they depend on your district or school system: Elmore County Board of Education Districts 1 and 6. There is no local amendment. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 19th Judicial Circuit, Place No. 5",
+      "candidates": [
+        {
+          "key": "al-elmore-2026-circuit-p5-carter-carol",
+          "name": "Carol Cook Carter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Elmore-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Elmore County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-elmore-2026-district-p1-baxley-ben",
+          "name": "Ben Baxley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Elmore-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Elmore County, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-elmore-2026-district-p2-richardson-dwight",
+          "name": "Dwight \"Tray\" M. Richardson III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Elmore-Sample.pdf"
+    },
+    {
+      "office": "Elmore County Sheriff",
+      "candidates": [
+        {
+          "key": "al-elmore-2026-sheriff-franklin-william",
+          "name": "William E Franklin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Elmore-Sample.pdf"
+    },
+    {
+      "office": "Elmore County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-elmore-2026-revenue-commissioner-macon-thomas",
+          "name": "Thomas L Macon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Elmore-Sample.pdf"
+    },
+    {
+      "office": "Elmore County Coroner",
+      "candidates": [
+        {
+          "key": "al-elmore-2026-coroner-terrell-ross",
+          "name": "Ross Terrell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Elmore-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

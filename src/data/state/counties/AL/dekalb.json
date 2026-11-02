@@ -1,0 +1,74 @@
+{
+  "state": "AL",
+  "county": "DeKalb County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/DeKalb-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official DeKalb County sample ballot. Not shown because they depend on your district or school system: DeKalb County Commission Districts 3 and 4, and DeKalb County Board of Education Districts 1 and 2. There is no local amendment. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Court Judge, DeKalb County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-dekalb-2026-district-p1-whitmire-steve",
+          "name": "Steve Whitmire",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/DeKalb-Sample.pdf"
+    },
+    {
+      "office": "President, DeKalb County Commission",
+      "candidates": [
+        {
+          "key": "al-dekalb-2026-commission-president-saferite-ron",
+          "name": "Ron Saferite",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/DeKalb-Sample.pdf"
+    },
+    {
+      "office": "DeKalb County Sheriff",
+      "candidates": [
+        {
+          "key": "al-dekalb-2026-sheriff-welden-nick",
+          "name": "Nick Welden",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/DeKalb-Sample.pdf"
+    },
+    {
+      "office": "DeKalb County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-dekalb-2026-revenue-commissioner-wilks-tyler",
+          "name": "Tyler Wilks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/DeKalb-Sample.pdf"
+    },
+    {
+      "office": "DeKalb County Coroner",
+      "candidates": [
+        {
+          "key": "al-dekalb-2026-coroner-wilson-tom",
+          "name": "Tom Wilson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/DeKalb-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

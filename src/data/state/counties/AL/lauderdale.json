@@ -1,0 +1,50 @@
+{
+  "state": "AL",
+  "county": "Lauderdale County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lauderdale-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Lauderdale County sample ballot. Not shown because they depend on your district or school system: Lauderdale County Commission District 1 Place 2 and District 2 Place 2, and Lauderdale County Board of Education Place 5 (elected only by voters in the county school system, not Florence city schools). There is no local amendment. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Lauderdale County Sheriff",
+      "candidates": [
+        {
+          "key": "al-lauderdale-2026-sheriff-hamilton-joe",
+          "name": "Joe Hamilton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lauderdale-Sample.pdf"
+    },
+    {
+      "office": "Lauderdale County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-lauderdale-2026-revenue-commissioner-hammock-billy",
+          "name": "Billy Hammock",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lauderdale-Sample.pdf"
+    },
+    {
+      "office": "Lauderdale County Coroner",
+      "candidates": [
+        {
+          "key": "al-lauderdale-2026-coroner-jones-kim",
+          "name": "Kim Edgil Jones",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lauderdale-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

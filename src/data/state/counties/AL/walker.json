@@ -1,0 +1,91 @@
+{
+  "state": "AL",
+  "county": "Walker County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Walker County sample ballot. Not shown because they depend on your district or school system: Superintendent and Chairman of the Walker County Board of Education (elected only by voters in the county school system, not Jasper city schools). No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 14th Judicial Circuit, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-walker-2026-circuit-p1-barrentine-joeletta",
+          "name": "Joeletta Barrentine",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Walker County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-walker-2026-district-p1-allred-henry",
+          "name": "Henry Allred",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf"
+    },
+    {
+      "office": "Walker County Sheriff",
+      "candidates": [
+        {
+          "key": "al-walker-2026-sheriff-akins-jason",
+          "name": "Jason Akins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf"
+    },
+    {
+      "office": "Walker County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-walker-2026-revenue-commissioner-davis-jerry",
+          "name": "Jerry Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf"
+    },
+    {
+      "office": "Walker County Coroner",
+      "candidates": [
+        {
+          "key": "al-walker-2026-coroner-mccluskey-trent",
+          "name": "Trent McCluskey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Amendment 1",
+      "title": "Walker County: senior property tax exemption (Act 2026-15)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 that applies only to Walker County. It would let a qualified taxpayer age 65 or older claim a senior property tax exemption on real property under certain conditions.",
+      "yesMeans": "Qualified Walker County taxpayers 65 or older could claim a senior property tax exemption on real property under certain conditions.",
+      "noMeans": "The constitution is not amended and this senior exemption does not take effect.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf"
+    },
+    {
+      "id": "Local Amendment 2",
+      "title": "Walker County: maximum qualifying age for judge of probate (Act 2026-31)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 that applies only to Walker County. It would set the maximum age at which a person may qualify as judge of probate of the county at 75 years at the time of qualifying for election or appointment.",
+      "yesMeans": "A person could qualify as Walker County judge of probate up to age 75 at the time of qualifying for election or appointment.",
+      "noMeans": "The constitution is not amended and the current age rule for judge of probate stays in place.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Walker-Sample.pdf"
+    }
+  ],
+  "municipalities": {}
+}

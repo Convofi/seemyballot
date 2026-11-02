@@ -1,0 +1,83 @@
+{
+  "state": "AL",
+  "county": "Cullman County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Cullman-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Cullman County sample ballot. Not shown because they depend on your district or school system: Cullman County Board of Education Districts 2 (Fairview), 4 (Hanceville), 6 (Vinemont) and 7 (Good Hope). Both Associate Commissioner seats are printed on every ballot style, so every county voter votes on them. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Cullman County Commission, Associate Commissioner District 1",
+      "candidates": [
+        {
+          "key": "al-cullman-2026-commission-assoc-d1-walker-kenneth",
+          "name": "Kenneth Walker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Cullman-Sample.pdf"
+    },
+    {
+      "office": "Cullman County Commission, Associate Commissioner District 2",
+      "candidates": [
+        {
+          "key": "al-cullman-2026-commission-assoc-d2-barnett-richard",
+          "name": "Richard Barnett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Cullman-Sample.pdf"
+    },
+    {
+      "office": "Cullman County Sheriff",
+      "candidates": [
+        {
+          "key": "al-cullman-2026-sheriff-whaley-chad",
+          "name": "Chad Whaley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Cullman-Sample.pdf"
+    },
+    {
+      "office": "Cullman County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-cullman-2026-revenue-commissioner-pitts-mike",
+          "name": "Mike Pitts",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Cullman-Sample.pdf"
+    },
+    {
+      "office": "Cullman County Coroner",
+      "candidates": [
+        {
+          "key": "al-cullman-2026-coroner-kilpatrick-jeremy",
+          "name": "Jeremy L. Kilpatrick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Cullman-Sample.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Amendment",
+      "title": "Cullman County: senior property tax exemption (Act 2026-141)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 that applies only to Cullman County. It would let a qualified taxpayer age 65 or older claim a senior property tax exemption on real property under certain conditions.",
+      "yesMeans": "Qualified Cullman County taxpayers 65 or older could claim a senior property tax exemption on real property under certain conditions.",
+      "noMeans": "The constitution is not amended and this senior exemption does not take effect.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Cullman-Sample.pdf"
+    }
+  ],
+  "municipalities": {}
+}

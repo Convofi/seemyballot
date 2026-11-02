@@ -1,0 +1,101 @@
+{
+  "state": "AL",
+  "county": "St. Clair County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official St. Clair County sample ballot. Not shown because they depend on your district or school system: Superintendent of the St. Clair County Board of Education and Board of Education Places 5 (Moody), 6 (Odenville) and 7 (Ashville/Steele) (elected only by voters in the county school system, not Pell City schools). The County Commission District 1 seat is printed on every ballot style, so every county voter votes on it. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races. County Commission district seats are not shown here because it could not be confirmed that the whole county votes on them; check your sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, St. Clair County, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-stclair-2026-district-p2-minor-robert",
+          "name": "Robert L. Minor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf"
+    },
+    {
+      "office": "Chairman, St. Clair County Commission",
+      "candidates": [
+        {
+          "key": "al-stclair-2026-commission-chair-barber-beverly",
+          "name": "Beverly Owen Barber",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-stclair-2026-commission-chair-evans-david",
+          "name": "David Evans",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf"
+    },
+    {
+      "office": "St. Clair County Commission, District No. 1",
+      "candidates": [
+        {
+          "key": "al-stclair-2026-commission-d1-hennings-katrina",
+          "name": "Katrina Hennings",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf"
+    },
+    {
+      "office": "St. Clair County Sheriff",
+      "candidates": [
+        {
+          "key": "al-stclair-2026-sheriff-murray-billy",
+          "name": "Billy J. Murray",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf"
+    },
+    {
+      "office": "St. Clair County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-stclair-2026-revenue-commissioner-crowe-kenneth",
+          "name": "Kenneth L. Crowe",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf"
+    },
+    {
+      "office": "St. Clair County Coroner",
+      "candidates": [
+        {
+          "key": "al-stclair-2026-coroner-parrish-jeff",
+          "name": "Jeff Parrish",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Amendment",
+      "title": "St. Clair County: mayors in the Employees' Retirement System (Act 2026-61)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 relating to St. Clair County. It would allow mayors to participate in the Employees' Retirement System of Alabama under certain conditions.",
+      "yesMeans": "Mayors in St. Clair County could participate in the Employees' Retirement System of Alabama under certain conditions.",
+      "noMeans": "The constitution is not amended and this authorization for mayors is not added.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/StClair-Sample.pdf"
+    }
+  ],
+  "municipalities": {}
+}

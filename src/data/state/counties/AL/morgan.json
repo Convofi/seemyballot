@@ -1,0 +1,133 @@
+{
+  "state": "AL",
+  "county": "Morgan County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Morgan County sample ballot. Not shown because they depend on your district or school system: Superintendent of the Morgan County Board of Education and Board of Education Districts 1, 2, 3 and 6 (elected only by voters in the county school system, not Decatur or Hartselle city schools). The County Commission District 1 and 2 seats are printed on every ballot style, so every county voter votes on them. No city race or question appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races. County Commission district seats are not shown here because it could not be confirmed that the whole county votes on them; check your sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, Morgan County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-district-p1-slate-scott",
+          "name": "Scott A. Slate",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Morgan County, Place No. 3",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-district-p3-kusta-kevin",
+          "name": "Kevin R. Kusta",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "office": "Morgan County Commission, District No. 1",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-commission-d1-king-samuel",
+          "name": "Samuel King",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-morgan-2026-commission-d1-white-blake",
+          "name": "Blake White",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "office": "Morgan County Commission, District No. 2",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-commission-d2-vest-randy",
+          "name": "Randy Vest",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "office": "Morgan County Sheriff",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-sheriff-puckett-ron",
+          "name": "Ron W. Puckett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "office": "Morgan County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-revenue-commissioner-holley-john",
+          "name": "John Holley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "office": "Morgan County License Commissioner",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-license-commissioner-terry-kate",
+          "name": "Kate Terry",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "office": "Morgan County Coroner",
+      "candidates": [
+        {
+          "key": "al-morgan-2026-coroner-chunn-jeff",
+          "name": "Jeff Chunn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Amendment 1",
+      "title": "Morgan County: probate judge qualifications and equity jurisdiction (Act 2025-416)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 that applies only to Morgan County. It would require the judge of probate to be an attorney licensed in Alabama and would authorize the judge of probate to exercise equity jurisdiction concurrent with the circuit court.",
+      "yesMeans": "The Morgan County probate judge would have to be a licensed Alabama attorney and could hear equity matters alongside the circuit court.",
+      "noMeans": "The constitution is not amended and the probate judge's qualifications and jurisdiction stay as they are.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    },
+    {
+      "id": "Local Amendment 2",
+      "title": "Morgan County: senior property tax exemption (Act 2026-142)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 that applies only to Morgan County. It would let a qualified taxpayer age 65 or older claim a senior property tax exemption on real property under certain conditions.",
+      "yesMeans": "Qualified Morgan County taxpayers 65 or older could claim a senior property tax exemption on real property under certain conditions.",
+      "noMeans": "The constitution is not amended and this senior exemption does not take effect.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Morgan-Sample.pdf"
+    }
+  ],
+  "municipalities": {}
+}
