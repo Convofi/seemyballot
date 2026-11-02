@@ -1,0 +1,140 @@
+{
+  "state": "MS",
+  "county": "Rankin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792",
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://www.sos.ms.gov/content/CandidateQualifying/default.aspx",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown are the contests every Rankin County voter votes on, from the county's official sample ballot: 20th Chancery District (all of Rankin County), 20th Circuit District (Madison and Rankin counties, elected districtwide), and County Court Judge Places 1 and 2. Rankin County is in Court of Appeals District 3, which has no race this year. Not shown because they depend on your district: the special election for State House District 77 and School Board District 5. No Pearl or Brandon city offices are on this ballot. Incumbent flags come from the Mississippi Judiciary's judge rosters; County Court judges are not marked because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chancery Court Judge, 20th Chancery District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-chancery-p1-agnew-bo",
+          "name": "Bo Agnew",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-rankin-2026-chancery-p1-carroll-keri",
+          "name": "Keri H. Carroll",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-rankin-2026-chancery-p1-wolf-michael",
+          "name": "Michael 'Mike' Wolf",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    },
+    {
+      "office": "Chancery Court Judge, 20th Chancery District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-chancery-p2-odom-troy",
+          "name": "Troy Farrell Odom",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    },
+    {
+      "office": "Chancery Court Judge, 20th Chancery District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-chancery-p3-roberts-haydn",
+          "name": "Haydn J. Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    },
+    {
+      "office": "Circuit Court Judge, 20th Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-circuit-p1-butler-sarah",
+          "name": "Sarah Moulder Butler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-rankin-2026-circuit-p1-gilbert-scott",
+          "name": "Scott Gilbert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-rankin-2026-circuit-p1-smith-carter",
+          "name": "Carter Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    },
+    {
+      "office": "Circuit Court Judge, 20th Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-circuit-p2-ratcliff-steve",
+          "name": "Steve S. Ratcliff",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    },
+    {
+      "office": "Circuit Court Judge, 20th Circuit District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-circuit-p3-arthur-dewey",
+          "name": "Dewey Arthur",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    },
+    {
+      "office": "Rankin County Court Judge, Place 1",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-county-court-p1-morrow-david",
+          "name": "David L. Morrow, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    },
+    {
+      "office": "Rankin County Court Judge, Place 2",
+      "candidates": [
+        {
+          "key": "ms-rankin-2026-county-court-p2-mccrory-josh",
+          "name": "Josh McCrory",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.rankincounty.org/egov/apps/document/center.egov?view=item&id=792"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

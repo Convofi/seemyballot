@@ -1,0 +1,148 @@
+{
+  "state": "MS",
+  "county": "DeSoto County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples",
+    "https://www.desotocountyms.gov/980/2026-Judicial-Federal-Candidate-Listing",
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://www.sos.ms.gov/content/CandidateQualifying/default.aspx",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm",
+    "https://legislature.ms.gov/media/1364/2025-judicial-redistricting-summary.pdf",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/appellatecourts/coa/coajudges.php",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf"
+  ],
+  "note": "Mississippi elects most county offices in odd years, so this November 2026 ballot is federal and judicial, plus a special election for County Attorney. Shown are the contests every DeSoto County voter votes on, from the county's official ballot samples and candidate list: Court of Appeals District 1 (all of DeSoto County), Chancery District 17 Places 1 and 2 and Circuit District 21 Places 1-3 (under the 2025 redistricting laws, both districts are DeSoto County alone starting in 2027, and these places are elected countywide), County Court Judge Place 1, and County Attorney. Not shown because they are elected only in some precincts: Chancery Subdistrict 17-1 Place 3 (Gwen Baptist, Malenda Harris Meacham), Circuit Subdistrict 21-1 Place 4 (Lucius Edwards, John Hughes), Justice Court Judge District 1, and School Board District 5. No Southaven or Olive Branch city offices are on this ballot. Incumbent flags come from the Mississippi Judiciary's judge rosters. Vicki Daniels is currently a 3rd Chancery District chancellor, but Place 1 is a seat in the new 17th District, so she is not marked as the incumbent. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals Judge, District 1, Position 1",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-coa-d1-p1-hopson-derek",
+          "name": "Derek Dewayne Hopson, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-desoto-2026-coa-d1-p1-weddle-john",
+          "name": "John Weddle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "Court of Appeals Judge, District 1, Position 2",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-coa-d1-p2-barnes-donna",
+          "name": "Donna M. Barnes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "Chancery Court Judge, 17th Chancery District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-chancery-p1-daniels-vicki",
+          "name": "Vicki Daniels",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "Chancery Court Judge, 17th Chancery District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-chancery-p2-owens-elizabeth",
+          "name": "Elizabeth 'Beth' Owens",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-desoto-2026-chancery-p2-scott-william",
+          "name": "William 'Ty' Scott",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "Circuit Court Judge, 21st Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-circuit-p1-neyman-joseph",
+          "name": "Joseph 'Jody' Neyman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-desoto-2026-circuit-p1-shaw-gordon",
+          "name": "Gordon Shaw, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "Circuit Court Judge, 21st Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-circuit-p2-treadway-craig",
+          "name": "Craig Treadway",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "Circuit Court Judge, 21st Circuit District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-circuit-p3-hollowell-douglas",
+          "name": "W. Douglas Hollowell, III",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "DeSoto County Court Judge, Place 1",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-county-court-p1-couch-allen",
+          "name": "Allen B. Couch, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    },
+    {
+      "office": "DeSoto County Attorney (Special Election)",
+      "candidates": [
+        {
+          "key": "ms-desoto-2026-county-attorney-williams-tori",
+          "name": "Tori Williams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.desotocountyms.gov/DocumentCenter/View/11741/Ballot-Style-Samples"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

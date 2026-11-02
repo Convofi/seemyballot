@@ -1,0 +1,268 @@
+{
+  "state": "NE",
+  "county": "Sarpy County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sarpy.gov/659/Election-Commission",
+    "https://maps.sarpy.gov/election/sBallots/44.02.pdf",
+    "https://maps.sarpy.gov/election/sBallots/02.02.pdf",
+    "https://www.sarpy.gov/858/Current-Elected-Officials",
+    "https://www.votedouglascounty-ne.gov/elected_officials.aspx"
+  ],
+  "note": "Shown are the contests on every Sarpy County ballot, from the Election Commission's precinct sample ballots (all 179 ballot styles were checked). Not shown because they depend on your district: Sarpy County Commissioner Districts 2 and 5; Legislature and University Board of Regents districts; Metropolitan Community College district seats; Papio-Missouri River NRD and Omaha Public Power District subdivisions; school boards; Bellevue, Papillion, La Vista, Gretna and Springfield ward council seats; and Springfield and other city offices outside Papillion and Bellevue. Statewide amendment and initiative measures are on every ballot and appear with the state ballot. Incumbent flags come from Sarpy County's list of current elected officials (and the Douglas County Election Commission's roster for the MCC at-large seat); retention judges are sitting judges. Check your sample ballot at sarpy.gov/elections.",
+  "contests": [
+    {
+      "office": "Sarpy County Assessor",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-assessor-wilder-dan",
+          "name": "Dan Wilder",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Sarpy County Attorney",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-county-attorney-reisz-john",
+          "name": "John W. Reisz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Sarpy County Clerk/Register of Deeds",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-clerk-rod-houghtaling-amber",
+          "name": "Amber K. Houghtaling",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Sarpy County Clerk of the District Court",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-clerk-district-court-matthai-amber",
+          "name": "Amber Matthai",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Sarpy County Treasurer",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-treasurer-mikesell-jeff",
+          "name": "Jeff Mikesell",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Sarpy County Sheriff",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-sheriff-london-greg",
+          "name": "Greg London",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Sarpy County Engineer",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-engineer-hergenrader-zach",
+          "name": "Zach Hergenrader",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ne-sarpy-2026-engineer-shindel-robert",
+          "name": "Robert J. Shindel III",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Metropolitan Community College Board of Governors, At Large",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-mcc-at-large-anderson-paul",
+          "name": "Paul Anderson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ne-sarpy-2026-mcc-at-large-dupree-kristen",
+          "name": "Kristen DuPree",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Dirk V. Block? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-workers-comp-block-dirk",
+          "name": "Dirk V. Block",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Thomas E. Stine? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-workers-comp-stine-thomas",
+          "name": "Thomas E. Stine",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "District Court, District Two — retain Judge Stefanie A. Martinez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-district-court-martinez-stefanie",
+          "name": "Stefanie A. Martinez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "District Court, District Two — retain Judge George A. Thompson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-district-court-thompson-george",
+          "name": "George A. Thompson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "District Court, District Two — retain Judge Michael A. Smith? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-district-court-smith-michael",
+          "name": "Michael A. Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "County Court, District Two — retain Judge S. Colin Palm? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-county-court-palm-colin",
+          "name": "S. Colin Palm",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "County Court, District Two — retain Judge Todd J. Hutton? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-county-court-hutton-todd",
+          "name": "Todd J. Hutton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    },
+    {
+      "office": "Sarpy County Separate Juvenile Court — retain Judge Sarah M. Moore? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-sarpy-2026-retain-juvenile-court-moore-sarah",
+          "name": "Sarah M. Moore",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Papillion": {
+      "contests": [
+        {
+          "office": "Mayor of Papillion",
+          "candidates": [
+            {
+              "key": "ne-sarpy-2026-papillion-mayor-hunter-joe",
+              "name": "Joe Hunter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-sarpy-2026-papillion-mayor-stubbe-bob",
+              "name": "Bob Stubbe",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://maps.sarpy.gov/election/sBallots/44.02.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Bellevue": {
+      "contests": [
+        {
+          "office": "Mayor of Bellevue",
+          "candidates": [
+            {
+              "key": "ne-sarpy-2026-bellevue-mayor-pflager-kevin",
+              "name": "Kevin Pflager",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-sarpy-2026-bellevue-mayor-hike-rusty",
+              "name": "Rusty Hike",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://maps.sarpy.gov/election/sBallots/02.02.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

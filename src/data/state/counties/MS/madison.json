@@ -1,0 +1,66 @@
+{
+  "state": "MS",
+  "county": "Madison County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://www.sos.ms.gov/content/CandidateQualifying/default.aspx",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown are the 20th Circuit District seats (Madison and Rankin counties, elected districtwide), from the Secretary of State's official sample ballot. Not shown because they depend on your district: 11th Chancery District seats (Madison County is split between Subdistricts 11-1 and 11-2; the Place 3 race could not be confirmed as districtwide), and Court of Appeals District 2 Position 1 (Madison County is split between Court of Appeals Districts 2 and 3). Also not shown: County Court judge races, school board seats and any county, Madison or Ridgeland questions. The Madison County website was down, so the county's own sample ballot could not be checked. Incumbent flags come from the Mississippi Judiciary's judge rosters. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 20th Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-madison-2026-circuit-p1-butler-sarah",
+          "name": "Sarah Butler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-madison-2026-circuit-p1-gilbert-scott",
+          "name": "Scott Gilbert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-madison-2026-circuit-p1-smith-carter",
+          "name": "Carter Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 20th Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-madison-2026-circuit-p2-ratcliff-steve",
+          "name": "Steve S. Ratcliff",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 20th Circuit District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-madison-2026-circuit-p3-arthur-dewey",
+          "name": "Dewey Arthur",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
