@@ -1,0 +1,182 @@
+{
+  "state": "TX",
+  "county": "Potter County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.pottercountytexasvotes.gov/sample-ballots",
+    "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf",
+    "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_89a866fdd9ab4dffb6fbf52fb8a121c6.pdf",
+    "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_8eb24bdc60674258a7bd5bd6c7db5323.pdf",
+    "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_a3dd45297b7743bd9df82e586e6669d1.pdf",
+    "https://www.co.potter.tx.us/page/County.Judge",
+    "https://www.co.potter.tx.us/page/County.Court",
+    "https://www.co.potter.tx.us/page/County.Court.2",
+    "https://www.co.potter.tx.us/page/District.Clerk",
+    "https://www.co.potter.tx.us/page/Treasurer",
+    "https://www.co.potter.tx.us/page/District.Court.47",
+    "https://www.co.potter.tx.us/page/District.Court.251",
+    "https://www.co.potter.tx.us/page/District.Court.320",
+    "https://www.randallcounty.gov/296/Elected-Officials"
+  ],
+  "note": "From the Potter County Elections Office's November 3, 2026 sample ballots (all four posted ballot styles, one per commissioner precinct series 100s-400s; the county-level offices shown appear on every style). Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1-4, and State House and other legislative districts. No City of Amarillo, school district, appraisal district or other local item appears on the Potter County sample ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where an official county page names the candidate in that office (the 181st District Judge is confirmed on the Randall County roster); the 7th Court of Appeals candidates and the County Clerk candidate are not confirmed and are marked non-incumbent. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 7th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-coa7-chief-parker-judy",
+          "name": "Judy Parker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "Justice, 7th Court of Appeals District, Place 2 (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-coa7-p2-pratt-laura",
+          "name": "Laura Pratt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "District Judge, 47th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-dj47-johnson-dee",
+          "name": "Dee Johnson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "District Judge, 181st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-dj181-frausto-titiana",
+          "name": "Titiana D. Frausto",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "District Judge, 251st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-dj251-estevez-ana",
+          "name": "Ana E. Estevez",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "District Judge, 320th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-dj320-denny-steven",
+          "name": "Steven Denny",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-county-judge-eggleston-michelle",
+          "name": "Michelle Eggleston",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-potter-2026-county-judge-glover-jerri",
+          "name": "Jerri Glover",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-ccl1-weaver-walt",
+          "name": "Walt Weaver",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-ccl2-hand-matt",
+          "name": "Matt Hand",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-district-clerk-menke-stephnie",
+          "name": "Stephnie Menke",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-potter-2026-district-clerk-barrientos-jessi",
+          "name": "Jessi Barrientos",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-county-clerk-smith-julie",
+          "name": "Julie Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-potter-2026-treasurer-graves-brooke",
+          "name": "Brooke Graves",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pottercountytexasvotes.gov/_files/ugd/abcbbe_390a9ad193584307bd1badd4be285740.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

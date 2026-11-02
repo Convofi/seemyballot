@@ -1,0 +1,165 @@
+{
+  "state": "TX",
+  "county": "Randall County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.randallcounty.gov/170/Sample-Ballot",
+    "https://www.randallcounty.gov/DocumentCenter/View/4813/Precinct-208-Wildorado-Independent-School-District",
+    "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332",
+    "https://www.randallcounty.gov/DocumentCenter/View/4815/Precincts-110-111-112-114-131-315-324",
+    "https://www.randallcounty.gov/DocumentCenter/View/4816/Precincts-204-208-216-222-227-228-230",
+    "https://www.randallcounty.gov/DocumentCenter/View/4817/Precincts-415-418-420-421-426-429",
+    "https://www.randallcounty.gov/DocumentCenter/View/4812/List-of-Declared-Write-In-Candidates",
+    "https://www.randallcounty.gov/DocumentCenter/View/4855",
+    "https://www.randallcounty.gov/296/Elected-Officials"
+  ],
+  "note": "From the Randall County Elections Office's November 3, 2026 sample ballots (all five posted ballot styles; the county-level offices shown appear on every style). Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1 and 4, State House and other legislative districts, and the Wildorado ISD board of trustees (precinct 208 only). The Randall County Appraisal District board election was cancelled (unopposed candidates). No City of Canyon or City of Amarillo item appears on the Randall County sample ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's Elected Officials page names the candidate in that office; the 7th Court of Appeals candidates are not on a county roster and are marked non-incumbent. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 7th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-coa7-chief-parker-judy",
+          "name": "Judy Parker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "Justice, 7th Court of Appeals District, Place 2 (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-coa7-p2-pratt-laura",
+          "name": "Laura Pratt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "District Judge, 47th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-dj47-johnson-dee",
+          "name": "Dee Johnson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "District Judge, 181st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-dj181-frausto-titiana",
+          "name": "Titiana D. Frausto",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "District Judge, 251st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-dj251-estevez-ana",
+          "name": "Ana E. Estevez",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-criminal-da-miller-lacy",
+          "name": "Lacy Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-county-judge-dyer-christy",
+          "name": "Christy Dyer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-ccl1-herrmann-paul",
+          "name": "Paul Herrmann",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-ccl2-martindale-matthew",
+          "name": "Matthew C. Martindale",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-district-clerk-forbis-joel",
+          "name": "Joel Forbis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-county-clerk-mcnutt-marie",
+          "name": "Marie McNutt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-randall-2026-treasurer-whitten-nadia",
+          "name": "Nadia Whitten",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.randallcounty.gov/DocumentCenter/View/4814/Precincts-103-123-301-302-305-306-307-309-317-325-332"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

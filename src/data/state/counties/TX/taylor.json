@@ -1,0 +1,166 @@
+{
+  "state": "TX",
+  "county": "Taylor County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.taylorcounty.texas.gov/214/Current-Election",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5281",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5282",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5283",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5284",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5285",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5286",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5287",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5288",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5289",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5291",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5292",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5293",
+    "https://www.taylorcounty.texas.gov/DocumentCenter/View/5295",
+    "https://www.taylorcounty.texas.gov/612/Elected-Officials"
+  ],
+  "note": "From the Taylor County Elections Office's November 3, 2026 sample ballots (all 13 posted ballot styles; the county-level offices shown appear on every style) and the Notice of 2026 Joint General and Special Elections. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace races (including Precinct 1, Place 2), U.S. House, State Senate and State House districts, Clyde CISD board of trustees, and emergency services district items. City of Abilene Propositions A and B (firefighter collective bargaining) are shown for Abilene; Proposition B's summary condenses the full charter text printed on the ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's Elected Officials page names the candidate in that office (the page spells the County Clerk's name 'Brandy DeRemer'; the ballot prints 'Brandi DeRemer'). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 11th Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-coa11-p2-williams-bruce",
+          "name": "Bruce Williams",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "District Judge, 326th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-dj326-rotenberry-paul",
+          "name": "Paul R. Rotenberry",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-criminal-da-stamey-erin",
+          "name": "Erin Stamey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-county-judge-crowley-phil",
+          "name": "Phil Crowley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-ccl1-harper-robert",
+          "name": "Robert Harper",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-ccl2-haag-harriett",
+          "name": "Harriett L. Haag",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-district-clerk-robinson-tammy",
+          "name": "Tammy Robinson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-county-clerk-deremer-brandi",
+          "name": "Brandi DeRemer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-taylor-2026-treasurer-freeman-becky",
+          "name": "Becky Freeman",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-taylor-2026-treasurer-lopachin-pierce",
+          "name": "Pierce LoPachin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Abilene": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Adoption of state firefighter collective bargaining law",
+          "summary": "The ballot asks whether the City of Abilene should adopt the state law that applies to firefighters and establishes collective bargaining if a majority of the affected employees favor representation by an employees association. The law keeps the prohibition against strikes and lockouts and provides penalties for strikes and lockouts.",
+          "yesMeans": "The city adopts the state collective bargaining law for its firefighters.",
+          "noMeans": "The city does not adopt the state collective bargaining law for its firefighters.",
+          "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290",
+          "moreInfo": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5295"
+        },
+        {
+          "id": "Proposition B",
+          "title": "City Charter Section 145: Collective Bargaining Impasse",
+          "summary": "The ballot asks whether to add Section 145 to the City Charter. If the City and the International Association of Fire Fighters, Local 1044, reach an impasse in negotiating a collective bargaining agreement, the Association could request arbitration by a three-person board whose ruling would be final, binding and enforceable against both parties. The board could consider pay and conditions in comparable cities, changes in the Abilene-area cost of living, job-related factors, and the revenues available to the city and the impact of a ruling on taxpayers.",
+          "yesMeans": "Section 145 is added to the City Charter, allowing the firefighters' association to require binding arbitration when bargaining reaches an impasse.",
+          "noMeans": "Section 145 is not added to the City Charter.",
+          "source": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5290",
+          "moreInfo": "https://www.taylorcounty.texas.gov/DocumentCenter/View/5295"
+        }
+      ]
+    }
+  }
+}

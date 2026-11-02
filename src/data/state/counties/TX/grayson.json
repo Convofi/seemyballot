@@ -1,0 +1,156 @@
+{
+  "state": "TX",
+  "county": "Grayson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.grayson.tx.us/page/elec.home",
+    "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf",
+    "https://www.co.grayson.tx.us/page/open/3885/0/Grayson%20County%20List%20of%20Declared%20Write-In%20Candidates%20November%203%202026.pdf",
+    "https://www.co.grayson.tx.us/page/open/3885/0/Grayson%20County%20CAD%20Order%20of%20Cancellation.pdf",
+    "https://www.co.grayson.tx.us/page/open/3885/0/City%20of%20Sherman%20Ordanance%20Unopposed%20Candidates%20.pdf",
+    "https://www.co.grayson.tx.us/page/co.officials"
+  ],
+  "note": "From the Grayson County Elections Office's November 3, 2026 sample ballots (all 42 precinct ballots in one document; the county-level offices shown appear on every precinct ballot). Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 2, 3 and 4, U.S. House and State House districts. No city, school or special-district items appear on the county sample ballots: the Grayson Central Appraisal District board, Grayson College and Woodbine SUD elections were cancelled (unopposed candidates), and the City of Sherman declared its unopposed candidates elected. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's Elected Officials listing names the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-coa5-p3-kolodoski-matthew",
+          "name": "Matthew Kolodoski",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-grayson-2026-coa5-p3-reichek-amanda",
+          "name": "Amanda Reichek",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-coa5-p6-smith-ben",
+          "name": "Ben Smith",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-grayson-2026-coa5-p6-purdy-monica",
+          "name": "Monica Purdy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 8",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-coa5-p8-wysocki-ashley",
+          "name": "Ashley Wysocki",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-grayson-2026-coa5-p8-plumlee-andrea",
+          "name": "Andrea D. Plumlee",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "District Judge, 397th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-dj397-clayton-art",
+          "name": "Art Clayton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-county-judge-dawsey-bruce",
+          "name": "Bruce W Dawsey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-ccl1-ashmore-kerye",
+          "name": "Kerye Ashmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-ccl2-dunn-rick",
+          "name": "Rick Dunn",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-district-clerk-ashmore-kelly",
+          "name": "Kelly Clark Ashmore",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-county-clerk-reddic-tammy",
+          "name": "Tammy Reddic",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-grayson-2026-treasurer-hawkins-gayla",
+          "name": "Gayla Hawkins",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.grayson.tx.us/upload/page/0188/docs/2026/General/GRAYSON_SAMPLE%20BALLOTS.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
