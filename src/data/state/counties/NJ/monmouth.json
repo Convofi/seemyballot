@@ -1,0 +1,104 @@
+{
+  "state": "NJ",
+  "county": "Monmouth County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.monmouthcountyvotes.gov/wp-content/uploads/2026/09/2026-11-03-General-Election-Candidates-Top-of-Ticket3.pdf",
+    "https://www.monmouthcountyvotes.gov/wp-content/uploads/2026/09/2026-11-03-General-Election-Candidates-Municipal5.pdf",
+    "https://www.monmouthcountyvotes.gov/wp-content/uploads/2026/09/2026-11-03-General-Election-Questions-Municipal.pdf",
+    "https://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/monmouth-nj.connect.clarityelections.com/Sample%20Ballots/SB-Freehold-Boro.pdf",
+    "https://www.monmouthcountyvotes.gov/current-election-candidates-and-questions/",
+    "https://www.monmouthcountyvotes.gov/contact/monmouth-county-elected-officials/"
+  ],
+  "note": "There are no countywide public questions in Monmouth County this year. Mayor, council and township committee races in other towns, local and regional Board of Education seats, fire commissioner races, and municipal or school questions vary by town and are not shown here. Freehold Borough has no municipal question on this ballot; its Board of Education and Freehold Regional High School District races are not shown. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Surrogate",
+      "candidates": [
+        {
+          "key": "nj-monmouth-2026-surrogate-cherry-anthony",
+          "name": "Anthony L. Cherry",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-monmouth-2026-surrogate-raisch-maureen",
+          "name": "Maureen T. Raisch",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.monmouthcountyvotes.gov/wp-content/uploads/2026/09/2026-11-03-General-Election-Candidates-Top-of-Ticket3.pdf"
+    },
+    {
+      "office": "Members of the Board of County Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nj-monmouth-2026-commissioner-tanner-chelsey",
+          "name": "Chelsey Tanner",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-monmouth-2026-commissioner-ugarte-sofia",
+          "name": "Sofia J. Ugarte",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-monmouth-2026-commissioner-anderson-erik",
+          "name": "Erik Anderson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nj-monmouth-2026-commissioner-perry-tony",
+          "name": "Tony Perry",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.monmouthcountyvotes.gov/wp-content/uploads/2026/09/2026-11-03-General-Election-Candidates-Top-of-Ticket3.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Freehold": {
+      "contests": [
+        {
+          "office": "Freehold Borough Council",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "nj-monmouth-2026-freehold-council-dibenedetto-michael",
+              "name": "Michael DiBenedetto",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "nj-monmouth-2026-freehold-council-friedman-jeffrey",
+              "name": "Jeffrey Friedman",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "nj-monmouth-2026-freehold-council-razi-sara",
+              "name": "Sara Razi",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "nj-monmouth-2026-freehold-council-nonnenmacher-autumn",
+              "name": "Autumn Nonnenmacher",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.monmouthcountyvotes.gov/wp-content/uploads/2026/09/2026-11-03-General-Election-Candidates-Municipal5.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

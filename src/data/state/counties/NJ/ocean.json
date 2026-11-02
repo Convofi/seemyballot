@@ -1,0 +1,43 @@
+{
+  "state": "NJ",
+  "county": "Ocean County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.co.ocean.nj.us//WebContentFiles//a6ad1195-1bbf-442f-bbd0-b4398929f0ef.pdf",
+    "https://www.co.ocean.nj.us//WebContentFiles//33068422-0a5a-4b66-b322-dbcff41d9320.pdf",
+    "https://oceancountyclerk.com/frmElectionServices?page=voterinfo",
+    "https://www.co.ocean.nj.us/"
+  ],
+  "note": "Toms River Township has no municipal election on this ballot. Mayor, council and township committee races in other towns, local and regional Board of Education seats (including Toms River Regional), and any municipal or school questions vary by town and are not shown here. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Member of the Board of Commissioners (3-year term)",
+      "candidates": [
+        {
+          "key": "nj-ocean-2026-commissioner-sadeghi-frank",
+          "name": "Frank Sadeghi",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nj-ocean-2026-commissioner-phua-kia",
+          "name": "Kia C. Phua",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.ocean.nj.us//WebContentFiles//a6ad1195-1bbf-442f-bbd0-b4398929f0ef.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Question No. 1",
+      "title": "Ocean County Natural Lands Trust Fund",
+      "summary": "Raises the tax rate for the Ocean County Natural Lands Trust Fund from 1.2 cents to 2.2 cents per $100 of total County equalized real property valuation. The fund, created by referendum in 1997 and amended in 2019, pays to preserve open space, protect watersheds and drinking water sources, and acquire, develop and maintain land for recreation and historic preservation. The official statement says a property assessed at $100,000 would contribute up to $22 per year.",
+      "yesMeans": "The County may levy up to 2.2 cents per $100 of equalized property valuation for the Natural Lands Trust Fund.",
+      "noMeans": "The Natural Lands Trust Fund rate stays at up to 1.2 cents per $100 of equalized property valuation.",
+      "source": "https://www.co.ocean.nj.us//WebContentFiles//33068422-0a5a-4b66-b322-dbcff41d9320.pdf"
+    }
+  ],
+  "municipalities": {}
+}

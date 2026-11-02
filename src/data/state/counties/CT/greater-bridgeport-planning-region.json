@@ -1,0 +1,50 @@
+{
+  "state": "CT",
+  "county": "Greater Bridgeport Planning Region",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/bridgeport_sample_ada.pdf",
+    "https://www.ctprobate.gov/courts/bridgeport-probate-court",
+    "https://www.bridgeportct.gov/government/departments/registrar-voters"
+  ],
+  "note": "Connecticut has no county government, so there are no region-wide offices or measures. Only City of Bridgeport items are shown; Bridgeport's November 2026 sample ballot has no local ballot question. Other towns in the Greater Bridgeport Planning Region elect their own Judge of Probate by probate district and may have their own Registrar of Voters races; check your town's official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Bridgeport": {
+      "contests": [
+        {
+          "office": "Judge of Probate, Bridgeport Probate District (City of Bridgeport)",
+          "candidates": [
+            {
+              "key": "ct-greater-bridgeport-2026-probate-bridgeport-ganim-paul",
+              "name": "Paul J. Ganim",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/bridgeport_sample_ada.pdf"
+        },
+        {
+          "office": "Registrar of Voters (Bridgeport)",
+          "candidates": [
+            {
+              "key": "ct-greater-bridgeport-2026-registrar-bridgeport-howard-patricia",
+              "name": "Patricia A. Howard",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "ct-greater-bridgeport-2026-registrar-bridgeport-grace-linda",
+              "name": "Linda A. Grace",
+              "party": "Republican",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/bridgeport_sample_ada.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
