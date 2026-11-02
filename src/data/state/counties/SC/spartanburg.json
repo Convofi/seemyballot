@@ -1,0 +1,68 @@
+{
+  "state": "SC",
+  "county": "Spartanburg County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing for the November 3, 2026 Statewide General Election (active candidates filed for Spartanburg County). Not shown: the Spartanburg Soil and Water District Commission race (Bill Bledsoe, Bill Heatley and Christian B Rice; the number of seats could not be confirmed from an official source), County Council Districts 2, 5 and 6, Greenville County School Board District 18, Thicketty Creek watershed and fire district commissioner seats (Cherokee Springs, Hilltop, Holly Springs, Mayo), fire district and Spartanburg County School District 2 referendums (Boiling Springs, Roebuck, Whitney Area), and State House and U.S. House districts. No countywide Spartanburg County question appears in the State Election Commission's referendum listing. City of Spartanburg contests and questions are not covered here because municipal filings are not in the state listing. Incumbent flags are not set because the county's officeholder pages could not be checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-spartanburg-2026-probate-judge-caldwell-ponda",
+          "name": "Ponda A Caldwell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "sc-spartanburg-2026-auditor-donald-elizabeth",
+          "name": "Elizabeth M Donald",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "sc-spartanburg-2026-treasurer-brady-oren",
+          "name": "Oren L Brady III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "County Council Chair",
+      "candidates": [
+        {
+          "key": "sc-spartanburg-2026-council-chair-crawford-william",
+          "name": "William Crawford",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "sc-spartanburg-2026-council-chair-whitner-lekesa",
+          "name": "Lekesa Kesha Whitner",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

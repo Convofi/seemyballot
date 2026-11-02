@@ -1,0 +1,94 @@
+{
+  "state": "OR",
+  "county": "Marion County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+    "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/E-23%20-%20Filed%20Candidates%20List.pdf",
+    "https://www.co.marion.or.us/CO/elections/Results/Documents/20261103/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf",
+    "https://www.co.marion.or.us/BOC"
+  ],
+  "note": "From Marion County Elections' filed-candidates list and county voters' pamphlet for November 3, 2026. Marion County commissioners are elected countywide. Sara Duncan is also the Independent and Working Families nominee, and Maria Hinojos Pressey (printed \"Pressy\" in the pamphlet's sample ballot) is also the Independent and Working Families nominee; each is listed once under the Democratic Party. Party is not shown for Treasurer on the pamphlet's sample ballot. No circuit court contest appears for the 3rd Judicial District. Not shown: Salem City Council Wards 2, 4, 6 and 8, other city races, Marion Soil & Water Conservation District directors, fire district seats, measures 24-525 through 24-531 (Aurora, Silverton, Mt. Angel-area fire districts, Gates RFPD, Silver Falls School District), and State Senate, State House and U.S. House districts. There is no countywide Marion County measure and no City of Salem measure on this ballot. Incumbent flags are set only where the county's Board of Commissioners page confirms the officeholder. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Marion County Commissioner, Position 1",
+      "candidates": [
+        {
+          "key": "or-marion-2026-commissioner-pos1-cameron-kevin",
+          "name": "Kevin Cameron",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "or-marion-2026-commissioner-pos1-duncan-sara",
+          "name": "Sara Duncan",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/E-23%20-%20Filed%20Candidates%20List.pdf"
+    },
+    {
+      "office": "Marion County Commissioner, Position 2",
+      "candidates": [
+        {
+          "key": "or-marion-2026-commissioner-pos2-willis-colm",
+          "name": "Colm Willis",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "or-marion-2026-commissioner-pos2-hinojos-pressey-maria",
+          "name": "Maria Hinojos Pressey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/E-23%20-%20Filed%20Candidates%20List.pdf"
+    },
+    {
+      "office": "Marion County Treasurer",
+      "candidates": [
+        {
+          "key": "or-marion-2026-treasurer-brentano-samual",
+          "name": "Samual A Brentano",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/E-23%20-%20Filed%20Candidates%20List.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Salem": {
+      "contests": [
+        {
+          "office": "City of Salem, Mayor",
+          "candidates": [
+            {
+              "key": "or-marion-2026-salem-mayor-nordyke-vanessa",
+              "name": "Vanessa Nordyke",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/E-23%20-%20Filed%20Candidates%20List.pdf"
+        },
+        {
+          "office": "City of Salem, Municipal Judge",
+          "candidates": [
+            {
+              "key": "or-marion-2026-salem-municipal-judge-beatty-eleanor",
+              "name": "Eleanor C Beatty",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/E-23%20-%20Filed%20Candidates%20List.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
