@@ -1,0 +1,205 @@
+{
+  "state": "NC",
+  "county": "Forsyth County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.forsyth.cc/Commissioners/",
+    "https://www.forsyth.cc/Sheriff/"
+  ],
+  "note": "Not shown: Forsyth County Board of Commissioners Districts A and B, Forsyth County Board of Education Districts 1 and 2, NC Superior Court Judge District 31B (only part of Forsyth County), Town of Rural Hall races, and state legislative and U.S. House districts. Check your official sample ballot for those. Winston-Salem city offices are not on the 2026 ballot, and there are no county or city referendums in Forsyth County this year. Incumbent flags are set only where the county's own website confirms the officeholder (Sheriff, Commissioner Besse); others are marked false.",
+  "contests": [
+    {
+      "office": "Forsyth County Board of Commissioners At-Large",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-commissioner-at-large-besse-dan",
+          "name": "Dan Besse",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nc-forsyth-2026-commissioner-at-large-mrazek-terri",
+          "name": "Terri Mrazek",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Forsyth County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-sheriff-leyba-ernie",
+          "name": "Ernie Leyba",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-sheriff-kimbrough-bobby",
+          "name": "Bobby F. Kimbrough",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Forsyth County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-clerk-superior-court-edwards-kevin",
+          "name": "Kevin Edwards",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 31",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-district-attorney-oneill-jim",
+          "name": "Jim O'Neill",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-district-attorney-hunter-amara",
+          "name": "Amara M. Hunter",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 31, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-district-court-seat-01-mcmasters-valene",
+          "name": "Valene K. McMasters",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 31, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-district-court-seat-02-adams-fred",
+          "name": "Fred Adams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 31, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-district-court-seat-03-kazakos-theodore",
+          "name": "Theodore (Ted) Kazakos",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 31, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-district-court-seat-04-mcdonald-cheryl",
+          "name": "Cheryl Andrews McDonald",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Forsyth County Board of Education At-Large",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-board-of-education-at-large-brockenbrough-valerie",
+          "name": "Valerie Brockenbrough",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-board-of-education-at-large-motsinger-elisabeth",
+          "name": "Elisabeth Motsinger",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-board-of-education-at-large-mays-ronda",
+          "name": "Ronda Mays",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-board-of-education-at-large-quinones-michael",
+          "name": "Michael Quinones",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-board-of-education-at-large-lucero-jason",
+          "name": "Jason Lucero",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Forsyth Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-forsyth-2026-soil-water-bost-toby",
+          "name": "Toby Bost",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-soil-water-apple-mark",
+          "name": "Mark D. Apple",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-soil-water-kepins-andrew",
+          "name": "Andrew Kepins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-soil-water-kalu-salvet",
+          "name": "Salvet Kalu",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-forsyth-2026-soil-water-johnson-betsy",
+          "name": "Betsy Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

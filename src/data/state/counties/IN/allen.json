@@ -1,0 +1,105 @@
+{
+  "state": "IN",
+  "county": "Allen County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner (Districts 2 and 3) and County Council Districts 1-4, township races, and school board races. We could not confirm from an official Allen County sample ballot whether the commissioner races are voted on countywide, because the county election site could not be reached. Any Allen Superior Court retention questions could not be verified either. Fort Wayne city offices are not on the 2026 ballot (next elected in 2027). No countywide public question was found; the two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Allen is in the Court of Appeals Third District, which has no judge on the 2026 ballot. Incumbent status is not marked because the county's roster could not be reached. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Prosecuting Attorney, 38th Judicial Circuit (Allen County)",
+      "candidates": [
+        {
+          "key": "in-allen-2026-prosecutor-helge-tesa",
+          "name": "Tesa Helge",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Allen County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-allen-2026-clerk-roby-keri",
+          "name": "Keri Roby",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-allen-2026-clerk-manuel-toshua",
+          "name": "Toshua Manuel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Allen County Auditor",
+      "candidates": [
+        {
+          "key": "in-allen-2026-auditor-gillum-nikole",
+          "name": "Nikole Gillum",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-allen-2026-auditor-scheuman-jacquelynn",
+          "name": "Jacquelynn Scheuman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Allen County Recorder",
+      "candidates": [
+        {
+          "key": "in-allen-2026-recorder-stoppenhagen-cheyenne",
+          "name": "Cheyenne Stoppenhagen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-allen-2026-recorder-keesling-nicole",
+          "name": "Nicole Keesling",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Allen County Sheriff",
+      "candidates": [
+        {
+          "key": "in-allen-2026-sheriff-hershberger-troy",
+          "name": "Troy R. Hershberger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Allen County Assessor",
+      "candidates": [
+        {
+          "key": "in-allen-2026-assessor-oday-stacey",
+          "name": "Stacey O'Day",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
