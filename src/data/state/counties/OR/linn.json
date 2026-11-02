@@ -1,0 +1,75 @@
+{
+  "state": "OR",
+  "county": "Linn County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book7_web.pdf",
+    "https://albanyoregon.gov/cm/recorder/elections",
+    "https://re.bentoncountyor.gov/candidates/"
+  ],
+  "note": "From the Oregon Secretary of State's voters' pamphlet for Linn County (its list of candidates and measures), the City of Albany's elections page, and Benton County's candidate filings page for the part of Albany in Benton County. Linn County's elections website blocked our access, so we could not check the county's own ballot content report; county offices or Linn County measures that do not appear in the state pamphlet may be missing. The County Commissioner race is partisan and the Sheriff race is nonpartisan, as listed in the state pamphlet. Incumbent flags are not set because we did not check an official roster. No circuit court contest appears for Linn County in the state pamphlet. Not shown: Albany City Council Wards 1A, 2A and 3A (elected by ward), offices and measures in other cities, special-district and school measures, and State Senate, State House and U.S. House districts. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Linn County Commissioner, Position 1",
+      "candidates": [
+        {
+          "key": "or-linn-2026-commissioner-pos1-hiner-theodore",
+          "name": "Theodore (T J) Hiner Jr",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "or-linn-2026-commissioner-pos1-tucker-will",
+          "name": "Will Tucker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book7_web.pdf"
+    },
+    {
+      "office": "Linn County Sheriff",
+      "candidates": [
+        {
+          "key": "or-linn-2026-sheriff-duncan-michelle",
+          "name": "Michelle Duncan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book7_web.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Albany": {
+      "contests": [
+        {
+          "office": "City of Albany, Mayor",
+          "candidates": [
+            {
+              "key": "or-linn-2026-albany-mayor-wark-josh",
+              "name": "Josh Wark",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-linn-2026-albany-mayor-mcleod-carolyn",
+              "name": "Carolyn McLeod",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-linn-2026-albany-mayor-johnson-alex",
+              "name": "Alex Johnson II",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book7_web.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

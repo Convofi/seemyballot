@@ -1,0 +1,109 @@
+{
+  "state": "OR",
+  "county": "Josephine County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.josephinecounty.gov/government/county_clerk___recorder/election_voter_registration/local_races___measures.php",
+    "https://www.josephinecounty.gov/JOSEPHINE%20NOV26%20VP%20FINAL.pdf",
+    "https://www.josephinecounty.gov/City%20of%20GP%20candidates.pdf",
+    "https://www.josephinecounty.gov/government/board_of_county_commissioners/meet_the_commissioners/index.php"
+  ],
+  "note": "From Josephine County Elections' November 3, 2026 local races and measures page, the county voters' pamphlet and the City of Grants Pass candidate certification. Josephine County offices are nonpartisan, and the county says its three commissioners are elected at large. Rhiannon Henkels is marked as the incumbent because the City of Grants Pass's official certification letter addresses her as Josephine County Clerk; other incumbent flags are not set because we did not check an official roster. No circuit court contest appears for Josephine County. Not shown: Grants Pass City Council Wards 1-4 (elected by ward; Grants Pass has no citywide office or measure this election), Cave Junction city offices, Illinois Valley and Two Rivers Soil & Water Conservation District directors, Measure 17-128 (Williams Rural Fire Protection District) and Measure 17-130 (Grants Pass School District No. 7 bonds), and State House and U.S. House districts. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Josephine County Commissioner, Position 1",
+      "candidates": [
+        {
+          "key": "or-josephine-2026-commissioner-pos1-west-john",
+          "name": "John West",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-josephine-2026-commissioner-pos1-martin-colene",
+          "name": "Colene Martin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.josephinecounty.gov/government/county_clerk___recorder/election_voter_registration/local_races___measures.php"
+    },
+    {
+      "office": "Josephine County Commissioner, Position 2 (2-year unexpired term)",
+      "candidates": [
+        {
+          "key": "or-josephine-2026-commissioner-pos2-hansen-chad",
+          "name": "Chad Hansen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-josephine-2026-commissioner-pos2-jones-mark",
+          "name": "Mark Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.josephinecounty.gov/government/county_clerk___recorder/election_voter_registration/local_races___measures.php"
+    },
+    {
+      "office": "Josephine County Clerk & Recorder",
+      "candidates": [
+        {
+          "key": "or-josephine-2026-clerk-henkels-rhiannon",
+          "name": "Rhiannon Henkels",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.josephinecounty.gov/government/county_clerk___recorder/election_voter_registration/local_races___measures.php"
+    },
+    {
+      "office": "Josephine County Sheriff",
+      "candidates": [
+        {
+          "key": "or-josephine-2026-sheriff-daniel-dave",
+          "name": "Dave Daniel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-josephine-2026-sheriff-knapp-jonathan",
+          "name": "Jonathan Knapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.josephinecounty.gov/government/county_clerk___recorder/election_voter_registration/local_races___measures.php"
+    },
+    {
+      "office": "Josephine County Treasurer",
+      "candidates": [
+        {
+          "key": "or-josephine-2026-treasurer-calvo-dustin",
+          "name": "Dustin Calvo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-josephine-2026-treasurer-hare-simon",
+          "name": "Simon Hare",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.josephinecounty.gov/government/county_clerk___recorder/election_voter_registration/local_races___measures.php"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure 17-129",
+      "title": "Renewal of Current Five-Year Jail and Juvenile Local Option Tax",
+      "summary": "Referred by the Josephine County Board of Commissioners, this renews for five years, beginning in 2027-2028, the current local option property tax of $0.93 per $1,000 of assessed value. By law the money may be used only for adult jail operations, juvenile detention operations and related administrative costs; the county says it would keep jail capacity at 185 and allow intake of all adults arrested in the county. The county estimates $93 a year per $100,000 of assessed value and about $57.1 million over five years.",
+      "yesMeans": "Josephine County would continue its $0.93 per $1,000 jail and juvenile detention local option tax for five more years starting in 2027-2028.",
+      "noMeans": "The current jail and juvenile detention local option tax would expire on June 30, 2027.",
+      "source": "https://www.josephinecounty.gov/JOSEPHINE%20NOV26%20VP%20FINAL.pdf"
+    }
+  ],
+  "municipalities": {}
+}

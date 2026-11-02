@@ -1,0 +1,153 @@
+{
+  "state": "WA",
+  "county": "Clallam County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=05&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Clallam County. Party is the candidate's stated preference; Clallam County's other elected county offices are nonpartisan. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Clallam County District Court 1 and District Court 2 judges (each elected within its own court district), Clallam PUD No. 1 Commissioner District 2, legislative and congressional districts, and the Quillayute Valley School District 402 and Fire Protection District 1, 2 and 6 propositions, which depend on where you live. No Superior Court race is on this ballot. No City of Port Angeles office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 2, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-appeals-d2d2-pos-1-price-erik",
+          "name": "Erik D. Price",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    },
+    {
+      "office": "Clallam County Assessor",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-assessor-hancock-lee",
+          "name": "Lee Hancock",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-clallam-2026-assessor-price-antonio",
+          "name": "Antonio Price",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    },
+    {
+      "office": "Clallam County Auditor",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-auditor-shogren-virginia",
+          "name": "Virginia Shogren",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-clallam-2026-auditor-riggs-shoona",
+          "name": "Shoona Riggs",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    },
+    {
+      "office": "Clallam County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-commissioner-d-3-seegers-jake",
+          "name": "Jake Seegers",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-clallam-2026-commissioner-d-3-french-mike",
+          "name": "Mike French",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    },
+    {
+      "office": "Clallam County Director of Community Development",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-community-development-emery-bruce",
+          "name": "Bruce Emery",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    },
+    {
+      "office": "Clallam County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-prosecuting-attorney-nichols-mark",
+          "name": "Mark Nichols",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    },
+    {
+      "office": "Clallam County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-sheriff-king-brian",
+          "name": "Brian King",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    },
+    {
+      "office": "Clallam County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-clallam-2026-treasurer-white-jennifer",
+          "name": "Jennifer L White",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposed Amendment No. 1",
+      "title": "Charter Amendment Requiring County Commissioner District Town Hall Meetings",
+      "summary": "Proposed by the Clallam County Charter Review Commission, this would amend Article II of the County Charter. Each commissioner would have to hold at least one town hall meeting per year in their own commissioner district, and the commissioners together would have to hold at least one town hall meeting per year in each of the three districts. The meetings would be held outside normal business hours with at least 30 days' notice.",
+      "yesMeans": "The Charter would require annual commissioner town hall meetings in each commissioner district outside normal business hours.",
+      "noMeans": "The Charter would not add a town hall meeting requirement.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05#/measure/7289"
+    },
+    {
+      "id": "Proposed Amendment No. 2",
+      "title": "Charter Amendment Establishing an Ethics Review Board",
+      "summary": "Proposed by the Clallam County Charter Review Commission, this would amend Article VIII of the County Charter to create a three-member ethics review board, one member from each commissioner district, to review complaints that elected county officials violated the county code of ethics. Members would be appointed by designated independently elected county officials and serve unpaid staggered three-year terms. The board would issue written findings posted on the county website but would not impose penalties.",
+      "yesMeans": "The Charter would establish an ethics review board to review complaints against elected county officials and publish its findings.",
+      "noMeans": "The Charter would not establish an ethics review board.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05#/measure/7290"
+    },
+    {
+      "id": "Proposed Amendment No. 3",
+      "title": "Charter Amendment Requiring Printing of the Full Text of Proposed Charter Amendments in the Local Voters' Pamphlet",
+      "summary": "Proposed by the Clallam County Charter Review Commission, this would amend Article XI of the County Charter. It would require the full text of every proposed charter amendment to be printed in the local voters' pamphlet, similar to how statewide initiatives appear in the state voters' pamphlet.",
+      "yesMeans": "The full text of future proposed charter amendments would have to be printed in the local voters' pamphlet.",
+      "noMeans": "The Charter's current voters' pamphlet printing requirement would stay as it is.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=05#/measure/7291"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,196 @@
+{
+  "state": "WA",
+  "county": "Skagit County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=29&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Skagit County. Party is the candidate's stated preference. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Skagit PUD Commissioner District 1, legislative and congressional districts, and the City of Sedro-Woolley annexation proposition, La Conner School District No. 311 Proposition No. 1 and Fire District 5 Proposition No. 1, which depend on where you live. No Superior Court or Court of Appeals race and no countywide Skagit County measure is on this ballot. No City of Mount Vernon office is on this ballot; the Mount Vernon Transportation Benefit District proposition is shown. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Skagit County Assessor",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-assessor-hagen-danny",
+          "name": "Danny Hagen",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County Auditor",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-auditor-harrison-smith-jeremy",
+          "name": "Jeremy Harrison-Smith",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-skagit-2026-auditor-hulst-mark",
+          "name": "Mark Hulst",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County Clerk",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-clerk-beaton-melissa",
+          "name": "Melissa Beaton",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-skagit-2026-clerk-toscano-amanda",
+          "name": "Amanda Toscano",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-commissioner-d-3-wagoner-keith",
+          "name": "Keith L. Wagoner",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-skagit-2026-commissioner-d-3-burns-joe",
+          "name": "Joe Burns",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County Coroner",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-coroner-lathum-alex",
+          "name": "Alex Lathum",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-skagit-2026-coroner-fussell-derrill",
+          "name": "Derrill Fussell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-prosecuting-attorney-pedersen-erik",
+          "name": "Erik Pedersen",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-sheriff-baldwin-chris",
+          "name": "Chris Baldwin",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-skagit-2026-sheriff-hart-cody",
+          "name": "Cody Hart",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-treasurer-brunson-jackie",
+          "name": "Jackie Brunson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-skagit-2026-treasurer-garrison-timothy",
+          "name": "Timothy Garrison",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County District Court Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-district-court-pos-1-eason-patrick",
+          "name": "Patrick Eason",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County District Court Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-district-court-pos-2-nielsen-paul",
+          "name": "Paul W Nielsen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    },
+    {
+      "office": "Skagit County District Court Judge Position 3",
+      "candidates": [
+        {
+          "key": "wa-skagit-2026-district-court-pos-3-howson-jenifer",
+          "name": "Jenifer Howson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Mount Vernon": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "Mount Vernon Transportation Benefit District: Renewal of Sales and Use Tax for Transportation Improvements",
+          "summary": "The City of Mount Vernon, acting as the Mount Vernon Transportation Benefit District, asks voters to renew its sales and use tax of two-tenths of one percent (0.2%) for ten more years under Resolution No. 1097. The tax, first approved in 2016, would otherwise end in April 2027. Revenue may be used only for transportation improvements, maintenance and repair in the City identified in the resolution; the explanatory statement estimates about $2.3 million per year.",
+          "yesMeans": "The 0.2% Transportation Benefit District sales and use tax would continue for ten more years for city transportation improvements.",
+          "noMeans": "The 0.2% Transportation Benefit District sales and use tax would end when the current authorization expires.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=29#/measure/7426"
+        }
+      ]
+    }
+  }
+}

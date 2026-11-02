@@ -1,0 +1,127 @@
+{
+  "state": "OR",
+  "county": "Polk County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.polkcountyor.gov/1168/November-3-2026-General-Election",
+    "https://www.polkcountyor.gov/DocumentCenter/View/6955",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf"
+  ],
+  "note": "From Polk County Elections' November 3, 2026 ballot content report and filings page, and the state voters' pamphlet for Polk County. Polk County commissioner positions are listed with the county offices, not by district, and are nonpartisan. Incumbent flags are not set because we did not check an official roster. No circuit court contest appears for Polk County. The City of Dallas council race is shown as listed in the county report (four seats, vote for four); we could not open the City of Dallas elections page to confirm the seats. Salem items are for the part of Salem in Polk County (West Salem). Not shown: Salem City Council Ward 8, offices in Falls City, Independence, Monmouth and Willamina, Polk Soil and Water Conservation District directors, Measure 27-150 (City of Monmouth) and Measure 27-151 (City of Independence), and State Senate, State House and U.S. House districts. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Polk County Commissioner, Position 3",
+      "candidates": [
+        {
+          "key": "or-polk-2026-commissioner-pos3-gordon-jeremy",
+          "name": "Jeremy Gordon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-polk-2026-commissioner-pos3-milligan-steve",
+          "name": "Steve Milligan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.polkcountyor.gov/DocumentCenter/View/6955"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure 27-149",
+      "title": "Polk County Fairgrounds & Event Center Local Option Tax",
+      "summary": "Asks whether Polk County may levy a five-year local option property tax of up to $0.12 per $1,000 of assessed value beginning in 2027-2028 for the Polk County Fairgrounds & Event Center. About 35% each year would go to operations and maintenance, and the rest to improvements such as electrical work, parking resurfacing, walkways, building and HVAC upgrades, a main building roof and technology. The county estimates $36 in the first year on a property assessed at $300,000 and about $5.47 million over five years.",
+      "yesMeans": "Polk County may levy up to $0.12 per $1,000 of assessed value for five years for the Fairgrounds & Event Center.",
+      "noMeans": "Polk County will not levy this local option tax for the Fairgrounds & Event Center.",
+      "source": "https://www.polkcountyor.gov/DocumentCenter/View/6955",
+      "moreInfo": "https://www.polkcountyor.gov/DocumentCenter/View/6885"
+    }
+  ],
+  "municipalities": {
+    "Dallas": {
+      "contests": [
+        {
+          "office": "City of Dallas, Mayor",
+          "candidates": [
+            {
+              "key": "or-polk-2026-dallas-mayor-blosser-anthony",
+              "name": "Anthony Blosser",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.polkcountyor.gov/DocumentCenter/View/6955"
+        },
+        {
+          "office": "City of Dallas, Council Members",
+          "seats": 4,
+          "candidates": [
+            {
+              "key": "or-polk-2026-dallas-council-schilling-michael",
+              "name": "Michael Schilling",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-polk-2026-dallas-council-shein-david",
+              "name": "David Shein",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-polk-2026-dallas-council-briggs-larry",
+              "name": "Larry Briggs",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-polk-2026-dallas-council-dailey-douglas",
+              "name": "Douglas Dailey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-polk-2026-dallas-council-alexander-shelby",
+              "name": "Shelby Alexander",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.polkcountyor.gov/DocumentCenter/View/6955"
+        }
+      ],
+      "measures": []
+    },
+    "Salem": {
+      "contests": [
+        {
+          "office": "City of Salem, Mayor",
+          "candidates": [
+            {
+              "key": "or-polk-2026-salem-mayor-nordyke-vanessa",
+              "name": "Vanessa Nordyke",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.polkcountyor.gov/DocumentCenter/View/6955"
+        },
+        {
+          "office": "City of Salem, Municipal Judge",
+          "candidates": [
+            {
+              "key": "or-polk-2026-salem-municipal-judge-beatty-eleanor",
+              "name": "Eleanor C Beatty",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.polkcountyor.gov/DocumentCenter/View/6955"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

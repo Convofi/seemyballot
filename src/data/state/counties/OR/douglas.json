@@ -1,0 +1,63 @@
+{
+  "state": "OR",
+  "county": "Douglas County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+    "https://roseburgor.gov/your-government/election-information",
+    "https://roseburgor.gov/storage/app/media/ADM/Elections%20Page/2026%20General%20Election%20Final.pdf"
+  ],
+  "note": "From the Oregon Secretary of State's voters' pamphlet for Douglas County (its list of candidates and measures) and the City of Roseburg's 2026 election information page and pamphlet. Douglas County's elections website blocked our access, so we could not check the county's own ballot content report; county offices or Douglas County measures that do not appear in the state pamphlet may be missing. Douglas County commissioner positions are numbered positions, not districts, and the race is nonpartisan. Incumbent flags are not set because we did not check an official roster. No circuit court contest appears for Douglas County in the state pamphlet. Not shown: Roseburg City Council Wards 1-4 (elected by ward), offices and measures in other cities, school, sanitary, college and special-district items, and State House and U.S. House districts. No City of Roseburg measure appears in the city's election pamphlet. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Douglas County Commissioner, Position 3",
+      "candidates": [
+        {
+          "key": "or-douglas-2026-commissioner-pos3-boice-chris",
+          "name": "Chris Boice",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-douglas-2026-commissioner-pos3-hammerson-steve",
+          "name": "Steve Hammerson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Roseburg": {
+      "contests": [
+        {
+          "office": "City of Roseburg, Mayor",
+          "candidates": [
+            {
+              "key": "or-douglas-2026-roseburg-mayor-loosley-steve",
+              "name": "Steve Loosley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-douglas-2026-roseburg-mayor-smoot-max",
+              "name": "Max Smoot",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-douglas-2026-roseburg-mayor-bolhuis-david",
+              "name": "David Bolhuis",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://roseburgor.gov/your-government/election-information"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

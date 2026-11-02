@@ -1,0 +1,223 @@
+{
+  "state": "WA",
+  "county": "Grant County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=13&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Grant County. Party is the candidate's stated preference; 'States No Party Preference' is shown as Independent. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Grant County PUD Commissioner District 3 and at-large District B, legislative and congressional districts, and the Hospital District 4, Fire District 7 and Wilson Creek Cemetery District 2 propositions, which depend on where you live. No City of Moses Lake office is on this ballot; the City of Moses Lake Proposition No. 1 is shown. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 3, District 2, Judge Position 1 (2-year unexpired term)",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-appeals-d3d2-pos-1-hill-tyson",
+          "name": "Tyson R. Hill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Superior Court Judge Position 3 (2-year unexpired term)",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-superior-court-pos-3-chadwick-kenneth",
+          "name": "Kenneth \"Ken\" Chadwick",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grant-2026-superior-court-pos-3-bevier-trevor",
+          "name": "Trevor Bevier",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Assessor",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-assessor-johnson-clayton",
+          "name": "Clayton Johnson",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grant-2026-assessor-bartrand-anson",
+          "name": "Anson Bartrand",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Auditor",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-auditor-falstad-shannon",
+          "name": "Shannon Falstad",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grant-2026-auditor-homesley-darci",
+          "name": "Darci Homesley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Clerk",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-clerk-allen-kimberly",
+          "name": "Kimberly A. Allen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-commissioner-d-3-raap-kelly",
+          "name": "Kelly Raap",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grant-2026-commissioner-d-3-durfee-shannon",
+          "name": "Shannon Durfee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Coroner",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-coroner-morrison-craig",
+          "name": "Craig Morrison",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-prosecuting-attorney-guernsey-brandon",
+          "name": "Brandon K. Guernsey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-sheriff-gregg-darrik",
+          "name": "Darrik Gregg",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grant-2026-sheriff-kriete-joey",
+          "name": "Joey Kriete",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-treasurer-heston-carrie",
+          "name": "Carrie Heston",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County District Court Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-district-court-pos-1-middleton-tom",
+          "name": "Tom Middleton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County District Court Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-district-court-pos-2-wallace-nicholas",
+          "name": "Nicholas L Wallace",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    },
+    {
+      "office": "Grant County District Court Judge Position 3",
+      "candidates": [
+        {
+          "key": "wa-grant-2026-district-court-pos-3-gwinn-brian",
+          "name": "Brian D. Gwinn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition No. 1",
+      "title": "Sales and Use Tax for Mental Health or Chemical Dependency Treatment or Therapeutic Courts",
+      "summary": "An advisory vote called by the Grant County Board of Commissioners on whether the county should adopt a sales and use tax of one-tenth of one percent (0.1%) under RCW 82.14.460. Revenue would be used only for chemical dependency and mental health treatment programs and services and for therapeutic court programs. The measure is advisory and does not itself impose a tax; the Board may consider the result in deciding whether to adopt the tax.",
+      "yesMeans": "You advise the Board of Commissioners that the 0.1% sales and use tax for treatment and therapeutic courts should be adopted.",
+      "noMeans": "You advise the Board of Commissioners that the 0.1% sales and use tax should not be adopted.",
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13#/measure/7349"
+    }
+  ],
+  "municipalities": {
+    "Moses Lake": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "Public Safety Sales and Use Tax",
+          "summary": "Under Resolution No. 4042, the City of Moses Lake asks to raise its sales and use tax by one-tenth of one percent (0.1%, one cent per $10 sale) under RCW 82.14.450. Revenue would fund public safety services, including law enforcement staffing and retention, public safety operations, maintenance and capital, and other criminal justice city services. The explanatory statement estimates about $1.2 million in 2027.",
+          "yesMeans": "Moses Lake's sales and use tax would increase by 0.1% to fund public safety services.",
+          "noMeans": "Moses Lake's sales and use tax would not increase for this purpose.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=13#/measure/7347"
+        }
+      ]
+    }
+  }
+}

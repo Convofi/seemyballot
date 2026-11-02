@@ -1,0 +1,121 @@
+{
+  "state": "OR",
+  "county": "Benton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://re.bentoncountyor.gov/current-election/",
+    "https://re.bentoncountyor.gov/candidates/",
+    "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf"
+  ],
+  "note": "From Benton County Records and Elections' November 3, 2026 candidate filings page, current election page and county voters' pamphlet, and the state voters' pamphlet for Benton County. Benton County commissioner positions are numbered positions listed with the county offices, not by district. James Dashiell is the Pacific Green nominee and is shown as Green. The Corvallis Mayor race uses ranked-choice voting. Charles Maughan is marked as the incumbent because the city's official explanatory statement for Measure 2-159 lists him as Mayor; other incumbent flags are not set because we did not check an official roster. No circuit court contest appears for Benton County, and there is no countywide Benton County measure. The Albany Mayor race is shown for the part of Albany in Benton County. Not shown: Corvallis City Council Wards 1-9 (elected by ward), Albany City Council Ward 1A, offices in Adair Village, Monroe and Philomath, Benton Soil & Water Conservation District directors, Measure 2-157 (North Albany RFPD), Measure 2-158 (Adair RFPD) and Measure 2-160 (Corvallis School District 509J), and State Senate, State House and U.S. House districts. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Benton County Commissioner, Position 1",
+      "candidates": [
+        {
+          "key": "or-benton-2026-commissioner-pos1-wilson-john",
+          "name": "John Wilson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "or-benton-2026-commissioner-pos1-dashiell-james",
+          "name": "James Dashiell",
+          "party": "Green",
+          "incumbent": false
+        }
+      ],
+      "source": "https://re.bentoncountyor.gov/candidates/"
+    },
+    {
+      "office": "Benton County Sheriff",
+      "candidates": [
+        {
+          "key": "or-benton-2026-sheriff-bressler-scott",
+          "name": "Scott A Bressler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://re.bentoncountyor.gov/candidates/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Corvallis": {
+      "contests": [
+        {
+          "office": "City of Corvallis, Mayor (ranked-choice)",
+          "candidates": [
+            {
+              "key": "or-benton-2026-corvallis-mayor-struthers-andrew",
+              "name": "Andrew Struthers",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-benton-2026-corvallis-mayor-gatherum-kimi",
+              "name": "Kimi Gatherum",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-benton-2026-corvallis-mayor-maughan-charles",
+              "name": "Charles Maughan",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "or-benton-2026-corvallis-mayor-haxton-kasey",
+              "name": "Kasey Haxton",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://re.bentoncountyor.gov/candidates/"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Measure 2-159",
+          "title": "Amend Corvallis Charter to change city council, wards, and terms",
+          "summary": "Referred by the Corvallis City Council on the recommendation of its Charter Review Task Force, this would amend sections 8, 9 and 10 of the city charter. It would cut the number of city councilors and wards from nine to six, lengthen councilor terms from two to four years with staggered elections, and limit councilors and the mayor to three consecutive terms. All six councilors would be elected in November 2028 under the new structure, with odd-numbered wards serving an initial two-year term.",
+          "yesMeans": "Corvallis would move to six wards and six councilors with staggered four-year terms, and councilors and the mayor would be limited to three consecutive terms.",
+          "noMeans": "Corvallis would keep nine wards and nine councilors with two-year terms and no term limits.",
+          "source": "https://re.bentoncountyor.gov/wp-content/uploads/2026/07/2-159-City-of-Corvallis-Amend-Corvallis-Charter-to-Change-City-Council-Wards-Terms-PUBLIC.pdf",
+          "moreInfo": "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf"
+        }
+      ]
+    },
+    "Albany": {
+      "contests": [
+        {
+          "office": "City of Albany, Mayor",
+          "candidates": [
+            {
+              "key": "or-benton-2026-albany-mayor-wark-josh",
+              "name": "Josh Wark",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-benton-2026-albany-mayor-mcleod-carolyn",
+              "name": "Carolyn McLeod",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-benton-2026-albany-mayor-johnson-alex",
+              "name": "Alex Johnson II",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://re.bentoncountyor.gov/candidates/"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "state": "OR",
+  "county": "Yamhill County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.yamhillcounty.gov/1301/November-3-2026-General-Election",
+    "https://www.yamhillcounty.gov/DocumentCenter/View/21147",
+    "https://www.yamhillcounty.gov/DocumentCenter/View/21070",
+    "https://www.yamhillcounty.gov/DocumentCenter/View/20516",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book10_web.pdf"
+  ],
+  "note": "From Yamhill County Elections' November 3, 2026 General Election page, county voters' pamphlet and the City of McMinnville's certified candidate list, and the state voters' pamphlet for Yamhill County. Yamhill County offices are nonpartisan. The only county office on this ballot is County Clerk; Keri Hinton is marked as the incumbent because she signs the county's official election notices as Yamhill County Clerk. No circuit court contest appears for Yamhill County. Not shown: McMinnville City Council Wards 1, 2 and 3 (elected by ward; McMinnville has no citywide office or measure this election), offices in other cities, Yamhill Soil & Water Conservation District directors, Measure 36-242 (City of Lafayette), Measure 36-243 (City of Dayton), Measure 34-355 (Hillsboro School District), and State Senate, State House and U.S. House districts. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Yamhill County Clerk",
+      "candidates": [
+        {
+          "key": "or-yamhill-2026-clerk-hinton-keri",
+          "name": "Keri Hinton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "or-yamhill-2026-clerk-johnson-cindy",
+          "name": "Cindy Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.yamhillcounty.gov/1301/November-3-2026-General-Election"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure 36-241",
+      "title": "Referendum on Yamhill County Board Ordinance 948: Yamhelas Westsider Trail",
+      "summary": "A referendum on Ordinance 948, which the Yamhill County Board of Commissioners passed on March 19, 2026. The ordinance removes the Yamhelas Westsider Trail, a planned trail on a former railway corridor the county owns, from the county's Transportation System Plan. The measure asks whether Ordinance 948 should be repealed; it does not itself build the trail, approve a trail application, or sell the corridor.",
+      "yesMeans": "Ordinance 948 is repealed and the Yamhelas Westsider Trail is restored to Yamhill County's Transportation System Plan.",
+      "noMeans": "Ordinance 948 is upheld and the Trail is removed from Yamhill County's Transportation System Plan.",
+      "source": "https://www.yamhillcounty.gov/DocumentCenter/View/21012",
+      "moreInfo": "https://www.yamhillcounty.gov/DocumentCenter/View/21147"
+    }
+  ],
+  "municipalities": {}
+}

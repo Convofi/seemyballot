@@ -1,0 +1,172 @@
+{
+  "state": "WA",
+  "county": "Lewis County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=21&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Lewis County. Party is the candidate's stated preference. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Lewis County PUD Commissioner District 1, legislative and congressional districts, the Timberland Regional Library District levy lid lift and the Fire District 6 (Chehalis) levy lid lift, which depend on where you live. No Superior Court or Court of Appeals race and no countywide Lewis County measure is on this ballot. No City of Centralia or City of Chehalis office is on this ballot; the Transportation Benefit District of Chehalis proposition (governed by the Chehalis City Council) is shown for Chehalis. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Lewis County Assessor",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-assessor-nielson-ross",
+          "name": "Ross W. Nielson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County Auditor",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-auditor-merrill-mitchell",
+          "name": "Mitchell L. Merrill",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-lewis-2026-auditor-townsend-mitch",
+          "name": "Mitch Townsend",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County Clerk",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-clerk-tinney-scott",
+          "name": "Scott Tinney",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-commissioner-d-3-brummer-scott",
+          "name": "Scott Brummer",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-lewis-2026-commissioner-d-3-hadaller-michael",
+          "name": "Michael Hadaller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County Coroner",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-coroner-mcleod-warren",
+          "name": "Warren McLeod",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-lewis-2026-coroner-stickley-jessica",
+          "name": "Jessica Stickley",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-prosecuting-attorney-meyer-jonathan",
+          "name": "Jonathan L. Meyer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-sheriff-frase-gabriel",
+          "name": "Gabriel J Frase",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-lewis-2026-sheriff-murphy-tracy",
+          "name": "Tracy Murphy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-treasurer-davis-arny",
+          "name": "Arny Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County District Court Judge, Department 1",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-district-court-dept-1-samuelson-wade",
+          "name": "Wade S. Samuelson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    },
+    {
+      "office": "Lewis County District Court Judge, Department 2",
+      "candidates": [
+        {
+          "key": "wa-lewis-2026-district-court-dept-2-buzzard-rw",
+          "name": "RW Buzzard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Chehalis": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "Transportation Benefit District of Chehalis: Sales and Use Tax Levy Renewal for Transportation Needs",
+          "summary": "The Transportation Benefit District of Chehalis, governed by the Chehalis City Council, asks voters under Resolution No. 17-2026 to renew its sales and use tax of two-tenths of one percent (0.2%) for ten more years, from July 1, 2027 through June 30, 2037. Revenue would fund projects in the City's Transportation Improvement Plan, traffic engineering and control, and operation, maintenance and repair of city streets, bridges and other transportation infrastructure. If not approved, the current tax expires June 30, 2027.",
+          "yesMeans": "The 0.2% Chehalis Transportation Benefit District sales and use tax would continue through June 30, 2037.",
+          "noMeans": "The 0.2% Chehalis Transportation Benefit District sales and use tax would expire on June 30, 2027.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=21#/measure/7365"
+        }
+      ]
+    }
+  }
+}

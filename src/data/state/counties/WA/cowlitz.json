@@ -1,0 +1,196 @@
+{
+  "state": "WA",
+  "county": "Cowlitz County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=08&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Cowlitz County. Party is the candidate's stated preference. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Cowlitz PUD Commissioner District 1, and legislative and congressional districts, which depend on where you live. No Court of Appeals race and no countywide Cowlitz County measure is on this ballot. No City of Longview office is on this ballot; the City of Longview Proposition 1 is shown. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Cowlitz County Superior Court Judge Position 4 (2-year unexpired term)",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-superior-court-pos-4-karmy-jill",
+          "name": "Jill Karmy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-cowlitz-2026-superior-court-pos-4-lervold-jacob",
+          "name": "Jacob Lervold",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Assessor",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-assessor-wilcox-emily",
+          "name": "Emily Wilcox",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Auditor",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-auditor-fundingsland-carolyn",
+          "name": "Carolyn Fundingsland",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Clerk",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-clerk-myklebust-staci",
+          "name": "Staci Myklebust",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-cowlitz-2026-clerk-white-ashley",
+          "name": "Ashley White",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-commissioner-d-3-dahl-richard",
+          "name": "Richard Dahl",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-cowlitz-2026-commissioner-d-3-chandler-chelsea",
+          "name": "Chelsea Chandler",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Coroner",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-coroner-tucker-dana",
+          "name": "Dana M. Tucker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-prosecuting-attorney-jurvakainen-ryan",
+          "name": "Ryan P. Jurvakainen",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-sheriff-brightbill-troy",
+          "name": "Troy Brightbill",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-treasurer-gardner-debra",
+          "name": "Debra Gardner",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County District Court Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-district-court-pos-1-blondin-kevin",
+          "name": "Kevin G. Blondin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County District Court Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-district-court-pos-2-imboden-jamie",
+          "name": "M. Jamie Imboden",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    },
+    {
+      "office": "Cowlitz County District Court Judge Position 3",
+      "candidates": [
+        {
+          "key": "wa-cowlitz-2026-district-court-pos-3-eastwood-christopher",
+          "name": "Christopher Eastwood",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-cowlitz-2026-district-court-pos-3-knowles-nicole",
+          "name": "Nicole G. Knowles",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Longview": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 1",
+          "title": "Levy Lid Lift",
+          "summary": "Under Resolution No. 2624, the City of Longview asks to raise its regular property tax rate by $1.15 per $1,000 of assessed value beginning in 2027 to fund fire and emergency medical response. The money would go to hiring firefighter paramedics/EMTs, replacing aging equipment, buying a fire engine, building an additional fire station, and related operations aimed at improving response times. The 2027 levy would become the base for calculating future levy limits.",
+          "yesMeans": "Longview's regular property tax rate would increase by $1.15 per $1,000 of assessed value starting in 2027 for fire and emergency medical services.",
+          "noMeans": "Longview's regular property tax levy would stay under the existing limit.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=08#/measure/7372"
+        }
+      ]
+    }
+  }
+}

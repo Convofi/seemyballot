@@ -1,0 +1,158 @@
+{
+  "state": "WA",
+  "county": "Island County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=15&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Island County. Party is the candidate's stated preference; 'States No Party Preference' is shown as Independent. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Snohomish County PUD No. 1 Commissioner District 1 (Camano Island), legislative and congressional districts, the advisory vote on consumer fireworks (unincorporated Island County only), the City of Langley Proposition No. 1 and the Port of South Whidbey Proposition No. 1, which depend on where you live. No Superior Court or Court of Appeals race and no countywide Island County measure is on this ballot. No City of Oak Harbor office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Island County Assessor",
+      "candidates": [
+        {
+          "key": "wa-island-2026-assessor-stults-doug",
+          "name": "Doug Stults",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-island-2026-assessor-mauck-kelly",
+          "name": "Kelly Todd Mauck",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County Auditor",
+      "candidates": [
+        {
+          "key": "wa-island-2026-auditor-crider-sheilah",
+          "name": "Sheilah Crider",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-island-2026-auditor-fuller-barbara",
+          "name": "Barbara Fuller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County Clerk (short and full term)",
+      "candidates": [
+        {
+          "key": "wa-island-2026-clerk-butler-dierdre",
+          "name": "Dierdre Butler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-island-2026-clerk-hazelo-maria",
+          "name": "Maria Hazelo",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-island-2026-commissioner-d-3-van-pelt-matthew",
+          "name": "Matthew Van Pelt",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-island-2026-commissioner-d-3-shaw-grant",
+          "name": "Grant Shaw",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County Coroner",
+      "candidates": [
+        {
+          "key": "wa-island-2026-coroner-porter-shantel",
+          "name": "Shantel Porter",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-island-2026-prosecuting-attorney-banks-greg",
+          "name": "Greg Banks",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-island-2026-prosecuting-attorney-scott-andrew",
+          "name": "Andrew F. Scott",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-island-2026-sheriff-felici-rick",
+          "name": "Rick Felici",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-island-2026-sheriff-wasser-tavier",
+          "name": "Tavier Wasser",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-island-2026-treasurer-lam-tony",
+          "name": "Tony Lam",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    },
+    {
+      "office": "Island County District Court Judge (short and full term)",
+      "candidates": [
+        {
+          "key": "wa-island-2026-district-court-costeck-ronald",
+          "name": "Ronald A. Costeck",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=15"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
