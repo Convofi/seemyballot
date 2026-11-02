@@ -1,0 +1,300 @@
+{
+  "state": "TX",
+  "county": "El Paso County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550",
+    "https://epcountyvotestx.gov/voter-information/current-election",
+    "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/843/original/Notice_of_Election_Nov_2026.pdf?1791556704",
+    "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/829/original/Write-In1.pdf?1790178390",
+    "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/824/original/10._City_of_EP_Ballot.pdf?1789660550",
+    "https://epcountyvotestx.gov/elected-officials-and-candidate-information/elected-officials"
+  ],
+  "note": "From the El Paso County Elections Department's November 3, 2026 Federal, State and County sample ballot. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precincts 1 through 5, 6 Place 1, 6 Place 2, and 7), U.S. House (Districts 16 and 23) and State House districts, City of El Paso City Representative Districts 1, 5, 6 and 8, school district races and tax-rate elections (Canutillo, Ysleta, Socorro, Clint, Fabens and Tornillo ISDs), water and utility district elections (Lower Valley Water District, Horizon Regional MUD, El Paso County WCID No. 4), and Village of Vinton races. There are no countywide propositions on this ballot, and the City of El Paso has no mayor race or citywide measure this year. The El Paso Central Appraisal District election was cancelled. No declared write-in candidates are listed for the county offices shown. Incumbent flags are set only where the county's elected-officials page lists the candidate in that office. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Chief Justice, 8th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-coa8-chief-salas-mendoza-maria",
+          "name": "Maria Salas Mendoza",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Judge, 120th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-dist-120-ivey-ben",
+          "name": "Ben Ivey",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-el-paso-2026-dist-120-anchondo-chris",
+          "name": "Chris Anchondo",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Judge, 168th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-dist-168-pritchard-wayne",
+          "name": "R. Wayne Pritchard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-el-paso-2026-dist-168-cruz-bernardo",
+          "name": "Bernardo Cruz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Judge, 171st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-dist-171-enriquez-amanda",
+          "name": "Amanda Enriquez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Judge, 205th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-dist-205-dominguez-francisco",
+          "name": "Francisco X. Dominguez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Judge, 210th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-dist-210-perez-alyssa",
+          "name": "Alyssa G. Perez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Judge, 243rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-dist-243-solis-selena",
+          "name": "Selena N. Solis",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Judge, 327th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-dist-327-velarde-reyes-monique",
+          "name": "Monique Velarde Reyes",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-county-judge-torres-shelton-minerva",
+          "name": "Minerva Torres Shelton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-el-paso-2026-county-judge-samaniego-ricardo",
+          "name": "Ricardo Samaniego",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-ccl-1-reyes-ruth",
+          "name": "Ruth Reyes",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-ccl-2-maldonado-frances",
+          "name": "Frances M. Maldonado",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-ccl-3-baeza-melissa",
+          "name": "Melissa Baeza",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-ccl-4-reyes-eunice",
+          "name": "Eunice Reyes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Court at Law No. 5",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-ccl-5-rodriguez-jesus",
+          "name": "Jesus Rodriguez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Court at Law No. 6",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-ccl-6-kurita-sue",
+          "name": "M. Sue Kurita",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Court at Law No. 7",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-ccl-7-morales-ruben",
+          "name": "Ruben Morales",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-cccl-1-perez-linda",
+          "name": "Linda Perez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Criminal Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-cccl-2-anchondo-robert",
+          "name": "Robert S. Anchondo",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-probate-1-chew-patricia",
+          "name": "Patricia B. Chew",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "Judge, County Probate Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-probate-2-reed-gabriella",
+          "name": "Gabriella M. Reed",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-district-clerk-favela-barceleau-norma",
+          "name": "Norma Favela Barceleau",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-el-paso-2026-county-clerk-briones-delia",
+          "name": "Delia Briones",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://ep-county-elections-production.s3.amazonaws.com/documents/files/000/006/815/original/11._Federal_State_County_Ballot.pdf?1789660550"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

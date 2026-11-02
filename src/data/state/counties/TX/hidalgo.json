@@ -1,0 +1,286 @@
+{
+  "state": "TX",
+  "county": "Hidalgo County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.hidalgocounty.us/DocumentCenter/View/73233",
+    "https://www.hidalgocounty.us/3522/Sample-Ballots-2026-General-Election",
+    "https://www.hidalgocounty.us/DocumentCenter/View/73352",
+    "https://www.hidalgocounty.us/937/County-Officials"
+  ],
+  "note": "From the Hidalgo County Elections Department's November 3, 2026 sample ballots (all 64 ballot styles carry the contests shown here) and Notice of Election. Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precinct 1 Place 2, Precinct 2 Places 1 and 2, Precinct 3 Place 2, Precinct 4 Place 2, Precinct 5 Place 1), Constable Precinct 5, U.S. House, State Senate, State House and State Board of Education districts, school board trustee races (e.g. Donna, Edcouch-Elsa, Edinburg CISD, Hidalgo, La Joya, La Villa, Mercedes, Monte Alto, PSJA, South Texas and Weslaco ISDs), and city races and measures in Edcouch, Mission, Progreso and Weslaco. There are no countywide propositions, and no McAllen or Edinburg city contests or measures, on this ballot. Incumbent flags are set only where the county's elected-officials page lists the candidate in that office. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Justice, 13th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-coa13-p6-silva-clarissa",
+          "name": "Clarissa Silva",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hidalgo-2026-coa13-p6-ball-john",
+          "name": "John Ball",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "District Judge, 206th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-dist-206-zamora-juan",
+          "name": "Juan Zamora",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "District Judge, 275th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-dist-275-cuellar-marla",
+          "name": "Marla Cuellar",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "District Judge, 370th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-dist-370-gonzalez-noe",
+          "name": "Noe Gonzalez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-cda-elizondo-lydia",
+          "name": "Lydia Elizondo",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hidalgo-2026-cda-palacios-toribio",
+          "name": "Toribio \"Terry\" Palacios",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-county-judge-cortez-richard",
+          "name": "Richard Cortez",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-ccl-1-gonzalez-rodolfo",
+          "name": "Rodolfo \"Rudy\" González",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-ccl-2-palacios-jaime",
+          "name": "Jaime \"Jay\" Palacios",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Court at Law No. 4",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-ccl-4-garcia-perez-katherine",
+          "name": "Katherine García Pérez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Court at Law No. 5",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-ccl-5-cantu-arnoldo",
+          "name": "Arnoldo Cantú, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Court at Law No. 6",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-ccl-6-garcia-albert",
+          "name": "Albert García",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Court at Law No. 8",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-ccl-8-maldonado-omar",
+          "name": "Omar Maldonado",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Probate Court No. 1",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-probate-1-garcia-joanne",
+          "name": "Joanne García",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Judge, County Probate Court No. 2",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-probate-2-garza-aissa",
+          "name": "Aissa Garza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-district-clerk-de-leon-maricela",
+          "name": "Maricela \"Mari\" De León",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hidalgo-2026-district-clerk-hinojosa-laura",
+          "name": "Laura Hinojosa",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-county-clerk-guajardo-arturo",
+          "name": "Arturo Guajardo, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-county-treasurer-pena-princess",
+          "name": "Princess Anne Pena",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hidalgo-2026-county-treasurer-leo-lita",
+          "name": "Lita Leo",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Board of Directors Place 1, Hidalgo County Appraisal District",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-cad-p1-canales-erica",
+          "name": "Erica Canales",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Board of Directors Place 2, Hidalgo County Appraisal District",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-cad-p2-ontiveros-veronica",
+          "name": "Veronica \"Ronnie\" Ontiveros",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    },
+    {
+      "office": "Board of Directors Place 3, Hidalgo County Appraisal District",
+      "candidates": [
+        {
+          "key": "tx-hidalgo-2026-cad-p3-cardoza-karina",
+          "name": "Karina Cardoza",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hidalgo-2026-cad-p3-garza-jorge",
+          "name": "Jorge Garza",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hidalgocounty.us/DocumentCenter/View/73233"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
