@@ -1,0 +1,119 @@
+{
+  "state": "MD",
+  "county": "Charles County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Charles.pdf",
+    "https://registers.maryland.gov/main/charles.html",
+    "https://mdcourts.gov/clerks/charles",
+    "https://www.ccso.us/"
+  ],
+  "note": "Every contest shown here appears on all 34 Charles County ballot styles in the State Board of Elections' certified ballot file. Not shown: County Commissioner district seats (Districts 1-4) and Board of Education district seats (Districts 1-4); check your official sample ballot for your district. No Circuit Court judges, no at-large Board of Education seats and no county questions appear on the 2026 Charles ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site confirms the officeholder (Register of Wills, Clerk of the Circuit Court and Sheriff).",
+  "contests": [
+    {
+      "office": "President of the County Commissioners",
+      "candidates": [
+        {
+          "key": "md-charles-2026-commissioner-president-stewart-amanda",
+          "name": "Amanda Stewart",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-charles-2026-commissioner-president-crawford-joe",
+          "name": "Joe Crawford",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Charles.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-charles-2026-sa-covington-anthony",
+          "name": "Anthony \"Tony\" Covington",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Charles.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-charles-2026-clerk-yates-lisa",
+          "name": "Lisa E. Yates",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Charles.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-charles-2026-wills-hennessy-loraine",
+          "name": "Loraine Davies Hennessy",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-charles-2026-wills-shorter-latisha",
+          "name": "Latisha Shorter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Charles.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-charles-2026-orphans-breck-darlene",
+          "name": "Darlene M. Breck",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-charles-2026-orphans-tyler-tisha",
+          "name": "Tisha R. Tyler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-charles-2026-orphans-yates-russell",
+          "name": "Russell Yates",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-charles-2026-orphans-parker-angela",
+          "name": "Angela Parker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Charles.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-charles-2026-sheriff-berry-troy",
+          "name": "Troy Berry",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Charles.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

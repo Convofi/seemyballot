@@ -1,0 +1,24 @@
+{
+  "state": "VA",
+  "county": "Stafford County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Local-Offices-Candidate-List-(rev-10-9-2026).xlsx",
+    "https://www.staffordcountyva.gov/residents/projects_and_programs/school_construction_and_renovation_sales_tax_referendum.php"
+  ],
+  "note": "From the Virginia Department of Elections' November 2026 local referendums list (rev. 9-8-2026) and local offices candidate list (rev. 10-9-2026). The local offices list has no Stafford County contests: the Board of Supervisors, constitutional officers and School Board are not elected in 2026. The only county item is the school sales tax referendum. The statewide constitutional amendments are not repeated here. Check your official sample ballot.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Local Sales Tax for Schools",
+      "title": "Local Sales Tax for Schools",
+      "summary": "Asks whether Stafford County may levy a local retail sales tax of up to one percent (1%), with the revenue usable only to build new schools or for major renovation of schools serving Stafford County. The tax would end when any bonds or loans issued for the projects are repaid, or, if the projects are not funded by bonds or loans, on June 30, 2046. The county says approval would authorize the tax but would not levy it immediately; a public hearing and an ordinance would still be required.",
+      "yesMeans": "Stafford County is authorized to levy a local sales tax of up to 1% for new school construction and major school renovations.",
+      "noMeans": "Stafford County is not authorized to levy this school sales tax.",
+      "source": "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx",
+      "moreInfo": "https://www.staffordcountyva.gov/residents/projects_and_programs/school_construction_and_renovation_sales_tax_referendum.php"
+    }
+  ],
+  "municipalities": {}
+}

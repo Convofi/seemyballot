@@ -1,0 +1,137 @@
+{
+  "state": "MD",
+  "county": "Carroll County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Carroll.pdf",
+    "https://registers.maryland.gov/main/carroll.html",
+    "https://mdcourts.gov/clerks/carroll"
+  ],
+  "note": "Every contest shown here appears on all 49 Carroll County ballot styles in the State Board of Elections' certified ballot file. Not shown: County Commissioner seats, which are elected by district (Districts 1-5); check your official sample ballot for your district. No Circuit Court judges and no county questions appear on the 2026 Carroll ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site confirms the officeholder (Register of Wills and Clerk of the Circuit Court); the others are not set because no official roster was checked.",
+  "contests": [
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-carroll-2026-sa-psoras-george",
+          "name": "George Psoras",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Carroll.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-carroll-2026-clerk-dewees-heather",
+          "name": "Heather S. DeWees",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Carroll.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-carroll-2026-wills-zimmermann-paul",
+          "name": "Paul G. Zimmermann",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Carroll.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-carroll-2026-orphans-bair-margaret",
+          "name": "Margaret Peggy Bair",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-orphans-lennon-larue",
+          "name": "LaRue G. Lennon",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-orphans-mawhinney-tina",
+          "name": "Tina Mawhinney",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Carroll.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-carroll-2026-sheriff-wickless-gail",
+          "name": "Gail F. Wickless",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-sheriff-dewees-jim",
+          "name": "Jim DeWees",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Carroll.pdf"
+    },
+    {
+      "office": "Board of Education (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-carroll-2026-boe-friday-cleveland",
+          "name": "Cleveland Christopher Friday",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-boe-herbert-marsha",
+          "name": "Marsha B. Herbert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-boe-hinkhaus-shannon",
+          "name": "Shannon Hinkhaus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-boe-maisano-lisa",
+          "name": "Lisa Maisano",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-boe-walsh-julie",
+          "name": "Julie V. Walsh",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-carroll-2026-boe-wilhide-sharon",
+          "name": "Sharon Wilhide",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Carroll.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
