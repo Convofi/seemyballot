@@ -1,0 +1,38 @@
+{
+  "state": "GA",
+  "county": "Paulding County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.paulding.gov/DocumentCenter/View/19236",
+    "https://www.paulding.gov/216/Elections-Voter-Registration"
+  ],
+  "note": "From the Paulding County composite sample ballot, which marks incumbents with (I) and marks district races with ***. Not shown because they depend on your district: County Commission Posts 2, 3 and 4 (marked as district races), County Board of Education Districts 2, 5 and 6 (not marked, but the school board is elected by district), and state legislative districts. No county question is on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "District Attorney, Paulding Judicial Circuit",
+      "candidates": [
+        {
+          "key": "ga-paulding-2026-district-attorney-lane-robert",
+          "name": "Robert S. Lane",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.paulding.gov/DocumentCenter/View/19236"
+    },
+    {
+      "office": "State Court Solicitor General",
+      "candidates": [
+        {
+          "key": "ga-paulding-2026-solicitor-nolen-luana",
+          "name": "Luana Nolen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.paulding.gov/DocumentCenter/View/19236"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

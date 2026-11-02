@@ -1,0 +1,56 @@
+{
+  "state": "GA",
+  "county": "Houston County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.houstoncountyga.gov/skins/userfiles/files/November%202026%20Sample%20Ballot.pdf",
+    "https://www.houstoncountyga.gov/residents/board-of-elections.cms"
+  ],
+  "note": "From the Houston County sample ballot, which lists all races and questions and marks incumbents with (I) and district races with 'Runs by District'. County Commission Chairman and Commissioner Post 2 are not marked as district races, so every county voter votes on them. Not shown because they depend on your district: U.S. House and state legislative districts. The City of Warner Robins has no race or question on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "County Commission Chairman",
+      "candidates": [
+        {
+          "key": "ga-houston-2026-commission-chair-perdue-dan",
+          "name": "Dan Perdue",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.houstoncountyga.gov/skins/userfiles/files/November%202026%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Commissioner Post 2",
+      "candidates": [
+        {
+          "key": "ga-houston-2026-commission-post2-gottwals-shane",
+          "name": "Shane Gottwals",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ga-houston-2026-commission-post2-jackson-rutha",
+          "name": "Rutha Jackson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.houstoncountyga.gov/skins/userfiles/files/November%202026%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "Solicitor General",
+      "candidates": [
+        {
+          "key": "ga-houston-2026-solicitor-english-ryan",
+          "name": "Ryan W. English",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.houstoncountyga.gov/skins/userfiles/files/November%202026%20Sample%20Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,66 @@
+{
+  "state": "GA",
+  "county": "Columbia County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.columbiacountyga.gov/DocumentCenter/View/10721/OFFICIAL-COLUMBIA-COUNTY-COMPOSITE--SAMPLE-BALLOT--NOVEMBER-3-2026-GENERAL--SPECIAL-ELECTION",
+    "https://www.columbiacountyga.gov/CivicAlerts.aspx?AID=128",
+    "https://www.columbiacountyga.gov/DocumentCenter/View/10733/Certified-Write-Ins-for-November-3-2026"
+  ],
+  "note": "From the official Columbia County composite sample ballot, which marks incumbents with (I). Not shown because they depend on your district: County Commission Districts 1 and 4, and state legislative districts. No city race or question is on this ballot. The Soil and Water Conservation District contest elects three supervisors and has one candidate on the ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "District Attorney, Columbia Judicial Circuit",
+      "candidates": [
+        {
+          "key": "ga-columbia-2026-district-attorney-paine-natalie",
+          "name": "Natalie Paine",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10721/OFFICIAL-COLUMBIA-COUNTY-COMPOSITE--SAMPLE-BALLOT--NOVEMBER-3-2026-GENERAL--SPECIAL-ELECTION"
+    },
+    {
+      "office": "County Commission Chairperson",
+      "candidates": [
+        {
+          "key": "ga-columbia-2026-commission-chair-couch-alison",
+          "name": "Alison Couch",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ga-columbia-2026-commission-chair-wood-cambrey",
+          "name": "Cambrey Wood",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10721/OFFICIAL-COLUMBIA-COUNTY-COMPOSITE--SAMPLE-BALLOT--NOVEMBER-3-2026-GENERAL--SPECIAL-ELECTION"
+    },
+    {
+      "office": "Columbia County Soil and Water Conservation District Supervisor (Vote for Three)",
+      "candidates": [
+        {
+          "key": "ga-columbia-2026-soilwater-richardson-john-paul",
+          "name": "John Paul Richardson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10721/OFFICIAL-COLUMBIA-COUNTY-COMPOSITE--SAMPLE-BALLOT--NOVEMBER-3-2026-GENERAL--SPECIAL-ELECTION"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Referendum Pursuant to House Bill 439",
+      "title": "Columbia County local homeowner's incentive adjustment program",
+      "summary": "A special election referendum under House Bill 439 and Chapter 89A of Title 36 of the Official Code of Georgia. It asks whether to establish a local homeowner's incentive adjustment program for Columbia County to reduce the tax burden on qualified homesteads in the county.",
+      "yesMeans": "A local homeowner's incentive adjustment program would be established for Columbia County to reduce the tax burden on qualified homesteads.",
+      "noMeans": "The program would not be established.",
+      "source": "https://www.columbiacountyga.gov/DocumentCenter/View/10721/OFFICIAL-COLUMBIA-COUNTY-COMPOSITE--SAMPLE-BALLOT--NOVEMBER-3-2026-GENERAL--SPECIAL-ELECTION"
+    }
+  ],
+  "municipalities": {}
+}
