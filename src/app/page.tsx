@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "
 import Image from "next/image";
 import type { District, LookupResult } from "@/lib/census";
 import FederalContests from "@/components/FederalContests";
+import FeedbackButton from "@/components/FeedbackButton";
 import { HowToVote, OfficialFallback } from "@/components/HowToVote";
 import { PollingPlace } from "@/components/PollingPlace";
 import SearchMapSection from "@/components/SearchMapSection";
@@ -132,7 +133,7 @@ export default function Home() {
           )}
         </div>
       </main>
-      <SiteFooter />
+      <SiteFooter address={status.kind === "done" ? status.result.matchedAddress : undefined} />
     </>
   );
 }
@@ -322,7 +323,7 @@ function LocalFallback({ id, state, title, what }: { id: string; state: string; 
   );
 }
 
-function SiteFooter() {
+function SiteFooter({ address }: { address?: string }) {
   return (
     <footer className="border-t border-line">
       <div className="mx-auto max-w-[40rem] px-4 py-6 text-xs leading-5 text-ink-3">
@@ -331,7 +332,8 @@ function SiteFooter() {
           errors, so please verify them yourself. We never store your address; we only count searches by state,
           district, and county.
         </p>
-        <p className="mt-1 flex flex-wrap items-center gap-x-4">
+        {/* A div, not a p: the feedback <dialog> can't live inside a paragraph. */}
+        <div className="mt-1 flex flex-wrap items-center gap-x-4">
           <a
             href="https://convofi.com"
             target="_blank"
@@ -350,7 +352,8 @@ function SiteFooter() {
           >
             Open source on GitHub
           </a>
-        </p>
+          <FeedbackButton address={address} />
+        </div>
       </div>
     </footer>
   );
