@@ -1,0 +1,227 @@
+{
+  "state": "MN",
+  "county": "Crow Wing County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/local.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt"
+  ],
+  "note": "Candidates are from the Minnesota Secretary of State's county, judicial district and local candidate files; the official sample ballot (LONG LAKE TWP) is the source document but its text could not be machine-read. Judges are marked incumbent where Beltrami and Itasca County sample ballots in the same district mark them Incumbent. Soil and Water Conservation District seats could not be confirmed as countywide, so they are not shown. Judges marked Incumbent on the ballot are flagged; Minnesota ballots do not mark incumbents for county offices, so none are flagged. Not shown here because they depend on your district: County Commissioner (Districts 2, 3 and 4), Soil and Water Conservation District Supervisor (Districts 2 and 3), Brainerd City Council Wards 2 and 4, school board members, school district questions, the Mission and Timothy Township questions, and other city and township offices. Check your official sample ballot for those. There are no countywide ballot questions and no City of Brainerd questions. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-sheriff-klang-eric",
+          "name": "Eric Klang",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-attorney-hopps-kelsey",
+          "name": "Kelsey Hopps",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 1 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-1-adam-matti",
+          "name": "Matti Adam",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 2 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-2-ambelang-henry",
+          "name": "Henry C. Ambelang",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-crow-wing-2026-district-court-2-mallie-matthew",
+          "name": "Matthew R. Mallie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 4 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-4-halverson-charles",
+          "name": "Charles D. Halverson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 5 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-5-wimmer-kimberly",
+          "name": "Kimberly Wimmer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 12 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-12-mcbroom-sarah",
+          "name": "Sarah L. McBroom",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 13 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-13-hawley-daniel",
+          "name": "Daniel M. Hawley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 14 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-14-lorsbach-kathryn",
+          "name": "Kathryn A. Lorsbach",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-15-yon-tamara",
+          "name": "Tamara L. Yon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 19 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-19-austad-jana",
+          "name": "Jana Austad",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 20 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-20-grover-michael",
+          "name": "Michael Patrick Grover",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 21 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-21-aanes-patricia",
+          "name": "Patricia A. Aanes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    },
+    {
+      "office": "Judge 22 - District Court, 9th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-crow-wing-2026-district-court-22-duffy-seamus",
+          "name": "Seamus P. Duffy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Brainerd": {
+      "contests": [
+        {
+          "office": "Brainerd Mayor",
+          "candidates": [
+            {
+              "key": "mn-crow-wing-2026-brainerd-mayor-badeaux-dave",
+              "name": "Dave Badeaux",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+        },
+        {
+          "office": "Brainerd Council Member At Large",
+          "candidates": [
+            {
+              "key": "mn-crow-wing-2026-brainerd-council-member-at-large-wussow-dolly",
+              "name": "Dolly Wussow",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-crow-wing-2026-brainerd-council-member-at-large-erickson-wayne",
+              "name": "Wayne B. Erickson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/56B8BA6D-30BE-4A1D-A7B3-2B97A3A8EC5D.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

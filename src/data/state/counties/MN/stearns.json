@@ -1,0 +1,281 @@
+{
+  "state": "MN",
+  "county": "Stearns County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/local.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for ST CLOUD W4 P2 and the Secretary of State's county, judicial district and local candidate files. 16 sample ballots from across the county were compared, and the Soil and Water Conservation District Supervisor seats shown appear on every one. Judges marked Incumbent on the ballot are flagged; Minnesota ballots do not mark incumbents for county offices, so none are flagged. Not shown here because they depend on your district: County Commissioner (Districts 1, 3 and 4), St. Cloud City Council ward special elections (Wards 1-4), school board members, school district questions, Elrosa and Waite Park city questions, and other city and township offices. Check your official sample ballot for those. There are no countywide ballot questions and no City of St. Cloud questions. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Auditor - Treasurer",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-auditor-treasurer-schreifels-randy",
+          "name": "Randy R Schreifels",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-sheriff-soyka-steve",
+          "name": "Steve Soyka",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-attorney-kendall-janelle",
+          "name": "Janelle Kendall",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 1",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-soil-and-water-supervisor-district-1-mcclure-kyle",
+          "name": "Kyle McClure",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-stearns-2026-soil-and-water-supervisor-district-1-beck-chad",
+          "name": "Chad Van Beck",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Special Election for Soil and Water Supervisor District 4",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-special-election-for-soil-and-water-supervisor-district-4-peterson-steve",
+          "name": "Steve L. Peterson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 5",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-soil-and-water-supervisor-district-5-gregory-thomas",
+          "name": "Thomas Gregory",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-stearns-2026-soil-and-water-supervisor-district-5-schulze-sarah",
+          "name": "Sarah Schulze",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 2 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-2-leeser-michael",
+          "name": "Michael Leeser",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 8 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-8-engelking-matthew",
+          "name": "Matthew E. Engelking",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 9 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-9-lawson-michelle",
+          "name": "Michelle Winkis Lawson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 11 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-11-pearson-andrew",
+          "name": "Andrew Pearson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 12 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-12-miller-kevin",
+          "name": "Kevin M. Miller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 13 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-13-clark-michelle",
+          "name": "Michelle Clark",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 14 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-14-lester-meriel",
+          "name": "Meriel Lester",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-15-tvedten-ole",
+          "name": "Ole Tvedten",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 21 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-21-raupp-robert",
+          "name": "Robert J. Raupp",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 22 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-22-clark-doug",
+          "name": "Doug Clark",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 24 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-24-schmidt-karl",
+          "name": "Karl L. Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 26 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-26-herzing-mark",
+          "name": "Mark J. Herzing",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 27 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-27-merkins-tammy",
+          "name": "Tammy L. Merkins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 28 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-28-wetzel-antoinette",
+          "name": "Antoinette C. Wetzel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    },
+    {
+      "office": "Judge 30 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stearns-2026-district-court-30-rosenfeldt-jade",
+          "name": "Jade M. Rosenfeldt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/672D8799-A9CB-4956-A1E2-800E58C53470.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

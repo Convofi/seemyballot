@@ -1,0 +1,185 @@
+{
+  "state": "MN",
+  "county": "Blue Earth County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/local.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for MANKATO W-04 P-16 and the Secretary of State's county, judicial district and local candidate files. 12 sample ballots from across the county were compared, and the Soil and Water Conservation District Supervisor seats shown appear on every one. Judges marked Incumbent on the ballot are flagged; Minnesota ballots do not mark incumbents for county offices, so none are flagged. Not shown here because they depend on your district: County Commissioner (Districts 1, 4 and 5, and the District 3 special election), Mankato City Council Wards 1, 3 and 5, school board members, school district questions, and other city and township offices. Check your official sample ballot for those. There are no countywide ballot questions and no City of Mankato questions. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-sheriff-wersal-jeff",
+          "name": "Jeff Wersal",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-attorney-mcdermott-pat",
+          "name": "Pat McDermott",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 4",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-soil-and-water-supervisor-district-4-sowers-isaac",
+          "name": "Isaac Sowers",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-blue-earth-2026-soil-and-water-supervisor-district-4-nase-jeremy",
+          "name": "Jeremy Richard Nase",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 5",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-soil-and-water-supervisor-district-5-quade-jacob",
+          "name": "Jacob Quade",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Judge 2 - District Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-district-court-2-johnson-kayla",
+          "name": "Kayla M. Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Judge 5 - District Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-district-court-5-cain-christopher",
+          "name": "Christopher Cain",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-blue-earth-2026-district-court-5-wietzema-christina",
+          "name": "Christina M. Wietzema",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Judge 8 - District Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-district-court-8-gunderson-paul",
+          "name": "Paul J. Gunderson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Judge 11 - District Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-district-court-11-ferrazzano-stephen",
+          "name": "Stephen J. Ferrazzano II",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Judge 12 - District Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-district-court-12-rohland-patrick",
+          "name": "Patrick Rohland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Judge 13 - District Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-district-court-13-timmerman-troy",
+          "name": "Troy G. Timmerman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-blue-earth-2026-district-court-15-docherty-robert",
+          "name": "Robert Docherty",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Mankato": {
+      "contests": [
+        {
+          "office": "Mankato Mayor",
+          "candidates": [
+            {
+              "key": "mn-blue-earth-2026-mankato-mayor-hamann-julia",
+              "name": "Julia Hamann",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-blue-earth-2026-mankato-mayor-massad-najwa",
+              "name": "Najwa Massad",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/86514F35-D4FA-4E42-8658-887379C5D192.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

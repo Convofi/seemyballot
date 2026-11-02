@@ -1,0 +1,186 @@
+{
+  "state": "MN",
+  "county": "Rice County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/local.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for FARIBAULT P-4 and the Secretary of State's county, judicial district and local candidate files. 11 sample ballots from across the county were compared, and the Soil and Water Conservation District Supervisor seats shown appear on every one. Judges marked Incumbent on the ballot are flagged; Minnesota ballots do not mark incumbents for county offices, so none are flagged. Not shown here because they depend on your district: County Commissioner (Districts 3 and 4), school board members, school district questions, and other city and township offices. Check your official sample ballot for those. There are no countywide ballot questions and no City of Faribault questions. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-sheriff-budin-nathan",
+          "name": "Nathan Budin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-attorney-mortenson-brian",
+          "name": "Brian Mortenson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 3",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-soil-and-water-supervisor-district-3-bauer-preston",
+          "name": "Preston Bauer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 5",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-soil-and-water-supervisor-district-5-peterson-richard",
+          "name": "Richard F Peterson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Judge 4 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-district-court-4-allen-jacob",
+          "name": "Jacob C. Allen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Judge 6 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-district-court-6-duncan-karen",
+          "name": "Karen R. Duncan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Judge 7 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-district-court-7-luhmann-dwight",
+          "name": "Dwight Luhmann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-district-court-15-felten-erin",
+          "name": "Erin Lindhart Felten",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Judge 17 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-district-court-17-neisen-christopher",
+          "name": "Christopher A Neisen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    },
+    {
+      "office": "Judge 22 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-rice-2026-district-court-22-johnson-jeffrey",
+          "name": "Jeffrey M Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Faribault": {
+      "contests": [
+        {
+          "office": "Faribault Council Member",
+          "candidates": [
+            {
+              "key": "mn-rice-2026-faribault-council-member-halverson-natalie",
+              "name": "Natalie Halverson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-rice-2026-faribault-council-member-rowan-john",
+              "name": "John Rowan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-rice-2026-faribault-council-member-gustafson-kameron",
+              "name": "Kameron Gustafson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-rice-2026-faribault-council-member-howard-katie",
+              "name": "Katie Howard",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-rice-2026-faribault-council-member-temple-lexi",
+              "name": "Lexi Temple",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-rice-2026-faribault-council-member-wunderlich-paul",
+              "name": "Paul Wunderlich",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/37C62F73-5330-4551-9E44-011629EDB769.pdf",
+          "seats": 3
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "state": "MN",
+  "county": "Sherburne County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/local.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for ELK RIVER W1 P1B and the Secretary of State's county, judicial district and local candidate files. 11 sample ballots from across the county were compared, and the Soil and Water Conservation District Supervisor seats shown appear on every one. Judges marked Incumbent on the ballot are flagged; Minnesota ballots do not mark incumbents for county offices, so none are flagged. Not shown here because they depend on your district: County Commissioner (Districts 2, 3 and 4), Elk River City Council Wards 1 and 4, school board members, school district questions, and other city and township offices. Check your official sample ballot for those. There are no countywide ballot questions and no City of Elk River questions. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-auditor-tonsager-michael",
+          "name": "Michael Tonsager",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-sherburne-2026-auditor-davis-brenda",
+          "name": "Brenda Davis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-recorder-menke-holly",
+          "name": "Holly Menke",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-sheriff-zawacki-benjamin",
+          "name": "Benjamin Zawacki",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-attorney-nyhus-dawn",
+          "name": "Dawn Nyhus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-sherburne-2026-attorney-larson-hans",
+          "name": "Hans Larson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 2",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-soil-and-water-supervisor-district-2-jurek-christine",
+          "name": "Christine Jurek",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisor District 4",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-soil-and-water-supervisor-district-4-selvog-jason",
+          "name": "Jason Selvog",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 1 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-1-freeman-juanita",
+          "name": "Juanita C. Freeman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 2 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-2-doom-carrie",
+          "name": "Carrie A. Doom",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 4 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-4-brown-suzanne",
+          "name": "Suzanne M Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 6 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-6-hiljus-stoney",
+          "name": "Stoney L. Hiljus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 7 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-7-winchell-viet-hanh",
+          "name": "Viet-Hanh Winchell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 8 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-8-pietan-laura",
+          "name": "Laura A. Pietan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 9 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-9-hawley-sheridan",
+          "name": "Sheridan Hawley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 14 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-14-collins-justin",
+          "name": "Justin Collins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-15-lehmann-thomas",
+          "name": "Thomas Robert Lehmann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 17 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-17-flanagan-patrick",
+          "name": "Patrick W. Flanagan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 19 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-19-loehr-tricia",
+          "name": "Tricia Loehr",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 22 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-22-saterbak-melissa",
+          "name": "Melissa Saterbak",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 23 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-23-mcpherson-catherine",
+          "name": "Catherine (Kate) McPherson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 24 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-24-mccarthy-karin",
+          "name": "Karin L. McCarthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 28 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-28-schommer-karen",
+          "name": "Karen B. Schommer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 29 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-29-fischmann-jacob",
+          "name": "Jacob Fischmann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 32 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-32-strand-elizabeth",
+          "name": "Elizabeth H. Strand",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 38 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-38-lacy-ben",
+          "name": "Ben Lacy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-sherburne-2026-district-court-38-waxse-rebecca",
+          "name": "Rebecca A. Waxse",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 43 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-43-pipenhagen-heather",
+          "name": "Heather Pipenhagen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    },
+    {
+      "office": "Judge 45 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-sherburne-2026-district-court-45-peterson-jennifer",
+          "name": "Jennifer D. Peterson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Elk River": {
+      "contests": [
+        {
+          "office": "Elk River Mayor",
+          "candidates": [
+            {
+              "key": "mn-sherburne-2026-elk-river-mayor-westgaard-matthew",
+              "name": "Matthew Westgaard",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/51C60E72-591F-4603-8C9A-335302D35F47.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
