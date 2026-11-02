@@ -1,0 +1,234 @@
+{
+  "state": "MD",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf",
+    "https://registers.maryland.gov/main/washington.html",
+    "https://mdcourts.gov/clerks/washington"
+  ],
+  "note": "Every contest shown here appears on all 47 Washington County ballot styles in the State Board of Elections' certified ballot file. County Commissioners and the Board of Education are elected countywide. No Circuit Court judges, no county questions and no City of Hagerstown contests appear on the 2026 ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site (registers.maryland.gov, mdcourts.gov) confirms the officeholder; other incumbents are not flagged because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner (vote for up to 5)",
+      "seats": 5,
+      "candidates": [
+        {
+          "key": "md-washington-2026-commissioner-fish-jonathan",
+          "name": "Jonathan Fish",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-mcintosh-les",
+          "name": "Les McIntosh, Sr.",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-pailen-teri",
+          "name": "Teri Pailen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-shepherd-lara",
+          "name": "Lara A. Shepherd",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-williams-dave",
+          "name": "Dave Williams",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-barr-john",
+          "name": "John F. Barr",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-burkett-charles",
+          "name": "Charles Burkett",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-cline-jeffrey",
+          "name": "Jeffrey A. Cline",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-leatherman-randy",
+          "name": "Randy Leatherman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-young-dan",
+          "name": "Dan Young",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-commissioner-smith-taj",
+          "name": "Taj Smith",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    },
+    {
+      "office": "Treasurer",
+      "candidates": [
+        {
+          "key": "md-washington-2026-treasurer-mcelroy-john",
+          "name": "John McElroy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-washington-2026-sa-cirincion-gina",
+          "name": "Gina M. Cirincion",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-washington-2026-clerk-tucker-kevin",
+          "name": "Kevin R. Tucker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-washington-2026-wills-flook-lacy",
+          "name": "Lacy M. Flook",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-washington-2026-orphans-brugh-mark",
+          "name": "Mark P. Brugh",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-orphans-malott-melinda",
+          "name": "Melinda S. Malott",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-orphans-perry-shawn",
+          "name": "Shawn Perry",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-orphans-banister-paul",
+          "name": "Paul D. Banister",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-orphans-breeding-debra",
+          "name": "Debra Breeding",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-orphans-nipps-jim",
+          "name": "Jim Nipps",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-washington-2026-sheriff-mcleod-junior",
+          "name": "Junior P. McLeod",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-sheriff-albert-brian",
+          "name": "Brian K. Albert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    },
+    {
+      "office": "Board of Education (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-washington-2026-boe-bickford-pieter",
+          "name": "Pieter Bickford",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-boe-evans-darrell",
+          "name": "Darrell E. Evans",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-boe-guessford-mike",
+          "name": "Mike Guessford",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-boe-merchantspickler-robin",
+          "name": "Robin A. Merchant-Spickler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-washington-2026-boe-murray-linda",
+          "name": "Linda Murray",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Washington.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

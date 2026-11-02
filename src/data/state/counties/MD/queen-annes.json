@@ -1,0 +1,220 @@
+{
+  "state": "MD",
+  "county": "Queen Anne's County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf",
+    "https://registers.maryland.gov/main/queenannes.html",
+    "https://mdcourts.gov/clerks/queenannes"
+  ],
+  "note": "Every contest shown here appears on all 11 Queen Anne's County ballot styles in the State Board of Elections' certified ballot file; the County Commissioner district seats and the Board of Education District 1 seat are voted on countywide. No Circuit Court judges and no county questions appear on the 2026 ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site (registers.maryland.gov, mdcourts.gov) confirms the officeholder; other incumbents are not flagged because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner At Large",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-commissioner-at-large-filter-liz",
+          "name": "Liz Filter",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-commissioner-at-large-moran-jim",
+          "name": "Jim Moran",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "County Commissioner, District 1",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-commissioner-d1-wilson-jack",
+          "name": "Jack Wilson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "County Commissioner, District 2",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-commissioner-d2-alduino-andrea",
+          "name": "Andrea Alduino",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-commissioner-d2-mclaughlin-patrick",
+          "name": "Patrick McLaughlin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "County Commissioner, District 3",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-commissioner-d3-donadio-barry",
+          "name": "Barry Donadio",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-commissioner-d3-wright-lamont",
+          "name": "Lamont D. Wright, Sr.",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "County Commissioner, District 4",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-commissioner-d4-corchiarino-chris",
+          "name": "Chris Corchiarino",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-sa-richardson-lance",
+          "name": "Lance G. Richardson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-clerk-hager-katherine",
+          "name": "Katherine Beane Hager",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-wills-cook-laura",
+          "name": "Laura Nan Cook",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-orphans-mckeough-don",
+          "name": "Don McKeough",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-orphans-schwartz-barry",
+          "name": "Barry A. Schwartz",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-orphans-starling-jeff",
+          "name": "Jeff H. Starling",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-orphans-cascia-kimberly",
+          "name": "Kimberly Jean Cascia",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-orphans-mcqueeney-john",
+          "name": "John T. McQueeney, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-orphans-plemons-laurie",
+          "name": "Laurie J. Plemons",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-sheriff-hofmann-gary",
+          "name": "Gary Hofmann",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "Board of Education At Large",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-boe-at-large-kohler-linda",
+          "name": "Linda Kohler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-boe-at-large-wade-mark",
+          "name": "Mark Wade, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    },
+    {
+      "office": "Board of Education, District 1",
+      "candidates": [
+        {
+          "key": "md-queen-annes-2026-boe-d1-bent-shannon",
+          "name": "Shannon Long Bent",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-queen-annes-2026-boe-d1-blanton-chris",
+          "name": "Chris Blanton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/QueenAnnes.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

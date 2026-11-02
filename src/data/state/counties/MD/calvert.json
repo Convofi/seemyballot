@@ -1,0 +1,222 @@
+{
+  "state": "MD",
+  "county": "Calvert County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf",
+    "https://registers.maryland.gov/main/calvert.html",
+    "https://mdcourts.gov/clerks/calvert"
+  ],
+  "note": "Every contest shown here appears on all 17 Calvert County ballot styles in the State Board of Elections' certified ballot file; the County Commissioner district seats are voted on countywide. No Circuit Court judges and no county questions appear on the 2026 ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site (registers.maryland.gov, mdcourts.gov) confirms the officeholder; other incumbents are not flagged because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner At Large (vote for up to 2)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "md-calvert-2026-commissioner-at-large-pedersen-judy",
+          "name": "Judy Pedersen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-commissioner-at-large-white-antoine",
+          "name": "Antoine S. White",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-commissioner-at-large-scaggs-jason",
+          "name": "Jason Scaggs",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-commissioner-at-large-stueckler-patti",
+          "name": "Patti Stueckler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-commissioner-at-large-jones-steve",
+          "name": "Steve Jones",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "County Commissioner, District 1",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-commissioner-d1-cox-ethan",
+          "name": "Ethan Cox",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-commissioner-d1-hart-mike",
+          "name": "Mike Hart",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "County Commissioner, District 2",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-commissioner-d2-lee-kenneth",
+          "name": "Kenneth B. Lee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "County Commissioner, District 3",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-commissioner-d3-bennett-michael",
+          "name": "Michael Bennett",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-commissioner-d3-grasso-catherine",
+          "name": "Catherine M. Grasso",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "Treasurer",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-treasurer-dolina-amanda",
+          "name": "Amanda N. Dolina",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-sa-harvey-bob",
+          "name": "Bob Harvey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-clerk-sturdivant-jourdan",
+          "name": "Jourdan Sturdivant",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-wills-phipps-margaret",
+          "name": "Margaret H. Phipps",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-calvert-2026-wills-lynch-mark",
+          "name": "Mark S. Lynch",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-calvert-2026-orphans-piereck-rick",
+          "name": "Rick Piereck",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-orphans-downs-leslie",
+          "name": "Leslie M. Downs",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-orphans-leblanc-ted",
+          "name": "Ted LeBlanc",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-calvert-2026-sheriff-cox-ricky",
+          "name": "Ricky Cox",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    },
+    {
+      "office": "Board of Education At Large (vote for up to 2)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "md-calvert-2026-boe-at-large-ostenso-dona",
+          "name": "Dona Cox Ostenso",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-boe-at-large-grenis-lisa",
+          "name": "Lisa Grenis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-boe-at-large-jones-anne",
+          "name": "Anne Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-calvert-2026-boe-at-large-post-jana",
+          "name": "Jana Post",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Calvert.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

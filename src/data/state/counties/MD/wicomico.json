@@ -1,0 +1,157 @@
+{
+  "state": "MD",
+  "county": "Wicomico County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf",
+    "https://registers.maryland.gov/main/wicomico.html",
+    "https://mdcourts.gov/clerks/wicomico"
+  ],
+  "note": "Every contest and question shown here appears on all 69 Wicomico County ballot styles in the State Board of Elections' certified ballot file. Not shown: County Council district seats (Districts 1-7) and Board of Education district seats; check your official sample ballot for your district. No Circuit Court judges and no City of Salisbury contests appear on the 2026 ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site (registers.maryland.gov, mdcourts.gov) confirms the officeholder; other incumbents are not flagged because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-wicomico-2026-exec-davis-ernest",
+          "name": "Ernest Davis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-wicomico-2026-exec-giordano-julie",
+          "name": "Julie M. Giordano",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-wicomico-2026-sa-dykes-jamie",
+          "name": "Jamie Dykes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-wicomico-2026-clerk-mcallister-james",
+          "name": "James \"Bo\" McAllister",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-wicomico-2026-wills-lemon-karen",
+          "name": "Karen A. Lemon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-wicomico-2026-orphans-bright-melissa",
+          "name": "Melissa Pollitt Bright",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-wicomico-2026-orphans-hammond-michael",
+          "name": "Michael A. Hammond, Sr.",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-wicomico-2026-orphans-marshall-demetria",
+          "name": "Demetria Marshall",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-wicomico-2026-orphans-jester-jim",
+          "name": "Jim Jester",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-wicomico-2026-orphans-sharpe-john",
+          "name": "John Sharpe",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-wicomico-2026-sheriff-foley-lana",
+          "name": "Lana Foley",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-wicomico-2026-sheriff-lewis-mike",
+          "name": "Mike Lewis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Charter Amendment: Council meeting minutes",
+      "summary": "Revises the Wicomico County Charter to let the Council Administrator keep minutes of meetings as written minutes, digital recordings, or a combination of both.",
+      "yesMeans": "The Council Administrator may keep meeting minutes in writing, by digital recording, or both.",
+      "noMeans": "The Council Administrator must continue to manually type meeting minutes.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "id": "Question B",
+      "title": "Charter Amendment: Council communications with the Executive Branch",
+      "summary": "Revises the Charter so formal communications from the County Council to the Executive Branch go to the County Executive, while Council members and staff may communicate directly with Executive Branch officers and employees for inquiry or information.",
+      "yesMeans": "Council members and staff may communicate directly with Executive Branch officers and employees for inquiry or information only.",
+      "noMeans": "All formal communications from the Council to the Executive Branch must still be addressed to the County Executive.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "id": "Question C",
+      "title": "Charter Amendment: Acting department heads",
+      "summary": "Revises the Charter to require that an Acting Director of Administration, Acting Department Head or Acting Deputy Director be a current county employee when appointed. A newly elected County Executive could appoint a non-employee as Acting Director of Administration for up to six months or until a Director of Administration is appointed, whichever comes first.",
+      "yesMeans": "Acting appointees must be current county employees, except that a new County Executive may appoint an outside Acting Director of Administration for up to six months.",
+      "noMeans": "The County Executive may appoint acting officials who are not current county employees, with no time limit on a new Executive's acting Director of Administration.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    },
+    {
+      "id": "Question D",
+      "title": "Charter Amendment: Definition of work rules",
+      "summary": "Adds a definition of \"Work Rules\" to the Charter: policies, procedures and standards governing employee conduct, performance, attendance, workplace behavior, use of county property and other conditions of employment, which may lead to disciplinary action if not followed.",
+      "yesMeans": "A definition of \"Work Rules\" is added to the County Charter.",
+      "noMeans": "No definition of \"Work Rules\" is added to the Charter.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Wicomico.pdf"
+    }
+  ],
+  "municipalities": {}
+}

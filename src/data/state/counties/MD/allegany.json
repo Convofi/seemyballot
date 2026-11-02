@@ -1,0 +1,235 @@
+{
+  "state": "MD",
+  "county": "Allegany County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf",
+    "https://registers.maryland.gov/main/allegany.html",
+    "https://mdcourts.gov/clerks/allegany"
+  ],
+  "note": "Every county contest shown here appears on all 35 Allegany County ballot styles in the State Board of Elections' certified ballot file; County Commissioners and the Board of Education are elected countywide. City of Cumberland Mayor and Council appear on the 6 Cumberland ballot styles. No Circuit Court judges and no county questions appear on the 2026 ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site (registers.maryland.gov, mdcourts.gov) confirms the officeholder; other incumbents are not flagged because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-allegany-2026-commissioner-boor-chelsea",
+          "name": "Chelsea Boor",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-commissioner-taccino-carol",
+          "name": "Carol Taccino",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-commissioner-atkinson-bill",
+          "name": "Bill Atkinson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-commissioner-brodie-creade",
+          "name": "Creade Brodie, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-commissioner-caporale-dave",
+          "name": "Dave Caporale",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-commissioner-lescallette-kit",
+          "name": "Kit Pepper Lescallette",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-allegany-2026-sa-elliott-james",
+          "name": "James F. Elliott",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-allegany-2026-clerk-lindsey-dawne",
+          "name": "Dawne Lindsey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-allegany-2026-wills-pirolozzi-mary",
+          "name": "Mary Beth Pirolozzi",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-allegany-2026-orphans-crossland-edward",
+          "name": "Edward C. Crossland",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-orphans-robertson-craig",
+          "name": "Craig Robertson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-orphans-walker-penny",
+          "name": "Penny Lyn Walker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-allegany-2026-sheriff-morgan-david",
+          "name": "David R. Morgan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+    },
+    {
+      "office": "Board of Education (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-allegany-2026-boe-widmyer-linda",
+          "name": "Linda Alderman Widmyer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-boe-bohn-david",
+          "name": "David A. Bohn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-boe-lepley-lori",
+          "name": "Lori D. Lepley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-boe-moon-steven",
+          "name": "Steven Jay Moon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-boe-kurtz-caren",
+          "name": "Caren Phillips Kurtz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-allegany-2026-boe-taylor-gary",
+          "name": "Gary Taylor",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Cumberland": {
+      "contests": [
+        {
+          "office": "Mayor - City of Cumberland",
+          "candidates": [
+            {
+              "key": "md-allegany-2026-cumberland-mayor-morriss-raymond",
+              "name": "Raymond Morriss",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "md-allegany-2026-cumberland-mayor-powell-darrell",
+              "name": "Darrell Lee Powell",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+        },
+        {
+          "office": "Council - City of Cumberland (vote for up to 2)",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "md-allegany-2026-cumberland-council-furstenberg-james",
+              "name": "James Leo Furstenberg, III",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "md-allegany-2026-cumberland-council-george-joe",
+              "name": "Joe George",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "md-allegany-2026-cumberland-council-scarlett-brandon",
+              "name": "Brandon Timothy Scarlett",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "md-allegany-2026-cumberland-council-triantafillides-gregory",
+              "name": "Gregory Elias Triantafillides",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "md-allegany-2026-cumberland-council-valois-william",
+              "name": "William Valois",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://elections.maryland.gov/elections/2026/general_ballots/Allegany.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "state": "MD",
+  "county": "St. Mary's County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf",
+    "https://registers.maryland.gov/main/stmarys.html",
+    "https://mdcourts.gov/clerks/stmarys"
+  ],
+  "note": "Every contest shown here appears on all 27 St. Mary's County ballot styles in the State Board of Elections' certified ballot file; the County Commissioner district seats and the Board of Education District 1 and District 3 seats are voted on countywide (candidates must live in the district). No county questions appear on the 2026 ballot, and Leonardtown town offices are not on it. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site (registers.maryland.gov, mdcourts.gov) confirms the officeholder; other incumbents are not flagged because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "President of the County Commissioners",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-commissioner-president-abell-annmarie",
+          "name": "AnnMarie Abell",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-commissioner-president-alvey-roy",
+          "name": "Roy H. Alvey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "County Commissioner, District 1",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-commissioner-d1-milburn-sheila",
+          "name": "Sheila Milburn",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-commissioner-d1-colvin-eric",
+          "name": "Eric Scott Colvin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "County Commissioner, District 2",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-commissioner-d2-russell-brandon",
+          "name": "Brandon Russell",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-commissioner-d2-phelan-tom",
+          "name": "Tom Phelan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "County Commissioner, District 3",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-commissioner-d3-kyte-joshua",
+          "name": "Joshua Kyte",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-commissioner-d3-oconnor-john",
+          "name": "John O'Connor",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-commissioner-d3-alderson-mike",
+          "name": "Mike Alderson, Jr.",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "County Commissioner, District 4",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-commissioner-d4-daniels-ryan",
+          "name": "Ryan B. Daniels",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-commissioner-d4-ostrow-scott",
+          "name": "Scott R. Ostrow",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 7",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-circuit-hill-kevin",
+          "name": "Kevin R. Hill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Treasurer",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-treasurer-kelly-christy",
+          "name": "Christy Kelly",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-sa-sterling-jaymi",
+          "name": "Jaymi Sterling",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-clerk-burch-debbie",
+          "name": "Debbie Mills Burch",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-wills-superior-phyllis",
+          "name": "Phyllis A. Superior",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-orphans-king-curtis",
+          "name": "Curtis J. King",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-orphans-babcock-albert",
+          "name": "Albert \"Allie\" Babcock",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-orphans-mattingly-bill",
+          "name": "Bill Mattingly",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-orphans-white-michael",
+          "name": "Michael R. White",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-sheriff-sturgis-carl",
+          "name": "Carl Sturgis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-sheriff-hall-steve",
+          "name": "Steve A. Hall",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Board of Education, District 1",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-boe-d1-andrews-dorothy",
+          "name": "Dorothy Andrews",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-st-marys-2026-boe-d1-cooper-liz",
+          "name": "Liz Cooper",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    },
+    {
+      "office": "Board of Education, District 3",
+      "candidates": [
+        {
+          "key": "md-st-marys-2026-boe-d3-summers-kim",
+          "name": "Kim D. Summers",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/SaintMarys.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

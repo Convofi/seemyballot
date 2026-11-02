@@ -1,0 +1,223 @@
+{
+  "state": "MD",
+  "county": "Cecil County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf",
+    "https://registers.maryland.gov/main/cecil.html",
+    "https://mdcourts.gov/clerks/cecil"
+  ],
+  "note": "Every contest and question shown here appears on all 28 Cecil County ballot styles in the State Board of Elections' certified ballot file; the County Council District 2-4 seats and the Board of Education District 3-5 seats are voted on countywide. No Town of Elkton contests appear on the 2026 ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office site (registers.maryland.gov, mdcourts.gov) confirms the officeholder; other incumbents are not flagged because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Council, District 2",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-council-d2-howell-jasmin",
+          "name": "Jasmin R. Howell",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-council-d2-conger-ray",
+          "name": "Ray Conger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "County Council, District 3",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-council-d3-gorman-krystal",
+          "name": "Krystal Gorman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-council-d3-miller-al",
+          "name": "Al Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "County Council, District 4",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-council-d4-tome-wayne",
+          "name": "Wayne L. Tome, Sr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 2",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-circuit-sentman-robert",
+          "name": "Robert E. Sentman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-sa-dellmyer-james",
+          "name": "James A. Dellmyer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-clerk-marshall-jamie",
+          "name": "Jamie Marshall",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-clerk-notarcola-charlene",
+          "name": "Charlene M. Notarcola",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-wills-pierce-amanda",
+          "name": "Amanda J. Pierce",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "md-cecil-2026-orphans-difabbiocrawley-teresa",
+          "name": "Teresa M. DiFabbio-Crawley",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-orphans-schaeffer-david",
+          "name": "David M. Schaeffer, Sr.",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-orphans-caudell-donna",
+          "name": "Donna Caudell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-orphans-crouch-carolyn",
+          "name": "Carolyn L. Crouch",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-orphans-gregory-jackie",
+          "name": "Jackie Gregory",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-sheriff-creek-todd",
+          "name": "\"Todd\" Creek",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Board of Education, District 3",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-boe-d3-ferdinando-joe",
+          "name": "Joe Ferdinando",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-boe-d3-mannella-dominick",
+          "name": "Dominick F. Mannella, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Board of Education, District 4",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-boe-d4-hampton-brian",
+          "name": "Brian Hampton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-cecil-2026-boe-d4-tome-sheila",
+          "name": "Sheila A. Tome",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    },
+    {
+      "office": "Board of Education, District 5",
+      "candidates": [
+        {
+          "key": "md-cecil-2026-boe-d5-handley-grant",
+          "name": "Grant Handley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Charter Amendment: Date for submission of the budget",
+      "summary": "Moves the deadline for the County Executive to submit the proposed budget to the County Council from April 1 to on or before the second Monday in April, after the Maryland General Assembly session ends.",
+      "yesMeans": "The County Executive must submit the proposed budget by the second Monday in April each year.",
+      "noMeans": "The budget submission deadline stays April 1 each year.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Cecil.pdf"
+    }
+  ],
+  "municipalities": {}
+}
