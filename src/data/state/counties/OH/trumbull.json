@@ -1,0 +1,121 @@
+{
+  "state": "OH",
+  "county": "Trumbull County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf",
+    "https://boe.co.trumbull.oh.gov/pdfs/46%20day%20notice.pdf",
+    "https://boe.co.trumbull.oh.gov/pdfs/Questions%20and%20Issues%20Running%20List%2011-3-26.pdf",
+    "https://boe.co.trumbull.oh.gov/pdfs/r440%2002%20office%20holder%20details_tr_.pdf"
+  ],
+  "note": "Not shown: state legislative and congressional districts; school district issues (including the Warren City School District renewal, which does not cover all of Warren); township, village and other city issues (including Hubbard City's data-center ordinance); the Hubbard Township Free Park and Newton Falls Joint Fire District levies; and precinct local-liquor-option questions. No countywide issue is on this ballot, and the Board of Elections does not number local issues. Warren's city offices are elected in odd-numbered years. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-trumbull-2026-app11-0209-cornachio-marisa",
+          "name": "Marisa L. Cornachio",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-trumbull-2026-app11-0210-patton-robert",
+          "name": "Robert J. Patton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-trumbull-2026-cpgen-0101-becker-chris",
+          "name": "Chris Becker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-trumbull-2026-cpgen-0101-ditchey-mary-ellen",
+          "name": "Mary Ellen Ditchey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-trumbull-2026-probate-0209-campbell-thomas",
+          "name": "Thomas A. Campbell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-trumbull-2026-commissioner-hovis-michael",
+          "name": "Michael J. Hovis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-trumbull-2026-commissioner-rock-kristen",
+          "name": "Kristen F. Rock",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-trumbull-2026-auditor-loychik-mike",
+          "name": "Mike Loychik",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-trumbull-2026-auditor-stredney-edward",
+          "name": "Edward D. Stredney",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Warren": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Warren City Proposed Ordinance (Council Pay Raises)",
+          "title": "Proposed Ordinance – City of Warren: Rescind Council Pay Raises",
+          "summary": "Asks Warren voters whether to pass an ordinance that would immediately rescind and replace the pay raises for Warren City Council. It would also eliminate all future automatic pay increases for elected officials.",
+          "yesMeans": "The ordinance passes: the council pay raises are rescinded and replaced, and future automatic increases for elected officials end.",
+          "noMeans": "The ordinance does not pass, and current pay arrangements stay in place.",
+          "source": "https://boe.co.trumbull.oh.gov/pdfs/46%20day%20notice.pdf",
+          "moreInfo": "https://boe.co.trumbull.oh.gov/pdfs/Questions%20and%20Issues%20Running%20List%2011-3-26.pdf"
+        }
+      ]
+    }
+  }
+}

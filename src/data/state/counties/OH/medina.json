@@ -1,0 +1,143 @@
+{
+  "state": "OH",
+  "county": "Medina County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X",
+    "https://www.boe.ohio.gov/medina/c/upload/FWAB_11November46Day.pdf",
+    "https://recorder.medinacounty.gov/",
+    "https://medinaprobate.org/",
+    "https://www.medinaco.org/county-commissioners/board-members/"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city issues (including the City of Medina sidewalk income-tax ordinance amendment); village, township and school district issues; the Wayne County Joint Vocational School District issue; and precinct local-liquor-option questions. No countywide issue is on this ballot. Incumbency for the 9th District Court of Appeals seats, the Common Pleas General Division seat and County Auditor could not be confirmed from an official roster, so no candidate in those races is marked as incumbent. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 9th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-medina-2026-app9-0209-curtin-cynthia",
+          "name": "Cynthia Curtin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-medina-2026-app9-0209-sutton-betty",
+          "name": "Betty Sutton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 9th District (unexpired term ending 2/9/2029)",
+      "candidates": [
+        {
+          "key": "oh-medina-2026-app9-unexp-galonski-tavia",
+          "name": "Tavia Galonski",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-medina-2026-app9-unexp-manning-nathan",
+          "name": "Nathan Manning",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-medina-2026-cpgen-0101-fuchs-ben",
+          "name": "Ben Fuchs",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-medina-2026-cpgen-0101-razavi-matthew",
+          "name": "Matthew K. Razavi",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-medina-2026-juvenile-probate-0209-conway-mike",
+          "name": "Mike Conway",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-medina-2026-juvenile-probate-0209-dunn-kevin",
+          "name": "Kevin W. Dunn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-medina-2026-commissioner-mcnabb-julie",
+          "name": "Julie A. McNabb",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-medina-2026-commissioner-minichiello-cheryl",
+          "name": "Cheryl Minichiello",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-medina-2026-auditor-brenstuhl-carol",
+          "name": "Carol Brenstuhl",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-medina-2026-auditor-dumperth-rick",
+          "name": "Rick Dumperth",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X"
+    },
+    {
+      "office": "County Recorder (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-medina-2026-recorder-unexp-quade-bradford",
+          "name": "Bradford Scott Quade",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-medina-2026-recorder-unexp-ray-sharon",
+          "name": "Sharon A. Ray",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/medina/getballot.aspx?elect=20261103G&prsid=023___1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

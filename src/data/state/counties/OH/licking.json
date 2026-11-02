@@ -1,0 +1,125 @@
+{
+  "state": "OH",
+  "county": "Licking County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/licking/getballot.aspx?elect=20261103G&prsid=0301__1&bpty=X",
+    "https://www.boe.ohio.gov/licking/c/upload/ELECTION_Candidates.pdf",
+    "https://www.boe.ohio.gov/licking/c/upload/ELECTION_Issues.pdf",
+    "https://lickingcounty.gov/depts/auditor/",
+    "https://lickingcounty.gov/depts/probate/",
+    "https://lickingcounty.gov/depts/commissioners/default.htm"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city issues outside Newark (Heath and Pataskala charter amendments); village issues (Buckeye Lake, Granville, Hanover); township levies and zoning questions (including the Newark Township roads levy, which covers some Newark precincts); school and library district issues (Southwest Licking, Pataskala Public Library); and precinct local-liquor-option questions. The Board of Elections does not number local issues. Newark has no city offices or citywide issues on this ballot. Incumbency for the Common Pleas General and Domestic Relations seats could not be confirmed from an official roster, so no candidate there is marked as incumbent. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-licking-2026-app5-0209-george-matthew",
+          "name": "Matthew George",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/licking/getballot.aspx?elect=20261103G&prsid=0301__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-licking-2026-domrel-0101-wright-richard",
+          "name": "Richard P. Wright",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-licking-2026-domrel-0101-essex-robert",
+          "name": "Robert Essex",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/licking/getballot.aspx?elect=20261103G&prsid=0301__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-licking-2026-cpgen-0209-marcelain-thomas",
+          "name": "Thomas M. Marcelain",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/licking/getballot.aspx?elect=20261103G&prsid=0301__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-licking-2026-probate-juvenile-0209-lang-deborah",
+          "name": "Deborah G. Lang",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-licking-2026-probate-juvenile-0209-dalsanto-michael",
+          "name": "Michael DalSanto",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/licking/getballot.aspx?elect=20261103G&prsid=0301__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-licking-2026-commissioner-van-buren-mark",
+          "name": "Mark A. Van Buren",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-licking-2026-commissioner-mcleish-kathy",
+          "name": "Kathy McLeish",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-licking-2026-commissioner-belcher-brian",
+          "name": "Brian Belcher",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/licking/c/upload/ELECTION_Candidates.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-licking-2026-auditor-smith-michael",
+          "name": "Michael L. Smith",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/licking/getballot.aspx?elect=20261103G&prsid=0301__1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Licking Park District Tax Levy",
+      "title": "Proposed Tax Levy (Renewal) – Licking Park District",
+      "summary": "Asks whether to renew a property tax of up to 0.375 mill for the Licking Park District for parks, trails and recreational purposes. It would run for 5 years, beginning in 2027 and first due in 2028. The county auditor estimates it will collect $2,274,412 a year, or $10 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The Licking Park District levy is renewed for 5 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/licking/getballot.aspx?elect=20261103G&prsid=0301__1&bpty=X",
+      "moreInfo": "https://www.boe.ohio.gov/licking/c/upload/ELECTION_Issues.pdf"
+    }
+  ],
+  "municipalities": {}
+}

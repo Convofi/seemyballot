@@ -1,0 +1,94 @@
+{
+  "state": "OH",
+  "county": "Clermont County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf",
+    "https://boe.clermontcountyohio.gov/Candidate%20Withdrawal-Byrne-12th%20District%20Court%20of%20Appeals.pdf",
+    "https://elections.bcohio.gov/Documents/Campaigns/ElectedOfficials.pdf",
+    "https://bcc.clermontcountyohio.gov/",
+    "https://www.clermontauditor.org/home/",
+    "https://probatejuvenile.clermontcountyohio.gov/"
+  ],
+  "note": "In the 12th District Court of Appeals race for the term beginning 1/1/2027, the Board of Elections says Matthew Byrne withdrew and votes cast for him will not be counted. Write-in candidates Victor M. Haddad and Curt Carl Hartman also withdrew, so Willa Concannon is the remaining declared write-in candidate. Not shown: state legislative and congressional districts; school district issues (Bethel-Tate Local, U.S. Grant Joint Vocational); township fire levies (Batavia, Union and Washington townships); and precinct local-liquor-option questions. The Board of Elections does not number local issues. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 12th District (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-clermont-2026-app12-0101-concannon-willa",
+          "name": "Willa Concannon",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 12th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-clermont-2026-app12-0209-hendrickson-robert",
+          "name": "Robert A. Hendrickson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-clermont-2026-probate-juvenile-0209-little-nathan",
+          "name": "Nathan M. Little",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-clermont-2026-commissioner-corcoran-claire",
+          "name": "Claire B. Corcoran",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-clermont-2026-commissioner-wessels-joe",
+          "name": "Joe Wessels",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf"
+    },
+    {
+      "office": "County Auditor (term beginning 3/13/2027)",
+      "candidates": [
+        {
+          "key": "oh-clermont-2026-auditor-becker-john",
+          "name": "John Becker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Clermont County Children Services Tax Levy",
+      "title": "Clermont County – Proposed Tax Levy (Renewal), 0.8 Mill, 5 Years: Children Services",
+      "summary": "Asks whether Clermont County may renew a 0.8-mill property tax for 5 years. The money supports children services and the care and placement of children.",
+      "yesMeans": "The 0.8-mill children services levy is renewed for 5 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf"
+    }
+  ],
+  "municipalities": {}
+}
