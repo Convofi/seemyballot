@@ -1,0 +1,139 @@
+{
+  "state": "MD",
+  "county": "Howard County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_all_counties_candidatelist.html",
+    "https://www.mdcourts.gov/circuit/howard/judgesmagistrates",
+    "https://www.howardcountymd.gov/states-attorney",
+    "https://www.howardcountymd.gov/sheriffs-office",
+    "https://registers.maryland.gov/main/howard.html",
+    "https://www.hcpss.org/board/"
+  ],
+  "note": "Every contest and question shown here appears on all 67 Howard County ballot styles in the State Board of Elections' certified ballot file. Not shown: County Council district seats (Districts 1-5); check your official sample ballot for your district. No Board of Education district seats and no Orphans' Court judges appear on the 2026 Howard ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-howard-2026-exec-atterbeary-vanessa",
+          "name": "Vanessa Atterbeary",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-howard-2026-exec-kane-nater",
+          "name": "Nater Kane",
+          "party": "Green",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 5",
+      "candidates": [
+        {
+          "key": "md-howard-2026-circuit-frazier-maurice",
+          "name": "Maurice C. Frazier",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-howard-2026-sa-gibson-rich",
+          "name": "Rich Gibson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-howard-2026-clerk-terrasa-jen",
+          "name": "Jen Terrasa",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-howard-2026-wills-macfarlane-byron",
+          "name": "Byron E. Macfarlane",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-howard-2026-sheriff-harris-marcus",
+          "name": "Marcus Harris",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    },
+    {
+      "office": "Board of Education At Large (vote for up to 2)",
+      "candidates": [
+        {
+          "key": "md-howard-2026-boe-atlarge-covington-mark",
+          "name": "Mark E. Covington",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-howard-2026-boe-atlarge-frascarella-linda",
+          "name": "Linda Frascarella",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-howard-2026-boe-atlarge-xu-lanlan",
+          "name": "Lanlan Xu",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf",
+      "seats": 2
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Charter Amendment: Gender Neutrality",
+      "summary": "The Howard County Charter uses gender-specific words such as \"he\" and \"she.\" This amendment would replace them with gender-neutral words such as \"they\" and \"them.\"",
+      "yesMeans": "For: the Charter's gender-specific words are replaced with gender-neutral words.",
+      "noMeans": "Against: the gender-specific words in the Charter stay unchanged.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    },
+    {
+      "id": "Question B",
+      "title": "Charter Amendment: Affordable For-Sale Housing Projects",
+      "summary": "Today the Charter lets the County use its capital budget to finance an affordable housing project in its Housing Opportunities Trust Fund only if the County owns the project. This amendment would allow capital budget financing for projects that contain only for-sale housing units and are owned by the Howard County Housing Commission or an entity it controls. The County would repay the bonds over a set period, typically 20-30 years, and the units must stay affordable for that period.",
+      "yesMeans": "For: the County may use its capital budget to finance these affordable for-sale housing projects.",
+      "noMeans": "Against: these affordable for-sale housing projects must be financed some other way than the County's capital budget.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Howard.pdf"
+    }
+  ],
+  "municipalities": {}
+}
