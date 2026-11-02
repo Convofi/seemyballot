@@ -1,0 +1,195 @@
+{
+  "state": "HI",
+  "county": "Honolulu County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+    "https://www.honolulu.gov/elections/city-charter-info/",
+    "https://static1.squarespace.com/static/6098c5bb75e480679bd2fab3/t/6a8cb0e83dd1bc7c08e065e8/1787605225843/2026+Charter+Ballot+Questions+%28English%29.pdf"
+  ],
+  "note": "No countywide office is on the November 3, 2026 ballot: the Mayor and Prosecuting Attorney were elected in 2024. Not shown: Honolulu City Council district races (including Districts IV and VI), and state legislative and Office of Hawaiian Affairs contests. Proposed state constitutional amendments are statewide and not repeated here. Charter question titles here are short descriptive labels; the full question text is in the official voter guide. Check your official ballot for district contests.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Question 1",
+      "title": "Charter Amendment: Food Security Fund",
+      "summary": "Would create a sixth Charter special fund, the Food Security Fund, to support City programs, grants and subsidies that improve access to locally grown or produced food, with other food purchases allowed only in a declared emergency. Annual funding for the Charter's special funds would rise from 2.5% to 3% of estimated real property tax revenues, split equally among the six funds, without having to raise property tax rates at the same time.",
+      "yesMeans": "The Charter creates and requires annual funding for a Food Security Fund, and special-fund funding rises from 2.5% to 3% of estimated property tax revenues.",
+      "noMeans": "No Food Security Fund is created, and the five existing special funds keep their current 2.5% funding level.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 2",
+      "title": "Charter Amendment: New Charter preamble",
+      "summary": "Would replace the Charter's preamble with language recognizing the relationship between the people of the City and County of Honolulu and the ʻāina, honoring the wisdom of kūpuna and the legacy of Prince Jonah Kūhiō Kalanianaʻole, and affirming commitments to transparent, accountable government and stewardship of resources. It would not change legal powers or duties set elsewhere in the Charter.",
+      "yesMeans": "The Charter's preamble is replaced with the new language.",
+      "noMeans": "The current preamble stays.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 3",
+      "title": "Charter Amendment: Office of ʻŌiwi Resources and Cultural Stewardship",
+      "summary": "Would establish an Office of ʻŌiwi Resources and Cultural Stewardship within the Office of the Mayor to coordinate Native Hawaiian cultural and natural resource stewardship across City departments, promote appropriate use of the Hawaiian language, develop programs and report yearly to the Mayor and Council. It would also create a Cultural Advisory Council of kūpuna, cultural practitioners and community representatives.",
+      "yesMeans": "The Charter establishes the Office and a Cultural Advisory Council.",
+      "noMeans": "No such Office or Cultural Advisory Council is established in the Charter.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 4",
+      "title": "Charter Amendment: LGBTQIA+ Commission",
+      "summary": "Would establish a nine-member LGBTQIA+ Commission to advise the Mayor, City Council and City agencies on issues affecting LGBTQIA+ residents. The Commission could recommend policies, legislation and programs, act as a liaison with City government, and employ staff.",
+      "yesMeans": "The Charter establishes a nine-member LGBTQIA+ Commission.",
+      "noMeans": "No LGBTQIA+ Commission is established in the Charter.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 5",
+      "title": "Charter Amendment: Ranked-choice voting for City offices beginning in 2032",
+      "summary": "Beginning in 2032, the Mayor, City Council and Prosecuting Attorney would be elected by ranked-choice voting in a single November election, replacing the current two-step nonpartisan special elections held with the August primary and November general. If no candidate wins a majority of first choices, the last-place candidate is eliminated and those ballots move to each voter's next choice until a winner is found.",
+      "yesMeans": "Starting in 2032, the Mayor, Council and Prosecuting Attorney are elected by ranked-choice voting in November.",
+      "noMeans": "City offices continue to be elected through the current two-step August and November process.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 6",
+      "title": "Charter Amendment: Honolulu Police Department and federal immigration enforcement",
+      "summary": "Would require the Chief of Police to adopt and enforce policies protecting constitutional rights for all persons regardless of immigration or citizenship status. Officers could assist federal immigration enforcement only when required by a verifiable state or federal statute or a court order, and only after verifying the requesting agency's identity and legal authority for each action.",
+      "yesMeans": "The Charter adds these policy requirements and limits on HPD assistance with federal immigration enforcement.",
+      "noMeans": "The Charter does not add these requirements; HPD remains subject to existing state law.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 7",
+      "title": "Charter Amendment: Housing availability policy",
+      "summary": "Would add a statement to the Charter recognizing the City's shortage of housing for long-term occupancy, finding that housing-related outmigration is an existential threat to the City, and declaring that encouraging use of the existing housing supply for city residents is a compelling governmental interest.",
+      "yesMeans": "The Charter adds the housing policy statement.",
+      "noMeans": "The Charter does not add the housing policy statement.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 8",
+      "title": "Charter Amendment: Affordable Housing Fund as a revolving fund",
+      "summary": "Would clarify that the Affordable Housing Fund is a revolving fund, so loan repayments, interest, earnings and other proceeds from the Fund are redeposited into it. The Fund could also support affordable rental units within mixed-use and mixed-income developments.",
+      "yesMeans": "Money returned from Affordable Housing Fund loans and investments is redeposited into the Fund.",
+      "noMeans": "The Charter does not specify that repayments and earnings return to the Fund.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 9",
+      "title": "Charter Amendment: Remove separate public hearing for City real property transactions",
+      "summary": "Would end the Charter requirement that the Department of Housing and Land Management hold a separate public hearing on each transaction involving City real property interests. The public could still learn about and testify on these transactions when they appear on City Council agendas.",
+      "yesMeans": "The separate public hearing requirement for City real property transactions is removed.",
+      "noMeans": "The separate public hearing requirement stays.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 10",
+      "title": "Charter Amendment: Housing Functional Plan",
+      "summary": "Would require the Director of Housing and Land Management to prepare and maintain a ten-year Housing Functional Plan, updated at least every five years and reviewed for consistency with the General Plan and Development Plans. The requirement would take effect January 1, 2030.",
+      "yesMeans": "The City must prepare and carry out a ten-year affordable housing functional plan starting in 2030.",
+      "noMeans": "No housing functional plan is required by the Charter.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 11",
+      "title": "Charter Amendment: Nonprofit grants from Clean Water and Natural Lands and Climate Resiliency Funds",
+      "summary": "Would allow the Clean Water and Natural Lands Fund and the Climate Resiliency Fund to award grants to federal income tax-exempt nonprofit organizations that provide services consistent with each Fund's purpose. Today only the Grants in Aid Fund may award such grants.",
+      "yesMeans": "Both Funds may award grants to qualifying nonprofits.",
+      "noMeans": "Only the Grants in Aid Fund may award grants to nonprofits.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 12",
+      "title": "Charter Amendment: Outside funding for Charter special funds",
+      "summary": "Would allow the Clean Water and Natural Lands Fund, Affordable Housing Fund, Climate Resiliency Fund and other funds established under Section 9-204 to receive money from federal, state, philanthropic and other authorized sources, in addition to their dedicated property tax funding.",
+      "yesMeans": "The special funds may accept federal, state, philanthropic and other outside money.",
+      "noMeans": "The Charter does not expressly authorize these funds to accept outside money.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 13",
+      "title": "Charter Amendment: Land, Natural Resources, and Historic Preservation Fund",
+      "summary": "Would allow the Clean Water and Natural Lands Fund to be used to preserve, restore and maintain historic buildings, sites, archaeological resources and culturally significant objects, and would rename it the Land, Natural Resources, and Historic Preservation Fund, along with its advisory commission. Review of certain proposals would go to the Oʻahu Historic Preservation Commission.",
+      "yesMeans": "The Fund may be used for historic preservation and is renamed.",
+      "noMeans": "The Fund keeps its current name and uses.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 14",
+      "title": "Charter Amendment: Clean Water and Natural Lands Fund land management share",
+      "summary": "Would raise the share of the Clean Water and Natural Lands Fund that may be used each year to operate, maintain and manage lands acquired by the Fund, from 5% to 10% of the money deposited in the previous year.",
+      "yesMeans": "Up to 10% of the prior year's deposits may be used for managing Fund-acquired lands.",
+      "noMeans": "The limit stays at 5%.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 15",
+      "title": "Charter Amendment: Office of Data and Innovation",
+      "summary": "Would establish in the Charter an Office of Data and Innovation, led by an executive officer reporting to the Managing Director, to set citywide data standards and strategy, protect residents' digital privacy, guide responsible use of artificial intelligence and support innovation in City services. A Chief Data Officer position now exists only by ordinance.",
+      "yesMeans": "The Charter establishes an Office of Data and Innovation.",
+      "noMeans": "No Office of Data and Innovation is established in the Charter.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 16",
+      "title": "Charter Amendment: Permanent residents on City boards and commissions",
+      "summary": "Would allow permanent resident aliens who live in the City and County of Honolulu to be appointed to most City boards and commissions if they meet all other qualifications. Currently members must be registered voters of the City and County.",
+      "yesMeans": "Permanent resident aliens living in Honolulu may serve on most City boards and commissions.",
+      "noMeans": "Board and commission members must still be registered voters of the City and County.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 17",
+      "title": "Charter Amendment: Board and commission quorum and voting",
+      "summary": "Would exclude vacancies and non-voting members when determining whether a board or commission has a quorum, and allow official actions by a majority of members present and voting once a quorum exists, unless state law or the Charter requires more. Neighborhood Boards would not be affected.",
+      "yesMeans": "Quorum and actions are based on members eligible to vote, excluding vacancies and non-voting members.",
+      "noMeans": "Quorum and actions continue to be based on the entire membership, including vacancies.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 18",
+      "title": "Charter Amendment: First Deputy of Human Resources exempt from civil service",
+      "summary": "Would make the First Deputy of the Department of Human Resources an appointed position exempt from civil service, effective January 1, 2027, like first deputies in other City departments and the same position in other Hawaii counties.",
+      "yesMeans": "The First Deputy of Human Resources becomes an appointed, civil-service-exempt position.",
+      "noMeans": "The position remains a civil service position.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 19",
+      "title": "Charter Amendment: City Clerk support for the Charter Commission",
+      "summary": "Would require the City Clerk to provide technical and secretarial support to the Charter Commission, which is appointed every ten years to review City government. The Commission's authority and independence would not change.",
+      "yesMeans": "The City Clerk must provide technical and secretarial services to the Charter Commission.",
+      "noMeans": "The Charter does not assign this support to the City Clerk.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    },
+    {
+      "id": "Question 20",
+      "title": "Charter Amendment: Two-year ineligibility after impeachment",
+      "summary": "Would make a Councilmember, the Mayor or the Prosecuting Attorney who is removed by impeachment, or who resigns after an impeachment petition is filed, ineligible to be elected or appointed to any City office for two years. A similar rule already applies to officials removed by recall.",
+      "yesMeans": "Impeached officials, or those who resign after an impeachment petition, cannot hold City office for two years.",
+      "noMeans": "No such restriction applies after impeachment or resignation.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://www.honolulu.gov/elections/city-charter-info/"
+    }
+  ],
+  "municipalities": {}
+}

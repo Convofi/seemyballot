@@ -1,0 +1,225 @@
+{
+  "state": "AZ",
+  "county": "Pima County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799",
+    "https://content.civicplus.com/api/assets/az-pimacounty/b54c9e42-8520-4201-be8d-10b859da80df",
+    "https://content.civicplus.com/api/assets/az-pimacounty/979f9364-b465-4e5f-bce5-40a9f4e7d40c",
+    "https://content.civicplus.com/api/assets/az-pimacounty/cb5ff7d9-7f7d-4131-9154-96446934ecd2",
+    "https://www.pima.gov/810/Upcoming-Elections"
+  ],
+  "note": "Not shown: Board of Supervisors District 5, Justice of the Peace and Constable precincts, school district and fire district boards, and district or town measures (Propositions 423, 424, 426, 427 JTED bonds, 428, 429 and 431 Oro Valley), and City of South Tucson council. Arizona Supreme Court retention (Justice John Lopez IV) is statewide and not repeated here. County Attorney, Sheriff, Assessor, Recorder, Treasurer and School Superintendent were elected in 2024 and are not on this ballot. The City of Tucson has no city offices on the 2026 ballot (its elections are in odd years). Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Clerk of the Superior Court",
+      "candidates": [
+        {
+          "key": "az-pima-2026-clerk-giacomino-james",
+          "name": "James W. Giacomino",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Court of Appeals, Division Two: retain Judge Sean Brearcliffe? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-coa2-brearcliffe-sean",
+          "name": "Sean Brearcliffe",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Court of Appeals, Division Two: retain Judge Michael Kelly? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-coa2-kelly-michael",
+          "name": "Michael Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Court of Appeals, Division Two: retain Judge Jeffrey Sklar? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-coa2-sklar-jeffrey",
+          "name": "Jeffrey Sklar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 2: retain Judge J. Alan Goodwin? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div2-goodwin-j",
+          "name": "J. Alan Goodwin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 4: retain Judge Janet Calkins Bostwick? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div4-bostwick-janet",
+          "name": "Janet Calkins Bostwick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 6: retain Judge Danelle Bennett Liwski? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div6-liwski-danelle",
+          "name": "Danelle Bennett Liwski",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 15: retain Judge Sandra M. Bensley? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div15-bensley-sandra",
+          "name": "Sandra M. Bensley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 17: retain Judge Catherine M. Woods? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div17-woods-catherine",
+          "name": "Catherine M. Woods",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 19: retain Judge Kathleen A. Quigley? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div19-quigley-kathleen",
+          "name": "Kathleen A. Quigley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 20: retain Judge Laurie B. San Angelo? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div20-san-angelo-laurie",
+          "name": "Laurie B. San Angelo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 21: retain Judge Cynthia T. Kuhn? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div21-kuhn-cynthia",
+          "name": "Cynthia T. Kuhn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 22: retain Judge Jeffrey T. Bergin? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div22-bergin-jeffrey",
+          "name": "Jeffrey T. Bergin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    },
+    {
+      "office": "Superior Court, Division 25: retain Judge Randi Burnett? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "az-pima-2026-supct-div25-burnett-randi",
+          "name": "Randi Burnett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/d2c310c3-ade7-484e-a6f0-1ddaebec0799"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition 425",
+      "title": "Permanent Base Adjustment",
+      "summary": "Referred by the Pima County Board of Supervisors, it asks voters to permanently raise the state-set 1979-80 expenditure base for Pima County by $70,000,000, adjusted each year for population and inflation. The official summary says this would raise the County's spending limit in fiscal year 2027-2028 from $817,131,286 to $1,427,217,767, with the added authority usable for any local budget purpose.",
+      "yesMeans": "Pima County may permanently adjust its 1979-80 base expenditure limit upward by $70,000,000.",
+      "noMeans": "Pima County's 1979-80 base expenditure limit is not adjusted.",
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/979f9364-b465-4e5f-bce5-40a9f4e7d40c",
+      "moreInfo": "https://content.civicplus.com/api/assets/az-pimacounty/cb5ff7d9-7f7d-4131-9154-96446934ecd2"
+    },
+    {
+      "id": "Proposition 430",
+      "title": "Pima County Community College District Special Bond Election",
+      "summary": "Asks whether Pima County Community College District may issue and sell up to $250,000,000 in general obligation bonds for land, buildings, equipment and facilities, with listed potential uses including first-responder training, moving police headquarters to the Downtown Campus, and updating student services, teacher education, IT, arts and STEM programs. The bonds would mature in 1 to 20 years at interest up to 10% per year and would be repaid with a secondary property tax increase.",
+      "yesMeans": "The District may issue and sell $250,000,000 of general obligation bonds repaid with secondary property taxes.",
+      "noMeans": "The District may not issue and sell these bonds.",
+      "source": "https://content.civicplus.com/api/assets/az-pimacounty/979f9364-b465-4e5f-bce5-40a9f4e7d40c"
+    }
+  ],
+  "municipalities": {
+    "Tucson": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 421",
+          "title": "Proposed Electric Transmission and Distribution Franchise",
+          "summary": "Asks City of Tucson voters to grant Tucson Electric Power Company a franchise to build, maintain and operate electric transmission and distribution facilities in the city's public rights-of-way. In return the City would receive a franchise fee and other consideration.",
+          "yesMeans": "A franchise for electric transmission and distribution services is granted to Tucson Electric Power Company.",
+          "noMeans": "The franchise for electric transmission and distribution services to Tucson Electric Power Company is denied.",
+          "source": "https://content.civicplus.com/api/assets/az-pimacounty/979f9364-b465-4e5f-bce5-40a9f4e7d40c"
+        },
+        {
+          "id": "Proposition 422",
+          "title": "Gene Reid Park Zoo Sales Tax Reauthorization (Tucson Charter, Chapter IV, Section 5)",
+          "summary": "A charter amendment referred by the Mayor and Council that would reauthorize the City's one-tenth-cent (0.1%) sales and use tax for another twenty years, from January 1, 2028 to December 31, 2047. The revenue would stay dedicated to capital improvements, infrastructure repair and replacement, exhibit expansion, and related operations and maintenance at the Gene Reid Park Zoo.",
+          "yesMeans": "The 0.1% sales and use tax for the Gene Reid Park Zoo is reauthorized through December 31, 2047.",
+          "noMeans": "The 0.1% sales and use tax for the Gene Reid Park Zoo is not reauthorized beyond December 31, 2027.",
+          "source": "https://content.civicplus.com/api/assets/az-pimacounty/979f9364-b465-4e5f-bce5-40a9f4e7d40c"
+        }
+      ]
+    }
+  }
+}
