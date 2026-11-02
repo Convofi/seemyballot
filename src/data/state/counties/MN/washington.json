@@ -1,0 +1,300 @@
+{
+  "state": "MN",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+  ],
+  "note": "Candidates and the county question are from the official Minnesota Secretary of State sample ballot for an Oak Park Heights precinct and the Secretary of State's county and judicial district candidate files, where each item shown is listed for all 84 Washington County precincts. District judge incumbency follows the 'Incumbent' label printed on the sample ballot; Sheriff and County Attorney incumbency is not marked because we could not reach an official county roster. Not shown here because they depend on your district: County Commissioner (Districts 2, 4 and 5), Soil and Water Conservation District Supervisor (Districts 2, 4 and 5), school board members and school district questions, and city and township offices and questions. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-sheriff-bolen-jeremy",
+          "name": "Jeremy Bolen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-washington-2026-sheriff-mueller-brian",
+          "name": "Brian R. Mueller",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-county-attorney-magnuson-kevin",
+          "name": "Kevin M. Magnuson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 1 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-1-freeman-juanita",
+          "name": "Juanita C. Freeman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 2 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-2-doom-carrie",
+          "name": "Carrie A. Doom",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 4 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-4-brown-suzanne",
+          "name": "Suzanne M Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 6 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-6-hiljus-stoney",
+          "name": "Stoney L. Hiljus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 7 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-7-winchell-viet-hanh",
+          "name": "Viet-Hanh Winchell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 8 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-8-pietan-laura",
+          "name": "Laura A. Pietan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 9 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-9-hawley-sheridan",
+          "name": "Sheridan Hawley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 14 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-14-collins-justin",
+          "name": "Justin Collins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-15-lehmann-thomas",
+          "name": "Thomas Robert Lehmann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 17 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-17-flanagan-patrick",
+          "name": "Patrick W. Flanagan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 19 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-19-loehr-tricia",
+          "name": "Tricia Loehr",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 22 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-22-saterbak-melissa",
+          "name": "Melissa Saterbak",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 23 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-23-mcpherson-catherine",
+          "name": "Catherine (Kate) McPherson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 24 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-24-mccarthy-karin",
+          "name": "Karin L. McCarthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 28 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-28-schommer-karen",
+          "name": "Karen B. Schommer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 29 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-29-fischmann-jacob",
+          "name": "Jacob Fischmann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 32 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-32-strand-elizabeth",
+          "name": "Elizabeth H. Strand",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 38 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-38-lacy-ben",
+          "name": "Ben Lacy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-washington-2026-district-court-38-waxse-rebecca",
+          "name": "Rebecca A. Waxse",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 43 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-43-pipenhagen-heather",
+          "name": "Heather Pipenhagen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    },
+    {
+      "office": "Judge 45 - District Court, 10th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-washington-2026-district-court-45-peterson-jennifer",
+          "name": "Jennifer D. Peterson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Question 1",
+      "title": "Preservation of Water Quality, Wildlife Habitat, and Natural Areas",
+      "summary": "Asks whether Washington County may issue up to $40,000,000 in general obligation bonds to acquire and improve land under the Washington County Land and Water Legacy Program, to improve water quality in rivers, lakes and streams (including the St. Croix and Mississippi), protect drinking water, preserve wetlands, woodlands and natural areas, buy parkland and protect wildlife habitat. Spending would be limited to these purposes with public disclosure and an annual public audit. The ballot states it would cost about $24.60 a year for twenty years on a median-value homestead ($420,900) and that a yes vote is a vote for a property tax increase.",
+      "yesMeans": "Washington County may issue up to $40 million in bonds for the Land and Water Legacy Program, raising property taxes.",
+      "noMeans": "The bonds are not authorized.",
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/C0B456A7-651C-41DF-A76A-3774D75CFA93.pdf"
+    }
+  ],
+  "municipalities": {}
+}

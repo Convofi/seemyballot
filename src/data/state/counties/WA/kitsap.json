@@ -1,0 +1,188 @@
+{
+  "state": "WA",
+  "county": "Kitsap County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=18&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Kitsap County. Party is the candidate's stated preference. County Commissioner District 3 is nominated by district but elected countywide in the general election. Incumbent flags are not set because we could not reach an official roster. Not shown: Kitsap Public Utility District No. 1 Commissioner District 2 and PUD Proposition No. 1, the South Kitsap School District Proposition No. 1, and legislative and congressional districts, which depend on where you live. No countywide Kitsap County measure and no City of Bremerton office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 2, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-coa2-d2-pos1-price-erik",
+          "name": "Erik D. Price",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County District Court Judge Department 1",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-district-court-dept1-bradley-claire",
+          "name": "Claire A. Bradley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County District Court Judge Department 2",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-district-court-dept2-buskirk-gina",
+          "name": "Gina M. Buskirk",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County District Court Judge Department 3",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-district-court-dept3-seaman-shane",
+          "name": "Shane R. Seaman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County District Court Judge Department 4",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-district-court-dept4-kelly-kevin",
+          "name": "Kevin P Kelly",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-commissioner-d3-walters-katie",
+          "name": "Katie Walters",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-kitsap-2026-commissioner-d3-tisdel-kevin",
+          "name": "Kevin Tisdel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County Assessor",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-assessor-simonds-michael",
+          "name": "Michael Simonds",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-kitsap-2026-assessor-cook-phil",
+          "name": "Phil Cook",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County Auditor",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-auditor-andrews-paul",
+          "name": "Paul Andrews",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County Clerk",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-clerk-lewis-david",
+          "name": "David T Lewis III",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-kitsap-2026-clerk-kennedy-brien",
+          "name": "Brien Kennedy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-prosecutor-lombardi-joe",
+          "name": "Joe Lombardi",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-kitsap-2026-prosecutor-enright-chad",
+          "name": "Chad M. Enright",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-sheriff-myers-brandon",
+          "name": "Brandon L. Myers",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-kitsap-2026-sheriff-kuss-rick",
+          "name": "Rick Kuss",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    },
+    {
+      "office": "Kitsap County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-kitsap-2026-treasurer-boissonneau-pete",
+          "name": "Pete Boissonneau",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=18"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

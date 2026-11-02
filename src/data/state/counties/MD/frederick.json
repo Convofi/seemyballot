@@ -1,0 +1,253 @@
+{
+  "state": "MD",
+  "county": "Frederick County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf",
+    "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_all_counties_candidatelist.html",
+    "https://www.frederickcountymd.gov/591/County-Council",
+    "https://www.frederickcountymd.gov/5931/County-Executive",
+    "https://www.frederickcosheriff.com/",
+    "https://registers.maryland.gov/main/frederick.html",
+    "https://mdcourts.gov/clerks/frederick"
+  ],
+  "note": "Every contest and question shown here appears on all 66 Frederick County ballot styles in the State Board of Elections' certified ballot file. Not shown: County Council district seats (Districts 1-5); check your official sample ballot for your district. The City of Frederick has no city offices or questions on this ballot. The Appellate Court at-large continuance question and the three statewide questions are statewide and not repeated here. Incumbent flags are set only where an official office page confirms the officeholder.",
+  "contests": [
+    {
+      "office": "County Executive",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-exec-fitzwater-jessica",
+          "name": "Jessica Fitzwater",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-frederick-2026-exec-holtzinger-william",
+          "name": "William J. Holtzinger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf"
+    },
+    {
+      "office": "County Council At Large (vote for up to 2)",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-council-at-large-grant-tiffany",
+          "name": "Tiffany Grant",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-council-at-large-knapp-renee",
+          "name": "Renee Knapp",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "md-frederick-2026-council-at-large-felton-jack",
+          "name": "Jack Felton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-council-at-large-fouche-diane",
+          "name": "Diane Fouche",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf",
+      "seats": 2
+    },
+    {
+      "office": "Judge of the Circuit Court, Circuit 6",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-circuit-minner-julia",
+          "name": "Julia Ann Minner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf"
+    },
+    {
+      "office": "State's Attorney",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-sa-smith-charlie",
+          "name": "Charlie Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-clerk-leroux-megan",
+          "name": "Megan LeRoux",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-clerk-dalton-sandra",
+          "name": "Sandra K. Dalton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf"
+    },
+    {
+      "office": "Register of Wills",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-wills-manners-chris",
+          "name": "Chris Manners",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-wills-rolle-mary",
+          "name": "Mary C. Rolle",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf"
+    },
+    {
+      "office": "Judge of the Orphans' Court (vote for up to 3)",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-orphans-butcher-shuan",
+          "name": "Shuan Butcher",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-orphans-jarman-lois",
+          "name": "Lois Jarman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-orphans-jessee-susan",
+          "name": "Susan Reeder Jessee",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-orphans-chmelik-rebecca",
+          "name": "Rebecca Chmelik",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-orphans-dacey-karen",
+          "name": "Karen Dacey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-orphans-wilson-susan",
+          "name": "Susan W. Wilson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf",
+      "seats": 3
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-sheriff-bickel-karl",
+          "name": "Karl Bickel",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-sheriff-jenkins-chuck",
+          "name": "Chuck Jenkins",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf"
+    },
+    {
+      "office": "Board of Education (vote for up to 4)",
+      "candidates": [
+        {
+          "key": "md-frederick-2026-boe-day-casey",
+          "name": "Casey Day",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-boe-fletcher-heather",
+          "name": "Heather Fletcher",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-boe-gallagher-rae",
+          "name": "Rae Gallagher",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-boe-potter-shelley",
+          "name": "Shelley L. Potter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-boe-rose-dean",
+          "name": "Dean Rose",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-boe-seidel-geoffrey",
+          "name": "Geoffrey Seidel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-boe-walker-tyler",
+          "name": "Tyler Walker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "md-frederick-2026-boe-wilson-chad",
+          "name": "Chad King Wilson, Sr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf",
+      "seats": 4
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Charter Amendment: Term limits for the County Council and County Executive",
+      "summary": "Would change the Frederick County Charter so that a County Council member could serve no more than three terms in their lifetime and the County Executive no more than two terms in their lifetime. The current limits apply only to consecutive terms.",
+      "yesMeans": "For: Council members are limited to three lifetime terms and the County Executive to two lifetime terms.",
+      "noMeans": "Against: the current limits of three consecutive terms for Council members and two consecutive terms for the County Executive stay in place.",
+      "source": "https://elections.maryland.gov/elections/2026/general_ballots/Frederick.pdf"
+    }
+  ],
+  "municipalities": {}
+}
