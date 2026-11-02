@@ -1,0 +1,86 @@
+{
+  "state": "LA",
+  "county": "Rapides Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=41&parishName=RAPIDES",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 113 Rapides Parish precincts; no local race or question appears on every precinct ballot in the parish, and the Alexandria items appear on every ballot that includes the City of Alexandria. Unopposed candidates were declared elected and do not appear on the ballot: District Attorney (Phillip Terrell), Associate Justice of the Supreme Court 4th District, 3rd Circuit Court of Appeal 1st District Divisions B and C, 9th Judicial District Court Divisions A, B, C, D, E, F and G, Alexandria and Pineville City Court judges, Pineville City Marshal, Alexandria City Council District 4, School Board Districts A, B, C, E and G, races in Woodworth, Forest Hill and McNary, and most Justices of the Peace and Constables. Rapides Parish Police Jury seats are not on this ballot. Not shown because they depend on where you live: Alexandria City Court marshal (also on ballots outside the city within the court's jurisdiction); Alexandria City Council District 2; School Board Districts D, F, H and I; Justices of the Peace and Constables; Fire Protection District No. 18 renewal; and town races and questions in Ball, Boyce, Glenmora and Lecompte. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Alexandria": {
+      "contests": [
+        {
+          "office": "Mayor, City of Alexandria",
+          "candidates": [
+            {
+              "key": "la-rapides-2026-alexandria-mayor-davis-lorenzo",
+              "name": "Lorenzo Davis, Sr.",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-rapides-2026-alexandria-mayor-larvadain-malcolm",
+              "name": "Malcolm Larvadain",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-rapides-2026-alexandria-mayor-roy-jacques",
+              "name": "Jacques Roy",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=41&parishName=RAPIDES"
+        },
+        {
+          "office": "Councilman at Large, City of Alexandria",
+          "candidates": [
+            {
+              "key": "la-rapides-2026-alexandria-council-at-large-scott-gregory",
+              "name": "Gregory Scott",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-rapides-2026-alexandria-council-at-large-villard-jim",
+              "name": "\"Jim\" Villard",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=41&parishName=RAPIDES"
+        },
+        {
+          "office": "City Marshal, Alexandria City Court",
+          "candidates": [
+            {
+              "key": "la-rapides-2026-alexandria-marshal-green-cedric",
+              "name": "Cedric Green",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-rapides-2026-alexandria-marshal-hopewell-jerome",
+              "name": "Jerome Hopewell",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-rapides-2026-alexandria-marshal-smith-raymond",
+              "name": "Raymond Eli Smith",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=41&parishName=RAPIDES"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

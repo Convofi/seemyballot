@@ -1,0 +1,92 @@
+{
+  "state": "LA",
+  "county": "Terrebonne Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=56&parishName=TERREBONNE",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 64 Terrebonne Parish precincts; the parish items shown appear on every precinct ballot. The Houma City Court marshal race appears on every precinct ballot in the parish, so it is listed with the parish races. Unopposed candidates were declared elected and do not appear on the ballot: District Attorney (Joseph \"Joe\" Waitz, Jr.), 32nd Judicial District Court Divisions A, B and C, Houma City Court judge, School Board Districts 3, 4, 5, 6 and 8, and most Justices of the Peace and all Constables. Terrebonne Parish Council seats are not on this ballot. Not shown because they depend on where you live: School Board Districts 1, 2, 7 and 9; Justices of the Peace in Wards 4, 5 and 8; Road Lighting District No. 2 and No. 4 renewals; and the Recreation District No. 6 renewal. The City of Houma has no city-only item on this ballot. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Judge, 32nd Judicial District Court, Division D",
+      "candidates": [
+        {
+          "key": "la-terrebonne-2026-judge-div-d-graffagnino-gregg",
+          "name": "Gregg J. Graffagnino",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-terrebonne-2026-judge-div-d-mustin-amanda",
+          "name": "Amanda Mustin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=56&parishName=TERREBONNE"
+    },
+    {
+      "office": "District Judge, 32nd Judicial District Court, Division E",
+      "candidates": [
+        {
+          "key": "la-terrebonne-2026-judge-div-e-fairchild-kentley",
+          "name": "Kentley R. Fairchild",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-terrebonne-2026-judge-div-e-thompson-kevin",
+          "name": "Kevin D. Thompson",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=56&parishName=TERREBONNE"
+    },
+    {
+      "office": "City Marshal, Houma City Court",
+      "candidates": [
+        {
+          "key": "la-terrebonne-2026-houma-marshal-fitch-herbert",
+          "name": "Herbert Fitch",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-terrebonne-2026-houma-marshal-lagarde-eugene",
+          "name": "Eugene \"Nunk\" Lagarde, Sr.",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "la-terrebonne-2026-houma-marshal-lusco-lonnie",
+          "name": "Lonnie Lusco",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=56&parishName=TERREBONNE"
+    }
+  ],
+  "measures": [
+    {
+      "id": "PW Prop. No. 1 of 2",
+      "title": "PW Prop. No. 1 of 2 (TARC) - 5.33 Mills Renewal - PC - 10 Yrs.",
+      "summary": "Asks whether Terrebonne Parish may continue a 5.33-mill property tax on all taxable property in the parish for 10 years, 2028 through 2037. The money, an estimated $5,856,495 a year, would pay for operating, maintaining and building facilities for people with intellectual and developmental disabilities in the parish.",
+      "yesMeans": "The parish may keep levying the 5.33-mill tax for disability services facilities from 2028 through 2037.",
+      "noMeans": "The parish may not continue this tax.",
+      "source": "https://voterportal.sos.la.gov/SampleBallot"
+    },
+    {
+      "id": "PW Prop. No. 2 of 2",
+      "title": "PW Prop. No. 2 of 2 (Drainage Maintenance) - 7.31 Mills Renewal - PC - 10 Yrs.",
+      "summary": "Asks whether Terrebonne Parish may continue a 7.31-mill property tax on all taxable property in the parish for 10 years, 2028 through 2037. The money, an estimated $8,032,078 a year, would pay for operating, maintaining and building public drainage works in the parish.",
+      "yesMeans": "The parish may keep levying the 7.31-mill drainage tax from 2028 through 2037.",
+      "noMeans": "The parish may not continue this tax.",
+      "source": "https://voterportal.sos.la.gov/SampleBallot"
+    }
+  ],
+  "municipalities": {}
+}

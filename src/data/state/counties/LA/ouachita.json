@@ -1,0 +1,33 @@
+{
+  "state": "LA",
+  "county": "Ouachita Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=38&parishName=OUACHITA",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 85 Ouachita Parish precincts; the District Attorney race is the only local item on every precinct ballot. Unopposed candidates were declared elected and do not appear on the ballot: Associate Justice of the Supreme Court 4th District, 4th Judicial District Court Election Section 1 Divisions G and J and Election Section 2 Divisions A, C, D, E, F and K, Monroe City Court Divisions A, B and C, Ouachita Parish School Board Districts B, C, E and G, Monroe City School Board Districts 2 and 3, Sterlington mayor and police chief, and most Justices of the Peace and Constables. Ouachita Parish Police Jury seats are not on this ballot. PSC District 5 is a state district office. Not shown because they depend on where you live: 4th Judicial District Court Election Section 1 Divisions H and I and Election Section 2 Division B; Monroe City Court marshal and West Monroe City Court judge and marshal (on the ballot within each court's jurisdiction, which does not match city limits); Ouachita Parish School Board Districts A, D and F; Monroe City School Board Districts 1, 4, 5, 6 and 7; Justices of the Peace and Constables; and Sterlington aldermen. The City of Monroe has no city-only item on this ballot. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Attorney, 4th Judicial District",
+      "candidates": [
+        {
+          "key": "la-ouachita-2026-da-campbell-mennon",
+          "name": "Mennon Campbell, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-ouachita-2026-da-sharp-alvin",
+          "name": "Alvin Sharp",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=38&parishName=OUACHITA"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

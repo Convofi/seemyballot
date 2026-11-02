@@ -1,0 +1,117 @@
+{
+  "state": "LA",
+  "county": "Tangipahoa Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=54&parishName=TANGIPAHOA",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 73 Tangipahoa Parish precincts; the parish items shown appear on every precinct ballot, and the Hammond items appear on every ballot that includes the City of Hammond. The Hammond City Court marshal race is also on ballots outside the city within the court's jurisdiction. Unopposed candidates were declared elected and do not appear on the ballot: Associate Justice of the Supreme Court 1st District, 21st Judicial District Court Divisions A, B, C, D, F, I, J, K and L, Hammond City Court judge, Hammond City Council Districts 1 and 3, School Board Districts A, B, D, F and H, and most Justices of the Peace and Constables. Tangipahoa Parish Council seats are not on this ballot. PSC District 1 and BESE District 1 are state district offices. Not shown because they depend on where you live: Hammond City Council Districts 2, 4 and 5; School Board Districts C, E, G and I; Justices of the Peace and Constables; and town and village races in Independence, Kentwood and Tickfaw. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Judge, 21st Judicial District Court, Division E",
+      "candidates": [
+        {
+          "key": "la-tangipahoa-2026-judge-div-e-magee-lindon",
+          "name": "Lindon Bennett Magee",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-tangipahoa-2026-judge-div-e-brock-jasper",
+          "name": "Jasper Brock",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=54&parishName=TANGIPAHOA"
+    },
+    {
+      "office": "District Attorney, 21st Judicial District",
+      "candidates": [
+        {
+          "key": "la-tangipahoa-2026-da-cascio-brad",
+          "name": "Brad Cascio",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-tangipahoa-2026-da-mack-sherman",
+          "name": "Sherman Mack",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=54&parishName=TANGIPAHOA"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Hammond": {
+      "contests": [
+        {
+          "office": "Mayor, City of Hammond",
+          "candidates": [
+            {
+              "key": "la-tangipahoa-2026-hammond-mayor-andrews-kiplyn",
+              "name": "Kiplyn \"Kip\" Andrews",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-tangipahoa-2026-hammond-mayor-gonzales-carlee",
+              "name": "Carlee White Gonzales",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-tangipahoa-2026-hammond-mayor-landrum-lacy",
+              "name": "Lacy Landrum",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-tangipahoa-2026-hammond-mayor-wells-tracy",
+              "name": "Tracy Washington Wells",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=54&parishName=TANGIPAHOA"
+        },
+        {
+          "office": "City Marshal, Hammond City Court",
+          "candidates": [
+            {
+              "key": "la-tangipahoa-2026-hammond-marshal-bickford-david",
+              "name": "David Bickford",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-tangipahoa-2026-hammond-marshal-farris-pat",
+              "name": "\"Pat\" Farris",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-tangipahoa-2026-hammond-marshal-jackson-becky",
+              "name": "Becky Jackson",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-tangipahoa-2026-hammond-marshal-wells-arden",
+              "name": "Arden Wells",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=54&parishName=TANGIPAHOA"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

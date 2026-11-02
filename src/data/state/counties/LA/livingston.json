@@ -1,0 +1,51 @@
+{
+  "state": "LA",
+  "county": "Livingston Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=33&parishName=LIVINGSTON",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 80 Livingston Parish precincts; the parish items shown appear on every precinct ballot. Unopposed candidates were declared elected and do not appear on the ballot: Associate Justice of the Supreme Court 1st District, 21st Judicial District Court Divisions A, B, C, D, F, I, J, K and L, Denham Springs City Court marshal, most School Board seats, Albany mayor and police chief, and most Justices of the Peace and Constables. Livingston Parish Council seats are not on this ballot. PSC District 1 is a state district office. Not shown because they depend on where you live: Denham Springs City Court judge (on the ballot within the court's jurisdiction, which does not match city limits); Denham Springs mayor and city council and Albany town council (city and town races are not listed here); School Board Districts 3 and 5; Justices of the Peace and Constables; and Fire Protection District No. 8 and No. 9 renewals. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Judge, 21st Judicial District Court, Division E",
+      "candidates": [
+        {
+          "key": "la-livingston-2026-judge-div-e-magee-lindon",
+          "name": "Lindon Bennett Magee",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-livingston-2026-judge-div-e-brock-jasper",
+          "name": "Jasper Brock",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=33&parishName=LIVINGSTON"
+    },
+    {
+      "office": "District Attorney, 21st Judicial District",
+      "candidates": [
+        {
+          "key": "la-livingston-2026-da-cascio-brad",
+          "name": "Brad Cascio",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-livingston-2026-da-mack-sherman",
+          "name": "Sherman Mack",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=33&parishName=LIVINGSTON"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
