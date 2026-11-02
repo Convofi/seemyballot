@@ -1,0 +1,201 @@
+{
+  "state": "KY",
+  "county": "Boone County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf",
+    "https://boonecountyclerk.ky.gov/wp-content/uploads/2025/07/Elected-Officials-Representing-Boone-County-1.pdf",
+    "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/01/2026-Candidate-List.pdf"
+  ],
+  "note": "Countywide items are those the Boone County Clerk's published composite sample ballot lists for All Precincts. The three County Commissioner seats (Districts 1, 2 and 3) are marked All Precincts, so the whole county votes on them. Not shown because they depend on your district: Justice of the Peace and Constable (magisterial districts), Boone County Board of Education Districts 4 and 5, Walton-Verona Independent Board of Education, the mayor and council races in Florence, Erlanger, Union and Walton, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags follow the Clerk's list of Elected Officials Representing Boone County. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-pva-brown-jonathan",
+          "name": "Jonathan L. Brown",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-judge-executive-hand-chet",
+          "name": "Chet Hand",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-boone-2026-judge-executive-johnson-timothy",
+          "name": "Timothy Dean Johnson",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-county-attorney-turner-jordan",
+          "name": "Jordan Dallas Turner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-county-clerk-crigler-justin",
+          "name": "Justin Crigler",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-sheriff-hill-les",
+          "name": "Les Hill",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-jailer-maydak-jason",
+          "name": "Jason Maydak",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "County Commissioner, District 1",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-commissioner-d1-flaig-cathy",
+          "name": "Cathy Hudson Flaig",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ky-boone-2026-commissioner-d1-waller-debra",
+          "name": "Debra Waller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "County Commissioner, District 2",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-commissioner-d2-schickel-john",
+          "name": "John Schickel",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-boone-2026-commissioner-d2-nguyen-lianna",
+          "name": "Lianna Simpson Nguyen",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "County Commissioner, District 3",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-commissioner-d3-brewer-jesse",
+          "name": "Jesse A. Brewer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-coroner-rittinger-missy",
+          "name": "Missy Rittinger",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-surveyor-larison-greg",
+          "name": "Greg Larison",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "Circuit Judge, Family Court, 54th Judicial Circuit, 4th Division",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-family-judge-div4-dusing-jennifer",
+          "name": "Jennifer Dusing",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "District Judge, 54th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-district-judge-div1-smith-jeffrey",
+          "name": "Jeffrey S. Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    },
+    {
+      "office": "District Judge, 54th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-boone-2026-district-judge-div2-thomas-marcia",
+          "name": "Marcia Thomas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boonecountyclerk.ky.gov/wp-content/uploads/2026/10/Composite-Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

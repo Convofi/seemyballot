@@ -1,0 +1,237 @@
+{
+  "state": "KY",
+  "county": "Hardin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://hccoky.org/pdf/ballots/26GComp.pdf",
+    "https://hccoky.org/local/candidatereport.asp",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+  ],
+  "note": "Countywide items are those the Hardin County Clerk's published composite sample ballot marks for All Precincts; candidate names follow the Clerk's general-election candidate report (and the Secretary of State's filing list for District Judge). Not shown because they depend on your district: Magistrate and Constable (Districts 1-8), Hardin County Board of Education Divisions 2 and 3, Elizabethtown Independent Board of Education, the mayor and council or commission races in Radcliff, Vine Grove, West Point, Sonora and Upton, and state legislative districts. Soil and Water Conservation District Supervisor does not appear on the composite ballot. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-pva-overstreet-casey",
+          "name": "Casey Overstreet",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-hardin-2026-pva-king-kristofor",
+          "name": "Kristofor King",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-judge-executive-taul-keith",
+          "name": "Keith Taul",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-hardin-2026-judge-executive-duvall-jj",
+          "name": "J.J. Duvall",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-county-attorney-jones-donald",
+          "name": "Donald C. Jones",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-county-clerk-smith-brian",
+          "name": "Brian D. Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-sheriff-oden-willie",
+          "name": "Willie Oden",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-hardin-2026-sheriff-ward-john",
+          "name": "John Ward",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-jailer-reynolds-robert",
+          "name": "Robert Reynolds",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-hardin-2026-jailer-lindblom-josh",
+          "name": "Josh \"Big Josh\" Lindblom",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-coroner-elmore-pat",
+          "name": "Pat Elmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-surveyor-spurrier-eric",
+          "name": "Eric Spurrier",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hccoky.org/local/candidatereport.asp"
+    },
+    {
+      "office": "District Judge, 9th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-district-judge-div1-lewis-shelt",
+          "name": "Shelt Michael Lewis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    },
+    {
+      "office": "District Judge, 9th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-hardin-2026-district-judge-div2-shumate-kim",
+          "name": "Kim Winkenhofer Shumate",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Elizabethtown": {
+      "contests": [
+        {
+          "office": "Mayor, City of Elizabethtown",
+          "candidates": [
+            {
+              "key": "ky-hardin-2026-elizabethtown-mayor-gregory-jeff",
+              "name": "Jeff Gregory",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://hccoky.org/local/candidatereport.asp"
+        },
+        {
+          "office": "Elizabethtown City Council (Vote for up to Six)",
+          "candidates": [
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-sublett-titus",
+              "name": "Titus Sublett",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-tyler-mika",
+              "name": "Mika Tyler",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-springsteen-julia",
+              "name": "Julia Springsteen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-jones-lamar",
+              "name": "E. Lamar Jones",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-fulkerson-marty",
+              "name": "Marty E. Fulkerson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-shaw-jim",
+              "name": "Jim Shaw",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-isaacs-tim",
+              "name": "Tim Isaacs",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-simmons-logan",
+              "name": "Logan Simmons",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-hardin-2026-elizabethtown-council-reesor-bryan",
+              "name": "Bryan \"Cheese\" Reesor",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://hccoky.org/local/candidatereport.asp"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

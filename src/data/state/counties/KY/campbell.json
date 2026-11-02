@@ -1,0 +1,206 @@
+{
+  "state": "KY",
+  "county": "Campbell County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+  ],
+  "note": "Countywide items are those the Campbell County sample ballot (published by the Kentucky Secretary of State) marks for All precincts. The three County Commissioner seats (1st, 2nd and 3rd District) are marked All precincts, so the whole county votes on them. Not shown because they depend on your district: Justice of the Peace and Constable (1st-3rd Magisterial Districts), Campbell County Board of Education Districts 1 and 4, the Bellevue, Dayton, Fort Thomas, Newport and Southgate Independent school boards, the mayor, council and commission races in Newport, Alexandria, Fort Thomas and the county's other cities, and state legislative districts. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district and city races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-pva-macke-fred",
+          "name": "Fred A. Macke III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-judge-executive-schabell-andrew",
+          "name": "Andrew \"Andy\" Schabell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-county-attorney-schroder-wil",
+          "name": "Wil Schroder",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-county-clerk-luersen-jim",
+          "name": "Jim Luersen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-sheriff-jansen-mike",
+          "name": "Mike Jansen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-jailer-grosser-ryan",
+          "name": "Ryan Grosser",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "County Commissioner, 1st District",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-commissioner-d1-painter-brian",
+          "name": "Brian Painter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "County Commissioner, 2nd District",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-commissioner-d2-besecker-geoff",
+          "name": "Geoff Besecker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "County Commissioner, 3rd District",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-commissioner-d3-lampe-tom",
+          "name": "Tom Lampe",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-campbell-2026-commissioner-d3-owens-brant",
+          "name": "Brant Owens",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-coroner-schweitzer-mark",
+          "name": "Mark Schweitzer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-surveyor-hartig-ryan",
+          "name": "Ryan Hartig",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 17th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-district-judge-div1-blau-cameron",
+          "name": "Cameron J. Blau",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 17th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-district-judge-div2-sizemore-erin",
+          "name": "Erin Sizemore",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Supervisors (Vote for Three)",
+      "candidates": [
+        {
+          "key": "ky-campbell-2026-soilwater-schadler-larry",
+          "name": "Larry Schadler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-campbell-2026-soilwater-downton-amy",
+          "name": "Amy \"Abby\" Downton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-campbell-2026-soilwater-hill-kirsten",
+          "name": "Kirsten \"Kirt\" Hill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-campbell-2026-soilwater-smith-john",
+          "name": "John \"PJ\" Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CAMPBELL%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

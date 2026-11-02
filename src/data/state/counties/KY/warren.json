@@ -1,0 +1,215 @@
+{
+  "state": "KY",
+  "county": "Warren County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf",
+    "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/08/2026-Candidate-Filings-website.pdf",
+    "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/WRITE-IN-FOR-WEB.pdf",
+    "https://warrencountyclerk.ky.gov/services/elections/2026-general-election-info/"
+  ],
+  "note": "Countywide items are those the Warren County Clerk's published composite sample ballot marks for All Precincts. Not shown because they depend on your district: Magistrate and Constable (Districts 1-6), Warren County Board of Education Districts 3 and 5, Bowling Green Independent Board of Education, the mayor and commission races in Oakland, Plum Springs, Smiths Grove and Woodburn, and state legislative districts. The three Soil and Water Conservation District Supervisor seats were certified unopposed and do not appear on the ballot. There is no Bowling Green mayor race in 2026. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster could be checked (the Warren County government site blocked automated access). Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-pva-hardy-joshua",
+          "name": "Joshua R. Hardy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-judge-executive-gorman-doug",
+          "name": "Doug Gorman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-county-attorney-chandler-amy",
+          "name": "Amy Hale Chandler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-county-clerk-yates-lynette",
+          "name": "Lynette Yates",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-sheriff-hightower-brett",
+          "name": "Brett Hightower",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-jailer-harmon-stephen",
+          "name": "Stephen Harmon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-coroner-kirby-kevin",
+          "name": "Kevin R. Kirby",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-surveyor-claypool-barry",
+          "name": "Barry Claypool",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "Circuit Judge, Family Court, 8th Judicial Circuit, 3rd Division (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-family-judge-div3-simpson-rebecca",
+          "name": "Rebecca Adams Simpson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "District Judge, 8th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-district-judge-div1-geoghegan-kimberly",
+          "name": "Kimberly Geoghegan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "District Judge, 8th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-district-judge-div2-potter-brent",
+          "name": "Brent J. Potter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    },
+    {
+      "office": "District Judge, 8th Judicial District, 3rd Division",
+      "candidates": [
+        {
+          "key": "ky-warren-2026-district-judge-div3-brown-john",
+          "name": "John Brown",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Bowling Green": {
+      "contests": [
+        {
+          "office": "Bowling Green City Commissioners (Vote for up to Four)",
+          "candidates": [
+            {
+              "key": "ky-warren-2026-bowling-green-commissioner-hill-melinda",
+              "name": "Melinda Hill",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-warren-2026-bowling-green-commissioner-morris-thomas",
+              "name": "Thomas Alan Morris",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-warren-2026-bowling-green-commissioner-parrigin-sue",
+              "name": "Sue Parrigin",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-warren-2026-bowling-green-commissioner-beasley-brown-dana",
+              "name": "Dana Beasley-Brown",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-warren-2026-bowling-green-commissioner-langley-don",
+              "name": "Don Langley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-warren-2026-bowling-green-commissioner-bailey-carlos",
+              "name": "Carlos D'Angelo Bailey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-warren-2026-bowling-green-commissioner-fishback-brian",
+              "name": "Brian Fishback",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "writeIn": true
+            }
+          ],
+          "source": "https://warrencountyclerk.ky.gov/wp-content/uploads/2026/09/Warren-2026G.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

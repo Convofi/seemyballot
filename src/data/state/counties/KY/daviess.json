@@ -1,0 +1,302 @@
+{
+  "state": "KY",
+  "county": "Daviess County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+  ],
+  "note": "Countywide items are those the Daviess County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. The three County Commissioner seats (Central, Eastern and Western District) are marked All Precincts, so the whole county votes on them. No candidate filed for County Surveyor; that race appears on the ballot with only a write-in line. Not shown because they depend on your district: Justice of the Peace and Constable (Western, Central and Eastern Magisterial Districts), Daviess County Board of Education Districts 1 and 2, Owensboro Independent Board of Education, Whitesville mayor and commission, and state legislative districts. There is no Owensboro mayor race in 2026. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-pva-foster-rachel",
+          "name": "Rachel Pence Foster",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-pva-pogue-william",
+          "name": "William T. Pogue Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-judge-executive-castlen-charlie",
+          "name": "Charlie Castlen",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-judge-executive-kuegel-william",
+          "name": "William \"Rod\" Kuegel Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-county-attorney-burlew-john",
+          "name": "John Burlew",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-county-clerk-mccarty-leslie",
+          "name": "Leslie A. McCarty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-sheriff-youngman-bradley",
+          "name": "Bradley R. Youngman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-jailer-maglinger-art",
+          "name": "Art Maglinger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "County Commissioner, Central District",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-commissioner-central-conder-larry",
+          "name": "Larry Conder",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "County Commissioner, Eastern District",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-commissioner-eastern-hagan-joe",
+          "name": "Joe Hagan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-commissioner-eastern-storm-sagan",
+          "name": "Sagan Storm",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "County Commissioner, Western District",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-commissioner-western-castlen-christopher",
+          "name": "Christopher T. Castlen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-coroner-jones-jeffrey",
+          "name": "Jeffrey S. Jones",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "Circuit Judge, 6th Judicial Circuit, 1st Division (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-circuit-judge-div1-caldwell-bryce",
+          "name": "Bryce Caldwell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 6th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-district-judge-div1-payne-nick",
+          "name": "J. Nick Payne",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-district-judge-div1-rogers-lelah",
+          "name": "Lelah Rogers",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 6th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-district-judge-div2-page-phillip",
+          "name": "Phillip J. Page",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-district-judge-div2-quattrocchi-brian",
+          "name": "Brian L. Quattrocchi",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 6th Judicial District, 3rd Division",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-district-judge-div3-meyer-shannon",
+          "name": "Shannon Meyer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Supervisors (Vote for Three)",
+      "candidates": [
+        {
+          "key": "ky-daviess-2026-soilwater-irby-mark",
+          "name": "Mark Irby",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-soilwater-warren-dustin",
+          "name": "Dustin Warren",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-soilwater-rice-jeffrey",
+          "name": "Jeffrey Maitland Rice",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-daviess-2026-soilwater-rice-david",
+          "name": "David Kyle Rice",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Owensboro": {
+      "contests": [
+        {
+          "office": "Owensboro City Commissioners (Vote for up to Four)",
+          "candidates": [
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-martin-john",
+              "name": "John Ross Martin",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-goad-tyler",
+              "name": "Tyler Goad",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-sanford-jeff",
+              "name": "Jeff Sanford",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-glenn-bob",
+              "name": "Bob Glenn",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-maglinger-curtis",
+              "name": "Curtis Maglinger",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-smith-wright-pamela",
+              "name": "Pamela L. Smith-Wright",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-johnson-steve",
+              "name": "Steve Johnson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-daviess-2026-owensboro-commissioner-nesmith-sharon",
+              "name": "Sharon Gail NeSmith",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://web.sos.ky.gov/ballots/DAVIESS%202026G.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
