@@ -1,0 +1,77 @@
+{
+  "state": "CO",
+  "county": "Pueblo County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+    "https://www.coloradosos.gov/pubs/elections/vote/files/2026/2026GeneralCandidateListOfficial.xlsx",
+    "https://www.pueblo.us/3149/2026-Ballot-Measure-2A-Fire-and-Technology"
+  ],
+  "note": "Partial list. Pueblo County's election website blocked automated access, so we could not read the county's sample ballot. This list shows only the 10th Judicial District (Pueblo County) judges up for retention, from the Colorado Secretary of State's official general election candidate list, and the City of Pueblo's Ballot Measure 2A, from the City's own page. No Pueblo County Court judge is listed for retention. Not shown: Pueblo County offices (commissioners, clerk and recorder, treasurer, assessor, sheriff, surveyor, coroner), any countywide ballot issues, any other City of Pueblo ballot questions, and school, special district and legislative races. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot from the Pueblo County Clerk and Recorder for the full ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 10th Judicial District — retain Judge William David Alexander? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-pueblo-2026-retain-dist10-alexander-william",
+          "name": "William David Alexander",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.coloradosos.gov/pubs/elections/vote/files/2026/2026GeneralCandidateListOfficial.xlsx"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District — retain Judge Michelle Chostner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-pueblo-2026-retain-dist10-chostner-michelle",
+          "name": "Michelle Chostner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.coloradosos.gov/pubs/elections/vote/files/2026/2026GeneralCandidateListOfficial.xlsx"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District — retain Judge Allison P. Ernst? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-pueblo-2026-retain-dist10-ernst-allison",
+          "name": "Allison P. Ernst",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.coloradosos.gov/pubs/elections/vote/files/2026/2026GeneralCandidateListOfficial.xlsx"
+    },
+    {
+      "office": "District Court Judge, 10th Judicial District — retain Judge Tayler M. Thomas? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-pueblo-2026-retain-dist10-thomas-tayler",
+          "name": "Tayler M. Thomas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.coloradosos.gov/pubs/elections/vote/files/2026/2026GeneralCandidateListOfficial.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Pueblo": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Ballot Measure 2A",
+          "title": "Fire and Technology Sales and Use Tax",
+          "summary": "Would add a one-quarter percent (0.25%) City of Pueblo sales and use tax, raising the city rate from 3.7% to 3.95%. The money would go into a special fund, separate from the General Fund, used only for the Pueblo Fire Department and technology related to public safety, such as fleet, equipment, communications and medical equipment. It is separate from the existing Public Safety Sales Tax for the Police Department.",
+          "yesMeans": "The city sales and use tax rises by 0.25% to 3.95%, with the money dedicated to the Fire Department and public-safety technology.",
+          "noMeans": "The city sales tax stays at 3.7% and no dedicated fire and technology fund is created.",
+          "source": "https://www.pueblo.us/3149/2026-Ballot-Measure-2A-Fire-and-Technology"
+        }
+      ]
+    }
+  }
+}

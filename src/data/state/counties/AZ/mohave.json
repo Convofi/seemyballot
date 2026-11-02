@@ -1,0 +1,113 @@
+{
+  "state": "AZ",
+  "county": "Mohave County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/",
+    "https://app.enhancedvoting.com/results/public/mohave-county-az/elections/Primary-07212026",
+    "https://www.mohavecourts.com/judicial-officers",
+    "https://www.mohavecourts.com/court-departments/clerk-superior-court",
+    "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1533-2026AZPublicityPamphlet-English.pdf"
+  ],
+  "note": "From Mohave County Elections' 2026 General Election county candidate list. Mohave County elects its Superior Court judges, and each division has one candidate on this ballot; Division 8 is a new division created July 1, 2025. Christina Spurlock's party is from the county's official primary election results. Incumbent flags come from the Mohave County Superior Court's judicial officers page and Clerk of Superior Court page; Kenneth L. Gregory is listed there as a court commissioner, not the Division 7 judge. Not shown: Justice of the Peace and Constable precincts, Mohave Community College Governing Board Districts 2 and 5, school boards, and legislative and congressional districts, which depend on where you live. We could not find a published Mohave County sample ballot, so county, city, school or special-district ballot questions are not shown. The Board of Supervisors, County Attorney, Sheriff, Assessor, Recorder, Treasurer and School Superintendent are not on the 2026 ballot. Court of Appeals, Division One retention questions are from the state publicity pamphlet (Mohave County is in Division One). Statewide races, Arizona Supreme Court retention and statewide propositions are on the Arizona statewide list. Check your official sample ballot. Court of Appeals retention questions, if any apply to Mohave County voters, are not shown because the county posts no sample ballot.",
+  "contests": [
+    {
+      "office": "Clerk of the Superior Court",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-clerk-spurlock-christina",
+          "name": "Christina Spurlock",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 1",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-supct-div1-mccoy-megan",
+          "name": "Megan A. McCoy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 2",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-supct-div2-carlisle-derek",
+          "name": "Derek Carlisle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 3",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-supct-div3-moss-steven",
+          "name": "Steven Moss",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 4",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-supct-div4-demke-aaron",
+          "name": "Aaron Demke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 6",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-supct-div6-gordon-eric",
+          "name": "Eric E. Gordon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 7",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-supct-div7-gregory-kenneth",
+          "name": "Kenneth L. Gregory",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 8",
+      "candidates": [
+        {
+          "key": "az-mohave-2026-supct-div8-camacho-douglas",
+          "name": "Douglas Camacho",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.mohave.gov/departments/elections/2026-general-election-county-candidates/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
