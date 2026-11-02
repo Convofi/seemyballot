@@ -1,0 +1,123 @@
+{
+  "state": "SC",
+  "county": "Greenville County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.greenvillecounty.org/VoterRegistration/pdf/2026StatewideGeneralCandidateList.pdf",
+    "https://www.greenvillecounty.org/VoterRegistration/pdf/OfficestobeElected.pdf",
+    "https://www.greenvillecounty.org/VoterRegistration/pdf/GreenvilleCounty1.pdf",
+    "https://www.greenvillecounty.org/VoterRegistration/pdf/GreenvilleCounty2.pdf",
+    "https://www.greenvillecounty.org/VoterRegistration/pdf/CityofGreenville.pdf",
+    "https://www.greenvillecounty.org/VoterRegistration/",
+    "https://www.greenvillecounty.org/Probate/",
+    "https://www.greenvillecounty.org/Auditor/",
+    "https://www.greenvillecounty.org/Treasurer/",
+    "https://www.greenvillecounty.org/Solicitor/"
+  ],
+  "note": "From the Greenville County Board of Voter Registration and Elections' 2026 Statewide General candidate list, offices-to-be-elected list and posted ballot questions. Not shown here because they depend on your district: County Council Districts 17, 19, 23, 26 and 28, Greenville County Schools Board Districts 18, 20, 22, 24, 26 and 28, Anderson School District 2 trustee seats, Rabon Creek and South Tyger River watershed districts, Dunklin Fire District and Piedmont Public Service District, questions in Mauldin, Simpsonville and Travelers Rest, and state legislative and U.S. House districts. Check your official sample ballot for those. City of Greenville offices are not on the 2026 ballot. The City of Greenville question is labeled here by its subject; check your sample ballot for its printed number.",
+  "contests": [
+    {
+      "office": "Solicitor, Circuit 13",
+      "candidates": [
+        {
+          "key": "sc-greenville-2026-solicitor-13-crick-cindy",
+          "name": "Cindy Crick",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/2026StatewideGeneralCandidateList.pdf"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-greenville-2026-probate-judge-groover-chadwicke",
+          "name": "Chadwicke L. Groover",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/2026StatewideGeneralCandidateList.pdf"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "sc-greenville-2026-auditor-case-scott",
+          "name": "Scott Case",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/2026StatewideGeneralCandidateList.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "sc-greenville-2026-treasurer-hodges-allen",
+          "name": "Allen Hodges",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/2026StatewideGeneralCandidateList.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Commission",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "sc-greenville-2026-soil-water-hall-christopher",
+          "name": "Christopher Hall",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "sc-greenville-2026-soil-water-stewart-mike",
+          "name": "Mike Stewart",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/2026StatewideGeneralCandidateList.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question 1",
+      "title": "Greenville County Special Sales and Use Tax",
+      "summary": "Asks whether Greenville County should impose a one percent special sales and use tax for up to eight years, or until $1,100,000,000 has been collected, whichever comes first. Per the ballot question, the money would fund roads, streets, bridges and related drainage ($990,000,000), mass transit operated by or jointly with the county ($33,000,000), and greenbelts such as parks, trails, conservation land and water-quality protection ($77,000,000).",
+      "yesMeans": "A one percent special sales and use tax is imposed in Greenville County for the listed projects.",
+      "noMeans": "The one percent special sales and use tax is not imposed.",
+      "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/GreenvilleCounty1.pdf",
+      "moreInfo": "https://www.greenvillecounty.org/VoterRegistration/"
+    },
+    {
+      "id": "Question 2",
+      "title": "Greenville County General Obligation Bonds",
+      "summary": "Asks whether Greenville County may issue up to $150,000,000 in general obligation bonds, repaid from the special sales and use tax described in Question 1 and maturing within eight years. The bonds would fund completion of projects in the categories listed in Question 1.",
+      "yesMeans": "Greenville County may issue up to $150,000,000 in bonds, repaid from the Question 1 sales tax, for those projects.",
+      "noMeans": "Greenville County may not issue these bonds.",
+      "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/GreenvilleCounty2.pdf",
+      "moreInfo": "https://www.greenvillecounty.org/VoterRegistration/"
+    }
+  ],
+  "municipalities": {
+    "Greenville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Greenville Question",
+          "title": "City of Greenville One Percent Sales and Use Tax",
+          "summary": "Asks whether a one percent sales and use tax should be levied in the City of Greenville for no more than eight years, to allow a credit against certain city property (ad valorem) tax liability and to raise a total of $410,145,000. Per the ballot question, the money would go to road, congestion, bridge, intersection and sidewalk projects ($294,279,000), stormwater and drainage ($32,374,000), sewer infrastructure ($41,912,000), public assembly, administration and public safety facilities ($17,580,000), and fire stations ($24,000,000).",
+          "yesMeans": "A one percent sales and use tax is levied in the City of Greenville for up to eight years for the property tax credit and listed projects.",
+          "noMeans": "The city one percent sales and use tax is not levied.",
+          "source": "https://www.greenvillecounty.org/VoterRegistration/pdf/CityofGreenville.pdf",
+          "moreInfo": "https://www.greenvillecounty.org/VoterRegistration/"
+        }
+      ]
+    }
+  }
+}

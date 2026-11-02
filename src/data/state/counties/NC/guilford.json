@@ -1,0 +1,230 @@
+{
+  "state": "NC",
+  "county": "Guilford County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.guilfordcountync.gov/government/board-elections",
+    "https://www.guilfordcountync.gov/government/board-commissioners",
+    "https://www.guilfordcountysheriff.com/"
+  ],
+  "note": "Not shown: Guilford County Board of Commissioners Districts 1, 2, 3 and 7, Guilford County Board of Education Districts 2, 4, 6 and 8, NC Superior Court Judge Districts 24A and 24D (each is only part of Guilford County), city races outside Greensboro (such as Archdale), and state legislative and U.S. House districts. Check your official sample ballot for those. Greensboro city offices are not on the 2026 ballot; the five Greensboro bond referenda appear only for voters living in the City of Greensboro. Incumbent flags are set only where the county's own website confirms the officeholder (Sheriff); others are marked false.",
+  "contests": [
+    {
+      "office": "Guilford County Board of Commissioners At-Large",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-commissioner-at-large-drumwright-greg",
+          "name": "Greg Drumwright",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-guilford-2026-commissioner-at-large-perdue-mike",
+          "name": "Mike Perdue",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Guilford County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-sheriff-byrd-phil",
+          "name": "Phil Byrd",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-guilford-2026-sheriff-rogers-danny",
+          "name": "Danny Rogers",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Guilford County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-clerk-superior-court-churchill-david",
+          "name": "David Churchill",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 24",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-district-attorney-crump-avery",
+          "name": "Avery Michelle Crump",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 24, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-district-court-seat-01-tyrey-marc",
+          "name": "Marc Ross Tyrey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 24, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-district-court-seat-02-archie-larry",
+          "name": "Larry L. Archie",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 24, Seat 6 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-district-court-seat-06-mills-moshera",
+          "name": "Moshera Mills",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-guilford-2026-district-court-seat-06-hamner-erik",
+          "name": "Erik R. Hamner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Guilford County Board of Education At-Large",
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-board-of-education-at-large-sherouse-alan",
+          "name": "Alan Sherouse",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Guilford Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-guilford-2026-soil-water-egerton-jeffrey",
+          "name": "Jeffrey R. Egerton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-guilford-2026-soil-water-courts-andrew",
+          "name": "Andrew J. (Andy) Courts, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-guilford-2026-soil-water-blankenship-ryan",
+          "name": "Ryan Blankenship",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-guilford-2026-soil-water-bashir-tahir",
+          "name": "Tahir Bashir",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-guilford-2026-soil-water-summers-grace",
+          "name": "Grace Summers",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Guilford County Local Sales and Use Tax Referendum",
+      "title": "Guilford County Local Sales and Use Tax",
+      "summary": "Asks whether Guilford County should add a local sales and use tax of one-fourth of one percent (0.25%) on top of all other state and local sales and use taxes. Per the ballot question, the revenue would be used only for classroom teacher salary supplements (70%), fire protection equipment and services (18%), Guilford Technical Community College (8%), and qualifying municipalities for allowable expenses (4%).",
+      "yesMeans": "An additional 0.25% local sales and use tax is levied in Guilford County for the listed purposes.",
+      "noMeans": "The additional 0.25% local sales and use tax is not levied.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+      "moreInfo": "https://www.guilfordcountync.gov/government/board-elections"
+    }
+  ],
+  "municipalities": {
+    "Greensboro": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Greensboro Parks and Recreation Bonds Referendum",
+          "title": "City of Greensboro Parks and Recreation Bonds",
+          "summary": "Asks whether the City of Greensboro may issue up to $11,500,000 in parks and recreation bonds, under an order adopted August 3, 2026, to acquire, build, renovate, remediate, improve and equip parks and recreational facilities, including related land and equipment and financial assistance to other parties for those purposes. The official ballot statement estimates the total cost over the life of the bonds at $18,257,755 ($11,500,000 principal plus $6,757,755 interest) and the property tax increase needed to repay them at $2.80 per year per $100,000 of property value. If approved, the city may levy additional property taxes sufficient to pay the principal and interest.",
+          "yesMeans": "Greensboro may issue up to $11,500,000 in parks and recreation bonds and levy property taxes sufficient to repay them.",
+          "noMeans": "Greensboro may not issue these $11,500,000 in parks and recreation bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://www.guilfordcountync.gov/government/board-elections"
+        },
+        {
+          "id": "City of Greensboro Firefighting Facilities Bonds Referendum",
+          "title": "City of Greensboro Firefighting Facilities Bonds",
+          "summary": "Asks whether the City of Greensboro may issue up to $15,900,000 in firefighting facilities bonds, under an order adopted August 3, 2026, to acquire, build, renovate, improve and equip firefighting facilities, including related land and equipment. The official ballot statement estimates the total cost over the life of the bonds at $25,235,434 ($15,900,000 principal plus $9,335,434 interest) and the property tax increase needed to repay them at $3.80 per year per $100,000 of property value. If approved, the city may levy additional property taxes sufficient to pay the principal and interest.",
+          "yesMeans": "Greensboro may issue up to $15,900,000 in firefighting facilities bonds and levy property taxes sufficient to repay them.",
+          "noMeans": "Greensboro may not issue these $15,900,000 in firefighting facilities bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://www.guilfordcountync.gov/government/board-elections"
+        },
+        {
+          "id": "City of Greensboro Transportation Bonds Referendum",
+          "title": "City of Greensboro Transportation Bonds",
+          "summary": "Asks whether the City of Greensboro may issue up to $7,000,000 in transportation bonds, under an order adopted August 3, 2026, for transportation improvements such as streets, sidewalks, streetscapes, bridges, bicycle lanes, greenways, buses and bus station and shelter improvements, including related land and equipment. The official ballot statement estimates the total cost over the life of the bonds at $11,104,459 ($7,000,000 principal plus $4,104,459 interest) and the property tax increase needed to repay them at $1.70 per year per $100,000 of property value. If approved, the city may levy additional property taxes sufficient to pay the principal and interest.",
+          "yesMeans": "Greensboro may issue up to $7,000,000 in transportation bonds and levy property taxes sufficient to repay them.",
+          "noMeans": "Greensboro may not issue these $7,000,000 in transportation bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://www.guilfordcountync.gov/government/board-elections"
+        },
+        {
+          "id": "City of Greensboro Municipal Building Bonds Referendum",
+          "title": "City of Greensboro Municipal Building Bonds",
+          "summary": "Asks whether the City of Greensboro may issue up to $2,100,000 in municipal building bonds, under an order adopted August 3, 2026, to acquire, build, renovate, improve and equip buildings and facilities for governmental purposes, including administrative, cultural and recreational activities. The official ballot statement estimates the total cost over the life of the bonds at $3,329,922 ($2,100,000 principal plus $1,229,922 interest) and the property tax increase needed to repay them at $0.50 per year per $100,000 of property value. If approved, the city may levy additional property taxes sufficient to pay the principal and interest.",
+          "yesMeans": "Greensboro may issue up to $2,100,000 in municipal building bonds and levy property taxes sufficient to repay them.",
+          "noMeans": "Greensboro may not issue these $2,100,000 in municipal building bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://www.guilfordcountync.gov/government/board-elections"
+        },
+        {
+          "id": "City of Greensboro Housing Bonds Referendum",
+          "title": "City of Greensboro Housing Bonds",
+          "summary": "Asks whether the City of Greensboro may issue up to $5,000,000 in housing bonds, under an order adopted August 3, 2026, to acquire, build, improve, rehabilitate and equip multifamily and single-family housing, principally for people of low and moderate income, including neighborhood revitalization, permanent supportive housing, and loans or grants to such persons and to housing providers. The official ballot statement estimates the total cost over the life of the bonds at $8,063,912 ($5,000,000 principal plus $3,063,912 interest) and the property tax increase needed to repay them at $1.20 per year per $100,000 of property value. If approved, the city may levy additional property taxes sufficient to pay the principal and interest.",
+          "yesMeans": "Greensboro may issue up to $5,000,000 in housing bonds and levy property taxes sufficient to repay them.",
+          "noMeans": "Greensboro may not issue these $5,000,000 in housing bonds.",
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+          "moreInfo": "https://www.guilfordcountync.gov/government/board-elections"
+        }
+      ]
+    }
+  }
+}
