@@ -1,0 +1,167 @@
+{
+  "state": "TX",
+  "county": "Comal County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.comalcounty.gov/193/Elections-Voter-Registration",
+    "https://www.comalcounty.gov/DocumentCenter/View/8579",
+    "https://www.comalcounty.gov/DocumentCenter/View/8580",
+    "https://www.comalcounty.gov/DocumentCenter/View/8581",
+    "https://www.comalcounty.gov/DocumentCenter/View/8582",
+    "https://www.comalcounty.gov/DocumentCenter/View/8583",
+    "https://www.comalcounty.gov/DocumentCenter/View/8584",
+    "https://www.comalcounty.gov/DocumentCenter/View/8585",
+    "https://www.comalcounty.gov/DocumentCenter/View/8586",
+    "https://www.comalcounty.gov/DocumentCenter/View/8587",
+    "https://www.comalcounty.gov/DocumentCenter/View/8588",
+    "https://www.comalcounty.gov/DocumentCenter/View/8589",
+    "https://www.comalcounty.gov/DocumentCenter/View/8591",
+    "https://www.comalcounty.gov/DocumentCenter/View/7940",
+    "https://www.comalcounty.gov/DocumentCenter/View/8760",
+    "https://www.comalcounty.gov/DocumentCenter/View/8447",
+    "https://www.comalcounty.gov/161/Elected-Officials"
+  ],
+  "note": "From the Comal County Elections Office's November 3, 2026 precinct sample ballots (all 12 ballot styles posted; the county-level offices shown appear on every style). Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace races, U.S. House, State Senate, State House and State Board of Education districts, the Comal ISD bond propositions, the City of Schertz election (Comal County portion), Crystal Clear Special Utility District and Comal County WID No. 3B items. The Comal Appraisal District board and Edwards Aquifer Authority elections were cancelled (unopposed candidates). The City of New Braunfels has no contest or measure on this ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's Elected Officials page lists the candidate (Geoff Barr is not among the county court at law judges listed there). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 3rd Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-coa3-chief-liu-cory",
+          "name": "Cory Liu",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-comal-2026-coa3-chief-byrne-darlene",
+          "name": "Darlene Byrne",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "District Judge, 207th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-dj207-reneau-tracie",
+          "name": "Tracie Wright Reneau",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "District Judge, 274th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-dj274-steel-gary",
+          "name": "Gary L Steel",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "District Judge, 466th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-dj466-bascon-stephanie",
+          "name": "Stephanie Bascon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-criminal-da-tharp-jennifer",
+          "name": "Jennifer Tharp",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-county-judge-hoyt-kristen",
+          "name": "Kristen H. Hoyt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-ccl1-barr-geoff",
+          "name": "Geoff Barr",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-district-clerk-kellar-heather",
+          "name": "Heather N. Kellar",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-county-clerk-miller-leann",
+          "name": "LeAnn Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "County Tax Assessor-Collector (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-tax-assessor-hansmann-stuart",
+          "name": "Stuart Hansmann",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-comal-2026-treasurer-couch-renee",
+          "name": "Renee L. Couch",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.comalcounty.gov/DocumentCenter/View/8582"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

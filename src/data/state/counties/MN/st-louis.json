@@ -1,0 +1,115 @@
+{
+  "state": "MN",
+  "county": "St. Louis County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt",
+    "https://www.stlouiscountymn.gov/departments-a-z/sheriff",
+    "https://www.stlouiscountymn.gov/departments-a-z/attorney",
+    "https://www.stlouiscountymn.gov/departments-a-z/auditor"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for Duluth P-19 and the Secretary of State's county and judicial district candidate files. Incumbency for Auditor-Treasurer, Sheriff and County Attorney is confirmed on St. Louis County's own office pages, and the judges are marked Incumbent on the ballot. Not shown here because they depend on your district: County Commissioner (Districts 1, 4 and 6), North and South Soil and Water Conservation District Supervisor seats, school board members and school district questions (including Duluth Public Schools ISD 709 Questions 1 and 2), and township offices and questions. Check your official sample ballot for those. There are no countywide ballot questions, and the City of Duluth has no offices or questions on this ballot. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Auditor - Treasurer",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-auditor-treasurer-nilsen-nancy",
+          "name": "Nancy Nilsen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-sheriff-ramsay-gordon",
+          "name": "Gordon Scott Ramsay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-county-attorney-maki-kimberly",
+          "name": "Kimberly J. Maki",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    },
+    {
+      "office": "Judge 1 - District Court, 6th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-district-court-1-sullivan-rachel",
+          "name": "Rachel C. Sullivan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    },
+    {
+      "office": "Judge 2 - District Court, 6th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-district-court-2-friday-robert",
+          "name": "Robert C. Friday",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    },
+    {
+      "office": "Judge 4 - District Court, 6th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-district-court-4-fralich-jessica",
+          "name": "Jessica J. Fralich",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    },
+    {
+      "office": "Judge 11 - District Court, 6th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-district-court-11-hanke-steven",
+          "name": "Steven Bradley Hanke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    },
+    {
+      "office": "Judge 14 - District Court, 6th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-stlouis-2026-district-court-14-stumme-rebekka",
+          "name": "Rebekka Lynn Stumme",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/26175FF2-EF52-4294-9232-6E5274B12024.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
