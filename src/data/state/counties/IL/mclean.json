@@ -1,0 +1,73 @@
+{
+  "state": "IL",
+  "county": "McLean County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot",
+    "https://www.mcleancountyil.gov/1600/Ballots",
+    "https://www.mcleancountyil.gov/2085/Referenda",
+    "https://www.mcleancountyil.gov/1601/Write-In-Candidates"
+  ],
+  "note": "From the McLean County Clerk's specimen ballot and referenda page. Not shown: County Board districts 1-6 and 8-10, Regional Superintendent of Schools (McLean voters are split among the DeWitt-Livingston-Logan-McLean, Champaign-Ford and Mason-Tazewell-Woodford regional offices by school district), Congress and state legislature, and local questions (Heyworth CUSD 4 board election method, Dale Township Fire Protection District tax questions, and a Normal Township advisory question on the state anti-BDS statute). There is no countywide referendum and no City of Bloomington question. The clerk's write-in page lists no certified write-in candidates. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "McLean County Clerk",
+      "candidates": [
+        { "key": "il-mclean-2026-clerk-michael-kathy", "name": "Kathy Michael", "party": "Republican", "incumbent": true },
+        { "key": "il-mclean-2026-clerk-crockett-joshua", "name": "Joshua Crockett", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    },
+    {
+      "office": "McLean County Treasurer",
+      "candidates": [
+        { "key": "il-mclean-2026-treasurer-mcneil-rebecca", "name": "Rebecca C. McNeil", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    },
+    {
+      "office": "McLean County Sheriff",
+      "candidates": [
+        { "key": "il-mclean-2026-sheriff-albee-jon", "name": "Jon Albee", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 11th Judicial Circuit (vacancy of the Hon. John Casey Costigan)",
+      "candidates": [
+        { "key": "il-mclean-2026-circuit-costigan-vacancy-duffy-sarah", "name": "Sarah R. Duffy", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    },
+    {
+      "office": "Judge of the Appellate Court, 4th Judicial District — retain Judge James A. Knecht? (yes/no retention)",
+      "candidates": [
+        { "key": "il-mclean-2026-retain-appellate-knecht-james", "name": "James A. Knecht", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 11th Judicial Circuit — retain Judge Matthew J. Fitton? (yes/no retention)",
+      "candidates": [
+        { "key": "il-mclean-2026-retain-circuit-fitton-matthew", "name": "Matthew J. Fitton", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 11th Judicial Circuit — retain Judge Jason Chambers? (yes/no retention)",
+      "candidates": [
+        { "key": "il-mclean-2026-retain-circuit-chambers-jason", "name": "Jason Chambers", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 11th Judicial Circuit — retain Judge Jonathan C. Wright? (yes/no retention)",
+      "candidates": [
+        { "key": "il-mclean-2026-retain-circuit-wright-jonathan", "name": "Jonathan C. Wright", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.mcleancountyil.gov/DocumentCenter/View/32912/2026-General-McLean-County-Specimen-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

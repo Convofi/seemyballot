@@ -1,0 +1,110 @@
+{
+  "state": "IL",
+  "county": "Sangamon County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/11-3-26%20Co%20Wide%20and%20Co%20Board%20Candidate%20Listing.pdf",
+    "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/11-3-26%20Proposition%20-Summary%20and%20List%20for%20SBE.pdf",
+    "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/Office%20Write-In%20List%2011-26.pdf",
+    "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/Office%20up%20in%202026.pdf",
+    "https://sangamonil.gov/departments/a-c/county-clerk/elections/candidates/candidates-propositions",
+    "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+  ],
+  "note": "County offices, write-ins and the Springfield question come from the Sangamon County Clerk's candidate listing (as of 8/26/26), write-in list and proposition list. Judicial retention questions come from the Illinois State Board of Elections candidate filing list, because the County Clerk's list does not include judges. Not shown: County Board districts 1-7, 10, 11, 12, 14, 18, 20, 21, 23, 26 and 29 (the one certified write-in, Patricia Lynn Hayes, is for District 23), Regional Superintendent of Schools (the Menard/Sangamon regional office covers two counties), Congress and state legislature, and precinct committeepersons. There are no 7th Circuit vacancy contests. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Sangamon County Clerk",
+      "candidates": [
+        { "key": "il-sangamon-2026-clerk-gray-don", "name": "Don Gray", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/11-3-26%20Co%20Wide%20and%20Co%20Board%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "Sangamon County Treasurer",
+      "candidates": [
+        { "key": "il-sangamon-2026-treasurer-aiello-joe", "name": "Joe Aiello", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/11-3-26%20Co%20Wide%20and%20Co%20Board%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "Sangamon County Sheriff",
+      "candidates": [
+        { "key": "il-sangamon-2026-sheriff-crouch-paula", "name": "Paula Crouch", "party": "Republican", "incumbent": true },
+        { "key": "il-sangamon-2026-sheriff-bell-marc", "name": "Marc Bell", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/11-3-26%20Co%20Wide%20and%20Co%20Board%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 4th Judicial District — retain Judge James A. Knecht? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-appellate-knecht-james", "name": "James A. Knecht", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 7th Judicial Circuit — retain Judge Christopher E. \"Chris\" Reif? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-circuit-reif-christopher", "name": "Christopher E. \"Chris\" Reif", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 7th Judicial Circuit — retain Judge John M. \"Mo\" Madonia? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-circuit-madonia-john", "name": "John M. \"Mo\" Madonia", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 7th Judicial Circuit — retain Judge Adam Giganti? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-circuit-giganti-adam", "name": "Adam Giganti", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 7th Judicial Circuit — retain Judge Raylene Grischow? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-circuit-grischow-raylene", "name": "Raylene Grischow", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 7th Judicial Circuit — retain Judge Gail L. Noll? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-circuit-noll-gail", "name": "Gail L. Noll", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 7th Judicial Circuit — retain Judge Allison Lorton? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-circuit-lorton-allison", "name": "Allison Lorton", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    },
+    {
+      "office": "Judge of the Circuit Court, 7th Judicial Circuit — retain Judge Zachary A. Schmidt? (yes/no retention)",
+      "candidates": [
+        { "key": "il-sangamon-2026-retain-circuit-schmidt-zachary", "name": "Zachary A. Schmidt", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Springfield": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Advisory Question of Public Policy for City of Springfield",
+          "title": "Landlord registry, inspection, and licensing program",
+          "summary": "Asks whether the City of Springfield should adopt a landlord registry, inspection, and licensing program similar to those in other Illinois cities. The question is advisory only and does not itself create the program.",
+          "yesMeans": "You support the City adopting a landlord registry, inspection, and licensing program.",
+          "noMeans": "You do not support the City adopting a landlord registry, inspection, and licensing program.",
+          "source": "https://sangamondepartments.blob.core.windows.net/dnnfiles/Clerk/Elections/Candidates/2026%20Election/11-3-26%20Proposition%20-Summary%20and%20List%20for%20SBE.pdf"
+        }
+      ]
+    }
+  }
+}

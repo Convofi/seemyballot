@@ -1,0 +1,59 @@
+{
+  "state": "IL",
+  "county": "Peoria County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.peoriaelections.gov/DocumentCenter/View/1454/2026-General-Election---Sample-Ballot",
+    "https://www.peoriaelections.gov/201/Sample-Ballots"
+  ],
+  "note": "From the Peoria County Board of Election Commissioners' certified specimen ballot. Not shown: County Board districts 1, 3, 5, 7, 9, 11, 13, 15 and 17, Regional Superintendent of Schools (Peoria voters are split among the Peoria County, Bureau-Henry-Stark and a western multi-county regional office by school district), Congress and state legislature, and local questions (Elmwood CUSD 322 transportation tax, Limestone Township Fire Protection District tax questions, Village of Peoria Heights advisory question on City of Peoria fire aid, and Medina, Kickapoo and Peoria township advisory questions). There is no countywide referendum and no City of Peoria question on the ballot. Judge Stephen A. Kouri withdrew from retention and is not on the ballot. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Peoria County Clerk & Recorder",
+      "candidates": [
+        { "key": "il-peoria-2026-clerk-parker-rachael", "name": "Rachael Parker", "party": "Democratic", "incumbent": false },
+        { "key": "il-peoria-2026-clerk-gabbert-kari", "name": "Kari Gabbert", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.peoriaelections.gov/DocumentCenter/View/1454/2026-General-Election---Sample-Ballot"
+    },
+    {
+      "office": "Peoria County Sheriff",
+      "candidates": [
+        { "key": "il-peoria-2026-sheriff-watkins-chris", "name": "Chris Watkins", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.peoriaelections.gov/DocumentCenter/View/1454/2026-General-Election---Sample-Ballot"
+    },
+    {
+      "office": "Peoria County Treasurer",
+      "candidates": [
+        { "key": "il-peoria-2026-treasurer-stevens-randy", "name": "Randy Stevens", "party": "Democratic", "incumbent": false },
+        { "key": "il-peoria-2026-treasurer-martin-branden", "name": "Branden Martin", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.peoriaelections.gov/DocumentCenter/View/1454/2026-General-Election---Sample-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 10th Judicial Circuit (vacancy of the Hon. John P. Vespa)",
+      "candidates": [
+        { "key": "il-peoria-2026-circuit-vespa-vacancy-vespa-michael", "name": "Michael P. Vespa", "party": "Democratic", "incumbent": false },
+        { "key": "il-peoria-2026-circuit-vespa-vacancy-cusack-timothy", "name": "Timothy J. Cusack", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.peoriaelections.gov/DocumentCenter/View/1454/2026-General-Election---Sample-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 10th Judicial Circuit — retain Judge James A. Mack? (yes/no retention)",
+      "candidates": [
+        { "key": "il-peoria-2026-retain-circuit-mack-james", "name": "James A. Mack", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.peoriaelections.gov/DocumentCenter/View/1454/2026-General-Election---Sample-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 10th Judicial Circuit — retain Judge Christopher R. Doscotch? (yes/no retention)",
+      "candidates": [
+        { "key": "il-peoria-2026-retain-circuit-doscotch-christopher", "name": "Christopher R. Doscotch", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.peoriaelections.gov/DocumentCenter/View/1454/2026-General-Election---Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
