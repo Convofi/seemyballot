@@ -1,0 +1,135 @@
+{
+  "state": "IN",
+  "county": "Bartholomew County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 2, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Bartholomew County sample ballot whether the commissioner race is voted on countywide, because the county's election page does not post precinct sample ballots; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Bartholomew is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Bartholomew Superior Court No. 2",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-superior-2-rohde-jonathan",
+          "name": "Jonathan L. (Jon) Rohde",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 9th Judicial Circuit (Bartholomew County)",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-prosecutor-holden-lindsey",
+          "name": "Lindsey Holden",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Bartholomew County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-clerk-jackson-quisha",
+          "name": "Quisha Jackson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-bartholomew-2026-clerk-lentz-shari",
+          "name": "Shari J. Lentz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Bartholomew County Auditor",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-auditor-wadholm-kimberly",
+          "name": "Kimberly Wadholm",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-bartholomew-2026-auditor-michael-vickie",
+          "name": "Vickie E. Michael",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Bartholomew County Recorder",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-recorder-merbitz-nancy",
+          "name": "Nancy Merbitz",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-bartholomew-2026-recorder-settle-debra",
+          "name": "Debra K. Beck Settle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Bartholomew County Treasurer",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-treasurer-cleland-elizabeth",
+          "name": "Elizabeth Cleland",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-bartholomew-2026-treasurer-beatty-sandy",
+          "name": "Sandy Beatty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Bartholomew County Sheriff",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-sheriff-lane-chris",
+          "name": "Chris Lane",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Bartholomew County Assessor",
+      "candidates": [
+        {
+          "key": "in-bartholomew-2026-assessor-whipple-ginny",
+          "name": "Ginny Whipple",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

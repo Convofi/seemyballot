@@ -1,0 +1,129 @@
+{
+  "state": "IN",
+  "county": "Floyd County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 1, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Floyd County sample ballot whether the commissioner race is voted on countywide, because the county's election page does not post precinct sample ballots; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Floyd is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Floyd Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-superior-1-stiller-carrie",
+          "name": "Carrie K. Stiller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Floyd Superior Court No. 2",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-superior-2-hancock-james",
+          "name": "James B. Hancock",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Floyd Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-superior-3-knavely-christina",
+          "name": "Christina Knavely",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-floyd-2026-superior-3-mccrite-maxwell",
+          "name": "Maxwell McCrite",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 52nd Judicial Circuit (Floyd County)",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-prosecutor-lane-chris",
+          "name": "Chris Lane",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Floyd County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-clerk-wisman-marcey",
+          "name": "Marcey Wisman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-floyd-2026-clerk-burks-steve",
+          "name": "Steve Burks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Floyd County Auditor",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-auditor-young-sharon",
+          "name": "Sharon S. Young",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-floyd-2026-auditor-topping-diana",
+          "name": "Diana Marie Topping",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Floyd County Sheriff",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-sheriff-bush-steve",
+          "name": "Steve Bush",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Floyd County Assessor",
+      "candidates": [
+        {
+          "key": "in-floyd-2026-assessor-watson-terry",
+          "name": "Terry Lee Watson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,159 @@
+{
+  "state": "IN",
+  "county": "Clark County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 3, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Clark County sample ballot whether the commissioner race is voted on countywide, because we could not find an election page on the county website; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Clark is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Clark Circuit Court No. 2 (4th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-clark-2026-circuit-2-jacobs-bradley",
+          "name": "Bradley Jacobs",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Clark Circuit Court No. 3 (4th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-clark-2026-circuit-3-stemle-andrea",
+          "name": "Andrea Wasson Stemle",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-clark-2026-circuit-3-glickfield-lisa",
+          "name": "Lisa Glickfield",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 4th Judicial Circuit (Clark County)",
+      "candidates": [
+        {
+          "key": "in-clark-2026-prosecutor-mull-jeremy",
+          "name": "Jeremy Mull",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Clark County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-clark-2026-clerk-lynch-ryan",
+          "name": "Ryan Lynch",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Clark County Auditor",
+      "candidates": [
+        {
+          "key": "in-clark-2026-auditor-veals-antonio",
+          "name": "Antonio Veals",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-clark-2026-auditor-snelling-monty",
+          "name": "R. Monty Snelling",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Clark County Recorder",
+      "candidates": [
+        {
+          "key": "in-clark-2026-recorder-gill-steve",
+          "name": "Steve Gill",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Clark County Treasurer",
+      "candidates": [
+        {
+          "key": "in-clark-2026-treasurer-yost-danny",
+          "name": "Danny Yost",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Clark County Sheriff",
+      "candidates": [
+        {
+          "key": "in-clark-2026-sheriff-deeringer-tim",
+          "name": "Tim Deeringer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-clark-2026-sheriff-ingle-dwight",
+          "name": "Dwight T Ingle",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "in-clark-2026-sheriff-kavanaugh-kenny",
+          "name": "Kenny Kavanaugh, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Clark County Assessor",
+      "candidates": [
+        {
+          "key": "in-clark-2026-assessor-love-butch",
+          "name": "Butch Love",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Clark County Surveyor",
+      "candidates": [
+        {
+          "key": "in-clark-2026-surveyor-dixon-brian",
+          "name": "Brian Dixon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

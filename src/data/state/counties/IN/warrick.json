@@ -1,0 +1,75 @@
+{
+  "state": "IN",
+  "county": "Warrick County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 2, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Warrick County sample ballot whether the commissioner race is voted on countywide, because the county's election page does not post precinct sample ballots; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Warrick is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Warrick Circuit Court, 2nd Judicial Circuit",
+      "candidates": [
+        {
+          "key": "in-warrick-2026-circuit-granger-greg",
+          "name": "Greg A. Granger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 2nd Judicial Circuit (Warrick County)",
+      "candidates": [
+        {
+          "key": "in-warrick-2026-prosecutor-perry-michael",
+          "name": "Michael James (Mike) Perry",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Warrick County Auditor",
+      "candidates": [
+        {
+          "key": "in-warrick-2026-auditor-dietsch-michael",
+          "name": "Michael J Dietsch",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Warrick County Sheriff",
+      "candidates": [
+        {
+          "key": "in-warrick-2026-sheriff-kruse-paul",
+          "name": "Paul M Kruse",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Warrick County Assessor",
+      "candidates": [
+        {
+          "key": "in-warrick-2026-assessor-redman-sarah",
+          "name": "Sarah E Redman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

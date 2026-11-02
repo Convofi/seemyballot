@@ -1,0 +1,123 @@
+{
+  "state": "IN",
+  "county": "Kosciusko County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Council districts, township trustee and township board races, any town council races, and school board races. The county's election page does not post precinct sample ballots, so any local court retention questions and any countywide public question could not be verified. No county commissioner race is on the state's certified list for Kosciusko. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Kosciusko is in the Court of Appeals Third District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Kosciusko Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-superior-1-mcgrath-karin",
+          "name": "Karin A. McGrath",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Kosciusko Superior Court No. 2",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-superior-2-bauer-torrey",
+          "name": "Torrey J. Bauer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Kosciusko Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-superior-3-miner-chad",
+          "name": "Chad M. Miner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Kosciusko Superior Court No. 4",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-superior-4-kehler-christopher",
+          "name": "Christopher Douglas Kehler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 54th Judicial Circuit (Kosciusko County)",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-prosecutor-voelz-brad",
+          "name": "J. Brad Voelz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Kosciusko County Auditor",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-auditor-schmucker-alyssa",
+          "name": "Alyssa Jo Schmucker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Kosciusko County Recorder",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-recorder-wright-deborah",
+          "name": "Deborah A. (Deb) Wright",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Kosciusko County Sheriff",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-sheriff-smith-james",
+          "name": "James M. (Jim) Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Kosciusko County Assessor",
+      "candidates": [
+        {
+          "key": "in-kosciusko-2026-assessor-burkhart-bobbi",
+          "name": "Bobbi J. Burkhart",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

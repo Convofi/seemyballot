@@ -1,0 +1,111 @@
+{
+  "state": "IN",
+  "county": "Monroe County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 1, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Monroe County sample ballot whether the commissioner race is voted on countywide, because the county's election page does not post precinct sample ballots; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Monroe is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Monroe Circuit Court No. 5 (10th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-monroe-2026-circuit-5-krothe-kara",
+          "name": "Kara Elaine Krothe",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Monroe Circuit Court No. 9 (10th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-monroe-2026-circuit-9-bradley-geoff",
+          "name": "Geoff Bradley",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 10th Judicial Circuit (Monroe County)",
+      "candidates": [
+        {
+          "key": "in-monroe-2026-prosecutor-oliphant-erika",
+          "name": "Erika Oliphant",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Monroe County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-monroe-2026-clerk-lucas-tree",
+          "name": "Tree Martin Lucas",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-monroe-2026-clerk-hays-julie",
+          "name": "Julie M. Hays",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Monroe County Recorder",
+      "candidates": [
+        {
+          "key": "in-monroe-2026-recorder-swain-amy",
+          "name": "Amy Swain",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Monroe County Sheriff",
+      "candidates": [
+        {
+          "key": "in-monroe-2026-sheriff-marte-ruben",
+          "name": "Ruben Marte'",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Monroe County Assessor",
+      "candidates": [
+        {
+          "key": "in-monroe-2026-assessor-sharp-judith",
+          "name": "Judith A. Sharp",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-monroe-2026-assessor-trimble-jenee",
+          "name": "Jenee' Trimble",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

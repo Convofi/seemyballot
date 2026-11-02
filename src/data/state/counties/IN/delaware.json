@@ -1,0 +1,159 @@
+{
+  "state": "IN",
+  "county": "Delaware County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 3, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Delaware County sample ballot whether the commissioner race is voted on countywide, because the county's election page does not post precinct sample ballots; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Delaware is in the Court of Appeals Second District, so Judge Dana J. Kenworthy's retention question is shown. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Delaware Circuit Court No. 4 (46th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-circuit-4-craig-zachary",
+          "name": "Zachary Q. Craig",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Delaware Circuit Court No. 5 (46th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-circuit-5-dunnuck-amanda",
+          "name": "Amanda Dunnuck",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-delaware-2026-circuit-5-freeman-ben",
+          "name": "Ben Freeman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 46th Judicial Circuit (Delaware County)",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-prosecutor-hoffman-eric",
+          "name": "Eric M. Hoffman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Delaware County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-clerk-grubbs-cameron",
+          "name": "Cameron Grubbs",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-delaware-2026-clerk-mcshurley-sharon",
+          "name": "Sharon McShurley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Delaware County Auditor",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-auditor-carroll-ed",
+          "name": "Ed Carroll",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Delaware County Recorder",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-recorder-carmichael-james",
+          "name": "James D Carmichael",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Delaware County Sheriff",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-sheriff-williams-david",
+          "name": "David Williams",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-delaware-2026-sheriff-stanley-jeff",
+          "name": "Jeff Stanley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Delaware County Coroner",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-coroner-hahn-scott",
+          "name": "Scott Hahn",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-delaware-2026-coroner-greene-gavin",
+          "name": "Gavin S Greene",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Delaware County Assessor",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-assessor-chafin-sheri",
+          "name": "Sheri Chafin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Court of Appeals Judicial Retention - Second District (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-delaware-2026-coa2-retain-kenworthy-dana",
+          "name": "Dana J. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0827"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

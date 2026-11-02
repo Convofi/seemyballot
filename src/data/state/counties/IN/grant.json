@@ -1,0 +1,135 @@
+{
+  "state": "IN",
+  "county": "Grant County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 3, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Grant County sample ballot whether the commissioner race is voted on countywide, because the county's election page does not post precinct sample ballots; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Grant is in the Court of Appeals Second District, so Judge Dana J. Kenworthy's retention question is shown. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Grant Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-grant-2026-superior-1-moore-jamie",
+          "name": "Jamie L. Moore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Grant Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-grant-2026-superior-3-mcvicker-jason",
+          "name": "Jason Dean McVicker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 48th Judicial Circuit (Grant County)",
+      "candidates": [
+        {
+          "key": "in-grant-2026-prosecutor-hunt-scott",
+          "name": "Scott J. Hunt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Grant County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-grant-2026-clerk-rademaker-linda",
+          "name": "Linda Rademaker",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-grant-2026-clerk-scott-mike",
+          "name": "Mike Scott",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Grant County Auditor",
+      "candidates": [
+        {
+          "key": "in-grant-2026-auditor-jarvis-angela",
+          "name": "Angela (Angie) Jarvis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Grant County Sheriff",
+      "candidates": [
+        {
+          "key": "in-grant-2026-sheriff-garcia-delmiro",
+          "name": "Delmiro (Del) Garcia",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Grant County Coroner",
+      "candidates": [
+        {
+          "key": "in-grant-2026-coroner-small-dean",
+          "name": "Dean Small",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "in-grant-2026-coroner-ressett-jennifer",
+          "name": "Jennifer Ressett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Grant County Assessor",
+      "candidates": [
+        {
+          "key": "in-grant-2026-assessor-wylie-rhonda",
+          "name": "Rhonda Wylie",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Court of Appeals Judicial Retention - Second District (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-grant-2026-coa2-retain-kenworthy-dana",
+          "name": "Dana J. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0827"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

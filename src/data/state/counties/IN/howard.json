@@ -1,0 +1,123 @@
+{
+  "state": "IN",
+  "county": "Howard County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 1, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Howard County sample ballot whether the commissioner race is voted on countywide, because the county website could not be reached; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Howard is in the Court of Appeals Second District, so Judge Dana J. Kenworthy's retention question is shown. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Howard Circuit Court, 62nd Judicial Circuit",
+      "candidates": [
+        {
+          "key": "in-howard-2026-circuit-vent-rebecca",
+          "name": "Rebecca R. Vent",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Howard Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-howard-2026-superior-3-tate-douglas",
+          "name": "Douglas A. Tate",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 62nd Judicial Circuit (Howard County)",
+      "candidates": [
+        {
+          "key": "in-howard-2026-prosecutor-mccann-mark",
+          "name": "Mark A. McCann",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Howard County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-howard-2026-clerk-akers-adrienne",
+          "name": "Adrienne Akers",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-howard-2026-clerk-cothern-nicole",
+          "name": "Nicole (Niki) Cothern",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Howard County Recorder",
+      "candidates": [
+        {
+          "key": "in-howard-2026-recorder-wheeler-wendy",
+          "name": "Wendy Renee Wheeler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-howard-2026-recorder-kelley-torie",
+          "name": "Torie Kelley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Howard County Sheriff",
+      "candidates": [
+        {
+          "key": "in-howard-2026-sheriff-buckley-jordan",
+          "name": "Jordan Joseph Buckley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Howard County Assessor",
+      "candidates": [
+        {
+          "key": "in-howard-2026-assessor-heady-melinda",
+          "name": "Melinda (Mindy) R Heady",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Court of Appeals Judicial Retention - Second District (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-howard-2026-coa2-retain-kenworthy-dana",
+          "name": "Dana J. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0827"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

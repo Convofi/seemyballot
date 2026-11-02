@@ -1,0 +1,119 @@
+{
+  "state": "IN",
+  "county": "Wayne County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf",
+    "https://www.co.wayne.in.us/clerk/election/voters_candidates.html",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Contests are from Wayne County's official 2026 general election sample ballots, which cover every precinct; County Commissioner District 1 and the judge, Prosecutor and county office races appear on every precinct ballot. Not shown because they depend on where you live: County Council districts, township trustee and township board races, and school board races. No countywide public question or local court retention question is on the ballot; the two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Wayne is in the Court of Appeals First District, which has no judge on the 2026 ballot. Richmond city offices are not on the 2026 ballot (next elected in 2027). Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Wayne Superior Court No. 2",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-superior-2-richert-jessica",
+          "name": "Jessica L. Richert",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "in-wayne-2026-superior-2-shadle-austin",
+          "name": "Austin A. Shadle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    },
+    {
+      "office": "Judge of the Wayne Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-superior-3-cox-mark",
+          "name": "Mark I. Cox",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney, 17th Judicial Circuit (Wayne County)",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-prosecutor-green-ashley",
+          "name": "Ashley J. Green",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    },
+    {
+      "office": "Wayne County Auditor",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-auditor-chenowith-amy",
+          "name": "Amy Chenowith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    },
+    {
+      "office": "Wayne County Recorder",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-recorder-tiemann-debbie",
+          "name": "Debbie Tiemann",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    },
+    {
+      "office": "Wayne County Sheriff",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-sheriff-moore-alan",
+          "name": "Alan C Moore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    },
+    {
+      "office": "Wayne County Assessor",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-assessor-smith-timothy",
+          "name": "Timothy G Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    },
+    {
+      "office": "Wayne County Commissioner, District 1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-wayne-2026-commissioner-1-dwenger-brad",
+          "name": "Brad Dwenger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wayne.in.us/clerk/election/SampleBallotsGeneral2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

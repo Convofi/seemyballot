@@ -1,0 +1,177 @@
+{
+  "state": "IN",
+  "county": "Madison County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 1, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Madison County sample ballot whether the commissioner race is voted on countywide, because the county's election page does not post precinct sample ballots; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Madison is in the Court of Appeals Second District, so Judge Dana J. Kenworthy's retention question is shown. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Madison Circuit Court No. 1 (50th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-madison-2026-circuit-1-sims-angela",
+          "name": "Angela Warner Sims",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Madison Circuit Court No. 2 (50th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-madison-2026-circuit-2-koester-stephen",
+          "name": "Stephen J. Koester",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Madison Circuit Court No. 4 (50th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-madison-2026-circuit-4-happe-david",
+          "name": "David A. Happe",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Madison Circuit Court No. 5 (50th Judicial Circuit)",
+      "candidates": [
+        {
+          "key": "in-madison-2026-circuit-5-hammond-emilee",
+          "name": "Emilee A. Hammond",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-madison-2026-circuit-5-norrick-scott",
+          "name": "Scott A. Norrick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 50th Judicial Circuit (Madison County)",
+      "candidates": [
+        {
+          "key": "in-madison-2026-prosecutor-hanna-andrew",
+          "name": "Andrew Hanna",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Madison County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-madison-2026-clerk-stennis-stephany",
+          "name": "Stephany Mae Stennis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-madison-2026-clerk-smith-linda",
+          "name": "Linda S Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Madison County Recorder",
+      "candidates": [
+        {
+          "key": "in-madison-2026-recorder-terry-amy",
+          "name": "Amy Terry",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-madison-2026-recorder-abel-angela",
+          "name": "Angela (Angie) Abel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Madison County Treasurer",
+      "candidates": [
+        {
+          "key": "in-madison-2026-treasurer-watters-shannon",
+          "name": "Shannon Watters",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-madison-2026-treasurer-gardner-rick",
+          "name": "Rick Gardner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Madison County Sheriff",
+      "candidates": [
+        {
+          "key": "in-madison-2026-sheriff-rayford-norman",
+          "name": "Norman Rayford, Jr",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-madison-2026-sheriff-beeman-john",
+          "name": "John L Beeman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Madison County Assessor",
+      "candidates": [
+        {
+          "key": "in-madison-2026-assessor-davis-larry",
+          "name": "Larry D Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Court of Appeals Judicial Retention - Second District (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-madison-2026-coa2-retain-kenworthy-dana",
+          "name": "Dana J. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/courts/news/2026/0827"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

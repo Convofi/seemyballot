@@ -1,0 +1,105 @@
+{
+  "state": "IN",
+  "county": "Morgan County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 2, County Council districts, township trustee and township board races, any town council races, and school board races. We could not confirm from an official Morgan County sample ballot whether the commissioner race is voted on countywide, because we could not find an election page on the county website; any local court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Morgan is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because no official roster was checked. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Morgan Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-morgan-2026-superior-1-ksenak-jarrett",
+          "name": "Jarrett Ksenak",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "in-morgan-2026-superior-1-smith-jerry",
+          "name": "Jerry E. Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Morgan Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-morgan-2026-superior-3-dungan-sara",
+          "name": "Sara A. Dungan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 15th Judicial Circuit (Morgan County)",
+      "candidates": [
+        {
+          "key": "in-morgan-2026-prosecutor-mellady-cassie",
+          "name": "Cassie Mellady",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Morgan County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-morgan-2026-clerk-parker-tammy",
+          "name": "Tammy Parker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Morgan County Auditor",
+      "candidates": [
+        {
+          "key": "in-morgan-2026-auditor-pruitt-linda",
+          "name": "Linda A. Pruitt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Morgan County Sheriff",
+      "candidates": [
+        {
+          "key": "in-morgan-2026-sheriff-downing-dan",
+          "name": "Dan J. Downing",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Morgan County Assessor",
+      "candidates": [
+        {
+          "key": "in-morgan-2026-assessor-brummett-reva",
+          "name": "Reva M Brummett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
