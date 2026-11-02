@@ -1,0 +1,78 @@
+{
+  "state": "MO",
+  "county": "Clay County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.voteclaycountymo.gov/elections",
+    "https://claycountybec.govoffice3.com/uploads/dm/12452/YellowSAMPLE010000101NON82.pdf",
+    "https://www.claycountymo.gov/205/Clay-County-Commission"
+  ],
+  "note": "From the Clay County Board of Election Commissioners' November 3, 2026 sample ballots (all 104 ballot styles linked from its ballot lookup carry the items shown here). Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: Eastern Commissioner (on only part of the county's ballots), U.S. House districts 5 and 6, state House districts, and city propositions (Kearney Proposition P, Missouri City Proposition 1). Kansas City items are on the Kansas City Board of Election Commissioners' ballot for city residents. Check your official sample ballot. Incumbent flags come from the County Commission page and the retention format.",
+  "contests": [
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-clay-2026-presiding-justus-jennifer",
+          "name": "Jennifer Justus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mo-clay-2026-presiding-nolte-jerry",
+          "name": "Jerry Nolte",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://claycountybec.govoffice3.com/uploads/dm/12452/YellowSAMPLE010000101NON82.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Western District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-clay-2026-coa-western-hardwick-lisa",
+          "name": "Lisa White Hardwick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://claycountybec.govoffice3.com/uploads/dm/12452/YellowSAMPLE010000101NON82.pdf"
+    },
+    {
+      "office": "Circuit Judge, 7th Judicial Circuit, Division 4 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-clay-2026-circuit7-div4-chamberlain-david",
+          "name": "David P. Chamberlain",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://claycountybec.govoffice3.com/uploads/dm/12452/YellowSAMPLE010000101NON82.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 7th Judicial Circuit, Division 6 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-clay-2026-assoc7-div6-krauser-karen",
+          "name": "Karen L. Krauser",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://claycountybec.govoffice3.com/uploads/dm/12452/YellowSAMPLE010000101NON82.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition A",
+      "title": "Clay County Constitution Amendments",
+      "summary": "The Constitution Review Commission recommended several amendments to the Clay County Constitution. They would require a general election even when only one candidate files, move the power to nominate board and commission members and to appoint the Presiding Commissioner pro tem from the Presiding Commissioner to the full County Commission, let the Commission call special meetings, give commissioners the same benefits as other county employees, set the Prosecuting Attorney's salary at a Circuit judge's level and the Sheriff's at an Associate Circuit Judge's level, expand the County Administrator's authority as approved by the Commission, and let each commissioner appoint one member of the Re-Districting and Constitution Review Commission.",
+      "yesMeans": "Clay County adopts the proposed amendments to its county constitution.",
+      "noMeans": "The Clay County Constitution stays as it is.",
+      "source": "https://claycountybec.govoffice3.com/uploads/dm/12452/YellowSAMPLE010000101NON82.pdf"
+    }
+  ],
+  "municipalities": {}
+}

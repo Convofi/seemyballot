@@ -1,0 +1,236 @@
+{
+  "state": "NC",
+  "county": "Buncombe County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: Buncombe County Board of Commissioners Districts 1, 2 and 3, Buncombe County Schools Board of Education Districts 3, 5 and 6, the Asheville City Schools Board of Education, Black Mountain and Montreat town races, and state legislative and U.S. House districts. Check your official sample ballot for those. The only other referendums in Buncombe County are the three statewide constitutional amendments. Incumbent flags are not set because we could not reach an official roster.",
+  "contests": [
+    {
+      "office": "Buncombe County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-sheriff-parris-gary",
+          "name": "Gary Parris",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-buncombe-2026-sheriff-miller-quentin",
+          "name": "Quentin Miller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Buncombe County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-clerk-christy-jean",
+          "name": "Jean Marie Christy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 40",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-da-moore-martin",
+          "name": "Martin Moore",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 40, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-superior-40-seat2-thornburg-alan",
+          "name": "Alan Thornburg",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 40, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-district-court-40-seat1-scott-ward",
+          "name": "Ward D. Scott",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 40, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-district-court-40-seat2-kepple-julie",
+          "name": "Julie M. Kepple",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 40, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-district-court-40-seat3-scales-ben",
+          "name": "Ben Scales",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 40, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-district-court-40-seat4-dotson-smith-susan",
+          "name": "Susan (Smitty) Dotson-Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 40, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-district-court-40-seat5-clontz-ed",
+          "name": "Ed Clontz",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Buncombe Soil and Water Conservation District Supervisor (vote for 2)",
+      "candidates": [
+        {
+          "key": "nc-buncombe-2026-soil-water-duncan-trent",
+          "name": "Trent Duncan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-buncombe-2026-soil-water-ditmore-alan",
+          "name": "Alan Ditmore",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-buncombe-2026-soil-water-cole-anthony",
+          "name": "Anthony D. Cole",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-buncombe-2026-soil-water-nichols-sara",
+          "name": "Sara Nichols",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+      "seats": 2
+    }
+  ],
+  "measures": [
+    {
+      "id": "Buncombe County Open Space Bonds Referendum",
+      "title": "Buncombe County Open Space Bonds",
+      "summary": "Asks whether to approve an order authorizing $30 million in bonds to acquire and improve land for conservation, including protecting natural resources and preserving farms and scenic landscapes, and to develop parks, greenways, trails and other outdoor recreation. Additional property taxes may be levied to repay the bonds. The ballot estimates the total cost at $47,615,115 ($30 million principal plus $17,615,115 interest) and a tax increase of $4.10 a year per $100,000 of property value.",
+      "yesMeans": "The County may issue $30 million in open space bonds, repaid with property taxes.",
+      "noMeans": "The open space bonds are not authorized.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {
+    "Asheville": {
+      "contests": [
+        {
+          "office": "City of Asheville Mayor",
+          "candidates": [
+            {
+              "key": "nc-buncombe-2026-asheville-mayor-manheimer-esther",
+              "name": "Esther Manheimer",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-buncombe-2026-asheville-mayor-roney-kim",
+              "name": "Kim Roney",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        },
+        {
+          "office": "City of Asheville City Council (vote for 3)",
+          "candidates": [
+            {
+              "key": "nc-buncombe-2026-asheville-council-ball-drew",
+              "name": "Drew Ball",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-buncombe-2026-asheville-council-berthiaume-maggie",
+              "name": "Maggie Ullman Berthiaume",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-buncombe-2026-asheville-council-burroughs-jeffrey",
+              "name": "Jeffrey Burroughs",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-buncombe-2026-asheville-council-mosley-s",
+              "name": "S. Antanette Mosley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-buncombe-2026-asheville-council-smith-sheneika",
+              "name": "Sheneika E. Smith",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-buncombe-2026-asheville-council-young-keith",
+              "name": "Keith Young",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+          "seats": 3
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "state": "NC",
+  "county": "Union County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: Union County Board of Education Districts 3, 4 and 6, City of Monroe and other municipal races, and state legislative and U.S. House districts. Check your official sample ballot for those. The only other referendums in Union County are the three statewide constitutional amendments. Incumbent flags are not set because we could not reach an official roster.",
+  "contests": [
+    {
+      "office": "Union County Board of Commissioners (vote for 3)",
+      "candidates": [
+        {
+          "key": "nc-union-2026-commissioners-dupont-christina",
+          "name": "Christina Dupont",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-union-2026-commissioners-merrell-melissa",
+          "name": "Melissa M. Merrell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-union-2026-commissioners-helms-brian",
+          "name": "Brian W. Helms",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-union-2026-commissioners-harris-sam",
+          "name": "Sam Harris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+      "seats": 3
+    },
+    {
+      "office": "Union County Board of Commissioners (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-union-2026-commissioners-unexpired-byl-madeleine",
+          "name": "Madeleine Byl",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-union-2026-commissioners-unexpired-wedra-errol",
+          "name": "Errol Wedra",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Union County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-union-2026-sheriff-cathey-eddie",
+          "name": "Eddie Cathey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Union County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-union-2026-clerk-maynard-wendy",
+          "name": "Wendy Maynard",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 30",
+      "candidates": [
+        {
+          "key": "nc-union-2026-da-robison-trey",
+          "name": "Trey Robison",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Union County Board of Education At-Large",
+      "candidates": [
+        {
+          "key": "nc-union-2026-boe-at-large-stadler-alexis",
+          "name": "Alexis Stadler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-union-2026-boe-at-large-robinson-linda",
+          "name": "Linda O. Robinson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Union Soil and Water Conservation District Supervisor (vote for 2)",
+      "candidates": [
+        {
+          "key": "nc-union-2026-soil-water-moyer-taylor",
+          "name": "Taylor Moyer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-union-2026-soil-water-moser-wayne",
+          "name": "Wayne S. Moser",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+      "seats": 2
+    }
+  ],
+  "measures": [
+    {
+      "id": "Union County Jail Bonds Referendum",
+      "title": "Union County Jail Bonds",
+      "summary": "Asks whether to approve an order authorizing $200,000,000 in bonds to design, build, furnish and equip a new jail facility, with additional property taxes that may be levied to repay them. The ballot estimates the total cost at $312,224,000 ($200,000,000 principal plus $112,224,000 interest) and a tax increase of $31.10 a year per $100,000 of property value.",
+      "yesMeans": "The County may issue $200 million in bonds for a new jail, repaid with property taxes.",
+      "noMeans": "The jail bonds are not authorized.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {}
+}
