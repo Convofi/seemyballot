@@ -1,0 +1,155 @@
+{
+  "state": "IA",
+  "county": "Black Hawk County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://blackhawkcountyelections.iowa.gov/elections/info/2026_general_election_2026_11_03/",
+    "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf",
+    "https://blackhawkcountyelections.iowa.gov/elected_officials/county/"
+  ],
+  "note": "From the Black Hawk County Auditor's official sample ballots. All 75 ballot styles carry the same county offices, Soil and Water, Agricultural Extension and District 1B retention questions. Incumbency is from the county's elected officials list. Not shown: Board of Supervisors, which Black Hawk County now elects by district (Districts 1-4 on this ballot), township offices, and the Kirkwood Community College bond (Public Measure NC), which appears only in the part of the county inside that college district. The City of Waterloo has no offices or measures on this ballot. Court of Appeals retention and the constitutional amendment appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-treasurer-hintzman-lynda",
+          "name": "Lynda Hintzman",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-recorder-smith-sandie",
+          "name": "Sandie L. Smith",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-attorney-williams-brian",
+          "name": "Brian John Williams",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf"
+    },
+    {
+      "office": "Soil and Water Commissioner",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-soil-water-miller-michael",
+          "name": "Michael J. Miller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-black-hawk-2026-soil-water-heffelmeier-kristi",
+          "name": "Kristi Heffelmeier",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf",
+      "seats": 2
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-ag-extension-kaspari-donna",
+          "name": "Donna Kitrick Kaspari",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-black-hawk-2026-ag-extension-greiman-amber",
+          "name": "Amber Greiman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-black-hawk-2026-ag-extension-hollingsworth-terrance",
+          "name": "Terrance J. Hollingsworth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-black-hawk-2026-ag-extension-hanumant-inamdar",
+          "name": "Inamdar Anand Hanumant",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-black-hawk-2026-ag-extension-campbell-daquan",
+          "name": "DaQuan Campbell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf",
+      "seats": 5
+    },
+    {
+      "office": "District 1B District Judge - Retention: shall Joel A. Dalrymple be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-1b-judge-retain-dalrymple-joel",
+          "name": "Joel A. Dalrymple",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf"
+    },
+    {
+      "office": "District 1B District Associate Judge - Retention: shall Patrice Jaye Eichman be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-1b-assoc-judge-retain-eichman-patrice",
+          "name": "Patrice Jaye Eichman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf"
+    },
+    {
+      "office": "District 1B District Associate Judge - Retention: shall Linnea M.N. Nicol be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-1b-assoc-judge-retain-nicol-linnea",
+          "name": "Linnea M.N. Nicol",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf"
+    },
+    {
+      "office": "District 1B District Associate Judge - Retention: shall Michelle Jungers be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-black-hawk-2026-1b-assoc-judge-retain-jungers-michelle",
+          "name": "Michelle Jungers",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://blackhawkcountyelections.iowa.gov/files/sample_ballots/1304_style_1_88034.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

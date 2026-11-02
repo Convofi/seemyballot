@@ -1,0 +1,242 @@
+{
+  "state": "IA",
+  "county": "Story County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.storycountyiowa.gov/1754/General-Election-11032026",
+    "https://www.storycountyiowa.gov/DocumentCenter/View/18146/26010-Sample-FRONT",
+    "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots",
+    "https://www.storycountyiowa.gov/DocumentCenter/View/17366/Candidate-Info"
+  ],
+  "note": "From the Story County Auditor's official sample ballots: every precinct's front shows the same Treasurer, Recorder and Attorney contests, and one back side, shared by all precincts, carries the nonpartisan offices and judicial retention. Incumbency is from the county's candidate list. Not shown: Board of Supervisors, which Story County now elects by district (Districts 1-3 on this ballot), and township offices; both depend on where you live. No county or City of Ames public measures are on this ballot. Court of Appeals retention and the constitutional amendment appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-story-2026-treasurer-rasmusson-ted",
+          "name": "Ted Rasmusson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18146/26010-Sample-FRONT"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "ia-story-2026-recorder-herridge-stacie",
+          "name": "Stacie Herridge",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18146/26010-Sample-FRONT"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-story-2026-attorney-meals-timothy",
+          "name": "Timothy Meals",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18146/26010-Sample-FRONT"
+    },
+    {
+      "office": "County Public Hospital Trustee",
+      "candidates": [
+        {
+          "key": "ia-story-2026-hospital-trustee-cain-pamela",
+          "name": "Pamela Elliott Cain",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-hospital-trustee-sheets-patrick",
+          "name": "Patrick Sheets",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-hospital-trustee-vier-austin",
+          "name": "Austin Vier",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-hospital-trustee-hertz-elizabeth",
+          "name": "Elizabeth Hertz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots",
+      "seats": 4
+    },
+    {
+      "office": "Soil and Water Commissioner",
+      "candidates": [
+        {
+          "key": "ia-story-2026-soil-water-riggins-stephen",
+          "name": "Stephen Riggins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-soil-water-spencer-selden",
+          "name": "Selden Spencer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots",
+      "seats": 2
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "candidates": [
+        {
+          "key": "ia-story-2026-ag-extension-christian-erik",
+          "name": "Erik Christian",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-ag-extension-beavers-tina",
+          "name": "Tina Beavers",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-ag-extension-kahler-pam",
+          "name": "Pam Kahler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-ag-extension-hartung-marisue",
+          "name": "Marisue Hartung",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-ag-extension-licht-mark",
+          "name": "Mark Licht",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots",
+      "seats": 5
+    },
+    {
+      "office": "County Agricultural Extension Council (to fill vacancy)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-ag-extension-vacancy-sampson-doug",
+          "name": "Doug Sampson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-story-2026-ag-extension-vacancy-ness-jacob",
+          "name": "Jacob M. Ness",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots",
+      "seats": 2
+    },
+    {
+      "office": "District 2B District Judge - Retention: shall Bethany J. Currie be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-2b-judge-retain-currie-bethany",
+          "name": "Bethany J. Currie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots"
+    },
+    {
+      "office": "District 2B District Judge - Retention: shall Angela L. Doyle be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-2b-judge-retain-doyle-angela",
+          "name": "Angela L. Doyle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots"
+    },
+    {
+      "office": "District 2B District Judge - Retention: shall Amy Moore be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-2b-judge-retain-moore-amy",
+          "name": "Amy Moore",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots"
+    },
+    {
+      "office": "District 2B District Judge - Retention: shall Christopher Polking be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-2b-judge-retain-polking-christopher",
+          "name": "Christopher Polking",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots"
+    },
+    {
+      "office": "District 2B District Judge - Retention: shall Ashley Sparks be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-2b-judge-retain-sparks-ashley",
+          "name": "Ashley Sparks",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots"
+    },
+    {
+      "office": "District 2B District Associate Judge - Retention: shall Stephen A. Owen be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-2b-assoc-judge-retain-owen-stephen",
+          "name": "Stephen A. Owen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots"
+    },
+    {
+      "office": "District 2B District Associate Judge - Retention: shall Joseph L. Tofilon be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-story-2026-2b-assoc-judge-retain-tofilon-joseph",
+          "name": "Joseph L. Tofilon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.storycountyiowa.gov/DocumentCenter/View/18210/A_Back-of-Sample-Ballots"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

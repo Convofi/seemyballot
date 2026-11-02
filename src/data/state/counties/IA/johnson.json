@@ -1,0 +1,196 @@
+{
+  "state": "IA",
+  "county": "Johnson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.johnsoncountyiowa.gov/november-3-2026-general-election",
+    "https://www.johnsoncountyiowa.gov/supervisor-districts",
+    "https://www.johnsoncountyiowa.gov/treasurer",
+    "https://www.johnsoncountyiowa.gov/recorder",
+    "https://www.johnsoncountyiowa.gov/attorney"
+  ],
+  "note": "From the Johnson County Auditor's list of offices, candidates and ballot issues for November 3, 2026. Not shown: Board of Supervisors, because under Senate File 75 (2025) Johnson County now elects supervisors by district (Districts 1-5, all on this ballot), and township offices; both depend on where you live. Also not shown: the City of Hills bond (LZ), the Lone Tree (MA) and Mid-Prairie (VF) school bonds, and the Kirkwood Community College bond (NC), which depend on your city, school or college district. District 6 judges are retained district-wide. The City of Iowa City has no offices or measures on this ballot. Court of Appeals retention and the constitutional amendment appear with the statewide items. Check your sample ballot at the county's Polling Place Lookup.",
+  "contests": [
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-treasurer-finlayson-scott",
+          "name": "Scott Finlayson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-recorder-painter-kim",
+          "name": "Kim Painter",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-attorney-smith-rachel",
+          "name": "Rachel Zimmermann Smith",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-ag-extension-burns-kristine",
+          "name": "Kristine Burns",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-johnson-2026-ag-extension-ciecior-katherine",
+          "name": "Katherine Ciecior",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-johnson-2026-ag-extension-schmidt-elsa",
+          "name": "Elsa Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-johnson-2026-ag-extension-schrock-dylan",
+          "name": "Dylan Schrock",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-johnson-2026-ag-extension-stutsman-tanner",
+          "name": "Tanner Stutsman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election",
+      "seats": 5
+    },
+    {
+      "office": "Soil and Water Commissioner",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-soil-water-johnson-corey",
+          "name": "Corey Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-johnson-2026-soil-water-schmidt-alexander",
+          "name": "Alexander Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-johnson-2026-soil-water-spevacek-travis",
+          "name": "Travis Spevacek",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election",
+      "seats": 2
+    },
+    {
+      "office": "District 6 District Judge - Retention: shall Angie Johnston be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-6-judge-retain-johnston-angie",
+          "name": "Angie Johnston",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "District 6 District Judge - Retention: shall Casey D. Jones be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-6-judge-retain-jones-casey",
+          "name": "Casey D. Jones",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "District 6 District Judge - Retention: shall Kristin Schneider be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-6-judge-retain-schneider-kristin",
+          "name": "Kristin Schneider",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "District 6 District Associate Judge - Retention: shall Jason D. Besler be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-6-assoc-judge-retain-besler-jason",
+          "name": "Jason D. Besler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "District 6 District Associate Judge - Retention: shall Mark David Fisher be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-6-assoc-judge-retain-fisher-mark",
+          "name": "Mark David Fisher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    },
+    {
+      "office": "District 6 District Associate Judge - Retention: shall Michael John Harris be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-johnson-2026-6-assoc-judge-retain-harris-michael",
+          "name": "Michael John Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Public Measure LY",
+      "title": "County Jail Bond",
+      "summary": "Asks whether Johnson County may issue up to $94,500,000 in general obligation bonds to buy land and build, equip and furnish a new sheriff's office and jail facility. Approval requires 60 percent of the vote.",
+      "yesMeans": "The county may issue up to $94.5 million in bonds for a new sheriff's office and jail.",
+      "noMeans": "The county may not issue these bonds for a new sheriff's office and jail.",
+      "source": "https://www.johnsoncountyiowa.gov/november-3-2026-general-election"
+    }
+  ],
+  "municipalities": {}
+}

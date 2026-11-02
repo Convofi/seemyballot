@@ -1,0 +1,215 @@
+{
+  "state": "IA",
+  "county": "Woodbury County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.woodburycountyiowa.gov/elections/info/2026_general_election_2026_11_03/",
+    "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf",
+    "https://elections.woodburycountyiowa.gov/elected_officials/county/"
+  ],
+  "note": "From the Woodbury County Auditor's official sample ballots. All 73 ballot styles carry the same contests listed here, including both Board of Supervisors seats (District 2 and District 4 are residency seats elected countywide). Incumbency is from the county's elected officials list. Not shown: township offices and any city or school items, which depend on where you live. No county or City of Sioux City public measures are on this ballot. Court of Appeals retention and the constitutional amendment appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Board of Supervisors, District 2 (elected countywide)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-supervisor-2-bittinger-daniel",
+          "name": "Daniel A. Bittinger II",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ia-woodbury-2026-supervisor-2-house-jody",
+          "name": "Jody House",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "Board of Supervisors, District 4 (elected countywide)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-supervisor-4-dewitt-kolby",
+          "name": "Kolby DeWitt",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ia-woodbury-2026-supervisor-4-wilson-brittney",
+          "name": "Brittney Wilson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-treasurer-bertrand-tina",
+          "name": "Tina M. Bertrand",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-attorney-loomis-james",
+          "name": "James D. Loomis",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ia-woodbury-2026-attorney-mulford-benjamin",
+          "name": "Benjamin J. Mulford",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "Soil and Water Commissioner",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-soil-water-walters-gary",
+          "name": "Gary Walters",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf",
+      "seats": 2
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-ag-extension-weaver-kerri",
+          "name": "Kerri Weaver",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-woodbury-2026-ag-extension-uhl-ben",
+          "name": "Ben Uhl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-woodbury-2026-ag-extension-boyle-paul",
+          "name": "Paul Boyle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-woodbury-2026-ag-extension-pottebaum-kevin",
+          "name": "Kevin Pottebaum",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-woodbury-2026-ag-extension-jensen-rashelle",
+          "name": "Rashelle Jensen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf",
+      "seats": 5
+    },
+    {
+      "office": "County Agricultural Extension Council (to fill vacancy)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-ag-extension-vacancy-heilman-mia",
+          "name": "Mia Heilman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "District 3B District Judge - Retention: shall Zachary S. Hindman be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-3b-judge-retain-hindman-zachary",
+          "name": "Zachary S. Hindman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "District 3B District Judge - Retention: shall Tod J. Deck be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-3b-judge-retain-deck-tod",
+          "name": "Tod J. Deck",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "District 3B District Associate Judge - Retention: shall John C. Nelson be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-3b-assoc-judge-retain-nelson-john",
+          "name": "John C. Nelson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "District 3B District Associate Judge - Retention: shall Daniel P. Vakulskas be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-3b-assoc-judge-retain-vakulskas-daniel",
+          "name": "Daniel P. Vakulskas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "District 3B District Associate Judge - Retention: shall Melinda Wicks be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-3b-assoc-judge-retain-wicks-melinda",
+          "name": "Melinda Wicks",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    },
+    {
+      "office": "District 3B District Associate Judge - Retention: shall Mark C. Cord be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-woodbury-2026-3b-assoc-judge-retain-cord-mark",
+          "name": "Mark C. Cord",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.woodburycountyiowa.gov/files/sample_ballots/20261103_precinct_1_riverside_elementary_school_68438.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,314 @@
+{
+  "state": "IA",
+  "county": "Dallas County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.dallascountyiowa.gov/DocumentCenter/View/7620",
+    "https://www.dallascountyiowa.gov/DocumentCenter/View/7309",
+    "https://www.dallascountyiowa.gov/516/Elected-Officials",
+    "https://www.dallascountyiowa.gov/503/Elections"
+  ],
+  "note": "From the Dallas County Auditor's official sample ballots (49 ballot styles) and the county's 2026 general election candidate list. All five Board of Supervisors seats appear on every ballot style, so every voter votes on each one; Districts 4 and 5 are two-year terms. Incumbency is from the county's Elected Officials page. Not shown: township offices and the City of Urbandale (Public Measure U) and Madrid Community School District (Public Measure BQ) questions, which depend on where you live. Court of Appeals retention and the constitutional amendment appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Board of Supervisors, District 1",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-supervisor-1-greenway-robert",
+          "name": "Robert Greenway",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-supervisor-1-benell-jason",
+          "name": "Jason Benell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "Board of Supervisors, District 2",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-supervisor-2-helm-julia",
+          "name": "Julia Helm",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "Board of Supervisors, District 3",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-supervisor-3-chapman-kim",
+          "name": "Kim Chapman",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ia-dallas-2026-supervisor-3-tice-patricia",
+          "name": "Patricia K. Tice",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "Board of Supervisors, District 4 (2-year term)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-supervisor-4-farrell-lance",
+          "name": "Lance Farrell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-supervisor-4-nizzi-ben",
+          "name": "Ben Nizzi",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "Board of Supervisors, District 5 (2-year term)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-supervisor-5-roszak-dave",
+          "name": "Dave Roszak",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-supervisor-5-bautista-julie",
+          "name": "Julie Bautista",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-treasurer-portzen-summer",
+          "name": "Summer Portzen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-recorder-arnold-renae",
+          "name": "ReNae Arnold",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ia-dallas-2026-recorder-farber-lexi",
+          "name": "Lexi Farber",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-attorney-schultz-matt",
+          "name": "Matt Schultz",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "County Public Hospital Trustee",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-hospital-trustee-boyens-kari",
+          "name": "Kari Boyens",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-hospital-trustee-miner-joelle",
+          "name": "Joelle Miner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-hospital-trustee-steele-pat",
+          "name": "Pat Steele",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-hospital-trustee-cochran-dennis",
+          "name": "Dennis Cochran",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620",
+      "seats": 4
+    },
+    {
+      "office": "Soil and Water Commissioner",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-soil-water-fleishman-craig",
+          "name": "Craig Fleishman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-soil-water-lack-veronica",
+          "name": "Veronica M. Lack",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-soil-water-beni-james",
+          "name": "James P Beni",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620",
+      "seats": 2
+    },
+    {
+      "office": "Soil and Water Commissioner (to fill vacancy)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-soil-water-vacancy-herring-ken",
+          "name": "Ken Herring",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-soil-water-vacancy-vos-jerry",
+          "name": "Jerry Vos",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620",
+      "seats": 2
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-ag-extension-sandquist-michael",
+          "name": "Michael James Sandquist",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-ag-extension-kinkennon-linda",
+          "name": "Linda Kinkennon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-ag-extension-anderson-ashley",
+          "name": "Ashley E. Anderson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-ag-extension-drake-jessica",
+          "name": "Jessica S. Drake",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-dallas-2026-ag-extension-basye-jonatha",
+          "name": "Jonatha J. Basye",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620",
+      "seats": 5
+    },
+    {
+      "office": "District 5A District Judge - Retention: shall Michael K. Jacobsen be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-5a-judge-retain-jacobsen-michael",
+          "name": "Michael K. Jacobsen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "District 5A District Judge - Retention: shall Nicholas Bailey be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-5a-judge-retain-bailey-nicholas",
+          "name": "Nicholas Bailey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "District 5A District Judge - Retention: shall Thomas P. Murphy be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-5a-judge-retain-murphy-thomas",
+          "name": "Thomas P. Murphy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "District 5A District Associate Judge - Retention: shall Steven W. Guiter be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-5a-assoc-judge-retain-guiter-steven",
+          "name": "Steven W. Guiter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    },
+    {
+      "office": "District 5A District Associate Judge - Retention: shall Mark F. Schlenker be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-dallas-2026-5a-assoc-judge-retain-schlenker-mark",
+          "name": "Mark F. Schlenker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dallascountyiowa.gov/DocumentCenter/View/7620"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
