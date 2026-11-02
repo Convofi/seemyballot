@@ -1,0 +1,38 @@
+{
+  "state": "MA",
+  "county": "Worcester County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.milfordma.gov/DocumentCenter/View/3221/November-3-2026-State-Election-Sample-Ballot",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/stage:Primaries"
+  ],
+  "note": "Governor's Council, State Senate and State Representative districts are not shown because they do not cover all of Worcester County. Regional school committee seats and any district-level nonbinding questions are also not shown. Worcester County has no county commissioners (county government was abolished), and the Sheriff, Registers of Deeds and Clerk of Courts are not on the 2026 ballot. The City of Worcester has no city offices on this state election ballot; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Attorney, Middle District (Worcester County)",
+      "candidates": [
+        {
+          "key": "ma-worcester-2026-da-early-joseph",
+          "name": "Joseph D. Early, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.milfordma.gov/DocumentCenter/View/3221/November-3-2026-State-Election-Sample-Ballot"
+    },
+    {
+      "office": "Register of Probate, Worcester County",
+      "candidates": [
+        {
+          "key": "ma-worcester-2026-register-of-probate-fattman-stephanie",
+          "name": "Stephanie K. Fattman",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.milfordma.gov/DocumentCenter/View/3221/November-3-2026-State-Election-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

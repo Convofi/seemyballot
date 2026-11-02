@@ -1,0 +1,38 @@
+{
+  "state": "MA",
+  "county": "Essex County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.lynnfieldma.gov/DocumentCenter/View/3410/November-3-2026-State-Election-Sample-Ballot",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/stage:Primaries"
+  ],
+  "note": "Governor's Council, State Senate and State Representative districts are not shown because they do not cover all of Essex County. Nonbinding Question 10 (legislator stipends) appears only in some Representative districts and is not shown. Essex County has no county commissioners (county government was abolished), and the Sheriff, Registers of Deeds and Clerk of Courts are not on the 2026 ballot. Lynn has no city offices on this state election ballot; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Attorney, Eastern District (Essex County)",
+      "candidates": [
+        {
+          "key": "ma-essex-2026-da-tucker-paul",
+          "name": "Paul F. Tucker",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.lynnfieldma.gov/DocumentCenter/View/3410/November-3-2026-State-Election-Sample-Ballot"
+    },
+    {
+      "office": "Register of Probate, Essex County",
+      "candidates": [
+        {
+          "key": "ma-essex-2026-register-of-probate-obrien-pamela",
+          "name": "Pamela Casey O'Brien",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.lynnfieldma.gov/DocumentCenter/View/3410/November-3-2026-State-Election-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

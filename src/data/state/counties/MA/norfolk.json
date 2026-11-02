@@ -1,0 +1,68 @@
+{
+  "state": "MA",
+  "county": "Norfolk County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://foxborough.hosted.civiclive.com/UserFiles/Servers/Server_15207780/File/Departments/Town%20Clerk/2026/2026%20November%203_State%20Election_Sample%20Ballot.pdf",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/stage:Primaries"
+  ],
+  "note": "Governor's Council, State Senate and State Representative districts are not shown because they do not cover all of Norfolk County. Regional school committee seats are not shown. Nonbinding Question 10 (instructing the Representative on abolishing Norfolk County government) appears only in some Representative districts and is not shown. The Sheriff, Register of Deeds and Clerk of Courts are not on the 2026 ballot. Quincy has no city offices on this state election ballot; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races and any local questions.",
+  "contests": [
+    {
+      "office": "District Attorney, Norfolk District",
+      "candidates": [
+        {
+          "key": "ma-norfolk-2026-da-perkins-djuna",
+          "name": "Djuna Elizabeth Perkins",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ma-norfolk-2026-da-pagliarulo-joseph",
+          "name": "Joseph Michael Pagliarulo",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://foxborough.hosted.civiclive.com/UserFiles/Servers/Server_15207780/File/Departments/Town%20Clerk/2026/2026%20November%203_State%20Election_Sample%20Ballot.pdf"
+    },
+    {
+      "office": "Register of Probate, Norfolk County",
+      "candidates": [
+        {
+          "key": "ma-norfolk-2026-register-of-probate-brierley-colleen",
+          "name": "Colleen Marie Brierley",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://foxborough.hosted.civiclive.com/UserFiles/Servers/Server_15207780/File/Departments/Town%20Clerk/2026/2026%20November%203_State%20Election_Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Treasurer, Norfolk County",
+      "candidates": [
+        {
+          "key": "ma-norfolk-2026-county-treasurer-bellotti-michael",
+          "name": "Michael G. Bellotti",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://foxborough.hosted.civiclive.com/UserFiles/Servers/Server_15207780/File/Departments/Town%20Clerk/2026/2026%20November%203_State%20Election_Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Commissioner, Norfolk County",
+      "candidates": [
+        {
+          "key": "ma-norfolk-2026-county-commissioner-collins-peter",
+          "name": "Peter Hugh Collins",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://foxborough.hosted.civiclive.com/UserFiles/Servers/Server_15207780/File/Departments/Town%20Clerk/2026/2026%20November%203_State%20Election_Sample%20Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
