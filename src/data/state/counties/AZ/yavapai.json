@@ -1,0 +1,136 @@
+{
+  "state": "AZ",
+  "county": "Yavapai County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf",
+    "https://www.yavapaivotes.gov/files/assets/elections/v/1/documents/prop-497-publicity-pamphlet.pdf",
+    "https://prescott-az.gov/wp-content/uploads/2026/09/CLRK-November-2026-Special-Election-Publicity-Pamphlet-20260917.pdf",
+    "https://www.yavapaivotes.gov/files/assets/elections/v/3/documents/official-write-in-sign-ge2026.pdf"
+  ],
+  "note": "From the Yavapai County Elections countywide sample ballot, the Proposition 497 publicity pamphlet, and the City of Prescott publicity pamphlet. Names are shown in normal capitalization; the ballot prints them in capitals. Superior Court judges are elected countywide on the nonpartisan ballot; incumbent flags are not set because no official roster was checked. Not shown: Board of Supervisors District 2 (unexpired term), Justice of the Peace and Constable precincts, Yavapai College district board seats, school district boards and measures (including Prescott Unified Propositions 413 and 414), fire and other special districts, state legislative and congressional districts, and other towns' measures. Statewide races, Arizona Supreme Court retention, Court of Appeals retention and statewide propositions are on the Arizona statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Clerk of the Superior Court",
+      "candidates": [
+        {
+          "key": "az-yavapai-2026-clerk-superior-court-van-landingham-charlie",
+          "name": "Charlie Van Landingham",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 1",
+      "candidates": [
+        {
+          "key": "az-yavapai-2026-superior-court-div1-mcgill-michael",
+          "name": "Michael McGill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 2",
+      "candidates": [
+        {
+          "key": "az-yavapai-2026-superior-court-div2-napper-john",
+          "name": "John Napper",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 3",
+      "candidates": [
+        {
+          "key": "az-yavapai-2026-superior-court-div3-butner-josh",
+          "name": "Josh Butner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 5",
+      "candidates": [
+        {
+          "key": "az-yavapai-2026-superior-court-div5-whitmer-henry",
+          "name": "Henry Whitmer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf"
+    },
+    {
+      "office": "Judge of the Superior Court, Division 6",
+      "candidates": [
+        {
+          "key": "az-yavapai-2026-superior-court-div6-young-anna",
+          "name": "Anna Young",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition 497",
+      "title": "Yavapai County Jail District excise (sales) tax increase",
+      "summary": "The Yavapai County Jail District asks voters to raise the existing Jail District sales tax by an additional quarter cent ($0.0025) per dollar to pay the costs of the Jail District. If approved, the increase takes effect July 1, 2027, and continues for twenty years. The ballot language states that without it the County would need to contribute more from its General Fund to the Jail District.",
+      "yesMeans": "The Jail District sales tax increases by a quarter cent per dollar for twenty years starting July 1, 2027.",
+      "noMeans": "The Jail District sales tax stays at its current rate.",
+      "source": "https://www.yavapaivotes.gov/files/assets/elections/v/2/documents/26-ge-countywide-sample-ballot.pdf",
+      "moreInfo": "https://www.yavapaivotes.gov/files/assets/elections/v/1/documents/prop-497-publicity-pamphlet.pdf"
+    }
+  ],
+  "municipalities": {
+    "Prescott": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 401",
+          "title": "Charter amendment: majority to elect in primary",
+          "summary": "Amends Article IX, Section 6 of the Prescott City Charter to change how a primary-election majority is calculated, mirroring state law. The majority would be based on votes cast for all candidates for the office, divided by the number of seats and then by two, instead of on all valid ballots cast.",
+          "yesMeans": "The charter's method for calculating a majority to win in the primary changes to mirror state statute.",
+          "noMeans": "The current charter wording on majority to elect in the primary stays the same.",
+          "source": "https://prescott-az.gov/wp-content/uploads/2026/09/CLRK-November-2026-Special-Election-Publicity-Pamphlet-20260917.pdf"
+        },
+        {
+          "id": "Proposition 402",
+          "title": "Charter amendment: presiding officer; appointment; term (city judge section title)",
+          "summary": "Amends Article XI, Section 4 of the Prescott City Charter, which concerns the city court's presiding officer. Per the official descriptive title, it removes the words \"Justice of Peace as\" from the section title.",
+          "yesMeans": "\"Justice of Peace as\" is removed from the title of Article XI, Section 4.",
+          "noMeans": "The current wording stays the same.",
+          "source": "https://prescott-az.gov/wp-content/uploads/2026/09/CLRK-November-2026-Special-Election-Publicity-Pamphlet-20260917.pdf"
+        },
+        {
+          "id": "Proposition 411",
+          "title": "Charter amendment: powers of the city (development requirements)",
+          "summary": "Amends Article I, Section 3 of the Prescott City Charter on the city's power to require developers to provide or pay for public facilities such as easements, water, sewer, roads, drainage and flood control. It adds that for new residential developments proposed for annexation, the developer must plan, build and fully fund the infrastructure needed to serve them, and the city may not spend or commit public funds for those improvements unless voters approve.",
+          "yesMeans": "Article I, Section 3 of the charter is amended as described, including the developer-funding requirement for annexed residential developments.",
+          "noMeans": "The existing charter language stays the same.",
+          "source": "https://prescott-az.gov/wp-content/uploads/2026/09/CLRK-November-2026-Special-Election-Publicity-Pamphlet-20260917.pdf"
+        },
+        {
+          "id": "Proposition 412",
+          "title": "Charter amendment: open space for large-scale annexation developments",
+          "summary": "Adds a section to Article I, Section 4 (\"Boundaries\") of the Prescott City Charter. Any residential development of more than 250 acres annexed into the city under a pre-annexation development agreement would have to dedicate and permanently preserve at least 25% of the annexed area as open space, which to the extent practicable must preserve wildlife corridors, provide public access such as trails, and be connected rather than fragmented.",
+          "yesMeans": "The open space requirement for large annexed residential developments is added to the charter.",
+          "noMeans": "The open space subsection is not added to the charter.",
+          "source": "https://prescott-az.gov/wp-content/uploads/2026/09/CLRK-November-2026-Special-Election-Publicity-Pamphlet-20260917.pdf"
+        }
+      ]
+    }
+  }
+}

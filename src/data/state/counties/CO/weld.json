@@ -1,0 +1,165 @@
+{
+  "state": "CO",
+  "county": "Weld County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+  ],
+  "note": "From the Weld County Clerk and Recorder's composite 2026 general election sample ballot. Incumbent flags are set only for judges standing for retention. No Weld County ballot measure is on this ballot. Not shown: County Commissioner District 2 (Scott James) and County Council Districts 2 and 3, because the official sources reached did not confirm whether these seats are voted on countywide; state legislative and congressional districts; Regional Transportation District Director District K; other cities' and towns' contests and measures (Evans, Erie, Firestone, Gilcrest, Hudson, Keenesburg, Kersey, LaSalle, Lochbuie, Mead, Eaton, Frederick, Longmont, Berthoud, Northglenn); school district measures (4A–5C); and special district measures (6A–7F). The City of Greeley has no contests on this ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, At-Large",
+      "candidates": [
+        {
+          "key": "co-weld-2026-commissioner-at-large-reams-steve",
+          "name": "Steve Reams",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-weld-2026-commissioner-at-large-graham-stacey",
+          "name": "Stacey Graham",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-weld-2026-clerk-santos-rudy",
+          "name": "Rudy Santos",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-weld-2026-assessor-marini-jason",
+          "name": "Jason A Marini",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-weld-2026-sheriff-turner-matt",
+          "name": "Matt Turner",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-weld-2026-sheriff-rodriguez-fabian",
+          "name": "Fabian Rodriguez",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "County Council, At-Large",
+      "candidates": [
+        {
+          "key": "co-weld-2026-council-at-large-kissler-ty",
+          "name": "Ty Kissler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "co-weld-2026-council-at-large-teksten-nancy",
+          "name": "Nancy Teksten",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "District Court Judge, 19th Judicial District — retain Judge Audrey A. Galloway? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-weld-2026-retain-dist19-galloway-audrey",
+          "name": "Audrey A. Galloway",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "District Court Judge, 19th Judicial District — retain Judge Timothy Gerard Kerns? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-weld-2026-retain-dist19-kerns-timothy",
+          "name": "Timothy Gerard Kerns",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "Weld County Court Judge — retain Judge John J. Briggs? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-weld-2026-retain-county-briggs-john",
+          "name": "John J. Briggs",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "Weld County Court Judge — retain Judge Michele Lynn Meyer? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-weld-2026-retain-county-meyer-michele",
+          "name": "Michele Lynn Meyer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    },
+    {
+      "office": "Weld County Court Judge — retain Judge Dana Nichols? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-weld-2026-retain-county-nichols-dana",
+          "name": "Dana Nichols",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Greeley": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Ballot Issue 2F",
+          "title": "City of Greeley Sales and Use Tax Increase for Capital Projects",
+          "summary": "Raises the City of Greeley sales and use tax rate by 0.6% (excluding the city sales tax on food), estimated at $20 million in 2027, to finance, build, operate and maintain the Downtown Civic Campus project (city hall, plaza, parking garage), the West Greeley Catalyst project (arena, youth ice center, water park, hotel), and recreational, cultural and park facilities. Spending would be subject to review by a citizens committee, and the added tax would end when the Civic Campus and Catalyst project financings are paid off, no later than December 31, 2067.",
+          "yesMeans": "The city sales and use tax rate rises by 0.6% to fund these capital projects.",
+          "noMeans": "The city sales and use tax rate stays the same.",
+          "source": "https://www.weld.gov/files/sharedassets/public/v/1/departments/clerk-and-recorder/documents/elections/2026-general-english-sample-ballot.pdf"
+        }
+      ]
+    }
+  }
+}

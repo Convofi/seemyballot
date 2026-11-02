@@ -1,0 +1,258 @@
+{
+  "state": "CO",
+  "county": "Douglas County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/",
+    "https://www.douglasco.gov/documents/2026-general-election-certified-write-in-candidates.pdf/",
+    "https://www.douglasco.gov/elections/election-information/on-the-ballot/",
+    "https://www.douglasco.gov/board-county-commissioners/transparency/elected-officials/"
+  ],
+  "note": "From the Douglas County Clerk and Recorder's 2026 general election composite sample ballot and certified write-in candidate list. Write-in sheriff candidate Konrad Spurling's affiliation is printed ambiguously on the write-in list, so it is shown as Other. Douglas County commissioners are elected by voters of the whole county, so the District 1 seat is shown for everyone. Incumbent flags come from the county's elected officials roster and for judges standing for retention. Ballot Question 201 is a choice between two election methods rather than a yes/no question. Not shown: state legislative and congressional districts, CU Regent district, Town of Castle Rock Councilmember Districts 3 and 5, Town of Parker, City of Castle Pines and City of Aurora contests and measures, Douglas County School District RE-1 measures, and special district measures (fire protection, metropolitan districts, Front Range Passenger Rail District Issue 7A). Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 1 (elected at large)",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-commissioner-d1-bonham-irene",
+          "name": "Irene Bonham",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-douglas-2026-commissioner-d1-bockenfeld-jake",
+          "name": "Jake Bockenfeld",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-clerk-davis-sheri",
+          "name": "Sheri Davis",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "co-douglas-2026-clerk-oehler-jim",
+          "name": "Jim Oehler",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-treasurer-dietz-tim",
+          "name": "Tim Dietz",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-douglas-2026-treasurer-smith-dan",
+          "name": "Dan Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-assessor-garr-kara",
+          "name": "Kara Garr",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-douglas-2026-assessor-damisch-toby",
+          "name": "Toby Damisch",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-sheriff-weekly-darren",
+          "name": "Darren M. Weekly",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "co-douglas-2026-sheriff-spurling-konrad",
+          "name": "Konrad Spurling",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-surveyor-roberts-darrell",
+          "name": "Darrell E. Roberts",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-coroner-brown-raeann",
+          "name": "Raeann Brown",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "District Court Judge, 23rd Judicial District — retain Judge Andrew Baum? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-retain-dist23-baum-andrew",
+          "name": "Andrew Baum",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "District Court Judge, 23rd Judicial District — retain Judge Victoria E. Klingensmith? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-retain-dist23-klingensmith-victoria",
+          "name": "Victoria E. Klingensmith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "District Court Judge, 23rd Judicial District — retain Judge Theresa Slade? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-retain-dist23-slade-theresa",
+          "name": "Theresa Slade",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "District Court Judge, 23rd Judicial District — retain Judge Daniel W. Warhola? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-retain-dist23-warhola-daniel",
+          "name": "Daniel W. Warhola",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "Douglas County Court Judge — retain Judge Lawrence Bowling? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-retain-county-bowling-lawrence",
+          "name": "Lawrence Bowling",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "office": "Douglas County Court Judge — retain Judge Kolony L. Fields? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-douglas-2026-retain-county-fields-kolony",
+          "name": "Kolony L. Fields",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Ballot Question 200",
+      "title": "Increase the Board of County Commissioners from three to five members",
+      "summary": "Asks whether the Douglas County Board of Commissioners should grow from three members to five. The ballot question states an ongoing estimated annual cost of $760,000 to $1,300,000 from county revenue.",
+      "yesMeans": "The Board of County Commissioners would be increased from three members to five.",
+      "noMeans": "The Board of County Commissioners stays at three members.",
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "id": "Ballot Question 201",
+      "title": "Method of electing a five-member Board of County Commissioners",
+      "summary": "If the board is increased to five members, voters choose one of two election methods: five district commissioners, each elected only by voters living in that district; or three district commissioners elected only by voters in their districts plus two at-large commissioners elected by the whole county. This is a choice between two options, not a yes/no question.",
+      "yesMeans": "Choosing the first option means all five commissioners would be elected only by voters living in their own districts.",
+      "noMeans": "Choosing the second option means three commissioners would be elected by district voters and two would be elected at large by the whole county.",
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    },
+    {
+      "id": "Ballot Question 1A",
+      "title": "Countywide election of all commissioners on a five-member board",
+      "summary": "Asks whether, if the Board of County Commissioners is increased to five members, all registered Douglas County voters should continue to elect all county commissioners.",
+      "yesMeans": "If the board grows to five members, all county voters would continue to vote for every commissioner.",
+      "noMeans": "All county voters would not necessarily continue to vote for every commissioner on a five-member board.",
+      "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+    }
+  ],
+  "municipalities": {
+    "Castle Rock": {
+      "contests": [
+        {
+          "office": "Town of Castle Rock Mayor (four-year term)",
+          "candidates": [
+            {
+              "key": "co-douglas-2026-castle-rock-mayor-cavey-laura",
+              "name": "Laura Cavey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-douglas-2026-castle-rock-mayor-thomas-amelia",
+              "name": "Amelia Thomas",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "co-douglas-2026-castle-rock-mayor-butler-stu",
+              "name": "Stu Butler",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.douglasco.gov/documents/2026-general-election-composite-sample-ballot.pdf/"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
