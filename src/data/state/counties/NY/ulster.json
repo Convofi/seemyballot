@@ -1,0 +1,51 @@
+{
+  "state": "NY",
+  "county": "Ulster County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.ulstercountyny.gov/wp-content/uploads/2026/09/General-Election-11.3.2026-Ulster-County-signed-certification.pdf",
+    "https://elections.ulstercountyny.gov/wp-content/uploads/2026/09/CKG-Ward-1.pdf",
+    "https://elections.ulstercountyny.gov/sample-ballots-2/"
+  ],
+  "note": "From the Ulster County Board of Elections' signed certification of 2026 General Election ballot contests (September 10, 2026) and its City of Kingston sample ballots. New York uses fusion voting: each candidate is listed once under their main party. Juan Figueroa also appears on the Working Families line. Not shown because they depend on your district or town: Representative in Congress (18th and 19th Districts), State Senate, Member of Assembly, the 23 County Legislature districts, town and village offices, and town, village and library propositions. There is no countywide proposition. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 3rd Judicial District",
+      "seats": 2,
+      "candidates": [
+        { "key": "ny-ulster-2026-supreme-court-joyce-amy", "name": "Amy E Joyce", "party": "Democratic", "incumbent": false },
+        { "key": "ny-ulster-2026-supreme-court-sober-jennifer", "name": "Jennifer G Sober", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://elections.ulstercountyny.gov/wp-content/uploads/2026/09/CKG-Ward-1.pdf"
+    },
+    {
+      "office": "Ulster County Sheriff",
+      "candidates": [
+        { "key": "ny-ulster-2026-sheriff-figueroa-juan", "name": "Juan Figueroa", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://elections.ulstercountyny.gov/wp-content/uploads/2026/09/CKG-Ward-1.pdf"
+    },
+    {
+      "office": "Ulster County Surrogate Court Judge",
+      "candidates": [
+        { "key": "ny-ulster-2026-surrogate-court-nolfo-judy", "name": "Judy Nolfo", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://elections.ulstercountyny.gov/wp-content/uploads/2026/09/CKG-Ward-1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Kingston": {
+      "contests": [
+        {
+          "office": "City of Kingston Court Judge",
+          "candidates": [
+            { "key": "ny-ulster-2026-kingston-city-court-kirschner-philip", "name": "Philip Kirschner", "party": "Democratic", "incumbent": false }
+          ],
+          "source": "https://elections.ulstercountyny.gov/wp-content/uploads/2026/09/CKG-Ward-1.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

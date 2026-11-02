@@ -1,0 +1,38 @@
+{
+  "state": "DE",
+  "county": "Kent County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
+    "https://elections.delaware.gov/candidates/candidatelist/genl_wcddt_2026.html",
+    "https://elections.delaware.gov/elections/general/sampleballots/GE2026/31-01.html"
+  ],
+  "note": "From the Delaware Department of Elections' 2026 General Election filed-candidate list (updated October 30, 2026) and its sample ballot for Representative District 31, Election District 1. Kent County Levy Court seats elected by district (Districts 2, 4 and 6 are on the 2026 ballot) are not shown here; check your sample ballot for your district. There are no countywide questions. The only declared write-in candidate for a Kent County office (Levy Court At-Large) withdrew on October 6, 2026. City of Dover and other town offices are not on the November ballot. Incumbent flags are not set because the Kent County government website blocked automated access, so no official roster was checked.",
+  "contests": [
+    {
+      "office": "Kent County Levy Court At-Large",
+      "candidates": [
+        { "key": "de-kent-2026-levy-court-at-large-pepper-terry", "name": "Terry L. Pepper", "party": "Democratic", "incumbent": false },
+        { "key": "de-kent-2026-levy-court-at-large-coleman-frank", "name": "Frank E. Coleman", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    },
+    {
+      "office": "Kent County Recorder of Deeds",
+      "candidates": [
+        { "key": "de-kent-2026-recorder-of-deeds-bracy-ramona", "name": "Ramona Bracy", "party": "Democratic", "incumbent": false },
+        { "key": "de-kent-2026-recorder-of-deeds-thornton-eugenia", "name": "Eugenia Thornton", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    },
+    {
+      "office": "Kent County Sheriff",
+      "candidates": [
+        { "key": "de-kent-2026-sheriff-barlow-norman", "name": "Norman R. Barlow", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

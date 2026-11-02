@@ -1,0 +1,39 @@
+{
+  "state": "NY",
+  "county": "Broome County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.broomevotes.com/_files/ugd/be9a23_1289c9ca6ac143fe92ebbc505c8667c7.pdf",
+    "https://www.broomevotes.com/_files/ugd/be9a23_eb54ab11bc1a4ea18b2b4c3224b56e30.pdf",
+    "https://www.broomevotes.com/sampleballots",
+    "https://www.broomevotes.com/candidates"
+  ],
+  "note": "From the Broome County Board of Elections' 2026 General Election candidate list and its sample ballots (City of Binghamton Election Districts 1-8 shown). No State Supreme Court contest appears on any of the Board's 19 posted sample ballots, including those for Binghamton city and the towns. New York uses fusion voting: each candidate is listed once under their main party. Matt Ryan, Lisa D. Smith and Michael Garzo Jr. also appear on the Working Families line; Fred Akshar and Peter DeLucia also appear on the Conservative line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, County Legislator Districts 1-15, and town and village offices. The Board's candidate list has no City of Binghamton office and no countywide or city proposition. Incumbent flags are not set because no official roster could be read. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Broome County Sheriff",
+      "candidates": [
+        { "key": "ny-broome-2026-sheriff-ryan-matt", "name": "Matt Ryan", "party": "Democratic", "incumbent": false },
+        { "key": "ny-broome-2026-sheriff-akshar-fred", "name": "Fred Akshar", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.broomevotes.com/_files/ugd/be9a23_1289c9ca6ac143fe92ebbc505c8667c7.pdf"
+    },
+    {
+      "office": "Broome County Surrogate Judge",
+      "candidates": [
+        { "key": "ny-broome-2026-surrogate-court-smith-lisa", "name": "Lisa D. Smith", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.broomevotes.com/_files/ugd/be9a23_1289c9ca6ac143fe92ebbc505c8667c7.pdf"
+    },
+    {
+      "office": "Broome County Court Judge",
+      "candidates": [
+        { "key": "ny-broome-2026-county-court-garzo-michael", "name": "Michael Garzo Jr.", "party": "Democratic", "incumbent": false },
+        { "key": "ny-broome-2026-county-court-delucia-peter", "name": "Peter DeLucia", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.broomevotes.com/_files/ugd/be9a23_eb54ab11bc1a4ea18b2b4c3224b56e30.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
