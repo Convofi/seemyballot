@@ -1,0 +1,236 @@
+{
+  "state": "NC",
+  "county": "Johnston County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.johnstonnc.gov/joconcelections/content.cfm?pageid=220",
+    "https://www.johnstonnc.gov/content.cfm?id=10",
+    "https://jcso.org/",
+    "https://www.johnstonnc.gov/rod/"
+  ],
+  "note": "Johnston County's three official 2026 sample ballot styles (covering every precinct) all carry Board of Commissioners Districts 3, 5 and 7 and Board of Education Districts 1, 2 and 5, so every county voter votes on those seats (candidates must live in the district). Not shown: town races and state legislative and U.S. House districts; check your official sample ballot for those. Smithfield and Clayton town offices are not on the 2026 ballot, and the only referendums in Johnston County are the three statewide constitutional amendments. Incumbent flags are set only where an official county or sheriff's office page confirms the officeholder (Commissioners Harris and Lawter, Sheriff Bizzell, Register of Deeds Olive); others are marked false.",
+  "contests": [
+    {
+      "office": "Johnston County Board of Commissioners District 3",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-commissioner-district-03-caldwell-adam",
+          "name": "Adam Caldwell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Board of Commissioners District 5",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-commissioner-district-05-harris-patrick",
+          "name": "Patrick Harris",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Board of Commissioners District 7",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-commissioner-district-07-lawter-robert",
+          "name": "R.S. (Butch) Lawter, Jr.",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-sheriff-bizzell-roger",
+          "name": "Steve Bizzell",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-clerk-superior-court-ball-michelle",
+          "name": "Michelle Creech Ball",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-register-of-deeds-olive-ivan",
+          "name": "Craig Olive",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 13",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-district-attorney-waller-jason",
+          "name": "Jason Waller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 12, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-district-court-seat-01-jones-joy",
+          "name": "Joy A. Jones",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 12, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-district-court-seat-02-wheeler-travis",
+          "name": "Travis N. Wheeler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 12, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-district-court-seat-03-kimble-jason",
+          "name": "Jason P. Kimble",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Board of Education District 1",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-board-of-education-district-01-antoine-michelle",
+          "name": "Michelle Antoine",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Board of Education District 2",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-board-of-education-district-02-tippett-terry",
+          "name": "Terry Tippett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston County Board of Education District 5",
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-board-of-education-district-05-donovan-kevin",
+          "name": "Kevin Donovan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Johnston Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-johnston-2026-soil-water-floyd-travis",
+          "name": "Travis Allen Floyd",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-chamblee-gracie",
+          "name": "Gracie Chamblee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-barefoot-brad",
+          "name": "Brad A. Barefoot",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-austin-joe",
+          "name": "Joe David Austin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-smith-gregory",
+          "name": "Luke Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-marsh-caitlin",
+          "name": "Caitlin Marsh",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-livingston-christine",
+          "name": "Christine A. Livingston",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-langdon-john",
+          "name": "John Michael Langdon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-johnston-2026-soil-water-hardee-delmon",
+          "name": "Dewitt Hardee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

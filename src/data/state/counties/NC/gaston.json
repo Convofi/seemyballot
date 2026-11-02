@@ -1,0 +1,254 @@
+{
+  "state": "NC",
+  "county": "Gaston County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.gastongov.com/1405/2026-Elections",
+    "https://www.gastongov.com/DocumentCenter/View/9698",
+    "https://www.gastongov.com/DocumentCenter/View/9694",
+    "https://www.gastongov.com/DocumentCenter/View/8443"
+  ],
+  "note": "Gaston County commissioner and Board of Education township seats are on every county voter's ballot (candidates must live in the township); the county's official 2026 sample ballot key shows ballot styles differ only by NC Senate and NC House district. Not shown: state legislative and U.S. House districts; check your official sample ballot for those. Gastonia city offices are not on the 2026 ballot, and the only referendums in Gaston County are the three statewide constitutional amendments. Incumbent flags come from the Gaston County Board of Elections 'Offices on the Ballot 2026' list of current officeholders; the current Clerk of Superior Court (Roxann Rankin) and Gastonia Township school board member (Lee Dedmon) are not on the general election ballot.",
+  "contests": [
+    {
+      "office": "Gaston County Board of Commissioners, Dallas Township",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-commissioner-dallas-twp-cloninger-cathy",
+          "name": "Cathy Cloninger",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-gaston-2026-commissioner-dallas-twp-buchanan-matthew",
+          "name": "Matt Buchanan",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Board of Commissioners, Gastonia Township",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-commissioner-gastonia-twp-moreno-jessica",
+          "name": "Jessica Maria Moreno",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-gaston-2026-commissioner-gastonia-twp-keigher-thomas",
+          "name": "Tom Keigher",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Board of Commissioners, Riverbend Township",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-commissioner-riverbend-twp-brown-chad",
+          "name": "Chad Brown",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-sheriff-hawkins-chad",
+          "name": "Chad E. Hawkins",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-clerk-superior-court-brown-thomas",
+          "name": "Thomas Brown",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 38",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-district-attorney-page-travis",
+          "name": "Travis Page",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 38, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-superior-court-seat-01-phillips-david",
+          "name": "David A. Phillips",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 38, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-district-court-seat-01-harrison-cameron",
+          "name": "Cameron (Chip) Harrison",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 38, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-district-court-seat-02-anthony-william",
+          "name": "William (Gus) Anthony",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Board of Education At-Large",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-board-of-education-at-large-eskridge-brenda",
+          "name": "Brenda Eskridge",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-gaston-2026-board-of-education-at-large-cherry-dorothy",
+          "name": "Dot Cherry",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Board of Education, Dallas Township",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-board-of-education-dallas-twp-crisp-joshua",
+          "name": "Josh Crisp",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-gaston-2026-board-of-education-dallas-twp-gunnings-johnson-debra",
+          "name": "Debra Gunnings-Johnson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Board of Education, Gastonia Township",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-board-of-education-gastonia-twp-adams-che-z",
+          "name": "Che'z (Shea) Adams",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-gaston-2026-board-of-education-gastonia-twp-taylor-timothy",
+          "name": "Tim Taylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Board of Education, Riverbend Township",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-board-of-education-riverbend-twp-walls-barbara",
+          "name": "Barbara Walls",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-gaston-2026-board-of-education-riverbend-twp-stephens-albert",
+          "name": "A.M. Stephens III",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston County Board of Education, South Point Township",
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-board-of-education-south-point-twp-chee-david",
+          "name": "David Gain-Tang Chee",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-gaston-2026-board-of-education-south-point-twp-kinlaw-michael",
+          "name": "Tod Kinlaw",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Gaston Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-gaston-2026-soil-water-brandon-daniel",
+          "name": "Dan Brandon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nc-gaston-2026-soil-water-watts-colby",
+          "name": "Colby Watts",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-gaston-2026-soil-water-ward-william",
+          "name": "Bill Ward",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

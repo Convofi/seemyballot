@@ -1,0 +1,185 @@
+{
+  "state": "NC",
+  "county": "Cabarrus County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.cabarruscounty.us/Community-and-Public-Safety/Sheriffs-Office"
+  ],
+  "note": "Not shown: Cabarrus County Schools Board of Education (only voters in the Cabarrus County Schools district, not the Kannapolis City Schools area, vote on it), Kannapolis City Schools Board of Education Area I, the City of Kannapolis Parks and Recreation Bonds referendum (Kannapolis voters only), City of Locust mayor and council, and state legislative and U.S. House districts. Check your official sample ballot for those. Concord city offices are not on the 2026 ballot and there is no City of Concord referendum. Incumbent flags are set only where an official county page confirms the officeholder (Sheriff Shaw); others are marked false because we could not reach an official roster for the other offices.",
+  "contests": [
+    {
+      "office": "Cabarrus County Board of Commissioners",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-commissioner-bailey-james",
+          "name": "James N. Bailey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cabarrus-2026-commissioner-swayze-kristel",
+          "name": "Kristel Swayze",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cabarrus-2026-commissioner-patrick-ian",
+          "name": "Ian Patrick",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cabarrus-2026-commissioner-redding-daniel",
+          "name": "Dan Redding",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cabarrus-2026-commissioner-nurse-ingrid",
+          "name": "Ingrid Nurse",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cabarrus-2026-commissioner-hill-thomas",
+          "name": "Thomas Hill",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cabarrus-2026-commissioner-henry-phillip",
+          "name": "Phil Henry",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cabarrus County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-sheriff-shaw-van",
+          "name": "Van Shaw",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cabarrus County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-clerk-superior-court-baggs-william",
+          "name": "Bill Baggs",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 25",
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-district-attorney-shanley-ashlie",
+          "name": "Ashlie Shanley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 25, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-district-court-seat-01-wilhelm-christy",
+          "name": "Christy E. Wilhelm",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 25, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-district-court-seat-02-street-sarah",
+          "name": "Beth Street",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 25, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-district-court-seat-03-herrick-kimberly",
+          "name": "Kimberly Herrick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 25, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-district-court-seat-04-cloninger-david",
+          "name": "Brent Cloninger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cabarrus Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-cabarrus-2026-soil-water-porter-victoria",
+          "name": "Victoria P. Porter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cabarrus-2026-soil-water-goforth-jeff",
+          "name": "Jeff Goforth",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Cabarrus County School Bonds Referendum",
+      "title": "Cabarrus County School Bonds",
+      "summary": "Asks whether Cabarrus County may issue up to $340,000,000 in school bonds, under an order adopted July 21, 2026, to build, renovate, expand, improve and equip school buildings and other school facilities. The official ballot statement estimates the total cost over the life of the bonds at $530,780,800 ($340,000,000 principal plus $190,780,800 interest) and the property tax increase needed to repay them at $42.50 per year per $100,000 of property value. If approved, the county will levy additional property taxes sufficient to pay the principal and interest.",
+      "yesMeans": "Cabarrus County may issue up to $340,000,000 in school bonds and levy property taxes sufficient to repay them.",
+      "noMeans": "Cabarrus County may not issue these $340,000,000 in school bonds.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    },
+    {
+      "id": "Cabarrus County Community College Bonds Referendum",
+      "title": "Cabarrus County Community College Bonds",
+      "summary": "Asks whether Cabarrus County may issue up to $60,000,000 in community college bonds, under an order adopted July 21, 2026, to build, renovate, expand, improve and equip community college facilities in the county for Rowan-Cabarrus Community College. The official ballot statement estimates the total cost over the life of the bonds at $93,667,200 ($60,000,000 principal plus $33,667,200 interest) and the property tax increase needed to repay them at $7.50 per year per $100,000 of property value. If approved, the county will levy additional property taxes sufficient to pay the principal and interest.",
+      "yesMeans": "Cabarrus County may issue up to $60,000,000 in community college bonds and levy property taxes sufficient to repay them.",
+      "noMeans": "Cabarrus County may not issue these $60,000,000 in community college bonds.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {}
+}

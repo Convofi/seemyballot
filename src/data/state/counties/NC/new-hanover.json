@@ -1,0 +1,256 @@
+{
+  "state": "NC",
+  "county": "New Hanover County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.nhcgov.com/1095/County-Commissioners-Clerk"
+  ],
+  "note": "Not shown: NC Superior Court Judge District 6B, Seat 1 (G.S. 7A-41 makes District 6B only part of New Hanover County), and state legislative and U.S. House districts. Check your official sample ballot for those. Wilmington city offices are not on the 2026 ballot and there is no City of Wilmington referendum. Incumbent flags are set only where the county's own website confirms the officeholder (Commissioners Pierce and Zapple); others are marked false because we could not reach an official roster.",
+  "contests": [
+    {
+      "office": "New Hanover County Board of Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-commissioner-zapple-robert",
+          "name": "Rob Zapple",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nc-new-hanover-2026-commissioner-wallace-leshonda",
+          "name": "LeShonda Wallace",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-commissioner-drach-robert",
+          "name": "Bob Drach",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-commissioner-collier-richard",
+          "name": "Richard M. Collier",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-commissioner-pierce-amy",
+          "name": "LeAnn Pierce",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "New Hanover County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-sheriff-mcmahon-edward",
+          "name": "Ed McMahon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "New Hanover County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-clerk-superior-court-thomason-jennings",
+          "name": "Jennie Thomason",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-clerk-superior-court-kennedy-jan",
+          "name": "Jan Giacalone Kennedy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 6",
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-district-attorney-smith-jason",
+          "name": "Jason W. Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 6, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-district-court-seat-01-mckee-lindsey",
+          "name": "Lindsey L. McKee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 6, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-district-court-seat-02-fryar-kurt",
+          "name": "Kurt B. Fryar",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-district-court-seat-02-faison-james",
+          "name": "James H. Faison III",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 6, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-district-court-seat-03-crouch-melinda",
+          "name": "Melinda H. Crouch",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-district-court-seat-03-cline-janelle",
+          "name": "Janelle L. Cline",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 6, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-district-court-seat-04-corpening-katherine",
+          "name": "Katherine Corpening",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-district-court-seat-04-hogston-chad",
+          "name": "Chad Hogston",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "New Hanover County Board of Education",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-board-of-education-dale-wendy",
+          "name": "Wendy Dale",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-board-of-education-larue-brittnei",
+          "name": "Brittnei LaRue",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-board-of-education-jones-jerry",
+          "name": "Jerry Jones, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-board-of-education-gewirtzman-margaret",
+          "name": "Margie Gewirtzman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-board-of-education-dunning-amy",
+          "name": "Amy Dunning",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-board-of-education-bradford-patricia",
+          "name": "Pat Bradford",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-board-of-education-barnhart-josephine",
+          "name": "Josie Barnhart",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-board-of-education-sutton-christopher",
+          "name": "Chris Sutton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "New Hanover Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-new-hanover-2026-soil-water-corniffe-darren",
+          "name": "deAndre Corniffe",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-soil-water-calson-catherine",
+          "name": "Cate Calson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-soil-water-meares-frank",
+          "name": "Frank Christopher Meares",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-new-hanover-2026-soil-water-mcconnell-kelly",
+          "name": "Kelly McConnell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "New Hanover County School Bonds Referendum",
+      "title": "New Hanover County School Bonds",
+      "summary": "Asks whether New Hanover County may issue up to $320,525,000 in bonds to build, improve and renovate school facilities, including classrooms, furnishings and equipment, land and rights-of-way, and related public infrastructure. The official ballot statement estimates the total cost over the life of the bonds at $500,377,988 ($320,525,000 principal plus $179,852,988 interest) and the property tax increase needed to repay them at $5.00 per year per $100,000 of property value, a figure that includes anticipated grants from the New Hanover Community Endowment of $11,600,000 per year for ten years beginning in February 2028. If approved, the county may levy additional property taxes sufficient to pay the principal and interest.",
+      "yesMeans": "New Hanover County may issue up to $320,525,000 in school bonds and levy property taxes sufficient to repay them.",
+      "noMeans": "New Hanover County may not issue these $320,525,000 in school bonds.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {}
+}
