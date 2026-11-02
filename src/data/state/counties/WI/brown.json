@@ -1,0 +1,40 @@
+{
+  "state": "WI",
+  "county": "Brown County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.browncountywi.gov/i/f/files/County-Clerk/Elections/Sample%20Ballots/2026/20261103%20Sample.pdf",
+    "https://www.browncountywi.gov/departments/county-clerk/elections/sample-ballots/",
+    "https://www.browncountywi.gov/government/sheriffs-office/",
+    "https://www.browncountywi.gov/departments/clerk-of-circuit-court/"
+  ],
+  "note": "Brown County Executive, County Board and City of Green Bay offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The Brown County Clerk's sample ballots show no countywide or City of Green Bay referendum. School district referenda (including Green Bay Area Public School District) depend on your school district and are not shown here. Voters in the parts of Howard, Pulaski and Wrightstown that lie outside Brown County get that other county's offices instead. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Brown County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-brown-2026-sheriff-delain-todd",
+          "name": "Todd J. Delain",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.browncountywi.gov/i/f/files/County-Clerk/Elections/Sample%20Ballots/2026/20261103%20Sample.pdf"
+    },
+    {
+      "office": "Brown County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-brown-2026-clerkcircuit-vanderleest-john",
+          "name": "John A. Vander Leest",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.browncountywi.gov/i/f/files/County-Clerk/Elections/Sample%20Ballots/2026/20261103%20Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

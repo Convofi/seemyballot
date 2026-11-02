@@ -1,0 +1,117 @@
+{
+  "state": "IA",
+  "county": "Linn County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://gis.linncountyiowa.gov/web-data/elections/year/2026/20261103GE/candidates.pdf"
+  ],
+  "note": "Taken from the Linn County Election Services candidate listing (dated Oct. 7, 2026). Not shown: Board of Supervisors Districts 1 and 2 and township offices, which depend on a district the address lookup cannot resolve. Also not shown: the District 6 judicial retention questions and any county, city or school public measures, because the county's sample ballots could not be reached to confirm them. Cedar Rapids elects its city offices in odd-numbered years, so none are on this ballot. Check your official sample ballot for judges and public measures.",
+  "contests": [
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-linn-2026-treasurer-oleson-brent",
+          "name": "Brent C. Oleson",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ia-linn-2026-treasurer-talley-paul",
+          "name": "Paul Talley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gis.linncountyiowa.gov/web-data/elections/year/2026/20261103GE/candidates.pdf"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "ia-linn-2026-recorder-siebrecht-carolyn",
+          "name": "Carolyn Siebrecht",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://gis.linncountyiowa.gov/web-data/elections/year/2026/20261103GE/candidates.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-linn-2026-attorney-maybanks-nicholas",
+          "name": "Nicholas G. Maybanks",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://gis.linncountyiowa.gov/web-data/elections/year/2026/20261103GE/candidates.pdf"
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "seats": 5,
+      "candidates": [
+        {
+          "key": "ia-linn-2026-ag-extension-bowen-kim",
+          "name": "Kim Bowen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-linn-2026-ag-extension-bruns-kevin",
+          "name": "Kevin Bruns",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-linn-2026-ag-extension-dunn-jennifer",
+          "name": "Jennifer Dunn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ia-linn-2026-ag-extension-horning-jalea",
+          "name": "JaLea Horning",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-linn-2026-ag-extension-rice-kassandra",
+          "name": "Kassandra Rice",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gis.linncountyiowa.gov/web-data/elections/year/2026/20261103GE/candidates.pdf"
+    },
+    {
+      "office": "Soil and Water Commissioner",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ia-linn-2026-soil-water-oconnell-joshua",
+          "name": "Joshua O'Connell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-linn-2026-soil-water-renshaw-emmaly",
+          "name": "Emmaly Renshaw",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-linn-2026-soil-water-stokes-sean",
+          "name": "Sean Stokes",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://gis.linncountyiowa.gov/web-data/elections/year/2026/20261103GE/candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
