@@ -1,0 +1,59 @@
+{
+  "state": "NJ",
+  "county": "Gloucester County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.gloucestercountynj.gov/DocumentCenter/View/19422",
+    "https://www.gloucestercountynj.gov/457/Sample-Ballots",
+    "https://www.gloucestercountynj.gov/DocumentCenter/View/19921/Woodbury-City-Ward-1-District-1",
+    "https://www.gloucestercountynj.gov/164/Commissioners"
+  ],
+  "note": "There are no countywide public questions in Gloucester County this year. City, borough and township races (including Woodbury mayor and council), Board of Education seats, and municipal or school questions vary by town and are not shown here. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "County Commissioner",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nj-gloucester-2026-commissioner-jefferson-jim",
+          "name": "Jim Jefferson",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-gloucester-2026-commissioner-weng-matt",
+          "name": "Matt Weng",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-gloucester-2026-commissioner-gattinelli-joann",
+          "name": "Joann Gattinelli",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-gloucester-2026-commissioner-falcone-katherine",
+          "name": "Katherine Falcone",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-gloucester-2026-commissioner-mccormick-barbara",
+          "name": "Barbara McCormick",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-gloucester-2026-commissioner-cartier-martino",
+          "name": "Martino Cartier",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.gloucestercountynj.gov/DocumentCenter/View/19422"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

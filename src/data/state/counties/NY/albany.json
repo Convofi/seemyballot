@@ -1,0 +1,104 @@
+{
+  "state": "NY",
+  "county": "Albany County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.albanycountyny.gov/asset/cd5f13cf-73f6-4151-bf22-82fa793f04e1",
+    "https://www.albanycountyny.gov/sample-ballots",
+    "https://content.civicplus.com/api/assets/ny-albanycounty/107a4965-700f-4ced-b6f7-47f44aacf2d6",
+    "https://content.civicplus.com/api/assets/ny-albanycounty/7ff68476-8a43-4997-aa3f-2f076a3c24be",
+    "https://content.civicplus.com/api/assets/ny-albanycounty/ca8eed4f-b998-45e3-bd16-f2e73a79e0f2"
+  ],
+  "note": "Candidates come from the Albany County Board of Elections' official list of nominated candidates and sample ballots for November 3, 2026. Every countywide and City of Albany candidate this year is a Democrat running without a Working Families or other second line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, County Legislature districts, and town and village offices. Incumbent status is not marked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 3rd Judicial District",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ny-albany-2026-supreme-court-joyce-amy",
+          "name": "Amy E. Joyce",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-albany-2026-supreme-court-sober-jennifer",
+          "name": "Jennifer G. Sober",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/ny-albanycounty/107a4965-700f-4ced-b6f7-47f44aacf2d6"
+    },
+    {
+      "office": "Albany County Court Judge",
+      "candidates": [
+        {
+          "key": "ny-albany-2026-county-court-sodhi-tina",
+          "name": "Tina K. Sodhi",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/ny-albanycounty/107a4965-700f-4ced-b6f7-47f44aacf2d6"
+    },
+    {
+      "office": "Albany County Coroner (to fill a vacancy)",
+      "candidates": [
+        {
+          "key": "ny-albany-2026-coroner-pratt-thomas",
+          "name": "Thomas J. Pratt",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/ny-albanycounty/107a4965-700f-4ced-b6f7-47f44aacf2d6"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposal One",
+      "title": "Replacing Coroners with Medical Examiners",
+      "summary": "Amends the Albany County Charter to repeal the elected office of County Coroner and replace it with an appointed Office of Medical Examiner within the County Department of Health. A Chief Medical Examiner, who must be a licensed physician with forensic pathology expertise, would be appointed by the County Executive for six years, subject to confirmation by the County Legislature.",
+      "yesMeans": "The elected office of Coroner is repealed and replaced with the appointed office of Medical Examiner.",
+      "noMeans": "The elected office of Coroner stays in place.",
+      "source": "https://content.civicplus.com/api/assets/ny-albanycounty/7ff68476-8a43-4997-aa3f-2f076a3c24be",
+      "moreInfo": "https://www.albanycountyny.gov/sample-ballots"
+    },
+    {
+      "id": "Proposal Two",
+      "title": "Establishing Additional Qualifications for County Legislators",
+      "summary": "Amends the Albany County Charter to set grounds on which a County Legislator may be found unqualified to hold office, such as ceasing to live in the county or district, a felony conviction while in office, or knowingly filing a materially false financial statement. It also lets the County Legislature investigate and discipline its members for misconduct, up to and including expulsion.",
+      "yesMeans": "The additional qualifications and discipline procedures for County Legislators are added to the County Charter.",
+      "noMeans": "The County Charter is left unchanged.",
+      "source": "https://content.civicplus.com/api/assets/ny-albanycounty/ca8eed4f-b998-45e3-bd16-f2e73a79e0f2",
+      "moreInfo": "https://www.albanycountyny.gov/sample-ballots"
+    }
+  ],
+  "municipalities": {
+    "Albany": {
+      "contests": [
+        {
+          "office": "Albany City Court Judge",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "ny-albany-2026-albany-city-court-farrell-joshua",
+              "name": "Joshua L. Farrell",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "ny-albany-2026-albany-city-court-haas-kurt",
+              "name": "Kurt W. Haas",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://content.civicplus.com/api/assets/ny-albanycounty/107a4965-700f-4ced-b6f7-47f44aacf2d6"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
