@@ -1,0 +1,203 @@
+{
+  "state": "MO",
+  "county": "Greene County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf",
+    "https://vote.greenecountymo.gov/voting-information/",
+    "https://greenecountymo.gov/"
+  ],
+  "note": "From the Greene County Clerk's official November 3, 2026 Candidates and Ballot Issues composite. Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: U.S. House, state Senate and House districts. Check your official sample ballot. Incumbent flags come from the county's elected-officials list; Jason B. Johnson is listed there as interim sheriff.",
+  "contests": [
+    {
+      "office": "Presiding Commissioner of the County Commission",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-presiding-commissioner-dixon-bob",
+          "name": "Bob Dixon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Circuit Clerk",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-circuit-clerk-feemster-bryan",
+          "name": "Bryan Feemster",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-county-clerk-schoeller-shane",
+          "name": "Shane Schoeller",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-recorder-dawson-spaulding-cheryl",
+          "name": "Cheryl Dawson-Spaulding",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-prosecutor-patterson-dan",
+          "name": "Dan Patterson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-collector-icet-allen",
+          "name": "Allen Icet",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-auditor-stein-cindy",
+          "name": "Cindy S. Stein",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "mo-greene-2026-auditor-crawford-angela",
+          "name": "Angela Crawford",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Sheriff (two-year term)",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-sheriff-johnson-jason",
+          "name": "Jason B. Johnson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Southern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-retain-appeals-sd-hamner-matthew",
+          "name": "Matthew P. Hamner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Circuit Judge, 31st Judicial Circuit, Division 7 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-retain-cir31-div7-taylor-nathan",
+          "name": "Nathan Taylor",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 31st Judicial Circuit, Division 21 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-retain-cir31-div21-fuhrman-philip",
+          "name": "Philip M. Fuhrman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 31st Judicial Circuit, Division 22 (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-greene-2026-retain-cir31-div22-palmietto-margaret",
+          "name": "Margaret Palmietto",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Springfield": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question 1",
+          "title": "City manager and department director delegation of authority",
+          "summary": "Would amend Sections 3.1, 3.3(1), 3.4, 4.2 and 6.5 of the Springfield City Charter (General Ordinance No. 28331). The city manager could delegate charter-assigned duties to assistant city managers and delegate the power to appoint and remove employees to assistant city managers and department directors; department directors could delegate their charter-assigned duties to subordinates.",
+          "yesMeans": "The charter would expressly allow these delegations of authority.",
+          "noMeans": "The charter is not amended on these points.",
+          "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+        },
+        {
+          "id": "Question 2",
+          "title": "Merit rule adoption process",
+          "summary": "Would amend Sections 4.1, 6.2, 6.4, 6.6, 6.7 and 19.7 of the Springfield City Charter (General Ordinance No. 28331). The current three-step process for adopting merit rules would become a two-step process that removes the personnel board, and the human resources director, instead of the personnel board, would approve application forms.",
+          "yesMeans": "Merit rules would be adopted through a two-step process without the personnel board, and the HR director would approve application forms.",
+          "noMeans": "The three-step process and the personnel board's role stay as they are.",
+          "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+        },
+        {
+          "id": "Question 3",
+          "title": "Purchasing by ordinance",
+          "summary": "Would amend Sections 3.3(9), 5.3, 5.4, 10.4, 15.8 and 19.19 of the Springfield City Charter (General Ordinance No. 28331). The city council could fully establish purchasing by ordinance, including structure, thresholds and types; the city manager would be the default signatory for purchasing; and the existing competitive bidding requirement would apply to additional purchasing methods.",
+          "yesMeans": "The council would set purchasing rules by ordinance, the city manager would be the default signatory, and competitive bidding would cover more purchasing methods.",
+          "noMeans": "The charter's purchasing provisions are not amended.",
+          "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+        },
+        {
+          "id": "Question 4",
+          "title": "Gender-neutral language",
+          "summary": "Would amend the Springfield City Charter generally to replace gendered pronouns and references with gender-neutral equivalents (General Ordinance No. 28331).",
+          "yesMeans": "Gendered pronouns and references in the charter would be replaced with gender-neutral wording.",
+          "noMeans": "The charter's current wording stays.",
+          "source": "https://vote.greenecountymo.gov/wp-content/uploads/2026/09/Candidates_and_Ballot_Issues_Composite_November_2026.pdf"
+        }
+      ]
+    }
+  }
+}
