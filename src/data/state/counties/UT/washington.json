@@ -1,0 +1,164 @@
+{
+  "state": "UT",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf",
+    "https://www.washco.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-of-County-Candidates-Notice.pdf",
+    "https://www.washco.utah.gov/departments/commission/"
+  ],
+  "note": "From the Washington County Clerk/Auditor's publication sample ballot, which lists every race in the county, and the Clerk's certification of county candidates and ballot propositions. Kristin N Isham is the Constitution Party candidate and is shown as Other. Gil Almquist is marked as incumbent because the County Commission page lists him as a sitting commissioner; other incumbent flags are not set because we found no official roster. Not shown because they depend on where you live: Washington County School District board Districts 4-7, the Santa Clara Justice Court retention (K. Jake Graff), and Proposition 4 (Virgin Town resort communities sales tax). No juvenile court retention and no countywide proposition is on this ballot. The City of St. George has no office or measure on this ballot. Santa Clara (Proposition 3) and Washington City (Proposition 5) measures are shown for those cities. Supreme Court and Court of Appeals retention questions and Constitutional Amendments A and B appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commission Seat A",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-commission-a-almquist-gil",
+          "name": "Gil Almquist",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ut-washington-2026-commission-a-koske-gail",
+          "name": "Gail Koske",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    },
+    {
+      "office": "County Commission Seat B",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-commission-b-belliston-troy",
+          "name": "Troy G Belliston",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-washington-2026-commission-b-anderson-sarah",
+          "name": "Sarah N. Anderson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ut-washington-2026-commission-b-isham-kristin",
+          "name": "Kristin N Isham",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-attorney-jaeger-jerry",
+          "name": "Jerry D. Jaeger",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-washington-2026-attorney-flint-edward",
+          "name": "Edward Flint",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    },
+    {
+      "office": "County Clerk/Auditor",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-clerk-auditor-sullivan-ryan",
+          "name": "Ryan Sullivan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-sheriff-heppler-johnny",
+          "name": "Johnny Heppler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Fifth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-dist5-winward-jay",
+          "name": "Jay Winward",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Fifth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-dist5-gentry-eric",
+          "name": "Eric Russell Gentry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Fifth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-washington-2026-dist5-bell-matthew",
+          "name": "Matthew L. Bell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Santa Clara": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 3",
+          "title": "Emergency Services Sales and Use Tax",
+          "summary": "Asks whether Santa Clara City may impose a local sales and use tax of up to 1.0% on taxable transactions in the city, as authorized by Utah Code 59-12-2402. The money would fund emergency services, including fire protection, ambulance and emergency medical services, and the personnel, equipment, facilities and operating costs for them.",
+          "yesMeans": "Santa Clara could impose a sales and use tax of up to 1.0% to fund emergency services.",
+          "noMeans": "Santa Clara would not be authorized to impose this emergency services sales tax.",
+          "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf",
+          "moreInfo": "https://www.washco.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-of-County-Candidates-Notice.pdf"
+        }
+      ]
+    },
+    "Washington": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 5",
+          "title": "Emergency Services Sales and Use Tax",
+          "summary": "Asks whether Washington City should impose an additional 0.67% Emergency Services Sales and Use Tax (1.0% total) on taxable sales in the city to fund emergency services such as fire protection, ambulance service and emergency medical response. The ballot states that if it passes, the City Council intends to cut the City portion of property taxes by 50%, subject to Truth-in-Taxation requirements.",
+          "yesMeans": "Washington City would add a 0.67% emergency services sales tax, for 1.0% in total.",
+          "noMeans": "Washington City would not add the emergency services sales tax.",
+          "source": "https://www.washco.utah.gov/wp-content/uploads/2026/09/26-General-SAMPLE-rvsd.pdf",
+          "moreInfo": "https://www.washco.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-of-County-Candidates-Notice.pdf"
+        }
+      ]
+    }
+  }
+}
