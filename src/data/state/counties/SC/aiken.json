@@ -1,0 +1,23 @@
+{
+  "state": "SC",
+  "county": "Aiken County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=777&searchType=Default"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Aiken County) and referendum listing for the November 3, 2026 Statewide General Election. No countywide county office (such as Solicitor, Probate Judge, Auditor or Treasurer) is in the listing for this election. Not shown: the Aiken Soil and Water District Commission race (Willie Lee Jones and William F Nichols; the number of seats could not be confirmed from an official source because the Aiken County website is behind a bot wall), County Council Districts 1, 2, 5 and 6, School Board Districts 2, 3, 5 and 7, the Bath, College Acres and Langley Water & Sewer commissions, and State House and U.S. House districts. City of Aiken contests and questions are not covered because municipal filings are not in the state listing. Check your official sample ballot for the full list.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Wastewater Treatment Facilities",
+      "title": "Aiken County wastewater treatment facilities authority",
+      "summary": "Aiken County was authorized to acquire, construct and operate wastewater treatment facilities in referendums held in 1976 and 2006. This question asks whether to modify that authority so the county may provide wastewater services both within and outside Aiken County and use funds from any source permitted by law for that purpose.",
+      "yesMeans": "Aiken County's wastewater authority would be modified to allow services within and outside the county, paid for with funds from any lawful source.",
+      "noMeans": "Aiken County's existing wastewater authority from the 1976 and 2006 referendums would stay as it is.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=777&searchType=Default"
+    }
+  ],
+  "municipalities": {}
+}

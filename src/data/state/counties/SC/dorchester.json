@@ -1,0 +1,23 @@
+{
+  "state": "SC",
+  "county": "Dorchester County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=753&searchType=Default"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Dorchester County) and referendum listing for the November 3, 2026 Statewide General Election. No countywide county office is in the listing for this election. Not shown: the Dorchester Soil and Water District Commission race (Perry B Chinners, Tommy Feagin and Molly Jones; the number of seats could not be confirmed from an official source because the Dorchester County website blocked access), County Council Districts 1, 2, 3 and 7, School Board seats for Dorchester School Districts Two and Four (Districts 22, 24, 26, 44 and 45), and State House districts. Town of Summerville items are not covered because municipal filings are not in the state listing. Check your official sample ballot for the full list.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Education Capital Improvements Sales and Use Tax",
+      "title": "Education Capital Improvements Sales and Use Tax Act Referendum for Dorchester County",
+      "summary": "Would impose a special one percent sales and use tax in Dorchester County for up to 15 years to pay for education capital projects, with 85% of revenue to Dorchester School District Two and 15% to Dorchester School District Four. Each district would use 10% of its share to reduce the debt service millage on its existing general obligation bonds and 90% for listed projects, including new and renovated schools, roofs, HVAC, buses, playgrounds and technology.",
+      "yesMeans": "A one percent sales and use tax would be imposed in Dorchester County for up to 15 years to fund the listed school projects and property tax relief for school debt.",
+      "noMeans": "The special one percent education capital sales and use tax would not be imposed.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=753&searchType=Default"
+    }
+  ],
+  "municipalities": {}
+}

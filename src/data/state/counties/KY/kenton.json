@@ -1,0 +1,286 @@
+{
+  "state": "KY",
+  "county": "Kenton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf",
+    "https://kentonkyclerk.gov/images-of-candidate-fillings/",
+    "https://kentonkyclerk.gov/wp-content/uploads/2026/09/Final-General-Publication-Ballot-14INCH.pdf",
+    "https://www.kentoncountyky.gov/Directory.aspx"
+  ],
+  "note": "Countywide items are those printed on every one of the 93 ballot styles the Kenton County Clerk published. The three County Commissioner seats (1st, 2nd and 3rd District) appear on every style, so the whole county votes on them. Not shown because they depend on your district: Magistrate and Constable districts, County, Erlanger-Elsmere, Beechwood, Ludlow, Walton-Verona and Covington Board of Education seats, other cities' mayor and council races, and state legislative districts. The City of Covington has no mayor race in 2026. Constitutional Amendment 1 is a statewide question. Incumbent flags follow Kenton County's official staff directory. District judge incumbency is not marked because no official roster was checked. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-pva-plummer-darlene",
+          "name": "Darlene M. Plummer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-judge-executive-knochelmann-kris",
+          "name": "Kris A. Knochelmann",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-county-attorney-tapke-stacy",
+          "name": "Stacy Tapke",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-county-clerk-summe-gabrielle",
+          "name": "Gabrielle Summe",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-sheriff-shelton-larry",
+          "name": "Larry Shelton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-kenton-2026-sheriff-collins-robert",
+          "name": "Robert \"Tom\" Collins",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-jailer-fields-marc",
+          "name": "Marc Fields",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "County Commissioner, 1st District",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-commissioner-d1-sewell-beth",
+          "name": "Beth Sewell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ky-kenton-2026-commissioner-d1-froelich-sarah",
+          "name": "Sarah Froelich",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "County Commissioner, 2nd District",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-commissioner-d2-niceley-jeff",
+          "name": "Jeff Niceley",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-kenton-2026-commissioner-d2-bach-benjamin",
+          "name": "Benjamin Bach",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "County Commissioner, 3rd District",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-commissioner-d3-kimmich-richard",
+          "name": "Richard \"Scott\" Kimmich",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ky-kenton-2026-commissioner-d3-baldridge-jordan",
+          "name": "Jordan T. Baldridge",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-coroner-constantino-amber",
+          "name": "Amber Constantino",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "Surveyor",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-surveyor-shumate-james",
+          "name": "James M. Shumate",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "District Judge, 16th Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-district-judge-div1-ruttle-ann",
+          "name": "Ann Ruttle",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "District Judge, 16th Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-district-judge-div2-easterling-kenneth",
+          "name": "Kenneth L. Easterling",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "District Judge, 16th Judicial District, 3rd Division",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-district-judge-div3-grothaus-douglas",
+          "name": "Douglas J. Grothaus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    },
+    {
+      "office": "Soil and Water Supervisors (Vote for up to Three)",
+      "candidates": [
+        {
+          "key": "ky-kenton-2026-soilwater-kriege-mitchell",
+          "name": "Mitchell Kriege",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-kenton-2026-soilwater-owen-larry",
+          "name": "Larry Owen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Covington": {
+      "contests": [
+        {
+          "office": "Covington City Council (Vote for up to Six)",
+          "candidates": [
+            {
+              "key": "ky-kenton-2026-covington-council-francis-dan",
+              "name": "Dan Francis",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-kenton-2026-covington-council-downing-tim",
+              "name": "Tim Downing",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-kenton-2026-covington-council-wells-bill",
+              "name": "Bill Wells",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-kenton-2026-covington-council-garriga-cari",
+              "name": "Cari McMurtry Garriga",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-kenton-2026-covington-council-fossett-jay",
+              "name": "Jay Fossett",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-kenton-2026-covington-council-acri-tim",
+              "name": "Tim Acri",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-kenton-2026-covington-council-hayden-steve",
+              "name": "Steve Hayden",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-kenton-2026-covington-council-toebbe-james",
+              "name": "James Toebbe",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://kentonkyclerk.gov/wp-content/uploads/2026/09/A101-COV-1-COV-COVGIND-SAMPLE-BALLOT.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
