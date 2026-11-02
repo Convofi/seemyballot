@@ -1,0 +1,61 @@
+{
+  "state": "IL",
+  "county": "LaSalle County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.lasallecountyil.gov/DocumentCenter/View/4565/Specimen-Ballot-PDF",
+    "https://www.lasallecountyil.gov/DocumentCenter/View/5994/Candidates-for-November-3-2026",
+    "https://lasallecountyil.gov/DocumentCenter/View/5344/Write-in-list-for-March-17-2026",
+    "https://www.lasallecountyil.gov/816/2026-General-Election-Information"
+  ],
+  "note": "From the LaSalle County Clerk's specimen ballot, candidate list and write-in list for the November 3, 2026 General Election. Not shown: County Board districts 3, 4 (unexpired 2-year term), 5, 8, 9, 10, 12, 14, 15, 16, 20, 21, 22, 23, 26 and 29 (one certified write-in, Carol Wiedmann, for District 3), Regional Superintendent of Schools (LaSalle voters are split among the LaSalle-Marshall-Putnam, DeKalb, DeWitt-Livingston-Logan-McLean and Mason-Tazewell-Woodford regional offices by school district), Congress and state legislature, and school district questions (Waltham CCSD 185 bonds, Sandwich CUSD 430 limiting rate). There is no countywide referendum. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "LaSalle County Clerk",
+      "candidates": [
+        { "key": "il-lasalle-2026-clerk-mitchell-charlie", "name": "Charlie E. Mitchell", "party": "Democratic", "incumbent": false },
+        { "key": "il-lasalle-2026-clerk-ebner-jennifer", "name": "Jennifer Ebner", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.lasallecountyil.gov/DocumentCenter/View/4565/Specimen-Ballot-PDF"
+    },
+    {
+      "office": "LaSalle County Treasurer",
+      "candidates": [
+        { "key": "il-lasalle-2026-treasurer-spelich-james", "name": "James L. Spelich", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.lasallecountyil.gov/DocumentCenter/View/5994/Candidates-for-November-3-2026"
+    },
+    {
+      "office": "LaSalle County Sheriff",
+      "candidates": [
+        { "key": "il-lasalle-2026-sheriff-diss-adam", "name": "Adam C. Diss", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.lasallecountyil.gov/DocumentCenter/View/4565/Specimen-Ballot-PDF"
+    },
+    {
+      "office": "Judge of the Illinois Appellate Court, 3rd District (vacancy of the Hon. Mary W. McDade)",
+      "candidates": [
+        { "key": "il-lasalle-2026-appellate-oconnell-margaret", "name": "Margaret \"Peggy\" O'Connell", "party": "Democratic", "incumbent": false },
+        { "key": "il-lasalle-2026-appellate-helland-jason", "name": "Jason A. Helland", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.lasallecountyil.gov/DocumentCenter/View/4565/Specimen-Ballot-PDF"
+    },
+    {
+      "office": "Judge of the Circuit Court, 13th Judicial Circuit (vacancy of the Hon. Cynthia M. Raccuglia)",
+      "candidates": [
+        { "key": "il-lasalle-2026-circuit-raccuglia-vacancy-olivero-melissa", "name": "Melissa Olivero", "party": "Democratic", "incumbent": false },
+        { "key": "il-lasalle-2026-circuit-raccuglia-vacancy-vescogni-michelle", "name": "Michelle A. Vescogni", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.lasallecountyil.gov/DocumentCenter/View/4565/Specimen-Ballot-PDF"
+    },
+    {
+      "office": "Judge of the Circuit Court, 13th Judicial Circuit — retain Judge Sheldon R. Sobol? (yes/no retention)",
+      "candidates": [
+        { "key": "il-lasalle-2026-retain-circuit-sobol-sheldon", "name": "Sheldon R. Sobol", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.lasallecountyil.gov/DocumentCenter/View/4565/Specimen-Ballot-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

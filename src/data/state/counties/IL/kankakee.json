@@ -1,0 +1,65 @@
+{
+  "state": "IL",
+  "county": "Kankakee County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf",
+    "https://www.kankakeecountyclerk.gov/"
+  ],
+  "note": "From the Kankakee County Clerk's master specimen ballot for the 2026 General Election. Not shown: County Board districts, Regional Superintendent of Schools (Kankakee voters are split among the Iroquois-Kankakee, Will and DeWitt-Livingston-Logan-McLean regional offices by school district), Congress and state legislature, and local questions (Central CUSD 4 board elections, Bourbonnais Public Library District tax rate, Greater Momence Fire Protection District, Bourbonnais Township road district abolition and other local propositions). There is no countywide referendum. The clerk has not posted a write-in list for this election. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Kankakee County Clerk",
+      "candidates": [
+        { "key": "il-kankakee-2026-clerk-hendrickson-dan", "name": "Dan Hendrickson", "party": "Republican", "incumbent": false },
+        { "key": "il-kankakee-2026-clerk-vaughn-brian", "name": "Brian D. Vaughn", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Kankakee County Treasurer",
+      "candidates": [
+        { "key": "il-kankakee-2026-treasurer-africano-nicholas", "name": "Nicholas Africano", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Kankakee County Sheriff",
+      "candidates": [
+        { "key": "il-kankakee-2026-sheriff-downey-michael", "name": "Michael D. Downey", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Illinois Appellate Court, 3rd District (vacancy of the Hon. Mary W. McDade)",
+      "candidates": [
+        { "key": "il-kankakee-2026-appellate-helland-jason", "name": "Jason A. Helland", "party": "Republican", "incumbent": false },
+        { "key": "il-kankakee-2026-appellate-oconnell-margaret", "name": "Margaret \"Peggy\" O'Connell", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 21st Judicial Circuit — retain Judge Michael Sabol? (yes/no retention)",
+      "candidates": [
+        { "key": "il-kankakee-2026-retain-circuit-sabol-michael", "name": "Michael Sabol", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 21st Judicial Circuit — retain Judge William S. Dickenson? (yes/no retention)",
+      "candidates": [
+        { "key": "il-kankakee-2026-retain-circuit-dickenson-william", "name": "William S. Dickenson", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 21st Judicial Circuit — retain Judge Lindsay Parkhurst? (yes/no retention)",
+      "candidates": [
+        { "key": "il-kankakee-2026-retain-circuit-parkhurst-lindsay", "name": "Lindsay Parkhurst", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.kankakeecountyclerk.gov/wp-content/uploads/Master-Specimen-Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

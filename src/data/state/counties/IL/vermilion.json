@@ -1,0 +1,79 @@
+{
+  "state": "IL",
+  "county": "Vermilion County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf",
+    "https://www.vercounty.org/wp-content/uploads/2025/11/2026-Candidate-Filings.pdf",
+    "https://www.vercounty.org/county-clerk/election-information/"
+  ],
+  "note": "From the Vermilion County Clerk's certified specimen ballot (2026 General Election insert) and candidate filing list. Voters inside the City of Danville are served by the Danville Election Commission; county offices and judges are the same on its ballot. Not shown: County Board districts 1-8, Board of Review districts 1-3, Regional Superintendent of Schools (Vermilion voters are split between the Vermilion County and Champaign-Ford regional offices by school district), Congress and state legislature, and the Village of Indianola trustee question. There is no countywide referendum. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Vermilion County Clerk",
+      "candidates": [
+        { "key": "il-vermilion-2026-clerk-heffern-robyn", "name": "Robyn Heffern", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Vermilion County Treasurer",
+      "candidates": [
+        { "key": "il-vermilion-2026-treasurer-duncan-darren", "name": "Darren Duncan", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Vermilion County Sheriff",
+      "candidates": [
+        { "key": "il-vermilion-2026-sheriff-sands-hugh", "name": "Hugh H. Sands", "party": "Democratic", "incumbent": false },
+        { "key": "il-vermilion-2026-sheriff-thompson-john", "name": "John W. Thompson", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Vermilion County Supervisor of Assessments",
+      "candidates": [
+        { "key": "il-vermilion-2026-supervisor-of-assessments-byram-nathan", "name": "Nathan A. \"Nate\" Byram", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District (vacancy of the Hon. Thomas M. Welch)",
+      "candidates": [
+        { "key": "il-vermilion-2026-appellate-sholar-amy", "name": "Amy E. Sholar", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 4th Judicial District — retain Judge James A. Knecht? (yes/no retention)",
+      "candidates": [
+        { "key": "il-vermilion-2026-retain-appellate-knecht-james", "name": "James A. Knecht", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        { "key": "il-vermilion-2026-retain-appellate-barberis-john", "name": "John B. Barberis, Jr.", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 5th Judicial Circuit — retain Judge Mitchell Shick? (yes/no retention)",
+      "candidates": [
+        { "key": "il-vermilion-2026-retain-circuit-shick-mitchell", "name": "Mitchell Shick", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 5th Judicial Circuit — retain Judge Thomas M. O'Shaughnessy? (yes/no retention)",
+      "candidates": [
+        { "key": "il-vermilion-2026-retain-circuit-oshaughnessy-thomas", "name": "Thomas M. O'Shaughnessy", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.vercounty.org/wp-content/uploads/2026/09/Vermilion-Co-General-Election-Day-Insert.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,85 @@
+{
+  "state": "IL",
+  "county": "Macon County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf",
+    "https://maconcounty.illinois.gov/voting-election-information/"
+  ],
+  "note": "From the Macon County Clerk's certified specimen ballot for the 2026 General Election. Not shown: County Board districts, Regional Superintendent of Schools (Macon voters are split among the Macon-Piatt, DeWitt-Livingston-Logan-McLean and Clark-Coles-Cumberland-Douglas-Edgar-Moultrie-Shelby regional offices by school district), Congress and state legislature, and the Argenta-Oreana CUSD 1 board election question. Macon County is now in the 5th Appellate District, but Judge Knecht's 4th District retention question also appears on the Macon ballot. There is no countywide referendum and no City of Decatur question. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Macon County Clerk",
+      "candidates": [
+        { "key": "il-macon-2026-clerk-webb-marsha", "name": "Marsha Webb", "party": "Republican", "incumbent": false },
+        { "key": "il-macon-2026-clerk-smith-bryan", "name": "Bryan E. Smith", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Macon County Treasurer",
+      "candidates": [
+        { "key": "il-macon-2026-treasurer-jackson-john", "name": "John D. Jackson", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Macon County Sheriff",
+      "candidates": [
+        { "key": "il-macon-2026-sheriff-root-jim", "name": "Jim Root", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District (vacancy of the Hon. Thomas M. Welch)",
+      "candidates": [
+        { "key": "il-macon-2026-appellate-sholar-amy", "name": "Amy E. Sholar", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 4th Judicial District — retain Judge James A. Knecht? (yes/no retention)",
+      "candidates": [
+        { "key": "il-macon-2026-retain-appellate-knecht-james", "name": "James A. Knecht", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        { "key": "il-macon-2026-retain-appellate-barberis-john", "name": "John B. Barberis, Jr.", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Robert C. \"R.C.\" Bollinger? (yes/no retention)",
+      "candidates": [
+        { "key": "il-macon-2026-retain-circuit-bollinger-robert", "name": "Robert C. \"R.C.\" Bollinger", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Jason M. Bohm? (yes/no retention)",
+      "candidates": [
+        { "key": "il-macon-2026-retain-circuit-bohm-jason", "name": "Jason M. Bohm", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Dana Rhoades? (yes/no retention)",
+      "candidates": [
+        { "key": "il-macon-2026-retain-circuit-rhoades-dana", "name": "Dana Rhoades", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Ramona M. Sullivan? (yes/no retention)",
+      "candidates": [
+        { "key": "il-macon-2026-retain-circuit-sullivan-ramona", "name": "Ramona M. Sullivan", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://maconcounty.illinois.gov/download/specimen-ballot/?wpdmdl=14661&filename=2026-General-Specimen-Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
