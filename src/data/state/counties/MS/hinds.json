@@ -1,0 +1,51 @@
+{
+  "state": "MS",
+  "county": "Hinds County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://courts.ms.gov/trialcourts/circuitcourt/circuitcourt.php",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. The 7th Circuit Court District is all of Hinds County, so every Hinds voter votes in the special election for District Attorney. Not shown because they depend on your district: Chancery Court subdistricts 5-1 to 5-4, Circuit Court subdistricts 7-1 to 7-6, Court of Appeals (Hinds is split between Districts 2 and 4; District 4 Position 2 is on the ballot), and special elections for State House Districts 70 and 77. Also not shown: County Court judge races and any county or City of Jackson questions. The Hinds County website was unavailable, so the county's own sample ballot could not be checked. Candidates' labels are as printed on the official sample ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Attorney, 7th Circuit Court District (Special Election)",
+      "candidates": [
+        {
+          "key": "ms-hinds-2026-district-attorney-agho-gwen",
+          "name": "Gwen Agho",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ms-hinds-2026-district-attorney-harris-greta",
+          "name": "Greta Mack Harris",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ms-hinds-2026-district-attorney-palmer-darla",
+          "name": "Darla Palmer",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ms-hinds-2026-district-attorney-sanders-marvin",
+          "name": "Marvin L. Sanders",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ms-hinds-2026-district-attorney-white-wendy",
+          "name": "Wendy Wilson White",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

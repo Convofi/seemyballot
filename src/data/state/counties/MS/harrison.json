@@ -1,0 +1,140 @@
+{
+  "state": "MS",
+  "county": "Harrison County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://www.sos.ms.gov/content/CandidateQualifying/default.aspx",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chancerycourt.php",
+    "https://courts.ms.gov/trialcourts/circuitcourt/circuitcourt.php",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf",
+    "https://courts.ms.gov/appellatecourts/coa/coajudges.php"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown here are the judicial seats every Harrison County voter votes on, from the Secretary of State's official sample ballot: Court of Appeals District 5 (all of Harrison County), 8th Chancery District and 2nd Circuit District (Hancock, Harrison and Stone counties, elected districtwide). Not shown: County Court judge races and any county, Gulfport or Biloxi questions. The Harrison County site was behind a bot wall, so the county's own sample ballot could not be checked. Check your official sample ballot. Incumbent flags come from the Mississippi Judiciary's judge rosters.",
+  "contests": [
+    {
+      "office": "Court of Appeals Judge, District 5, Position 1",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-coa-d5-p1-lawrence-anthony",
+          "name": "Anthony 'Tony' Lawrence",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 8th Chancery District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-chancery-p1-persons-jim",
+          "name": "Jim Persons",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 8th Chancery District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-chancery-p2-schloegel-jennifer",
+          "name": "Jennifer T. Schloegel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 8th Chancery District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-chancery-p3-alfonso-margaret",
+          "name": "Margaret Alfonso",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 8th Chancery District, Place 4",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-chancery-p4-broom-haley",
+          "name": "Haley Necaise Broom",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-harrison-2026-chancery-p4-maggio-stephen",
+          "name": "Stephen J. Maggio",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-harrison-2026-chancery-p4-yeatts-frances",
+          "name": "Frances 'Fran' Yeatts",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 2nd Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-circuit-p1-dodson-lisa",
+          "name": "Lisa P. Dodson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 2nd Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-circuit-p2-schmidt-chris",
+          "name": "Chris Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 2nd Circuit District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-circuit-p3-bourgeois-larry",
+          "name": "Larry Bourgeois",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 2nd Circuit District, Place 4",
+      "candidates": [
+        {
+          "key": "ms-harrison-2026-circuit-p4-mueller-randi",
+          "name": "Randi Peresich Mueller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

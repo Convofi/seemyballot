@@ -1,0 +1,134 @@
+{
+  "state": "AL",
+  "county": "Baldwin County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Baldwin County sample ballot. All four Baldwin County Commission seats (Districts 1-4) appear on every ballot style, so every county voter votes on them. Not shown because they depend on your district: Baldwin County Board of Education Districts 3, 5 and 6. No municipal race or question and no local amendment appears on this ballot. Incumbents are not marked because the ballot does not identify incumbents and an official roster could not be confirmed. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 28th Judicial Circuit, Place No. 5",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-circuit-p5-hoyt-laurie",
+          "name": "Laurie Hoyt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 28th Judicial Circuit, Place No. 7",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-circuit-p7-hagood-kristi",
+          "name": "Kristi Hagood",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Baldwin County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-district-p1-blackburn-grant",
+          "name": "Grant Blackburn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Baldwin County Commission, District No. 1",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-commission-d1-cox-richard",
+          "name": "Richard Cox",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Baldwin County Commission, District No. 2",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-commission-d2-fermo-angelo",
+          "name": "Angelo Fermo",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Baldwin County Commission, District No. 3",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-commission-d3-underwood-billie-jo",
+          "name": "Billie Jo Underwood",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Baldwin County Commission, District No. 4",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-commission-d4-harris-john",
+          "name": "John \"Tater\" Harris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Baldwin County Sheriff",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-sheriff-lowery-anthony",
+          "name": "Anthony E. Lowery",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Baldwin County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-revenue-commissioner-faust-teddy-joe",
+          "name": "Teddy Joe Faust, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    },
+    {
+      "office": "Baldwin County Coroner",
+      "candidates": [
+        {
+          "key": "al-baldwin-2026-coroner-pierce-brian",
+          "name": "Brian E. Pierce",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Baldwin-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
