@@ -93,6 +93,7 @@
   --color-party-other: var(--party-other);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-script: var(--font-sofia);
   /* Reading size for positions, summaries and notes: between sm (14) and base (16). */
   --text-md: 0.9375rem;
   --text-md--line-height: 1.5rem;
