@@ -17,6 +17,7 @@ const description =
   "Type your address to see every race and measure on your 2026 ballot, where to vote, and what each choice means, with a source for every fact.";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://seemyballot.com"),
   title,
   description,
   openGraph: { title, description, type: "website", siteName: "See My Ballot" },

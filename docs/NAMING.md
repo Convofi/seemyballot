@@ -1,6 +1,6 @@
 # Naming: See My Ballot (chosen 2026-11-01; formerly BallotHelper)
 
-**Decision (2026-11-01):** the user chose **See My Ballot**. Repo renamed to Convofi/seemyballot; Vercel project keeps the name `ballothelper` until seemyballot.com is attached. Domains to register: seemyballot.com, .org, .vote.
+**Decision (2026-11-01):** the user chose **See My Ballot**. Repo renamed to Convofi/seemyballot; seemyballot.com registered at GoDaddy 2026-11-01 and attached to the Vercel project `ballothelper` (canonical URL https://seemyballot.com). .org and .vote not registered.
 
 Checked 2026-10-31. Availability comes from registry RDAP: `404` = no record, so available at standard price. `200` = registered.
 - .com: rdap.verisign.com · .org: rdap.publicinterestregistry.org
