@@ -1,0 +1,92 @@
+{
+  "state": "UT",
+  "county": "Cache County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.cachecounty.gov/assets/department/clerk/2026_General_Election_Notice_and_Sample_Ballot%20Final.pdf",
+    "https://vote.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-Amended-09-21.pdf"
+  ],
+  "note": "From the Cache County Clerk's composite sample ballot (all certified Cache County contests) and the Lieutenant Governor's 2026 general election certification. David R. Gillie is the Constitution Party candidate and is shown as Other. Incumbent flags are set only for judges standing for retention. Not shown because they depend on where you live: County Council districts (Logan District 2 two-year term, Logan District 3, Northeast District 5, Southeast District 7), Cache County and Logan City school board districts, Cache Water District Board seats (including the at-large seat, since the district boundary was not confirmed as countywide), the Wellsville Justice Court retention, and the Providence City non-binding library question. No District Court judge from the First Judicial District and no countywide proposition is on this ballot. The City of Logan has no office or measure on this ballot. Supreme Court and Court of Appeals retention questions and Constitutional Amendments A and B appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-cache-2026-attorney-chambers-brett",
+          "name": "J. Brett Chambers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cachecounty.gov/assets/department/clerk/2026_General_Election_Notice_and_Sample_Ballot%20Final.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "ut-cache-2026-auditor-funk-matthew",
+          "name": "Matthew Funk",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cachecounty.gov/assets/department/clerk/2026_General_Election_Notice_and_Sample_Ballot%20Final.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-cache-2026-clerk-gillie-david",
+          "name": "David R. Gillie",
+          "party": "Other",
+          "incumbent": false
+        },
+        {
+          "key": "ut-cache-2026-clerk-behm-bryson",
+          "name": "Bryson J. Behm",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cachecounty.gov/assets/department/clerk/2026_General_Election_Notice_and_Sample_Ballot%20Final.pdf"
+    },
+    {
+      "office": "County Executive/Surveyor",
+      "candidates": [
+        {
+          "key": "ut-cache-2026-executive-daines-george",
+          "name": "N. George Daines",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cachecounty.gov/assets/department/clerk/2026_General_Election_Notice_and_Sample_Ballot%20Final.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-cache-2026-sheriff-jensen-chad",
+          "name": "D. Chad Jensen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cachecounty.gov/assets/department/clerk/2026_General_Election_Notice_and_Sample_Ballot%20Final.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, First Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-cache-2026-juv1-morgan-kirk",
+          "name": "Kirk Max Morgan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cachecounty.gov/assets/department/clerk/2026_General_Election_Notice_and_Sample_Ballot%20Final.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

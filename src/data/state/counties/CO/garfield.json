@@ -1,0 +1,144 @@
+{
+  "state": "CO",
+  "county": "Garfield County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf",
+    "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/2026-Garfield-County-TABOR-Notice.pdf",
+    "https://www.garfieldcountyco.gov/clerk-recorder/elections/"
+  ],
+  "note": "From the Garfield County Clerk and Recorder's composite sample ballot for the 2026 general election and the county's TABOR notice. Garfield County commissioners are elected by voters of the whole county, so the District 1 seat is shown for everyone. Jason R. Neil is listed as Unaffiliated and is shown as Independent. Jacklyn K. Harmon is marked as incumbent because the ballot is issued in her name as Clerk and Recorder; other incumbent flags are set only for judges standing for retention. No Garfield County ballot measure is on this ballot. Not shown: state legislative and congressional districts, City of Rifle Ballot Issue 2A, Garfield School District RE-2 Issues 4A and 4B, Roaring Fork School District RE-1 Issue 5C, Garfield County Public Library District Issue 6B (a district measure; we could not confirm from the ballot that the district covers the whole county), and Glenwood Springs Rural Fire Protection District Issue 6A. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-commissioner-d1-rudd-eric",
+          "name": "Eric Rudd",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-garfield-2026-commissioner-d1-godes-jonathan",
+          "name": "Jonathan Godes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-clerk-harmon-jacklyn",
+          "name": "Jacklyn K. Harmon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-treasurer-couey-carrie",
+          "name": "Carrie Couey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-assessor-yellico-jim",
+          "name": "Jim Yellico",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-sheriff-baker-brent",
+          "name": "Brent Baker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-surveyor-neil-jason",
+          "name": "Jason R. Neil",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-coroner-glassmire-robert",
+          "name": "Robert Glassmire",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "District Court Judge, 9th Judicial District — retain Judge Elise Myer? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-retain-dist9-myer-elise",
+          "name": "Elise Myer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    },
+    {
+      "office": "Garfield County Court Judge — retain Judge Jonathan Bruce Pototsky? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-garfield-2026-retain-county-pototsky-jonathan",
+          "name": "Jonathan Bruce Pototsky",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Glenwood Springs": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Ballot Issue 2B",
+          "title": "City of Glenwood Springs property tax increase for fire protection, rescue and emergency medical services",
+          "summary": "Raises the City of Glenwood Springs property tax rate by 7.9 mills through December 31, 2046, raising about $3,132,000 in 2027, the first full fiscal year. The money would pay for operating and capital needs for fire protection, rescue and emergency medical services. The city could collect and spend this revenue as a voter-approved revenue change.",
+          "yesMeans": "Glenwood Springs adds 7.9 mills to its property tax through 2046 for fire, rescue and emergency medical services.",
+          "noMeans": "The property tax increase is not approved.",
+          "source": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/Final-composite.pdf",
+          "moreInfo": "https://www.garfieldcountyco.gov/wp-content/uploads/sites/6/2026-Garfield-County-TABOR-Notice.pdf"
+        }
+      ]
+    }
+  }
+}

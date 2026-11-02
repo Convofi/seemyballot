@@ -1,0 +1,128 @@
+{
+  "state": "UT",
+  "county": "Iron County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf",
+    "https://www.ironcountyut.gov/files/clerk/elections/general-election-certification.pdf"
+  ],
+  "note": "From the Iron County Clerk's sample ballot and the County Clerk's 2026 general election certification. Wesley B. Curtis is listed as Unaffiliated and is shown as Independent. Jonathan T. Whittaker is marked as incumbent because he signed the certification as Iron County Clerk; other incumbent flags are set only for judges standing for retention. Not shown because they depend on where you live: Iron County School District board Districts 4, 5, 6 and 7. Proposition #12 (Coal Creek incorporation) is printed on the sample ballot as withdrawn and covered only the Coal Creek area. No juvenile court or justice court retention and no countywide proposition is on this ballot. Cedar City has no office or measure on this ballot. Supreme Court and Court of Appeals retention questions and Constitutional Amendments A and B appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commission Seat A",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-commission-a-bleak-mike",
+          "name": "Mike Bleak",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "County Commission Seat B",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-commission-b-curtis-wesley",
+          "name": "Wesley B. Curtis",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ut-iron-2026-commission-b-bettridge-rand",
+          "name": "K. Rand Bettridge",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-attorney-dotson-chad",
+          "name": "Chad E. Dotson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-auditor-little-lucas",
+          "name": "Lucas A Little",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-clerk-whittaker-jonathan",
+          "name": "Jonathan T. Whittaker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-sheriff-carpenter-ken",
+          "name": "Ken Carpenter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Fifth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-dist5-winward-jay",
+          "name": "Jay Winward",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Fifth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-dist5-gentry-eric",
+          "name": "Eric Russell Gentry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Fifth Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-iron-2026-dist5-bell-matthew",
+          "name": "Matthew L. Bell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ironcountyut.gov/files/clerk/elections/sample-ballot-2026-11-updated.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

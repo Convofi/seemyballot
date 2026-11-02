@@ -1,0 +1,146 @@
+{
+  "state": "UT",
+  "county": "Tooele County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf",
+    "https://tooeleco.gov/2026%20Official%20General%20Election%20Certification%20-%20Combined%20final.pdf"
+  ],
+  "note": "From the Tooele County Clerk's sample ballot, which lists every race held in the county, and the County Clerk's general election certification (which includes the Lieutenant Governor's certification). Tracy Shaw is marked as incumbent because she signed the certification as Tooele County Clerk; other incumbent flags are set only for judges standing for retention. Not shown because they depend on where you live: County Council Districts 2 and 5, and Tooele County School District board Districts 5, 6 and 7. No justice court retention and no county or city ballot proposition is on this ballot. The City of Tooele has no office or measure on this ballot. Supreme Court and Court of Appeals retention questions and Constitutional Amendments A and B appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-attorney-broadhead-scott",
+          "name": "Scott A. Broadhead",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-auditor-mccoy-alison",
+          "name": "Alison H. McCoy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-clerk-shaw-tracy",
+          "name": "Tracy Shaw",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-sheriff-wimmer-paul",
+          "name": "Paul J. Wimmer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-dist3-stormont-charles",
+          "name": "Charles A. Stormont",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-dist3-sanchez-coral",
+          "name": "Coral Sanchez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-dist3-bates-matthew",
+          "name": "Matthew David Bates",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-dist3-shaughnessy-todd",
+          "name": "Todd Shaughnessy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-juv3-flater-aaron",
+          "name": "Aaron William Flater",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-juv3-beck-steven",
+          "name": "Steven K. Beck",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-tooele-2026-juv3-eisenman-susan",
+          "name": "Susan Heather Eisenman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://tooeleco.gov/2026%20Sample%20Ballot%20final.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

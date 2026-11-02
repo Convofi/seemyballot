@@ -1,0 +1,152 @@
+{
+  "state": "UT",
+  "county": "Summit County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification",
+    "https://www.summitcountyutah.gov/DocumentCenter/View/27695/2026-General-Notice-of-Election"
+  ],
+  "note": "From the Summit County Clerk's 2026 general election certification, which lists the county-level candidates and ballot questions and includes the Lieutenant Governor's certification of judicial retention elections. Malena Stevens is marked as incumbent because she signed the certification as Summit County Clerk; other incumbent flags are set only for judges standing for retention. Not shown because they depend on where you live: County Council Districts 4 and 5, North Summit, Park City and South Summit school board districts, the West Hills incorporation question (only the West Hills area votes), and the Snyderville Basin Special Recreation District $71 million bond (only district voters). No justice court retention and no countywide proposition is on this ballot. Park City has no office or measure on this ballot. Supreme Court and Court of Appeals retention questions and Constitutional Amendments A and B appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-attorney-olson-margaret",
+          "name": "Margaret Olson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-auditor-keyes-cindy",
+          "name": "Cindy Keyes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-clerk-woolstenhulme-suni",
+          "name": "Suni Woolstenhulme",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-summit-2026-clerk-stevens-malena",
+          "name": "Malena Stevens",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-sheriff-bates-kacey",
+          "name": "Kacey Bates",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-dist3-bates-matthew",
+          "name": "Matthew David Bates",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-dist3-stormont-charles",
+          "name": "Charles A. Stormont",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-dist3-sanchez-coral",
+          "name": "Coral Sanchez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "Judge of the District Court, Third Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-dist3-shaughnessy-todd",
+          "name": "Todd Shaughnessy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-juv3-eisenman-susan",
+          "name": "Susan Heather Eisenman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-juv3-beck-steven",
+          "name": "Steven K. Beck",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Third Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-summit-2026-juv3-flater-aaron",
+          "name": "Aaron William Flater",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.summitcountyutah.gov/DocumentCenter/View/27525/2026-Summit-County-General-Election-Certification"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

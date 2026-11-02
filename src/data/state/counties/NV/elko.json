@@ -1,0 +1,128 @@
+{
+  "state": "NV",
+  "county": "Elko County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php",
+    "https://www.elkocountynv.net/new_page/clerk/elections.php"
+  ],
+  "note": "Partial list. We could not find a published Elko County sample ballot for the November general election, so this list comes from the Elko County Clerk's official list of candidates who filed for 2026. In each county office shown, only one candidate filed per party (two nonpartisan candidates for Sheriff), so no primary changed these races; a withdrawal after filing would not be reflected here. Incumbent flags are not set because we found no official roster. Not shown: County Commission Districts 2 and 4, Elko County School District board Districts 1, 6 and 7, the Elko Convention Board, TV district boards and West Wendover Recreation Board, any county or City of Elko ballot questions, and any City of Elko offices. Supreme Court seats and State Questions are statewide. Check your official sample ballot from the Elko County Clerk for the full ballot.",
+  "contests": [
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-assessor-iribarne-hutton-janet",
+          "name": "Janet L. Iribarne-Hutton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-clerk-plunkett-rebecca",
+          "name": "Rebecca Plunkett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "County District Attorney",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-da-ingram-tyler",
+          "name": "Tyler J. Ingram",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-recorder-smales-mike",
+          "name": "D. Mike Smales",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-treasurer-paul-cheryl",
+          "name": "Cheryl Paul",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-sheriff-narvaiza-aitor",
+          "name": "Aitor Narvaiza",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-elko-2026-sheriff-silva-mike",
+          "name": "Mike Silva",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "District Court Judge, Fourth Judicial District, Department 1",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-dc01-hill-kriston",
+          "name": "Kriston N. Hill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "District Court Judge, Fourth Judicial District, Department 2",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-dc02-kacin-al",
+          "name": "Al Kacin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    },
+    {
+      "office": "District Court Judge, Fourth Judicial District, Department 3",
+      "candidates": [
+        {
+          "key": "nv-elko-2026-dc03-simons-mason",
+          "name": "Mason E. Simons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elkocountynv.net/new_page/clerk/list_of_candidates_that_have_filedFREEFORM.php"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

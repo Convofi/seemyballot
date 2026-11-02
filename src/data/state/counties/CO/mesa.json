@@ -1,0 +1,199 @@
+{
+  "state": "CO",
+  "county": "Mesa County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.mesacounty.us/departments-and-services/clerk-and-recorder/elections/notice-election-and-sample-ballots",
+    "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view",
+    "https://www.mesacounty.us/sites/default/files/2026-09/2026%20General%20Notice%20of%20Election%20%5BADA%5D.pdf",
+    "https://www.mesacounty.us/sites/default/files/2026-09/2026%20General%20Election%20TABOR%20Booklet%20%5BADA%5D_0.pdf"
+  ],
+  "note": "From the Mesa County Clerk and Recorder's 2026 general election sample ballots (ballot styles that include the City of Grand Junction and those that do not) and the county's TABOR notice booklet. Mesa County commissioners are elected by voters of the whole county, so the District 2 seat is shown for everyone. Bobbie Gross is marked as incumbent because the county's notice of election is issued in her name as Clerk and Recorder; other incumbent flags are set only for judges standing for retention. No Mesa County ballot measure is on this ballot. Not shown: state legislative and congressional districts, State Board of Education district, Mesa County Valley School District 51 Ballot Issue 4A, Town of Palisade Ballot Issue 2A, Town of De Beque items, and Palisade Rural Fire Protection District items. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 2 (elected countywide)",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-commissioner-d2-daniel-bobbie",
+          "name": "Bobbie Daniel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-clerk-gross-bobbie",
+          "name": "Bobbie Gross",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-treasurer-haitz-greg",
+          "name": "Greg Haitz",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-mesa-2026-treasurer-edwards-dave",
+          "name": "Dave Edwards",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-mesa-2026-treasurer-schultz-christina",
+          "name": "Christina Aline Schultz",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-assessor-goff-brent",
+          "name": "Brent Goff",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-sheriff-young-ross",
+          "name": "Ross Young",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-surveyor-kobylarz-jon",
+          "name": "Jon Kobylarz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-coroner-havlik-dean",
+          "name": "Dean Havlik",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "District Court Judge, 21st Judicial District — retain Judge Jeremy Chaffin? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-retain-dist21-chaffin-jeremy",
+          "name": "Jeremy Chaffin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "District Court Judge, 21st Judicial District — retain Judge Craig Peter Henderson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-retain-dist21-henderson-craig",
+          "name": "Craig Peter Henderson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "District Court Judge, 21st Judicial District — retain Judge Gretchen B. Larson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-retain-dist21-larson-gretchen",
+          "name": "Gretchen B. Larson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "District Court Judge, 21st Judicial District — retain Judge JenniLynn E. Lawrence? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-retain-dist21-lawrence-jennilynn",
+          "name": "JenniLynn E. Lawrence",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "Mesa County Court Judge — retain Judge Scott Joseph Burrill? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-retain-county-burrill-scott",
+          "name": "Scott Joseph Burrill",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    },
+    {
+      "office": "Mesa County Court Judge — retain Judge Bruce R. Raaum? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-mesa-2026-retain-county-raaum-bruce",
+          "name": "Bruce R. Raaum",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Grand Junction": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Ballot Issue 2B",
+          "title": "Orchard Mesa Pool sales and use tax increase and debt",
+          "summary": "Raises the City of Grand Junction sales and use tax rate from 3.39% to 3.46% starting January 1, 2027, raising about $1,900,000 in 2027, to repair, renovate and equip the Orchard Mesa swimming pool without expanding it beyond its existing six-lane configuration. It also lets the city take on up to $12,000,000 in debt with a total repayment cost of up to $19,000,000 for the pool work. When the debt is paid off (no later than December 31, 2047), the rate drops by 0.04%, and the remaining 0.03% continues to pay for operating and maintaining the pool.",
+          "yesMeans": "Grand Junction raises its sales and use tax to 3.46% and may borrow up to $12,000,000 to renovate the Orchard Mesa pool.",
+          "noMeans": "The sales and use tax increase and the pool debt are not approved.",
+          "source": "https://drive.google.com/file/d/1rkl3cmswFlXJaZDvy5PmKDnD-Vhc1Yd7/view",
+          "moreInfo": "https://www.mesacounty.us/sites/default/files/2026-09/2026%20General%20Election%20TABOR%20Booklet%20%5BADA%5D_0.pdf"
+        }
+      ]
+    }
+  }
+}

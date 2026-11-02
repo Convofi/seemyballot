@@ -1,0 +1,120 @@
+{
+  "state": "CO",
+  "county": "Broomfield County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.broomfield.org/153/Elections",
+    "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view",
+    "https://broomfield.org/4198/Broomfield-Specific-Ballot-Questions",
+    "https://www.broomfield.org/DocumentCenter/View/69247"
+  ],
+  "note": "Broomfield is a consolidated city and county, so everything is shown at the county level. From the Broomfield Clerk and Recorder's 2026 general election sample ballots (all five local ballot styles carry the same Broomfield questions, Front Range Passenger Rail District Issue 7A and 17th Judicial District Question 7E) and Broomfield's TABOR notice. No county officer elections are on Broomfield's 2026 ballot, and no Broomfield County Court judge is up for retention. Not shown: the City Council Ward 1 (1-year term) race, state legislative and congressional districts, and Jefferson County and Weld County school district items. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Caryn A. Datz? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-broomfield-2026-retain-dist17-datz-caryn",
+          "name": "Caryn A. Datz",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Sean Patrick Finn? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-broomfield-2026-retain-dist17-finn-sean",
+          "name": "Sean Patrick Finn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Priscilla Loew? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-broomfield-2026-retain-dist17-loew-priscilla",
+          "name": "Priscilla Loew",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Jeffrey Dean Ruff? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-broomfield-2026-retain-dist17-ruff-jeffrey",
+          "name": "Jeffrey Dean Ruff",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view"
+    },
+    {
+      "office": "District Court Judge, 17th Judicial District — retain Judge Kelley R. Southerland? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-broomfield-2026-retain-dist17-southerland-kelley",
+          "name": "Kelley R. Southerland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Broomfield Ballot Question No. 1A",
+      "title": "Increasing Lodging Tax",
+      "summary": "Raises the City and County of Broomfield lodging tax rate by 4.4 percentage points, to a total of 6%, on short-term stays of under 30 days in hotels, inns, bed and breakfasts and other lodging, starting January 1, 2027. It is expected to raise up to $3,300,000 in 2027. The money would go to the Housing Authority of the City and County of Broomfield to preserve and expand housing opportunities in Broomfield, and Broomfield could keep and spend it as a voter-approved revenue change.",
+      "yesMeans": "Broomfield's lodging tax rises to 6%, with the new revenue going to the Broomfield Housing Authority for housing.",
+      "noMeans": "The lodging tax increase is not approved.",
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view",
+      "moreInfo": "https://www.broomfield.org/DocumentCenter/View/69247"
+    },
+    {
+      "id": "Broomfield Ballot Question No. 1B",
+      "title": "Xcel Energy franchise agreement",
+      "summary": "Asks voters to approve a 20-year franchise contract with Public Service Company of Colorado (Xcel Energy), starting January 1, 2028, as set out in Ordinance No. 2307. Under the contract Xcel would continue its program for putting overhead electric lines underground, maintain infrastructure safety, coordinate with the city on emergency management, and continue paying the city for use of public rights-of-way and other city property.",
+      "yesMeans": "Broomfield approves the 20-year franchise contract with Xcel Energy starting in 2028.",
+      "noMeans": "The franchise contract with Xcel Energy is not approved.",
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view",
+      "moreInfo": "https://broomfield.org/4198/Broomfield-Specific-Ballot-Questions"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 1C",
+      "title": "4-year term of office with two term limits for future mayors",
+      "summary": "The mayor of Broomfield now serves a 2-year term and is limited to three consecutive terms. This amendment to Section 4.3 of the Broomfield Home Rule Charter would make future mayors serve 4-year terms, limited to two consecutive terms, starting with the 2027 general municipal election.",
+      "yesMeans": "Starting with the 2027 election, Broomfield mayors serve 4-year terms with a limit of two consecutive terms.",
+      "noMeans": "The mayor keeps a 2-year term with a limit of three consecutive terms.",
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view",
+      "moreInfo": "https://broomfield.org/4198/Broomfield-Specific-Ballot-Questions"
+    },
+    {
+      "id": "Front Range Passenger Rail District Ballot Issue 7A",
+      "title": "Front Range Passenger Rail District sales tax and debt for Colorado Connector (CoCo) rail service",
+      "summary": "Raises Front Range Passenger Rail District taxes by $295 million a year, through a 0.333% sales and use tax (one-third of a cent per dollar), and allows $580 million in district debt with a maximum repayment cost of $785 million. The money would build, operate, and maintain Colorado Connector (CoCo) passenger rail between Pueblo, Colorado Springs, Denver, Broomfield, Boulder, Fort Collins and other Front Range communities; state-law exemptions such as gasoline, food, residential utilities, prescription drugs and medical supplies apply. Revenues would be kept as a voter-approved revenue change and reviewed each year by an independent auditor and a rotating group of district taxpayers.",
+      "yesMeans": "The district may levy the 0.333% sales and use tax and take on the stated debt to build and run Front Range passenger rail.",
+      "noMeans": "The district's sales tax and debt are not approved.",
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view"
+    },
+    {
+      "id": "17th Judicial District Ballot Question 7E",
+      "title": "District Attorney Term Limits",
+      "summary": "Asks voters in the 17th Judicial District (Adams County and the City and County of Broomfield) whether the District Attorney should be limited to no more than three consecutive terms of office. The ballot says this would be consistent with the term limits for other county offices in Adams County and Broomfield.",
+      "yesMeans": "The 17th Judicial District Attorney is limited to no more than three consecutive terms.",
+      "noMeans": "The term limit for the 17th Judicial District Attorney is not changed by this question.",
+      "source": "https://drive.google.com/file/d/1F3AQFvKIrz0N2CUw2czodGnjYRY3sSVq/view"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,118 @@
+{
+  "state": "CO",
+  "county": "Eagle County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.eaglecounty.us/departments___services/clerk___recorder/elections___voter_information/general_election.php",
+    "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view",
+    "https://drive.google.com/file/d/1s1PcSDCe7MC3tyIELOgw6V8LoUROVlGR/view",
+    "https://www.eaglecounty.us/government/elected_officials.php"
+  ],
+  "note": "From the Eagle County Clerk and Recorder's composite sample ballot for the 2026 general election (English and Spanish versions checked against each other) and the county's TABOR notice. Eagle County commissioners are elected by voters of the whole county, so the District 3 seat is shown for everyone. Becky Close petitioned onto the ballot as Unaffiliated and is shown as Independent. Incumbent flags for Becky Close, Teak Simonton and James Van Beek come from the county's elected officials page; others are not set. No candidate filed for County Surveyor, so that office is not listed. No 5th Judicial District judge is up for retention and no Eagle County ballot measure is on this ballot. Not shown: Town of Avon council race, state legislative and congressional districts, Town of Basalt Issue 3A, Town of Gypsum Issue 2A, Eagle County School District RE50J Issue 5B, West Grand School District Issue 5A, Roaring Fork School District RE-1 Issue 5C, Avon Station Metropolitan District and Basalt & Rural Fire Protection District Issue 7A. The Towns of Eagle and Vail have no office or measure on this ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "co-eagle-2026-commissioner-d3-sacks-wendy",
+          "name": "Wendy Sacks",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-eagle-2026-commissioner-d3-brendza-kathleen",
+          "name": "Kathleen Brendza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-eagle-2026-clerk-close-becky",
+          "name": "Becky Close",
+          "party": "Independent",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-eagle-2026-treasurer-simonton-teak",
+          "name": "Teak Simonton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-eagle-2026-assessor-noakes-andie",
+          "name": "Andie Noakes",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-eagle-2026-assessor-buono-christopher",
+          "name": "Christopher Buono",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-eagle-2026-sheriff-anderson-rebecca",
+          "name": "Rebecca Anderson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-eagle-2026-sheriff-van-beek-james",
+          "name": "James Van Beek",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-eagle-2026-coroner-ryan-christian",
+          "name": "Christian \"Chris\" Ryan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view"
+    },
+    {
+      "office": "Eagle County Court Judge — retain Judge Inga Haagenson Causey? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-eagle-2026-retain-county-haagenson-causey-inga",
+          "name": "Inga Haagenson Causey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1zU6tXzfx96Py4HwGZpqhWTfL1Q0TJRpL/view"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

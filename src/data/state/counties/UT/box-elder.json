@@ -1,0 +1,123 @@
+{
+  "state": "UT",
+  "county": "Box Elder County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.boxeldercountyut.gov/DocumentCenter/View/2460/2026-General-Election-Sample-Publication-Ballot-PDF",
+    "https://www.boxeldercountyut.gov/DocumentCenter/View/2557/Updated-NOTICE-OF-2026-GENERAL-ELECTION-10-5-26-PDF",
+    "https://vote.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-Amended-09-21.pdf"
+  ],
+  "note": "From the Box Elder County Clerk's general election publication ballot and notice of general election, and the Lieutenant Governor's 2026 general election certification. Candidates listed as Unaffiliated (UNA) are shown as Independent. Incumbent flags are set only for the judge standing for retention. The county publication ballot words Kirk Max Morgan's retention as District Court of the First Judicial District; the Lieutenant Governor's certification lists him as Judge of the Juvenile Court of the First Juvenile Court District, and we follow the state certification. Not shown because they depend on where you live: Box Elder County School Board Districts 3, 4 and 7, and Perry City Proposition 6 (repeal of the transit sales tax). No countywide proposition and no justice court retention is on this ballot. Brigham City has no office or measure on this ballot. Supreme Court and Court of Appeals retention questions and Constitutional Amendments A and B appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commission Seat A",
+      "candidates": [
+        {
+          "key": "ut-box-elder-2026-commission-a-williams-alan",
+          "name": "Alan Williams",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ut-box-elder-2026-commission-a-smith-vance",
+          "name": "Vance Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boxeldercountyut.gov/DocumentCenter/View/2460/2026-General-Election-Sample-Publication-Ballot-PDF"
+    },
+    {
+      "office": "County Commission Seat B",
+      "candidates": [
+        {
+          "key": "ut-box-elder-2026-commission-b-tueller-nathan",
+          "name": "Nathan Tueller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boxeldercountyut.gov/DocumentCenter/View/2460/2026-General-Election-Sample-Publication-Ballot-PDF"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-box-elder-2026-attorney-wardle-blair",
+          "name": "Blair Wardle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boxeldercountyut.gov/DocumentCenter/View/2460/2026-General-Election-Sample-Publication-Ballot-PDF"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "ut-box-elder-2026-auditor-larsen-shirlene",
+          "name": "Shirlene Larsen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boxeldercountyut.gov/DocumentCenter/View/2460/2026-General-Election-Sample-Publication-Ballot-PDF"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-box-elder-2026-clerk-young-marla",
+          "name": "Marla Young",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boxeldercountyut.gov/DocumentCenter/View/2460/2026-General-Election-Sample-Publication-Ballot-PDF"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-box-elder-2026-sheriff-christensen-douglas",
+          "name": "Douglas H Christensen",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ut-box-elder-2026-sheriff-allred-mike",
+          "name": "Mike Allred",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ut-box-elder-2026-sheriff-shinney-allan",
+          "name": "Allan L Shinney",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ut-box-elder-2026-sheriff-hayman-chad",
+          "name": "Chad Hayman",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boxeldercountyut.gov/DocumentCenter/View/2460/2026-General-Election-Sample-Publication-Ballot-PDF"
+    },
+    {
+      "office": "Judge of the Juvenile Court, First Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-box-elder-2026-juv1-morgan-kirk",
+          "name": "Kirk Max Morgan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vote.utah.gov/wp-content/uploads/2026/09/2026-General-Election-Certification-Amended-09-21.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
