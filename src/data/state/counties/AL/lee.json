@@ -1,0 +1,63 @@
+{
+  "state": "AL",
+  "county": "Lee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lee-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots",
+    "https://www.leecountyrevenuecommissioner.com/"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Lee County sample ballot. Not shown because they depend on your district: Lee County Commission Districts 2, 4 and 5, and Lee County Board of Education District 1. The City of Auburn has no race or question on this ballot, and there is no local amendment. Incumbent flags other than Revenue Commissioner are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 37th Judicial Circuit, Place No. 4",
+      "candidates": [
+        {
+          "key": "al-lee-2026-circuit-p4-donaldson-seth",
+          "name": "Seth H. Donaldson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lee-Sample.pdf"
+    },
+    {
+      "office": "Lee County Sheriff",
+      "candidates": [
+        {
+          "key": "al-lee-2026-sheriff-hunt-cameron",
+          "name": "Cameron \"Cam\" Hunt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lee-Sample.pdf"
+    },
+    {
+      "office": "Lee County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-lee-2026-revenue-commissioner-price-oline",
+          "name": "Oline Price",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lee-Sample.pdf"
+    },
+    {
+      "office": "Lee County Coroner",
+      "candidates": [
+        {
+          "key": "al-lee-2026-coroner-sexton-daniel",
+          "name": "Daniel Sexton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Lee-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

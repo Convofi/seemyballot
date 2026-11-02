@@ -1,0 +1,100 @@
+{
+  "state": "SC",
+  "county": "Beaufort County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=751&searchType=Default",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=752&searchType=Default",
+    "https://www.beaufortcountysc.gov/probate-court/"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Beaufort County) and referendum listing for the November 3, 2026 Statewide General Election. Not shown: the Beaufort Soil and Water District Commission race (Daniel Lesesne Jr; the number of seats could not be confirmed from an official source), County Council Districts 2, 4, 5, 6, 8, 9, 10 and 11, Beaufort County School Board Districts 2, 3, 4, 5, 7, 8 and 10, Hilton Head Public Service Districts 1, 5 and 7, the Fripp Island Public Service Commission, and State House districts. Municipal items (City of Beaufort, Town of Hilton Head Island, Bluffton, Port Royal) are not covered because municipal filings are not in the state listing. Incumbent flags: Probate Judge confirmed on the county's Probate Court page; the Sheriff and Treasurer pages blocked automated access, so others are not marked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "sc-beaufort-2026-sheriff-seifert-doug",
+          "name": "Doug Seifert",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "sc-beaufort-2026-sheriff-small-alphonso",
+          "name": "Alphonso Small Jr",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-beaufort-2026-probate-judge-galvin-heather",
+          "name": "Heather Galvin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "sc-beaufort-2026-auditor-cadd-david",
+          "name": "David Cadd",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "sc-beaufort-2026-auditor-frazier-carletha",
+          "name": "Carletha Frazier",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "sc-beaufort-2026-treasurer-songer-scott",
+          "name": "Scott Songer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "sc-beaufort-2026-treasurer-walls-maria",
+          "name": "Maria Walls",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Special Sales & Use Tax - Question 1",
+      "title": "Beaufort County one percent special sales and use tax for transportation projects",
+      "summary": "Would impose a one percent special sales and use tax in Beaufort County for up to nine years, or until $780,000,000 is collected, whichever comes first. The revenue would pay for listed transportation projects: intersection and safety projects ($326 million), road widening projects ($205 million), and resurfacing and dirt road paving projects ($249 million).",
+      "yesMeans": "A one percent special sales and use tax would be imposed in Beaufort County for up to nine years to fund the listed transportation projects.",
+      "noMeans": "The special sales and use tax would not be imposed.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=751&searchType=Default"
+    },
+    {
+      "id": "Special Sales & Use Tax - Question 2",
+      "title": "Beaufort County general obligation bonds payable from the special sales and use tax",
+      "summary": "Would authorize Beaufort County to issue up to $450,000,000 in general obligation bonds, maturing over no more than nine years. The bonds would be repaid from the special sales and use tax in Question 1 and used to complete projects from the categories listed in Question 1.",
+      "yesMeans": "Beaufort County could issue up to $450 million in bonds, repaid from the special sales tax, to complete the listed transportation projects.",
+      "noMeans": "The county would not be authorized to issue these bonds.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=752&searchType=Default"
+    }
+  ],
+  "municipalities": {}
+}
