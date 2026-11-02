@@ -1,0 +1,88 @@
+{
+  "state": "ME",
+  "county": "York County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sanfordmaine.org/Document%20Center/Department/Election/State%20of%20Maine%20Sample%20Ballot%20Dist%20141.pdf",
+    "https://www.sanfordmaine.org/departments/election___voter_information/upcoming_election.php",
+    "https://www.wellstown.org/DocumentCenter/View/8527",
+    "https://www.wellstown.org/440/Town-Meeting-Election-Info",
+    "https://www.yorkcountymaine.gov/sheriff-s-office",
+    "https://www.yorkcountymaine.gov/district-attorney"
+  ],
+  "note": "From the State of Maine sample ballots for the November 3, 2026 General Election posted by the City of Sanford and the Town of Wells; the county contests and the county referendum question print the same on both. William L. King, Jr. and Kathryn M. Slattery are marked as incumbents because the county's Sheriff's Office and District Attorney pages list them as the current officeholders. Candidates listed on the ballot as Unenrolled are shown as Independent. Not shown: County Commissioner (elected by district; not on the Sanford or Wells ballots), State Senate and State Representative districts, and statewide referendum questions (listed with the state ballot). Biddeford, Sanford and other city or town offices and local questions are not shown. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Treasurer, York County",
+      "candidates": [
+        {
+          "key": "me-york-2026-treasurer-mills-bobby",
+          "name": "Bobby J. Mills",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanfordmaine.org/Document%20Center/Department/Election/State%20of%20Maine%20Sample%20Ballot%20Dist%20141.pdf"
+    },
+    {
+      "office": "Register of Deeds, York County",
+      "candidates": [
+        {
+          "key": "me-york-2026-register-of-deeds-caiazzo-wendy",
+          "name": "Wendy L. Caiazzo",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanfordmaine.org/Document%20Center/Department/Election/State%20of%20Maine%20Sample%20Ballot%20Dist%20141.pdf"
+    },
+    {
+      "office": "Sheriff, York County",
+      "candidates": [
+        {
+          "key": "me-york-2026-sheriff-corbett-david",
+          "name": "David G. Corbett",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "me-york-2026-sheriff-king-william",
+          "name": "William L. King, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "me-york-2026-sheriff-pellerin-brian",
+          "name": "Brian R. Pellerin",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanfordmaine.org/Document%20Center/Department/Election/State%20of%20Maine%20Sample%20Ballot%20Dist%20141.pdf"
+    },
+    {
+      "office": "District Attorney, District 1",
+      "candidates": [
+        {
+          "key": "me-york-2026-da-slattery-kathryn",
+          "name": "Kathryn M. Slattery",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sanfordmaine.org/Document%20Center/Department/Election/State%20of%20Maine%20Sample%20Ballot%20Dist%20141.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Referendum Question",
+      "title": "Shall the position of elected County Treasurer be abolished and replaced with a Treasurer appointed by the County Commissioners?",
+      "summary": "Asks whether York County's elected County Treasurer position should be abolished. The treasurer would instead be appointed by the County Commissioners.",
+      "yesMeans": "The elected County Treasurer position would be abolished and the County Commissioners would appoint a treasurer.",
+      "noMeans": "The County Treasurer would continue to be elected by voters.",
+      "source": "https://www.sanfordmaine.org/Document%20Center/Department/Election/State%20of%20Maine%20Sample%20Ballot%20Dist%20141.pdf",
+      "moreInfo": "https://www.wellstown.org/DocumentCenter/View/8527"
+    }
+  ],
+  "municipalities": {}
+}

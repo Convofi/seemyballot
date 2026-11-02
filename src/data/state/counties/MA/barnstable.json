@@ -1,0 +1,67 @@
+{
+  "state": "MA",
+  "county": "Barnstable County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.town.dennis.ma.us/DocumentCenter/View/5550",
+    "https://www.town.dennis.ma.us/377/Election-Information",
+    "https://www.sandwichmass.org/DocumentCenter/View/11660"
+  ],
+  "note": "From the official November 3, 2026 State Election ballots posted by the Towns of Dennis and Sandwich; the county contests and Question A print the same on both. Incumbents are marked from 'Candidate for Re-election' on the ballot. Not shown because they differ by town or district: Barnstable Assembly of Delegates and County Charter Commissioner (one per town), Governor's Council, State Senate and State Representative districts, and regional school committee seats. The Sheriff, Register of Deeds and Clerk of Courts are not on the 2026 ballot. Town offices and town questions are not shown. The nine statewide questions are listed with statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Attorney, Cape and Islands District",
+      "candidates": [
+        {
+          "key": "ma-barnstable-2026-da-galibois-robert",
+          "name": "Robert Joseph Galibois",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.town.dennis.ma.us/DocumentCenter/View/5550"
+    },
+    {
+      "office": "Register of Probate, Barnstable County",
+      "candidates": [
+        {
+          "key": "ma-barnstable-2026-register-of-probate-perrino-anastasia",
+          "name": "Anastasia Welsh Perrino",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.town.dennis.ma.us/DocumentCenter/View/5550"
+    },
+    {
+      "office": "County Commissioner, Barnstable County",
+      "candidates": [
+        {
+          "key": "ma-barnstable-2026-county-commissioner-gessen-daniel",
+          "name": "Daniel A. Gessen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ma-barnstable-2026-county-commissioner-hogue-adam",
+          "name": "Adam Michael Hogue",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.town.dennis.ma.us/DocumentCenter/View/5550"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question A",
+      "title": "Barnstable County charter study commission",
+      "summary": "Asks whether a charter study commission should be created to study how Barnstable County government is currently structured. The commission would make findings about the county's form of government and recommend changes. Commissioners for each town are elected on the same ballot.",
+      "yesMeans": "A charter study commission would be created to study Barnstable County's government and make recommendations.",
+      "noMeans": "No charter study commission would be created.",
+      "source": "https://www.town.dennis.ma.us/DocumentCenter/View/5550",
+      "moreInfo": "https://www.sandwichmass.org/DocumentCenter/View/11660"
+    }
+  ],
+  "municipalities": {}
+}

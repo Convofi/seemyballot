@@ -1,0 +1,358 @@
+{
+  "state": "VT",
+  "county": "Chittenden County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx",
+    "https://sos.vermont.gov/elections/election-info-resources/candidates/",
+    "https://www.burlingtonvt.gov/192/Sample-Ballots-Warnings-Notices",
+    "https://www.burlingtonvt.gov/DocumentCenter/View/12823"
+  ],
+  "note": "From the Vermont Secretary of State's 2026 general election candidate list and the City of Burlington's sample ballots for all six of its House districts (Chittenden-13 to -18); the county offices and Burlington's Justice of the Peace race print the same on all six. Several candidates were nominated by two parties: Gregory J. Glennon, Connie Cain Ramsey, Anne Nichols Williams and Daniel Gamelin appear as DEM/REP, and Sarah George as DEM/PROG. Each is listed here under the first party printed. Progressive Party candidates are shown as Other. Incumbency is not marked because no official roster was checked. Names are printed in capitals on the ballot and are shown here in standard capitalization. Not shown: State Senate and State Representative districts, which do not cover the whole county, other towns' Justice of the Peace races, and the two statewide constitutional proposals, which are listed with the state ballot. Burlington votes on city questions in March, and there are none on this ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Probate Judge, Chittenden Probate District",
+      "candidates": [
+        {
+          "key": "vt-chittenden-2026-probate-judge-glennon-gregory",
+          "name": "Gregory J. Glennon",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "Assistant Judge, Chittenden County (vote for 2)",
+      "candidates": [
+        {
+          "key": "vt-chittenden-2026-assistant-judge-ramsey-connie",
+          "name": "Connie Cain Ramsey",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "vt-chittenden-2026-assistant-judge-williams-anne",
+          "name": "Anne Nichols Williams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "State's Attorney, Chittenden County",
+      "candidates": [
+        {
+          "key": "vt-chittenden-2026-states-attorney-george-sarah",
+          "name": "Sarah George",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "vt-chittenden-2026-states-attorney-laquerre-jace",
+          "name": "Jace Laquerre",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "Sheriff, Chittenden County",
+      "candidates": [
+        {
+          "key": "vt-chittenden-2026-sheriff-gamelin-daniel",
+          "name": "Daniel Gamelin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "High Bailiff, Chittenden County",
+      "candidates": [
+        {
+          "key": "vt-chittenden-2026-high-bailiff-mcmanus-paul",
+          "name": "Paul McManus",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "vt-chittenden-2026-high-bailiff-miller-sean",
+          "name": "Sean Miller",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "vt-chittenden-2026-high-bailiff-payne-amy",
+          "name": "Amy Payne",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Burlington": {
+      "contests": [
+        {
+          "office": "Justice of the Peace, City of Burlington (vote for up to 15)",
+          "candidates": [
+            {
+              "key": "vt-chittenden-2026-burlington-jp-alenick-sue",
+              "name": "Sue Alenick",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-bergman-gene",
+              "name": "Gene Bergman",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-bolyard-bob",
+              "name": "Bob Bolyard",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-broderick-marek",
+              "name": "Marek Broderick",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-brown-andy",
+              "name": "Andy Brown",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-campbell-floyd",
+              "name": "Floyd Campbell",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-champagne-andrew",
+              "name": "Andrew Damian Champagne",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-cina-brian",
+              "name": "Brian Cina",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-cummings-zachary",
+              "name": "Zachary Cummings",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-davila-aaliyah",
+              "name": "Aaliyah Davila",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-decelles-paul",
+              "name": "Paul Decelles",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-doherty-sam",
+              "name": "Sam Doherty",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-felker-christopher",
+              "name": "Christopher Aaron Felker",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-finneran-michaela",
+              "name": "Michaela Finneran",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-franz-adam",
+              "name": "Adam Franz",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-george-carmen",
+              "name": "Carmen George",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-grant-melo",
+              "name": "Melo Grant",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-grundhauser-grace",
+              "name": "Grace Grundhauser",
+              "party": "Independent",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-hightower-zoraya",
+              "name": "Zoraya Hightower",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-hofmann-jake",
+              "name": "Jake Hofmann",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-ingram-ray",
+              "name": "Ray Ingram",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-ivancic-monika",
+              "name": "Monika Ivancic",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-johnson-liam",
+              "name": "Liam Johnson",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-king-kevin",
+              "name": "Kevin King",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-kranichfeld-erin",
+              "name": "Erin Kranichfeld",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-krowinski-jill",
+              "name": "Jill Krowinski",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-leopold-mark",
+              "name": "Mark Leopold",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-letourneau-jim",
+              "name": "Jim Letourneau",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-mahnke-erhard",
+              "name": "Erhard Mahnke",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-manno-louie",
+              "name": "Louie Manno",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-myers-patricia",
+              "name": "Patricia Myers",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-neubieser-carter",
+              "name": "Carter Neubieser",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-nick-ryan",
+              "name": "Ryan Nick",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-oetjen-bill",
+              "name": "Bill Oetjen",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-prine-barb",
+              "name": "Barb Prine",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-rappaport-helaine",
+              "name": "Helaine \"Lainey\" Rappaport",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-rowell-karen",
+              "name": "Karen Rowell",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-saveall-lawrence",
+              "name": "Lawrence Saveall",
+              "party": "Other",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-selby-sean",
+              "name": "Sean Selby",
+              "party": "Green",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-sonin-jeffrey",
+              "name": "Jeffrey \"Phinn\" Sonin",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-chittenden-2026-burlington-jp-stromberg-jane",
+              "name": "Jane Stromberg",
+              "party": "Other",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.burlingtonvt.gov/DocumentCenter/View/12823"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
