@@ -1,0 +1,176 @@
+{
+  "state": "MI",
+  "county": "Kent County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+  ],
+  "note": "No Kent County executive or row offices are on this ballot: Prosecuting Attorney, Sheriff, Clerk/Register of Deeds, Treasurer and Drain Commissioner are elected in presidential years. County Commissioners are not on this ballot. Not shown: Grand Rapids City Commissioner wards (1st, 2nd, 3rd), district court judges (61st, 62A, 62B, 63rd Districts), Grand Rapids Community College and Montcalm Community College trustees, school board members (including Grand Rapids Public Schools), city, village and township offices outside Grand Rapids, and city, township, village, library and school proposals. Each depends on a district the address lookup cannot resolve. No City of Grand Rapids proposals are on this ballot. The Library Board partial term has only qualified write-in candidates. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-kent-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-kent-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+    },
+    {
+      "office": "Judge of Circuit Court, 17th Circuit, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-kent-2026-circuit-inc-gottlieb-maureen",
+          "name": "Maureen A. Gottlieb",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-kent-2026-circuit-inc-noto-scott",
+          "name": "Scott A. Noto",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-kent-2026-circuit-inc-west-clay",
+          "name": "Clay M. West",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-kent-2026-probate-inc-murkowski-david",
+          "name": "David M. Murkowski",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Kent County Zoo and Museum Millage Renewal",
+      "title": "Zoo and Museum Millage Renewal",
+      "summary": "Would renew Kent County's property tax of 0.4086 mill ($0.4086 per $1,000 of taxable value) for 2026 through 2035. The money goes to the John Ball Zoo and the Grand Rapids Public Museum for animal and artifact care, exhibit repair and improvement, and educational programs. The first-year levy is estimated to raise $15,562,948, part of which local development authorities may capture.",
+      "yesMeans": "Kent County would continue the 0.4086 mill zoo and museum tax for 2026 through 2035.",
+      "noMeans": "The zoo and museum millage would not be renewed.",
+      "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+    },
+    {
+      "id": "Kent County Corrections and Detention Facilities Millage Renewal and Increase",
+      "title": "Corrections and Detention Facilities Millage Renewal and Increase",
+      "summary": "Would authorize Kent County to levy 0.98 mill ($0.98 per $1,000 of taxable value) from 2026 through 2045 to expand, remodel, equip, operate, maintain and pay debt on county correction and detention facilities. This renews the existing millage, which expires after the 2029 levy, and increases it by 0.2468 mill. The first-year levy is estimated to raise $37,326,699, part of which local development authorities may capture.",
+      "yesMeans": "Kent County would levy 0.98 mill for correction and detention facilities from 2026 through 2045, an increase of 0.2468 mill over the existing millage.",
+      "noMeans": "The renewal and increase would not be approved; the existing millage would still run through the 2029 levy.",
+      "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+    }
+  ],
+  "municipalities": {
+    "Grand Rapids": {
+      "contests": [
+        {
+          "office": "City Comptroller (4-year term)",
+          "candidates": [
+            {
+              "key": "mi-kent-2026-grand-rapids-comptroller-bulkowski-david",
+              "name": "David Bulkowski",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-kent-2026-grand-rapids-comptroller-frantz-max",
+              "name": "Max Frantz",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+        },
+        {
+          "office": "Library Board (6-year term)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "mi-kent-2026-grand-rapids-library-full-boston-kelly",
+              "name": "Kelly Boston",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-kent-2026-grand-rapids-library-full-johnson-maggie",
+              "name": "Maggie Johnson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-kent-2026-grand-rapids-library-full-garner-gregory",
+              "name": "Gregory Garner",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+        },
+        {
+          "office": "Library Board (partial term ending 12/31/2028)",
+          "candidates": [
+            {
+              "key": "mi-kent-2026-grand-rapids-library-partial-brinks-sharon",
+              "name": "Sharon Brinks",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "writeIn": true
+            },
+            {
+              "key": "mi-kent-2026-grand-rapids-library-partial-gage-catherine",
+              "name": "Catherine Gage",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "writeIn": true
+            },
+            {
+              "key": "mi-kent-2026-grand-rapids-library-partial-herweyer-christopher",
+              "name": "Christopher Herweyer",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "writeIn": true
+            },
+            {
+              "key": "mi-kent-2026-grand-rapids-library-partial-kaminskas-kristina",
+              "name": "Kristina Kaminskas",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "writeIn": true
+            },
+            {
+              "key": "mi-kent-2026-grand-rapids-library-partial-keys-bennie",
+              "name": "Bennie Keys, JR",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "writeIn": true
+            }
+          ],
+          "source": "https://www.kentcountymi.gov/DocumentCenter/View/8870/November-3-2026-Candidates-and-Proposals-PDF"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

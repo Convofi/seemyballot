@@ -1,0 +1,338 @@
+{
+  "state": "NM",
+  "county": "Bernalillo County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02",
+    "https://www.cabq.gov/vote"
+  ],
+  "note": "Not shown: Bernalillo County's general obligation bond questions. The county's official ballot language could not be retrieved from bernco.gov on 2026-11-01, so the questions are left out rather than paraphrased from news reports; see your official sample ballot. Also not shown: County Commission Districts 1 and 5, State House and Public Education Commission districts, and any school, special-district or municipal questions outside Albuquerque. Each depends on a district the address lookup cannot resolve. The City of Albuquerque has no offices or questions on this ballot; its next regular local election is November 2, 2027. Names appear as filed with the Secretary of State, shown here in standard capitalization. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-sheriff-allen-john",
+          "name": "John D Allen",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-assessor-maine-michael",
+          "name": "Michael Ray Maine",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nm-bernalillo-2026-assessor-stover-linda",
+          "name": "Linda Stover",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-probate-judge-hernandez-veronica",
+          "name": "Veronica Hernandez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Division 2",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-div2-chavez-matthew",
+          "name": "Matthew Edwin Chavez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Division 11",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-div11-fox-bryan",
+          "name": "Bryan T Fox",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Division 19",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-div19-garcia-diana",
+          "name": "Diana Lynn Garcia",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Division 24",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-div24-lees-crystal",
+          "name": "Crystal Emerald Lees",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Judge of the Metropolitan Court, Division 5",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-div5-maestas-ramon",
+          "name": "Ramon J Maestas",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-bernalillo-2026-metro-judge-div5-morris-kerry",
+          "name": "Kerry J Morris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Judge of the Metropolitan Court, Division 19",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-div19-gunderson-andrea",
+          "name": "Andrea Inez Gunderson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 1: William Edward Parnall (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div1-parnall-william",
+          "name": "William Edward Parnall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 4: Beatrice J Brickhouse (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div4-brickhouse-beatrice",
+          "name": "Beatrice J Brickhouse",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 7: Alma C Garcia Roberson (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div7-garcia-roberson-alma",
+          "name": "Alma C Garcia Roberson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 10: Bruce C Fox (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div10-fox-bruce",
+          "name": "Bruce C Fox",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 13: Lisa Chavez Ortega (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div13-ortega-lisa",
+          "name": "Lisa Chavez Ortega",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 16: Jennifer J Wernersbach (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div16-wernersbach-jennifer",
+          "name": "Jennifer J Wernersbach",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 22: Amber Louisee Chavez Baker (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div22-chavez-baker-amber",
+          "name": "Amber Louisee Chavez Baker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 25: Jane Conway Levy (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div25-levy-jane",
+          "name": "Jane Conway Levy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "District Court Judge retention, Second Judicial District, Division 28: Clara M Moran (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-district-judge-retain-div28-moran-clara",
+          "name": "Clara M Moran",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 2: Christine Eve Rodriguez (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div2-rodriguez-christine",
+          "name": "Christine Eve Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 4: Joshua J Sanchez (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div4-sanchez-joshua",
+          "name": "Joshua J Sanchez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 8: Jill Martinez (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div8-martinez-jill",
+          "name": "Jill Martinez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 10: Brittany Maldonado Malott (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div10-maldonado-malott-brittany",
+          "name": "Brittany Maldonado Malott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 12: Jason M Jaramillo (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div12-jaramillo-jason",
+          "name": "Jason M Jaramillo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 14: Vidalia G Chavez (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div14-chavez-vidalia",
+          "name": "Vidalia G Chavez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 16: Claire Ann McDaniel (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div16-mcdaniel-claire",
+          "name": "Claire Ann McDaniel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    },
+    {
+      "office": "Metropolitan Court Judge retention, Division 18: Rosie Lazcano Allred (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-bernalillo-2026-metro-judge-retain-div18-allred-rosie",
+          "name": "Rosie Lazcano Allred",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=02"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

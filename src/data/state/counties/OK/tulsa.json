@@ -1,0 +1,66 @@
+{
+  "state": "OK",
+  "county": "Tulsa County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://hosting.okelections.gov/electionlist.html",
+    "https://www.cityoftulsa.org/apps/COTDisplayDocument?DocumentType=CouncilDocument&DocumentIdentifiers=6627",
+    "https://www.cityoftulsa.org/apps/CouncilDocuments?item=50160",
+    "https://tulsacountydistrictcourt.org/civil.html"
+  ],
+  "note": "Oklahoma prints only contested races: no Tulsa County offices and no countywide propositions are on the November 3, 2026 Tulsa County ballot according to the State Election Board's list. Not shown: District Judge, District 14, Office 4 (elected only within a judicial electoral division of Tulsa County), Tulsa City Council District 1, and any school district or other local questions. Each depends on a district the address lookup cannot resolve. Check your official sample ballot at the OK Voter Portal.",
+  "contests": [
+    {
+      "office": "District Judge, District 14, Office 1 (nonpartisan)",
+      "candidates": [
+        {
+          "key": "ok-tulsa-2026-district-judge-office1-sawyer-tom",
+          "name": "Tom Sawyer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ok-tulsa-2026-district-judge-office1-wall-caroline",
+          "name": "Caroline Wall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    },
+    {
+      "office": "District Judge, District 14, Office 12 (nonpartisan)",
+      "candidates": [
+        {
+          "key": "ok-tulsa-2026-district-judge-office12-camp-christopher",
+          "name": "Christopher Camp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ok-tulsa-2026-district-judge-office12-gray-kevin",
+          "name": "Kevin Gray",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Tulsa": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Hotel Tax Proposition No. 1",
+          "title": "Hotel Tax Proposition No. 1",
+          "summary": "Asks Tulsa voters to approve Ordinance No. 25830, which raises the city's excise tax on hotel room rents from 5% to 9.9%. The tax applies to the gross receipts from every occupancy of a hotel room in the city. If approved, the new rate takes effect January 1, 2027.",
+          "yesMeans": "The City of Tulsa hotel tax would rise from 5% to 9.9% starting January 1, 2027.",
+          "noMeans": "Ordinance No. 25830 would be void and the hotel tax would stay at 5%.",
+          "source": "https://www.cityoftulsa.org/apps/COTDisplayDocument?DocumentType=CouncilDocument&DocumentIdentifiers=6627"
+        }
+      ]
+    }
+  }
+}
