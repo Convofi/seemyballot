@@ -1,0 +1,382 @@
+{
+  "state": "TX",
+  "county": "Galveston County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf",
+    "https://galvestonvotes.org/election-information/current-and-upcoming-elections/",
+    "https://galvestonvotes.org/wp-content/uploads/2026/08/Galveston-County-Order.pdf",
+    "https://galvestonvotes.org/wp-content/uploads/2026/08/City-of-League-City-Order.pdf",
+    "https://galvestonvotes.org/wp-content/uploads/2026/08/City-of-League-City-Order-for-Council-Position-3.pdf",
+    "https://galvestonvotes.org/wp-content/uploads/2026/08/City-of-League-City-Order-for-Special-Election.pdf"
+  ],
+  "note": "From the Galveston County Elections Division's November 2026 ballot and measures list (the Texas Secretary of State ballot certification report for Galveston County plus local entity lists) and the county and League City election orders. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1, 2 and 4, U.S. House, State Senate, State House and State Board of Education districts, school board trustee races (e.g. Friendswood, Galveston and Santa Fe ISDs), Galveston County Navigation District No. 1, Appraisal District, and MUD and WCID bond and tax propositions. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. There is no countywide proposition. Incumbent flags are set only where an official document names the officeholder (County Clerk on the county's election order; League City officeholders on the city's election order). Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Chief Justice, 14th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-coa14-cj-jewell-kevin",
+          "name": "Kevin Jewell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-galveston-2026-coa14-cj-landau-sarah",
+          "name": "Sarah Beth Landau",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Justice, 14th Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-coa14-p7-wise-ken",
+          "name": "Ken Wise",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-galveston-2026-coa14-p7-demond-william",
+          "name": "William Demond",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-coa1-p3-frankfort-todd",
+          "name": "Todd Frankfort",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-galveston-2026-coa1-p3-rivas-molloy-veronica",
+          "name": "Veronica Rivas-Molloy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 4 (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-coa1-p4-gunn-david",
+          "name": "David Gunn",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-galveston-2026-coa1-p4-countiss-julie",
+          "name": "Julie Countiss",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 5",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-coa1-p5-caird-jessica",
+          "name": "Jessica Caird",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-galveston-2026-coa1-p5-guerra-amy",
+          "name": "Amy Guerra",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "District Judge, 122nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-dist-122-jones-jeth",
+          "name": "Jeth Jones",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "District Judge, 212th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-dist-212-grady-patricia",
+          "name": "Patricia Grady",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "District Judge, 306th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-dist-306-fisher-emily",
+          "name": "Emily A. Fisher",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-cda-cusick-kenneth",
+          "name": "Kenneth Cusick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-county-judge-henry-mark",
+          "name": "Mark Henry",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-galveston-2026-county-judge-smith-albert",
+          "name": "Albert Al Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-ccl-1-grady-john",
+          "name": "John Grady",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-ccl-2-foley-kerri",
+          "name": "Kerri Foley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-ccl-3-ewing-jack",
+          "name": "Jack Ewing",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "Judge, Probate Court at Law",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-probate-sullivan-kim",
+          "name": "Kim Sullivan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-district-clerk-morris-samantha",
+          "name": "Samantha Morris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-galveston-2026-county-clerk-sullivan-dwight",
+          "name": "Dwight Sullivan",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "League City": {
+      "contests": [
+        {
+          "office": "League City Mayor",
+          "candidates": [
+            {
+              "key": "tx-galveston-2026-leaguecity-mayor-long-nick",
+              "name": "Nick Long",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-mayor-crews-tom",
+              "name": "Tom Crews",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+        },
+        {
+          "office": "League City Council, Position 1",
+          "candidates": [
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p1-bethel-gordon",
+              "name": "Gordon Bethel",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p1-carpenter-dinah",
+              "name": "Dinah Carpenter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p1-driskill-dina",
+              "name": "Dina DuBose Driskill",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+        },
+        {
+          "office": "League City Council, Position 2",
+          "candidates": [
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p2-cones-tommy",
+              "name": "Tommy Cones",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p2-etten-gregory",
+              "name": "Gregory Van Etten",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+        },
+        {
+          "office": "League City Council, Position 3 (unexpired term)",
+          "candidates": [
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p3-bruce-robert",
+              "name": "Robert Bruce",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p3-segelquist-julius",
+              "name": "Julius Segelquist",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p3-rowlands-seth",
+              "name": "Seth Rowlands",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+        },
+        {
+          "office": "League City Council, Position 6",
+          "candidates": [
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p6-doyle-sean",
+              "name": "Sean Doyle",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p6-welty-lisa",
+              "name": "Lisa Welty",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+        },
+        {
+          "office": "League City Council, Position 7",
+          "candidates": [
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p7-saunders-sean",
+              "name": "Sean Saunders",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "tx-galveston-2026-leaguecity-council-p7-potter-teresa",
+              "name": "Teresa Potter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of League City Proposition A",
+          "title": "Nonbinding question on automated license plate reader cameras",
+          "summary": "Asks League City voters, as a nonbinding statement of preference, whether the League City Police Department should continue using automated license plate reader cameras at fixed locations on public roadways for law enforcement purposes. The result is advisory and does not by itself change city law.",
+          "yesMeans": "You prefer that the police department continue using fixed automated license plate reader cameras.",
+          "noMeans": "You prefer that the police department not continue using fixed automated license plate reader cameras.",
+          "source": "https://galvestonvotes.org/wp-content/uploads/2026/08/City-of-League-City-Order-for-Special-Election.pdf",
+          "moreInfo": "https://galvestonvotes.org/wp-content/uploads/2026/09/November-2026-General-Election-Ballot-and-Measures.pdf"
+        }
+      ]
+    }
+  }
+}
