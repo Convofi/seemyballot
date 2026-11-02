@@ -1,0 +1,295 @@
+{
+  "state": "TX",
+  "county": "Bell County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.bellcountytx.com/departments/elections/ballot_samples.php",
+    "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+    "https://www.bellcountytx.com/about_us/elected_officials/index.php",
+    "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+  ],
+  "note": "From the Bell County Elections Department's November 3, 2026 precinct sample ballots. The county offices, district judges, appraisal district board places and Hospital Services District Proposition A shown here were confirmed on a sample of 20 of the 117 precinct ballots across all four commissioner precincts. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace races, U.S. House, State Senate and State House districts, school district propositions (e.g. Bartlett, Florence and Holland ISDs), City of Temple Proposition A, and other cities' and MUD items. Incumbent flags are set only where the county's elected-officials page lists the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 3rd Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-coa3-chief-liu-cory",
+          "name": "Cory Liu",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bell-2026-coa3-chief-byrne-darlene",
+          "name": "Darlene Byrne",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "District Judge, 169th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-dj169-starritt-burnett-cari",
+          "name": "Cari Starritt-Burnett",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "District Judge, 264th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-dj264-lepak-paul",
+          "name": "Paul L. LePak",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "District Judge, 478th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-dj478-faulkner-wade",
+          "name": "Wade Faulkner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-county-judge-blackburn-david",
+          "name": "David Blackburn",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-ccl1-motz-paul",
+          "name": "Paul Motz",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-ccl2-mischtian-john",
+          "name": "John Mischtian",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-ccl3-gauntt-john",
+          "name": "John Gauntt, Jr",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-district-clerk-martindale-lacey",
+          "name": "Lacey Martindale",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-county-clerk-coston-shelley",
+          "name": "Shelley Coston",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-treasurer-hodges-adriane",
+          "name": "Adriane Hodges",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "Bell County Appraisal District, Board of Directors, Place 1",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-cad-p1-koch-kevin",
+          "name": "Kevin Koch",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "Bell County Appraisal District, Board of Directors, Place 2",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-cad-p2-butts-james",
+          "name": "James Butts",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bell-2026-cad-p2-strang-paul",
+          "name": "Paul Strang",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bell-2026-cad-p2-everett-gwendolyn",
+          "name": "Gwendolyn Everett",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    },
+    {
+      "office": "Bell County Appraisal District, Board of Directors, Place 3",
+      "candidates": [
+        {
+          "key": "tx-bell-2026-cad-p3-wilson-charles",
+          "name": "Charles Wilson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-bell-2026-cad-p3-minick-cheyenne",
+          "name": "Cheyenne Minick",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Hospital Services District, Proposition A",
+      "title": "Creation of a hospital district and a tax of up to 75 cents per $100 valuation",
+      "summary": "The ballot states: \"THIS IS A TAX INCREASE.\" It asks voters to approve creating a hospital district and levying a tax of not more than 75 cents on each $100 of taxable value of property taxable by the district.",
+      "yesMeans": "The hospital district is created and may levy a property tax of up to 75 cents per $100 of taxable value.",
+      "noMeans": "The hospital district is not created and the tax is not levied.",
+      "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf"
+    }
+  ],
+  "municipalities": {
+    "Killeen": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Killeen Proposition A",
+          "title": "Moving Regular City Elections to November",
+          "summary": "Would amend the Killeen City Charter to move regular elections for mayor and all council members to the November uniform election date in odd-numbered years, with related grammatical and technical changes.",
+          "yesMeans": "Regular city elections move to the November uniform election date in odd-numbered years.",
+          "noMeans": "Regular city election dates stay as they are under the current charter.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        },
+        {
+          "id": "City of Killeen Proposition B",
+          "title": "Repealing the Resign-to-Run Provision",
+          "summary": "Would amend the Killeen City Charter to repeal the requirement that a City Council member resign and vacate the seat upon filing to run for a different office on the City Council, with related grammatical and technical changes.",
+          "yesMeans": "Council members would no longer have to resign to run for a different City Council office.",
+          "noMeans": "The resign-to-run requirement stays in the charter.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        },
+        {
+          "id": "City of Killeen Proposition C",
+          "title": "Filling Vacancies on the City Council",
+          "summary": "Would amend the Killeen City Charter to require that any City Council vacancy be filled by majority vote of the remaining council members, with a special election allowed if the council no longer has a quorum, plus related grammatical and technical changes.",
+          "yesMeans": "Council vacancies would be filled by majority vote of the remaining members, with a special election if there is no quorum.",
+          "noMeans": "The current charter process for filling council vacancies stays in place.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        },
+        {
+          "id": "City of Killeen Proposition D",
+          "title": "Initiative & Referendum Petition Timeline",
+          "summary": "Would amend the Killeen City Charter to change, from 10 days to 30 days, the time the City Secretary has to certify an initiative or referendum petition and the time a petitioner has to amend a deficient petition, with related grammatical and technical changes.",
+          "yesMeans": "The petition certification and amendment periods change from 10 days to 30 days.",
+          "noMeans": "The periods stay at 10 days.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        },
+        {
+          "id": "City of Killeen Proposition E",
+          "title": "Adoption of Initiatives",
+          "summary": "Would amend the Killeen City Charter to prohibit the City Council from adopting, or submitting to voters, any initiated ordinance that is inconsistent with state law, with related grammatical and technical changes.",
+          "yesMeans": "The council could not adopt or submit to voters an initiated ordinance inconsistent with state law.",
+          "noMeans": "The charter is not amended on this point.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        },
+        {
+          "id": "City of Killeen Proposition F",
+          "title": "Grounds for Recall",
+          "summary": "Would amend the Killeen City Charter to require that a recall affidavit allege incompetence, official misconduct, or malfeasance in office by the elected official, with related grammatical and technical changes.",
+          "yesMeans": "A recall affidavit would have to allege incompetence, official misconduct, or malfeasance in office.",
+          "noMeans": "The charter's current recall grounds stay in place.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        },
+        {
+          "id": "City of Killeen Proposition G",
+          "title": "Recall Petition Requirements",
+          "summary": "Would amend the Killeen City Charter to change, from 1 day to 5 days, the time the City Secretary has to provide petition blanks after a recall affidavit is submitted, with related grammatical and technical changes.",
+          "yesMeans": "The City Secretary would have 5 days instead of 1 day to provide recall petition blanks.",
+          "noMeans": "The period stays at 1 day.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        },
+        {
+          "id": "City of Killeen Proposition H",
+          "title": "Recall of District Councilmember",
+          "summary": "Would amend the Killeen City Charter to require that a person filing a recall affidavit for a district council member live within that member's district, with related grammatical and technical changes.",
+          "yesMeans": "Only residents of a district council member's district could file a recall affidavit against that member.",
+          "noMeans": "The charter is not amended on this point.",
+          "source": "https://www.bellcountytx.com/elections/Sample/SAMPLE_201KIL.pdf",
+          "moreInfo": "https://www.bellcountytx.com/departments/elections/City%20of%20Killeen%20Ord.%2026-030%20Calling%20the%20Special%20Charter%20Amendments%20Election%2011.3.26%20Eng%20and%20Span%20executed.pdf"
+        }
+      ]
+    }
+  }
+}

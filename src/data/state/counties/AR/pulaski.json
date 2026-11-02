@@ -1,0 +1,36 @@
+{
+  "state": "AR",
+  "county": "Pulaski County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://votepulaskiar.gov/wp-content/uploads/11032026_Notice-of-Election_v1.pdf",
+    "https://votepulaskiar.gov/"
+  ],
+  "note": "Unopposed candidates do not appear on the ballot. Unopposed this year: Sheriff (Eric S. Higgins), Circuit/County Clerk (Terri Hollingsworth), Treasurer (Debra Buckner) and Assessor (Janet Troutman Ward). Not shown because they depend on your district: Justices of the Peace, constables, and Little Rock City Director Wards 1, 2, 3, 6 and 7. Other cities' races and the Jacksonville ward-representation initiative are also not shown. There is no countywide or City of Little Rock ballot question. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Pulaski County Judge",
+      "candidates": [
+        { "key": "ar-pulaski-2026-county-judge-rushin-michael", "name": "Michael Rushin", "party": "Republican", "incumbent": false },
+        { "key": "ar-pulaski-2026-county-judge-griffen-wendell", "name": "Wendell Griffen", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://votepulaskiar.gov/wp-content/uploads/11032026_Notice-of-Election_v1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Little Rock": {
+      "contests": [
+        {
+          "office": "Little Rock Mayor",
+          "candidates": [
+            { "key": "ar-pulaski-2026-little-rock-mayor-wyrick-brenda", "name": "B.J. Brenda Wyrick", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ar-pulaski-2026-little-rock-mayor-scott-frank", "name": "Frank Scott, Jr.", "party": "Nonpartisan", "incumbent": true }
+          ],
+          "source": "https://votepulaskiar.gov/wp-content/uploads/11032026_Notice-of-Election_v1.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
