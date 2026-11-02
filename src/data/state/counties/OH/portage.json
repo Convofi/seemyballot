@@ -1,0 +1,112 @@
+{
+  "state": "OH",
+  "county": "Portage County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=088___1&bpty=X",
+    "https://boe.co.trumbull.oh.gov/pdfs/r440%2002%20office%20holder%20details_tr_.pdf"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city issues (including the Ravenna City income tax for fire, police and city hall buildings, Issue 15); village, township and school district issues (including Ravenna City School District Issue 5); and precinct local-liquor-option questions. The Portage County government website blocked automated access. Only Robert J. Patton is marked as an incumbent, confirmed from the Trumbull County Board of Elections office-holder roster for the shared 11th District; no other candidate's incumbency could be confirmed from an official roster. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-portage-2026-app11-0209-cornachio-marisa",
+          "name": "Marisa L. Cornachio",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-portage-2026-app11-0210-patton-robert",
+          "name": "Robert J. Patton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-portage-2026-cpgen-0101-doherty-becky",
+          "name": "Becky L. Doherty",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-portage-2026-juvenile-probate-0209-smith-patricia",
+          "name": "Patricia J. Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-portage-2026-commissioner-adams-jenny",
+          "name": "Jenny D. Adams",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-portage-2026-commissioner-tinlin-mike",
+          "name": "Mike Tinlin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-portage-2026-auditor-kelly-matt",
+          "name": "Matt Kelly",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 13",
+      "title": "Portage County Job and Family Services – Proposed Tax Levy (Additional)",
+      "summary": "Asks whether Portage County may levy an additional property tax of up to 0.4 mill for 5 years, beginning in 2026 and first due in 2027, for the Portage County Department of Job and Family Services. The money would pay for public assistance, human or social services (including children and adult services), and relief. The county auditor estimates it will collect $2,451,896 a year, or $14 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The additional 0.4-mill levy for Job and Family Services takes effect for 5 years.",
+      "noMeans": "The additional levy is not imposed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=088___1&bpty=X"
+    },
+    {
+      "id": "Issue 14",
+      "title": "Portage County Mental Health and Recovery Board – Proposed Tax Levy (Renewal)",
+      "summary": "Asks whether to renew a property tax of up to 0.3 mill for 10 years, beginning in 2027 and first due in 2028, for the Mental Health and Recovery Board of Portage County. The money funds the county's mental health and recovery services district, including alcohol and drug addiction programs and mental health programs. The county auditor estimates it will collect $1,157,027 a year, or $6 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The 0.3-mill mental health and recovery levy is renewed for 10 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/portage/getballot.aspx?elect=20261103G&prsid=088___1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

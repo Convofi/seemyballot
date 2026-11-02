@@ -1,0 +1,108 @@
+{
+  "state": "OH",
+  "county": "Greene County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=201___1&bpty=X"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city issues (including the City of Xenia charter amendments, Issue 22); village, township and school district issues; and precinct local-liquor-option questions. The Greene County government website blocked automated access, so no candidate is marked as incumbent because incumbency could not be confirmed from an official roster. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 2nd District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-greene-2026-app2-0209-epley-chris",
+          "name": "Chris Epley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-greene-2026-cpgen-0102-buckwalter-michael",
+          "name": "Michael A. Buckwalter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-greene-2026-domrel-0101-martin-cynthia",
+          "name": "Cynthia Martin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-greene-2026-probate-0209-waite-wayne",
+          "name": "Wayne Waite",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "oh-greene-2026-commissioner-gould-dick",
+          "name": "Dick Gould",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-greene-2026-auditor-hagler-kraig",
+          "name": "Kraig A. Hagler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
+    },
+    {
+      "office": "County Treasurer (unexpired term ending 9/2/2029)",
+      "candidates": [
+        {
+          "key": "oh-greene-2026-treasurer-unexp-jenkins-amanda",
+          "name": "Amanda L. Jenkins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 4",
+      "title": "Greene County – Proposed Tax Levy (Renewal): Bridges",
+      "summary": "Asks whether Greene County may renew a property tax of up to 0.25 mill for 5 years, beginning in 2026 and first due in 2027. The money pays for building, rebuilding, maintaining, resurfacing, repairing or removing bridges in all subdivisions of the county. The county auditor estimates it will collect $1,081,387 a year, or $5 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The 0.25-mill county bridge levy is renewed for 5 years.",
+      "noMeans": "The bridge levy is not renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=201___1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

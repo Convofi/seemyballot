@@ -1,0 +1,100 @@
+{
+  "state": "OH",
+  "county": "Richland County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0100__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0710__1&bpty=X",
+    "https://www.richlandcountyoh.gov/departments/auditor",
+    "https://www.richlandcountyoh.gov/departments/probatecourt"
+  ],
+  "note": "Not shown: state legislative and congressional districts; and any city, village, township, school district or precinct items. No countywide issue is on this ballot, and the sampled Mansfield and Plymouth Township ballots carry no local issues. Incumbency for the Common Pleas General Division seat, County Commissioner and Clerk of Courts could not be confirmed from an official roster, so no candidate in those races is marked as incumbent. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-richland-2026-app5-0209-george-matthew",
+          "name": "Matthew George",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0100__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-richland-2026-cpgen-0209-naumoff-phillip",
+          "name": "Phillip S. Naumoff",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0100__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-richland-2026-probate-0209-badnell-kelly",
+          "name": "Kelly L. Badnell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-richland-2026-probate-0209-franco-robert",
+          "name": "Robert A. Franco",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0100__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-richland-2026-commissioner-kaufmann-mark",
+          "name": "Mark Kaufmann",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-richland-2026-commissioner-mears-cliff",
+          "name": "Cliff Mears",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0100__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-richland-2026-auditor-dropsey-patrick",
+          "name": "Patrick W. Dropsey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0100__1&bpty=X"
+    },
+    {
+      "office": "Clerk of the Court of Common Pleas (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-richland-2026-clerk-unexp-ewing-heidi",
+          "name": "Heidi Ewing",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/richland/getballot.aspx?elect=20261103G&prsid=0100__1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

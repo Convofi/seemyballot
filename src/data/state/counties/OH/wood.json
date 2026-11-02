@@ -1,0 +1,133 @@
+{
+  "state": "OH",
+  "county": "Wood County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List",
+    "https://boe.woodcountyohio.gov/DocumentCenter/View/1005/Q-and-I-List",
+    "https://boe.woodcountyohio.gov/DocumentCenter/View/231/County-Offices-PDF",
+    "https://boe.woodcountyohio.gov/DocumentCenter/View/234/Judicial-Offices-PDF"
+  ],
+  "note": "Candidates are from the Board of Elections certified list dated 8/26/2026. Not shown: state legislative and congressional districts; the Wood County District Public Library levy (the library district does not cover all of Wood County); city issues (including the Bowling Green parks and recreation levy and Fostoria); township, village, road district and ambulance district levies; school district issues (Eastwood, Lake, McComb, North Baltimore); and precinct local-liquor-option questions. The Board's issues list does not give issue numbers, ballot language, or dollar estimates for the senior services levy. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 6th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-wood-2026-app6-0209-goulding-michael",
+          "name": "Michael R. Goulding",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 6th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-wood-2026-app6-0210-duhart-myron",
+          "name": "Myron C. Duhart",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-wood-2026-app6-0210-kamm-cj",
+          "name": "CJ Kamm",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-wood-2026-cpgen-0101-dobson-paul",
+          "name": "Paul A. Dobson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-wood-2026-cpgen-0101-kuhlman-joel",
+          "name": "Joel M. Kuhlman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-wood-2026-probate-0209-newlove-megan",
+          "name": "Megan E. Newlove",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-wood-2026-probate-0209-ruck-doug",
+          "name": "Doug Ruck",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-wood-2026-commissioner-reynolds-brenna",
+          "name": "Brenna Reynolds",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-wood-2026-commissioner-lee-ryan",
+          "name": "Ryan E. Lee",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-wood-2026-commissioner-demare-joseph",
+          "name": "Joseph R. DeMare",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List"
+    },
+    {
+      "office": "County Auditor (term beginning 3/8/2027)",
+      "candidates": [
+        {
+          "key": "oh-wood-2026-auditor-wongrowski-mark",
+          "name": "Mark Wongrowski",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-wood-2026-auditor-oestreich-matthew",
+          "name": "Matthew R. Oestreich",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Wood County Senior Services Tax Levy",
+      "title": "Wood County – Renewal Tax Levy, 1 Mill for 5 Years: Senior Services",
+      "summary": "Asks whether Wood County may renew a 1-mill property tax for 5 years, beginning in 2026 and first due in 2027. The money pays for providing or maintaining senior services or facilities.",
+      "yesMeans": "The 1-mill senior services levy is renewed for 5 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://boe.woodcountyohio.gov/DocumentCenter/View/1005/Q-and-I-List"
+    }
+  ],
+  "municipalities": {}
+}

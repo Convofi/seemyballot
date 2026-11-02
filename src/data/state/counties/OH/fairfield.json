@@ -1,0 +1,84 @@
+{
+  "state": "OH",
+  "county": "Fairfield County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/fairfield/getballot.aspx?elect=20261103G&prsid=101A__1&bpty=X",
+    "https://www.boe.ohio.gov/fairfield/c/upload/Election_Candidates.pdf",
+    "https://www.co.fairfield.oh.us/COMMISH/FC-Jeff-Fix-commissioner.html",
+    "https://www.co.fairfield.oh.us/auditor/about-auditor.html",
+    "https://www.fairfieldcountyprobate.com/"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city, village, township and school district issues; and precinct local-liquor-option questions. No countywide issue is on this ballot, and Lancaster has no city offices or citywide issues on it. Incumbency for the Common Pleas General Division seat could not be confirmed from an official roster. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-fairfield-2026-app5-0209-george-matthew",
+          "name": "Matthew George",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/fairfield/getballot.aspx?elect=20261103G&prsid=101A__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-fairfield-2026-cpgen-0209-trimmer-david",
+          "name": "David Andrew Trimmer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/fairfield/getballot.aspx?elect=20261103G&prsid=101A__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-fairfield-2026-juvenile-probate-0209-vandervoort-terre",
+          "name": "Terre L. Vandervoort",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/fairfield/getballot.aspx?elect=20261103G&prsid=101A__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-fairfield-2026-commissioner-fix-jeffrey",
+          "name": "Jeffrey Fix",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/fairfield/getballot.aspx?elect=20261103G&prsid=101A__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-fairfield-2026-auditor-brown-carri",
+          "name": "Carri L. Brown",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-fairfield-2026-auditor-flinn-elaine",
+          "name": "Elaine Flinn",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/fairfield/c/upload/Election_Candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
