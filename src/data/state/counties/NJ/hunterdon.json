@@ -1,0 +1,53 @@
+{
+  "state": "NJ",
+  "county": "Hunterdon County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.hunterdon.nj.us/DocumentCenter/View/20579",
+    "https://www.co.hunterdon.nj.us/DocumentCenter/View/20499",
+    "https://www.co.hunterdon.nj.us/DocumentCenter/View/20398/G26-Independents-PDF",
+    "https://www.co.hunterdon.nj.us/DocumentCenter/View/20649/Public-Notice-for-General-Election-2026",
+    "https://www.co.hunterdon.nj.us/236/County-Clerk"
+  ],
+  "note": "From the Hunterdon County Clerk's 2026 General Election candidate lists (Democratic, Republican and independent) and Notice of General Election. Names are shown in normal capitalization; the clerk's lists print them in capitals. There are no countywide public questions. Municipal mayor, council and township committee seats, fire district commissioners, Board of Education seats, and school bond and fire district questions vary by town and are not shown here. The County Clerk incumbent flag comes from the County Clerk's official page. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "nj-hunterdon-2026-county-clerk-gilesmccormick-caitlin",
+          "name": "Caitlin Giles-McCormick",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-hunterdon-2026-county-clerk-melfi-mary",
+          "name": "Mary H. Melfi",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.hunterdon.nj.us/DocumentCenter/View/20579"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "nj-hunterdon-2026-commissioner-blazakis-jason",
+          "name": "Jason Blazakis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-hunterdon-2026-commissioner-vandoren-shaun",
+          "name": "Shaun C. Van Doren",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.hunterdon.nj.us/DocumentCenter/View/20579"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

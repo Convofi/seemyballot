@@ -1,0 +1,50 @@
+{
+  "state": "NJ",
+  "county": "Salem County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://salemcountyclerk.org/wp-content/uploads/2026/08/Salem-City-East-F13_Optimized.pdf",
+    "https://salemcountyclerk.org/election-services/"
+  ],
+  "note": "From the Salem County Clerk's 2026 General Election ballot previews for all 16 ballot forms; both County Commissioner contests appear on each. There are no countywide public questions. Salem City council (by ward), township committee and borough council seats, Board of Education seats, and municipal or school questions vary by town and are not shown here. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner (3-year term)",
+      "candidates": [
+        {
+          "key": "nj-salem-2026-commissioner-3yr-ramsay-ed",
+          "name": "Ed Ramsay",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-salem-2026-commissioner-3yr-hassler-charles",
+          "name": "Charles Hassler",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://salemcountyclerk.org/wp-content/uploads/2026/08/Salem-City-East-F13_Optimized.pdf"
+    },
+    {
+      "office": "County Commissioner (1-year unexpired term)",
+      "candidates": [
+        {
+          "key": "nj-salem-2026-commissioner-1yr-collier-paul",
+          "name": "Paul M. Collier",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-salem-2026-commissioner-1yr-ayars-john",
+          "name": "John Buddy Ayars",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://salemcountyclerk.org/wp-content/uploads/2026/08/Salem-City-East-F13_Optimized.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

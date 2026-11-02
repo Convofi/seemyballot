@@ -1,0 +1,75 @@
+{
+  "state": "NJ",
+  "county": "Cumberland County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://cumberlandcountyclerknj.gov/wp-content/uploads/2026/09/Bridgeton-Sample-Ballot-2026-General-Election.pdf",
+    "https://cumberlandcountyclerknj.gov/2026-november-general-election-sample-ballots/"
+  ],
+  "note": "From the Cumberland County Clerk's 2026 General Election sample ballots; the Sheriff and County Commissioner contests appear on the sample ballots for all 14 municipalities. There are no countywide public questions. City, borough and township races (including Bridgeton mayor and council-at-large and the Bridgeton library question), Board of Education seats, and municipal or school questions vary by town and are not shown here. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "nj-cumberland-2026-sheriff-austino-robert",
+          "name": "Robert A. Austino",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-cumberland-2026-sheriff-donato-michael",
+          "name": "Michael Donato",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cumberlandcountyclerknj.gov/wp-content/uploads/2026/09/Bridgeton-Sample-Ballot-2026-General-Election.pdf"
+    },
+    {
+      "office": "County Commissioner",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nj-cumberland-2026-commissioner-smith-larae",
+          "name": "LaRae H. Smith",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-cumberland-2026-commissioner-pepitone-joseph",
+          "name": "Joseph Pepitone",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-cumberland-2026-commissioner-franceschini-ronald",
+          "name": "Ronald J. Franceschini, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-cumberland-2026-commissioner-taylor-sandra",
+          "name": "Sandra J. Taylor",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-cumberland-2026-commissioner-marchand-arthur",
+          "name": "Arthur L. Marchand, II",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-cumberland-2026-commissioner-sauro-james",
+          "name": "James R. Sauro",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cumberlandcountyclerknj.gov/wp-content/uploads/2026/09/Bridgeton-Sample-Ballot-2026-General-Election.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

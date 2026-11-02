@@ -1,0 +1,50 @@
+{
+  "state": "NJ",
+  "county": "Sussex County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sussexcountyclerk.org/DocumentCenter/View/4757/Town-of-Newton",
+    "https://www.sussexcountyclerk.org/936/2026-November-3-General-Election-Sample-"
+  ],
+  "note": "From the Sussex County Clerk's 2026 General Election sample ballots for all 24 municipalities; the County Clerk and County Commissioner contests appear on each. There are no countywide public questions. Town council and township committee races, Board of Education seats, and municipal or school questions (for example in Green Township and Hopatcong) vary by town and are not shown here. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "nj-sussex-2026-county-clerk-golden-clare",
+          "name": "Clare Golden",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-sussex-2026-county-clerk-carney-christopher",
+          "name": "Christopher Carney",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sussexcountyclerk.org/DocumentCenter/View/4757/Town-of-Newton"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "nj-sussex-2026-commissioner-destefano-philip",
+          "name": "Philip DeStefano",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-sussex-2026-commissioner-degroot-jack",
+          "name": "Jack DeGroot",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sussexcountyclerk.org/DocumentCenter/View/4757/Town-of-Newton"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
