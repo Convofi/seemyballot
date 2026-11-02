@@ -1,0 +1,90 @@
+{
+  "state": "SC",
+  "county": "Charleston County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=778&searchType=Default",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=779&searchType=Default",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=754&searchType=Default",
+    "https://www.charlestoncounty.gov/departments/bevr/",
+    "https://www.charlestoncounty.gov/departments/bevr/files/2026/2026-ge-notice-of-election.pdf"
+  ],
+  "note": "From the S.C. State Election Commission's candidate and referendum lists for Charleston County and the Charleston County Board of Voter Registration and Elections. Not shown here because they depend on your district: County Council Districts 1, 2, 5, 8 and 9, Charleston County School District constituent and board districts, James Island and St. Andrews Public Service Districts, the Town of Hollywood bond question, and state legislative and U.S. House districts. Check your official sample ballot for those. Only one candidate qualified for the two Soil and Water District Commission seats. City of Charleston offices are not on the 2026 ballot (city elections are in odd years), and there is no City of Charleston question.",
+  "contests": [
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-charleston-2026-probate-judge-condon-irv",
+          "name": "Irv Condon",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "sc-charleston-2026-probate-judge-curry-tamara",
+          "name": "Tamara Cunningham Curry",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Register of Deeds",
+      "candidates": [
+        {
+          "key": "sc-charleston-2026-register-of-deeds-hollings-karen",
+          "name": "Karen Lesser Hollings",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Soil and Water District Commission",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "sc-charleston-2026-soil-water-legare-thomas",
+          "name": "Thomas Legare",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question 1",
+      "title": "Charleston County Sales & Use Tax",
+      "summary": "Would impose a special half-cent (0.5%) sales and use tax in Charleston County for up to 25 years or until $4.25 billion is collected, whichever comes first. The money would fund about $2.7 billion in road, bridge, intersection, paving, bike and pedestrian, and related drainage projects; $858 million for public transit run by CARTA or jointly by the county and other governments, including the Downtown Route Study; and $690 million for greenbelts, split evenly between urban and rural areas.",
+      "yesMeans": "Charleston County would levy a half-cent sales tax for up to 25 years to fund the listed transportation, transit and greenbelt projects.",
+      "noMeans": "The half-cent sales tax would not be imposed.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=778&searchType=Default",
+      "moreInfo": "https://www.charlestoncounty.gov/departments/bevr/"
+    },
+    {
+      "id": "Question 2",
+      "title": "Charleston County General Obligation Bonds",
+      "summary": "Would let Charleston County issue up to $300 million in general obligation bonds, repaid from the sales and use tax in Question 1, maturing over no more than 25 years. The bond money would be used to complete projects from the categories listed in Question 1.",
+      "yesMeans": "The county could borrow up to $300 million, repaid from the Question 1 sales tax, to complete Question 1 projects.",
+      "noMeans": "The county could not issue these bonds.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=779&searchType=Default",
+      "moreInfo": "https://www.charlestoncounty.gov/departments/bevr/"
+    },
+    {
+      "id": "Education Capital Improvements Sales and Use Tax Referendum",
+      "title": "Educational Capital Improvements Tax",
+      "summary": "Would impose a special one-cent (1%) sales and use tax in Charleston County for up to six years to pay for 23 listed Charleston County School District capital projects, plus capital maintenance and technology at school facilities. The projects include district-wide school safety and security upgrades, several replacement and new schools, classroom additions and land purchases. The new tax would start when the current one-cent education capital improvements tax ends on December 31, 2028.",
+      "yesMeans": "A one-cent sales tax for up to six years would fund the listed school construction and improvement projects, starting after the current tax ends in 2028.",
+      "noMeans": "The new education capital improvements sales tax would not be imposed.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=754&searchType=Default",
+      "moreInfo": "https://www.charlestoncounty.gov/departments/bevr/"
+    }
+  ],
+  "municipalities": {}
+}

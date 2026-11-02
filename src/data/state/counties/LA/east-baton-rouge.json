@@ -1,0 +1,60 @@
+{
+  "state": "LA",
+  "county": "East Baton Rouge Parish",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=18&parishName=EAST%20BATON%20ROUGE",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 219 East Baton Rouge Parish precincts. Parish and Metro Council offices and the Mayor-President were elected in 2024 and are not on this ballot. Unopposed candidates (most 19th Judicial District Court divisions, Juvenile Court and Family Court Election Section 1 Division B and Section 3 Division D) were declared elected and do not appear on the ballot. Not shown (they depend on a district or section the address lookup cannot resolve): 19th Judicial District Court Election Section 1 Divisions L and M; Family Court Election Section 2 Division C and Election Section 3 Division A; School Board districts (East Baton Rouge, Baker, Central and Zachary systems); Justice of the Peace and Constable; Baker City Court; City of Central and City of Zachary offices; and crime prevention district parcel fees. The City of Baton Rouge has no citywide item on this ballot. Check your official sample ballot for these.",
+  "contests": [
+    {
+      "office": "District Judge, 19th Judicial District Court, Division B",
+      "candidates": [
+        {
+          "key": "la-ebr-2026-19jdc-divb-decuir-winston",
+          "name": "Winston DeCuir, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "la-ebr-2026-19jdc-divb-delaune-justin",
+          "name": "Justin DeLaune",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=18&parishName=EAST%20BATON%20ROUGE"
+    },
+    {
+      "office": "District Attorney, 19th Judicial District",
+      "candidates": [
+        {
+          "key": "la-ebr-2026-da-moore-hillar",
+          "name": "Hillar Moore, III",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "la-ebr-2026-da-thompson-ryan",
+          "name": "Ryan Thompson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=18&parishName=EAST%20BATON%20ROUGE"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Parishwide Proposition",
+      "title": "Parishwide Proposition - .50 Mills Renewal - MC - 10 Yrs.",
+      "summary": "Renews East Baton Rouge Parish's 0.50-mill property tax for ten years, 2027 through 2036. The money is used to buy, maintain and operate equipment and facilities for controlling mosquitoes, other disease-carrying arthropods and rodents, and for the staff that run the program. The tax is expected to raise about $3,135,435 a year.",
+      "yesMeans": "The parish may keep levying the 0.50-mill mosquito and rodent control tax from 2027 through 2036.",
+      "noMeans": "The parish may not renew this 0.50-mill tax.",
+      "source": "https://voterportal.sos.la.gov/SampleBallot"
+    }
+  ],
+  "municipalities": {}
+}

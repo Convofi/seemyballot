@@ -1,0 +1,369 @@
+{
+  "state": "TX",
+  "county": "Cameron County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf",
+    "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf",
+    "https://www.cameroncountytx.gov/elections/index.php/sample-ballots-2/"
+  ],
+  "note": "From the Cameron County Elections Department's November 3, 2026 sample ballots (all 142 ballot styles carry the contests shown here). Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precinct 1; Precinct 2, Places 2 and 3; Precinct 3, Places 1 and 2; Precinct 4; Precinct 5, Place 2), U.S. House, State Senate, State House and State Board of Education districts, South Texas ISD and other school district races, Laguna Madre Water District, San Benito MUD No. 1, and city races and measures in Los Fresnos, South Padre Island and other cities. There are no countywide propositions. Brownsville has no city offices on this ballot; its fifteen charter amendments (Propositions A-O) are shown. Incumbent flags are not set because the sample ballot does not mark incumbents. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Justice, 13th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-coa13-p6-silva-clarissa",
+          "name": "Clarissa Silva",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-cameron-2026-coa13-p6-ball-john",
+          "name": "John Ball",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "District Judge, 103rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-dist-103-leal-janet",
+          "name": "Janet L. Leal",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "District Judge, 107th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-dist-107-lozano-frank",
+          "name": "Frank Lozano",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-cameron-2026-dist-107-garza-noe",
+          "name": "Noe Garza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "District Judge, 197th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-dist-197-cordova-adolfo",
+          "name": "Adolfo E. Cordova, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "District Judge, 357th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-dist-357-magallanes-juan",
+          "name": "Juan A. Magallanes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "District Judge, 484th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-dist-484-kowalski-garza-adela",
+          "name": "Adela Kowalski-Garza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-county-judge-garza-mauro",
+          "name": "Mauro Garza",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-cameron-2026-county-judge-guerra-esteban",
+          "name": "Esteban \"Steve\" Guerra",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-ccl-1-mcdonald-arturo",
+          "name": "Arturo A. \"Art\" McDonald, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-ccl-2-betancourt-laura",
+          "name": "Laura \"Lori\" Betancourt",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-ccl-3-gonzales-david",
+          "name": "David Gonzales III",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-district-clerk-perez-reyes-laura",
+          "name": "Laura Perez-Reyes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-county-clerk-herrera-ricardo",
+          "name": "Ricardo \"Rick\" Herrera",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-cameron-2026-county-clerk-garza-sylvia",
+          "name": "Sylvia Garza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-treasurer-gonzales-lucy",
+          "name": "Lucy Jeannette Gonzales",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-cameron-2026-treasurer-gracia-jonathan",
+          "name": "Jonathan Gracia",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "Cameron Appraisal District Board of Directors, Place 1",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-cad-p1-garcia-moreno-alejandro",
+          "name": "Alejandro Garcia-Moreno",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "Cameron Appraisal District Board of Directors, Place 2",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-cad-p2-de-la-garza-ricardo",
+          "name": "Ricardo \"Ricky\" de la Garza",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-cameron-2026-cad-p2-holley-jason",
+          "name": "Jason Holley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    },
+    {
+      "office": "Cameron Appraisal District Board of Directors, Place 3",
+      "candidates": [
+        {
+          "key": "tx-cameron-2026-cad-p3-cowen-philip",
+          "name": "Philip T. Cowen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/26GCAMER_SAMPLE.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Brownsville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Forfeiture of office (Article V, Section 3)",
+          "summary": "Amends the City Charter so a City Commissioner automatically forfeits office if they lose a required qualification, fail residency requirements, are convicted of a felony, miss three consecutive regular meetings without being excused, or violate the Charter's personal financial interest rule. It also adds forfeiture for missing six regular meetings, consecutive or not, in any twelve-month period, whether or not excused.",
+          "yesMeans": "The charter would list these grounds for automatic forfeiture of a commissioner's office, including missing six regular meetings in twelve months.",
+          "noMeans": "The charter's forfeiture provisions would not be changed.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition B",
+          "title": "Recall after conviction for a crime of moral turpitude (Article V, Section 3)",
+          "summary": "Amends the City Charter so that if the Mayor or a Commission Member is convicted of a criminal offense other than a felony or Class C misdemeanor, the City Attorney must ask a Cameron County district court whether it is a crime of moral turpitude. If the court finds it is, the City Commission must order a recall election at the next allowable election date without the usual recall petition.",
+          "yesMeans": "A court finding of a crime of moral turpitude would trigger an automatic recall election for the Mayor or a Commission Member.",
+          "noMeans": "The charter's recall provisions would not be changed.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition C",
+          "title": "Candidate tax delinquency (Article V, Section 4)",
+          "summary": "Amends the City Charter to require that a candidate for City Commission, or a current office holder, not be personally delinquent in paying taxes or other debts owed to the city, and not be disqualified under any other Charter provision.",
+          "yesMeans": "Candidates and office holders would have to be current on taxes and other debts owed to the city.",
+          "noMeans": "The charter's qualification rules would not be changed.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition D",
+          "title": "Mayor and commissioner pay (Article V, Section 13)",
+          "summary": "Amends the City Charter to set the mayor's annual pay at $62,500 and each city commissioner's annual pay at $50,000. The new pay would apply only to people elected to office for the first time after the amendment takes effect, not to currently serving officials.",
+          "yesMeans": "Newly elected mayors would be paid $62,500 a year and newly elected commissioners $50,000 a year.",
+          "noMeans": "The charter's pay provisions for the mayor and commissioners would not be changed.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition E",
+          "title": "City Secretary (new Article V, Section 21-B)",
+          "summary": "Adds a Charter section providing for the appointment of a City Secretary and defining the office's duties. These include attending all City Commission meetings and keeping minutes, recording laws, resolutions and ordinances, keeping city records, recording commissions and licenses, and keeping the city seal.",
+          "yesMeans": "The charter would create the office of City Secretary with the listed duties.",
+          "noMeans": "No City Secretary section would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition F",
+          "title": "City Auditor (new Article V, Section 21-C)",
+          "summary": "Adds a Charter section providing for the appointment and removal of a City Auditor and defining the office's duties. The auditor would conduct or arrange financial, compliance, performance, investigative and other audits of all city departments, entities and programs, and would advise and report to the Audit and Oversight Committee.",
+          "yesMeans": "The charter would create the office of City Auditor with the listed duties.",
+          "noMeans": "No City Auditor section would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition G",
+          "title": "Merit hiring (new Article V, Section 22-B)",
+          "summary": "Adds a Charter section requiring that city employees and appointed officials be selected or hired on the basis of the merit principle.",
+          "yesMeans": "The charter would require merit-based selection and hiring of city employees and appointed officials.",
+          "noMeans": "No merit hiring section would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition H",
+          "title": "Audit and Oversight Committee size (Article V, Section 28(A))",
+          "summary": "Amends the City Charter so the City Commission appoints 7 members instead of 5 to the Audit and Oversight Committee. Each City Commissioner would make a nomination when a vacancy arises from a term limit, resignation, death or other incapacity.",
+          "yesMeans": "The Audit and Oversight Committee would have 7 members, with each commissioner nominating for vacancies.",
+          "noMeans": "The committee would keep 5 members.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition I",
+          "title": "Audit and Oversight Committee external auditors (Article V, Section 28(A))",
+          "summary": "Amends the City Charter to let the Audit and Oversight Committee engage external auditors and advisors as it requires, including hiring and terminating them and approving their services and fees.",
+          "yesMeans": "The Audit and Oversight Committee could hire, fire and approve fees for external auditors and advisors.",
+          "noMeans": "The committee's powers would not be changed.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition J",
+          "title": "Municipal campaign finance (new Article V, Section 35)",
+          "summary": "Adds a Charter section requiring the City Commission to pass laws, consistent with federal and state law, regulating campaign finances for city elected offices. These would require disclosure of contributions, donors, expenditures and financial obligations, set limits on contributions and expenditures, and provide public access to disclosures and penalties for violations.",
+          "yesMeans": "The City Commission would have to adopt campaign finance disclosure rules and contribution and spending limits for city races.",
+          "noMeans": "No campaign finance section would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition K",
+          "title": "Code of ethics and ethics board (new Article V, Section 36)",
+          "summary": "Adds a Charter section requiring the City Commission to create an Ethics Board and to adopt, by ordinance, an Ethics Code with conflict-of-interest and disclosure rules for elected officials, appointed officials and city employees.",
+          "yesMeans": "The City Commission would have to create an Ethics Board and adopt an Ethics Code.",
+          "noMeans": "No ethics section would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition L",
+          "title": "Citizen initiative (new Article VII, Section 3-A)",
+          "summary": "Adds a Charter process letting city voters propose ordinances by petition signed by at least ten percent of registered voters. The City Commission would have thirty days to act; if it does not pass the measure, or passes it in a different form, the measure goes to voters. The section also sets petition, ballot and timing rules, including a two-year bar on re-initiating a defeated subject and a limit of one initiative election every six months.",
+          "yesMeans": "City voters could propose ordinances by petition and, if the Commission does not adopt them, vote on them.",
+          "noMeans": "No citizen initiative process would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition M",
+          "title": "Referendum (new Article VII, Section 3-B)",
+          "summary": "Adds a Charter process letting city voters, by petition signed by at least ten percent of registered voters, require that a general ordinance be submitted to voters before it takes effect. It sets procedures for petitions and ballot language and lets the City Commission amend or repeal ordinances adopted by referendum after six months.",
+          "yesMeans": "City voters could force a public vote on a general ordinance by petition.",
+          "noMeans": "No referendum process would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition N",
+          "title": "Brownsville First Jobs & Contracts Policy (new Article V, Section 35)",
+          "summary": "Adds a Charter section titled the Brownsville First Jobs & Contracts Policy setting requirements for city-funded contracts. It covers contractor compliance with laws, safety training, documented good-faith efforts to hire local workers, state-allowed preferences for small and local businesses, a Local Jobs & Business Access Program, transparency, and periodic review and reporting.",
+          "yesMeans": "The charter would add the Brownsville First Jobs & Contracts Policy for city-funded contracts.",
+          "noMeans": "No jobs and contracts policy section would be added to the charter.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        },
+        {
+          "id": "Proposition O",
+          "title": "Charter cleanup (Articles I-VII, except Article VI)",
+          "summary": "Amends Charter Articles I through VII, except Article VI (Utilities Board), to revise or remove provisions superseded by state law and to update or remove outdated language.",
+          "yesMeans": "Superseded and outdated charter language would be revised or removed.",
+          "noMeans": "The charter's existing wording would stay as it is.",
+          "source": "https://www.cameroncountytx.gov/elections/wp-content/uploads/2026/09/City-of-Brownsville-Special-Election-09182026.pdf"
+        }
+      ]
+    }
+  }
+}
