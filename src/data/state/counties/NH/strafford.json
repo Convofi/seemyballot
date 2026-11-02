@@ -1,0 +1,89 @@
+{
+  "state": "NH",
+  "county": "Strafford County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.dover.nh.gov/government/open-government/election-information/2026-general-election/",
+    "https://www.dover.nh.gov/Assets/government/open-government/election-information/2026-general-election/sample-ballots/DoverWard1.pdf",
+    "https://www.dover.nh.gov/Assets/government/open-government/election-information/2026-general-election/sample-ballots/DoverWard4.pdf",
+    "https://www.co.strafford.nh.us/department/attorney-s-office",
+    "https://www.co.strafford.nh.us/"
+  ],
+  "note": "From the City of Dover's official November 3, 2026 ward sample ballots (Wards 1 and 4 checked); the county offices below are elected countywide and print the same in both wards. Emily C. Garod (County Attorney) and Catherine A. Berube (Register of Deeds) are each printed as both the Democratic and the Republican nominee, so each is listed once here. Incumbent flags are set only where the county's own website names the officeholder. Not shown: County Commissioner (elected by commissioner district), State Senate, State Representative and Executive Council districts, and the ward-level school tax-cap question required by HB 1300. The statewide constitutional amendment question appears with the state ballot. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "nh-strafford-2026-sheriff-mone-kathryn",
+          "name": "Kathryn L. Mone",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-strafford-2026-sheriff-krauss-richard",
+          "name": "Richard Krauss",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dover.nh.gov/Assets/government/open-government/election-information/2026-general-election/sample-ballots/DoverWard1.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "nh-strafford-2026-county-attorney-garod-emily",
+          "name": "Emily C. Garod",
+          "party": "Other",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dover.nh.gov/Assets/government/open-government/election-information/2026-general-election/sample-ballots/DoverWard1.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nh-strafford-2026-treasurer-arnold-pamela",
+          "name": "Pamela J. Arnold",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dover.nh.gov/Assets/government/open-government/election-information/2026-general-election/sample-ballots/DoverWard1.pdf"
+    },
+    {
+      "office": "Register of Deeds",
+      "candidates": [
+        {
+          "key": "nh-strafford-2026-register-of-deeds-berube-catherine",
+          "name": "Catherine A. Berube",
+          "party": "Other",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dover.nh.gov/Assets/government/open-government/election-information/2026-general-election/sample-ballots/DoverWard1.pdf"
+    },
+    {
+      "office": "Register of Probate",
+      "candidates": [
+        {
+          "key": "nh-strafford-2026-register-of-probate-nedelka-jan",
+          "name": "Jan Nedelka",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-strafford-2026-register-of-probate-sirois-nancy",
+          "name": "Nancy Sirois",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.dover.nh.gov/Assets/government/open-government/election-information/2026-general-election/sample-ballots/DoverWard1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

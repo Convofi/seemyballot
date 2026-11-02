@@ -1,0 +1,100 @@
+{
+  "state": "NH",
+  "county": "Merrimack County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.concordnh.gov/1708/Sample-Ballots",
+    "https://www.concordnh.gov/DocumentCenter/View/26824/Ward-One-General-Election-Sample-Ballot",
+    "https://www.concordnh.gov/DocumentCenter/View/26833/Ward-Ten-General-Election-Sample-Ballot",
+    "https://www.merrimackcounty.net/departments/register_of_deeds/index.php"
+  ],
+  "note": "From the City of Concord's official November 3, 2026 ward sample ballots (Wards 1 and 10 checked); the county offices below are elected countywide and print the same in both wards. Samantha Morse is marked as incumbent because the county's Register of Deeds page names her as Register; other incumbent flags are not set because the county's pages could not confirm them. Not shown: County Commissioner (elected by commissioner district; not on these Concord ballots), State Senate, State Representative and Executive Council districts, and the separate Concord School District ballots. The statewide constitutional amendment question appears with the state ballot. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "nh-merrimack-2026-sheriff-shephard-peter",
+          "name": "Peter Shephard",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-merrimack-2026-sheriff-cassidy-frank",
+          "name": "Frank T. Cassidy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.concordnh.gov/DocumentCenter/View/26824/Ward-One-General-Election-Sample-Ballot"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "nh-merrimack-2026-county-attorney-endres-steven",
+          "name": "Steven Endres",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-merrimack-2026-county-attorney-hagaman-meg",
+          "name": "Meg Hagaman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.concordnh.gov/DocumentCenter/View/26824/Ward-One-General-Election-Sample-Ballot"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nh-merrimack-2026-treasurer-donnelly-kathleen",
+          "name": "Kathleen Donnelly",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.concordnh.gov/DocumentCenter/View/26824/Ward-One-General-Election-Sample-Ballot"
+    },
+    {
+      "office": "Register of Deeds",
+      "candidates": [
+        {
+          "key": "nh-merrimack-2026-register-of-deeds-davis-erica",
+          "name": "Erica S. Davis",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-merrimack-2026-register-of-deeds-morse-samantha",
+          "name": "Samantha Morse",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.concordnh.gov/DocumentCenter/View/26824/Ward-One-General-Election-Sample-Ballot"
+    },
+    {
+      "office": "Register of Probate",
+      "candidates": [
+        {
+          "key": "nh-merrimack-2026-register-of-probate-bradstreet-jane",
+          "name": "Jane Bradstreet",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-merrimack-2026-register-of-probate-ehl-alyssa",
+          "name": "Alyssa Ehl",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.concordnh.gov/DocumentCenter/View/26824/Ward-One-General-Election-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

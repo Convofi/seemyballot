@@ -1,0 +1,65 @@
+{
+  "state": "ME",
+  "county": "Kennebec County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.augustamaine.gov/195/Elections",
+    "https://www.augustamaine.gov/DocumentCenter/View/1348",
+    "https://www.augustamaine.gov/DocumentCenter/View/1349",
+    "https://kennebec.gov/attorneys/",
+    "https://kennebec.gov/deeds/"
+  ],
+  "note": "From the State of Maine sample ballots for the November 3, 2026 General Election posted by the City of Augusta (House Districts 59 and 60); the county contests print the same on both. Maeghan Maloney and Matthew James Boucher are marked as incumbents because the county's District Attorney and Registry of Deeds pages name them as the current officeholders. Not shown: County Commissioner (elected by district; not on the Augusta ballots), State Senate and State Representative districts, and statewide referendum questions, which are listed with the state ballot. Augusta's municipal offices and local questions are on a separate city ballot and are not shown. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Treasurer, Kennebec County",
+      "candidates": [
+        {
+          "key": "me-kennebec-2026-treasurer-mason-joanne",
+          "name": "Joanne L. Mason",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "me-kennebec-2026-treasurer-sylvester-monte",
+          "name": "Monte K. Sylvester",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.augustamaine.gov/DocumentCenter/View/1348"
+    },
+    {
+      "office": "Register of Deeds, Kennebec County",
+      "candidates": [
+        {
+          "key": "me-kennebec-2026-register-of-deeds-boucher-matthew",
+          "name": "Matthew James Boucher",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "me-kennebec-2026-register-of-deeds-lamoreau-kevin",
+          "name": "Kevin M. Lamoreau",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.augustamaine.gov/DocumentCenter/View/1348"
+    },
+    {
+      "office": "District Attorney, District 4",
+      "candidates": [
+        {
+          "key": "me-kennebec-2026-da-maloney-maeghan",
+          "name": "Maeghan Maloney",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.augustamaine.gov/DocumentCenter/View/1348"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
