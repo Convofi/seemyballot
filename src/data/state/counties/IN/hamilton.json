@@ -1,0 +1,197 @@
+{
+  "state": "IN",
+  "county": "Hamilton County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL",
+    "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33321/Pct-617-Noblesville-17-Act-01-GENERAL",
+    "https://www.hamiltoncounty.in.gov/2160/2026-General-Sample-Ballots",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.hamiltoncounty.in.gov/Directory.aspx"
+  ],
+  "note": "Contests are from Hamilton County's official precinct sample ballots; County Commissioner District 1 and the Superior Court, Prosecutor and county office races appear on ballots in different townships (Clay and Noblesville checked). Not shown because they depend on where you live: County Council districts, township trustee and township board races, school board races, and school district referendum questions (such as Carmel Clay Schools and Noblesville Schools). The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. No countywide public question is on the ballot, and Carmel city offices are not on the 2026 ballot. Incumbent status is marked only where the county's online directory confirms it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Hamilton Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-superior-3-evans-chris",
+          "name": "Chris Evans",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Judge of the Hamilton Superior Court No. 4",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-superior-4-swenson-angela",
+          "name": "Angela Brown Swenson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Judge of the Hamilton Superior Court No. 5",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-superior-5-najjar-david",
+          "name": "David K. Najjar",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Judge of the Hamilton Superior Court No. 8",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-superior-8-eyler-danica",
+          "name": "Danica L. Eyler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-hamilton-2026-superior-8-shaw-emily",
+          "name": "Emily L. Angel Shaw",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Judge of the Hamilton Superior Court No. 9",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-superior-9-sweeney-paul",
+          "name": "Paul C. Sweeney",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Prosecuting Attorney, 24th Judicial Circuit (Hamilton County)",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-prosecutor-kocher-josh",
+          "name": "Josh Kocher",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Hamilton County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-clerk-sheller-beth",
+          "name": "Beth Sheller",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-hamilton-2026-clerk-wilson-alexandra",
+          "name": "Alexandra E. Wilson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Hamilton County Recorder",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-recorder-beaver-trini",
+          "name": "Trini Beaver",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Hamilton County Sheriff",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-sheriff-dixon-dustin",
+          "name": "Dustin K. Dixon",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-hamilton-2026-sheriff-hollowell-charles",
+          "name": "Charles Hollowell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Hamilton County Coroner",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-coroner-jellison-jeff",
+          "name": "Jeff D Jellison",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Hamilton County Assessor",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-assessor-poore-kevin",
+          "name": "Kevin W Poore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Hamilton County Commissioner, District 1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-commissioner-d1-altman-christine",
+          "name": "Christine Altman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-hamilton-2026-commissioner-d1-mcnear-tigre",
+          "name": "Ti'Gre McNear",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    },
+    {
+      "office": "Court of Appeals Judicial Retention - Second District (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-hamilton-2026-coa2-retain-kenworthy-dana",
+          "name": "Dana J. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hamiltoncounty.in.gov/DocumentCenter/View/33156/Pct-201-Clay-01-Act-01-GENERAL"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

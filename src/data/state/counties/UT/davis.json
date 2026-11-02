@@ -1,0 +1,182 @@
+{
+  "state": "UT",
+  "county": "Davis County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf",
+    "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/certification-notice-(2).pdf"
+  ],
+  "note": "From the Davis County Clerk's sample ballot showing every race in the county and the Clerk's certification of candidates. Bret Millburn is listed on the ballot as Unaffiliated. Not shown because they depend on where you live: State Board of Education and Davis School Board districts, the Sunset City Justice Court retention, and the Kaysville fire station bond. Davis County has no countywide proposition in 2026. Supreme Court and Court of Appeals retention questions appear with the statewide races. Incumbent status is marked only where an official source confirms it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commission Seat A",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-commission-a-harris-kendalyn",
+          "name": "Kendalyn Harris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "County Commission Seat B",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-commission-b-millburn-bret",
+          "name": "Bret Millburn",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ut-davis-2026-commission-b-lee-susan",
+          "name": "Susan Lee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-attorney-rawlings-troy",
+          "name": "Troy Rawlings",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "County Controller",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-controller-wayment-stephanie",
+          "name": "Stephanie Wayment",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ut-davis-2026-controller-parke-scott",
+          "name": "Scott Parke",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-clerk-mckenzie-brian",
+          "name": "Brian McKenzie",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-sheriff-atkin-jon",
+          "name": "Jon Atkin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Second Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-dist2-rawson-eldred",
+          "name": "Eldred Blaine Rawson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Second Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-dist2-nelson-jason",
+          "name": "Jason Craig Nelson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "Judge of the District Court, Second Judicial District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-dist2-valencia-jennifer",
+          "name": "Jennifer Lyn Valencia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Second Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-juv2-westmoreland-rick",
+          "name": "Rick Westmoreland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Second Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-juv2-neill-robert",
+          "name": "Robert Garrett Neill",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "Judge of the Juvenile Court, Second Juvenile Court District (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-juv2-noland-jeffrey",
+          "name": "Jeffrey J. Noland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    },
+    {
+      "office": "Judge of the Davis County Justice Court (retention: vote Yes or No)",
+      "candidates": [
+        {
+          "key": "ut-davis-2026-justice-ynchausti-john",
+          "name": "John Carl Ynchausti",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.daviscountyutah.gov/docs/librariesprovider11/election-files/2026-sample-ballot-3.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
