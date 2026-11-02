@@ -1,0 +1,91 @@
+{
+  "state": "IL",
+  "county": "Madison County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf",
+    "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/REFERENDA%20QUESTIONS.pdf",
+    "https://www.madisoncountyil.gov/departments/county_clerk/elections/candidates.php",
+    "https://www.madisoncountyil.gov/departments/county_clerk/elections/questions_on_ballot.php"
+  ],
+  "note": "From the Madison County Clerk's 2026 General Election candidate list and referenda questions list; the clerk has not posted a specimen ballot. Not shown: County Board districts, Regional Superintendent of Schools (Madison voters are split between the Madison and Calhoun-Greene-Jersey-Macoupin regional offices of education), 3rd Judicial Circuit Subcircuit 2 vacancy, Holiday Shores and Rosewood Heights sanitary district trustees, regional school trustees and school board members, Congress and state legislature, and local questions (City of Madison home rule, Village of Worden backyard chickens, Cottage Hills and Bunker Hill fire protection districts, data center questions in Chouteau, Granite City, Nameoki and Venice townships, and the Special Service Area No. 1 sewer sale question in those townships). Edwardsville and Granite City have no citywide question on the clerk's list. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Madison County Clerk and Recorder",
+      "candidates": [
+        { "key": "il-madison-2026-clerk-andreas-linda", "name": "Linda A. Andreas", "party": "Republican", "incumbent": true },
+        { "key": "il-madison-2026-clerk-bauerle-rachelle", "name": "Rachelle Nicole Bauerle", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf"
+    },
+    {
+      "office": "Madison County Treasurer",
+      "candidates": [
+        { "key": "il-madison-2026-treasurer-babcock-mike", "name": "Mike Babcock", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf"
+    },
+    {
+      "office": "Madison County Sheriff",
+      "candidates": [
+        { "key": "il-madison-2026-sheriff-connor-jeff", "name": "Jeff C. Connor", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf"
+    },
+    {
+      "office": "Judge of the Illinois Appellate Court, 5th District",
+      "candidates": [
+        { "key": "il-madison-2026-appellate-sholar-amy", "name": "Amy E. Sholar", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        { "key": "il-madison-2026-retain-appellate-barberis-john", "name": "John B. Barberis, Jr.", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 3rd Judicial Circuit — retain Judge Dennis R. Ruth? (yes/no retention)",
+      "candidates": [
+        { "key": "il-madison-2026-retain-circuit-ruth-dennis", "name": "Dennis R. Ruth", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 3rd Judicial Circuit — retain Judge Amy Maher? (yes/no retention)",
+      "candidates": [
+        { "key": "il-madison-2026-retain-circuit-maher-amy", "name": "Amy Maher", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/Candidate%20list.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Advisory Question: Government-Issued ID to Vote",
+      "title": "Advisory question regarding government-issued identification to vote",
+      "summary": "Asks whether the Illinois General Assembly should pass legislation requiring government-issued identification to vote. The question is advisory only and does not change any law.",
+      "yesMeans": "You support the change described in this advisory question.",
+      "noMeans": "You do not support the change described in this advisory question.",
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/REFERENDA%20QUESTIONS.pdf"
+    },
+    {
+      "id": "Advisory Question: Wind and Solar Farms Development",
+      "title": "Advisory question regarding wind and solar farm developments",
+      "summary": "Asks whether the Illinois General Assembly should restore zoning control of wind and solar farm developments to local governments instead of mandating them from the state level. The question is advisory only and does not change any law.",
+      "yesMeans": "You support the change described in this advisory question.",
+      "noMeans": "You do not support the change described in this advisory question.",
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/REFERENDA%20QUESTIONS.pdf"
+    },
+    {
+      "id": "Advisory Question: Property Tax Reform",
+      "title": "Advisory question regarding property tax reform and public school funding",
+      "summary": "Asks whether the Illinois General Assembly should pass legislation for comprehensive property tax reform that sharply reduces property taxes, such as by using a different source to fund public schools and capping property taxes at 1% of a property's assessed value. The question is advisory only and does not change any law.",
+      "yesMeans": "You support the change described in this advisory question.",
+      "noMeans": "You do not support the change described in this advisory question.",
+      "source": "https://www.madisoncountyil.gov/document_center/CountyClerk/2026%20Election/REFERENDA%20QUESTIONS.pdf"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,67 @@
+{
+  "state": "IL",
+  "county": "St. Clair County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf",
+    "https://www.co.st-clair.il.us/departments/county-clerk/elections",
+    "https://www.co.st-clair.il.us/elected-officials"
+  ],
+  "note": "From the St. Clair County Clerk's certified specimen ballot and notice of election in the 2026 General Election Voters Guide. Not shown: County Board districts 2, 3, 4, 5, 8, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 25, 26 and 28, Regional Superintendent of Schools (St. Clair voters are split among the St. Clair, Madison, Monroe-Randolph and Clinton-Jefferson-Marion-Washington regional offices of education by school district), Congress and state legislature, and local propositions (Village of Summerfield police tax, City of O'Fallon library bonds, Village of Alorton territory annexation to Cahokia FPD, Camp Jackson, Church Road, Golden Gardens and Midway fire protection district consolidations, and the Millstadt EMS ESD). The notice of election lists County Recorder, but no Recorder contest appears on the certified specimen ballot. There are no 20th Judicial Circuit retention or vacancy contests on the specimen ballot. The specimen ballot has no City of Belleville offices or questions, and the clerk has not posted a write-in candidate list. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "St. Clair County Clerk",
+      "candidates": [
+        { "key": "il-st-clair-2026-clerk-hursey-gary", "name": "Gary Hursey", "party": "Republican", "incumbent": false },
+        { "key": "il-st-clair-2026-clerk-kaemmerer-laura", "name": "Laura Kaemmerer", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf"
+    },
+    {
+      "office": "St. Clair County Treasurer",
+      "candidates": [
+        { "key": "il-st-clair-2026-treasurer-rhodes-myki", "name": "Myki Rhodes", "party": "Republican", "incumbent": false },
+        { "key": "il-st-clair-2026-treasurer-lopinot-andrew", "name": "Andrew Lopinot", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf"
+    },
+    {
+      "office": "St. Clair County Sheriff",
+      "candidates": [
+        { "key": "il-st-clair-2026-sheriff-watson-richard", "name": "Richard \"Rick\" Watson", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf"
+    },
+    {
+      "office": "St. Clair County Assessor",
+      "candidates": [
+        { "key": "il-st-clair-2026-assessor-minton-jennifer", "name": "Jennifer Gomric Minton", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf"
+    },
+    {
+      "office": "St. Clair County Board of Review",
+      "candidates": [
+        { "key": "il-st-clair-2026-board-of-review-triska-brian", "name": "Brian Triska", "party": "Republican", "incumbent": false },
+        { "key": "il-st-clair-2026-board-of-review-golliday-irma", "name": "Irma G. Golliday", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District (vacancy of the Hon. Thomas M. Welch)",
+      "candidates": [
+        { "key": "il-st-clair-2026-appellate-sholar-amy", "name": "Amy E. Sholar", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        { "key": "il-st-clair-2026-retain-appellate-barberis-john", "name": "John B. Barberis, Jr.", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.co.st-clair.il.us/webdocuments/departments/countyclerk/elections/2026%20General%20Election%20Voters%20Guide.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
