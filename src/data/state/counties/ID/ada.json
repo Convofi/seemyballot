@@ -1,0 +1,170 @@
+{
+  "state": "ID",
+  "county": "Ada County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://adacounty.id.gov/elections/candidate-filings/",
+    "https://adacounty.id.gov/elections/wp-content/uploads/sites/38/214005_AdaSampleBallot_v2_10_18_22.pdf"
+  ],
+  "note": "Ada County commissioners must live in their district but are voted on by the whole county. Under Senate Bill 1356, all Ada County voters now also elect Ada County Highway District commissioners, and party labels are not printed for those seats. Not shown: College of Western Idaho trustee Zones 2 and 4 and legislative districts. Sheriff and Prosecuting Attorney are not on the November 2026 ballot. No Boise City offices are on this ballot (Boise elects its mayor and council in odd years). We could not open a 2026 Ada County sample ballot, so county, city, school or district ballot questions are not shown. Check your official sample ballot at adacounty.id.gov/elections/view-my-ballot.",
+  "contests": [
+    {
+      "office": "Ada County Commissioner, District 1 (4-year term; elected countywide)",
+      "candidates": [
+        {
+          "key": "id-ada-2026-commissioner-d1-davidson-ryan",
+          "name": "Ryan Davidson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "id-ada-2026-commissioner-d1-warner-kelceymarie",
+          "name": "Kelceymarie Warner",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    },
+    {
+      "office": "Ada County Commissioner, District 2 (2-year term; elected countywide)",
+      "candidates": [
+        {
+          "key": "id-ada-2026-commissioner-d2-beck-rod",
+          "name": "Rod W Beck",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "id-ada-2026-commissioner-d2-fitzgerald-michael",
+          "name": "Michael Fitzgerald",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    },
+    {
+      "office": "Ada County Clerk of the District Court",
+      "candidates": [
+        {
+          "key": "id-ada-2026-clerk-tripple-trent",
+          "name": "Trent Tripple",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    },
+    {
+      "office": "Ada County Treasurer",
+      "candidates": [
+        {
+          "key": "id-ada-2026-treasurer-frederick-april",
+          "name": "April Frederick",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "id-ada-2026-treasurer-christensen-todd",
+          "name": "Todd Christensen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    },
+    {
+      "office": "Ada County Assessor",
+      "candidates": [
+        {
+          "key": "id-ada-2026-assessor-arnold-rebecca",
+          "name": "Rebecca W. Arnold",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "id-ada-2026-assessor-olson-erik",
+          "name": "Erik Olson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    },
+    {
+      "office": "Ada County Coroner",
+      "candidates": [
+        {
+          "key": "id-ada-2026-coroner-harding-brett",
+          "name": "Brett Harding",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "id-ada-2026-coroner-owens-dotti",
+          "name": "Dotti Owens",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    },
+    {
+      "office": "Ada County Highway District Commissioner, District 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "id-ada-2026-achd-d3-gold-miranda",
+          "name": "Miranda Gold",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "id-ada-2026-achd-d3-sundwall-sean",
+          "name": "Sean Sundwall",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    },
+    {
+      "office": "Ada County Highway District Commissioner, District 4 (elected countywide)",
+      "candidates": [
+        {
+          "key": "id-ada-2026-achd-d4-campbell-chris",
+          "name": "Chris Campbell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "id-ada-2026-achd-d4-case-dave",
+          "name": "Dave Case",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "id-ada-2026-achd-d4-ferch-greg",
+          "name": "Greg Ferch",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "id-ada-2026-achd-d4-keith-marisa",
+          "name": "Marisa Keith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "id-ada-2026-achd-d4-meusch-joel",
+          "name": "Joel Meusch",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adacounty.id.gov/elections/candidate-filings/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

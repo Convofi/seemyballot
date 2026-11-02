@@ -1,0 +1,159 @@
+{
+  "state": "KS",
+  "county": "Sedgwick County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/",
+    "https://www.sedgwickcounty.org/elections/elected-officials/",
+    "https://www.sedgwickcounty.org/elections/election-notices-news-releases/"
+  ],
+  "note": "Sedgwick County (18th Judicial District) elects district judges on a partisan ballot, not by retention; all races shown have one candidate. County Commissioner Districts 1, 4 and 5, Kansas Senate and House and State Board of Education districts, and township clerks and treasurers are not shown here because they depend on where you live in the county. Sheriff, District Attorney, County Clerk, Treasurer and Register of Deeds are not on the November 2026 ballot. The Election Office's notices list no countywide or City of Wichita ballot question; local questions (such as Andale, Valley Center, Kechi Township and school districts) are not shown. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 4",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos4-langworthy-paula",
+          "name": "Paula D. Langworthy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 5",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos5-rundle-seth",
+          "name": "Seth L. Rundle",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 7",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos7-woods-rodger",
+          "name": "Rodger L. Woods Jr",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 8",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos8-macias-richard",
+          "name": "Richard A. \"Rick\" Macias",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 10",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos10-brazill-grant",
+          "name": "Grant Brazill",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 15",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos15-watson-kathleen",
+          "name": "Kathleen Watson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 17",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos17-fessinger-michael",
+          "name": "Michael L. Fessinger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 18",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos18-johnson-faith",
+          "name": "Faith Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 19",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos19-hoelscher-michael",
+          "name": "Michael Jeffrey Hoelscher",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 29",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos29-elliott-shawn",
+          "name": "Shawn Elliott",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Court Judge, 18th Judicial District, Position 30",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-dist18-pos30-montes-williams-francessca",
+          "name": "Francessca Montes-Williams",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    },
+    {
+      "office": "District Magistrate Judge, 18th Judicial District, Position 1",
+      "candidates": [
+        {
+          "key": "ks-sedgwick-2026-magistrate18-pos1-lowden-david",
+          "name": "David Lowden",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sedgwickcounty.org/elections/election-notices-news-releases/notice-of-general-election/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
