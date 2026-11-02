@@ -1,0 +1,196 @@
+{
+  "state": "FL",
+  "county": "St. Johns County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf",
+    "https://irp.cdn-website.com/ed388134/files/uploaded/2026_nge_stj_english.pdf",
+    "https://irp.cdn-website.com/ed388134/files/uploaded/0224.Elected+Officials+Guide+2026.pdf",
+    "https://www.votesjc.gov/local-referenda"
+  ],
+  "note": "From the St. Johns County Supervisor of Elections' November 3, 2026 general election candidate list and Notice of General Election. Not shown: County Commission Districts 2 and 4 and School Board Districts 1 and 3 (decided in the primary or not on the general ballot), State House districts, U.S. House districts, the St. Augustine Port, Waterway and Beach Commission, the Municipal Service District of Ponte Vedra Beach, community development district seats, and the City of St. Augustine Beach Commission. No circuit judge race or county referendum is on the November ballot. Incumbent flags are set only where the Supervisor's Elected Officials Guide lists the candidate in that seat. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-dca5-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-dca5-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-dca5-wallis-f",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    },
+    {
+      "office": "School Board Member, District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-school-board-d4-mcclafferty-tammie",
+          "name": "Tammie McClafferty",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-school-board-d4-tozer-jillian",
+          "name": "Jillian Tozer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    },
+    {
+      "office": "Anastasia Mosquito Control District, Seat 2",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-amcd-seat2-brandhorst-catherine",
+          "name": "Catherine Brandhorst",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-amcd-seat2-burton-tim",
+          "name": "Tim Burton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-amcd-seat2-fein-sandra",
+          "name": "Sandra Fein",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-amcd-seat2-slavin-ed",
+          "name": "Ed Slavin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    },
+    {
+      "office": "Anastasia Mosquito Control District, Seat 4",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-amcd-seat4-anagnos-george",
+          "name": "George Tom Anagnos",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-amcd-seat4-howell-gary",
+          "name": "Gary Howell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-amcd-seat4-roland-merrill",
+          "name": "Merrill Paul Roland",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-amcd-seat4-smith-jason",
+          "name": "Jason Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    },
+    {
+      "office": "St. Johns County Airport Authority, Group 2",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-airport-g2-dedge-jerry",
+          "name": "Jerry Dedge",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-airport-g2-wilson-john",
+          "name": "John H. Wilson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    },
+    {
+      "office": "St. Johns County Airport Authority, Group 3",
+      "candidates": [
+        {
+          "key": "fl-st-johns-2026-airport-g3-cannan-christopher",
+          "name": "Christopher Cannan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-airport-g3-griswold-sean",
+          "name": "Sean Griswold",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-st-johns-2026-airport-g3-hess-sean",
+          "name": "Sean Hess",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "St. Augustine": {
+      "contests": [
+        {
+          "office": "City of St. Augustine Commission, Seat 5",
+          "candidates": [
+            {
+              "key": "fl-st-johns-2026-st-augustine-commission-seat5-brown-matt",
+              "name": "Matt Brown",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-st-johns-2026-st-augustine-commission-seat5-settle-julie",
+              "name": "Julie Settle",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://irp.cdn-website.com/ed388134/files/uploaded/2026+GeneralElection+Candidates+09.17.26.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

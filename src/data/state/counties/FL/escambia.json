@@ -1,0 +1,76 @@
+{
+  "state": "FL",
+  "county": "Escambia County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://dos.elections.myflorida.com/candidates/downloadcanlist.asp",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=escambia",
+    "https://escambiavotes.gov/gubernatorial-year-offices",
+    "https://escambiavotes.gov/amendments-referenda"
+  ],
+  "note": "Not shown: County Commission Districts 2 and 4 (Escambia commissioners are elected by district), Emerald Coast Utilities Authority Districts 2 and 4, Pensacola City Council Districts 2 and 4, and state legislative and U.S. House districts. School Board Districts 1, 2 and 3, the County Court Judge Group 2 seat, the Santa Rosa Island Authority, Soil and Water Conservation District Groups 1, 3 and 5, the Pensacola Mayor and Century Town Council seats were decided before November and are not on this ballot. No county or Pensacola referendum is listed for 2026. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "1st District Court of Appeal — retain Judge Joseph Lewis Jr.? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-escambia-2026-dca1-lewis-joseph",
+          "name": "Joseph Lewis Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/downloadcanlist.asp"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Rachel Nordby? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-escambia-2026-dca1-nordby-rachel",
+          "name": "Rachel Nordby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/downloadcanlist.asp"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Tim Osterhaus? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-escambia-2026-dca1-osterhaus-tim",
+          "name": "Tim Osterhaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/downloadcanlist.asp"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Clay Roberts? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-escambia-2026-dca1-roberts-clay",
+          "name": "Clay Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/downloadcanlist.asp"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Raymond Treadwell? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-escambia-2026-dca1-treadwell-raymond",
+          "name": "Raymond Treadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/downloadcanlist.asp"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

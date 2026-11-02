@@ -1,0 +1,331 @@
+{
+  "state": "NC",
+  "county": "Cumberland County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.cumberlandcountync.gov/departments/commissioners-group/commissioners/commissioners"
+  ],
+  "note": "Not shown: Cumberland County Board of Commissioners District 1, NC Superior Court Judge Districts 14A, 14B and 14C (each covers only part of the county), town races, and state legislative and U.S. House districts. Check your official sample ballot for those. Fayetteville city offices are not on the 2026 ballot, and the only referendums in Cumberland County are the three statewide constitutional amendments. Incumbent flags are set only where the county's own website confirms the officeholder (Commissioner Jones); others are marked false.",
+  "contests": [
+    {
+      "office": "Cumberland County Board of Commissioners At-Large (vote for 2)",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-commissioner-at-large-evans-charles",
+          "name": "Charles Evans",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-commissioner-at-large-west-greg",
+          "name": "Greg West",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-commissioner-at-large-ross-ron",
+          "name": "Ron Ross",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-commissioner-at-large-jones-veronica",
+          "name": "Veronica B. Jones",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+      "seats": 2
+    },
+    {
+      "office": "Cumberland County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-sheriff-windham-larue",
+          "name": "LaRue Windham",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-sheriff-mcduffie-troy",
+          "name": "Troy A. McDuffie",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cumberland County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-clerk-scales-lisa",
+          "name": "Lisa Scales",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 14",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-da-west-billy",
+          "name": "Billy West",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 14, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat1-king-toni",
+          "name": "Toni S. King",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 14, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat2-britt-frances",
+          "name": "Frances McDuffie Britt",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 14, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat3-miller-sherry",
+          "name": "Sherry Miller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 14, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat4-henderson-tracey",
+          "name": "Tracey L. Henderson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 14, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat5-strange-jonathan",
+          "name": "Jonathan C. Strange",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat5-siler-mack-cheri",
+          "name": "Cheri Siler-Mack",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 14, Seat 6",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat6-hood-rosalyn",
+          "name": "Rosalyn Hood",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 14, Seat 7",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-district-court-14-seat7-evans-caitlin",
+          "name": "Caitlin Evans",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cumberland County Board of Education At-Large (vote for 3)",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-boe-at-large-crockett-franklin",
+          "name": "Franklin Matthew Crockett",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-chadwick-robyn",
+          "name": "Robyn Chadwick",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-byrd-keith",
+          "name": "Keith Byrd",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-brown-jacquelyn",
+          "name": "Jacquelyn Brown",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-young-chris",
+          "name": "Chris Young",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-williams-bradley",
+          "name": "Bradley Williams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-west-rebecca",
+          "name": "Rebecca (Becky) West",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-ward-karelle",
+          "name": "Karelle Ward",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-stubbs-carol",
+          "name": "Carol Stubbs",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-stocks-demetrius",
+          "name": "Demetrius Stocks",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-pone-broxie",
+          "name": "Broxie P. Pone",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-moore-bryan",
+          "name": "Bryan Moore",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-miller-theodore",
+          "name": "Theodore Lee Miller",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-lovejoy-quincei",
+          "name": "Quincei Lovejoy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-lee-johnathaun",
+          "name": "Johnathaun Lee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-boe-at-large-hatch-tom",
+          "name": "Tom Hatch",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+      "seats": 3
+    },
+    {
+      "office": "Cumberland Soil and Water Conservation District Supervisor (vote for 2)",
+      "candidates": [
+        {
+          "key": "nc-cumberland-2026-soil-water-ellison-ellison",
+          "name": "Ellison L. Ellison",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-soil-water-chambers-dianna",
+          "name": "Dianna Chambers",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-soil-water-waterford-dwayne",
+          "name": "Dwayne Waterford",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-soil-water-volcy-yolanda",
+          "name": "Yolanda Volcy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-soil-water-stanley-jeremy",
+          "name": "Jeremy Stanley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-soil-water-rivas-chris",
+          "name": "Chris Rivas",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cumberland-2026-soil-water-hallatschek-joe",
+          "name": "Joe Hallatschek",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+      "seats": 2
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
