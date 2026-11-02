@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Voting record for every federal nominee who is a sitting member of Congress
+// Voting record for every federal nominee who is or was a member of Congress
 // (the `likely` tier of src/lib/fec.ts, loaded through jiti like fetch-finance).
 // Writes src/data/votes2026.json, keyed by FEC candidate_id.
 //
@@ -7,23 +7,27 @@
 //   VOTES_CACHE=/some/dir npm run fetch-votes   # where raw downloads are kept
 //
 // One uniform rule, nothing hand-picked: every final-passage roll-call vote in
-// the member's chamber on a measure that became law in the 119th Congress,
-// plus the share of all of that chamber's roll calls the member missed.
+// the member's chamber on a measure that became law in the member's Congress,
+// plus the share of all of that chamber's roll calls the member missed. The
+// member's Congress is the 119th for sitting members; for former members it is
+// the Congress of their last term, in that term's chamber.
 //
 // Sources:
-//   members   unitedstates/congress-legislators legislators-current.json
-//             (id.fec -> id.bioguide, current chamber)
-//   measures  GovInfo bulk BILLSTATUS XML (hr, s, hjres, sjres): bills with
+//   members   unitedstates/congress-legislators legislators-current.json, then
+//             legislators-historical.json for nominees not currently serving
+//             (id.fec -> id.bioguide, chamber and end of the last term)
+//   measures  GovInfo bulk BILLSTATUS XML (hr, s, hjres, sjres) per Congress: bills with
 //             <laws>, and per chamber the last recorded vote whose action is a
 //             passage / concurrence vote (procedural votes such as cloture skipped)
 //   House     Clerk roll-call XML, clerk.house.gov/evs/{year}/rollNNN.xml
 //   Senate    senate.gov blocks scripted requests, so member positions come
-//             from Voteview's mirror of the Senate roll calls (S119_votes.csv,
-//             keyed by ICPSR id; S119_members.csv maps ICPSR to bioguide);
+//             from Voteview's mirror of the Senate roll calls (S{congress}_votes.csv,
+//             keyed by ICPSR id; S{congress}_members.csv maps ICPSR to bioguide);
 //             links still point to senate.gov.
 //
 // Resumable: every download is cached (VOTES_CACHE, default $TMPDIR/ballothelper-votes)
 // and skipped when present; House rolls are fetched one at a time with a delay.
+// A Congress's measures and roll calls are pulled only if some nominee needs them.
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, readdirSync } from "node:fs";
 import { rename, writeFile } from "node:fs/promises";
@@ -35,9 +39,21 @@ const ROOT = join(import.meta.dirname, "..");
 const OUT = join(ROOT, "src", "data", "votes2026.json");
 const CACHE = process.env.VOTES_CACHE || join(tmpdir(), "ballothelper-votes");
 const CONGRESS = 119;
-const YEARS = { 1: 2025, 2: 2026 };
-const RULE =
-  "Every final-passage roll-call vote in this chamber on a measure that became law in the 119th Congress, plus the share of all roll-call votes missed. Nothing is hand-picked.";
+// Congress N runs Jan 3 of 2N+1787 to Jan 3 of 2N+1789; session -> calendar year.
+const yearsOf = (congress) => ({ 1: 2 * congress + 1787, 2: 2 * congress + 1788 });
+/** Congress in session the day before `end` ("YYYY-MM-DD"), i.e. a term's last Congress. */
+function congressEnding(end) {
+  const d = new Date(Date.parse(`${end}T00:00:00Z`) - 86_400_000).toISOString().slice(0, 10);
+  const year = Number(d.slice(0, 4));
+  const n = Math.floor((year - 1787) / 2);
+  return year % 2 === 1 && d.slice(5) < "01-03" ? n - 1 : n;
+}
+function ordinal(n) {
+  const s = n % 100 >= 11 && n % 100 <= 13 ? "th" : { 1: "st", 2: "nd", 3: "rd" }[n % 10] ?? "th";
+  return `${n}${s}`;
+}
+const ruleFor = (congress) =>
+  `Every final-passage roll-call vote in this chamber on a measure that became law in the ${ordinal(congress)} Congress, plus the share of all roll-call votes missed. Nothing is hand-picked.`;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const UA = { "User-Agent": "ballothelper voting-record snapshot (nonpartisan voter guide)" };
@@ -102,15 +118,13 @@ async function nominees() {
 }
 
 // ---------- members ----------
-async function legislators() {
-  const text = await cached(
-    "https://unitedstates.github.io/congress-legislators/legislators-current.json",
-    join(CACHE, "legislators-current.json"),
-  );
+async function legislators(file) {
+  const text = await cached(`https://unitedstates.github.io/congress-legislators/${file}`, join(CACHE, file));
   return JSON.parse(text).map((l) => ({
     bioguide: l.id.bioguide,
     fec: l.id.fec ?? [],
     chamber: l.terms.at(-1).type === "sen" ? "senate" : "house",
+    end: l.terms.at(-1).end,
   }));
 }
 
@@ -127,16 +141,19 @@ function pickTitle(bill) {
   return unescape(find("Short Title(s) as Enacted") ?? find("Popular Titles") ?? find("Display Title"));
 }
 
-async function enacted() {
+async function enacted(congress) {
   const dir = join(CACHE, "billstatus");
   const out = [];
   for (const type of Object.keys(TYPES)) {
-    const zip = join(dir, `BILLSTATUS-${CONGRESS}-${type}.zip`);
-    await cached(`https://www.govinfo.gov/bulkdata/BILLSTATUS/${CONGRESS}/${type}/BILLSTATUS-${CONGRESS}-${type}.zip`, zip, {
+    const zip = join(dir, `BILLSTATUS-${congress}-${type}.zip`);
+    await cached(`https://www.govinfo.gov/bulkdata/BILLSTATUS/${congress}/${type}/BILLSTATUS-${congress}-${type}.zip`, zip, {
       binary: true,
     });
-    const files = join(dir, type);
-    if (!existsSync(files)) execFileSync("unzip", ["-q", "-o", zip, "-d", files]);
+    const files = join(dir, String(congress), type);
+    if (!existsSync(files)) {
+      mkdirSync(join(files, ".."), { recursive: true });
+      execFileSync("unzip", ["-q", "-o", zip, "-d", files]);
+    }
     for (const f of readdirSync(files)) {
       const xml = readFileSync(join(files, f), "utf8");
       const laws = tag(xml, "laws");
@@ -168,9 +185,9 @@ async function enacted() {
 const NORMALIZE = { Aye: "Yea", Yea: "Yea", No: "Nay", Nay: "Nay", Present: "Present", "Not Voting": "Not Voting" };
 
 /** "{year}-{roll}" -> { date, positions: Map<bioguide, vote> } for every House roll call. */
-async function houseRolls() {
+async function houseRolls(congress) {
   const rolls = new Map();
-  for (const year of Object.values(YEARS)) {
+  for (const year of Object.values(yearsOf(congress))) {
     let misses = 0;
     for (let n = 1; misses < 3; n++) {
       const file = join(CACHE, "house", String(year), `roll${String(n).padStart(3, "0")}.xml`);
@@ -201,11 +218,12 @@ async function houseRolls() {
 // recorded votes, so they count as Not Voting, as on the official tally.
 const CAST = { 1: "Yea", 6: "Nay", 7: "Present", 8: "Present" };
 
-async function senateRolls() {
+async function senateRolls(congress) {
+  const YEARS = yearsOf(congress);
   const base = "https://voteview.com/static/data/out";
-  const calls = await cached(`${base}/rollcalls/S${CONGRESS}_rollcalls.csv`, join(CACHE, "voteview", `S${CONGRESS}_rollcalls.csv`));
-  const votes = await cached(`${base}/votes/S${CONGRESS}_votes.csv`, join(CACHE, "voteview", `S${CONGRESS}_votes.csv`));
-  const members = await cached(`${base}/members/S${CONGRESS}_members.csv`, join(CACHE, "voteview", `S${CONGRESS}_members.csv`));
+  const calls = await cached(`${base}/rollcalls/S${congress}_rollcalls.csv`, join(CACHE, "voteview", `S${congress}_rollcalls.csv`));
+  const votes = await cached(`${base}/votes/S${congress}_votes.csv`, join(CACHE, "voteview", `S${congress}_votes.csv`));
+  const members = await cached(`${base}/members/S${congress}_members.csv`, join(CACHE, "voteview", `S${congress}_members.csv`));
   // The legislators file lacks ICPSR ids for some newer senators, so map by bioguide.
   // Names are quoted and contain commas ("TUBERVILLE, Thomas Hawley (Tommy)").
   const fields = (line) => [...line.matchAll(/(?:"((?:[^"]|"")*)"|([^,]*))(?:,|$)/g)].map((m) => m[1] ?? m[2]);
@@ -249,19 +267,35 @@ async function main() {
   mkdirSync(CACHE, { recursive: true });
   console.log(`Cache: ${CACHE}`);
   const ids = new Set(await nominees());
-  const members = (await legislators()).flatMap((l) => l.fec.filter((f) => ids.has(f)).map((fecId) => ({ fecId, ...l })));
-  console.log(`${ids.size} likely nominees with FEC ids; ${members.length} map to sitting members.`);
+  const match = (list) => list.flatMap((l) => l.fec.filter((f) => ids.has(f)).map((fecId) => ({ fecId, ...l })));
+  const sitting = match(await legislators("legislators-current.json")).map((m) => ({ ...m, congress: CONGRESS }));
+  const taken = new Set(sitting.map((m) => m.fecId));
+  const former = match(await legislators("legislators-historical.json"))
+    .filter((m) => !taken.has(m.fecId))
+    .map((m) => ({ ...m, congress: congressEnding(m.end), former: true }));
+  const members = [...sitting, ...former];
+  console.log(`${ids.size} likely nominees with FEC ids; ${sitting.length} map to sitting members, ${former.length} to former members.`);
 
-  const measures = await enacted();
-  for (const ch of ["house", "senate"])
-    console.log(`${measures.filter((m) => m.last[ch]).length} enacted measures with a final-passage roll call in the ${ch}.`);
-
-  const rolls = { house: await houseRolls(), senate: await senateRolls() };
-  console.log(`${rolls.house.size} House and ${rolls.senate.size} Senate roll calls.`);
+  // Per Congress, only the chambers some nominee needs.
+  const data = new Map();
+  for (const congress of [...new Set(members.map((m) => m.congress))].sort((a, b) => b - a)) {
+    const chambers = new Set(members.filter((m) => m.congress === congress).map((m) => m.chamber));
+    const measures = await enacted(congress);
+    for (const ch of chambers)
+      console.log(`${ordinal(congress)}: ${measures.filter((m) => m.last[ch]).length} enacted measures with a final-passage roll call in the ${ch}.`);
+    const rolls = {
+      house: chambers.has("house") ? await houseRolls(congress) : null,
+      senate: chambers.has("senate") ? await senateRolls(congress) : null,
+    };
+    console.log(`${ordinal(congress)}: ${rolls.house?.size ?? 0} House and ${rolls.senate?.size ?? 0} Senate roll calls.`);
+    data.set(congress, { measures, rolls });
+  }
 
   const candidates = {};
   for (const m of members) {
     const key = m.bioguide;
+    const { measures, rolls } = data.get(m.congress);
+    const YEARS = yearsOf(m.congress);
     const missedVotes = missed(rolls[m.chamber], key);
     if (!missedVotes) continue; // e.g. delegates, who have no floor votes
     const votes = [];
@@ -277,14 +311,17 @@ async function main() {
       const rollUrl =
         m.chamber === "house"
           ? `https://clerk.house.gov/Votes/${year}${rv.roll}`
-          : `https://www.senate.gov/legislative/LIS/roll_call_votes/vote${CONGRESS}${rv.session}/vote_${CONGRESS}_${rv.session}_${String(rv.roll).padStart(5, "0")}.htm`;
+          : `https://www.senate.gov/legislative/LIS/roll_call_votes/vote${m.congress}${rv.session}/vote_${m.congress}_${rv.session}_${String(rv.roll).padStart(5, "0")}.htm`;
       votes.push({ measure: x.measure, title: x.title, law: x.law, date: rv.date.slice(0, 10), vote, rollUrl });
     }
     votes.sort((a, b) => b.date.localeCompare(a.date) || a.measure.localeCompare(b.measure));
-    candidates[m.fecId] = { bioguide: m.bioguide, chamber: m.chamber, missedVotes, votes };
+    candidates[m.fecId] = m.former
+      ? { bioguide: m.bioguide, chamber: m.chamber, congress: m.congress, former: true, rule: ruleFor(m.congress), missedVotes, votes }
+      : { bioguide: m.bioguide, chamber: m.chamber, missedVotes, votes };
   }
 
-  const out = { generatedAt: new Date().toISOString(), congress: CONGRESS, rule: RULE, candidates };
+  // Top-level congress and rule describe sitting members; former members carry their own.
+  const out = { generatedAt: new Date().toISOString(), congress: CONGRESS, rule: ruleFor(CONGRESS), candidates };
   await writeFile(`${OUT}.tmp`, JSON.stringify(out) + "\n");
   await rename(`${OUT}.tmp`, OUT);
   console.log(`Wrote ${Object.keys(candidates).length} candidates to ${OUT}`);

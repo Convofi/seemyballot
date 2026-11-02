@@ -15,6 +15,11 @@ function date(iso: string): string {
   });
 }
 
+function ordinal(n: number): string {
+  const s = n % 100 >= 11 && n % 100 <= 13 ? "th" : ({ 1: "st", 2: "nd", 3: "rd" } as Record<number, string>)[n % 10] ?? "th";
+  return `${n}${s}`;
+}
+
 function percent(pct: number): string {
   if (pct > 0 && pct < 1) return "<1%";
   return `${Math.round(pct)}%`;
@@ -37,6 +42,9 @@ function shortTitle(title: string): string {
 export default function CandidateVotes({ data }: { data: Data }) {
   const { missed, total, pct, through } = data.missedVotes;
   const n = data.votes.length;
+  const chamber = data.chamber === "senate" ? "Senate" : "House";
+  // Congress N spans the calendar years 2N+1787 and 2N+1788.
+  const congress = `${ordinal(data.congress)} Congress (${2 * data.congress + 1787}–${2 * data.congress + 1788})`;
   return (
     <details className="group mt-2 text-md">
       <summary className="flex min-h-11 cursor-pointer items-center gap-2 text-sm font-medium text-accent hover:text-accent-hover [&::-webkit-details-marker]:hidden">
@@ -44,14 +52,20 @@ export default function CandidateVotes({ data }: { data: Data }) {
           ›
         </span>
         <span>
-          Voting record · {n} {n === 1 ? "vote" : "votes"} on enacted laws · missed {percent(pct)} of votes
+          Voting record{data.former && <> · last term, {congress}</>} · {n} {n === 1 ? "vote" : "votes"} on enacted laws · missed{" "}
+          {percent(pct)} of votes
         </span>
       </summary>
       <div className="mb-1 border-l-2 border-line pl-3">
+        {data.former && (
+          <p className="mb-1 text-sm font-medium text-ink">
+            From the {congress}, their last term in the {chamber}.
+          </p>
+        )}
         <p className="text-sm text-ink-2">
           Missed <span className="font-medium tabular-nums text-ink">{missed.toLocaleString("en-US")}</span> of{" "}
-          <span className="tabular-nums">{total.toLocaleString("en-US")}</span> {data.chamber === "senate" ? "Senate" : "House"}{" "}
-          roll-call votes ({pct}%) through {date(through)}.
+          <span className="tabular-nums">{total.toLocaleString("en-US")}</span> {chamber}{" "}
+          roll-call votes ({pct}%){data.former && <> in the {ordinal(data.congress)} Congress</>} through {date(through)}.
         </p>
 
         {n > 0 && (
