@@ -1,0 +1,221 @@
+{
+  "state": "MN",
+  "county": "Dakota County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://dakotacountymn.gov/government/county-sheriff",
+    "https://dakotacountymn.gov/government/county-attorney"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for a Hastings precinct (W-1 P-1) and the Secretary of State's county and judicial district candidate files, with incumbency for Sheriff and County Attorney confirmed on Dakota County's own office pages. Not shown here because they depend on your district: County Commissioner (Districts 1, 2, 3 and 6), Soil and Water Conservation District Supervisor (Districts 4 and 5, each on only part of the county's ballots), school board members and school district questions, and city and township offices and questions. Check your official sample ballot for those. No countywide ballot questions are on the November 2026 ballot. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-sheriff-lambert-bobby",
+          "name": "Bobby Lambert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-dakota-2026-sheriff-leko-joe",
+          "name": "Joe Leko",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-county-attorney-keena-kathy",
+          "name": "Kathy Keena",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mn-dakota-2026-county-attorney-sheridan-jeffrey",
+          "name": "Jeffrey Sheridan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 1 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-1-offermann-ann",
+          "name": "Ann M. Offermann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 2 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-2-marks-krista",
+          "name": "Krista M. Marks",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 3 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-3-edwards-dannia",
+          "name": "Dannia L. Edwards",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 4 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-4-perzel-tracy",
+          "name": "Tracy Perzel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 6 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-6-staples-kelly",
+          "name": "Kelly A. Staples",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 7 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-7-schmidt-matthew",
+          "name": "Matthew Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 9 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-9-goggins-patrick",
+          "name": "Patrick Goggins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 12 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-12-wentzell-michael",
+          "name": "Michael D. Wentzell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-15-johnson-lauren",
+          "name": "Lauren M. Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 16 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-16-morales-luis",
+          "name": "Luis Morales",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 18 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-18-wilton-christian",
+          "name": "Christian Sean Wilton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 27 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-27-obrien-tanya",
+          "name": "Tanya Olympia O'Brien",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 34 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-34-bates-christopher",
+          "name": "Christopher D. Bates",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    },
+    {
+      "office": "Judge 36 - District Court, 1st Judicial District",
+      "candidates": [
+        {
+          "key": "mn-dakota-2026-district-court-36-johnson-adam",
+          "name": "Adam Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/D8029972-DC75-408A-AD38-AF4EA63BE7C7.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

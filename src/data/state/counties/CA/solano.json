@@ -1,0 +1,169 @@
+{
+  "state": "CA",
+  "county": "Solano County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.solanocounty.gov/government/registrar-voters/current-election-information",
+    "https://www.solanocounty.gov/2026-november-general-election-notice-election",
+    "https://content.solanocounty.gov/sites/default/files/2026-08/Notice_of_Measures.pdf",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+    "https://content.solanocounty.gov/sites/default/files/2026-07/Resolution_Solano_County_Measure_E_REDACTED.pdf",
+    "https://content.solanocounty.gov/sites/default/files/2026-07/Resolution_Solano_County_Measure_H_REDACTED.pdf"
+  ],
+  "note": "Not shown: Board of Supervisors District 4, Solano County Board of Education trustee areas, community college and school district trustee areas, fire, irrigation and water district seats, and city and school measures (B, O, P, Q, U, V, X, Y, Z). No Sheriff, District Attorney or other countywide office and no Superior Court judge is on this ballot. California Supreme Court retention is statewide and not repeated here. Vallejo City Council Districts 2, 4 and 5 are district races and not shown; Vallejo has no citywide office or measure on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Monique Langhorne Wilson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div1-wilson-monique",
+          "name": "Monique Langhorne Wilson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Charles A. Smiley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div1-smiley-charles",
+          "name": "Charles A. Smiley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Kathleen M. Banke? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div1-banke-kathleen",
+          "name": "Kathleen M. Banke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Two — retain Therese M. Stewart? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div2-stewart-therese",
+          "name": "Therese M. Stewart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Two — retain Tara M. Desautels? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div2-desautels-tara",
+          "name": "Tara M. Desautels",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Ioana Petrou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div3-petrou-ioana",
+          "name": "Ioana Petrou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Victor A. Rodriguez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div3-rodriguez-victor",
+          "name": "Victor A. Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Four — retain Tracie L. Brown? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div4-brown-tracie",
+          "name": "Tracie L. Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Danny Y. Chou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div5-chou-danny",
+          "name": "Danny Y. Chou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Mark Simons? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div5-simons-mark",
+          "name": "Mark Simons",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Gordon Burns? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-solano-2026-retain-app1-div5-burns-gordon",
+          "name": "Gordon Burns",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure E",
+      "title": "Solano County Unincorporated Business License Tax",
+      "summary": "Would update the County business license tax that applies in the unincorporated area: raise the commercial wind turbine rate from $0.00003 to $0.00008 per kWh and extend the tax to commercial solar energy systems ($0.00008 per kWh), front-of-the-meter battery storage ($1.50 per MWh of capacity), natural gas extraction ($0.30 per thousand cubic feet) and data centers ($5.00 per square foot). Rates would adjust yearly for inflation starting in 2028, and County staff estimate about $353,000 a year in added general revenue, until ended by voters. The Board of Supervisors submitted it to the qualified voters of Solano County.",
+      "yesMeans": "The County's business license tax is updated with the higher wind rate, the new energy, gas extraction and data center categories, and inflation adjustments.",
+      "noMeans": "The current business license tax, including the existing wind turbine rate, stays as it is.",
+      "source": "https://content.solanocounty.gov/sites/default/files/2026-08/Notice_of_Measures.pdf",
+      "moreInfo": "https://content.solanocounty.gov/sites/default/files/2026-08/Measure_E_-_Impartial_Analysis_ordinance_for_commercial_energy_production_facilities_business_license_tax.pdf"
+    },
+    {
+      "id": "Measure H",
+      "title": "Solano County Unincorporated Transient Occupancy Tax",
+      "summary": "Would raise the County's transient occupancy tax on stays of 30 days or less at hotels, motels, vacation rentals, campgrounds, RV parks and other lodging in the unincorporated area from 5% to 12% of the rent. It is a general tax, estimated to raise about $58,500 more per year, effective January 1, 2027 until ended by voters, and it also updates definitions and collection rules, including for online booking services. The Board of Supervisors submitted it to the qualified voters of Solano County.",
+      "yesMeans": "The County's lodging tax in unincorporated areas rises from 5% to 12%.",
+      "noMeans": "The County's lodging tax stays at 5%.",
+      "source": "https://content.solanocounty.gov/sites/default/files/2026-08/Notice_of_Measures.pdf",
+      "moreInfo": "https://content.solanocounty.gov/sites/default/files/2026-08/Measure_H.Impartial_Analysis.Transient_Occupancy_Tax.2026.pdf"
+    }
+  ],
+  "municipalities": {}
+}

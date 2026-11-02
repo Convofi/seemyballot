@@ -1,0 +1,136 @@
+{
+  "state": "FL",
+  "county": "Manatee County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.votemanatee.gov/sample-ballots/",
+    "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot",
+    "https://www.votemanatee.gov/elected-officials/"
+  ],
+  "note": "The County Commission District 6 (At-Large), Court of Appeal retention, Mosquito Control District and County Referendum items appear in the ALL VOTERS section of the Supervisor of Elections' sample ballot. Not shown: County Commission Districts 1 and 2, School Board Districts 2 and 5, East Manatee, West Manatee and Parrish fire district seats and referendums, community development and stewardship district seats, Bradenton City Council Wards 3 and 4, and other cities' questions (Holmes Beach and others). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 6 (At-Large)",
+      "candidates": [
+        {
+          "key": "fl-manatee-2026-commission-d6-poulton-tara",
+          "name": "Tara Poulton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-manatee-2026-commission-d6-bellamy-reggie",
+          "name": "Reggie Bellamy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Drew Atkinson? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-manatee-2026-dca2-atkinson-drew",
+          "name": "Drew Atkinson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Morris Silberman? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-manatee-2026-dca2-silberman-morris",
+          "name": "Morris Silberman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Daniel H. Sleet? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-manatee-2026-dca2-sleet-daniel",
+          "name": "Daniel H. Sleet",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Andrea Teves Smith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-manatee-2026-dca2-teves-smith-andrea",
+          "name": "Andrea Teves Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+    },
+    {
+      "office": "Mosquito Control District, Group 1",
+      "candidates": [
+        {
+          "key": "fl-manatee-2026-mosquito-g1-johnson-scott",
+          "name": "Scott Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-manatee-2026-mosquito-g1-oquinn-rodney",
+          "name": "Rodney O’Quinn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-manatee-2026-mosquito-g1-richards-charles",
+          "name": "Charles “Rick” Richards",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Manatee County Referendum",
+      "title": "Water Quality Protection, Overdevelopment Prevention, Natural Lands Preservation, and Public Preserves General Obligation Bond Referendum",
+      "summary": "Asks whether Manatee County should levy an additional 0.16 mill property tax and issue up to $75,000,000 in general obligation bonds, maturing within 20 years, to acquire, improve and maintain land and property interests. The purposes are protecting drinking water sources, water quality, wildlife habitat and natural and environmentally sensitive lands from overdevelopment, and providing public preserves, with annual public audits.",
+      "yesMeans": "For Bonds: the County may issue up to $75 million in bonds repaid by an additional 0.16 mill property tax.",
+      "noMeans": "Against Bonds: the bonds and the additional 0.16 mill tax are not authorized.",
+      "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+    }
+  ],
+  "municipalities": {
+    "Bradenton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Bradenton Referendum No. 1",
+          "title": "Remove Mayor's Tie Vote Right and Ex Officio President Designation; Add Mayor Not Council Member",
+          "summary": "Would amend the Bradenton City Charter to remove the Mayor's right to vote to break a tie and remove the Mayor's designation as ex officio president of the City Council. It would add language stating that the Mayor is not a member of the City Council.",
+          "yesMeans": "The Mayor no longer casts tie-breaking votes or serves as ex officio Council president, and is not a Council member.",
+          "noMeans": "The Mayor keeps the tie-breaking vote and the ex officio president designation.",
+          "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+        },
+        {
+          "id": "City of Bradenton Referendum No. 2",
+          "title": "Providing for Term Limits for the Mayor and City Council Members",
+          "summary": "Would amend the Bradenton City Charter to limit the Mayor and City Council members to three full consecutive terms in the same office, beginning January 2028. After three full consecutive terms, a break in service of at least two years would be required before running again for the same office.",
+          "yesMeans": "The Mayor and Council members are limited to three full consecutive terms in the same office, starting January 2028.",
+          "noMeans": "No term limits are added for the Mayor and City Council.",
+          "source": "https://www.votemanatee.gov/download/64/2026-general-election/9497/2026-generic-general-sample-ballot"
+        }
+      ]
+    }
+  }
+}
