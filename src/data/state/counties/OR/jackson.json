@@ -1,0 +1,232 @@
+{
+  "state": "OR",
+  "county": "Jackson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.jacksoncountyor.gov/departments/elections/general___primary_elections/general_election_-_november_3,_2026.php",
+    "https://www.jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203,%202026/List%20of%20City%20Candidates%20(November%202026).pdf",
+    "https://www.jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203,%202026/Jackson%20County%20Voters'%20Pamphlet%20(November%203,%202026).pdf",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf"
+  ],
+  "note": "From Jackson County Elections' November 3, 2026 county candidate filings, city candidate list and county voters' pamphlet, and the state voters' pamphlet for Jackson County. Jackson County commissioners are elected countywide. Isabella Lee Tibbetts is also the Working Families nominee and is listed once under the Democratic Party. Incumbent flags are set from the incumbent box on each candidate's official filing form; city candidates are not marked. No circuit court contest appears for the 1st Judicial District, and there is no countywide Jackson County measure. Not shown: Measure 15-244 (Jackson County Vector Control District five-year levy), which is a special-district measure; Jackson Soil & Water Conservation District directors; Medford City Council Wards 1-4 (Medford has no citywide office or measure this election); offices in other cities (Central Point, Eagle Point, Gold Hill, Jacksonville, Phoenix, Rogue River, Shady Cove, Talent, Butte Falls); and State Senate, State House and U.S. House districts. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Jackson County Commissioner, Position 1",
+      "candidates": [
+        {
+          "key": "or-jackson-2026-commissioner-pos1-reichenbach-lyndi",
+          "name": "Lyndi Reichenbach",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "or-jackson-2026-commissioner-pos1-dyer-rick",
+          "name": "Rick Dyer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jacksoncountyor.gov/departments/elections/general___primary_elections/general_election_-_november_3,_2026.php"
+    },
+    {
+      "office": "Jackson County Commissioner, Position 3",
+      "candidates": [
+        {
+          "key": "or-jackson-2026-commissioner-pos3-roberts-colleen",
+          "name": "Colleen Roberts",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "or-jackson-2026-commissioner-pos3-lee-tibbetts-isabella",
+          "name": "Isabella Lee Tibbetts",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jacksoncountyor.gov/departments/elections/general___primary_elections/general_election_-_november_3,_2026.php"
+    },
+    {
+      "office": "Jackson County Clerk",
+      "candidates": [
+        {
+          "key": "or-jackson-2026-clerk-walker-chris",
+          "name": "Chris Walker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jacksoncountyor.gov/departments/elections/general___primary_elections/general_election_-_november_3,_2026.php"
+    },
+    {
+      "office": "Jackson County Sheriff",
+      "candidates": [
+        {
+          "key": "or-jackson-2026-sheriff-sickler-nathan",
+          "name": "Nathan Sickler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.jacksoncountyor.gov/departments/elections/general___primary_elections/general_election_-_november_3,_2026.php"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Ashland": {
+      "contests": [
+        {
+          "office": "City of Ashland, Council Members (three 4-year seats and one 2-year unexpired seat)",
+          "seats": 4,
+          "candidates": [
+            {
+              "key": "or-jackson-2026-ashland-council-slaboda-victoria",
+              "name": "Victoria Slaboda",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-kilkelly-ronan",
+              "name": "Ronan Kilkelly",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-kencairn-kerry",
+              "name": "Kerry Kencairn",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-kaplan-bob",
+              "name": "Bob Kaplan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-buckley-jack",
+              "name": "Jack Buckley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-polanco-brandon",
+              "name": "Brandon Polanco",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-cisneros-teresa",
+              "name": "Teresa Cisneros",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-merripen-clarinda",
+              "name": "Clarinda Merripen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-hellwig-brian",
+              "name": "Brian Hellwig",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-timmons-aydin",
+              "name": "Aydin Timmons",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-adams-linda",
+              "name": "Linda Adams",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-council-ruby-dan",
+              "name": "Dan Ruby",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203,%202026/List%20of%20City%20Candidates%20(November%202026).pdf"
+        },
+        {
+          "office": "City of Ashland, Park Commissioners",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "or-jackson-2026-ashland-parks-seffinger-stefani",
+              "name": "Stefani Seffinger",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-parks-bonnington-jeff",
+              "name": "Jeff Bonnington",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-parks-wren-alison",
+              "name": "Alison Wren",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-parks-young-david",
+              "name": "David Young",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-parks-dotson-michael",
+              "name": "Michael Dotson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-parks-feingold-russell",
+              "name": "Russell Feingold",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-jackson-2026-ashland-parks-long-brian",
+              "name": "Brian Long",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203,%202026/List%20of%20City%20Candidates%20(November%202026).pdf"
+        },
+        {
+          "office": "City of Ashland, Municipal Judge",
+          "candidates": [
+            {
+              "key": "or-jackson-2026-ashland-municipal-judge-mulkins-ryan",
+              "name": "Ryan Mulkins",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203,%202026/List%20of%20City%20Candidates%20(November%202026).pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Measure 15-243",
+          "title": "Requiring Voter Approval for New or Increased Fee or Tax",
+          "summary": "A citizen-initiated amendment to the Ashland City Charter. It would require that any new or increased fee or tax placed on a City utility bill, unrelated to operating the utilities, be approved by Ashland voters at the next regularly scheduled election and not be collected until at least 30 days after that vote. State and federal taxes and fees, franchise fees, increases needed to meet state minimums, and inflation increases not exceeding CPI-West are exempt.",
+          "yesMeans": "New or increased City utility-bill fees or taxes unrelated to utility operations would need voter approval before taking effect.",
+          "noMeans": "The Ashland Charter stays as it is, and the City Council can adopt such fees or taxes without a public vote.",
+          "source": "https://www.jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203,%202026/Jackson%20County%20Voters'%20Pamphlet%20(November%203,%202026).pdf",
+          "moreInfo": "https://www.jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203,%202026/Measure%2015-243%20City%20of%20Ashland%20(Requiring%20Voter%20Approval%20for%20New%20or%20Increased%20Fee%20or%20Tax).pdf"
+        }
+      ]
+    }
+  }
+}

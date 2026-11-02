@@ -1,0 +1,247 @@
+{
+  "state": "WA",
+  "county": "Benton County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=03&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Benton County. Party is the candidate's stated preference. County Commissioner District 2 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Benton County PUD Commissioner Position 2, legislative and congressional districts, and the Kiona-Benton City School District 52 Proposition No. 1, which depend on where you live. No Superior Court race and no countywide Benton County measure is on this ballot. No City of Kennewick office or measure is on this ballot. Richland City Council Position 4 and the two City of Benton City propositions are shown for those cities. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 3, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-app3d2-2026-pos1-hill-tyson",
+          "name": "Tyson R. Hill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Assessor",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-assessor-spencer-bill",
+          "name": "Bill Spencer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Auditor",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-auditor-chilton-brenda",
+          "name": "Brenda Chilton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Clerk",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-clerk-delvin-josie",
+          "name": "Josie Delvin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Commissioner, District No. 2 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-commissioner-d-2-alvarez-michael",
+          "name": "Michael Alvarez",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Coroner",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-coroner-leach-william",
+          "name": "William \"Bill\" Leach",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-prosecuting-attorney-eisinger-eric",
+          "name": "Eric Eisinger",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-benton-2026-prosecuting-attorney-long-julie",
+          "name": "Julie Long",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-sheriff-clark-michael",
+          "name": "Michael (Mike) Clark",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-benton-2026-sheriff-klippert-brad",
+          "name": "Brad Klippert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-treasurer-spencer-kenneth",
+          "name": "Kenneth Spencer Jr",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County District Court Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-district-court-pos-1-sams-talesha",
+          "name": "Talesha Sams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-benton-2026-district-court-pos-1-rio-michael",
+          "name": "Michael \"Mike\" Rio",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County District Court Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-district-court-pos-2-bell-james",
+          "name": "James \"Jim\" Bell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County District Court Judge Position 3",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-district-court-pos-3-kathren-dan",
+          "name": "Dan Kathren",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County District Court Judge Position 4",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-district-court-pos-4-johnson-jennifer",
+          "name": "Jennifer Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    },
+    {
+      "office": "Benton County District Court Judge Position 5",
+      "candidates": [
+        {
+          "key": "wa-benton-2026-district-court-pos-5-azure-jennifer",
+          "name": "Jennifer M. (Lampson) Azure",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Richland": {
+      "contests": [
+        {
+          "office": "Richland City Council Position 4",
+          "candidates": [
+            {
+              "key": "wa-benton-2026-richland-council-pos-4-saltz-kyle",
+              "name": "Kyle Saltz",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "wa-benton-2026-richland-council-pos-4-lipton-mary",
+              "name": "Mary S. Lipton",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+        }
+      ],
+      "measures": []
+    },
+    "Benton City": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "Adoption of the Council-Manager Form of Government",
+          "summary": "Under Resolution 2026-49, Benton City would abandon its mayor-council form of government and adopt the council-manager form, effective March 1, 2027. The elected council would hire a professional manager as chief administrative officer and choose a mayor from among its members to preside at meetings. The city would remain a code city under Title 35A RCW.",
+          "yesMeans": "Benton City would switch to a council-manager government on March 1, 2027.",
+          "noMeans": "Benton City would keep its mayor-council government with an elected mayor as chief administrative officer.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03#/measure/7271",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+        },
+        {
+          "id": "Proposition No. 2",
+          "title": "Community Safety Levy Lid Lift",
+          "summary": "Under Resolution 2026-50, Benton City would restore its regular property tax levy rate to $1.60 per $1,000 of assessed value for collection in 2027 to fund law enforcement and code enforcement. For 2028-2036 the levy could rise each year by the Consumer Price Index for the Western Region, never exceeding $1.60 per $1,000. The 2036 levy would be used to calculate later levy limits.",
+          "yesMeans": "Benton City could levy up to $1.60 per $1,000 of assessed value for community safety starting with 2027 collection.",
+          "noMeans": "Benton City's property tax levy would not be restored to $1.60 per $1,000 under this measure.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03#/measure/7272",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=03"
+        }
+      ]
+    }
+  }
+}

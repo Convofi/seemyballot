@@ -1,0 +1,103 @@
+{
+  "state": "WA",
+  "county": "Whatcom County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=37&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Whatcom County. Party is the candidate's stated preference; 'States No Party Preference' is shown as Independent. Incumbent flags are not set because we did not check an official roster. Not shown: Port of Bellingham Commissioner Districts 4 and 5 and Public Utility District No. 1 Commissioner District 1 (the guide lists them by district, not as countywide), legislative and congressional districts, and the Fire Protection District 1 levy lid lift, which depend on where you live. No Whatcom County Council, Executive or Superior Court race, no Court of Appeals race, and no countywide Whatcom County measure is on this ballot. No City of Bellingham office is on this ballot; the three Bellingham city measures and the City of Lynden measure are shown. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Whatcom County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-whatcom-2026-prosecuting-attorney-swinburnson-ryan",
+          "name": "Ryan Swinburnson",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-whatcom-2026-prosecuting-attorney-corkern-jesse",
+          "name": "Jesse Corkern",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37"
+    },
+    {
+      "office": "Whatcom County District Court Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-whatcom-2026-district-court-pos-1-anderson-angela",
+          "name": "Angela Anderson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37"
+    },
+    {
+      "office": "Whatcom County District Court Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-whatcom-2026-district-court-pos-2-rands-jonathan",
+          "name": "Jonathan Rands",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Bellingham": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 2026-06",
+          "title": "Authorizing the City's Salary Commission to Set the Mayor's Salary",
+          "summary": "A proposed amendment to the Bellingham City Charter. The Charter now says the Mayor's salary may at no time be less than that of the highest-paid City official or employee. The amendment would delete that requirement and have the City's independent salary commission, which already sets City Council salaries, set the Mayor's salary.",
+          "yesMeans": "The City's salary commission would set the Mayor's salary, and the Mayor's pay would no longer be tied to the highest-paid City employee.",
+          "noMeans": "The Charter would keep requiring that the Mayor's salary be no less than that of the highest-paid City official or employee.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37#/measure/7295",
+          "moreInfo": "https://www.whatcomcounty.us/DocumentCenter/View/115495/City-of-Bellingham-Prop-2026-06-Original-Resolution"
+        },
+        {
+          "id": "Proposition 2026-07",
+          "title": "Streamlining the City's Contract Review Process to Allow Electronic Signatures",
+          "summary": "A proposed amendment to the Bellingham City Charter. The Charter now requires the Mayor to sign all city contracts, bonds and instruments, and the finance director to attest the Mayor's signature and affix the City seal. The amendment would remove those requirements, let the Mayor's designee sign contracts, and allow electronic signatures.",
+          "yesMeans": "The Mayor's designee could sign city contracts, and the City could use electronic signatures without the attestation and seal requirements.",
+          "noMeans": "The Charter would keep requiring the Mayor's signature, the finance director's attestation and the City seal on city contracts.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37#/measure/7297",
+          "moreInfo": "https://www.whatcomcounty.us/DocumentCenter/View/115497/City-of-Bellingham-Prop-2026-07-Original-Resolution"
+        },
+        {
+          "id": "Initiative 26-01",
+          "title": "Prohibition of Algorithmic Price-Fixing in the Rental Market",
+          "summary": "A citizen initiative that would add a chapter to the Bellingham Municipal Code. It would prohibit landlords from agreeing with each other to set rental prices and prohibit paid algorithmic coordinating services that use rental market data to recommend rents, lease renewal terms or occupancy levels to multiple landlords. It would create a private right of action, whistleblower and anti-retaliation protections for tenants and employees, and civil and criminal penalties; it would not apply to hotels, motels or short-term rentals.",
+          "yesMeans": "Bellingham would prohibit rental price-fixing agreements and algorithmic rent-coordinating services, with the listed remedies and penalties.",
+          "noMeans": "Bellingham would not adopt this chapter prohibiting algorithmic rent-setting services.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37#/measure/7298",
+          "moreInfo": "https://www.whatcomcounty.us/DocumentCenter/View/115498/City-of-Bellingham-Initiative-26-01-Original-Resolution"
+        }
+      ]
+    },
+    "Lynden": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 2026-05",
+          "title": "Levy Lid Lift for Public Safety and Essential Community Services",
+          "summary": "Under Resolution No. 26-1148, the City of Lynden asks to raise its regular property tax levy above the usual limit to fund police and fire, park and street maintenance, restoring eliminated staff positions, reopening City Hall on Fridays, and offsetting lost funding for the Lynden Community/Senior Center. It would set a maximum 2026 levy, collected in 2027, of $1.54304 per $1,000 of assessed value, allow 3% annual increases for 2027-2035, and use the 2035 levy to calculate future levy limits.",
+          "yesMeans": "Lynden could levy up to $1.54304 per $1,000 of assessed value for 2027 collection, with 3% annual increases through 2035, for the listed services.",
+          "noMeans": "Lynden's regular property tax levy would stay under the existing limit.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=37#/measure/7299",
+          "moreInfo": "https://www.whatcomcounty.us/DocumentCenter/View/115501/City-of-Lynden-Prop-2026-05-Original-Ressolution"
+        }
+      ]
+    }
+  }
+}

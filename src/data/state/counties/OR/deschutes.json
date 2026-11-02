@@ -1,0 +1,145 @@
+{
+  "state": "OR",
+  "county": "Deschutes County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
+    "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color",
+    "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf"
+  ],
+  "note": "From Deschutes County Elections' November 3, 2026 filed-candidates list and county voters' pamphlet, and the state voters' pamphlet for Deschutes County. Deschutes County offices are nonpartisan, and commissioners are currently elected countywide. Robert Tintle withdrew from the Treasurer race on 8/5/2026. Incumbent flags are not set because the posted filing forms are scanned images and we did not check an official roster. Not shown: City of Bend Mayor (Position 7) and City Council Positions 5 and 6, because the City of Bend's elections page blocked our access and the county pamphlet lists only candidates who submitted statements; offices in La Pine, Redmond and Sisters; Measure 9-186 (City of Redmond psilocybin moratorium); Deschutes Soil and Water Conservation District directors; and State House and U.S. House districts. No City of Bend measure is in the county voters' pamphlet. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Judge of the Circuit Court, 11th District, Position 3",
+      "candidates": [
+        {
+          "key": "or-deschutes-2026-circuit-pos3-betz-thaddeus",
+          "name": "Thaddeus Betz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-circuit-pos3-huntsman-sonia",
+          "name": "Sonia Huntsman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-circuit-pos3-atkinson-raun",
+          "name": "Raun Atkinson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-circuit-pos3-leitz-keith",
+          "name": "Keith A Leitz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf"
+    },
+    {
+      "office": "Deschutes County Clerk",
+      "candidates": [
+        {
+          "key": "or-deschutes-2026-clerk-curtis-jonathan",
+          "name": "Jonathan Curtis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-clerk-dennison-steve",
+          "name": "Steve Dennison",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+    },
+    {
+      "office": "Deschutes County Commissioner, Position 3",
+      "candidates": [
+        {
+          "key": "or-deschutes-2026-commissioner-pos3-connally-lauren",
+          "name": "Lauren Connally",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-commissioner-pos3-sabbadini-amy",
+          "name": "Amy Sabbadini",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+    },
+    {
+      "office": "Deschutes County Commissioner, Position 5 (2-year term)",
+      "candidates": [
+        {
+          "key": "or-deschutes-2026-commissioner-pos5-imhoff-rob",
+          "name": "Rob Imhoff",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-commissioner-pos5-schmidt-morgan",
+          "name": "Morgan Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+    },
+    {
+      "office": "Deschutes County Sheriff",
+      "candidates": [
+        {
+          "key": "or-deschutes-2026-sheriff-mclaughlin-james",
+          "name": "James (Mac) McLaughlin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-sheriff-rupert-ty",
+          "name": "Ty Rupert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+    },
+    {
+      "office": "Deschutes County Treasurer",
+      "candidates": [
+        {
+          "key": "or-deschutes-2026-treasurer-cain-jana",
+          "name": "Jana Cain",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-deschutes-2026-treasurer-sparks-cam",
+          "name": "Cam Sparks",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure 9-185",
+      "title": "Establishes Five Deschutes County Commissioner Districts",
+      "summary": "Deschutes County Commissioners are now elected countywide, so every voter can vote for all five Commissioner positions. This measure would, beginning with the 2028 election, elect one Commissioner from each of five geographic districts shown on the measure's map, and voters could vote only for the Commissioner of their own district. Candidates would have to be registered to vote in, and have lived for one year in, the district they seek to represent.",
+      "yesMeans": "Starting in 2028, each Commissioner would be elected by and from one of five geographic districts.",
+      "noMeans": "All five Commissioners would continue to be elected countywide.",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color",
+      "moreInfo": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+    }
+  ],
+  "municipalities": {}
+}
