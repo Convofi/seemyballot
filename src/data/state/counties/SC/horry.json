@@ -1,0 +1,64 @@
+{
+  "state": "SC",
+  "county": "Horry County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://www.horrycountysc.gov/appointed-and-elected-officials/",
+    "https://www.horrycountysc.gov/county-council/"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing for the November 3, 2026 Statewide General Election (active candidates filed for Horry County). Not shown: the Horry Soil and Water District Commission race (Matthew Gene Johnson and Glenn Winburn; the number of seats could not be confirmed from an official source), County Council Districts 1, 2, 5, 7, 8 and 11, Board of Education Districts 1, 2, 3, 6, 7 and 10, watershed conservation districts (Buck Creek, Crabtree Swamp, Gapway Swamp, Simpson Creek, Todd Swamp), and State House and U.S. House districts. No Horry County ballot question appears in the State Election Commission's referendum listing. City of Myrtle Beach and other municipal contests and questions are not covered here because municipal filings are not in the state listing. Incumbent flags are set only where Horry County's own website lists the officeholder. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Solicitor, Circuit 15",
+      "candidates": [
+        {
+          "key": "sc-horry-2026-solicitor-15-richardson-jimmy",
+          "name": "Jimmy A Richardson II",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-horry-2026-probate-judge-beverly-allen",
+          "name": "Allen Beverly",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "County Council Chair",
+      "candidates": [
+        {
+          "key": "sc-horry-2026-council-chair-gardner-johnny",
+          "name": "Johnny Gardner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Board of Education Chair",
+      "candidates": [
+        {
+          "key": "sc-horry-2026-board-of-education-chair-wellons-melanie",
+          "name": "Melanie J Wellons",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

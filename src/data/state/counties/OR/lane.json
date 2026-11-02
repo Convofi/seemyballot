@@ -1,0 +1,79 @@
+{
+  "state": "OR",
+  "county": "Lane County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.lanecounty.org/cms/One.aspx?portalId=3585881&pageId=21341379",
+    "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf",
+    "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Measures/SEL802-signed_Redacted.pdf"
+  ],
+  "note": "From Lane County Elections' official November 3, 2026 ballot content report. Not shown: Lane County Commissioner East Position 5, Springfield Position 2 and West Position 1 (elected by commissioner district), Eugene City Council Wards 3, 4, 5 and 6, EWEB Board Wards 4 & 5, other city, school, utility and special district seats, measures in Dunes City (20-386), Oakridge (20-387) and the Western Lane Ambulance District (20-389), and State House districts. There is no countywide Lane County measure on this ballot. Incumbent flags are set only where the ballot content marks the candidate as incumbent. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Judge of the Circuit Court, 2nd District, Position 14",
+      "candidates": [
+        {
+          "key": "or-lane-2026-circuit-pos14-lichvarcik-nathan",
+          "name": "Nathan J Lichvarcik",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf"
+    },
+    {
+      "office": "Lane County Assessor",
+      "candidates": [
+        {
+          "key": "or-lane-2026-assessor-vuksich-shafer-mary",
+          "name": "Mary Vuksich-Shafer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf"
+    },
+    {
+      "office": "Lane County Sheriff",
+      "candidates": [
+        {
+          "key": "or-lane-2026-sheriff-wilkerson-carl",
+          "name": "Carl E Wilkerson III",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Eugene": {
+      "contests": [
+        {
+          "office": "EWEB Board Member At-Large",
+          "candidates": [
+            {
+              "key": "or-lane-2026-eugene-eweb-at-large-miller-alexi",
+              "name": "Alexi Miller",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Measure 20-388",
+          "title": "Licensure of Large Retailers to Finance a Clean Energy Fund",
+          "summary": "Asks whether Eugene voters should adopt an ordinance that, beginning January 1, 2029, requires large retailers to obtain a city license and pay an annual 2% fee on gross profits from retail sales in Eugene. A large retailer is one with more than $1 billion in gross profits nationally and $500,000 in Eugene, excluding contractors, utilities, cooperatives and credit unions; most groceries, medicines, residential garbage and recycling, and health care are not counted. The money would go to a Eugene Clean Energy Fund for renewable energy and efficiency programs, clean energy job training, green infrastructure, innovation and administration (capped at 10% from 2030), guided by an expert committee.",
+          "yesMeans": "Large retailers in Eugene must be licensed and pay a 2% fee on Eugene retail gross profits starting in 2029, funding a city clean energy fund.",
+          "noMeans": "The large-retailer license and 2% fee are not adopted.",
+          "source": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Dated%20Elections/November%203,%202026/GE26_E_019%20Web.pdf",
+          "moreInfo": "https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/County%20Clerk/Elections/Measures/SEL802-signed_Redacted.pdf"
+        }
+      ]
+    }
+  }
+}
