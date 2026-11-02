@@ -1,0 +1,134 @@
+{
+  "state": "FL",
+  "county": "Volusia County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml",
+    "https://www.volusiaelections.gov/file/300/2026_NGE_VOL_English_Updated.pdf",
+    "https://www.volusia.org/government/county-council/"
+  ],
+  "note": "Not shown because they depend on your district: County Council Districts 1, 3 and 5; School Board District 1; Deltona City Commission Districts 1, 3, 5 and 6; West Volusia Hospital Authority Group B Seat 2; community development and soil and water districts; and the St. John's River Estates referenda. Races and questions in other cities (Daytona Beach, Daytona Beach Shores, DeBary, Edgewater, Holly Hill, New Smyrna Beach, Oak Hill, Orange City, Ormond Beach, Pierson, Port Orange) are also not shown. No circuit or county judge race appears on the comprehensive sample ballot; unopposed candidates do not appear on the ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Volusia County Council At Large",
+      "candidates": [
+        {
+          "key": "fl-volusia-2026-council-at-large-miller-nancy",
+          "name": "Nancy Miller",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-volusia-2026-council-at-large-poniatowski-mike",
+          "name": "Mike Poniatowski",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-volusia-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-volusia-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-volusia-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Volusia County Charter Amendment 1",
+      "title": "County Chair Appointed by Elected County Council Members and More Restrictive County Council Term Limits",
+      "summary": "Has the County Council appoint one of its own members as county chair each year, for no more than two consecutive one-year terms as chair. Returns the County Council to a seven-member body of five district members and two at-large members. No Council member could appear on the ballot if they would have served eight consecutive years by the end of their current term.",
+      "yesMeans": "The Council picks its own chair each year, the Council has five district and two at-large members, and the stricter term limit applies.",
+      "noMeans": "The Charter's current provisions for the county chair, Council membership and term limits stay in place.",
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    },
+    {
+      "id": "Volusia County Charter Amendment 2",
+      "title": "Removal of Charter Limitations Regarding Reimbursement of Work-Related Expenses Incurred by County Council Members",
+      "summary": "Removes the limits the County Charter now places on reimbursing County Council members for work-related expenses.",
+      "yesMeans": "The Charter's limits on reimbursing Council members' work-related expenses are removed.",
+      "noMeans": "The Charter's current limits on reimbursing Council members' work-related expenses stay in place.",
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    },
+    {
+      "id": "Volusia County Charter Amendment 3",
+      "title": "Amend Charter to Reflect Changes Made to Florida Constitution as to County Constitutional Officers",
+      "summary": "Repeals Charter provisions about county constitutional officers that were superseded in 2018 when voters amended Article VIII, Section 1 of the Florida Constitution. It replaces superseded or obsolete provisions so the Charter matches the state constitution.",
+      "yesMeans": "The superseded provisions about county constitutional officers are removed from the Charter and replaced.",
+      "noMeans": "The superseded provisions remain in the Charter text.",
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    },
+    {
+      "id": "Volusia County Charter Amendment 4",
+      "title": "Remove Personnel Administration Provisions from Charter and Require Such be Established by Ordinance",
+      "summary": "Removes the personnel administration provisions from the County Charter. The County Council would instead have to set personnel administration rules by ordinance.",
+      "yesMeans": "Personnel administration rules move out of the Charter and must be adopted by County Council ordinance.",
+      "noMeans": "Personnel administration provisions stay in the Charter.",
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    },
+    {
+      "id": "Volusia County Charter Amendment 5",
+      "title": "Establish Registry Increasing County Council Voting Requirement for Transfer of Conservation Land",
+      "summary": "Creates a conservation land registry. Land could be added to or removed from it only by a majority-plus-one vote of the entire County Council, with added notice requirements for removal. Registered land could not be conveyed unless the Council finds it is no longer needed for conservation, with exceptions for public purposes and eminent domain takings.",
+      "yesMeans": "A conservation land registry is created and registered land gets added protection against being sold or transferred.",
+      "noMeans": "No conservation land registry is created in the Charter.",
+      "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+    }
+  ],
+  "municipalities": {
+    "Deltona": {
+      "contests": [
+        {
+          "office": "City of Deltona Mayor",
+          "candidates": [
+            {
+              "key": "fl-volusia-2026-deltona-mayor-vazquez-maritza",
+              "name": "Maritza A. Vazquez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-volusia-2026-deltona-mayor-voelz-jason",
+              "name": "Jason M. Voelz",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.volusiaelections.gov/elections/election-results/november-3-2026-general-election.stml"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

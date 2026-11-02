@@ -1,0 +1,40 @@
+{
+  "state": "WI",
+  "county": "Dane County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.countyofdane.com/documents/pdf/What-s-on-the-Ballot-Nov-2026.pdf",
+    "https://elections.countyofdane.com/Ballot-Information",
+    "https://www.danesheriff.com/",
+    "https://courts.countyofdane.com/"
+  ],
+  "note": "Dane County Executive, County Board and City of Madison offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The Dane County Clerk's list shows no countywide or City of Madison referendum. School district referenda (Evansville, Lodi, Middleton-Cross Plains, Waunakee) depend on your school district and are not shown here; check your official sample ballot at myvote.wi.gov for those.",
+  "contests": [
+    {
+      "office": "Dane County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-dane-2026-sheriff-barrett-kalvin",
+          "name": "Kalvin D. Barrett",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.countyofdane.com/documents/pdf/What-s-on-the-Ballot-Nov-2026.pdf"
+    },
+    {
+      "office": "Dane County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-dane-2026-clerkcircuit-okazaki-jeff",
+          "name": "Jeff Okazaki",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.countyofdane.com/documents/pdf/What-s-on-the-Ballot-Nov-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

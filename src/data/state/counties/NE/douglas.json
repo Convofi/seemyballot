@@ -1,0 +1,306 @@
+{
+  "state": "NE",
+  "county": "Douglas County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf",
+    "https://www.votedouglascounty-ne.gov/elected_officials.aspx"
+  ],
+  "note": "Not shown because they depend on your district: Douglas County Commissioner Districts 2, 4 and 6; the Court of Appeals District Two retention question (Judge Michael W. Pirtle), since Douglas County is split among appellate districts; Legislature, Public Service Commission, State Board of Education and University Board of Regents districts; Metropolitan Community College Districts 1-4; Learning Community Coordinating Council; Papio-Missouri River NRD, Metropolitan Utilities District, Omaha Public Power District, Regional Metropolitan Transit Board and Educational Service Unit 3 seats; school boards (including Omaha Public Schools subdistricts); Bennington and Ralston ward council seats, Valley City Council, Boys Town and Waterloo trustees, and the City of Valley sales tax proposition. No City of Omaha offices are on this ballot (Omaha elects its mayor and council in odd years). Check your sample ballot at votedouglascounty-ne.gov.",
+  "contests": [
+    {
+      "office": "Douglas County Assessor/Register of Deeds",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-assessor-rod-smith-dakotah",
+          "name": "Dakotah Smith",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Attorney",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-county-attorney-kleine-donald",
+          "name": "Donald W. Kleine",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ne-douglas-2026-county-attorney-danner-makayla",
+          "name": "Makayla Danner",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Clerk of the District Court",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-clerk-district-court-wayne-justin",
+          "name": "Justin T. Wayne",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Engineer",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-engineer-pfitzer-todd",
+          "name": "Todd Pfitzer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Sheriff",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-sheriff-hanson-aaron",
+          "name": "Aaron Hanson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ne-douglas-2026-sheriff-martinez-mark",
+          "name": "Mark Martinez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Treasurer",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-treasurer-vargas-tony",
+          "name": "Tony Vargas",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Metropolitan Community College Board of Governors, At Large",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-mcc-at-large-dupree-kristen",
+          "name": "Kristen DuPree",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ne-douglas-2026-mcc-at-large-anderson-paul",
+          "name": "Paul Anderson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Dirk V. Block? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-workers-comp-block-dirk",
+          "name": "Dirk V. Block",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Thomas E. Stine? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-workers-comp-stine-thomas",
+          "name": "Thomas E. Stine",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County District Court, District Four — retain Judge LeAnne M. Srb? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-district-court-srb-leanne",
+          "name": "LeAnne M. Srb",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County District Court, District Four — retain Judge Duane C. Dougherty? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-district-court-dougherty-duane",
+          "name": "Duane C. Dougherty",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County District Court, District Four — retain Judge Molly B. Keane? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-district-court-keane-molly",
+          "name": "Molly B. Keane",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County District Court, District Four — retain Judge Marlon A. Polk? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-district-court-polk-marlon",
+          "name": "Marlon A. Polk",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County District Court, District Four — retain Judge Katie L. Benson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-district-court-benson-katie",
+          "name": "Katie L. Benson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Court, District Four — retain Judge Sheryl L. Lohaus? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-county-court-lohaus-sheryl",
+          "name": "Sheryl L. Lohaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Court, District Four — retain Judge Marcela A. Keim? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-county-court-keim-marcela",
+          "name": "Marcela A. Keim",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Court, District Four — retain Judge Craig Q. McDermott? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-county-court-mcdermott-craig",
+          "name": "Craig Q. McDermott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Court, District Four — retain Judge John E. Huber? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-county-court-huber-john",
+          "name": "John E. Huber",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Court, District Four — retain Judge Stephanie Steigleder Shearer? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-county-court-shearer-stephanie",
+          "name": "Stephanie Steigleder Shearer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Court, District Four — retain Judge Marcena M. Hendrix? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-county-court-hendrix-marcena",
+          "name": "Marcena M. Hendrix",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    },
+    {
+      "office": "Douglas County Separate Juvenile Court — retain Judge Matthew R. Kahler? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-douglas-2026-retain-juvenile-court-kahler-matthew",
+          "name": "Matthew R. Kahler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Omaha": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Special City of Omaha Election — $155,000,000 Public Facilities Bonds",
+          "title": "$155,000,000 Public Facilities Bonds",
+          "summary": "Asks whether the City of Omaha may issue $155 million in general obligation bonds to acquire, build, improve, equip and rehabilitate police buildings, fire stations, branch libraries, park maintenance facilities, auditorium, arena and convention center support facilities, public works storage facilities and other city buildings. The bonds would be repaid, with interest, from the City's fund for debt payments. The ballot states that approval will not increase the City's debt service tax levy rate beyond the levy increase approved in 2020.",
+          "yesMeans": "The City of Omaha may issue up to $155 million in general obligation bonds for these public facilities.",
+          "noMeans": "The City of Omaha may not issue these bonds.",
+          "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+        },
+        {
+          "id": "Special City of Omaha Election — $30,000,000 Park & Recreation Bonds",
+          "title": "$30,000,000 Park & Recreation Bonds",
+          "summary": "Asks whether the City of Omaha may issue $30 million in general obligation bonds to pay for various park and recreation improvement projects. The bonds would be repaid, with interest, from the City's fund for debt payments. The ballot states that approval will not increase the City's debt service tax levy rate beyond the levy increase approved in 2020.",
+          "yesMeans": "The City of Omaha may issue up to $30 million in general obligation bonds for park and recreation projects.",
+          "noMeans": "The City of Omaha may not issue these bonds.",
+          "source": "https://www.votedouglascounty-ne.gov/elections/2026/General/GN26SampleBallot.pdf"
+        }
+      ]
+    }
+  }
+}
