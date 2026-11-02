@@ -1,0 +1,156 @@
+{
+  "state": "NC",
+  "county": "Cleveland County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: town races and state legislative and U.S. House districts; check your official sample ballot for those. Shelby city offices are not on the 2026 ballot, and the only referendums in Cleveland County are the three statewide constitutional amendments. Incumbent flags are not set because we did not reach an official roster.",
+  "contests": [
+    {
+      "office": "Cleveland County Board of Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-cleveland-2026-commissioner-bridges-douglas",
+          "name": "Doug Bridges",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-commissioner-king-joseph",
+          "name": "Wayne King",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-commissioner-pressley-curtis",
+          "name": "Curtis Pressley",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-commissioner-peace-david",
+          "name": "David Peace",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cleveland County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-cleveland-2026-sheriff-norman-james",
+          "name": "Alan Norman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cleveland County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-cleveland-2026-clerk-superior-court-ange-lacey",
+          "name": "Lacey Ingle Ange",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 39",
+      "candidates": [
+        {
+          "key": "nc-cleveland-2026-district-attorney-miller-michael",
+          "name": "Mike Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 39, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-cleveland-2026-district-court-seat-01-sanderson-micah",
+          "name": "Micah J. Sanderson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cleveland County Board of Education",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "nc-cleveland-2026-board-of-education-bridges-aaron",
+          "name": "Aaron Bridges",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-board-of-education-blanton-danny",
+          "name": "Danny Lee Blanton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-board-of-education-queen-robert",
+          "name": "Robert Queen",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-board-of-education-grigg-ronnie",
+          "name": "Ronnie Grigg",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-board-of-education-white-jennifer",
+          "name": "Jenny White",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-board-of-education-hunt-coleman",
+          "name": "Coleman Hunt",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Cleveland Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-cleveland-2026-soil-water-corry-larry",
+          "name": "Larry D. Corry",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-cleveland-2026-soil-water-greene-sherry",
+          "name": "Sherry A. Greene",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

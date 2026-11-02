@@ -1,0 +1,138 @@
+{
+  "state": "NC",
+  "county": "Wayne County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.waynegov.com/369/Sheriffs-Office"
+  ],
+  "note": "Not shown: Wayne County Board of Education Districts 1, 4, 5 and 6 (each elected by district), the Town of Mount Olive charter amendment referendum (Mount Olive voters only), town races, and state legislative and U.S. House districts. Check your official sample ballot for those. Goldsboro city offices are not on the 2026 ballot. Incumbent flags are set only where an official county page confirms the officeholder (Sheriff Pierce); others are marked false.",
+  "contests": [
+    {
+      "office": "Wayne County Board of Commissioners At-Large (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-wayne-2026-commissioner-at-large-unexpired-johnson-kevin",
+          "name": "Kevin Johnson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wayne-2026-commissioner-at-large-unexpired-jones-beatrice",
+          "name": "Beatrice Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wayne County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-wayne-2026-sheriff-pierce-lawrence",
+          "name": "Larry M. Pierce",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-wayne-2026-sheriff-edwards-reginald",
+          "name": "Reginald (Reggie) Edwards",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wayne County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-wayne-2026-clerk-superior-court-whitfield-julie",
+          "name": "Julie Whitfield",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 9",
+      "candidates": [
+        {
+          "key": "nc-wayne-2026-district-attorney-cannon-jeffrey",
+          "name": "Jeff Cannon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 9, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-wayne-2026-district-court-seat-01-dawson-roy",
+          "name": "Roy A. Dawson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wayne-2026-district-court-seat-01-davis-sonya",
+          "name": "Sonya Davis",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Wayne Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-wayne-2026-soil-water-yelverton-john",
+          "name": "Phil Yelverton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-wayne-2026-soil-water-parks-ronald",
+          "name": "Ronald W. Parks",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Wayne County Malt Beverage Election",
+      "title": "Wayne County Malt Beverage Election",
+      "summary": "Asks Wayne County voters whether to permit the \"on-premises\" and \"off-premises\" sale of malt beverages in the county.",
+      "yesMeans": "The on-premises and off-premises sale of malt beverages is permitted in Wayne County.",
+      "noMeans": "The on-premises and off-premises sale of malt beverages is not authorized by this election.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    },
+    {
+      "id": "Wayne County Unfortified Wine Election",
+      "title": "Wayne County Unfortified Wine Election",
+      "summary": "Asks Wayne County voters whether to permit the \"on-premises\" and \"off-premises\" sale of unfortified wine in the county.",
+      "yesMeans": "The on-premises and off-premises sale of unfortified wine is permitted in Wayne County.",
+      "noMeans": "The on-premises and off-premises sale of unfortified wine is not authorized by this election.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    },
+    {
+      "id": "Wayne County Mixed Beverage Election",
+      "title": "Wayne County Mixed Beverage Election",
+      "summary": "Asks Wayne County voters whether to permit the sale of mixed beverages in hotels, restaurants, private clubs, community theatres and convention centers, and the \"on-premises\" and \"off-premises\" sale of malt beverages and unfortified wine in qualified establishments.",
+      "yesMeans": "Mixed beverage sales are permitted in qualified establishments in Wayne County.",
+      "noMeans": "Mixed beverage sales are not authorized by this election.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {}
+}

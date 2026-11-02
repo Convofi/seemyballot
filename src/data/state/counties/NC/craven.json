@@ -1,0 +1,76 @@
+{
+  "state": "NC",
+  "county": "Craven County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: Craven County Board of Commissioners Districts 1-7 and Craven County Board of Education Districts 2, 4 and 6 (each elected by district), First Craven Sanitary District, town races (such as Havelock, Bridgeton, Dover, River Bend and Trent Woods), and state legislative and U.S. House districts. Check your official sample ballot for those. New Bern city offices are not on the 2026 ballot, and the only referendums in Craven County are the three statewide constitutional amendments. Incumbent flags are not set because we could not reach an official roster.",
+  "contests": [
+    {
+      "office": "Craven County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-craven-2026-sheriff-hughes-fred",
+          "name": "Chip Hughes",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-craven-2026-sheriff-tillman-mickey",
+          "name": "Mickey Tillman",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Craven County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-craven-2026-clerk-superior-court-huffman-alexis",
+          "name": "Lexanne Huffman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 4",
+      "candidates": [
+        {
+          "key": "nc-craven-2026-district-attorney-wareham-matthew",
+          "name": "Matt Wareham",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Craven Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-craven-2026-soil-water-farmer-william",
+          "name": "William C. (Will) Farmer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-craven-2026-soil-water-simmons-oneal",
+          "name": "O'Neal Simmons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

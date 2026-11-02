@@ -1,0 +1,161 @@
+{
+  "state": "NC",
+  "county": "Lincoln County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: Lincoln County Board of Education Districts 2 and 5 (no official source we could reach shows them on every county ballot), City of Lincolnton City Council Wards One and Three, other town races, and state legislative and U.S. House districts. Check your official sample ballot for those. The only referendums in Lincoln County are the three statewide constitutional amendments. Incumbent flags are not set because we did not reach an official roster.",
+  "contests": [
+    {
+      "office": "Lincoln County Board of Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-commissioner-cesena-vincent",
+          "name": "Bud Cesena",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lincoln-2026-commissioner-carpenter-david",
+          "name": "David M. Carpenter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lincoln County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-sheriff-beam-william",
+          "name": "Bill Beam",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lincoln-2026-sheriff-huss-wayne",
+          "name": "Anthony Huss",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lincoln County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-clerk-superior-court-crouse-stacey",
+          "name": "Stacey Leonard Crouse",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lincoln County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-register-of-deeds-elmore-melissa",
+          "name": "Melissa L. Elmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 39",
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-district-attorney-miller-michael",
+          "name": "Mike Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 39, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-district-court-seat-01-sanderson-micah",
+          "name": "Micah J. Sanderson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lincoln County Board of Education At-Large",
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-board-of-education-at-large-jenkins-tony",
+          "name": "Tony A. Jenkins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Lincoln Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-lincoln-2026-soil-water-turbyfill-terry",
+          "name": "Terry Lee Turbyfill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lincoln-2026-soil-water-mitchem-carrol",
+          "name": "Carrol D. Mitchem",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-lincoln-2026-soil-water-miller-daniel",
+          "name": "Daniel Miller",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Lincolnton": {
+      "contests": [
+        {
+          "office": "City of Lincolnton Mayor",
+          "candidates": [
+            {
+              "key": "nc-lincoln-2026-lincolnton-mayor-tipton-jill",
+              "name": "Jill Tipton",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "nc-lincoln-2026-lincolnton-mayor-watson-jimmy",
+              "name": "Jim R. Watson",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

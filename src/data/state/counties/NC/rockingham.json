@@ -1,0 +1,180 @@
+{
+  "state": "NC",
+  "county": "Rockingham County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: town races and state legislative and U.S. House districts; check your official sample ballot for those. Reidsville and Eden city offices are not on the 2026 ballot, and the only referendums in Rockingham County are the three statewide constitutional amendments. Incumbent flags are not set because we did not reach an official roster.",
+  "contests": [
+    {
+      "office": "Rockingham County Board of Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-commissioner-ziglar-gregory",
+          "name": "Greg Ziglar",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-commissioner-suthard-kevin",
+          "name": "Kevin Suthard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-commissioner-jordan-robert",
+          "name": "R. Michael Jordan",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rockingham County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-sheriff-moore-franklin",
+          "name": "Franklin Moore",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-sheriff-parker-billy",
+          "name": "Billy Parker",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-sheriff-young-ryan",
+          "name": "Ryan Boone Young",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rockingham County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-clerk-superior-court-bullins-abner",
+          "name": "Abner M. Bullins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 22",
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-district-attorney-gregg-kathryn",
+          "name": "Katy L. Gregg",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 22, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-district-court-seat-01-skidmore-scott",
+          "name": "Scott K. Skidmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 22, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-district-court-seat-02-strader-christine",
+          "name": "Christine Fields Strader",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 22, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-district-court-seat-03-brandon-erica",
+          "name": "Erica Standfield Brandon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rockingham County Board of Education At-Large",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-board-of-education-at-large-butler-philip",
+          "name": "Philip Butler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-board-of-education-at-large-thompson-hairston-kimberley",
+          "name": "Kimberley Thompson-Hairston",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-board-of-education-at-large-mcmichael-kimberly",
+          "name": "Kimberly McMichael",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-board-of-education-at-large-kamara-hamid",
+          "name": "Hamid Kamara",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-board-of-education-at-large-jones-trina",
+          "name": "Trina Jones",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Rockingham Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-rockingham-2026-soil-water-shoulars-emmett",
+          "name": "Scott Shoulars",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-rockingham-2026-soil-water-moore-walter",
+          "name": "Walter H. Moore III",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

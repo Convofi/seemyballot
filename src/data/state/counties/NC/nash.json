@@ -1,0 +1,144 @@
+{
+  "state": "NC",
+  "county": "Nash County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.nashcountync.gov/DocumentCenter/View/13777",
+    "https://www.nashcountync.gov/DocumentCenter/View/6993"
+  ],
+  "note": "Not shown: Nash County Board of Commissioners Districts 2, 5, 6 and 7 and Nash County Board of Education Districts 2, 5, 6 and 7 (each elected by district), town races, and state legislative and U.S. House districts. Check your official sample ballot for those. Rocky Mount city offices are not on the 2026 ballot, and the only referendums in Nash County are the three statewide constitutional amendments. Incumbent flags come from the county's Elected Officials Guide (revised September 2026).",
+  "contests": [
+    {
+      "office": "Nash County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-nash-2026-sheriff-brake-david",
+          "name": "David Brake",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-nash-2026-sheriff-stone-julian",
+          "name": "Keith Stone",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Nash County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-nash-2026-clerk-superior-court-thorne-linda",
+          "name": "Linda Thorne",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-nash-2026-clerk-superior-court-blount-nancy",
+          "name": "Nancy D. Blount",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 8",
+      "candidates": [
+        {
+          "key": "nc-nash-2026-district-attorney-spellman-rena",
+          "name": "Rena Spellman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-nash-2026-district-attorney-marsigli-jeffrey",
+          "name": "Jeffrey A. Marsigli",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 8, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-nash-2026-district-court-seat-01-cooper-pell",
+          "name": "Pell Cooper",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 8, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-nash-2026-district-court-seat-02-boyette-wayne",
+          "name": "Wayne S. Boyette",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 8, Seat 3 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-nash-2026-district-court-seat-03-taylor-tia",
+          "name": "Tia Hudgins Taylor",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-nash-2026-district-court-seat-03-osterhout-mark",
+          "name": "Mark Osterhout",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 8, Seat 6 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-nash-2026-district-court-seat-06-quinn-caroline",
+          "name": "Caroline Farris Quinn",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Nash Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-nash-2026-soil-water-brown-betty",
+          "name": "Betty P. Brown",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-nash-2026-soil-water-lucas-shawn",
+          "name": "Shawn Dwight Lucas",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

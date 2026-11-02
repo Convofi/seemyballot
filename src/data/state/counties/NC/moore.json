@@ -1,0 +1,223 @@
+{
+  "state": "NC",
+  "county": "Moore County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.moorecountync.gov/494/Sample-Ballots",
+    "https://www.moorecountync.gov/DocumentCenter/View/9811"
+  ],
+  "note": "Moore County's three official 2026 sample ballots (one per NC House district, together covering the county) all carry Board of Commissioners Districts I, III and V and Board of Education District III, so every county voter votes on those seats (candidates must live in the district). Not shown: town races and state legislative and U.S. House districts; check your official sample ballot for those. The only referendums in Moore County are the three statewide constitutional amendments. Incumbent flags come from the Moore County Board of Elections Elected Officials list (updated August 26, 2026).",
+  "contests": [
+    {
+      "office": "Moore County Board of Commissioners District I",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-commissioner-district-1-von-canon-james",
+          "name": "Jim Von Canon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore County Board of Commissioners District III",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-commissioner-district-3-dockery-cameron",
+          "name": "Cameron Dockery",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore County Board of Commissioners District V",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-commissioner-district-5-cook-kurt",
+          "name": "Kurt J. Cook",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-sheriff-fields-ronald",
+          "name": "Ronnie Fields",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-clerk-superior-court-maness-todd",
+          "name": "Todd E. Maness",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-register-of-deeds-britton-william",
+          "name": "William (Bill) Britton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 29, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-superior-court-seat-01-stone-michael",
+          "name": "Michael (Mike) Stone",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 29, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-district-court-seat-01-davis-kimberly",
+          "name": "Kimberly Furr Davis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-moore-2026-district-court-seat-01-ross-tron",
+          "name": "Tron Faulk Ross",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 29, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-district-court-seat-02-tanner-donna",
+          "name": "Beth Tanner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 29, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-district-court-seat-05-namkung-yohan",
+          "name": "Yohan Namkung",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore County Board of Education At-Large",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-moore-2026-board-of-education-at-large-zawlocki-donald",
+          "name": "Don Zawlocki",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-moore-2026-board-of-education-at-large-pedersen-james",
+          "name": "Jim Pedersen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-moore-2026-board-of-education-at-large-oxendine-olivia",
+          "name": "Olivia Oxendine",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-moore-2026-board-of-education-at-large-mccauley-anthony",
+          "name": "Anthony B. McCauley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore County Board of Education District III",
+      "candidates": [
+        {
+          "key": "nc-moore-2026-board-of-education-district-3-steiner-christopher",
+          "name": "Chris A. Steiner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-moore-2026-board-of-education-district-3-mcneill-sammy",
+          "name": "Sammy McNeill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Moore Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-moore-2026-soil-water-blue-lewin",
+          "name": "Lewin Blue",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nc-moore-2026-soil-water-woodfield-marcia",
+          "name": "Marcia Woodfield",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-moore-2026-soil-water-sheffield-scott",
+          "name": "Scott Sheffield",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nc-moore-2026-soil-water-riley-zachary",
+          "name": "Zachary Tuttle Riley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

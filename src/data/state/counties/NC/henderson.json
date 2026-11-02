@@ -1,0 +1,213 @@
+{
+  "state": "NC",
+  "county": "Henderson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: Henderson County Board of Commissioners Districts 1, 3 and 4 (no official source we could reach shows them on every county ballot), races in towns other than Hendersonville (Flat Rock, Fletcher, Laurel Park, Mills River, Saluda), and state legislative and U.S. House districts. Check your official sample ballot for those. Incumbent flags are not set because the county's elected-officials list could not be read.",
+  "contests": [
+    {
+      "office": "Henderson County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-sheriff-griffin-lowell",
+          "name": "Lowell Griffin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Henderson County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-clerk-superior-court-ray-john",
+          "name": "J. Tyler Ray",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Henderson County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-register-of-deeds-king-william",
+          "name": "Lee King",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 42",
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-district-attorney-murray-raymond",
+          "name": "Andrew Murray",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 42, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-superior-court-seat-01-johnson-gene",
+          "name": "Gene B. Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 42, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-district-court-seat-05-hudson-david",
+          "name": "Abe Hudson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Henderson County Board of Education",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-board-of-education-dale-shelia",
+          "name": "Shelia Dale",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-henderson-2026-board-of-education-beaver-randal",
+          "name": "Randy Beaver",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-henderson-2026-board-of-education-barwick-reid",
+          "name": "Reid J. Barwick",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-henderson-2026-board-of-education-norman-alyssa",
+          "name": "Alyssa Norman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-henderson-2026-board-of-education-kustin-mary-ellen",
+          "name": "Mary Ellen Kustin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Henderson Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-henderson-2026-soil-water-coston-brent",
+          "name": "Brent P. Coston",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-henderson-2026-soil-water-brannon-andrew",
+          "name": "Drew Brannon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-henderson-2026-soil-water-shore-david",
+          "name": "David Shore",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Henderson County Open Space Preservation Bonds Referendum",
+      "title": "Henderson County Open Space Preservation Bonds",
+      "summary": "Asks whether Henderson County may issue up to $25,000,000 in bonds to acquire and improve land or interests in land for open space and conservation, including protecting natural resources, preserving farmland and scenic landscapes, and buying development rights. The official ballot statement estimates the total cost over the life of the bonds at $39,028,000 ($25,000,000 principal plus $14,028,000 interest) and the property tax increase needed to repay them at $10.10 per year per $100,000 of property value. If approved, the county may levy additional property taxes sufficient to pay the principal and interest.",
+      "yesMeans": "Henderson County may issue up to $25,000,000 in open space preservation bonds and levy property taxes sufficient to repay them.",
+      "noMeans": "Henderson County may not issue these $25,000,000 in open space preservation bonds.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+    }
+  ],
+  "municipalities": {
+    "Hendersonville": {
+      "contests": [
+        {
+          "office": "City of Hendersonville Mayor",
+          "candidates": [
+            {
+              "key": "nc-henderson-2026-hendersonville-mayor-hensley-jennifer",
+              "name": "Jennifer Hensley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-henderson-2026-hendersonville-mayor-smith-jerry",
+              "name": "Jerry Smith, Jr.",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        },
+        {
+          "office": "City of Hendersonville City Council",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "nc-henderson-2026-hendersonville-city-council-baxter-margina",
+              "name": "Gina Baxter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-henderson-2026-hendersonville-city-council-groh-jeffrey",
+              "name": "Jeff Groh",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-henderson-2026-hendersonville-city-council-lowrance-melinda",
+              "name": "Melinda P. Lowrance",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nc-henderson-2026-hendersonville-city-council-werner-brett",
+              "name": "Brett Werner",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
