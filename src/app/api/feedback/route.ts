@@ -2,7 +2,7 @@ import { createHash } from "node:crypto";
 import type { NextRequest } from "next/server";
 import { redis } from "@/lib/stats";
 
-const FROM = process.env.FEEDBACK_FROM || "See My Ballot <onboarding@resend.dev>";
+const FROM = process.env.FEEDBACK_FROM || "See My Ballot <feedback@seemyballot.com>";
 const TO = process.env.FEEDBACK_TO || "ali@convofi.com";
 const LIMIT = 5; // submissions per IP per hour
 const EMAIL = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
