@@ -38,13 +38,28 @@ export const viewport: Viewport = {
   ],
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "See My Ballot",
+  url: "https://seemyballot.com",
+  description,
+  publisher: { "@type": "Organization", name: "ConvoFi", url: "https://convofi.com" },
+};
+
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} ${sofia.variable} h-full antialiased`}
     >
-      <body className="flex min-h-full flex-col bg-paper text-ink">{children}</body>
+      <body className="flex min-h-full flex-col bg-paper text-ink">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
+        />
+        {children}
+      </body>
     </html>
   );
 }

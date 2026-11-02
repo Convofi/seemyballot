@@ -1,0 +1,41 @@
+# See My Ballot
+
+> Free, nonpartisan tool: type a US street address and see every contest and measure on your November 3, 2026 general-election ballot, with a source for every fact.
+
+## What it covers
+
+- Federal: US House and US Senate nominees for every district and state.
+- Statewide offices and ballot measures for all 50 states plus DC.
+- Voting logistics and links to official state election pages.
+- County and local contests for about 100 of the largest counties. Local coverage is incomplete elsewhere.
+
+## Per candidate
+
+- Stated positions, each linked to a source the candidate wrote.
+- Campaign finance from FEC filings: total raised, small-donor share, PAC share, top PACs, and outside spending.
+- Voting record for anyone who has served in Congress: every final-passage roll call on measures that became law in their most recent Congress, plus their missed-vote rate.
+- State and local contests link to each state's official campaign-finance search.
+
+## Data sources
+
+- US Census Geocoder for congressional, state legislative, and county districts.
+- FEC API for federal candidates and campaign finance.
+- House Clerk roll-call records; Senate roll calls via the Voteview mirror.
+- State election offices.
+- Candidate websites and questionnaires.
+
+Every fact on the site links to its source.
+
+## Privacy
+
+Addresses are never stored. Only counts by state, congressional district, and county are kept.
+
+## About
+
+Open source under the MIT license. Built by ConvoFi (https://convofi.com). Feedback: ali@convofi.com.
+
+## Links
+
+- [See My Ballot](https://seemyballot.com/)
+- [Source code on GitHub](https://github.com/Convofi/seemyballot)
+- [Usage stats (JSON)](https://seemyballot.com/api/stats)
