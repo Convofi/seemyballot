@@ -1,0 +1,155 @@
+{
+  "state": "MI",
+  "county": "Genesee County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.geneseecountymi.gov/departments/county_clerk/election_division.php",
+    "https://results.enr.clarityelections.com/MI/Genesee/127354/"
+  ],
+  "note": "Contests and candidates are from Genesee County's official election results site, set up for the November 3, 2026 election, which lists every contest on Genesee ballots with the number of precincts that vote on it; those shown here are on all 142 precincts (or all 29 Flint precincts for the Flint mayor). No county executive or row office is on this ballot. Not shown: three countywide proposals (Genesee County Health Care Services Millage Renewal, Genesee County Animal Care Shelter Millage Renewal, and Mott Community College Millage Renewal) and three City of Flint millage renewals (Public Transportation, Police and Fire Protection, Parks, Forestry and Recreation), because the official ballot language was not available online from the county; also 67th District Court divisions, Flint City Council wards, other city, village and township offices, school boards, and local and school proposals. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 2nd District, Incumbent Position",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-genesee-2026-app2-inc-patel-sima",
+          "name": "Sima G. Patel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-genesee-2026-app2-inc-trebilcock-christopher",
+          "name": "Christopher M. Trebilcock",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Genesee/127354/"
+    },
+    {
+      "office": "Judge of Circuit Court, 7th Circuit, Incumbent Position",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-genesee-2026-circuit-inc-christenson-chris",
+          "name": "Chris Christenson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-genesee-2026-circuit-inc-latchana-mark",
+          "name": "Mark W. Latchana",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-genesee-2026-circuit-inc-mcdowell-anthony",
+          "name": "Anthony J. McDowell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Genesee/127354/"
+    },
+    {
+      "office": "Judge of Probate Court, Non-Incumbent Position",
+      "candidates": [
+        {
+          "key": "mi-genesee-2026-probate-noninc-legendre-andrea",
+          "name": "Andrea L. LeGendre",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-probate-noninc-prew-ashley",
+          "name": "Ashley Prew",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Genesee/127354/"
+    },
+    {
+      "office": "Mott Community College Board of Trustees Member",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-genesee-2026-mott-bentley-steven",
+          "name": "Steven L. Bentley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-mott-everman-andy",
+          "name": "Andy Everman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-mott-groce-quentin",
+          "name": "Quentin Groce",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-mott-guerra-santino",
+          "name": "Santino Guerra",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-mott-hukee-lynn",
+          "name": "Lynn S. Hukee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-mott-muma-dawn",
+          "name": "Dawn Muma",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-mott-warren-elizabeth",
+          "name": "Elizabeth Warren",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-genesee-2026-mott-watchorn-andrew",
+          "name": "Andrew Watchorn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Genesee/127354/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Flint": {
+      "contests": [
+        {
+          "office": "City of Flint Mayor",
+          "candidates": [
+            {
+              "key": "mi-genesee-2026-flint-mayor-burns-tonya",
+              "name": "Tonya Burns",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-genesee-2026-flint-mayor-neeley-sheldon",
+              "name": "Sheldon A. Neeley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://results.enr.clarityelections.com/MI/Genesee/127354/"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

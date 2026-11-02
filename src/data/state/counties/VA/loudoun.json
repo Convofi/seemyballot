@@ -1,0 +1,43 @@
+{
+  "state": "VA",
+  "county": "Loudoun County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.loudoun.gov/sampleballots",
+    "https://www.loudoun.gov/DocumentCenter/View/222181",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx",
+    "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Local-Offices-Candidate-List-(rev-10-9-2026).xlsx"
+  ],
+  "note": "No county office is on the November 3, 2026 ballot in Loudoun; the three county bond questions appear on every Loudoun ballot. Not shown: mayor and town council races in Hamilton, Hillsboro, Leesburg, Lovettsville and Purcellville. Proposed Virginia constitutional amendments are statewide and not repeated here. Check your official sample ballot for town races.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Public School Projects",
+      "title": "Public School Projects",
+      "summary": "Asks whether the County of Loudoun may contract a debt by issuing up to $40,255,000 in general obligation capital improvement bonds. The money would pay for the design, construction, equipping and other costs of the LCPS Capital Renewal and Alterations and the VIEW Transition Academy, and of other public school facilities requested by the Loudoun County School Board.",
+      "yesMeans": "Loudoun County is authorized to issue up to $40,255,000 in general obligation bonds for public school projects.",
+      "noMeans": "Loudoun County is not authorized to issue these bonds for public school projects.",
+      "source": "https://www.loudoun.gov/DocumentCenter/View/222181",
+      "moreInfo": "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx"
+    },
+    {
+      "id": "Public Safety Projects",
+      "title": "Public Safety Projects",
+      "summary": "Asks whether the County of Loudoun may contract a debt by issuing up to $35,431,000 in general obligation capital improvement bonds. The money would pay for the design, construction, equipping and other costs of the Brambleton Sheriff Station and Fire and Rescue Station #29 - Loudoun Gateway, and of other public safety projects in the County's Capital Improvement Program.",
+      "yesMeans": "Loudoun County is authorized to issue up to $35,431,000 in general obligation bonds for public safety projects.",
+      "noMeans": "Loudoun County is not authorized to issue these bonds for public safety projects.",
+      "source": "https://www.loudoun.gov/DocumentCenter/View/222181",
+      "moreInfo": "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx"
+    },
+    {
+      "id": "Public Transportation Projects",
+      "title": "Public Transportation Projects",
+      "summary": "Asks whether the County of Loudoun may contract a debt by issuing up to $280,848,000 in general obligation capital improvement bonds. The money would pay for the design, construction and other costs of the Route 15 Lucketts Bypass, the Route 15 / Hogback Mountain Road Roundabout, the Route 50 / Loudoun County Parkway Interchange, the Route 7 / 287 Interchange, and the Sidewalk and Trail Program, and of other public road and transportation projects in the County's Capital Improvement Program.",
+      "yesMeans": "Loudoun County is authorized to issue up to $280,848,000 in general obligation bonds for public transportation projects.",
+      "noMeans": "Loudoun County is not authorized to issue these bonds for public transportation projects.",
+      "source": "https://www.loudoun.gov/DocumentCenter/View/222181",
+      "moreInfo": "https://www.elections.virginia.gov/media/castyourballot/candidatelist/2026/2026-November-Proposed-Constitutional-Amendments-and-Local-Referendums-(rev-9-8-2026).xlsx"
+    }
+  ],
+  "municipalities": {}
+}
