@@ -1,0 +1,121 @@
+{
+  "state": "OH",
+  "county": "Delaware County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://vote.delawarecountyohio.gov/wp-content/uploads/2026/10/46-DAY-NOV-2026-FWAB-PDF1.pdf",
+    "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/delaware/cfis.aspx",
+    "https://co.delaware.oh.us/eodirectory/",
+    "https://co.delaware.oh.us/commissioners/",
+    "https://co.delaware.oh.us/auditor/"
+  ],
+  "note": "Not shown: state legislative and congressional districts; the Delaware County Regional Transit Authority sales and use tax and the Delaware Area Career Center levy renewal (the Board of Elections lists each for specific precincts only, not all of Delaware County); city issues outside Delaware and Powell (City of Columbus charter amendments, City of Sunbury charter amendment); the Village of Galena levy; township levies (Berlin, Concord, Harlem, Orange, Oxford); school district issues (Elgin Local); the B.S.T. & G. Joint Fire District levy; and precinct local-liquor-option (Sunday sales) questions. The Delaware County ballot does not print issue numbers for local issues. The cities of Delaware and Powell have no city offices or citywide issues on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-delaware-2026-app5-0209-george-matthew",
+          "name": "Matthew George",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-delaware-2026-cpgen-0209-hemmeter-marianne",
+          "name": "Marianne T. Hemmeter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (unexpired term ending 12/31/2030)",
+      "candidates": [
+        {
+          "key": "oh-delaware-2026-cpgen-unexp-mccoy-nickolas",
+          "name": "Nickolas K. McCoy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-delaware-2026-cpgen-unexp-mirles-jones-emma",
+          "name": "Emma Mirles-Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-delaware-2026-probate-juvenile-hejmanowski-david",
+          "name": "David Hejmanowski",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-delaware-2026-commissioner-grissinger-ryan",
+          "name": "Ryan Grissinger",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-delaware-2026-commissioner-vaughan-renee",
+          "name": "Reneé Vaughan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-delaware-2026-auditor-kaitsa-george",
+          "name": "George Kaitsa",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Delaware County Board of Developmental Disabilities Tax Levy",
+      "title": "Proposed Tax Levy (Additional) – Delaware County Board of Developmental Disabilities",
+      "summary": "Asks whether Delaware County may levy an additional property tax of up to 1.8 mills for community developmental disabilities programs and services for 5 years, beginning in 2026 and first due in 2027. The county auditor estimates it will collect $25,448,490 a year, or $63 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The additional 1.8-mill levy for developmental disabilities programs and services takes effect for 5 years.",
+      "noMeans": "The additional levy is not imposed.",
+      "source": "https://vote.delawarecountyohio.gov/wp-content/uploads/2026/10/46-DAY-NOV-2026-FWAB-PDF1.pdf",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    },
+    {
+      "id": "Delaware-Morrow Mental Health & Recovery Services Board Tax Levy",
+      "title": "Proposed Tax Levy (Renewal and Increase) – Delaware-Morrow Mental Health & Recovery Services Board",
+      "summary": "Asks whether to renew a 1.5-mill property tax and increase it by 0.5 mill, for a total of up to 2 mills, for the current expenses of the Delaware-Morrow Mental Health & Recovery Services Board. It would run for 5 years, beginning in 2027 and first due in 2028. The county auditor estimates it will collect $23,005,505 a year, or $50 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The mental health and recovery services levy is renewed and increased to 2 mills for 5 years.",
+      "noMeans": "The levy is not renewed or increased.",
+      "source": "https://vote.delawarecountyohio.gov/wp-content/uploads/2026/10/46-DAY-NOV-2026-FWAB-PDF1.pdf",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/delaware/getballot.aspx?elect=20261103G&prsid=035___1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

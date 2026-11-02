@@ -1,0 +1,134 @@
+{
+  "state": "OH",
+  "county": "Lake County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf",
+    "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/01155449/Issues-for-11-3-26.pdf"
+  ],
+  "note": "Not shown: state legislative and congressional districts; the Mentor City Council Ward 3 seat (unexpired term ending 12/31/2027); school district issues (Kirtland Local Issue 4, Mentor Exempted Village Issue 5, Painesville City Local Issue 6, Riverside Local Issue 7, Willoughby-Eastlake City Issue 8); city issues outside Painesville and Mentor (Eastlake Issue 9, Kirtland Issue 10, Willoughby Issues 11 and 12, Willowick Issue 13); the Perry Village ordinance (Issue 16); township levies (Concord Issue 17, Madison Issue 18); and precinct local-liquor-option questions (Issues 14 and 15). No countywide issue, and no Painesville or Mentor city office or citywide issue, is on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-app11-0209-cornachio-marisa",
+          "name": "Marisa L. Cornachio",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-app11-0210-patton-robert",
+          "name": "Robert J. Patton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-commissioner-0101-plecnik-john",
+          "name": "John T. Plecnik",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-lake-2026-commissioner-0101-trombley-tom",
+          "name": "Tom Trombley",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "County Commissioner (unexpired term ending 1/1/2029)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-commissioner-unexp-lewins-lisa",
+          "name": "Lisa Lewins",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-lake-2026-commissioner-unexp-mcintosh-morgan",
+          "name": "Morgan R. McIntosh",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-auditor-galloway-christopher",
+          "name": "Christopher A. Galloway",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/5/2027)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-cpgen-0105-odonnell-john",
+          "name": "John P. O'Donnell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-domrel-0102-black-jeffrey",
+          "name": "Jeffrey H. Black",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile Division (term beginning 1/4/2027)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-juvenile-0104-deleone-michael",
+          "name": "Michael L. DeLeone",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-lake-2026-probate-0209-bartolotta-mark",
+          "name": "Mark J. Bartolotta",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
