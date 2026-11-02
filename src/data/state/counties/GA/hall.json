@@ -1,0 +1,79 @@
+{
+  "state": "GA",
+  "county": "Hall County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.hallcounty.org/DocumentCenter/View/23311",
+    "https://www.hallcounty.org/249/Elections"
+  ],
+  "note": "From the Hall County consolidated sample ballot, which marks incumbents with (I). Not shown because they depend on your district or school system: County Commission Districts 1 and 3, Hall County Board of Education At Large, Post 1 and Post 2 (Hall County School District, which does not include Gainesville city schools), House Bill 1340 (Hall County School District senior homestead exemption), House Bill 1602 (City of Gainesville independent school district homestead exemption), the City of Flowery Branch Council Post 3 special election, and state legislative and U.S. House districts. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "District Attorney, Northeastern Judicial Circuit",
+      "candidates": [
+        {
+          "key": "ga-hall-2026-district-attorney-darragh-lee",
+          "name": "Lee Darragh",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcounty.org/DocumentCenter/View/23311"
+    },
+    {
+      "office": "Solicitor General",
+      "candidates": [
+        {
+          "key": "ga-hall-2026-solicitor-grant-inez",
+          "name": "Inez Grant",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcounty.org/DocumentCenter/View/23311"
+    },
+    {
+      "office": "Hall County Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-hall-2026-soilwater-anderson-gene",
+          "name": "Gene Anderson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ga-hall-2026-soilwater-matson-nathan",
+          "name": "Nathan J. Matson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcounty.org/DocumentCenter/View/23311"
+    }
+  ],
+  "measures": [
+    {
+      "id": "House Bill 1341",
+      "title": "Hall County homestead exemption of $10,000 from county ad valorem taxes",
+      "summary": "A special election on a local Act of the General Assembly. It would provide a homestead exemption of $10,000 of the assessed value of the homestead from Hall County ad valorem taxes for county purposes for residents of the county.",
+      "yesMeans": "Homestead owners in Hall County would get a $10,000 exemption from the assessed value of their homestead for county property taxes.",
+      "noMeans": "The Act is not approved and this county homestead exemption does not take effect.",
+      "source": "https://www.hallcounty.org/DocumentCenter/View/23311"
+    }
+  ],
+  "municipalities": {
+    "Gainesville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "House Bill 1601",
+          "title": "City of Gainesville homestead exemption of $10,000 from city ad valorem taxes",
+          "summary": "A special election on a local Act of the General Assembly. It would provide a homestead exemption of $10,000 of the assessed value of the homestead from City of Gainesville ad valorem taxes for municipal purposes for residents of the city.",
+          "yesMeans": "Homestead owners in the City of Gainesville would get a $10,000 exemption from the assessed value of their homestead for city property taxes.",
+          "noMeans": "The Act is not approved and this city homestead exemption does not take effect.",
+          "source": "https://www.hallcounty.org/DocumentCenter/View/23311"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "state": "GA",
+  "county": "Richmond County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.augustaga.gov/DocumentCenter/View/21864/Composite-Sample-Ballot-Nov-2026",
+    "https://www.augustaga.gov/2788/Election-Info"
+  ],
+  "note": "From the Richmond County Board of Elections countywide composite sample ballot, which marks incumbents. Augusta-Richmond County is consolidated, so everything is at the county level. Not shown because they depend on your district: Board of Education Districts 2, 3 (regular and special election to fill an unexpired term), 6, 7 and 9, and state legislative districts. No Augusta Commission, mayor, sheriff or local question is on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Brier Creek Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-richmond-2026-soilwater-byrd-charles",
+          "name": "Charles \"Charlie\" Byrd",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.augustaga.gov/DocumentCenter/View/21864/Composite-Sample-Ballot-Nov-2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
