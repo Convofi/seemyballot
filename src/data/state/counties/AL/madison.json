@@ -1,0 +1,174 @@
+{
+  "state": "AL",
+  "county": "Madison County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots",
+    "https://www.madisoncountysheriffal.org/"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Madison County sample ballot. Not shown because they depend on your district: Madison County Commission districts, Madison County Board of Education District 3, and Superintendent of the Madison County Board of Education (elected only by voters in the county school system, not Huntsville or Madison city schools). The City of Huntsville has no race or question on this ballot. Incumbent flags other than Sheriff are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 23rd Judicial Circuit, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-madison-2026-circuit-p2-austin-alison",
+          "name": "Alison Strickland Austin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 23rd Judicial Circuit, Place No. 4",
+      "candidates": [
+        {
+          "key": "al-madison-2026-circuit-p4-hundley-claude",
+          "name": "Claude E. Hundley III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Madison County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-madison-2026-district-p1-rucker-kimberly",
+          "name": "Kimberly Kelley Rucker",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-madison-2026-district-p1-douthit-tim",
+          "name": "Tim Douthit",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Madison County, Place No. 4",
+      "candidates": [
+        {
+          "key": "al-madison-2026-district-p4-jones-jason",
+          "name": "Jason M. Jones",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-madison-2026-district-p4-allen-john",
+          "name": "John R. Allen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Madison County, Place No. 5",
+      "candidates": [
+        {
+          "key": "al-madison-2026-district-p5-beach-raven",
+          "name": "Raven Beach",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-madison-2026-district-p5-rizzardi-jeanne",
+          "name": "Jeanne Dowdle Rizzardi",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "Madison County Sheriff",
+      "candidates": [
+        {
+          "key": "al-madison-2026-sheriff-jones-brett",
+          "name": "Brett Jones",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-madison-2026-sheriff-turner-kevin",
+          "name": "Kevin H. Turner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "Madison County Tax Assessor",
+      "candidates": [
+        {
+          "key": "al-madison-2026-tax-assessor-mann-cliff",
+          "name": "Cliff Mann",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "Madison County Tax Collector",
+      "candidates": [
+        {
+          "key": "al-madison-2026-tax-collector-taylor-jeff",
+          "name": "Jeff Taylor",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-madison-2026-tax-collector-miles-valerie",
+          "name": "Valerie D. Miles",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "Madison County Coroner",
+      "candidates": [
+        {
+          "key": "al-madison-2026-coroner-berryhill-tyler",
+          "name": "Tyler Berryhill",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    },
+    {
+      "office": "Madison County License Director",
+      "candidates": [
+        {
+          "key": "al-madison-2026-license-director-craig-mark",
+          "name": "Mark Craig",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Amendment",
+      "title": "Madison County: Public Service Commission jurisdiction over certain privately owned sewer systems (Act 2026-323)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 that applies only to Madison County. It would place certain privately owned sewer systems that use public rights-of-way of public roads under the jurisdiction of the Alabama Public Service Commission, under certain conditions.",
+      "yesMeans": "Certain privately owned sewer systems in Madison County that use public road rights-of-way would come under Public Service Commission jurisdiction.",
+      "noMeans": "The constitution is not amended and those sewer systems are not brought under Public Service Commission jurisdiction by this amendment.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Madison-Sample.pdf"
+    }
+  ],
+  "municipalities": {}
+}
