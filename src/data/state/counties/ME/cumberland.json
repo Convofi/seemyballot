@@ -1,0 +1,59 @@
+{
+  "state": "ME",
+  "county": "Cumberland County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.scarboroughmaine.org/fs/resource-manager/view/056bcdd2-37de-41be-8db4-bca2e745ac32",
+    "https://www.scarboroughmaine.org/departments/town-clerk/elections",
+    "https://www.cumberlandcountyme.gov/departments/district_attorney/index.php",
+    "https://www.cumberlandcountyme.gov/departments/probate_court/index.php",
+    "https://www.cumberlandso.org/"
+  ],
+  "note": "From the State of Maine sample ballot for the November 3, 2026 General Election posted by the Town of Scarborough; these county contests print the same countywide. Stephanie Anderson is listed on the ballot as Unenrolled. Incumbents are confirmed on the county's District Attorney and Probate Court pages and the Sheriff's Office site. Not shown: County Commissioner (elected by district), State Senate and State Representative districts, and statewide referendum questions (listed with the state ballot). Portland city offices and any Portland or other municipal referendum questions are not shown because we could not check a Portland ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of Probate, Cumberland County",
+      "candidates": [
+        {
+          "key": "me-cumberland-2026-judge-of-probate-aranson-paul",
+          "name": "Paul Aranson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.scarboroughmaine.org/fs/resource-manager/view/056bcdd2-37de-41be-8db4-bca2e745ac32"
+    },
+    {
+      "office": "Sheriff, Cumberland County",
+      "candidates": [
+        {
+          "key": "me-cumberland-2026-sheriff-joyce-kevin",
+          "name": "Kevin J. Joyce",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.scarboroughmaine.org/fs/resource-manager/view/056bcdd2-37de-41be-8db4-bca2e745ac32"
+    },
+    {
+      "office": "District Attorney, Prosecutorial District 2 (Cumberland County)",
+      "candidates": [
+        {
+          "key": "me-cumberland-2026-da-anderson-stephanie",
+          "name": "Stephanie Anderson",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "me-cumberland-2026-da-sartoris-jacqueline",
+          "name": "Jacqueline A. Sartoris",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.scarboroughmaine.org/fs/resource-manager/view/056bcdd2-37de-41be-8db4-bca2e745ac32"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

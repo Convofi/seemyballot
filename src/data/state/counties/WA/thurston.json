@@ -1,0 +1,194 @@
+{
+  "state": "WA",
+  "county": "Thurston County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=31&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Thurston County. Party is the candidate's stated preference; Nicolas Martinez-Dunning states a preference for the Moderate Democrat Party and is shown as Other. County Commissioner Districts 3 and 5 are listed by the Secretary of State as voted on countywide. Incumbent flags are not set because we could not reach an official roster. Not shown: Thurston PUD Commissioner Districts 1 and 3, legislative and congressional districts, the Timberland Regional Library District levy, and school, fire and regional fire authority propositions (Yelm Community Schools, Fire District 3 Lacey, West Thurston RFA), which depend on where you live. No countywide Thurston County measure and no City of Olympia office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 2, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-app2d2-2026-pos1-price-erik",
+          "name": "Erik D. Price",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Assessor",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-assessor-olson-jj",
+          "name": "JJ Olson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-thurston-2026-assessor-zeman-lynda",
+          "name": "Lynda Nashed Zeman",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Auditor",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-auditor-naputi-pullar-tillie",
+          "name": "Tillie Naputi-Pullar",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Clerk",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-clerk-miller-nicole",
+          "name": "Nicole Miller",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-thurston-2026-clerk-cady-garrett",
+          "name": "Garrett Cady",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-commissioner-d-3-menser-tye",
+          "name": "Tye Menser",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Commissioner, District No. 5 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-commissioner-d-5-martinez-dunning-nicolas",
+          "name": "Nicolas Martinez-Dunning",
+          "party": "Other",
+          "incumbent": false
+        },
+        {
+          "key": "wa-thurston-2026-commissioner-d-5-clouse-emily",
+          "name": "Emily Clouse",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Coroner",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-coroner-warnock-gary",
+          "name": "Gary Warnock",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-prosecuting-attorney-peters-christy",
+          "name": "Christy Peters",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-sheriff-sanders-derek",
+          "name": "Derek Sanders",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-thurston-2026-sheriff-burton-crow-kevin",
+          "name": "Kevin Burton-Crow",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-treasurer-gadman-jeff",
+          "name": "Jeff Gadman",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County District Court Judge Position No. 1",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-district-court-pos-1-wilcox-kalo",
+          "name": "Kalo Wilcox",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County District Court Judge Position No. 2",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-district-court-pos-2-meyer-sam",
+          "name": "Sam Meyer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    },
+    {
+      "office": "Thurston County District Court Judge Position No. 3",
+      "candidates": [
+        {
+          "key": "wa-thurston-2026-district-court-pos-3-wohl-paul",
+          "name": "Paul Wohl",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=31"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

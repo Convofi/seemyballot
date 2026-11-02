@@ -1,0 +1,95 @@
+{
+  "state": "NH",
+  "county": "Rockingham County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://derrynh.gov/DocumentCenter/View/6339/2026-Sample-Ballot",
+    "https://derrynh.gov/517/4-Election-Information",
+    "https://rockinghamcountynh.org/departments/treasurer/",
+    "https://www.nhdeeds.org/rockingham-home/",
+    "https://www.rockso.org/"
+  ],
+  "note": "From the Town of Derry's official November 3, 2026 sample ballot; the county offices below are elected countywide. Chuck Massahos (Sheriff) and Cathy Stacey (Register of Deeds) are each printed as both the Democratic and the Republican nominee, so each is listed once here. Incumbent flags are set only where a county office's own page confirms the officeholder. Not shown: County Commissioner (elected by commissioner district), State Senate, State Representative and Executive Council districts, and town or school questions (such as Derry's school tax-cap question). The statewide constitutional amendment question appears with the state ballot. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "nh-rockingham-2026-sheriff-massahos-chuck",
+          "name": "Chuck Massahos",
+          "party": "Other",
+          "incumbent": true
+        }
+      ],
+      "source": "https://derrynh.gov/DocumentCenter/View/6339/2026-Sample-Ballot"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "nh-rockingham-2026-county-attorney-wilson-robert",
+          "name": "Robert Wilson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-rockingham-2026-county-attorney-conway-patricia",
+          "name": "Patricia G. Conway",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://derrynh.gov/DocumentCenter/View/6339/2026-Sample-Ballot"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nh-rockingham-2026-county-treasurer-coyle-kevin",
+          "name": "Kevin Coyle",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-rockingham-2026-county-treasurer-priestley-scott",
+          "name": "Scott Priestley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://derrynh.gov/DocumentCenter/View/6339/2026-Sample-Ballot"
+    },
+    {
+      "office": "Register of Deeds",
+      "candidates": [
+        {
+          "key": "nh-rockingham-2026-register-of-deeds-stacey-cathy",
+          "name": "Cathy Stacey",
+          "party": "Other",
+          "incumbent": true
+        }
+      ],
+      "source": "https://derrynh.gov/DocumentCenter/View/6339/2026-Sample-Ballot"
+    },
+    {
+      "office": "Register of Probate",
+      "candidates": [
+        {
+          "key": "nh-rockingham-2026-register-of-probate-marino-douglas",
+          "name": "Douglas Marino",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nh-rockingham-2026-register-of-probate-stark-jon",
+          "name": "Jon Stark",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://derrynh.gov/DocumentCenter/View/6339/2026-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
