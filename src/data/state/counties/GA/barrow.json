@@ -1,0 +1,62 @@
+{
+  "state": "GA",
+  "county": "Barrow County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.barrowga.org/DocumentCenter/View/1792/Consolidated-SAMPLE-Ballot",
+    "https://www.barrowga.org/215/Elections-Voter-Registration"
+  ],
+  "note": "From the Barrow County consolidated sample ballot, which marks incumbents with (I). Board of Education District 7 At Large and District 9 At Large are elected countywide. Not shown because they depend on your district or city: County Commission Districts 4, 5 and 6, Board of Education Districts 1, 3 and 4, the City of Statham questions (package sales of distilled spirits and a senior homestead exemption), and state legislative and U.S. House districts. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Solicitor-General of the State Court of Barrow County",
+      "candidates": [
+        {
+          "key": "ga-barrow-2026-solicitor-thompson-kyle",
+          "name": "Kyle Thompson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.barrowga.org/DocumentCenter/View/1792/Consolidated-SAMPLE-Ballot"
+    },
+    {
+      "office": "County Board of Education, District 7 At Large",
+      "candidates": [
+        {
+          "key": "ga-barrow-2026-boe-d7-at-large-hendrix-kayla",
+          "name": "Kayla Hendrix",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.barrowga.org/DocumentCenter/View/1792/Consolidated-SAMPLE-Ballot"
+    },
+    {
+      "office": "County Board of Education, District 9 At Large",
+      "candidates": [
+        {
+          "key": "ga-barrow-2026-boe-d9-at-large-maddox-paige",
+          "name": "Paige Maddox",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.barrowga.org/DocumentCenter/View/1792/Consolidated-SAMPLE-Ballot"
+    },
+    {
+      "office": "Oconee River Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-barrow-2026-soilwater-mclocklin-john",
+          "name": "John Robert McLocklin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.barrowga.org/DocumentCenter/View/1792/Consolidated-SAMPLE-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

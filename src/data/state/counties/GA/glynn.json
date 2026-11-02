@@ -1,0 +1,44 @@
+{
+  "state": "GA",
+  "county": "Glynn County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://content.glynncounty.org/sites/default/files/2026-09/Nov%203%20Countywide%20sample%20ballot.pdf",
+    "https://www.glynncounty.org/government/departments/elections-voter-registration/information-about-voting-registration/sample-ballots"
+  ],
+  "note": "From the Glynn County countywide sample ballot, which marks incumbents. County Commission At-Large Post 1 and Board of Education At-Large Post 1 are on every county ballot. Not shown because they depend on your district: County Commission Districts 3 and 4, Board of Education Districts 2 and 4, and state legislative districts. No county question is on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "County Commission, At-Large Post 1",
+      "candidates": [
+        {
+          "key": "ga-glynn-2026-commission-at-large-p1-clark-thomas",
+          "name": "Thomas “Bo” Clark",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.glynncounty.org/sites/default/files/2026-09/Nov%203%20Countywide%20sample%20ballot.pdf"
+    },
+    {
+      "office": "Board of Education, At-Large Post 1",
+      "candidates": [
+        {
+          "key": "ga-glynn-2026-boe-at-large-p1-hulsey-mike",
+          "name": "Mike Hulsey",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ga-glynn-2026-boe-at-large-p1-hasbrouck-zarak",
+          "name": "Zarak C. Hasbrouck",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://content.glynncounty.org/sites/default/files/2026-09/Nov%203%20Countywide%20sample%20ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

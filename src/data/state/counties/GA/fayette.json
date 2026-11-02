@@ -1,0 +1,44 @@
+{
+  "state": "GA",
+  "county": "Fayette County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://fayettecountyga.gov/Documents/Departments/Elections/Sample%20Ballots/November%203-2026%20Composite%20Sample%20Ballot.pdf",
+    "https://fayettecountyga.gov/departments/elections/index.php"
+  ],
+  "note": "From the Fayette County composite sample ballot, which marks incumbents with (I). No countywide county office is on this ballot. Not shown because they depend on your district: County Commission Districts 3 and 4, County Board of Education Districts 2 and 4, and state legislative and U.S. House districts. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [],
+  "measures": [
+    {
+      "id": "House Bill 1583, Act 687",
+      "title": "Fayette County homestead ad valorem exemption (floating)",
+      "summary": "Would provide a homestead exemption from Fayette County property taxes for county purposes in a floating amount, based on how much the property taxes collected in a given year exceed the property taxes collected in tax year 2025.",
+      "yesMeans": "Homesteads would get a floating exemption from county property taxes tied to growth above 2025 tax levels.",
+      "noMeans": "The Act is not approved and this county homestead exemption does not take effect.",
+      "source": "https://fayettecountyga.gov/Documents/Departments/Elections/Sample%20Ballots/November%203-2026%20Composite%20Sample%20Ballot.pdf"
+    },
+    {
+      "id": "House Bill 1582, Act 686",
+      "title": "Fayette County School District homestead ad valorem tax exemption (floating)",
+      "summary": "Would provide a homestead exemption from Fayette County School District property taxes for educational purposes in a floating amount, based on how much the property taxes collected in a given year exceed the property taxes collected in tax year 2025.",
+      "yesMeans": "Homesteads would get a floating exemption from school property taxes tied to growth above 2025 tax levels.",
+      "noMeans": "The Act is not approved and this school homestead exemption does not take effect.",
+      "source": "https://fayettecountyga.gov/Documents/Departments/Elections/Sample%20Ballots/November%203-2026%20Composite%20Sample%20Ballot.pdf"
+    }
+  ],
+  "municipalities": {
+    "Fayetteville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "House Bill 1581, Act 685",
+          "title": "City of Fayetteville FLOST homestead exemption (floating)",
+          "summary": "Would provide a homestead exemption from City of Fayetteville property taxes for municipal purposes in a floating amount, based on how much the property taxes collected in a given year exceed the property taxes collected in tax year 2025.",
+          "yesMeans": "Homesteads in the City of Fayetteville would get a floating exemption from city property taxes tied to growth above 2025 tax levels.",
+          "noMeans": "The Act is not approved and this city homestead exemption does not take effect.",
+          "source": "https://fayettecountyga.gov/Documents/Departments/Elections/Sample%20Ballots/November%203-2026%20Composite%20Sample%20Ballot.pdf"
+        }
+      ]
+    }
+  }
+}

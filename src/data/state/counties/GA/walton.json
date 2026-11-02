@@ -1,0 +1,31 @@
+{
+  "state": "GA",
+  "county": "Walton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.waltoncountyga.gov/DocumentCenter/View/9511"
+  ],
+  "note": "From the Walton County November 3, 2026 General Election sample ballot, which marks incumbents with (I). Not shown because they depend on your district: County Commission Districts 4 and 5, County Board of Education Districts 1, 2 and 5, and state legislative districts. No county or city question is on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Walton County Soil and Water Conservation District Supervisor (Vote for Two)",
+      "candidates": [
+        {
+          "key": "ga-walton-2026-soilwater-bennett-daniel",
+          "name": "Daniel Bennett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ga-walton-2026-soilwater-brady-cheryl",
+          "name": "Cheryl Brady",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.waltoncountyga.gov/DocumentCenter/View/9511"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

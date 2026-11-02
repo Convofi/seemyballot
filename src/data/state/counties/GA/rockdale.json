@@ -1,0 +1,59 @@
+{
+  "state": "GA",
+  "county": "Rockdale County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/For-Emailing-2026-nov-03-general-sample-V2.pdf",
+    "https://www.rockdalecountyga.gov/sample-ballots/"
+  ],
+  "note": "From the Rockdale County general and special election sample ballot, which marks incumbents with (I). Not shown: County Commission Post 2 (the ballot does not say whether it is elected countywide or by district) and state legislative and U.S. House districts. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "District Attorney, Rockdale Judicial Circuit",
+      "candidates": [
+        {
+          "key": "ga-rockdale-2026-district-attorney-johnson-alisha",
+          "name": "Alisha Adams Johnson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/For-Emailing-2026-nov-03-general-sample-V2.pdf"
+    },
+    {
+      "office": "Rockdale County Soil and Water Conservation District Supervisor (Vote for Three)",
+      "candidates": [
+        {
+          "key": "ga-rockdale-2026-soilwater-bailey-jacob",
+          "name": "Jacob Bailey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ga-rockdale-2026-soilwater-kelecheck-george",
+          "name": "George Kelecheck",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ga-rockdale-2026-soilwater-wilburn-teresa",
+          "name": "Teresa Denise Wilburn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/For-Emailing-2026-nov-03-general-sample-V2.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Imposition of Floating Local Option Sales Tax (FLOST)",
+      "title": "Rockdale County Floating Local Option Sales Tax (FLOST)",
+      "summary": "Would impose a one percent sales and use tax for five years within the Special District of Rockdale County. The proceeds would be used only to reduce property taxes imposed by Rockdale County and the City of Conyers.",
+      "yesMeans": "A one percent sales tax would be imposed for five years, with all proceeds used to reduce Rockdale County and City of Conyers property taxes.",
+      "noMeans": "The FLOST would not be imposed.",
+      "source": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/For-Emailing-2026-nov-03-general-sample-V2.pdf"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,37 @@
+{
+  "state": "GA",
+  "county": "Bartow County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.bartowcountyga.gov/departments/elections/2026%20Sample%20Ballots/General%20Election/Conslidated%20Sample%20Ballot.pdf",
+    "https://www.bartowcountyga.gov/departments/elections/2026%20Sample%20Ballots/General%20Election/Bartow%20Ballot%20Questions%20Handout.pdf",
+    "https://www.bartowcountyga.gov/departments/elections/sample_ballots.php"
+  ],
+  "note": "From the Bartow County consolidated sample ballot, which marks incumbents with (I), and the county elections office's ballot questions handout. Not shown because they depend on your district or city: County Board of Education Districts 1, 2 and 3, state legislative and U.S. House districts, the City of Euharlee council special election, the City of Cartersville homestead exemption (House Bill 1321), and the City of White Sunday alcohol sales questions. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Coosa River Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-bartow-2026-soilwater-holt-charles",
+          "name": "Charles \"Chaz\" Holt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bartowcountyga.gov/departments/elections/2026%20Sample%20Ballots/General%20Election/Conslidated%20Sample%20Ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "House Bill 1491, Act 569",
+      "title": "Bartow County Homestead Exemption",
+      "summary": "A special election on a local Act of the General Assembly. It would amend the existing $15,000 homestead exemption from Bartow County ad valorem taxes for county purposes to increase the exemption to $30,000.",
+      "yesMeans": "The homestead exemption from Bartow County property taxes for county purposes would increase from $15,000 to $30,000 of assessed value.",
+      "noMeans": "The county homestead exemption stays at $15,000.",
+      "source": "https://www.bartowcountyga.gov/departments/elections/2026%20Sample%20Ballots/General%20Election/Conslidated%20Sample%20Ballot.pdf",
+      "moreInfo": "https://www.bartowcountyga.gov/departments/elections/2026%20Sample%20Ballots/General%20Election/Bartow%20Ballot%20Questions%20Handout.pdf"
+    }
+  ],
+  "municipalities": {}
+}

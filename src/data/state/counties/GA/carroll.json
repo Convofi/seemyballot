@@ -1,0 +1,26 @@
+{
+  "state": "GA",
+  "county": "Carroll County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.carrollcountyga.gov/DocumentCenter/View/7466",
+    "https://www.carrollcountyga.gov/323/Elections-Voter-Registration"
+  ],
+  "note": "From the Carroll County Board of Elections & Registration composite sample ballot, which marks incumbents with (I). Not shown because they depend on your district or city: County Commission Districts 2, 4 and 6, the City of Bremen school district homestead exemption (House Bill 1552), and state legislative and U.S. House districts. No county question and no City of Carrollton item is on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "District Attorney, West Georgia Judicial Circuit",
+      "candidates": [
+        {
+          "key": "ga-carroll-2026-district-attorney-japour-sarah",
+          "name": "Sarah Stimac Japour",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.carrollcountyga.gov/DocumentCenter/View/7466"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

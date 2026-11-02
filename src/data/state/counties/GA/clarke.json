@@ -1,0 +1,55 @@
+{
+  "state": "GA",
+  "county": "Clarke County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.accgov.com/DocumentCenter/View/120655/ENGLISH-Sample-Ballot-November-2026",
+    "https://www.accgov.com/9176/Sample-Ballots"
+  ],
+  "note": "From the Athens-Clarke County composite sample ballot, which marks incumbents with (I). Athens-Clarke County is a consolidated government, so everything is at the county level. Not shown because they depend on your district: state legislative districts. No Mayor, Commission or Board of Education race is on this ballot (the Board of Education District 8 special election was canceled because the candidate was unopposed). The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Solicitor General",
+      "candidates": [
+        {
+          "key": "ga-clarke-2026-solicitor-fleenor-will",
+          "name": "Will Fleenor",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.accgov.com/DocumentCenter/View/120655/ENGLISH-Sample-Ballot-November-2026"
+    },
+    {
+      "office": "Clarke County Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-clarke-2026-soilwater-rozier-ray",
+          "name": "Ray Charles Rozier",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.accgov.com/DocumentCenter/View/120655/ENGLISH-Sample-Ballot-November-2026"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Renewal of 1% Educational Sales Tax",
+      "title": "Clarke County School District one percent educational sales tax (ESPLOST) renewal",
+      "summary": "Would renew a one percent sales and use tax for educational purposes in the Clarke County School District for up to five years, raising no more than $215,000,000 for listed capital projects such as school renovations and repairs, technology, security upgrades and school buses. Approval would also authorize the school district to issue $75,000,000 in general obligation debt for these purposes.",
+      "yesMeans": "The one percent education sales tax would continue for up to five years and the school district could issue $75 million in bonds for the listed projects.",
+      "noMeans": "The education sales tax would not be renewed when the current tax expires, and the bonds would not be authorized.",
+      "source": "https://www.accgov.com/DocumentCenter/View/120655/ENGLISH-Sample-Ballot-November-2026"
+    },
+    {
+      "id": "Special Election: One (1%) Percent Floating Local Option Sales and Use Tax",
+      "title": "Athens-Clarke County floating local option sales tax (FLOST)",
+      "summary": "Would impose a special one percent sales and use tax for five years within the special district of Athens-Clarke County. The proceeds would be used only to reduce property taxes imposed by the Unified Government of Athens-Clarke County, the City of Winterville and the Town of Bogart.",
+      "yesMeans": "A one percent sales tax would be imposed for five years, with all proceeds used to reduce local property taxes.",
+      "noMeans": "The floating local option sales tax would not be imposed.",
+      "source": "https://www.accgov.com/DocumentCenter/View/120655/ENGLISH-Sample-Ballot-November-2026"
+    }
+  ],
+  "municipalities": {}
+}

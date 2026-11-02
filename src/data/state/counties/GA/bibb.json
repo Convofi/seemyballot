@@ -1,0 +1,43 @@
+{
+  "state": "GA",
+  "county": "Bibb County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.maconbibb.us/wp-content/uploads/2026/10/Sample-Ballot-for-November-3-2026-General-and-Special-Election-rev-9-17_10-15.pdf",
+    "https://www.maconbibb.us/board-of-elections/sample-ballots/"
+  ],
+  "note": "From the Macon-Bibb County Board of Elections composite sample ballot, which marks incumbents with (I). Macon-Bibb County is consolidated, so everything is at the county level. Not shown because they depend on your district: state legislative and U.S. House districts. No county commission, mayor or school board race is on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Bibb County Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-bibb-2026-soilwater-holliday-lindsay",
+          "name": "Lindsay D. Holliday",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.maconbibb.us/wp-content/uploads/2026/10/Sample-Ballot-for-November-3-2026-General-and-Special-Election-rev-9-17_10-15.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "House Bill 1537",
+      "title": "Bibb County school district senior homestead exemption",
+      "summary": "A special election on a local Act of the General Assembly. It would provide a homestead exemption from Bibb County school district property taxes for educational purposes of $17,000 of the assessed value for residents aged 65 to 74, $32,000 for those aged 75 to 84, and the full assessed value for residents 85 and older.",
+      "yesMeans": "Homeowners 65 and older would get a larger exemption from Bibb County school property taxes, rising with age, with a full exemption at 85 and older.",
+      "noMeans": "The Act is not approved and this school tax exemption does not take effect.",
+      "source": "https://www.maconbibb.us/wp-content/uploads/2026/10/Sample-Ballot-for-November-3-2026-General-and-Special-Election-rev-9-17_10-15.pdf"
+    },
+    {
+      "id": "House Bill 1538",
+      "title": "Macon-Bibb County senior homestead exemption",
+      "summary": "A special election on a local Act of the General Assembly. It would provide a homestead exemption from Macon-Bibb County property taxes for county purposes of $17,000 of the assessed value for residents aged 65 to 74, $32,000 for those aged 75 to 84, and the full assessed value for residents 85 and older.",
+      "yesMeans": "Homeowners 65 and older would get a larger exemption from Macon-Bibb County property taxes, rising with age, with a full exemption at 85 and older.",
+      "noMeans": "The Act is not approved and this county tax exemption does not take effect.",
+      "source": "https://www.maconbibb.us/wp-content/uploads/2026/10/Sample-Ballot-for-November-3-2026-General-and-Special-Election-rev-9-17_10-15.pdf"
+    }
+  ],
+  "municipalities": {}
+}
