@@ -1,0 +1,192 @@
+{
+  "state": "NC",
+  "county": "Onslow County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: state legislative and U.S. House districts and town races; check your official sample ballot for those. Jacksonville city offices are not on the 2026 ballot, and the only referendums in Onslow County are the three statewide constitutional amendments. Incumbent flags are not set because the Onslow County website blocked automated access and we could not reach an official roster.",
+  "contests": [
+    {
+      "office": "Onslow County Board of Commissioners",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-commissioner-foster-timothy",
+          "name": "Tim Foster",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-commissioner-cantrell-whitney",
+          "name": "Whitney Cantrell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-commissioner-bennett-michael",
+          "name": "Royce Bennett",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-commissioner-cooper-rebecca",
+          "name": "Rebecca Cooper",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-commissioner-leandre-michel",
+          "name": "Michel Leandre, Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Onslow County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-sheriff-thomas-christopher",
+          "name": "Chris Thomas",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Onslow County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-clerk-superior-court-casteen-cindy",
+          "name": "Cindy P. Casteen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 5",
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-district-attorney-lee-ernest",
+          "name": "Ernie Lee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 5, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-superior-court-seat-01-gilmore-robert",
+          "name": "Robert H. Gilmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-district-court-seat-01-white-mario",
+          "name": "Mario White",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-district-court-seat-02-swinson-morgan",
+          "name": "Morgan H. Swinson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 5, Seat 8 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-district-court-seat-08-naylor-johnathon",
+          "name": "Johnathon S. Naylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Onslow County Board of Education",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-board-of-education-davis-douglas",
+          "name": "Doug Davis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-board-of-education-todd-angela",
+          "name": "Angie Todd",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-board-of-education-lanier-william",
+          "name": "Bill Lanier",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Onslow Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-onslow-2026-soil-water-walton-emily",
+          "name": "Emily Walton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-soil-water-shepard-jacob",
+          "name": "Jacob (JD) Shepard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-soil-water-johnson-robert",
+          "name": "Robert Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-onslow-2026-soil-water-harrod-carroll",
+          "name": "Carroll Harrod",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

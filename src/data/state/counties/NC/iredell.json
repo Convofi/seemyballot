@@ -1,0 +1,139 @@
+{
+  "state": "NC",
+  "county": "Iredell County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.iredellcountync.gov/DocumentCenter/View/27703/Candidate-Listing",
+    "https://www.iredellcountync.gov/1677/Register-of-Deeds"
+  ],
+  "note": "Not shown: Iredell-Statesville Schools Board of Education Districts 1, 3, 5 and 7 (only part of the county; the Mooresville Graded School District is separate), Town of Harmony and Town of Love Valley races, and state legislative and U.S. House districts. Check your official sample ballot for those. The only referendums in Iredell County are the three statewide constitutional amendments, and no District Attorney contest is on the 2026 ballot. Incumbent flags are set only where the county's own website confirms the officeholder (Register of Deeds Holland); others are marked false.",
+  "contests": [
+    {
+      "office": "Iredell County Board of Commissioners",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-iredell-2026-commissioner-connolly-gurney",
+          "name": "Bert Connolly",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-iredell-2026-commissioner-brown-robert",
+          "name": "Scottie Brown",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-iredell-2026-commissioner-goddard-brent",
+          "name": "Brent Goddard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-iredell-2026-commissioner-clark-terence",
+          "name": "Terence Clark",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-iredell-2026-commissioner-kotis-amanda",
+          "name": "Amanda Brown Kotis",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Iredell County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-iredell-2026-sheriff-campbell-darren",
+          "name": "Darren E. Campbell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Iredell County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-iredell-2026-clerk-superior-court-mixson-james",
+          "name": "Jim Mixson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Iredell County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-iredell-2026-register-of-deeds-holland-renee",
+          "name": "Renee L. Holland",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 32, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-iredell-2026-district-court-seat-01-hicks-carole",
+          "name": "Carole A. Hicks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 32, Seat 6 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-iredell-2026-district-court-seat-06-gottholm-martin",
+          "name": "Martin J. Gottholm",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Iredell Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-iredell-2026-soil-water-fago-david",
+          "name": "Dave Fago",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-iredell-2026-soil-water-compton-herman",
+          "name": "H. William Compton, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-iredell-2026-soil-water-bradford-cierra",
+          "name": "Cierra Bradford",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

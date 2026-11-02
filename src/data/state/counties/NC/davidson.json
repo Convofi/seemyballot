@@ -1,0 +1,240 @@
+{
+  "state": "NC",
+  "county": "Davidson County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.co.davidson.nc.us/487/County-Commissioners"
+  ],
+  "note": "Not shown: Davidson County Schools Board of Education (voters in the Lexington City Schools and Thomasville City Schools areas do not vote on it), Handy Sanitary District Supervisor, and state legislative and U.S. House districts. Check your official sample ballot for those. The only referendums in Davidson County are the three statewide constitutional amendments. Incumbent flags are set only where the county's own website confirms the officeholder (Commissioners Mizell and Shook); others are marked false.",
+  "contests": [
+    {
+      "office": "Davidson County Board of Commissioners",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-commissioner-cornelison-dwight",
+          "name": "Dwight D. Cornelison",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-commissioner-beasley-robbie",
+          "name": "Robbie Beasley",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-commissioner-short-dexter",
+          "name": "Dexter M. Short",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-commissioner-mizell-matthew",
+          "name": "Matt Mizell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-davidson-2026-commissioner-tate-andrea",
+          "name": "Andrea N. Tate",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-commissioner-lanier-tonya",
+          "name": "Tonya A. Lanier",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Davidson County Board of Commissioners (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-commissioner-unexpired-dreher-felicia",
+          "name": "Felicia Dreher",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-commissioner-unexpired-slipetsky-charles",
+          "name": "Charles (Chuck) Slipetsky",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-commissioner-unexpired-shook-harold",
+          "name": "Steve Shook",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Davidson County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-sheriff-simmons-richard",
+          "name": "Richie Simmons",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Davidson County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-clerk-superior-court-chappell-sandie",
+          "name": "Sandie Tysinger Chappell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Davidson County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-register-of-deeds-horne-michael",
+          "name": "Michael E. Horne",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 33",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-district-attorney-taylor-robert",
+          "name": "Robert S. (Rob) Taylor III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 33, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-district-court-seat-01-covington-mary",
+          "name": "Mary F. Covington",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 33, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-district-court-seat-02-myers-jon",
+          "name": "Jon W. Myers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 33, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-district-court-seat-03-terry-wendy",
+          "name": "Wendy Joyce Terry",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 33, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-district-court-seat-04-hedrick-james",
+          "name": "Jim Hedrick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 33, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-district-court-seat-05-welborn-jon",
+          "name": "Jon Welborn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 33, Seat 6",
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-district-court-seat-06-jane-carlos",
+          "name": "Carlos E. Jane'",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Davidson Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-davidson-2026-soil-water-forrest-tyler",
+          "name": "Tyler Lohr Forrest",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-soil-water-davis-james",
+          "name": "James (Jim) Davis",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-soil-water-brinkley-william",
+          "name": "Will Brinkley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-soil-water-beck-howard",
+          "name": "Kent Beck",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-davidson-2026-soil-water-lynn-christopher",
+          "name": "Christopher Lynn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

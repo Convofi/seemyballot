@@ -1,0 +1,235 @@
+{
+  "state": "NC",
+  "county": "Catawba County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.catawbacountync.gov/county-government/board-of-commissioners/",
+    "https://www.catawbacountync.gov/county-services/sheriffs-office/"
+  ],
+  "note": "Not shown: Catawba County Schools Board of Education (voters in the Hickory City Schools and Newton-Conover City Schools areas do not vote on it), Hickory City Schools Board of Education Wards 1, 2 and 5, Newton-Conover City Schools Board of Education districts, and state legislative and U.S. House districts. Check your official sample ballot for those. Hickory city offices are not on the 2026 ballot, and the only referendums in Catawba County are the three statewide constitutional amendments. Incumbent flags are set only where the county's own website confirms the officeholder (Commissioner Setzer, Sheriff Brown); others are marked false.",
+  "contests": [
+    {
+      "office": "Catawba County Board of Commissioners",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-commissioner-butler-sherry",
+          "name": "Sherry Edmonds Butler",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-catawba-2026-commissioner-setzer-cole",
+          "name": "Cole Terrell Setzer",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-catawba-2026-commissioner-moore-jason",
+          "name": "Jay Moore",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-catawba-2026-commissioner-alden-jesse",
+          "name": "Jesse Alden",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-catawba-2026-commissioner-michaux-phyllis",
+          "name": "Phyllis Michaux",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-catawba-2026-commissioner-gregory-aubrey",
+          "name": "Aubrey Gregory",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Catawba County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-sheriff-brown-donald",
+          "name": "Don Brown",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Catawba County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-clerk-superior-court-sigmon-kim",
+          "name": "Kim R. Sigmon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 19",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-attorney-reilly-david",
+          "name": "D. Scott Reilly",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 19, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-superior-court-seat-01-poovey-nathaniel",
+          "name": "Nathaniel J. (Nathan) Poovey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 19, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-superior-court-seat-02-elliott-sherri",
+          "name": "Sherri Wilson Elliott",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-01-aycock-david",
+          "name": "David W. Aycock",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-02-barkley-wesley",
+          "name": "Wes W. Barkley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-03-cabe-matthew",
+          "name": "Matthew D. Cabe",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-04-mullinax-robert",
+          "name": "Robert A. Mullinax, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-05-hayes-gregory",
+          "name": "Gregory R. (Greg) Hayes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 6",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-06-lippert-scott",
+          "name": "Scott M. Lippert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 7",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-07-killian-mark",
+          "name": "Mark L. Killian",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 36, Seat 9 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-district-court-seat-09-markham-lippert-ashley",
+          "name": "Michelle Markham Lippert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Catawba Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-catawba-2026-soil-water-shillito-william",
+          "name": "William (Bill) Shillito",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-catawba-2026-soil-water-little-christopher",
+          "name": "Brett Little",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
