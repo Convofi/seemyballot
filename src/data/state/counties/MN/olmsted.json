@@ -1,0 +1,198 @@
+{
+  "state": "MN",
+  "county": "Olmsted County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf",
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/local.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt",
+    "https://www.olmstedcounty.gov/government/about-olmsted-county/elected-officials"
+  ],
+  "note": "Candidates are from the official Minnesota Secretary of State sample ballot for Rochester W4 P4 and the Secretary of State's county, judicial district and local candidate files. Ballots for Stewartville and Eyota show the same Sheriff, County Attorney and Soil and Water Conservation District Supervisor (Districts 1-3) contests, so those are countywide. The county's elected-officials page lists Kevin E. Torgerson as the current Sheriff, so the Sheriff seat has no incumbent running; the County Attorney incumbent is not named there, so no one is marked. Judges are marked Incumbent on the ballot. Not shown here because they depend on your district: County Commissioner (Districts 2, 4 and 6), Rochester City Council (Districts 1, 3 and 5), school board members and school district questions, and other city and township offices. There are no countywide or City of Rochester ballot questions. Supreme Court and Court of Appeals seats appear with the statewide races.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-sheriff-parkin-tim",
+          "name": "Tim Parkin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-county-attorney-walters-michael",
+          "name": "Michael Walters",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-olmsted-2026-county-attorney-maclaughlin-karen",
+          "name": "Karen MacLaughlin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Supervisor, District 1",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-swcd-1-connelly-kevin",
+          "name": "Kevin Connelly",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-olmsted-2026-swcd-1-meier-pernell",
+          "name": "Pernell Meier",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-olmsted-2026-swcd-1-odriscoll-jesse",
+          "name": "Jesse O'Driscoll",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Supervisor, District 2",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-swcd-2-flores-lance",
+          "name": "Lance Flores",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Supervisor, District 3",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-swcd-3-tully-james",
+          "name": "James Tully",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-olmsted-2026-swcd-3-pries-john",
+          "name": "John Pries",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Judge 4 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-district-court-4-allen-jacob",
+          "name": "Jacob C. Allen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Judge 6 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-district-court-6-duncan-karen",
+          "name": "Karen R. Duncan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Judge 7 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-district-court-7-luhmann-dwight",
+          "name": "Dwight Luhmann",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Judge 15 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-district-court-15-felten-erin",
+          "name": "Erin Lindhart Felten",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Judge 17 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-district-court-17-neisen-christopher",
+          "name": "Christopher A Neisen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    },
+    {
+      "office": "Judge 22 - District Court, 3rd Judicial District",
+      "candidates": [
+        {
+          "key": "mn-olmsted-2026-district-court-22-johnson-jeffrey",
+          "name": "Jeffrey M Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Rochester": {
+      "contests": [
+        {
+          "office": "Rochester Mayor",
+          "candidates": [
+            {
+              "key": "mn-olmsted-2026-rochester-mayor-garcia-jess",
+              "name": "Jess Garcia",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mn-olmsted-2026-rochester-mayor-powers-joe",
+              "name": "Joe Powers",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://myballotmn.sos.mn.gov/file/SampleBallotPdf/678197AF-D0E3-45C2-AB65-8E160309E0AF.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

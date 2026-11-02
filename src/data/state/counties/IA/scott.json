@@ -1,0 +1,288 @@
+{
+  "state": "IA",
+  "county": "Scott County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf",
+    "https://elections.scottcountyiowa.gov/elections/info/2026_gubernatorial_general_election_2026_11_03/",
+    "https://www.scottcountyiowa.gov/board"
+  ],
+  "note": "From the Scott County Auditor's official sample ballots. All 80 ballot styles carry the same Board of Supervisors (at-large, three seats), county office, Soil and Water, Agricultural Extension and District Court retention questions, with candidate order rotated. Incumbency for Supervisors John Maxwell and Jean Dickson is confirmed on the county's Board page; the other county offices' current holders are not listed there, so no one else is marked. Not shown: township offices, which depend on where you live. No county, City of Davenport or school public measures are on this ballot; Davenport elects its city offices in odd-numbered years. Court of Appeals retention questions appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Board of Supervisors",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ia-scott-2026-supervisor-doerscher-stephen",
+          "name": "Stephen Doerscher",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-supervisor-randle-kevin",
+          "name": "Kevin Randle",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-supervisor-carr-tim",
+          "name": "Tim Carr",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-supervisor-maxwell-john",
+          "name": "John Maxwell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ia-scott-2026-supervisor-stoltenberg-luana",
+          "name": "Luana Stoltenberg",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-supervisor-dickson-jean",
+          "name": "Jean Dickson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ia-scott-2026-supervisor-walljasper-wendy",
+          "name": "Wendy Walljasper",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-treasurer-samara-samuel",
+          "name": "Samuel Samara",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-treasurer-guy-gregory",
+          "name": "Gregory T Guy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-recorder-paone-toby",
+          "name": "Toby Paone",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-recorder-wulf-michael",
+          "name": "Michael E Wulf",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-attorney-cunningham-haan-kelly",
+          "name": "Kelly Cunningham-Haan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "Soil and Water Conservation District Commissioner",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ia-scott-2026-soil-water-bolte-christine",
+          "name": "Christine Bolte",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-soil-water-larson-marty",
+          "name": "Marty Larson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-soil-water-dexter-chad",
+          "name": "Chad Dexter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-soil-water-dermody-alexandra",
+          "name": "Alexandra Dermody",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "County Agricultural Extension Council",
+      "seats": 5,
+      "candidates": [
+        {
+          "key": "ia-scott-2026-ag-extension-gustafson-steve",
+          "name": "Steve Gustafson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-ag-extension-fischer-julianne",
+          "name": "Julianne M. Fischer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-ag-extension-monroe-tom",
+          "name": "Tom Monroe",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-ag-extension-bedell-honey",
+          "name": "Honey Bedell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ia-scott-2026-ag-extension-nagel-connie",
+          "name": "Connie Nagel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "County Agricultural Extension Council (to fill vacancy)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-ag-extension-vacancy-fiscus-kathryn",
+          "name": "Kathryn Fiscus",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Judge - Retention: shall Tamra J. Roberts be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-judge-retain-roberts-tamra",
+          "name": "Tamra J. Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Judge - Retention: shall Jeffrey McDaniel be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-judge-retain-mcdaniel-jeffrey",
+          "name": "Jeffrey McDaniel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Judge - Retention: shall Elizabeth O'Donnell be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-judge-retain-odonnell-elizabeth",
+          "name": "Elizabeth O'Donnell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Judge - Retention: shall Joel William Barrows be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-judge-retain-barrows-joel",
+          "name": "Joel William Barrows",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Judge - Retention: shall Henry William Latham II be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-judge-retain-latham-henry",
+          "name": "Henry William Latham II",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Judge - Retention: shall Mark Ray Lawson be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-judge-retain-lawson-mark",
+          "name": "Mark Ray Lawson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Judge - Retention: shall Patrick A. McElyea be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-judge-retain-mcelyea-patrick",
+          "name": "Patrick A. McElyea",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    },
+    {
+      "office": "District 7 District Associate Judge - Retention: shall Cheryl E. Traum be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ia-scott-2026-7-assoc-judge-retain-traum-cheryl",
+          "name": "Cheryl E. Traum",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.scottcountyiowa.gov/files/sample_ballots/1291_d32_style_34_94836.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

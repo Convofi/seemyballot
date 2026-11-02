@@ -1,0 +1,75 @@
+{
+  "state": "KS",
+  "county": "Shawnee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://cdn.snco.gov/elections/document/Judicial%20Retention%20Questions.pdf",
+    "https://cdn.snco.gov/elections/document/GN%20Constitutional%20Amendment.pdf",
+    "https://www.snco.gov/election/"
+  ],
+  "note": "From the Shawnee County Election Office's 2026 Judicial Retention Questions and Election Race List. The only county office on the 2026 ballot is County Commissioner District 1, which is not shown because it depends on where you live, and neither are Kansas House, State Board of Education and township clerk races. Sheriff, District Attorney, County Clerk, Treasurer and Register of Deeds are not on this ballot. The Election Office lists no countywide or City of Topeka ballot question; Topeka elects its city offices in odd-numbered years. Supreme Court and Court of Appeals retention questions appear with the statewide items. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "3rd Judicial District, District Court Division 1 - Retention: shall Jason E. Geier be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ks-shawnee-2026-3rd-judge-div1-retain-geier-jason",
+          "name": "Jason E. Geier",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.snco.gov/elections/document/Judicial%20Retention%20Questions.pdf"
+    },
+    {
+      "office": "3rd Judicial District, District Court Division 5 - Retention: shall Lori Dougherty-Bichsel be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ks-shawnee-2026-3rd-judge-div5-retain-dougherty-bichsel-lori",
+          "name": "Lori Dougherty-Bichsel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.snco.gov/elections/document/Judicial%20Retention%20Questions.pdf"
+    },
+    {
+      "office": "3rd Judicial District, District Court Division 7 - Retention: shall Penny R Moylan be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ks-shawnee-2026-3rd-judge-div7-retain-moylan-penny",
+          "name": "Penny R Moylan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.snco.gov/elections/document/Judicial%20Retention%20Questions.pdf"
+    },
+    {
+      "office": "3rd Judicial District, District Court Division 10 - Retention: shall Mary E. Mattivi be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ks-shawnee-2026-3rd-judge-div10-retain-mattivi-mary",
+          "name": "Mary E. Mattivi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.snco.gov/elections/document/Judicial%20Retention%20Questions.pdf"
+    },
+    {
+      "office": "3rd Judicial District, District Court Division 11 - Retention: shall Cheryl A. Rios be retained? (Yes/No)",
+      "candidates": [
+        {
+          "key": "ks-shawnee-2026-3rd-judge-div11-retain-rios-cheryl",
+          "name": "Cheryl A. Rios",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cdn.snco.gov/elections/document/Judicial%20Retention%20Questions.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
