@@ -1,0 +1,95 @@
+{
+  "state": "NY",
+  "county": "Chautauqua County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://chautauquacountyny.gov/sites/default/files/inline-files/GE26%20Candidate%20Certification%20for%20Website.pdf",
+    "https://chautauquacountyny.gov/sites/default/files/inline-files/Jamestown%20WD1%20LD12.pdf",
+    "https://chautauquacountyny.gov/sites/default/files/inline-files/2026%20OFFICES%20UP%20FOR%20ELECTION%2009.17.2026.pdf",
+    "https://chautauquacountyny.gov/board-elections/sample-ballotsboleta-de-muestra"
+  ],
+  "note": "From the Chautauqua County Board of Elections' certification of county, city, town and village candidates for the November 3, 2026 General Election and its sample ballots (Jamestown Ward 1, Legislative District 12 shown). Incumbent flags come from the Board's 2026 Offices Up for Election list. New York uses fusion voting: each candidate is listed once under their main party. Craig R. Bucki and Anne E. Joynt also appear on the Working Families line; Michael L. Amodeo appears on the Democratic, Republican and Working Families lines and Robert N. Richardson on the Democratic, Republican and Conservative lines (both shown under Democratic); Deanne M. Tripi, Jonathan S. Hickey, James Quattrone and Michael Sullivan also appear on the Conservative line; Alexandria B. Moss also appears on the Working Families line; Robert R. Vario appears only on the Conservative line and is shown as Other. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, County Legislator Districts 1-19, the City of Jamestown Ward 2 council vacancy, and town and village offices. There are no countywide propositions. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 8th Judicial District",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "ny-chautauqua-2026-supreme-court-bucki-craig",
+          "name": "Craig R. Bucki",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chautauqua-2026-supreme-court-joynt-anne",
+          "name": "Anne E. Joynt",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chautauqua-2026-supreme-court-amodeo-michael",
+          "name": "Michael L. Amodeo",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chautauqua-2026-supreme-court-richardson-robert",
+          "name": "Robert N. Richardson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chautauqua-2026-supreme-court-tripi-deanne",
+          "name": "Deanne M. Tripi",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chautauqua-2026-supreme-court-hickey-jonathan",
+          "name": "Jonathan S. Hickey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chautauqua-2026-supreme-court-vario-robert",
+          "name": "Robert R. Vario",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://chautauquacountyny.gov/sites/default/files/inline-files/Jamestown%20WD1%20LD12.pdf"
+    },
+    {
+      "office": "Chautauqua County Sheriff",
+      "candidates": [
+        {
+          "key": "ny-chautauqua-2026-sheriff-quattrone-james",
+          "name": "James Quattrone",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://chautauquacountyny.gov/sites/default/files/inline-files/GE26%20Candidate%20Certification%20for%20Website.pdf"
+    },
+    {
+      "office": "Chautauqua County Family Court Judge",
+      "candidates": [
+        {
+          "key": "ny-chautauqua-2026-family-court-moss-alexandria",
+          "name": "Alexandria B. Moss",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chautauqua-2026-family-court-sullivan-michael",
+          "name": "Michael Sullivan",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://chautauquacountyny.gov/sites/default/files/inline-files/GE26%20Candidate%20Certification%20for%20Website.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

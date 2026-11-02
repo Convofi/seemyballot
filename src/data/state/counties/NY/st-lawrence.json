@@ -1,0 +1,84 @@
+{
+  "state": "NY",
+  "county": "St. Lawrence County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.stlawco.gov/sites/default/files/BoardofElections/Leg%209%20Canton%201.pdf",
+    "https://www.stlawco.gov/sites/default/files/BoardofElections/Leg%201%20Ogdensburg%201-4.pdf",
+    "https://www.stlawco.gov/Departments/BoardofElections/SampleBallots",
+    "https://www.stlawco.gov/sites/default/files/BoardofElections/Offices%20to%20be%20Elected%202026_1.pdf"
+  ],
+  "note": "From the St. Lawrence County Board of Elections' 2026 General Election sample ballots (Canton, Ogdensburg and Massena checked) and its list of offices to be elected. New York uses fusion voting: each candidate is listed once under their main party. James M. Sienkiewycz also appears on the Working Families line; James R. Amo, Steven M. Cary, Tom Buchanan, John T. Ellis, Kate Hogan and Keith S. Massey, Jr. also appear on the Conservative line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, the 15 County Legislator districts, and town and village offices. There is no countywide proposition. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 4th Judicial District",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "ny-st-lawrence-2026-supreme-court-wanner-bradley",
+          "name": "Bradley M. Wanner",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-st-lawrence-2026-supreme-court-clark-christine",
+          "name": "Christine M. Clark",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-st-lawrence-2026-supreme-court-buchanan-tom",
+          "name": "Tom Buchanan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-st-lawrence-2026-supreme-court-ellis-john",
+          "name": "John T. Ellis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-st-lawrence-2026-supreme-court-hogan-kate",
+          "name": "Kate Hogan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-st-lawrence-2026-supreme-court-massey-keith",
+          "name": "Keith S. Massey, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.stlawco.gov/sites/default/files/BoardofElections/Leg%209%20Canton%201.pdf"
+    },
+    {
+      "office": "St. Lawrence County Coroner",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ny-st-lawrence-2026-coroner-sienkiewycz-james",
+          "name": "James M. Sienkiewycz",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-st-lawrence-2026-coroner-amo-james",
+          "name": "James R. Amo",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-st-lawrence-2026-coroner-cary-steven",
+          "name": "Steven M. Cary",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.stlawco.gov/sites/default/files/BoardofElections/Leg%209%20Canton%201.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

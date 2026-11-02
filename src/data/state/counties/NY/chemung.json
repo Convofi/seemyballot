@@ -1,0 +1,44 @@
+{
+  "state": "NY",
+  "county": "Chemung County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.chemungcountyny.gov/DocumentCenter/View/20773/2026---Offices-Open-for-Election-and-the-Candidates-",
+    "https://www.chemungcountyny.gov/829/Offices-Candidates"
+  ],
+  "note": "From the Chemung County Board of Elections' 2026 Offices Open for Election and the Candidates list. New York uses fusion voting: each candidate is listed once under their main party. Katlyn Colombani-Ruiz also appears on the Conservative line; Chris Moss appears only on the Conservative line and is shown as Other. No State Supreme Court contest and no City of Elmira citywide office appear on the Board's 2026 list. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, County Legislator districts, and town and village offices. There is no countywide proposition. Incumbent flags are not set because no official roster could be read. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chemung County Executive",
+      "candidates": [
+        {
+          "key": "ny-chemung-2026-exec-margeson-mark",
+          "name": "Mark A. Margeson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-chemung-2026-exec-moss-chris",
+          "name": "Chris Moss",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.chemungcountyny.gov/DocumentCenter/View/20773/2026---Offices-Open-for-Election-and-the-Candidates-"
+    },
+    {
+      "office": "Chemung County Treasurer",
+      "candidates": [
+        {
+          "key": "ny-chemung-2026-treasurer-colombaniruiz-katlyn",
+          "name": "Katlyn Colombani-Ruiz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.chemungcountyny.gov/DocumentCenter/View/20773/2026---Offices-Open-for-Election-and-the-Candidates-"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

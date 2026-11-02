@@ -1,0 +1,28 @@
+{
+  "state": "NY",
+  "county": "Steuben County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.steubencountyny.gov/DocumentCenter/View/9697/Bath-PDF",
+    "https://www.steubencountyny.gov/684/2026-General-Election-Ballots",
+    "https://www.steubencountyny.gov/DocumentCenter/View/9593/2026-General-Election-Information--Candidates-PDF",
+    "https://www.steubencountyny.gov/DocumentCenter/View/2081/Elected-Offices-PDF"
+  ],
+  "note": "From the Steuben County Board of Elections' 2026 General Election sample ballots (Bath, City of Corning and City of Hornell checked) and its 2026 General Election Information and Candidates sheet. The incumbent flag comes from the Board's Elected Officials list. No State Supreme Court contest appears on the 2026 Steuben ballot. Not shown because they depend on your district or town: Representative in Congress (23rd and 24th Districts), State Senate, Member of Assembly, and town and village offices and town propositions. There is no countywide proposition. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Steuben County Coroner",
+      "candidates": [
+        {
+          "key": "ny-steuben-2026-coroner-spaulding-jeffrey",
+          "name": "Jeffrey Spaulding",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.steubencountyny.gov/DocumentCenter/View/9697/Bath-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

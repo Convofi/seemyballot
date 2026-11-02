@@ -1,0 +1,106 @@
+{
+  "state": "NY",
+  "county": "Cattaraugus County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.cattco.gov/sites/default/files/2026-09/Cattaraugus-Certification-GE26-signed--opt.pdf",
+    "https://www.cattco.gov/sites/default/files/elections/2026/ge/City-of-Olean-Ward-1.pdf",
+    "https://www.cattco.gov/news/sample-ballots-2026-general-election-16081"
+  ],
+  "note": "From the Cattaraugus County Board of Elections' Certification for the November 3, 2026 General Election and its sample ballots (City of Olean Ward 1 shown). New York uses fusion voting: each candidate is listed once under their main party. Craig R. Bucki and Anne E. Joynt also appear on the Working Families line; Michael L. Amodeo appears on the Democratic, Republican and Working Families lines and Robert N. Richardson on the Democratic, Republican and Conservative lines (both shown under Democratic); Deanne M. Tripi, Jonathan S. Hickey, Darrell T. Klute, Cleon W. Easton, III and Darryl R. Bloom also appear on the Conservative line; Robert R. Vario appears only on the Conservative line and Kristin M. Colburn only on the Working Families line, and both are shown as Other. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, the County Legislator District 2 vacancy, City of Olean and City of Salamanca ward and mayoral contests, and town and village offices. There are no countywide propositions. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 8th Judicial District",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "ny-cattaraugus-2026-supreme-court-bucki-craig",
+          "name": "Craig R. Bucki",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-cattaraugus-2026-supreme-court-joynt-anne",
+          "name": "Anne E. Joynt",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-cattaraugus-2026-supreme-court-amodeo-michael",
+          "name": "Michael L. Amodeo",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-cattaraugus-2026-supreme-court-richardson-robert",
+          "name": "Robert N. Richardson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-cattaraugus-2026-supreme-court-tripi-deanne",
+          "name": "Deanne M. Tripi",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-cattaraugus-2026-supreme-court-hickey-jonathan",
+          "name": "Jonathan S. Hickey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-cattaraugus-2026-supreme-court-vario-robert",
+          "name": "Robert R. Vario",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cattco.gov/sites/default/files/elections/2026/ge/City-of-Olean-Ward-1.pdf"
+    },
+    {
+      "office": "Cattaraugus County Judge",
+      "candidates": [
+        {
+          "key": "ny-cattaraugus-2026-county-court-bloom-darryl",
+          "name": "Darryl R. Bloom",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cattco.gov/sites/default/files/2026-09/Cattaraugus-Certification-GE26-signed--opt.pdf"
+    },
+    {
+      "office": "Cattaraugus County Clerk",
+      "candidates": [
+        {
+          "key": "ny-cattaraugus-2026-county-clerk-klute-darrell",
+          "name": "Darrell T. Klute",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-cattaraugus-2026-county-clerk-colburn-kristin",
+          "name": "Kristin M. Colburn",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cattco.gov/sites/default/files/2026-09/Cattaraugus-Certification-GE26-signed--opt.pdf"
+    },
+    {
+      "office": "Cattaraugus County Coroner",
+      "candidates": [
+        {
+          "key": "ny-cattaraugus-2026-coroner-easton-cleon",
+          "name": "Cleon W. Easton, III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.cattco.gov/sites/default/files/2026-09/Cattaraugus-Certification-GE26-signed--opt.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,113 @@
+{
+  "state": "NY",
+  "county": "Putnam County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://boe.putnamcountyny.gov/wp-content/uploads/2026/09/2026-LIST-CANDIDATES-PROPOSITIONS-GENERAL.pdf",
+    "https://boe.putnamcountyny.gov/2026-general-election-information/",
+    "https://www.putnamcountyny.gov/elected-officials"
+  ],
+  "note": "From the Putnam County Board of Elections' Candidate & Proposition List for the November 3, 2026 General Election. New York uses fusion voting: each candidate is listed once under their main party. Maria G. Rosa also appears on the Working Families line, George E. Fufidio on the Democratic and Republican lines, Alden H. Wolfe on the Democratic and Conservative lines, and Richard S. Fava Pastilha on the Republican and Conservative lines. Brett Yarris also appears on the Working Families / For the People line; Kevin M. Byrne also appears on the Libertarian line; Tatiana Brahimi appears only on the Conservative line and is shown as Other. Michael C. Bartolotti, Michael J. Nesheiwat and John F. Bourges also appear on the Conservative / Libertarian line; Michael L. Strauss also appears on The Putnam Party line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, County Legislator Districts 2, 3 and 8, town and village offices, and the Brewster Library proposition (Town of Southeast). Incumbent flags come from the county's elected officials page. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 9th Judicial District",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ny-putnam-2026-supreme-court-rosa-maria",
+          "name": "Maria G. Rosa",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-putnam-2026-supreme-court-fufidio-george",
+          "name": "George E. Fufidio",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-putnam-2026-supreme-court-wolfe-alden",
+          "name": "Alden H. Wolfe",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-putnam-2026-supreme-court-pastilha-richard",
+          "name": "Richard S. Fava Pastilha",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-putnam-2026-supreme-court-ciampoli-john",
+          "name": "John Ciampoli",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.putnamcountyny.gov/wp-content/uploads/2026/09/2026-LIST-CANDIDATES-PROPOSITIONS-GENERAL.pdf"
+    },
+    {
+      "office": "Putnam County Executive",
+      "candidates": [
+        {
+          "key": "ny-putnam-2026-county-executive-yarris-brett",
+          "name": "Brett Yarris",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-putnam-2026-county-executive-byrne-kevin",
+          "name": "Kevin M. Byrne",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ny-putnam-2026-county-executive-brahimi-tatiana",
+          "name": "Tatiana Brahimi",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://boe.putnamcountyny.gov/wp-content/uploads/2026/09/2026-LIST-CANDIDATES-PROPOSITIONS-GENERAL.pdf"
+    },
+    {
+      "office": "Putnam County Clerk",
+      "candidates": [
+        {
+          "key": "ny-putnam-2026-county-clerk-bartolotti-michael",
+          "name": "Michael C. Bartolotti",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.putnamcountyny.gov/wp-content/uploads/2026/09/2026-LIST-CANDIDATES-PROPOSITIONS-GENERAL.pdf"
+    },
+    {
+      "office": "Putnam County Coroner (vote for up to two)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ny-putnam-2026-coroner-strauss-michael",
+          "name": "Michael L. Strauss",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-putnam-2026-coroner-nesheiwat-michael",
+          "name": "Michael J. Nesheiwat",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ny-putnam-2026-coroner-bourges-john",
+          "name": "John F. Bourges",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://boe.putnamcountyny.gov/wp-content/uploads/2026/09/2026-LIST-CANDIDATES-PROPOSITIONS-GENERAL.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

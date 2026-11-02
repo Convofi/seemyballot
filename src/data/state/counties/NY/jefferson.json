@@ -1,0 +1,45 @@
+{
+  "state": "NY",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.jeffersoncountyny.gov/media/Elections/2026%20General%20Election%20Certification/GE26%20Ballot%20Certification%20-%20executed.pdf",
+    "https://www.jeffersoncountyny.gov/media/Elections/Sample%20Ballots/GE26/City%2012.png",
+    "https://www.jeffersoncountyny.gov/departments/elections/sample-ballots"
+  ],
+  "note": "From the Jefferson County Board of Elections' 2026 General Election ballot certification (September 9, 2026) and its sample ballots (City of Watertown 12-1 shown). New York uses fusion voting: each candidate is listed once under their main party. Joseph Zavaglia also appears on the Working Families line and Michael J. Manfredi on the Conservative line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, County Legislator districts, and town and village offices. There is no countywide proposition. Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "ny-jefferson-2026-supreme-court-zavaglia-joseph",
+          "name": "Joseph Zavaglia",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-jefferson-2026-supreme-court-manfredi-michael",
+          "name": "Michael J. Manfredi",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffersoncountyny.gov/media/Elections/Sample%20Ballots/GE26/City%2012.png"
+    },
+    {
+      "office": "Jefferson County Sheriff",
+      "candidates": [
+        {
+          "key": "ny-jefferson-2026-sheriff-barnett-peter",
+          "name": "Peter R. Barnett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.jeffersoncountyny.gov/media/Elections/2026%20General%20Election%20Certification/GE26%20Ballot%20Certification%20-%20executed.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

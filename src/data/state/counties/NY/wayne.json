@@ -1,0 +1,51 @@
+{
+  "state": "NY",
+  "county": "Wayne County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.waynecountyny.gov/DocumentCenter/View/22371/Lyo-1-5---Town-UA",
+    "https://www.waynecountyny.gov/277/Elections",
+    "https://www.waynecountyny.gov/DocumentCenter/View/19680"
+  ],
+  "note": "From the Wayne County Board of Elections' 2026 General Election sample ballots (Town of Lyons shown; the Treasurer, Coroner and County Judge contests appear on the sample ballots for every town) and its list of 2026 local offices to be filled. No State Supreme Court contest appears on Wayne County ballots in 2026, and there is no countywide proposition. New York uses fusion voting: each candidate is listed once under their main party. Jamie Corteville and Arline Hanna also appear on the Conservative line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, town and village offices, and town and village propositions (Arcadia/Newark, Ontario, Walworth). Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Wayne County Treasurer",
+      "candidates": [
+        {
+          "key": "ny-wayne-2026-treasurer-corteville-jamie",
+          "name": "Jamie Corteville",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.waynecountyny.gov/DocumentCenter/View/22371/Lyo-1-5---Town-UA"
+    },
+    {
+      "office": "Wayne County Coroner",
+      "candidates": [
+        {
+          "key": "ny-wayne-2026-coroner-pettine-philip",
+          "name": "Philip Pettine",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.waynecountyny.gov/DocumentCenter/View/22371/Lyo-1-5---Town-UA"
+    },
+    {
+      "office": "Wayne County Judge",
+      "candidates": [
+        {
+          "key": "ny-wayne-2026-county-court-hanna-arline",
+          "name": "Arline Hanna",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.waynecountyny.gov/DocumentCenter/View/22371/Lyo-1-5---Town-UA"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

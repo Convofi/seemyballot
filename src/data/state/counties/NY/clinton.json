@@ -1,0 +1,124 @@
+{
+  "state": "NY",
+  "county": "Clinton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.clintoncountyny.gov/sites/default/files/boe/Candidate-Prop%20Certification%20for%20GE26-signed.pdf",
+    "https://www.clintoncountyny.gov/sites/default/files/boe/Sample%20Ballots%20GE%2026.pdf",
+    "https://www.clintoncountyny.gov/boe/elected-officials"
+  ],
+  "note": "From the Clinton County Board of Elections' certification of candidates and propositions for the November 3, 2026 General Election and its sample ballots (City of Plattsburgh Ward 1 District 1 shown). New York uses fusion voting: each candidate is listed once under their main party. Keith M. Bruno and Jaime A. Douthat also appear on the Working Families line; Brent Davison, Cliff Berg, Hilary Rogers, Tom Buchanan, John T. Ellis, Kate Hogan and Keith S. Massey Jr. also appear on the Conservative line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, City of Plattsburgh ward councilors, the City of Plattsburgh charter revision proposition, and town offices and propositions. There is no countywide proposition. Incumbent flags come from the Board of Elections' elected officials list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 4th Judicial District",
+      "seats": 4,
+      "candidates": [
+        {
+          "key": "ny-clinton-2026-supreme-court-wanner-bradley",
+          "name": "Bradley M. Wanner",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-clinton-2026-supreme-court-clark-christine",
+          "name": "Christine M. Clark",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-clinton-2026-supreme-court-buchanan-tom",
+          "name": "Tom Buchanan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-clinton-2026-supreme-court-ellis-john",
+          "name": "John T. Ellis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-clinton-2026-supreme-court-hogan-kate",
+          "name": "Kate Hogan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ny-clinton-2026-supreme-court-massey-keith",
+          "name": "Keith S. Massey Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clintoncountyny.gov/sites/default/files/boe/Sample%20Ballots%20GE%2026.pdf"
+    },
+    {
+      "office": "Clinton County Sheriff",
+      "candidates": [
+        {
+          "key": "ny-clinton-2026-sheriff-favro-david",
+          "name": "David N. Favro",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ny-clinton-2026-sheriff-davison-brent",
+          "name": "Brent Davison",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clintoncountyny.gov/sites/default/files/boe/Candidate-Prop%20Certification%20for%20GE26-signed.pdf"
+    },
+    {
+      "office": "Clinton County Coroner",
+      "candidates": [
+        {
+          "key": "ny-clinton-2026-coroner-ewing-r",
+          "name": "R. Scott Ewing",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-clinton-2026-coroner-berg-cliff",
+          "name": "Cliff Berg",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clintoncountyny.gov/sites/default/files/boe/Candidate-Prop%20Certification%20for%20GE26-signed.pdf"
+    },
+    {
+      "office": "Clinton County Court Judge",
+      "candidates": [
+        {
+          "key": "ny-clinton-2026-county-court-bruno-keith",
+          "name": "Keith M. Bruno",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clintoncountyny.gov/sites/default/files/boe/Candidate-Prop%20Certification%20for%20GE26-signed.pdf"
+    },
+    {
+      "office": "Clinton County Surrogate Court Judge",
+      "candidates": [
+        {
+          "key": "ny-clinton-2026-surrogate-court-douthat-jaime",
+          "name": "Jaime A. Douthat",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-clinton-2026-surrogate-court-rogers-hilary",
+          "name": "Hilary Rogers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.clintoncountyny.gov/sites/default/files/boe/Candidate-Prop%20Certification%20for%20GE26-signed.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

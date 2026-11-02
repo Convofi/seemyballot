@@ -1,0 +1,46 @@
+{
+  "state": "NY",
+  "county": "Oswego County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.oswegocountyny.gov/Board%20of%20Elections/Sample%20Ballots/Oswego_City_1-1_Ballot.pdf",
+    "https://www.oswegocountyny.gov/Board%20of%20Elections/Sample%20Ballots/Albion_1_Ballot.pdf",
+    "https://www.oswegocountyny.gov/government/board_of_elections/view_sample_ballots.php",
+    "https://www.oswegocountyny.gov/County%20Legislature/2026%20Government%20Directory.pdf"
+  ],
+  "note": "From the Oswego County Board of Elections' 2026 General Election sample ballots (City of Oswego Ward 1 District 1, Albion and Volney checked). New York uses fusion voting: each candidate is listed once under their main party. Joseph Zavaglia also appears on the Working Families line; Michael J. Manfredi and Donald R. Hilton also appear on the Conservative line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, County Legislator districts, and town and city offices. The Sheriff incumbent flag comes from the county's 2026 Government Directory. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "ny-oswego-2026-supreme-court-zavaglia-joseph",
+          "name": "Joseph Zavaglia",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-oswego-2026-supreme-court-manfredi-michael",
+          "name": "Michael J. Manfredi",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.oswegocountyny.gov/Board%20of%20Elections/Sample%20Ballots/Oswego_City_1-1_Ballot.pdf"
+    },
+    {
+      "office": "Oswego County Sheriff",
+      "candidates": [
+        {
+          "key": "ny-oswego-2026-sheriff-hilton-donald",
+          "name": "Donald R. Hilton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.oswegocountyny.gov/Board%20of%20Elections/Sample%20Ballots/Oswego_City_1-1_Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
