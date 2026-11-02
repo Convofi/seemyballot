@@ -1,0 +1,53 @@
+{
+  "state": "IL",
+  "county": "Whiteside County",
+  "verifiedAt": "2026-11-01",
+  "sources": ["https://www.whitesidecountyil.gov/DocumentCenter/View/1383/Specimen-Ballot-Nov-3-2026", "https://www.whitesidecountyil.gov/236/Elections"],
+  "note": "From the Whiteside County Clerk's certified specimen ballot. Not shown: County Board districts 1-3, Regional Superintendent of Schools (Whiteside voters are split among the Lee-Ogle-Whiteside, Bureau-Henry-Stark and Carroll-JoDaviess-Stephenson regional offices by school district), Congress and state legislature, and the Chadwick-Milledgeville CUSD 399 bond question. There is no countywide referendum. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Whiteside County Clerk",
+      "candidates": [
+        { "key": "il-whiteside-2026-clerk-stralow-karen", "name": "Karen J. Stralow", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.whitesidecountyil.gov/DocumentCenter/View/1383/Specimen-Ballot-Nov-3-2026"
+    },
+    {
+      "office": "Whiteside County Treasurer",
+      "candidates": [
+        { "key": "il-whiteside-2026-treasurer-van-kampen-penny", "name": "Penny Van Kampen", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.whitesidecountyil.gov/DocumentCenter/View/1383/Specimen-Ballot-Nov-3-2026"
+    },
+    {
+      "office": "Whiteside County Sheriff",
+      "candidates": [
+        { "key": "il-whiteside-2026-sheriff-booker-john", "name": "John F. Booker", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.whitesidecountyil.gov/DocumentCenter/View/1383/Specimen-Ballot-Nov-3-2026"
+    },
+    {
+      "office": "Judge of the Circuit Court, 14th Judicial Circuit — retain Judge Terence M. Patton? (yes/no retention)",
+      "candidates": [
+        { "key": "il-whiteside-2026-retain-circuit-patton-terence", "name": "Terence M. Patton", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.whitesidecountyil.gov/DocumentCenter/View/1383/Specimen-Ballot-Nov-3-2026"
+    },
+    {
+      "office": "Judge of the Circuit Court, 14th Judicial Circuit — retain Judge Peter W. Church? (yes/no retention)",
+      "candidates": [
+        { "key": "il-whiteside-2026-retain-circuit-church-peter", "name": "Peter W. Church", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.whitesidecountyil.gov/DocumentCenter/View/1383/Specimen-Ballot-Nov-3-2026"
+    },
+    {
+      "office": "Judge of the Circuit Court, 14th Judicial Circuit — retain Judge John L. McGehee? (yes/no retention)",
+      "candidates": [
+        { "key": "il-whiteside-2026-retain-circuit-mcgehee-john", "name": "John L. McGehee", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.whitesidecountyil.gov/DocumentCenter/View/1383/Specimen-Ballot-Nov-3-2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

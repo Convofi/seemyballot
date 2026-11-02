@@ -1,0 +1,77 @@
+{
+  "state": "IL",
+  "county": "Jackson County",
+  "verifiedAt": "2026-11-01",
+  "sources": ["https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot", "https://www.jacksoncounty-il.gov/DocumentCenter/View/1196/26-Notice-of-Election-2026pdf", "https://www.jacksoncounty-il.gov/340/Voting-Elections"],
+  "note": "From the Jackson County Clerk & Recorder's 2026 General Election preview (publication) ballot and notice of election; the ballot is a scanned image read by eye. Not shown: County Board districts 1-7 (including an unexpired District 5 term), Regional Superintendent of Schools (Jackson voters are split between the Alexander-Jackson-Perry-Pulaski-Union and Franklin-Johnson-Massac-Williamson regional offices by school district), Congress and state legislature, and the Elverado CUSD 196 at-large board election question. There is no countywide referendum. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Jackson County Clerk",
+      "candidates": [
+        { "key": "il-jackson-2026-clerk-gill-doug", "name": "Doug Gill", "party": "Republican", "incumbent": false },
+        { "key": "il-jackson-2026-clerk-byrd-frank", "name": "Frank L Byrd", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Jackson County Treasurer",
+      "candidates": [
+        { "key": "il-jackson-2026-treasurer-stevenson-liz", "name": "Liz Stevenson", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Jackson County Sheriff",
+      "candidates": [
+        { "key": "il-jackson-2026-sheriff-wittenborn-jay", "name": "Jay Wittenborn", "party": "Republican", "incumbent": false },
+        { "key": "il-jackson-2026-sheriff-burns-robert", "name": "Robert \"Bob\" Burns", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Jackson County Assessor",
+      "candidates": [
+        { "key": "il-jackson-2026-assessor-ehlers-tammy", "name": "Tammy Ehlers", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District (vacancy of the Hon. Thomas M. Welch)",
+      "candidates": [
+        { "key": "il-jackson-2026-appellate-sholar-amy", "name": "Amy E. Sholar", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 1st Judicial Circuit, Jackson County (vacancy of the Hon. Christy Solverson)",
+      "candidates": [
+        { "key": "il-jackson-2026-circuit-solverson-vacancy-snyder-leonard", "name": "Leonard \"Jamie\" Snyder", "party": "Republican", "incumbent": false },
+        { "key": "il-jackson-2026-circuit-solverson-vacancy-reed-benjamin", "name": "Benjamin W. Reed", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        { "key": "il-jackson-2026-retain-appellate-barberis-john", "name": "John B. Barberis, Jr.", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 1st Judicial Circuit — retain Judge William J. \"Bill\" Thurston? (yes/no retention)",
+      "candidates": [
+        { "key": "il-jackson-2026-retain-circuit-thurston-william", "name": "William J. \"Bill\" Thurston", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    },
+    {
+      "office": "Judge of the Circuit Court, 1st Judicial Circuit — retain Judge Sarah K. Tripp? (yes/no retention)",
+      "candidates": [
+        { "key": "il-jackson-2026-retain-circuit-tripp-sarah", "name": "Sarah K. Tripp", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.jacksoncounty-il.gov/DocumentCenter/View/1197/2026-Preview-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

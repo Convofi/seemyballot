@@ -1,0 +1,41 @@
+{
+  "state": "IL",
+  "county": "DeKalb County",
+  "verifiedAt": "2026-11-01",
+  "sources": ["https://dekalbcountyclerkil.gov/wp-content/uploads/2026/09/11032026SpecimenBallot.pdf", "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/07/11032026LocalCandidates.pdf", "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/09/11032026ReferendaList.pdf", "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/09/11032026WriteIns.pdf", "https://dekalbcountyclerkil.gov/"],
+  "note": "From the DeKalb County Clerk & Recorder's specimen ballot, local candidate list, referenda list and write-in list. Not shown: County Board districts 1-12 (including unexpired terms in districts 5 and 12), Regional Superintendent of Schools (DeKalb voters are split among the DeKalb, Boone-Winnebago, Kane, LaSalle-Marshall-Putnam and Lee-Ogle-Whiteside regional offices by school district), Congress and state legislature, and school district questions (CUSD 300 bonds, Sandwich CUSD 430 limiting rate). There is no countywide referendum, and certified write-ins are for state offices only. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "DeKalb County Clerk",
+      "candidates": [
+        { "key": "il-dekalb-2026-clerk-sims-tasha", "name": "Tasha Sims", "party": "Republican", "incumbent": true },
+        { "key": "il-dekalb-2026-clerk-janicke-douglas", "name": "Douglas Janicke", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/09/11032026SpecimenBallot.pdf"
+    },
+    {
+      "office": "DeKalb County Treasurer",
+      "candidates": [
+        { "key": "il-dekalb-2026-treasurer-springer-becky", "name": "Becky Springer", "party": "Republican", "incumbent": false },
+        { "key": "il-dekalb-2026-treasurer-shaw-derek", "name": "Derek Shaw", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/09/11032026SpecimenBallot.pdf"
+    },
+    {
+      "office": "DeKalb County Sheriff",
+      "candidates": [
+        { "key": "il-dekalb-2026-sheriff-sullivan-andrew", "name": "Andrew \"Andy\" Sullivan", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/09/11032026SpecimenBallot.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 23rd Judicial Circuit — retain Judge Jody P. Gleason? (yes/no retention)",
+      "candidates": [
+        { "key": "il-dekalb-2026-retain-circuit-gleason-jody", "name": "Jody P. Gleason", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://dekalbcountyclerkil.gov/wp-content/uploads/2026/09/11032026SpecimenBallot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

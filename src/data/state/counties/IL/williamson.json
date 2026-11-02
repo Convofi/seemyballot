@@ -1,0 +1,68 @@
+{
+  "state": "IL",
+  "county": "Williamson County",
+  "verifiedAt": "2026-11-01",
+  "sources": ["https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf", "https://www.williamsoncountyil.gov/government/elections/"],
+  "note": "From the Williamson County Clerk and Recorder's official sample ballot (scanned; read from the image). Not shown: Regional Superintendent of Schools (Williamson voters are split between the Franklin-Johnson-Massac-Williamson and Edwards-Gallatin-Hamilton-Hardin-Pope-Saline-Wabash-Wayne-White regional offices by school district), Congress and state legislature, and the Herrin Park District limiting rate question. There is no countywide referendum. Check your official sample ballot for local questions.",
+  "contests": [
+    {
+      "office": "Williamson County Clerk",
+      "candidates": [
+        { "key": "il-williamson-2026-clerk-barnes-amanda", "name": "Amanda Emery Barnes", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    },
+    {
+      "office": "Williamson County Treasurer",
+      "candidates": [
+        { "key": "il-williamson-2026-treasurer-gott-ashley", "name": "Ashley Gott", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    },
+    {
+      "office": "Williamson County Sheriff",
+      "candidates": [
+        { "key": "il-williamson-2026-sheriff-diederich-jeff", "name": "Jeff Diederich", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    },
+    {
+      "office": "Williamson County Commissioner",
+      "candidates": [
+        { "key": "il-williamson-2026-commissioner-hemphill-darcy", "name": "Darcy E. Hemphill", "party": "Democratic", "incumbent": false },
+        { "key": "il-williamson-2026-commissioner-ellis-ronald", "name": "Ronald Ellis", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District (vacancy of the Hon. Thomas M. Welch)",
+      "candidates": [
+        { "key": "il-williamson-2026-appellate-sholar-amy", "name": "Amy E. Sholar", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        { "key": "il-williamson-2026-retain-appellate-barberis-john", "name": "John B. Barberis, Jr.", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 1st Judicial Circuit — retain Judge William J. \"Bill\" Thurston? (yes/no retention)",
+      "candidates": [
+        { "key": "il-williamson-2026-retain-circuit-thurston-william", "name": "William J. \"Bill\" Thurston", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 1st Judicial Circuit — retain Judge Sarah K. Tripp? (yes/no retention)",
+      "candidates": [
+        { "key": "il-williamson-2026-retain-circuit-tripp-sarah", "name": "Sarah K. Tripp", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.williamsoncountyil.gov/wp-content/uploads/2026/09/sample-ballot-001.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
