@@ -1,0 +1,186 @@
+{
+  "state": "NC",
+  "county": "Randolph County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.randolphcountync.gov/DocumentCenter/View/7022",
+    "https://www.randolphcountync.gov/DocumentCenter/View/7057"
+  ],
+  "note": "Randolph County's official combined 2026 sample ballots (Archdale, Grant and Liberty precinct styles) all carry Board of Commissioners Districts 2, 3 and 4, so county voters vote on those seats countywide (candidates must live in the district). Not shown: Randolph County Schools Board of Education and Asheboro City Schools Board of Education (each covers only part of the county), City of Archdale and City of Trinity races, and state legislative and U.S. House districts. Check your official sample ballot for those. The only referendums in Randolph County are the three statewide constitutional amendments. Incumbent flags come from the county's 2026 Elected Officials Guide.",
+  "contests": [
+    {
+      "office": "Randolph County Board of Commissioners District 2",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-commissioner-district-02-frye-darrell",
+          "name": "Darrell L. Frye",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-randolph-2026-commissioner-district-02-stevens-robin",
+          "name": "Robin A. Stevens",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Randolph County Board of Commissioners District 3",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-commissioner-district-03-allen-david",
+          "name": "David L. Allen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Randolph County Board of Commissioners District 4",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-commissioner-district-04-johnson-william",
+          "name": "Duffy Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Randolph County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-sheriff-seabolt-gregory",
+          "name": "Greg Seabolt",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Randolph County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-clerk-superior-court-hill-pamela",
+          "name": "Pam Hill",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Randolph County Register of Deeds",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-register-of-deeds-lowe-krista",
+          "name": "Krista M. Lowe",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 37, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-superior-court-seat-01-hill-james",
+          "name": "James P. (Jimmy) Hill",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 37, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-district-court-seat-01-lanier-sarah",
+          "name": "Sarah Neely Lanier",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 37, Seat 2 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-district-court-seat-02-fish-lindsey",
+          "name": "Paige Albertson Fish",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-randolph-2026-district-court-seat-02-jaimes-areli",
+          "name": "Areli G. Jaimes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 37, Seat 3",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-district-court-seat-03-allen-darren",
+          "name": "Darren C. Allen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 37, Seat 4",
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-district-court-seat-04-allred-jodi",
+          "name": "Jodi M. Allred",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Randolph Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-randolph-2026-soil-water-austin-jason",
+          "name": "Jason Austin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-randolph-2026-soil-water-hare-kristina",
+          "name": "Kristina (Tina) Hare",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-randolph-2026-soil-water-guess-slatosky-carrie",
+          "name": "Carrie Guess-Slatosky",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

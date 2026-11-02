@@ -1,0 +1,118 @@
+{
+  "state": "NC",
+  "county": "Pitt County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf"
+  ],
+  "note": "Not shown: Pitt County Board of Commissioners Districts 1-6 and Pitt County Board of Education Districts 1, 2, 5 and 7 (each elected by district; no official source we could reach shows these on every county ballot), the Town of Grifton mixed beverage election, Village of Simpson races, and state legislative and U.S. House districts. Check your official sample ballot for those. Greenville city offices are not on the 2026 ballot and there is no City of Greenville referendum. Incumbent flags are not set because we could not reach an official roster.",
+  "contests": [
+    {
+      "office": "Pitt County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-pitt-2026-sheriff-dance-paula",
+          "name": "Paula S. Dance",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Pitt County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-pitt-2026-clerk-superior-court-rhodes-sara",
+          "name": "Sara Beth Fulford Rhodes",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 3",
+      "candidates": [
+        {
+          "key": "nc-pitt-2026-district-attorney-dixon-faris",
+          "name": "Faris Dixon",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 3, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-pitt-2026-district-court-seat-01-entzminger-daniel",
+          "name": "Daniel Hines Entzminger",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pitt-2026-district-court-seat-01-sutton-watsi",
+          "name": "Watsi M. Sutton",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 3, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-pitt-2026-district-court-seat-02-teague-lee",
+          "name": "Lee Teague",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Pitt Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-pitt-2026-soil-water-briley-carl",
+          "name": "Carl A. Briley, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pitt-2026-soil-water-wilcox-marvion",
+          "name": "Marvion Wilcox",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pitt-2026-soil-water-sutton-walter",
+          "name": "Walter Steve Sutton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pitt-2026-soil-water-larsen-robert",
+          "name": "Robert Larsen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-pitt-2026-soil-water-hobbs-rochelle",
+          "name": "Rochelle Hobbs",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

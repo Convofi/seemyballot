@@ -1,0 +1,197 @@
+{
+  "state": "NC",
+  "county": "Brunswick County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.brunswickcountync.gov/1053/2026-Elections",
+    "https://www.brunswickcountync.gov/DocumentCenter/View/7771",
+    "https://www.brunswickcountync.gov/DocumentCenter/View/7772"
+  ],
+  "note": "Brunswick County's two official 2026 sample ballots (one per NC House district, together covering the county) both carry Board of Commissioners Districts 1 and 2 and Board of Education Districts 3 and 5, so every county voter votes on those seats (candidates must live in the district). Not shown: state legislative and U.S. House districts and town races; check your official sample ballot for those. Incumbent flags are not set because we could not reach an official roster.",
+  "contests": [
+    {
+      "office": "Brunswick County Board of Commissioners District 1",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-commissioner-district-01-thompson-randell",
+          "name": "Randy Thompson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-brunswick-2026-commissioner-district-01-woods-gary",
+          "name": "Gary Woods",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Brunswick County Board of Commissioners District 2",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-commissioner-district-02-hewett-patti",
+          "name": "Patti Hewett",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-brunswick-2026-commissioner-district-02-singer-sara",
+          "name": "Sara Singer",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Brunswick County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-sheriff-chism-brian",
+          "name": "Brian M. Chism",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Brunswick County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-clerk-superior-court-madon-katherine",
+          "name": "Katie Madon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 15",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-district-attorney-somers-james",
+          "name": "J.K. Somers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 15, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-district-court-seat-02-wilson-bryan",
+          "name": "Bryan D. Wilson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 15, Seat 5",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-district-court-seat-05-callihan-willie",
+          "name": "Will M. Callihan, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 15, Seat 7",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-district-court-seat-07-mcpherson-sarah",
+          "name": "Sarah McPherson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Brunswick County Board of Education District 3",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-board-of-education-district-03-duncan-susanne",
+          "name": "Susanne Duncan",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-brunswick-2026-board-of-education-district-03-morgan-paige",
+          "name": "Paige Morgan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Brunswick County Board of Education District 5",
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-board-of-education-district-05-rupp-brian",
+          "name": "Brian D. Rupp",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-brunswick-2026-board-of-education-district-05-gainey-steven",
+          "name": "Steve Gainey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Brunswick Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-brunswick-2026-soil-water-clemmons-jody",
+          "name": "Jody E. Clemmons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-brunswick-2026-soil-water-barbee-michael",
+          "name": "Mike Barbee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-brunswick-2026-soil-water-street-anthony",
+          "name": "Anthony Street",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Brunswick County School Bonds Referendum",
+      "title": "Brunswick County School Bonds",
+      "summary": "Asks whether Brunswick County may issue up to $349,600,000 in bonds to build, improve and renovate school facilities, including classrooms, furnishings and equipment, land and rights-of-way, and related public infrastructure. The official ballot statement estimates the total cost over the life of the bonds at $545,767,552 ($349,600,000 principal plus $196,167,552 interest) and the property tax increase needed to repay them at $54.66 per year per $100,000 of property value. If approved, the county may levy additional property taxes sufficient to pay the principal and interest.",
+      "yesMeans": "Brunswick County may issue up to $349,600,000 in school bonds and levy property taxes sufficient to repay them.",
+      "noMeans": "Brunswick County may not issue these $349,600,000 in school bonds.",
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+      "moreInfo": "https://www.brunswickcountync.gov/1053/2026-Elections"
+    }
+  ],
+  "municipalities": {}
+}

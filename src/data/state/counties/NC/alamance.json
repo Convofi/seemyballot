@@ -1,0 +1,217 @@
+{
+  "state": "NC",
+  "county": "Alamance County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/2026_general_candidate_list_by_contest.pdf",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv",
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/referendums_20261103.pdf",
+    "https://www.alamancecountync.gov/government/board_of_commissioners/commissioner_contact.php"
+  ],
+  "note": "Not shown: town races and state legislative and U.S. House districts; check your official sample ballot for those. Burlington city offices are not on the 2026 ballot, and the only referendums in Alamance County are the three statewide constitutional amendments. Incumbent flags are set only where the county's own website confirms the officeholder (Commissioners Kelly Allen, Steve Carter and Sam Powell); others are marked false.",
+  "contests": [
+    {
+      "office": "Alamance County Board of Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-commissioner-ewing-sean",
+          "name": "Sean C. Ewing",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-commissioner-allen-wilbernetta",
+          "name": "Ramona Allen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-commissioner-carter-steven",
+          "name": "Steve Carter",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "nc-alamance-2026-commissioner-allen-kelly",
+          "name": "Kelly Allen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Alamance County Board of Commissioners (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-commissioner-unexpired-royster-kourtney",
+          "name": "Kourtney J. Royster",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-commissioner-unexpired-powell-samuel",
+          "name": "Samuel C. Powell",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Alamance County Sheriff",
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-sheriff-johnson-terry",
+          "name": "Terry S. Johnson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-sheriff-long-shannon",
+          "name": "Shannon Long",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Alamance County Clerk of Superior Court",
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-clerk-superior-court-culler-kristie",
+          "name": "Kristie Miller Culler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "District Attorney, District 17",
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-district-attorney-drorbaugh-scott",
+          "name": "Scott Wells Drorbaugh",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-district-attorney-boone-haley",
+          "name": "Sean Boone",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 17, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-superior-court-seat-01-green-clifton",
+          "name": "Doug Green",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC Superior Court Judge, District 17, Seat 2",
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-superior-court-seat-02-turner-william",
+          "name": "Craig Turner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "NC District Court Judge, District 17, Seat 1",
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-district-court-seat-01-ray-bryan",
+          "name": "Bryan Ray",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Alamance-Burlington Board of Education",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-board-of-education-frazier-katharine",
+          "name": "Katharine Frazier",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-board-of-education-enoch-stephanie",
+          "name": "Stephanie Long Enoch",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-board-of-education-whittaker-brandy",
+          "name": "Brandy Whittaker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-board-of-education-ward-kyle",
+          "name": "Kyle Ward",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-board-of-education-parker-charles",
+          "name": "Charles Parker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-board-of-education-khan-samira",
+          "name": "Samira Khan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-board-of-education-hall-eric",
+          "name": "Eric Hall",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    },
+    {
+      "office": "Alamance Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nc-alamance-2026-soil-water-reid-richard",
+          "name": "Ricky N. Reid",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nc-alamance-2026-soil-water-holliday-william",
+          "name": "Willie Holliday",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
