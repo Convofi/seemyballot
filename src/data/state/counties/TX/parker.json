@@ -1,0 +1,117 @@
+{
+  "state": "TX",
+  "county": "Parker County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.parkercountytx.gov/477/Sample-Ballots",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14212",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14200",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14201",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14202",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14203",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14204",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14205",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14206",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14207",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14208",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14209",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14210",
+    "https://www.parkercountytx.gov/DocumentCenter/View/14211",
+    "https://www.parkercountytx.gov/DocumentCenter/View/10188"
+  ],
+  "note": "From the Parker County Elections Office's November 3, 2026 sample ballots (all 12 ballot styles posted plus the super ballot; the county-level offices shown appear on every style). Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1-4, U.S. House (Districts 12 and 25), State House and other legislative districts, school board trustee races (e.g. Poolville, Garner and Perrin-Whitt ISDs), and City of Willow Park Propositions A and B. No Parker Appraisal District board race appears on the sample ballots. The City of Weatherford has no item on the sample ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's officeholder list names the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-parker-2026-coa2-p2-taylor-chris",
+          "name": "Chris Taylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.parkercountytx.gov/DocumentCenter/View/14200"
+    },
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-parker-2026-coa2-p7-walker-brian",
+          "name": "Brian Walker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.parkercountytx.gov/DocumentCenter/View/14200"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-parker-2026-county-judge-deen-pat",
+          "name": "Pat Deen",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-parker-2026-county-judge-simms-richard",
+          "name": "Richard Simms",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.parkercountytx.gov/DocumentCenter/View/14200"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-parker-2026-ccl1-martin-kirk",
+          "name": "Kirk D. Martin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.parkercountytx.gov/DocumentCenter/View/14200"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-parker-2026-district-clerk-gilliland-sharena",
+          "name": "Sharena Gilliland",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.parkercountytx.gov/DocumentCenter/View/14200"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-parker-2026-county-clerk-deakle-lila",
+          "name": "Lila Deakle",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.parkercountytx.gov/DocumentCenter/View/14200"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-parker-2026-treasurer-mccullough-becky",
+          "name": "Becky McCullough",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.parkercountytx.gov/DocumentCenter/View/14200"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

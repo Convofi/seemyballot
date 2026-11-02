@@ -1,0 +1,498 @@
+{
+  "state": "TX",
+  "county": "Ector County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.ectorcountytx.gov/271/Elections",
+    "https://www.ectorcountytx.gov/DocumentCenter/View/3246",
+    "https://www.ectorcountytx.gov/DocumentCenter/View/3247",
+    "https://www.ectorcountytx.gov/DocumentCenter/View/3238",
+    "https://www.ectorcountytx.gov/DocumentCenter/View/3234",
+    "https://www.ectorcountytx.gov/DocumentCenter/View/3402",
+    "https://www.ectorcountytx.gov/188/County-Judge",
+    "https://www.ectorcountytx.gov/187/County-Courts-at-Law"
+  ],
+  "note": "From the Ector County Elections Office's November 3, 2026 precinct sample ballots (county-level offices confirmed on four ballot styles across all commissioner precincts). Not shown because they depend on your precinct or district: County Commissioner and Justice of the Peace races, U.S. House, State Senate, State House and State Board of Education districts, and City of Odessa Council District 4. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. City of Odessa Propositions A through RR are shown for Odessa; the charter amendment summaries paraphrase the ballot language, so read the full text on your sample ballot. Incumbent flags are set only where the county's office pages list the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 11th Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-coa11-p2-williams-bruce",
+          "name": "Bruce Williams",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "District Judge, 70th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-dj70-whalen-denn",
+          "name": "Denn Whalen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "District Judge, 244th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-dj244-ruiz-crutcher-lori",
+          "name": "Lori Ruiz-Crutcher",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "District Judge, 358th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-dj358-shrode-john",
+          "name": "John Floyd Shrode",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-county-judge-fawcett-dustin",
+          "name": "Dustin Fawcett",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-ccl1-hendricks-brooke",
+          "name": "Brooke D. Hendricks",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-ccl2-clark-christopher",
+          "name": "Christopher M. Clark",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-district-clerk-navarrette-guadalupe",
+          "name": "Guadalupe 'Lupita' Navarrette",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-county-clerk-martin-jennifer",
+          "name": "Jennifer Martin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-ector-2026-treasurer-snyder-amanda",
+          "name": "Amanda Prieto Snyder",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Odessa": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Odessa Sports Complex venue project and hotel occupancy tax",
+          "summary": "The ballot states: \"THIS IS A TAX INCREASE.\" It asks voters to authorize the City of Odessa to designate a new multipurpose sports venue known as the Odessa Sports Complex, with related infrastructure, as a venue project under Chapter 334 of the Texas Local Government Code, and to impose a new hotel occupancy tax of up to 2.0% to finance it. If approved, the maximum hotel occupancy tax rate from all sources in the city would be 17.0% of the price paid for a room.",
+          "yesMeans": "The city may designate the venue project and levy an additional hotel occupancy tax of up to 2.0% to finance it.",
+          "noMeans": "The venue project is not authorized and the additional hotel occupancy tax is not imposed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition B",
+          "title": "Charter amendment: Removal of out-of-date sections",
+          "summary": "Asks whether the City of Odessa Home Rule Charter should be amended by removing Sections 17, 18, 91, 94 and 96 as excess or out-of-date language and language contrary to state or federal law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition C",
+          "title": "Charter amendment: Corporate name",
+          "summary": "Asks whether Section 1 of the City of Odessa Home Rule Charter (corporate name) should be amended to clarify that the city lies within both Ector and Midland Counties.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition D",
+          "title": "Charter amendment: Extension of boundaries",
+          "summary": "Asks whether Section 3 of the City of Odessa Home Rule Charter (extension of boundaries) should be amended to remove excess language, rename the section to authorize extension and contraction of city boundaries, and set procedures for disannexation of territory under state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition E",
+          "title": "Charter amendment: General powers",
+          "summary": "Asks whether Section 5 of the City of Odessa Home Rule Charter (general powers) should be amended to clarify the city's general authority as a home rule municipality under Texas law, including full power of self-government and all express and implied powers in accordance with state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition F",
+          "title": "Charter amendment: Real estate owned by the city",
+          "summary": "Asks whether Section 8 of the City of Odessa Home Rule Charter (real estate owned by the city) should be amended to remove excess, unnecessary language from the section's title.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition G",
+          "title": "Charter amendment: Liability for negligence",
+          "summary": "Asks whether Section 12 of the City of Odessa Home Rule Charter (liability for negligence) should be amended to clarify the section's title, remove excess language, clarify the procedure for giving notice of claims to the city, and provide for immunities from liability under Texas law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition H",
+          "title": "Charter amendment: Right of eminent domain",
+          "summary": "Asks whether Section 14 of the City of Odessa Home Rule Charter (right of eminent domain) should be amended to remove excess language and clarify that the city has the right of eminent domain only to the extent authorized by state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition I",
+          "title": "Charter amendment: Street powers",
+          "summary": "Asks whether Section 15 of the City of Odessa Home Rule Charter (street powers) should be amended to clarify that the city has exclusive control and jurisdiction over city streets.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition J",
+          "title": "Charter amendment: Franchises",
+          "summary": "Asks whether Section 22 of the City of Odessa Home Rule Charter (franchises) should be amended to delete the requirement that an ordinance granting a franchise to a public utility be presented to the City Council and read twice before adoption.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition K",
+          "title": "Charter amendment: Fires",
+          "summary": "Asks whether Section 26 of the City of Odessa Home Rule Charter (fires) should be amended to delete excess or out-of-date language and add provisions requiring the city to maintain a full-time active fire department.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition L",
+          "title": "Charter amendment: Health",
+          "summary": "Asks whether Section 27 of the City of Odessa Home Rule Charter (health) should be amended to delete excess or out-of-date language, delete language on regulating professions regulated exclusively by the state, and provide that the city may set rules to prohibit nuisances and protect public health as authorized by state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition M",
+          "title": "Charter amendment: Police department",
+          "summary": "Asks whether Section 28 of the City of Odessa Home Rule Charter (police department) should be amended to delete excess language and add provisions requiring the city to maintain a full-time active police department.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition N",
+          "title": "Charter amendment: Power to compromise and settle claims and lawsuits",
+          "summary": "Asks whether Section 29 of the City of Odessa Home Rule Charter (power to compromise and settle claims and lawsuits) should be amended to eliminate a conflict with the Texas Constitution.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition O",
+          "title": "Charter amendment: Contracts",
+          "summary": "Asks whether Section 30 of the City of Odessa Home Rule Charter (contracts) should be amended to eliminate the requirement that only the mayor may sign instruments of conveyance such as deeds and bonds, and instead allow the City Council to designate who signs deeds, bonds and contracts for the city.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition P",
+          "title": "Charter amendment: Planning and zoning commission",
+          "summary": "Asks whether Section 33 of the City of Odessa Home Rule Charter (planning and zoning commission) should be amended to provide that Planning and Zoning Commission members must be qualified voters and residents of the city, remove the requirement that they have the same qualifications as council members and be real property taxpayers, and remove excess and out-of-date language.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition Q",
+          "title": "Charter amendment: Removal from commission; vacancies",
+          "summary": "Asks whether Section 34 of the City of Odessa Home Rule Charter (removal from commission; vacancies) should be amended to clarify the section's title and the City Council's exclusive authority to remove a Planning and Zoning Commission member for any reason at its discretion.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition R",
+          "title": "Charter amendment: Planning and zoning commission powers",
+          "summary": "Asks whether Section 35 of the City of Odessa Home Rule Charter (planning and zoning commission powers) should be amended to require the Planning and Zoning Commission to review and recommend changes to the city's comprehensive plan at least every five years beginning in 2028.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition S",
+          "title": "Charter amendment: City council members and mayor; how to get name on ballot",
+          "summary": "Asks whether Section 45 of the City of Odessa Home Rule Charter (city council members and mayor; how to get name on ballot) should be amended to eliminate the charter's own deadlines for requests to be placed on the ballot and provide that applications are subject to the deadlines and requirements of state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition T",
+          "title": "Charter amendment: Election of city council members",
+          "summary": "Asks whether Section 46 of the City of Odessa Home Rule Charter (election of city council members) should be amended to clarify the section's title, eliminate out-of-date language, provide that time spent filling a vacancy does not count toward term limits, and provide for disqualification and forfeiture of office upon conviction of a felony or a crime involving moral turpitude.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition U",
+          "title": "Charter amendment: Runoff elections",
+          "summary": "Asks whether Section 47 of the City of Odessa Home Rule Charter (runoff elections) should be amended to delete excess and out-of-date language and provide that runoff elections are conducted under the Texas Election Code.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition V",
+          "title": "Charter amendment: Judge of election",
+          "summary": "Asks whether Section 48 of the City of Odessa Home Rule Charter (judge of election) should be amended to delete excess language and clarify that the canvass of the election takes place as required by Texas law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition W",
+          "title": "Charter amendment: Date of election",
+          "summary": "Asks whether Section 49 of the City of Odessa Home Rule Charter (date of election) should be amended to provide that city elections take place on a uniform election date as required by Texas law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition X",
+          "title": "Charter amendment: Officers' oath and bond",
+          "summary": "Asks whether Section 50 of the City of Odessa Home Rule Charter (officers' oath and bond) should be amended to provide that officers elected to City Council take office at the first regular council meeting after the canvass and may take oaths as required by Texas law at any time after the election is certified.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition Y",
+          "title": "Charter amendment: Vacancies",
+          "summary": "Asks whether Section 52 of the City of Odessa Home Rule Charter (vacancies) should be amended to provide that the procedure for filling a City Council vacancy follows the exact language of the Texas Constitution.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition Z",
+          "title": "Charter amendment: Mayor pro tem",
+          "summary": "Asks whether Section 53 of the City of Odessa Home Rule Charter (mayor pro tem) should be amended to require that a single mayor pro tem be selected from among current council members at the first regular meeting each January.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition AA",
+          "title": "Charter amendment: Compensation of council members",
+          "summary": "Asks whether Section 54 of the City of Odessa Home Rule Charter (compensation of council members) should be amended to let the City Council approve monthly compensation of up to $4,000 for the mayor and $2,000 for other council members, set by an ordinance taking effect in the January after an election, and to allow reimbursement of expenses incurred in official duties.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition BB",
+          "title": "Charter amendment: Duties of mayor",
+          "summary": "Asks whether Section 55 of the City of Odessa Home Rule Charter (duties of mayor) should be amended to clarify that the mayor is head of city government for ceremonial purposes, has no administrative duties, and has emergency powers as provided by Texas law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition CC",
+          "title": "Charter amendment: Duties of city council",
+          "summary": "Asks whether Section 56 of the City of Odessa Home Rule Charter (duties of city council) should be amended to clarify that the City Council has sole authority to appoint certain city employees and sets salaries only for employees it appoints.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition DD",
+          "title": "Charter amendment: Rules of city council and required attendance",
+          "summary": "Asks whether Section 59 of the City of Odessa Home Rule Charter (rules of city council and required attendance) should be amended to delete duplicative language about filling a vacancy on the council.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition EE",
+          "title": "Charter amendment: Ordinances; enactment of",
+          "summary": "Asks whether Section 61 of the City of Odessa Home Rule Charter (ordinances; enactment of) should be amended to clarify the section's title and delete the requirement that each ordinance be presented to the council twice before adoption unless it is an emergency measure.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition FF",
+          "title": "Charter amendment: Emergency measures defined",
+          "summary": "Asks whether Section 62 of the City of Odessa Home Rule Charter, which defines the term 'emergency measures' used in Section 61, should be removed if voters approve the amendment of Section 61 eliminating the requirement that an ordinance be presented to the council twice before adoption.",
+          "yesMeans": "Section 62 is removed (if the Section 61 amendment is also approved).",
+          "noMeans": "Section 62 stays in the charter.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition GG",
+          "title": "Charter amendment: Ordinance; publication of",
+          "summary": "Asks whether Section 65 of the City of Odessa Home Rule Charter (ordinance; publication of) should be amended to clarify the section's title, eliminate excess language, and provide that ordinances are published as required by Texas law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition HH",
+          "title": "Charter amendment: City manager",
+          "summary": "Asks whether Section 66 of the City of Odessa Home Rule Charter (city manager) should be amended to provide that the city manager is responsible for all city affairs and operations, consistent with the charter, city ordinances, and Texas law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition II",
+          "title": "Charter amendment: City secretary",
+          "summary": "Asks whether Section 67 of the City of Odessa Home Rule Charter (city secretary) should be amended to delete the requirement that the city secretary reside in the City of Odessa.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition JJ",
+          "title": "Charter amendment: Municipal court",
+          "summary": "Asks whether Section 68 of the City of Odessa Home Rule Charter (municipal court) should be amended to delete any requirement that the municipal court judge reside in the City of Odessa and provide that the court clerk is under the general supervision of the municipal court judge as provided by Texas law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition KK",
+          "title": "Charter amendment: Audit and examination of books and accounts",
+          "summary": "Asks whether Section 71 of the City of Odessa Home Rule Charter (audit and examination of books and accounts) should be amended to delete excess language and provide that the audit of the city's books and accounts is performed as required by state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition LL",
+          "title": "Charter amendment: Tax levies",
+          "summary": "Asks whether Section 74 of the City of Odessa Home Rule Charter (tax levies) should be amended to delete excess and out-of-date language and provide that tax levies are made only in accordance with the Texas Constitution and state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition MM",
+          "title": "Charter amendment: Recall; generally",
+          "summary": "Asks whether Section 85 of the City of Odessa Home Rule Charter (recall; generally) should be amended to reduce the minimum number of voters required to sign a recall petition, remove out-of-date language, clarify the information a petitioner must provide, and require the city secretary to review and process petitions within a reasonable time.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition NN",
+          "title": "Charter amendment: Initiative",
+          "summary": "Asks whether Section 86 of the City of Odessa Home Rule Charter (initiative) should be amended to reduce the minimum number of signatures required on an initiative petition, remove out-of-date language, require the city secretary to process petitions within a reasonable time, and provide for submission to voters at the next municipal election.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition OO",
+          "title": "Charter amendment: Referendum",
+          "summary": "Asks whether Section 87 of the City of Odessa Home Rule Charter (referendum) should be amended to reduce the minimum number of signatures on a referendum petition, remove out-of-date language, require the city secretary to process petitions within a reasonable time, and clarify that a referendum goes to voters at the next uniform municipal election date under state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition PP",
+          "title": "Charter amendment: Qualified voters",
+          "summary": "Asks whether Section 90 of the City of Odessa Home Rule Charter (qualified voters) should be amended to remove the six-month residency requirement so that who is a qualified voter is determined by state law.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition QQ",
+          "title": "Charter amendment: Charter review commission",
+          "summary": "Asks whether the City of Odessa Home Rule Charter should be amended by adding a requirement that the City Council appoint a Charter Review Commission to review the charter every five years beginning January 2030.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        },
+        {
+          "id": "Proposition RR",
+          "title": "Charter amendment: Charter construction",
+          "summary": "Asks whether the City of Odessa Home Rule Charter should be amended by adding a provision on interpreting and construing the charter and authorizing the City Council to make non-substantive revisions and edits to the charter.",
+          "yesMeans": "The charter change is adopted.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.ectorcountytx.gov/DocumentCenter/View/3246"
+        }
+      ]
+    }
+  }
+}

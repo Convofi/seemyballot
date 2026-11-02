@@ -1,0 +1,177 @@
+{
+  "state": "TX",
+  "county": "Kaufman County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.kaufmancounty.net/434/Current-Election-Information",
+    "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot",
+    "https://www.kaufmancounty.net/DocumentCenter/View/12023/List-of-Declared-Write-Ins"
+  ],
+  "note": "From the Kaufman County Elections Department's November 3, 2026 combined joint sample ballot (every contest in the county in one document) and declared write-in list. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1-4, U.S. House, State Senate, State House and State Board of Education districts, city items (e.g. the City of Forney bond and charter propositions and the City of Crandall propositions), emergency services district items, and MUD elections. City items for Kaufman and Forney are not covered in this file. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's office pages name the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-coa5-p3-kolodoski-matthew",
+          "name": "Matthew Kolodoski",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-kaufman-2026-coa5-p3-reicheck-amanda",
+          "name": "Amanda Reicheck",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-coa5-p6-smith-ben",
+          "name": "Ben Smith",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-kaufman-2026-coa5-p6-purdy-monica",
+          "name": "Monica Purdy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 8",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-coa5-p8-wysocki-ashley",
+          "name": "Ashley Wysocki",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-kaufman-2026-coa5-p8-plumlee-andrea",
+          "name": "Andrea D. Plumlee",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "District Judge, 86th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-dj86-blair-casey",
+          "name": "Casey Blair",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-criminal-da-wiley-erleigh",
+          "name": "Erleigh N. Wiley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-county-judge-allen-jakie",
+          "name": "Jakie Allen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-ccl1-russell-joseph",
+          "name": "Joseph Russell",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-ccl2-rich-bobby",
+          "name": "Bobby Rich",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-district-clerk-hughey-rhonda",
+          "name": "Rhonda Gayle Hughey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-county-clerk-hughes-laura",
+          "name": "Laura Hughes",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-treasurer-mohnkern-chuck",
+          "name": "Chuck Mohnkern",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "tx-kaufman-2026-surveyor-sjerven-greg",
+          "name": "Greg Sjerven",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.kaufmancounty.net/DocumentCenter/View/12022/261103-Joint-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
