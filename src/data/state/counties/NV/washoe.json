@@ -1,0 +1,386 @@
+{
+  "state": "NV",
+  "county": "Washoe County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf",
+    "https://www.washoecounty.gov/voters/files/Washoe%20County%202026%20General%20Election%20Contests.xlsx",
+    "https://www.washoecounty.gov/voters/files/2026%20General%20Ballot%20Questions.pdf",
+    "https://www.washoecounty.gov/voters/electeds/index.php"
+  ],
+  "note": "Not shown: County Commission Districts 2, 3 and 5; Nevada Board of Regents District 10; Reno City Council Wards 2 and 4; Sparks city races; and Incline Village, Palomino Valley and Verdi TV district boards. Check your official sample ballot for these. The Sheriff's office is not on the November ballot, and there is no City of Reno ballot question. Supreme Court Seats B and D and State Questions 6 and 7 are statewide.",
+  "contests": [
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-assessor-sarman-chris",
+          "name": "Chris Sarman",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-clerk-mcdowell-sean",
+          "name": "Sean McDowell",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nv-washoe-2026-clerk-meyer-duane",
+          "name": "Duane Meyer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "County District Attorney",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-da-duncan-wes",
+          "name": "Wes Duncan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "County Public Administrator",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-pubadmin-jorgensen-blaise",
+          "name": "Blaise Jorgensen",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nv-washoe-2026-pubadmin-klitzke-nicole",
+          "name": "Nicole Klitzke",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-recorder-work-kalie",
+          "name": "Kalie Work",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-treasurer-taylor-justin",
+          "name": "Justin Taylor",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 1",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc01-dreiling-derek",
+          "name": "Derek C. Dreiling",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-washoe-2026-dc01-gorman-edmund",
+          "name": "Edmund \"Joe\" Gorman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 2 (Family Court)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc02-grossman-dixie",
+          "name": "Dixie Grossman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 3",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc03-riggs-tammy",
+          "name": "Tammy M. Riggs",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 4",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc04-steinheimer-connie",
+          "name": "Connie Steinheimer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 5 (Family Court)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc05-riley-kristine",
+          "name": "Kristine E. \"Kris\" Riley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 6",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc06-jones-lynne",
+          "name": "Lynne Jones",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 7",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc07-walker-egan",
+          "name": "Egan K. Walker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 8",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc08-breslow-barry",
+          "name": "Barry Breslow",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 9",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc09-freeman-scott",
+          "name": "Scott Freeman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 10",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc10-sigurdson-kathleen",
+          "name": "Kathleen A. Sigurdson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 11 (Family Court)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc11-dollinger-paige",
+          "name": "Paige Dollinger",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 12 (Family Court)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc12-unsworth-sandra",
+          "name": "Sandra A. Unsworth",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 13 (Family Court)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc13-morey-alexander",
+          "name": "Alexander C. Morey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-washoe-2026-dc13-white-lance",
+          "name": "Lance White",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 14 (Family Court)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc14-schreinert-tamatha",
+          "name": "Tamatha Schreinert",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 15",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc15-hardy-david",
+          "name": "David A. Hardy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "District Court Judge, Second Judicial District, Department 16 (Family Court)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-dc16-banales-aimee",
+          "name": "Aimee E. Banales",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    },
+    {
+      "office": "Washoe County School Board, District F (At-Large)",
+      "candidates": [
+        {
+          "key": "nv-washoe-2026-school-board-f-harvey-sheena",
+          "name": "Sheena R. Harvey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nv-washoe-2026-school-board-f-westlake-brooke",
+          "name": "Brooke M. Westlake",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Washoe County Advisory Ballot Question No. 1",
+      "title": "Streets and Highways Funding Advisory Question (annual road use fee on electric and hybrid vehicles)",
+      "summary": "An advisory, non-binding question asking whether voters support an annual, inflation-adjusted road use fee on electric and hybrid passenger vehicles registered in Washoe County, set to approximate what gasoline vehicle owners pay in local fuel taxes. Revenue would go to the Regional Transportation Commission of Washoe County for transportation projects, with annual audits. The result would be reported to the Nevada Legislature, which would have to pass a law before any such fee could be enacted.",
+      "yesMeans": "Advises lawmakers that you approve the Legislature authorizing an annual fee on electric and hybrid passenger vehicles in Washoe County.",
+      "noMeans": "Advises lawmakers that you do not approve the Legislature authorizing such a fee.",
+      "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf",
+      "moreInfo": "https://www.washoecounty.gov/voters/files/2026%20General%20Ballot%20Questions.pdf"
+    }
+  ],
+  "municipalities": {
+    "Reno": {
+      "contests": [
+        {
+          "office": "Reno City Mayor",
+          "candidates": [
+            {
+              "key": "nv-washoe-2026-reno-mayor-marshall-kate",
+              "name": "Kate Marshall",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nv-washoe-2026-reno-mayor-taylor-kathleen",
+              "name": "Kathleen Taylor",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+        },
+        {
+          "office": "Reno City Attorney",
+          "candidates": [
+            {
+              "key": "nv-washoe-2026-reno-city-attorney-bogale-zee",
+              "name": "Zee Bogale",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+        },
+        {
+          "office": "Reno Municipal Court Judge, Department 1",
+          "candidates": [
+            {
+              "key": "nv-washoe-2026-reno-muni-d1-gianoli-angela",
+              "name": "Angela \"Angie\" Gianoli",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "nv-washoe-2026-reno-muni-d1-hubach-jenny",
+              "name": "Jenny Diane Hubach",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washoecounty.gov/voters/files/Washoe%20General%20Sample%20Ballot%20Booklet%20English.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

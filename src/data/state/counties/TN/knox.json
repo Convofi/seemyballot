@@ -1,0 +1,27 @@
+{
+  "state": "TN",
+  "county": "Knox County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.knoxcounty.org/election/pdfs/Revised_KnoxCo-SampleBallot_110326.pdf",
+    "https://www.knoxcounty.org/election/"
+  ],
+  "note": "No countywide contests or measures are on the November 3, 2026 Knox County ballot (county offices were elected in August 2026). The only local item on the official countywide sample ballot is a City of Knoxville charter amendment, which only Knoxville voters see. The Town of Farragut has no race or question on this ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Knoxville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City Charter Amendment",
+          "title": "Charter Amendment Pertaining to the Election of City Council (Ordinance No. O-62-2026)",
+          "summary": "Would amend Article VII, Sections 707(B) and 707(C) of the Knoxville City Charter. A City Council candidate who receives a majority of all votes cast in the primary for the designated seat would be declared elected without a runoff, and would be issued a certificate of election. The Chief Financial Officer's cost estimate for the amendment is $0.",
+          "yesMeans": "A City Council candidate who wins a majority of all primary votes for a seat is elected outright, without a later runoff.",
+          "noMeans": "Sections 707(B) and 707(C) of the City Charter are not amended and the current City Council election process stays in place.",
+          "source": "https://www.knoxcounty.org/election/pdfs/Revised_KnoxCo-SampleBallot_110326.pdf"
+        }
+      ]
+    }
+  }
+}

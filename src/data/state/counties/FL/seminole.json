@@ -1,0 +1,32 @@
+{
+  "state": "FL",
+  "county": "Seminole County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voteseminole.gov/candidates/current-candidates/",
+    "https://voteseminole.gov/wp-content/uploads/2026/09/2026-Primary-Election-Results-Summary.pdf",
+    "https://voteseminole.gov/wp-content/uploads/2026/04/UPDATED2026-Election-Facts.pdf",
+    "https://www.seminolecountyfl.gov/departments-services/board-of-county-commissioners"
+  ],
+  "note": "Seminole County commissioners are elected by the county at large. The Supervisor of Elections does not publish a composite sample ballot (only personalized ones), so this file lists only the candidate contests its official candidate list marks as November races. Not verified, so not shown: any District Court of Appeal retention questions, and any county, city or special-district ballot questions. Also not shown: city commission races in Altamonte Springs, Casselberry and Winter Springs. Sanford's mayor was elected in August; no Sanford race is listed for November. School Board, circuit judge and County Court Group 3 races were decided in August. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner District 4 (countywide)",
+      "candidates": [
+        { "key": "fl-seminole-2026-bocc-d4-lockhart-amy", "name": "Amy Lockhart", "party": "Republican", "incumbent": true },
+        { "key": "fl-seminole-2026-bocc-d4-santos-charline", "name": "Charline Santos", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://voteseminole.gov/candidates/current-candidates/"
+    },
+    {
+      "office": "County Court Judge, Group 6",
+      "candidates": [
+        { "key": "fl-seminole-2026-county-judge-g6-chaban-alena", "name": "Alena Chaban", "party": "Nonpartisan", "incumbent": false },
+        { "key": "fl-seminole-2026-county-judge-g6-culver-wayne", "name": "Wayne Culver", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://voteseminole.gov/candidates/current-candidates/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
