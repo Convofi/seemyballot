@@ -1,0 +1,74 @@
+{
+  "state": "NE",
+  "county": "Lancaster County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf",
+    "https://www.lancaster.ne.gov/314/Election-Commissioner"
+  ],
+  "note": "Only the judicial retention questions for District Court District Three and County Court District Three are shown here. They come from the Nebraska Secretary of State's official retention list, and every Lancaster County voter votes on them. Lancaster County offices and the City of Lincoln charter amendments are also on this ballot but are not shown: the Lancaster County Election Commissioner's candidate listing and sample ballot (lancaster.ne.gov) and the City of Lincoln site could not be reached on 2026-11-01. Also not shown because they depend on your district: County Board districts, the Court of Appeals District 2 retention question, Legislature, Public Service Commission, State Board of Education and University Board of Regents districts, Southeast Community College, Lower Platte South NRD, Lincoln Airport Authority, school boards and village offices. Check your sample ballot with the Lancaster County Election Commissioner.",
+  "contests": [
+    {
+      "office": "Lancaster County District Court, District Three — retain Judge Darla Ideus? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-lancaster-2026-retain-district-court-ideus-darla",
+          "name": "Darla Ideus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+    },
+    {
+      "office": "Lancaster County District Court, District Three — retain Judge Andrew Jacobsen? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-lancaster-2026-retain-district-court-jacobsen-andrew",
+          "name": "Andrew Jacobsen",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+    },
+    {
+      "office": "Lancaster County District Court, District Three — retain Judge Kevin R. McManaman? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-lancaster-2026-retain-district-court-mcmanaman-kevin",
+          "name": "Kevin R. McManaman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+    },
+    {
+      "office": "Lancaster County District Court, District Three — retain Judge Matthew O. Mellor? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-lancaster-2026-retain-district-court-mellor-matthew",
+          "name": "Matthew O. Mellor",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+    },
+    {
+      "office": "Lancaster County Court, District Three — retain Judge Rodney D. Reuter? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-lancaster-2026-retain-county-court-reuter-rodney",
+          "name": "Rodney D. Reuter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

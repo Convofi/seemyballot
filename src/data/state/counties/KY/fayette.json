@@ -1,0 +1,272 @@
+{
+  "state": "KY",
+  "county": "Fayette County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf",
+    "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/08/03090121/Charter-Questions-for-Ballot.pdf",
+    "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2025/10/09031912/Elected-Officials-Aug-2025.pdf",
+    "https://fayettekyclerk.gov/elections/candidates/",
+    "https://web.sos.ky.gov/CandidateFilings/Default.aspx?id=17"
+  ],
+  "note": "Lexington and Fayette County are consolidated as the Lexington-Fayette Urban County Government, so the Urban County Mayor, at-large council seats and charter amendments are shown at the county level. Not shown because they depend on districts the address lookup cannot resolve: Urban County Council Districts 1-12, County Commissioner, Magistrate and Constable districts, and Fayette County Board of Education Divisions 2 and 4. No Circuit Court or Supreme Court seat for Fayette County is on the 2026 ballot. Incumbent flags follow the Fayette County Clerk's list of elected officials (August 2025). Gary Roland (County Surveyor) is a write-in candidate and is not printed on the ballot. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Urban County Mayor",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-mayor-gorton-linda",
+          "name": "Linda Gorton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ky-fayette-2026-mayor-carter-raquel",
+          "name": "Raquel E. Carter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "Urban County Council At-Large",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-council-at-large-ohmer-william",
+          "name": "William Tate Ohmer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-fayette-2026-council-at-large-lynn-herbert",
+          "name": "Herbert Lynn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-fayette-2026-council-at-large-shafer-christopher",
+          "name": "Christopher Shafer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-fayette-2026-council-at-large-brown-james",
+          "name": "James Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ky-fayette-2026-council-at-large-wu-dan",
+          "name": "Dan Wu",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ky-fayette-2026-council-at-large-spires-stephanie",
+          "name": "Stephanie Aschmann Spires",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-pva-oneill-david",
+          "name": "David ONeill",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-judge-exec-hanna-mary",
+          "name": "Mary Diane McCord Hanna",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-county-attorney-evans-angela",
+          "name": "Angela Evans",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-county-clerk-lamb-susan",
+          "name": "Susan Lamb",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-sheriff-witt-kathy",
+          "name": "Kathy H. Witt",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-coroner-ginn-gary",
+          "name": "Gary Ginn",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-surveyor-roland-gary",
+          "name": "Gary Roland",
+          "party": "Nonpartisan",
+          "incumbent": true,
+          "writeIn": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 5th Appellate District, Division 1",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-coa5-div1-vanmeter-lucy",
+          "name": "Lucy Ferguson VanMeter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-fayette-2026-coa5-div1-moynahan-will",
+          "name": "Will Moynahan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "District Judge, 22nd Judicial District, 1st Division",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-district-judge-div1-gunther-denotra",
+          "name": "Denotra Spruill Gunther",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "District Judge, 22nd Judicial District, 2nd Division",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-district-judge-div2-garcia-alex",
+          "name": "Alex Garcia",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ky-fayette-2026-district-judge-div2-brooks-shannon",
+          "name": "Shannon Brooks",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "District Judge, 22nd Judicial District, 3rd Division",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-district-judge-div3-thurston-lindsay",
+          "name": "Lindsay Hughes Thurston",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "District Judge, 22nd Judicial District, 4th Division",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-district-judge-div4-murphy-melissa",
+          "name": "Melissa Moore Murphy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    },
+    {
+      "office": "District Judge, 22nd Judicial District, 5th Division",
+      "candidates": [
+        {
+          "key": "ky-fayette-2026-district-judge-div5-tackett-john",
+          "name": "John Tackett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/09/03121705/2026-General-Election-Candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Charter Amendment 1",
+      "title": "Urban County Council salary",
+      "summary": "Would amend the Lexington-Fayette Urban County Government Charter to set Urban County Council members' salary at $59,987 a year, adjusted for the purchasing power of the dollar. The change would take effect for the term beginning January 6, 2031.",
+      "yesMeans": "Council members' salary would be set at $59,987 a year, adjusted for inflation, starting with the term that begins January 6, 2031.",
+      "noMeans": "The charter's council salary provision would not be changed.",
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/08/03090121/Charter-Questions-for-Ballot.pdf"
+    },
+    {
+      "id": "Charter Amendment 2",
+      "title": "Council attendance and accountability",
+      "summary": "Would amend the Lexington-Fayette Urban County Government Charter to require the Urban County Council to adopt attendance and accountability expectations for its members, effective for the term beginning January 4, 2027.",
+      "yesMeans": "The Council would be required to adopt attendance and accountability expectations for its members starting with the term that begins January 4, 2027.",
+      "noMeans": "The charter would not require the Council to adopt these expectations.",
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/08/03090121/Charter-Questions-for-Ballot.pdf"
+    },
+    {
+      "id": "Charter Amendment 3",
+      "title": "Periodic charter review",
+      "summary": "Would amend the Lexington-Fayette Urban County Government Charter to require a review of the Charter at least once every eight years by a deliberative body of residents chosen by representative lottery. It would also establish a permanent advisory body to recommend charter amendments, effective for the term beginning January 4, 2027.",
+      "yesMeans": "The charter would be reviewed at least every eight years by a lottery-selected body, and a permanent advisory body would recommend charter amendments.",
+      "noMeans": "No required periodic charter review or permanent advisory body would be added.",
+      "source": "https://dt4647cgvo9o2.cloudfront.net/wp-content/uploads/2026/08/03090121/Charter-Questions-for-Ballot.pdf"
+    }
+  ],
+  "municipalities": {}
+}
