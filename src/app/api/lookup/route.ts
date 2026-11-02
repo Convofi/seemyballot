@@ -1,6 +1,6 @@
 import { after, type NextRequest } from "next/server";
 import { lookupAddress } from "@/lib/census";
-import { recordSearch } from "@/lib/stats";
+import { recordFailure, recordSearch } from "@/lib/stats";
 
 // Districts for an address are stable, so let the browser cache for a day.
 // Not the CDN: a CDN hit skips this function and the search goes uncounted.
@@ -21,6 +21,7 @@ export async function GET(request: NextRequest) {
   try {
     result = await lookupAddress(address);
   } catch {
+    after(() => recordFailure("unavailable"));
     return Response.json(
       { error: "Address lookup is unavailable. Please try again." },
       { status: 502 },
@@ -28,6 +29,7 @@ export async function GET(request: NextRequest) {
   }
 
   if (!result) {
+    after(() => recordFailure("no_match"));
     return Response.json(
       { error: "No match for that address" },
       { status: 404, headers: { "Cache-Control": "public, max-age=3600" } },
