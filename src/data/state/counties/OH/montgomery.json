@@ -1,0 +1,177 @@
+{
+  "state": "OH",
+  "county": "Montgomery County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.montgomery.boe.ohio.gov/current-election/",
+    "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf",
+    "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2021/02/9.11.2026-Issues-List.pdf"
+  ],
+  "note": "From the Montgomery County Board of Elections candidate report (October 16, 2026) and certified issues list (September 11, 2026). Incumbent flags are the board's own incumbent check marks on the candidate report. Common pleas judges appear without party labels. There is no countywide issue on this ballot, and the City of Dayton has no city offices or citywide issues (only precinct local-option liquor questions in DAY 12-C and DAY 13-A). Not shown because they depend on your district or precinct: congressional, state senate and state house districts; the Dayton City School District levy and other school district issues; city, village and township issues (Brookville, Kettering, Oakwood, Union, New Lebanon, German, Jackson and Jefferson townships); the New Lebanon council seat; and precinct local-option questions. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 2nd District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-coa2-epley-chris",
+          "name": "Chris Epley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-cp-0101-solle-susan",
+          "name": "Susan D. Solle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-cp-0102-keeton-anne",
+          "name": "Anne Keeton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-montgomery-2026-cp-0102-muncy-derek",
+          "name": "Derek Muncy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/3/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-cp-0103-henne-michele",
+          "name": "Michele S.H. Henne",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-montgomery-2026-cp-0103-madzey-kelly",
+          "name": "Kelly D. Madzey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 7/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-cp-0701-abshire-steve",
+          "name": "Steve Abshire",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-montgomery-2026-cp-0701-glennon-richard",
+          "name": "Richard Glennon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 7/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-cp-0702-ellis-elizabeth",
+          "name": "Elizabeth A. Ellis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-probate-brannon-david",
+          "name": "David Brannon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-montgomery-2026-probate-rice-cassandra",
+          "name": "Cassandra A. Rice",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile Division (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-juvenile-smalls-hope",
+          "name": "Hope L. Smalls",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-montgomery-2026-juvenile-sylvain-nicholas",
+          "name": "Nicholas Sylvain",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-commissioner-rice-carolyn",
+          "name": "Carolyn Rice",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-montgomery-2026-commissioner-christie-margie",
+          "name": "Margie Christie",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-montgomery-2026-auditor-keith-karl",
+          "name": "Karl Keith",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-montgomery-2026-auditor-murphy-tammy",
+          "name": "Tammy L. Murphy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

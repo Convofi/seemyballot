@@ -1,0 +1,129 @@
+{
+  "state": "OH",
+  "county": "Lorain County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voteloraincountyohio.gov/",
+    "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_ef2bd7f0adc244659d5357bfa1879d07.pdf",
+    "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_14a9c46a60114edb9a8e4f757e2ff364.pdf",
+    "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_43fda2b6f075408eac60476a8ac14199.pdf",
+    "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_fd0d57cfa16c443899cf8c9653a28945.pdf",
+    "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_1bd785de6c924c81ada8f587e6fab647.pdf",
+    "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_15c6aa478afa42eca970fd0e224358ab.pdf"
+  ],
+  "note": "From the Lorain County Board of Elections certified 2026 general candidate list, 46-day FWAB candidate list, certified issues list and ballot text. Not shown because they depend on your district or precinct: congressional, state senate and state house districts; city, village and township issues (including Avon Lake, Grafton, Kipton and Vermilion charter and tax issues and precinct local liquor options); and school district, library and out-of-county health district levies. Issue 7 (Lorain County General Health District renewal) is on every ballot in the county except the City of Vermilion, so it is listed under Lorain only. The board's candidate lists print no party label for Probate Judge James T. Walther. Lorain city has no city offices or city issues on this ballot. Incumbent flags come from the board's 2026 elected-officials rosters. Check your official sample ballot. Issue 7 (health district levy) is on every ballot in the county except the City of Vermilion.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 9th District (full term commencing 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-lorain-2026-coa9-ft-curtin-cynthia",
+          "name": "Cynthia Curtin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-lorain-2026-coa9-ft-sutton-betty",
+          "name": "Betty Sutton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_14a9c46a60114edb9a8e4f757e2ff364.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 9th District (unexpired term ending 2/9/2029)",
+      "candidates": [
+        {
+          "key": "oh-lorain-2026-coa9-ut-galonski-tavia",
+          "name": "Tavia Galonski",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-lorain-2026-coa9-ut-manning-nathan",
+          "name": "Nathan Manning",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_14a9c46a60114edb9a8e4f757e2ff364.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (full term commencing 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-lorain-2026-probate-walther-james",
+          "name": "James T. Walther",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_ef2bd7f0adc244659d5357bfa1879d07.pdf"
+    },
+    {
+      "office": "County Commissioner (full term commencing 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-lorain-2026-commissioner-riddell-jeff",
+          "name": "Jeff Riddell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-lorain-2026-commissioner-white-carolyn",
+          "name": "Carolyn Y. White",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-lorain-2026-commissioner-lipian-andrew",
+          "name": "Andrew Lipian",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_ef2bd7f0adc244659d5357bfa1879d07.pdf"
+    },
+    {
+      "office": "County Auditor (full term commencing 3/8/2027)",
+      "candidates": [
+        {
+          "key": "oh-lorain-2026-auditor-seguin-elaine",
+          "name": "Elaine M. Seguin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-lorain-2026-auditor-snodgrass-craig",
+          "name": "Craig Snodgrass",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_ef2bd7f0adc244659d5357bfa1879d07.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 12",
+      "title": "Lorain County – Proposed Tax Levy (Additional), Children Services and Bureau of Children with Medical Handicaps",
+      "summary": "Asks Lorain County voters to approve a new 0.45-mill property tax for 5 years, beginning in 2026 and first due in 2027. The money supports Children Services, including the care and placement of abused, neglected and dependent children, and the Bureau of Children with Medical Handicaps. The county auditor estimates it will collect $5,405,086 a year, or $16 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The county levies an additional 0.45-mill tax for 5 years for Children Services and the Bureau of Children with Medical Handicaps.",
+      "noMeans": "The additional 0.45-mill tax is not levied.",
+      "source": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_fd0d57cfa16c443899cf8c9653a28945.pdf",
+      "moreInfo": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_43fda2b6f075408eac60476a8ac14199.pdf"
+    },
+    {
+      "id": "Issue 7",
+      "title": "Lorain County – Proposed Tax Levy (Renewal), Lorain County General Health District",
+      "summary": "Asks voters to renew a property tax of up to 0.5 mill for 5 years, beginning in 2027 and first due in 2028, for the operating expenses of the Lorain County General Health District. The county auditor estimates it will collect $3,785,431 a year, or $11 for each $100,000 of the auditor's market value. It is on the ballot everywhere in Lorain County except the City of Vermilion.",
+      "yesMeans": "The existing 0.5-mill health district levy is renewed for 5 years.",
+      "noMeans": "The health district levy is not renewed.",
+      "source": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_fd0d57cfa16c443899cf8c9653a28945.pdf",
+      "moreInfo": "https://www.voteloraincountyohio.gov/_files/ugd/2568d0_43fda2b6f075408eac60476a8ac14199.pdf"
+    }
+  ],
+  "municipalities": {}
+}
