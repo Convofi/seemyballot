@@ -1,0 +1,26 @@
+{
+  "state": "SC",
+  "county": "Pickens County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Pickens County) and referendum listing for the November 3, 2026 Statewide General Election. Not shown: the Soil and Water District Commission race (Lance Beecher and Chuck Owens; the number of seats could not be confirmed from an official source), County Council Districts 1 and 2, School Trustee Districts 2, 4, 6 and 7, the Oolenoy River Watershed Conservation District, and State House and U.S. House districts. No Pickens County ballot question appears in the referendum listing. Municipal contests are not covered because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages were not checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-pickens-2026-probate-judge-allison-david",
+          "name": "David K Allison",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

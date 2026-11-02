@@ -1,0 +1,26 @@
+{
+  "state": "SC",
+  "county": "Oconee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Oconee County) and referendum listing for the November 3, 2026 Statewide General Election. Not shown: the Soil and Water District Commission race (Kim Alexander and Carol L Hendrix; the number of seats could not be confirmed from an official source), County Council Districts 1 and 3, School Trustee Districts 1 and 3, the Beaverdam Creek watershed district, the Keowee Fire Protection District, municipal tax referendums in Seneca, Walhalla, Westminster, Salem and West Union, and State House and U.S. House districts. Municipal contests are not covered because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages were not checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-oconee-2026-probate-judge-singleton-danny",
+          "name": "Danny Singleton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

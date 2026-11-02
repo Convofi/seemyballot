@@ -1,0 +1,23 @@
+{
+  "state": "SC",
+  "county": "Georgetown County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=774&searchType=Default"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Georgetown County) and referendum listing for the November 3, 2026 Statewide General Election. Not shown: the Soil and Water District Commission race (Marty K Avant and Justin Sutton; the number of seats could not be confirmed from an official source), the Georgetown County School Board At Large race (five candidates; the number of seats could not be confirmed from an official source), School Board Districts 2 and 7, County Council Districts 1, 6 and 7, and State House and U.S. House districts. No countywide county office is in the listing for this election. Municipal contests are not covered because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages were not checked. Check your official sample ballot for the full list.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Local Option Sales Tax Referendum - Question 1",
+      "title": "Georgetown County one percent local option sales and use tax",
+      "summary": "Would levy a one percent local option sales and use tax in Georgetown County. The revenue would be used to give a credit against taxpayers' county and municipal property tax bills and to fund county and municipal operations in the Georgetown County area.",
+      "yesMeans": "A one percent sales and use tax would be levied in Georgetown County to reduce county and municipal property taxes and fund local government operations.",
+      "noMeans": "The local option sales and use tax would not be levied.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=774&searchType=Default"
+    }
+  ],
+  "municipalities": {}
+}
