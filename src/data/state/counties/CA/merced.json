@@ -1,0 +1,85 @@
+{
+  "state": "CA",
+  "county": "Merced County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "The Merced County Registrar of Voters' candidate and measure list could not be checked (its website blocks automated access), so this list may be missing county offices, Superior Court seats, and county or city measures. City of Merced contests and measures could not be checked either. Shown: Fifth District Court of Appeal retention questions from the Secretary of State's certified list. Statewide races and measures are on the California statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Justice, Court of Appeal, Fifth District — retain Arlan L. Harrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-merced-2026-coa5-harrell-arlan",
+          "name": "Arlan L. Harrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fifth District — retain Sonny S. Sandhu? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-merced-2026-coa5-sandhu-sonny",
+          "name": "Sonny S. Sandhu",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fifth District — retain Amy K. Guerra? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-merced-2026-coa5-guerra-amy",
+          "name": "Amy K. Guerra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fifth District — retain Kathleen A. Meehan? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-merced-2026-coa5-meehan-kathleen",
+          "name": "Kathleen A. Meehan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fifth District — retain Mark W. Snauffer? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-merced-2026-coa5-snauffer-mark",
+          "name": "Mark W. Snauffer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fifth District — retain Thomas DeSantos? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-merced-2026-coa5-desantos-thomas",
+          "name": "Thomas DeSantos",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
