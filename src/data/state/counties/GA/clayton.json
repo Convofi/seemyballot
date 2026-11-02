@@ -1,0 +1,24 @@
+{
+  "state": "GA",
+  "county": "Clayton County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.claytoncountyga.gov/wp-content/uploads/2026/09/11.3.26-Composite-Sample-Ballot-Final.pdf",
+    "https://www.claytoncountyga.gov/wp-content/uploads/2026/10/2026-Certified-Write-In-Candidates-w-County-corrected.pdf",
+    "https://www.claytoncountyga.gov/government/elections-and-registration/november-3-2026-general-election-sample-ballot/"
+  ],
+  "note": "The only countywide local contest is Soil and Water Conservation District Supervisor (vote for two). No candidate's name is printed for it; the two candidates below are certified write-ins. Not shown because they depend on your district: County Commission Districts 1 and 4, Board of Education Districts 1, 4, 8 and 9, and state legislative and U.S. House districts. Commission Chair, Sheriff, Clerk of Superior Court, Tax Commissioner, District Attorney, Probate Judge and judicial races are not on this ballot, and the county composite sample ballot shows no county or city questions; the three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Clayton County Soil and Water Conservation District Supervisor",
+      "seats": 2,
+      "candidates": [
+        { "key": "ga-clayton-2026-soilwater-cooper-arta", "name": "Arta Cooper", "party": "Nonpartisan", "incumbent": false, "writeIn": true },
+        { "key": "ga-clayton-2026-soilwater-small-daniel", "name": "Daniel Small", "party": "Nonpartisan", "incumbent": false, "writeIn": true }
+      ],
+      "source": "https://www.claytoncountyga.gov/wp-content/uploads/2026/10/2026-Certified-Write-In-Candidates-w-County-corrected.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

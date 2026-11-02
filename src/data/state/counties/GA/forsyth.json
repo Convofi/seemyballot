@@ -1,0 +1,45 @@
+{
+  "state": "GA",
+  "county": "Forsyth County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://forsythco.b-cdn.net/app/uploads/2026/09/FINAL-11.03.26-Sample-Ballot-Remediated.pdf",
+    "https://www.forsythco.com/government/departments/voter-registrations-elections/current-upcoming-elections/",
+    "https://forsythco.b-cdn.net/app/uploads/2026/09/Certified-List-of-Write-In-Candidates-11-03-26-GE.1.pdf"
+  ],
+  "note": "From the Forsyth County consolidated sample ballot, which marks incumbents with (I). Not shown because they depend on your district: County Commission Districts 1 and 3, Board of Education Districts 1 and 5, and state legislative and U.S. House districts. Commission Chair, Sheriff, Clerk of Superior Court, District Attorney, Probate Judge and judicial races are not on this ballot. The City of Cumming has no race or question on it. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Solicitor General",
+      "candidates": [
+        { "key": "ga-forsyth-2026-solicitor-finch-william", "name": "William A Finch", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://forsythco.b-cdn.net/app/uploads/2026/09/FINAL-11.03.26-Sample-Ballot-Remediated.pdf"
+    },
+    {
+      "office": "Forsyth County Soil and Water Conservation District Supervisor",
+      "candidates": [
+        { "key": "ga-forsyth-2026-soilwater-hall-wesley", "name": "Wesley Hall", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://forsythco.b-cdn.net/app/uploads/2026/09/FINAL-11.03.26-Sample-Ballot-Remediated.pdf"
+    },
+    {
+      "office": "Tax Commissioner (special election to fill the unexpired term of Matthew Ledbetter, deceased)",
+      "candidates": [
+        { "key": "ga-forsyth-2026-tax-commissioner-hicks-david", "name": "David D. Hicks", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://forsythco.b-cdn.net/app/uploads/2026/09/FINAL-11.03.26-Sample-Ballot-Remediated.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Forsyth County Special Election",
+      "title": "Term Limits for the Board of Commissioners (Senate Bill No. 469, Act No. 611)",
+      "summary": "Asks whether to approve a state act that limits members of the Forsyth County Board of Commissioners to two consecutive terms.",
+      "yesMeans": "County commissioners would be limited to two consecutive terms.",
+      "noMeans": "The act does not take effect and no term limit is set by it.",
+      "source": "https://forsythco.b-cdn.net/app/uploads/2026/09/FINAL-11.03.26-Sample-Ballot-Remediated.pdf"
+    }
+  ],
+  "municipalities": {}
+}
