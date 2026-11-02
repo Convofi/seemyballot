@@ -1,0 +1,153 @@
+{
+  "state": "MI",
+  "county": "Washtenaw County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://content.civicplus.com/api/assets/mi-washtenawcounty/27e0db62-cc1a-41cd-8654-e0a8a5c4f6d0",
+    "https://www.washtenaw.org/asset/b994f93c-638c-454d-8273-cc326a19fd01",
+    "https://content.civicplus.com/api/assets/mi-washtenawcounty/7205184e-5072-40ec-847e-00667f674769",
+    "https://www.a2gov.org/city-clerk/elections/"
+  ],
+  "note": "No Washtenaw County executive or row offices and no countywide proposals are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, 14A and 14B District Court judges, Washtenaw Community College trustees, school board members, Ann Arbor City Council wards 1–5, city, village and township offices outside Ann Arbor, and city, township, village and school proposals outside Ann Arbor. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term; vote for 2)",
+      "candidates": [
+        {
+          "key": "mi-washtenaw-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-washtenaw-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/mi-washtenawcounty/27e0db62-cc1a-41cd-8654-e0a8a5c4f6d0"
+    },
+    {
+      "office": "Judge of Circuit Court, 22nd Circuit, Incumbent Position (6-year term; vote for 2)",
+      "candidates": [
+        {
+          "key": "mi-washtenaw-2026-circuit-inc-conlin-patrick",
+          "name": "Patrick J. Conlin, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-washtenaw-2026-circuit-inc-van-den-bergh-tracy",
+          "name": "Tracy E. Van den Bergh",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/mi-washtenawcounty/27e0db62-cc1a-41cd-8654-e0a8a5c4f6d0"
+    },
+    {
+      "office": "Judge of Probate Court, Non-incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-washtenaw-2026-probate-noninc-battles-alethia",
+          "name": "Alethia Jean Battles",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-washtenaw-2026-probate-noninc-lawrence-jennifer",
+          "name": "Jennifer Lawrence",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://content.civicplus.com/api/assets/mi-washtenawcounty/27e0db62-cc1a-41cd-8654-e0a8a5c4f6d0"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Ann Arbor": {
+      "contests": [
+        {
+          "office": "Mayor (4-year term)",
+          "candidates": [
+            {
+              "key": "mi-washtenaw-2026-annarbor-mayor-rabhi-yousef",
+              "name": "Yousef Rabhi",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "mi-washtenaw-2026-annarbor-mayor-kurtz-elizabeth",
+              "name": "Elizabeth Sharon Kurtz",
+              "party": "Independent",
+              "incumbent": false,
+              "writeIn": true
+            }
+          ],
+          "source": "https://content.civicplus.com/api/assets/mi-washtenawcounty/27e0db62-cc1a-41cd-8654-e0a8a5c4f6d0"
+        },
+        {
+          "office": "Judge of District Court, 15th District, Incumbent Position (6-year term)",
+          "candidates": [
+            {
+              "key": "mi-washtenaw-2026-15thdistrict-inc-garwood-tamara",
+              "name": "Tamara Garwood",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://content.civicplus.com/api/assets/mi-washtenawcounty/27e0db62-cc1a-41cd-8654-e0a8a5c4f6d0"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Proposal A",
+          "title": "Charter Amendment Tax for Street, Bridge, and Sidewalk Repair and Replacement",
+          "summary": "Would amend the Ann Arbor charter to authorize a tax of up to 2.125 mills for street and bridge repair and sidewalk repair and construction for 2027 through 2032, replacing the same tax authorized for 2022 through 2026. It is estimated to raise $19,236,316 in the first year. Part of the millage may be captured by the Ann Arbor Downtown Development Authority and the Washtenaw County Brownfield Redevelopment Authority.",
+          "yesMeans": "The city may levy up to 2.125 mills for street, bridge and sidewalk repair for 2027 through 2032.",
+          "noMeans": "The street, bridge and sidewalk repair tax is not renewed after 2026.",
+          "source": "https://www.washtenaw.org/asset/b994f93c-638c-454d-8273-cc326a19fd01",
+          "moreInfo": "https://www.a2gov.org/city-clerk/elections/"
+        },
+        {
+          "id": "Proposal B",
+          "title": "Charter Amendment Tax for the Construction of New Sidewalks",
+          "summary": "Would amend the Ann Arbor charter to authorize a tax of up to 0.20 mills for building new sidewalks for 2027 through 2032, replacing the same tax authorized for 2021 through 2026. It is estimated to raise $1,809,900 in the first year. Part of the millage may be captured by the Ann Arbor Downtown Development Authority and the Washtenaw County Brownfield Redevelopment Authority.",
+          "yesMeans": "The city may levy up to 0.20 mills for new sidewalk construction for 2027 through 2032.",
+          "noMeans": "The new-sidewalk tax is not renewed after 2026.",
+          "source": "https://www.washtenaw.org/asset/b994f93c-638c-454d-8273-cc326a19fd01",
+          "moreInfo": "https://www.a2gov.org/city-clerk/elections/"
+        },
+        {
+          "id": "Proposal C",
+          "title": "Amendment to Modify the Method for Counting Signatures of Nomination Petitions",
+          "summary": "Would amend Section 13.9 of the city charter. If a person signs nomination petitions for more than one candidate for the same office, only the earliest-dated signature would count, and if two or more of those signatures have the same date, none would count. Today, every such signature by that person is disregarded regardless of date.",
+          "yesMeans": "Only a person's earliest-dated signature counts when they sign petitions for more than one candidate for the same office.",
+          "noMeans": "All of a person's signatures continue to be disregarded when they sign petitions for more than one candidate for the same office.",
+          "source": "https://www.washtenaw.org/asset/b994f93c-638c-454d-8273-cc326a19fd01",
+          "moreInfo": "https://www.a2gov.org/city-clerk/elections/"
+        },
+        {
+          "id": "Proposal D",
+          "title": "Amendment to Modify the Terms of Office for Elected Officials",
+          "summary": "Would amend Section 12.4 of the city charter so that an elected officer's term begins at noon on the first Monday of the month after the regular city election. Today the term begins on the first Monday after the election.",
+          "yesMeans": "Terms of newly elected city officers begin at noon on the first Monday of the month after the election.",
+          "noMeans": "Terms continue to begin on the first Monday after the election.",
+          "source": "https://www.washtenaw.org/asset/b994f93c-638c-454d-8273-cc326a19fd01",
+          "moreInfo": "https://www.a2gov.org/city-clerk/elections/"
+        },
+        {
+          "id": "Proposal E",
+          "title": "Creation and Governance of a Municipal Electric Utility",
+          "summary": "Would amend Chapter 15 of the city charter to require the City of Ann Arbor to establish a municipal electric utility and a governance structure for it. The complete charter language is on file with the City Clerk.",
+          "yesMeans": "The charter would require the city to create a municipal electric utility and its governance structure.",
+          "noMeans": "The charter is not changed to require a municipal electric utility.",
+          "source": "https://www.washtenaw.org/asset/b994f93c-638c-454d-8273-cc326a19fd01",
+          "moreInfo": "https://www.a2gov.org/city-clerk/elections/"
+        }
+      ]
+    }
+  }
+}

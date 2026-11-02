@@ -1,0 +1,180 @@
+{
+  "state": "CO",
+  "county": "Larimer County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf",
+    "https://www.larimer.gov/elected-officials",
+    "https://www.larimer.gov/bocc"
+  ],
+  "note": "Not shown: state legislative and congressional districts, town measures (Wellington 2A, Berthoud 3G), school district measures (Weld RE-5J 5A and others), and special district measures (fire protection, metropolitan and other districts, Issues 6A–7F). Front Range Passenger Rail District Issue 7A covers only part of Larimer County, so it is not shown. No 8th Judicial District court judges are up for retention on this ballot. The City of Fort Collins has no contest or measure on this ballot. Statewide races, Colorado Supreme Court and Court of Appeals retention, and statewide measures are on the Colorado statewide list. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 1 (elected at large)",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-commissioner-d1-atkinson-shane",
+          "name": "Shane Atkinson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-larimer-2026-commissioner-d1-roberson-marc",
+          "name": "Marc Roberson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-larimer-2026-commissioner-d1-fowler-stephen",
+          "name": "Stephen Fowler",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-clerk-harris-tina",
+          "name": "Tina Harris",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "co-larimer-2026-clerk-forsythe-kenneth",
+          "name": "Kenneth Forsythe",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-treasurer-ginal-joann",
+          "name": "Joann Ginal",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "co-larimer-2026-treasurer-olson-steve",
+          "name": "Steve Olson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-assessor-edwards-patrick",
+          "name": "Patrick Edwards",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "co-larimer-2026-assessor-overbeck-bob",
+          "name": "Bob Overbeck",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "co-larimer-2026-assessor-bradley-sam",
+          "name": "Sam Bradley",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-sheriff-feyen-john",
+          "name": "John J. Feyen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-surveyor-donnelly-tom",
+          "name": "Tom Donnelly",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "County Coroner",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-coroner-hanks-stephen",
+          "name": "Stephen Hanks",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "Larimer County Court Judge — retain Judge Katharine \"Jenny\" Ellison? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-retain-county-ellison-katharine",
+          "name": "Katharine \"Jenny\" Ellison",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "Larimer County Court Judge — retain Judge Thomas L. Lynch? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-retain-county-lynch-thomas",
+          "name": "Thomas L. Lynch",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    },
+    {
+      "office": "Larimer County Court Judge — retain Judge Matthew R. Zehe? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "co-larimer-2026-retain-county-zehe-matthew",
+          "name": "Matthew R. Zehe",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Larimer County Ballot Issue 1A",
+      "title": "Countywide 0.3% sales and use tax for wildfire and hazard resilience, infrastructure and community needs",
+      "summary": "Creates a new 0.3% (30 cents on a $100 purchase) Larimer County sales and use tax starting January 1, 2027, estimated to raise up to $34.5 million in the first year, excluding food for home consumption, gasoline, diapers, prescription drugs and certain other exempt items. The money would go to wildfire, drinking-water source and natural hazard resilience; county bridges, roads, parks, trails and open spaces; and community resilience and public safety, including emergency services, public benefits, Justice Center and other facility improvements. Revenue would be independently audited each year, and the county could keep and spend all of it as an exception to TABOR limits.",
+      "yesMeans": "Larimer County adds a 0.3% sales and use tax for the listed purposes and may keep and spend all of the revenue.",
+      "noMeans": "The new county sales and use tax is not created.",
+      "source": "https://www.larimer.gov/sites/default/files/2026ge-larimer-county-sample-ballot.pdf"
+    }
+  ],
+  "municipalities": {}
+}

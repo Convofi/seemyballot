@@ -1,0 +1,132 @@
+{
+  "state": "OH",
+  "county": "Stark County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf",
+    "https://www.starkcountyohio.gov/Board%20of%20Elections/General%202026_issues%20list_w%20numbers.pdf",
+    "https://www.starkcountyohio.gov/Board%20of%20Elections/SARTA_Sales%20and%20Use_legal%20ad.pdf",
+    "https://www.starkcountyohio.gov/government/offices/commissioners/index.php",
+    "https://www.starkcountyohio.gov/government/offices/auditor/index.php",
+    "https://www.starkcountyohio.gov/government/legal_judicial/court_of_common_pleas/index.php",
+    "https://www.starkcountyohio.gov/government/legal_judicial/probate_court/index.php",
+    "https://www.starkcountyohio.gov/government/legal_judicial/fifth_district_court_of_appeals/index.php"
+  ],
+  "note": "Not shown: state legislative and congressional districts; Stark County District Library Issue 4 (the library district does not cover all of Stark County); Wayne County Joint Vocational School District renewal; school district issues (Plain, Sandy Valley, Massillon, Alliance); village and township levies and income taxes; and precinct local-liquor-option questions. Canton has no city offices or citywide issues on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-stark-2026-app5-0209-george-matthew",
+          "name": "Matthew George",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "oh-stark-2026-commissioner-townsend-tony",
+          "name": "Tony M. Townsend",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-stark-2026-commissioner-harold-alan",
+          "name": "Alan Harold",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-stark-2026-auditor-brown-chalice",
+          "name": "Chalice E. Brown",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-stark-2026-auditor-kinsey-angela",
+          "name": "Angela Kinsey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-stark-2026-cpgen-0101-farmer-kristin",
+          "name": "Kristin G. Farmer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/4/2027)",
+      "candidates": [
+        {
+          "key": "oh-stark-2026-cpgen-0104-forchione-frank",
+          "name": "Frank G. Forchione",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-stark-2026-cpgen-0209-moore-kristen",
+          "name": "Kristen S. Moore",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-stark-2026-cpgen-0209-dave-jennifer",
+          "name": "Jennifer L. Dave",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "candidates": [
+        {
+          "key": "oh-stark-2026-probate-werren-curt",
+          "name": "Curt Werren",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 9",
+      "title": "Stark Area Regional Transit Authority (SARTA) – Continuation of Sales and Use Tax",
+      "summary": "Asks whether the Stark Area Regional Transit Authority (SARTA) may continue its existing sales and use tax at a rate of up to one-fourth of one percent (0.25%) for 10 years. The money may be used for all transit purposes.",
+      "yesMeans": "SARTA's existing 0.25% sales and use tax continues for 10 years for transit purposes.",
+      "noMeans": "The SARTA sales and use tax is not continued.",
+      "source": "https://www.starkcountyohio.gov/Board%20of%20Elections/SARTA_Sales%20and%20Use_legal%20ad.pdf",
+      "moreInfo": "https://www.starkcountyohio.gov/Board%20of%20Elections/General%202026_issues%20list_w%20numbers.pdf"
+    }
+  ],
+  "municipalities": {}
+}
