@@ -1,0 +1,124 @@
+{
+  "state": "NY",
+  "county": "Onondaga County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/GE26-Candidates-List-NO-ADDRESSES-4.pdf",
+    "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/Ballot-Style-50.pdf",
+    "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/07/26offill-no-names-07272026.pdf",
+    "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/04/2026-Elected-Officials.pdf",
+    "https://onondaga.gov/elections/sample-ballots/"
+  ],
+  "note": "Candidates come from the Onondaga County Board of Elections Official Candidates List for November 3, 2026 (revised 9/18/2026). New York uses fusion voting: each candidate is listed once under their main party. Joseph Zavaglia also appears on the Working Families line, Michael J. Manfredi, RJ Lenhart and Matthew J. Doran on the Conservative line, Jeffrey G. Leibo on the Working Families line, and Toby Shelley on a WTP line. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, the 17 County Legislator districts, and town and village offices and propositions. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 5th Judicial District",
+      "candidates": [
+        {
+          "key": "ny-onondaga-2026-supreme-court-zavaglia-joseph",
+          "name": "Joseph Zavaglia",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-onondaga-2026-supreme-court-manfredi-michael",
+          "name": "Michael J. Manfredi",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/GE26-Candidates-List-NO-ADDRESSES-4.pdf"
+    },
+    {
+      "office": "Onondaga County Sheriff",
+      "candidates": [
+        {
+          "key": "ny-onondaga-2026-sheriff-shelley-toby",
+          "name": "Toby Shelley",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ny-onondaga-2026-sheriff-lenhart-rj",
+          "name": "RJ Lenhart",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/GE26-Candidates-List-NO-ADDRESSES-4.pdf"
+    },
+    {
+      "office": "Onondaga County Court Judge",
+      "candidates": [
+        {
+          "key": "ny-onondaga-2026-county-court-leibo-jeffrey",
+          "name": "Jeffrey G. Leibo",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-onondaga-2026-county-court-doran-matthew",
+          "name": "Matthew J. Doran",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/GE26-Candidates-List-NO-ADDRESSES-4.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Onondaga County Proposition 1",
+      "title": "Term limit of three consecutive four-year terms for County Executive and County Comptroller",
+      "summary": "Establishes a term limit of three consecutive four-year terms for the office of Onondaga County Executive and the office of County Comptroller. Proposition 2 on the same ballot proposes a four-term limit for the same offices.",
+      "yesMeans": "You support limiting the County Executive and County Comptroller to three consecutive four-year terms.",
+      "noMeans": "You do not support this three-term limit.",
+      "source": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/Ballot-Style-50.pdf"
+    },
+    {
+      "id": "Onondaga County Proposition 2",
+      "title": "Term limit of four consecutive four-year terms for County Executive and County Comptroller",
+      "summary": "Establishes a term limit of four consecutive four-year terms for the office of Onondaga County Executive and the office of County Comptroller. Proposition 1 on the same ballot proposes a three-term limit for the same offices.",
+      "yesMeans": "You support limiting the County Executive and County Comptroller to four consecutive four-year terms.",
+      "noMeans": "You do not support this four-term limit.",
+      "source": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/Ballot-Style-50.pdf"
+    }
+  ],
+  "municipalities": {
+    "Syracuse": {
+      "contests": [
+        {
+          "office": "Syracuse City Councilor-at-Large (to fill vacancy)",
+          "candidates": [
+            {
+              "key": "ny-onondaga-2026-syracuse-councilor-at-large-hudson-helen",
+              "name": "Helen Hudson",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "ny-onondaga-2026-syracuse-councilor-at-large-dague-raymond",
+              "name": "Raymond J. Dague",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/GE26-Candidates-List-NO-ADDRESSES-4.pdf"
+        },
+        {
+          "office": "Syracuse City Commissioner of Education (to fill vacancy)",
+          "candidates": [
+            {
+              "key": "ny-onondaga-2026-syracuse-commissioner-of-education-ndagijimana-desire",
+              "name": "Desire Ndagijimana",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://onondaga.gov/elections/wp-content/uploads/sites/191/2026/09/GE26-Candidates-List-NO-ADDRESSES-4.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

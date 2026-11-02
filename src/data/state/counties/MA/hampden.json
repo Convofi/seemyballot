@@ -1,0 +1,38 @@
+{
+  "state": "MA",
+  "county": "Hampden County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.southwickma.gov/DocumentCenter/View/5071",
+    "https://www.southwickma.gov/668/2026-State-Election-Information"
+  ],
+  "note": "Governor's Council, State Senate and State Representative districts are not shown because they do not cover all of Hampden County. Regional school committee seats and any district-level nonbinding questions are also not shown. Hampden County has no county commissioners (county government was abolished), and the Sheriff, Register of Deeds and Clerk of Courts are not on the 2026 ballot. Springfield has no city offices on this state election ballot; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Attorney, Hampden District",
+      "candidates": [
+        {
+          "key": "ma-hampden-2026-da-gulluni-anthony",
+          "name": "Anthony D. Gulluni",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.southwickma.gov/DocumentCenter/View/5071"
+    },
+    {
+      "office": "Register of Probate, Hampden County",
+      "candidates": [
+        {
+          "key": "ma-hampden-2026-register-of-probate-saccomani-rosemary",
+          "name": "Rosemary A. Saccomani",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.southwickma.gov/DocumentCenter/View/5071"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
