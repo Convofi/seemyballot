@@ -1,0 +1,87 @@
+{
+  "state": "OH",
+  "county": "Wayne County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/wayne/getballot.aspx?elect=20261103G&prsid=0015__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/wayne/getballot.aspx?elect=20261103G&prsid=0001__2&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/wayne/cnm.aspx"
+  ],
+  "note": "9th District incumbency follows the Summit County file. Not shown: state legislative and congressional districts; the joint vocational school district renewal levy (it does not cover all of Wayne County); city, village, township and school district issues (including the Orrville City School District income tax); and precinct local-liquor-option questions. No countywide issue is on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 9th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-wayne-2026-app9-0209-curtin-cynthia",
+          "name": "Cynthia Curtin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-wayne-2026-app9-0209-sutton-betty",
+          "name": "Betty Sutton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/wayne/getballot.aspx?elect=20261103G&prsid=0015__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 9th District (unexpired term ending 2/9/2029)",
+      "candidates": [
+        {
+          "key": "oh-wayne-2026-app9-unexp-manning-nathan",
+          "name": "Nathan Manning",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-wayne-2026-app9-unexp-galonski-tavia",
+          "name": "Tavia Galonski",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/wayne/getballot.aspx?elect=20261103G&prsid=0015__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-wayne-2026-probate-juvenile-0209-wiles-latecia",
+          "name": "Latecia Eileen Wiles",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/wayne/getballot.aspx?elect=20261103G&prsid=0015__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-wayne-2026-commissioner-hofstetter-jonathan",
+          "name": "Jonathan Hofstetter",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/wayne/getballot.aspx?elect=20261103G&prsid=0015__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-wayne-2026-auditor-robertson-russell",
+          "name": "Russell Robertson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/wayne/getballot.aspx?elect=20261103G&prsid=0015__1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

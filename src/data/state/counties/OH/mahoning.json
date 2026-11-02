@@ -8,9 +8,10 @@
     "https://lookup.boe.ohio.gov/vtrapp/mahoning/ballotlist.aspx",
     "https://www.mahoningcountyoh.gov/776/About-the-Commissioners",
     "https://www.mahoningcountyoh.gov/230/Common-Pleas-Court",
-    "https://www.mahoningcountyoh.gov/1136/Judges"
+    "https://www.mahoningcountyoh.gov/1136/Judges",
+    "https://lookup.boe.ohio.gov/vtrapp/columbiana/cnm.aspx"
   ],
-  "note": "Not shown: state legislative and congressional districts; school district, city, village and township issues outside Youngstown; and precinct local-liquor-option questions. Youngstown's mayor and council are elected in odd-numbered years, and no City of Youngstown issue is on this ballot. The incumbent County Auditor could not be confirmed from an official county roster (the auditor's site was unreachable), so no candidate in that race is marked as incumbent. Check your official sample ballot for district and local items.",
+  "note": "Not shown: state legislative and congressional districts; school district, city, village and township issues outside Youngstown; and precinct local-liquor-option questions. Youngstown's mayor and council are elected in odd-numbered years, and no City of Youngstown issue is on this ballot. The incumbent County Auditor could not be confirmed from an official county roster (the auditor's site was unreachable), so no candidate in that race is marked as incumbent. Mark Anthony Hanni is a sitting 7th District judge in a different seat; the 2/10/2027 seat is held by Cheryl L. Waite (Columbiana County Board of Elections roster). Check your official sample ballot for district and local items.",
   "contests": [
     {
       "office": "Judge of the Court of Appeals, 7th District (term beginning 2/9/2027)",
@@ -31,7 +32,7 @@
           "key": "oh-mahoning-2026-app7-0210-hanni-mark",
           "name": "Mark Anthony Hanni",
           "party": "Republican",
-          "incumbent": true
+          "incumbent": false
         },
         {
           "key": "oh-mahoning-2026-app7-0210-rudzik-katherine",

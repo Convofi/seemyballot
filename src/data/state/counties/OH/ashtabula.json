@@ -1,0 +1,152 @@
+{
+  "state": "OH",
+  "county": "Ashtabula County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=041___1&bpty=X",
+    "https://www.boe.ohio.gov/ashtabula/c/upload/Election_Candidates.pdf",
+    "https://lookup.boe.ohio.gov/vtrapp/geauga/cnm.aspx"
+  ],
+  "note": "The Ashtabula County Board of Elections' official-roster page returned an error, so only Robert J. Patton is marked as an incumbent (confirmed from neighboring 11th District county rosters). Not shown: state legislative and congressional districts; city, village, township, park district and school district issues (including Saybrook Township Park District Issue 8 and Andover Village Issue 9); and precinct local-liquor-option questions. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-app11-0209-cornachio-marisa",
+          "name": "Marisa L. Cornachio",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-app11-0210-patton-robert",
+          "name": "Robert J. Patton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-cpgen-0101-sezon-marianne",
+          "name": "Marianne Sezon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-cpgen-0102-camplese-albert",
+          "name": "Albert S. Camplese",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-ashtabula-2026-cpgen-0102-specht-harold",
+          "name": "Harold E. Specht Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-cpgen-0209-harris-thomas",
+          "name": "Thomas E. Harris",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-probate-0209-jonas-edith",
+          "name": "Edith M. Jonas",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-commissioner-kozlowski-casey",
+          "name": "Casey Kozlowski",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-ashtabula-2026-commissioner-noscal-jayson-robert",
+          "name": "Jayson-Robert T. Noscal",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-auditor-emery-oakey",
+          "name": "Oakey L. Emery",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-ashtabula-2026-auditor-yamamoto-scott",
+          "name": "Scott Yamamoto",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Coroner (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-ashtabula-2026-coroner-unexp-bishop-catherine",
+          "name": "Catherine A. Bishop",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 4",
+      "title": "Ashtabula County Metroparks – Proposed Tax Levy (Additional)",
+      "summary": "Asks whether to levy an additional property tax of up to 0.5 mill for 15 years, beginning in 2027 and first due in 2028, for parks and recreation by Ashtabula County Metroparks. The county auditor estimates it will collect $1,281,490 a year, or $18 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The additional 0.5-mill Metroparks levy takes effect for 15 years.",
+      "noMeans": "The additional levy is not imposed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/ashtabula/getballot.aspx?elect=20261103G&prsid=041___1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

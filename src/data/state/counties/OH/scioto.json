@@ -1,0 +1,117 @@
+{
+  "state": "OH",
+  "county": "Scioto County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0024__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/scioto/cnm.aspx"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city, village, township and school district issues (including the City of Portsmouth renewal levy and Village of South Webster levy); and precinct local-liquor-option questions. No countywide issue is on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 4th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-scioto-2026-app4-0209-fountain-jayme",
+          "name": "Jayme Hartley Fountain",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-scioto-2026-app4-0209-grace-todd",
+          "name": "Todd L. Grace",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-scioto-2026-cpgen-0101-kuhn-mark",
+          "name": "Mark E. Kuhn",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-scioto-2026-cpgen-0210-harcha-howard",
+          "name": "Howard H. Harcha III",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-scioto-2026-probate-juvenile-0209-bennett-rebecca",
+          "name": "Rebecca L. Bennett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-scioto-2026-commissioner-0101-mault-steven",
+          "name": "Steven Will Mault",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-scioto-2026-commissioner-0101-spears-abby",
+          "name": "Abby Spears",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (unexpired term ending 1/1/2029)",
+      "candidates": [
+        {
+          "key": "oh-scioto-2026-commissioner-unexp-smith-merit",
+          "name": "Merit Smith",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-scioto-2026-auditor-blackburn-christopher",
+          "name": "Christopher Blackburn",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-scioto-2026-auditor-eichenlaub-tricia",
+          "name": "Tricia M. Eichenlaub",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/scioto/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

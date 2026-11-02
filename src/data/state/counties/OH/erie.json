@@ -1,0 +1,112 @@
+{
+  "state": "OH",
+  "county": "Erie County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0028__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/erie/cnm.aspx"
+  ],
+  "note": "Not shown: state legislative and congressional districts; school district issues (including Sandusky City School District Issue 2); city, village and township issues (including Berlin Heights Issue 14 and Berlin Township Issue 17); and precinct local-liquor-option questions. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 6th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-erie-2026-app6-0209-goulding-michael",
+          "name": "Michael R. Goulding",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 6th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-erie-2026-app6-0210-duhart-myron",
+          "name": "Myron C. Duhart",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-erie-2026-app6-0210-kamm-cj",
+          "name": "CJ Kamm",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-erie-2026-cpgen-0209-dusza-thomas",
+          "name": "Thomas M. Dusza",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-erie-2026-commissioner-kayl-mindy",
+          "name": "Mindy Kayl",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-erie-2026-commissioner-shoffner-steve",
+          "name": "Steve Shoffner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-erie-2026-auditor-jeffrey-richard",
+          "name": "Richard Jeffrey",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-erie-2026-auditor-meisel-paul",
+          "name": "Paul Meisel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 6",
+      "title": "Erie County – Proposed Tax Levy (Renewal): Addiction and Mental Health Services",
+      "summary": "Asks whether Erie County may renew a property tax of up to 0.7 mill for 10 years, beginning in 2027 and first due in 2028. The money pays for community addiction and mental health services providers and for acquiring, building, renovating, financing, maintaining and operating alcohol and drug addiction and mental health facilities. The county auditor estimates it will collect $1,555,645 a year, or $15 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The 0.7-mill addiction and mental health levy is renewed for 10 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0028__1&bpty=X"
+    },
+    {
+      "id": "Issue 7",
+      "title": "Erie County General Health District – Proposed Tax Levy (Renewal)",
+      "summary": "Asks whether to renew a property tax of up to 0.2 mill for 5 years, beginning in 2027 and first due in 2028, to fund the health program of the Erie County General Health District's Board of Health. The county auditor estimates it will collect $504,712 a year, or $5 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The 0.2-mill health district levy is renewed for 5 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0007__1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/erie/getballot.aspx?elect=20261103G&prsid=0028__1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

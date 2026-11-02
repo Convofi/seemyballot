@@ -1,0 +1,91 @@
+{
+  "state": "OH",
+  "county": "Hancock County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf",
+    "https://lookup.boe.ohio.gov/vtrapp/allen/cnm.aspx"
+  ],
+  "note": "Hancock County is not on the state sample-ballot lookup, so this is from the Board of Elections' 46-day notice, which gives no ballot language or dollar estimates for the two county levies. Only Mark C. Miller is marked as an incumbent (confirmed from the Allen County Board of Elections roster for the shared 3rd District); other incumbency could not be confirmed from an official roster. Not shown: state legislative and congressional districts; the Ada Public Library and Fostoria City levies; school district issues (McComb Local, North Baltimore Local); and precinct local-liquor-option questions. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 3rd District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-hancock-2026-app3-0209-miller-mark",
+          "name": "Mark C. Miller",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-hancock-2026-cpgen-0101-starn-jonathan",
+          "name": "Jonathan P. Starn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-hancock-2026-probate-juvenile-0209-johnson-kristen",
+          "name": "Kristen K. Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-hancock-2026-commissioner-bechtol-timothy",
+          "name": "Timothy K. Bechtol",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    },
+    {
+      "office": "County Auditor (term beginning 3/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-hancock-2026-auditor-rauschenberg-charity",
+          "name": "Charity Rauschenberg",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Hancock County ADAMH Board Tax Levy",
+      "title": "Proposed Tax Levy (Renewal) – Hancock County Board of Alcohol, Drug Addiction and Mental Health Services",
+      "summary": "Asks Hancock County voters whether to renew an existing property tax levy for the Hancock County Board of Alcohol, Drug Addiction and Mental Health Services. The Board of Elections' notice lists it for all Hancock County precincts.",
+      "yesMeans": "The ADAMH Board levy is renewed.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    },
+    {
+      "id": "Hancock County Agency on Aging Tax Levy",
+      "title": "Proposed Tax Levy (Renewal) – Hancock County Agency on Aging (50 North)",
+      "summary": "Asks Hancock County voters whether to renew an existing property tax levy for the Hancock County Agency on Aging (50 North). The Board of Elections' notice lists it for all Hancock County precincts.",
+      "yesMeans": "The Agency on Aging levy is renewed.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    }
+  ],
+  "municipalities": {}
+}

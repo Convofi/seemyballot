@@ -1,0 +1,101 @@
+{
+  "state": "OH",
+  "county": "Miami County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=045___2&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/miami/cnm.aspx",
+    "https://www.boe.ohio.gov/miami/c/upload/FWAB__PiquaSpecialNovember3,2026.pdf"
+  ],
+  "note": "Not shown: state legislative and congressional districts; the Piqua special election items; city, village, township and school district issues (including the Troy City School District renewal); and precinct local-liquor-option questions. The Board of Elections does not number local issues. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 2nd District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-miami-2026-app2-0209-epley-chris",
+          "name": "Chris Epley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-miami-2026-cpgen-0209-pratt-jeannine",
+          "name": "Jeannine N. Pratt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-miami-2026-juvenile-probate-0209-severt-katherine",
+          "name": "Katherine Kemp Severt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-miami-2026-commissioner-mercer-ted",
+          "name": "Ted Mercer",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-miami-2026-commissioner-whitten-bill",
+          "name": "Bill Whitten",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-miami-2026-auditor-gearhardt-matthew",
+          "name": "Matthew W. Gearhardt",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Tri-County Board of Recovery and Mental Health Services Tax Levy",
+      "title": "Proposed Tax Levy (Renewal) – Tri-County Board of Recovery and Mental Health Services (Darke, Miami and Shelby Counties)",
+      "summary": "Asks whether to renew a property tax of up to 0.6 mill for 5 years, beginning in 2027 and first due in 2028, for the Tri-County Board of Recovery and Mental Health Services. The money pays for counseling and supportive services for children and adults through alcohol and drug addiction programs and mental health programs. The county auditor estimates it will collect $2,596,848 a year, or $10 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The 0.6-mill recovery and mental health levy is renewed for 5 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=045___2&bpty=X"
+    },
+    {
+      "id": "Miami County Park District Tax Levy",
+      "title": "Proposed Tax Levy (Additional) – Miami County Park District",
+      "summary": "Asks whether to levy an additional property tax of up to 1.4 mills for 10 years, beginning in 2026 and first due in 2027, for the Miami County Park District's nature reserves, preserves, facilities and programs. The Board of Park Commissioners has committed by resolution not to collect the district's existing 1.5-mill levy if this tax is approved. The county auditor estimates it will collect $5,966,102 a year, or $49 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The 1.4-mill park district levy takes effect for 10 years, and the existing 1.5-mill levy is not collected.",
+      "noMeans": "The new levy is not imposed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=017___1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/miami/getballot.aspx?elect=20261103G&prsid=045___2&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

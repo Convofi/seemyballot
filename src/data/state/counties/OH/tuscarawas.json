@@ -1,0 +1,127 @@
+{
+  "state": "OH",
+  "county": "Tuscarawas County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0033__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/cnm.aspx"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city issues (including the City of New Philadelphia parks levy, Issue 9); village, township and school district issues; and precinct local-liquor-option questions. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-tuscarawas-2026-app5-0209-george-matthew",
+          "name": "Matthew George",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-tuscarawas-2026-cpgen-0102-ernest-michael",
+          "name": "Michael J. Ernest",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-tuscarawas-2026-cpgen-unexp-styer-ryan",
+          "name": "Ryan Styer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-tuscarawas-2026-cpgen-unexp-weimer-christine",
+          "name": "Christine M. Weimer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-tuscarawas-2026-juvenile-probate-0209-wilgus-adam",
+          "name": "Adam W. Wilgus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "oh-tuscarawas-2026-commissioner-watson-kent",
+          "name": "Kent A. Watson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-tuscarawas-2026-commissioner-zemis-kristin",
+          "name": "Kristin R. Zemis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-tuscarawas-2026-auditor-contini-lisa",
+          "name": "Lisa Contini",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-tuscarawas-2026-auditor-rinehart-joe",
+          "name": "Joe Rinehart",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X"
+    },
+    {
+      "office": "Prosecuting Attorney (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-tuscarawas-2026-prosecutor-unexp-deedrick-r",
+          "name": "R. Scott Deedrick",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 8",
+      "title": "Tuscarawas County – Proposed Tax Levy (Additional): Developmental Disabilities",
+      "summary": "Asks whether Tuscarawas County may levy an additional property tax of up to 1.2 mills for 10 years, beginning in 2026 and first due in 2027. The money pays for community programs and services of the county board of developmental disabilities and for acquiring, building, renovating, financing, maintaining and operating developmental disabilities facilities. The county auditor estimates it will collect $4,214,524 a year, or $42 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The additional 1.2-mill developmental disabilities levy takes effect for 10 years.",
+      "noMeans": "The additional levy is not imposed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0013__1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/getballot.aspx?elect=20261103G&prsid=0033__1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

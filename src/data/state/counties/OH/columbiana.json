@@ -1,0 +1,81 @@
+{
+  "state": "OH",
+  "county": "Columbiana County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/columbiana/getballot.aspx?elect=20261103G&prsid=010___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/columbiana/getballot.aspx?elect=20261103G&prsid=024___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/columbiana/cnm.aspx"
+  ],
+  "note": "Mark Anthony Hanni is a sitting 7th District judge in a different seat; the 2/10/2027 seat is held by Cheryl L. Waite, so no candidate in that race is marked as incumbent. Not shown: state legislative and congressional districts; city, village, township and school district issues (including the Salem City recreation levy and Center Township fire levy); and precinct local-liquor-option questions. No countywide issue is on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 7th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-columbiana-2026-app7-0209-johnson-molly",
+          "name": "Molly K. Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/columbiana/getballot.aspx?elect=20261103G&prsid=010___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 7th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-columbiana-2026-app7-0210-rudzik-katherine",
+          "name": "Katherine Rudzik",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-columbiana-2026-app7-0210-hanni-mark",
+          "name": "Mark Anthony Hanni",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/columbiana/getballot.aspx?elect=20261103G&prsid=010___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-columbiana-2026-probate-juvenile-0209-baronzzi-thomas",
+          "name": "Thomas M. Baronzzi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/columbiana/getballot.aspx?elect=20261103G&prsid=010___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-columbiana-2026-commissioner-halleck-mike",
+          "name": "Mike Halleck",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/columbiana/getballot.aspx?elect=20261103G&prsid=010___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-columbiana-2026-auditor-milliken-nancy",
+          "name": "Nancy Gause Milliken",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/columbiana/getballot.aspx?elect=20261103G&prsid=010___1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,69 @@
+{
+  "state": "OH",
+  "county": "Allen County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/allen/getballot.aspx?elect=20261103G&prsid=0005__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/allen/getballot.aspx?elect=20261103G&prsid=0028__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/allen/cnm.aspx"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city issues (including the City of Lima referendum on Ordinance No. 022-26); village, township and school district issues; and precinct local-liquor-option questions. No countywide issue is on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 3rd District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-allen-2026-app3-0209-miller-mark",
+          "name": "Mark C. Miller",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/allen/getballot.aspx?elect=20261103G&prsid=0005__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-allen-2026-probate-0209-kohlrieser-todd",
+          "name": "Todd E. Kohlrieser",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/allen/getballot.aspx?elect=20261103G&prsid=0005__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-allen-2026-commissioner-modic-lew",
+          "name": "Lew Modic",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-allen-2026-commissioner-winegardner-brian",
+          "name": "Brian Winegardner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/allen/getballot.aspx?elect=20261103G&prsid=0005__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-allen-2026-auditor-gilroy-rachael",
+          "name": "Rachael S. Gilroy",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/allen/getballot.aspx?elect=20261103G&prsid=0005__1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

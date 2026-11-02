@@ -1,0 +1,87 @@
+{
+  "state": "OH",
+  "county": "Muskingum County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=15____1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/muskingum/cnm.aspx"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city, village, township and school district issues; and precinct local-liquor-option questions. No countywide issue is on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-muskingum-2026-app5-0209-george-matthew",
+          "name": "Matthew George",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-muskingum-2026-cpgen-0101-anderson-gerald",
+          "name": "Gerald Anderson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-muskingum-2026-domrel-0102-kalis-maria",
+          "name": "Maria N. Kalis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-muskingum-2026-probate-juvenile-0209-martin-eric",
+          "name": "Eric D. Martin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "oh-muskingum-2026-commissioner-bell-melissa",
+          "name": "Melissa Bell",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-muskingum-2026-auditor-huebner-tina",
+          "name": "Tina M. Huebner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/muskingum/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,85 @@
+{
+  "state": "OH",
+  "county": "Geauga County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/geauga/cnm.aspx"
+  ],
+  "note": "Not shown: state legislative and congressional districts; city, village, township and school district issues (including Auburn Township Issue 11); and precinct local-liquor-option questions. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-geauga-2026-app11-0209-cornachio-marisa",
+          "name": "Marisa L. Cornachio",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 11th District (term beginning 2/10/2027)",
+      "candidates": [
+        {
+          "key": "oh-geauga-2026-app11-0210-patton-robert",
+          "name": "Robert J. Patton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-geauga-2026-probate-juvenile-0209-mueller-abbey",
+          "name": "Abbey King Mueller",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "oh-geauga-2026-commissioner-oluic-steven",
+          "name": "Steven Oluic",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-geauga-2026-auditor-deboth-joe",
+          "name": "Joe DeBoth",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 8",
+      "title": "Geauga County – Proposed Tax Levy (Renewal): Streets, Roads and Bridges",
+      "summary": "Asks whether Geauga County may renew a property tax of up to 2.5 mills for 5 years, beginning in 2026 and first due in 2027, for building, rebuilding, resurfacing and repairing streets, roads and bridges. The county auditor estimates it will collect $3,729,532 a year, or $21 for each $100,000 of the auditor's market value.",
+      "yesMeans": "The 2.5-mill county road and bridge levy is renewed for 5 years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X",
+      "moreInfo": "https://lookup.boe.ohio.gov/vtrapp/geauga/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

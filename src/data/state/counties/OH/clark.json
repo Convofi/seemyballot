@@ -1,0 +1,117 @@
+{
+  "state": "OH",
+  "county": "Clark County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=028___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/clark/cnm.aspx"
+  ],
+  "note": "Seth Evans appears on the ballot with no party label and is listed here as Independent. Not shown: state legislative and congressional districts; the Clark County Combined Health District levy (it excludes the City of New Carlisle); city issues (including the City of Springfield gas aggregation ordinance and the New Carlisle income tax); village, township and school district issues; and precinct local-liquor-option questions. No issue that every Clark County voter votes on is on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 2nd District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-clark-2026-app2-0209-epley-chris",
+          "name": "Chris Epley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-clark-2026-probate-0209-carey-richard",
+          "name": "Richard P. Carey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-clark-2026-commissioner-0101-rittenhouse-sasha",
+          "name": "Sasha Rittenhouse",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-clark-2026-commissioner-0101-soles-bradley",
+          "name": "Bradley Soles",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (unexpired term ending 1/1/2029)",
+      "candidates": [
+        {
+          "key": "oh-clark-2026-commissioner-unexp-evans-seth",
+          "name": "Seth Evans",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "oh-clark-2026-commissioner-unexp-kaffenbarger-greg",
+          "name": "Greg R. Kaffenbarger",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-clark-2026-auditor-hamilton-hillary",
+          "name": "Hillary Hamilton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Recorder (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-clark-2026-recorder-unexp-sakaitis-bonnie",
+          "name": "Bonnie Sakaitis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Coroner (unexpired term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "oh-clark-2026-coroner-unexp-khan-aamir",
+          "name": "Aamir Khan",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-clark-2026-coroner-unexp-macy-joel",
+          "name": "Joel Macy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/clark/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

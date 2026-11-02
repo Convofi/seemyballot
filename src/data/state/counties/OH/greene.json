@@ -4,9 +4,10 @@
   "verifiedAt": "2026-11-02",
   "sources": [
     "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X",
-    "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=201___1&bpty=X"
+    "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=201___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/clark/cnm.aspx"
   ],
-  "note": "Not shown: state legislative and congressional districts; city issues (including the City of Xenia charter amendments, Issue 22); village, township and school district issues; and precinct local-liquor-option questions. The Greene County government website blocked automated access, so no candidate is marked as incumbent because incumbency could not be confirmed from an official roster. Check your official sample ballot for district and local items.",
+  "note": "Not shown: state legislative and congressional districts; city issues (including the City of Xenia charter amendments, Issue 22); village, township and school district issues; and precinct local-liquor-option questions. The Greene County government website blocked automated access, so county incumbency could not be confirmed; only Chris Epley is marked as an incumbent, confirmed from the Clark County Board of Elections roster for the shared 2nd District. Check your official sample ballot for district and local items.",
   "contests": [
     {
       "office": "Judge of the Court of Appeals, 2nd District (term beginning 2/9/2027)",
@@ -15,7 +16,7 @@
           "key": "oh-greene-2026-app2-0209-epley-chris",
           "name": "Chris Epley",
           "party": "Republican",
-          "incumbent": false
+          "incumbent": true
         }
       ],
       "source": "https://lookup.boe.ohio.gov/vtrapp/greene/getballot.aspx?elect=20261103G&prsid=300___1&bpty=X"
