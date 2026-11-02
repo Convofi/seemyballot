@@ -1,0 +1,123 @@
+{
+  "state": "MI",
+  "county": "Ingham County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.dropbox.com/scl/fi/5b4627tqe8txa3n6x8jxs/Ingham-November-Candidate-List-2026.pdf?rlkey=c667w1wrw04pglk94aoxujrws&dl=0",
+    "https://www.dropbox.com/scl/fi/0fzyagh65t25x6usgijg0/Ingham-Proposal-List-November-2026.pdf?rlkey=eusvsdrpb0rbxre3v8h023ujv&dl=0",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302"
+  ],
+  "note": "No Ingham County executive or row offices and no countywide proposals are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, 54-B and 55th District Court judges, Lansing Community College trustees, school board members, city, village and township offices, and city, township, village, school and Eaton County proposals outside Lansing. Each depends on a district the address lookup cannot resolve. Lansing city offices are elected in odd years. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "candidates": [
+        {
+          "key": "mi-ingham-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ingham-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ingham-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 30th Circuit, Incumbent Position (6-year term; vote for 3)",
+      "candidates": [
+        {
+          "key": "mi-ingham-2026-circuit-inc-aquilina-rosemarie",
+          "name": "Rosemarie Elizabeth Aquilina",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ingham-2026-circuit-inc-koenig-carol",
+          "name": "Carol N. Koenig",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ingham-2026-circuit-inc-stokes-wanda",
+          "name": "Wanda M. Stokes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 30th Circuit, Incumbent Position (partial term ending 1/1/2029)",
+      "candidates": [
+        {
+          "key": "mi-ingham-2026-circuit-inc-partial2029-tremblay-patricia",
+          "name": "Patricia Tremblay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-ingham-2026-probate-inc-garcia-richard",
+          "name": "Richard J. Garcia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.dropbox.com/scl/fi/5b4627tqe8txa3n6x8jxs/Ingham-November-Candidate-List-2026.pdf?rlkey=c667w1wrw04pglk94aoxujrws&dl=0"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Lansing": {
+      "contests": [
+        {
+          "office": "Judge of District Court, 54-A District, Incumbent Position (6-year term)",
+          "candidates": [
+            {
+              "key": "mi-ingham-2026-54a-inc-buchanan-stacia",
+              "name": "Stacia Buchanan",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Lansing Essential Services Millage Restoration Proposal",
+          "title": "Essential Services Millage Restoration",
+          "summary": "Would restore Lansing's charter property tax from the rolled-back 19.2214 mills to the full 20 mills, an increase of 0.7786 mill ($0.7786 per $1,000 of taxable value), for 2027 through 2031. The money funds essential services including police and fire protection and local road and sidewalk maintenance. It is estimated to raise about $2,585,101 in the first year.",
+          "yesMeans": "Lansing's charter millage is restored to 20 mills for 2027 through 2031.",
+          "noMeans": "The charter millage stays at the rolled-back 19.2214 mills.",
+          "source": "https://www.dropbox.com/scl/fi/0fzyagh65t25x6usgijg0/Ingham-Proposal-List-November-2026.pdf?rlkey=eusvsdrpb0rbxre3v8h023ujv&dl=0"
+        },
+        {
+          "id": "Citizens' Advisory Healthcare Action Board Charter Amendment",
+          "title": "Citizens' Advisory Healthcare Action Board Charter Amendment",
+          "summary": "Would amend the Lansing City Charter to require creating a Citizens' Advisory Healthcare Action Board. The board would write a Lansing Healthcare Action Plan and make recommendations to the community on healthcare costs and access. The amendment sets the board's powers, duties, membership and organization, and requires the plan to be published, presented publicly and accompanied by implementation recommendations.",
+          "yesMeans": "The charter would require a Citizens' Advisory Healthcare Action Board and a Lansing Healthcare Action Plan.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.dropbox.com/scl/fi/0fzyagh65t25x6usgijg0/Ingham-Proposal-List-November-2026.pdf?rlkey=eusvsdrpb0rbxre3v8h023ujv&dl=0"
+        }
+      ]
+    }
+  }
+}

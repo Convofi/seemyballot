@@ -1,0 +1,123 @@
+{
+  "state": "OH",
+  "county": "Warren County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/warren/cfis.aspx",
+    "https://vote.warrencountyohio.gov/doc/CandIssues/List_of_Offices.pdf",
+    "https://vote.warrencountyohio.gov/doc/CandIssues/Certified_Write_In_List.pdf",
+    "https://vote.warrencountyohio.gov/CandIssues/UpcomingIssues/Index",
+    "https://vote.warrencountyohio.gov/doc/CandIssues/Elections/20261103/Issues/06_Mental_Health_Recovery_Board_Ren_1_Mil_5_yrs.pdf",
+    "https://vote.warrencountyohio.gov/doc/CandIssues/Elections/20261103/Issues/07_Warren_County_Senior_Services_Ren_1.21_mills_5_Yrs.pdf",
+    "https://www.warrencountyohio.gov/About/ElectedOfficials/Index"
+  ],
+  "note": "In the 12th District Court of Appeals seat with a term beginning 1/1/2027, the nominated candidate withdrew; only a certified write-in candidate remains. Not shown: legislative and congressional districts, school district income taxes (Franklin, Lebanon), Franklin Township senior levy, Turtlecreek Township fire levy, and precinct local-liquor-option questions. City offices and city issues are not included in this county-level file. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 12th District (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-warren-2026-app12-0101-concannon-willa",
+          "name": "Willa Concannon",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://vote.warrencountyohio.gov/doc/CandIssues/Certified_Write_In_List.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 12th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-warren-2026-app12-0209-hendrickson-robert",
+          "name": "Robert A. Hendrickson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/warren/cfis.aspx"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/8/2027)",
+      "candidates": [
+        {
+          "key": "oh-warren-2026-cpgen-0208-loxley-gary",
+          "name": "Gary A. Loxley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/warren/cfis.aspx"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division (term beginning 2/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-warren-2026-probjuv-0201-kirby-joseph",
+          "name": "Joseph W. Kirby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/warren/cfis.aspx"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-warren-2026-commissioner-0101-bowles-katherine",
+          "name": "Katherine Bowles",
+          "party": "Libertarian",
+          "incumbent": false
+        },
+        {
+          "key": "oh-warren-2026-commissioner-0101-grossmann-tom",
+          "name": "Tom Grossmann",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "oh-warren-2026-commissioner-0101-logan-ian",
+          "name": "Ian Logan",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/warren/cfis.aspx"
+    },
+    {
+      "office": "County Auditor (term beginning 3/8/2027)",
+      "candidates": [
+        {
+          "key": "oh-warren-2026-auditor-nolan-matt",
+          "name": "Matt Nolan",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/warren/cfis.aspx"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 6",
+      "title": "Mental Health Recovery Board Serving Warren and Clinton Counties – Proposed Tax Levy (Renewal)",
+      "summary": "Renews a property tax of up to 1 mill for five years for the current expenses of the Mental Health Recovery Board Serving Warren and Clinton Counties. The county auditor estimates it will collect $7,677,198 a year, which amounts to $16 for each $100,000 of the auditor's market value. Collection would start in 2027, first due in 2028.",
+      "yesMeans": "The 1-mill mental health recovery levy is renewed for five years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://vote.warrencountyohio.gov/doc/CandIssues/Elections/20261103/Issues/06_Mental_Health_Recovery_Board_Ren_1_Mil_5_yrs.pdf",
+      "moreInfo": "https://vote.warrencountyohio.gov/CandIssues/UpcomingIssues/Index"
+    },
+    {
+      "id": "Issue 7",
+      "title": "Warren County – Proposed Tax Levy (Renewal): Senior Citizens Services",
+      "summary": "Renews a Warren County property tax of up to 1.21 mills for five years to provide or maintain senior citizens services. The county auditor estimates it will collect $9,016,446 a year, which amounts to $22 for each $100,000 of the auditor's market value. Collection would start in 2026, first due in 2027.",
+      "yesMeans": "The 1.21-mill senior services levy is renewed for five years.",
+      "noMeans": "The levy is not renewed.",
+      "source": "https://vote.warrencountyohio.gov/doc/CandIssues/Elections/20261103/Issues/07_Warren_County_Senior_Services_Ren_1.21_mills_5_Yrs.pdf",
+      "moreInfo": "https://vote.warrencountyohio.gov/CandIssues/UpcomingIssues/Index"
+    }
+  ],
+  "municipalities": {}
+}

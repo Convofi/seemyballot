@@ -1,0 +1,105 @@
+{
+  "state": "MI",
+  "county": "Kalamazoo County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://comstockmi.gov/wp-content/uploads/2026/10/Comstock-Township-Precinct-1-Sample-Ballot-November-3-2026.pdf",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302"
+  ],
+  "note": "No Kalamazoo County partisan offices and no countywide proposals appear on this ballot. Not shown: State House and Senate districts, Kalamazoo Valley Community College trustees, school board members, city, village and township offices, and city, township, village and school proposals (including the Comstock Township recall). Each depends on a district the address lookup cannot resolve. City of Kalamazoo items are not shown because the county and city election pages could not be reached to confirm them. Check your official sample ballot at mi.gov/vote for district and local contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term; vote for 3)",
+      "candidates": [
+        {
+          "key": "mi-kalamazoo-2026-app1-inc-bazzi-mariam",
+          "name": "Mariam Saad Bazzi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-kalamazoo-2026-app1-inc-letica-anica",
+          "name": "Anica Letica",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-kalamazoo-2026-app1-inc-murray-christopher",
+          "name": "Christopher M. Murray",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-kalamazoo-2026-app1-inc-partial2031-lievense-andrew",
+          "name": "Andrew J. Lievense",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 9th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-kalamazoo-2026-circuit-inc-giguere-gary",
+          "name": "Gary C. Giguere Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-kalamazoo-2026-probate-inc-ankley-tiffany",
+          "name": "Tiffany A. Ankley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 8th District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-kalamazoo-2026-8thdistrict-inc-hemingway-kathleen",
+          "name": "Kathleen P. Hemingway",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 8th District, Non-Incumbent Position (6-year term; vote for 2)",
+      "candidates": [
+        {
+          "key": "mi-kalamazoo-2026-8thdistrict-noninc-holsomback-mark",
+          "name": "Mark A. Holsomback",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-kalamazoo-2026-8thdistrict-noninc-vinales-rachel",
+          "name": "Rachel Vinales",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
