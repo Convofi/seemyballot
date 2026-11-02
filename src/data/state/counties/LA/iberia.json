@@ -1,0 +1,47 @@
+{
+  "state": "LA",
+  "county": "Iberia Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=24&parishName=IBERIA",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 55 Iberia Parish precincts; no local race or question appears on every precinct ballot in the parish, and the New Iberia items appear on every ballot that includes the City of New Iberia. Unopposed candidates were declared elected and do not appear on the ballot: District Attorney (\"Mike\" Haik), 16th Judicial District Court Election Section 1 Divisions G and H and Election Section 2 Divisions A, B, C, D, E and F, New Iberia and Jeanerette City Marshals, and most School Board seats. Iberia Parish Council seats are not on this ballot. Not shown because they depend on where you live: School Board Districts 1, 9, 11, 12 and 13; Justices of the Peace and Constables; and the Hopkins Street Economic Development District sales tax. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "New Iberia": {
+      "contests": [
+        {
+          "office": "City Judge, New Iberia City Court",
+          "candidates": [
+            {
+              "key": "la-iberia-2026-new-iberia-city-judge-burke-nicole",
+              "name": "Nicole Burke",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-iberia-2026-new-iberia-city-judge-clark-kay",
+              "name": "Kay Pitman Clark",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=24&parishName=IBERIA"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of New Iberia - Amends Section 3-06",
+          "title": "City of New Iberia - Amends Section 3-06 - CC",
+          "summary": "Asks whether to amend Section 3-06 of the New Iberia Home Rule Charter, as set out in Ordinance 2026-08 adopted by the City Council on April 7, 2026, to revise the mayor's compensation. The change would take effect at the start of the mayor's next regular term, scheduled to begin January 1, 2029.",
+          "yesMeans": "The charter is amended to revise the mayor's pay starting with the term that begins in 2029.",
+          "noMeans": "The charter section on the mayor's pay stays as it is.",
+          "source": "https://voterportal.sos.la.gov/SampleBallot"
+        }
+      ]
+    }
+  }
+}

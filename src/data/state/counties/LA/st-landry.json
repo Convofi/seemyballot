@@ -1,0 +1,140 @@
+{
+  "state": "LA",
+  "county": "St. Landry Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=50&parishName=ST.%20LANDRY",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 91 St. Landry Parish precincts; no local race or question appears on every precinct ballot in the parish, and the Opelousas items appear on every ballot that includes the City of Opelousas. The Opelousas City Court marshal race is also on ballots outside the city within the court's jurisdiction. Unopposed candidates were declared elected and do not appear on the ballot: District Attorney (Chad P. Pitre), Associate Justice of the Supreme Court 3rd District, 27th Judicial District Court Divisions A, B and D, Opelousas and Eunice City Court judges, Eunice police chief, and most School Board seats. St. Landry Parish Council seats are not on this ballot. Not shown because they depend on where you live: 27th Judicial District Court Election Section 1 Division C; Opelousas Alderman Districts A-E; Eunice City Court marshal and Eunice mayor and aldermen; School Board districts; Justices of the Peace and Constables; and town and village races in Washington, Melville, Palmetto, Port Barre, Leonville, Sunset, Grand Coteau and Arnaudville. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Opelousas": {
+      "contests": [
+        {
+          "office": "Mayor, City of Opelousas",
+          "candidates": [
+            {
+              "key": "la-st-landry-2026-opelousas-mayor-alsandor-julius",
+              "name": "Julius Alsandor",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-mayor-anderson-sona",
+              "name": "Sona Anderson",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-mayor-broussard-donald",
+              "name": "Donald Broussard",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-mayor-guillory-elbert",
+              "name": "Elbert Lee Guillory",
+              "party": "Republican",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-mayor-lamb-kenon",
+              "name": "Kenon Lamb",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-mayor-mcknight-devin",
+              "name": "Devin Manuel McKnight",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-mayor-sias-rod",
+              "name": "\"Rod\" Sias",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=50&parishName=ST.%20LANDRY"
+        },
+        {
+          "office": "Chief of Police, City of Opelousas",
+          "candidates": [
+            {
+              "key": "la-st-landry-2026-opelousas-police-chief-leblanc-graig",
+              "name": "Graig \"Twin\" LeBlanc",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-police-chief-lewis-yolanda",
+              "name": "Yolanda Lewis",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-police-chief-martin-ebony",
+              "name": "Ebony Martin",
+              "party": "Independent",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=50&parishName=ST.%20LANDRY"
+        },
+        {
+          "office": "Alderman at Large, City of Opelousas",
+          "candidates": [
+            {
+              "key": "la-st-landry-2026-opelousas-alderman-at-large-jackson-ron",
+              "name": "Ron Jackson",
+              "party": "Independent",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-alderman-at-large-martin-jacqueline",
+              "name": "Jacqueline Angelle Martin",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-alderman-at-large-richard-marvin",
+              "name": "Marvin Tyrone Richard",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=50&parishName=ST.%20LANDRY"
+        },
+        {
+          "office": "City Marshal, Opelousas City Court",
+          "candidates": [
+            {
+              "key": "la-st-landry-2026-opelousas-marshal-alsandor-bruce",
+              "name": "Bruce Alsandor",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-marshal-mouton-paul",
+              "name": "Paul Mouton",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "la-st-landry-2026-opelousas-marshal-shelvin-easton",
+              "name": "Easton Shelvin",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=50&parishName=ST.%20LANDRY"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "state": "LA",
+  "county": "Acadia Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=2&parishName=ACADIA",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 47 Acadia Parish precincts; the District Attorney race is the only local item on every precinct ballot. Unopposed candidates were declared elected and do not appear on the ballot: 15th Judicial District Court Election Section 1 Divisions B and D and Election Section 4 Divisions A, F and J, Crowley, Eunice and Rayne City Court judges, Crowley and Rayne City Marshals, and most School Board seats. Acadia Parish Police Jury seats are not on this ballot. Not shown here (city and town races are not listed for this parish, or they depend on where you live): Crowley mayor, police chief, aldermen and Propositions No. 1-4 of 4; Rayne, Eunice, Church Point, Basile, Duson, Iota, Mermentau and Estherwood races; Eunice City Court marshal; School Board districts; and Justices of the Peace and Constables. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Attorney, 15th Judicial District",
+      "candidates": [
+        {
+          "key": "la-acadia-2026-da-earles-kristian",
+          "name": "Kristian Earles",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "la-acadia-2026-da-landry-donald",
+          "name": "Donald \"Don\" Landry",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=2&parishName=ACADIA"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
