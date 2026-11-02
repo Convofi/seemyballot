@@ -1,0 +1,81 @@
+{
+  "state": "AL",
+  "county": "Shelby County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Shelby-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots",
+    "https://www.shelbyso.com/"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Shelby County sample ballot. Not shown because they depend on your district: Superintendent of the Shelby County Board of Education and Shelby County Board of Education Place No. 1 (on most ballot styles but not all; voters in city school systems may not vote on them). No municipal race or question appears on this ballot. Incumbent flags other than Sheriff are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "District Court Judge, Shelby County, Place No. 3",
+      "candidates": [
+        {
+          "key": "al-shelby-2026-district-p3-fuller-ben",
+          "name": "Ben Fuller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Shelby-Sample.pdf"
+    },
+    {
+      "office": "Shelby County Sheriff",
+      "candidates": [
+        {
+          "key": "al-shelby-2026-sheriff-weatherly-antonio",
+          "name": "Antonio Weatherly",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-shelby-2026-sheriff-samaniego-john",
+          "name": "John Samaniego",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Shelby-Sample.pdf"
+    },
+    {
+      "office": "Shelby County Coroner",
+      "candidates": [
+        {
+          "key": "al-shelby-2026-coroner-sturdevant-marsha",
+          "name": "Marsha S Sturdevant",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-shelby-2026-coroner-evans-lina",
+          "name": "Lina Evans",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Shelby-Sample.pdf"
+    },
+    {
+      "office": "Shelby County Property Tax Commissioner",
+      "candidates": [
+        {
+          "key": "al-shelby-2026-property-tax-commissioner-knight-michelle",
+          "name": "Michelle Vaughner Knight",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "al-shelby-2026-property-tax-commissioner-tidmore-jacob",
+          "name": "Jacob Tidmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Shelby-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

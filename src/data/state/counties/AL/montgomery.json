@@ -1,0 +1,107 @@
+{
+  "state": "AL",
+  "county": "Montgomery County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Montgomery County sample ballot. Not shown because they depend on your district: Montgomery County Board of Education Districts 1, 2, 3, 5 and 6. The City of Montgomery has no race of its own on this ballot; Local Amendment 1 concerns the Montgomery City Council but is voted on countywide. Incumbents are not marked because the ballot does not identify incumbents and an official roster could not be confirmed. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 15th Judicial Circuit, Place No. 2",
+      "candidates": [
+        {
+          "key": "al-montgomery-2026-circuit-p2-reid-brooke",
+          "name": "Brooke Reid",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 15th Judicial Circuit, Place No. 4",
+      "candidates": [
+        {
+          "key": "al-montgomery-2026-circuit-p4-gaines-j-r",
+          "name": "J.R. Gaines",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 15th Judicial Circuit, Place No. 7",
+      "candidates": [
+        {
+          "key": "al-montgomery-2026-circuit-p7-james-lloria",
+          "name": "Lloria Munnerlyn James",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 15th Judicial Circuit, Place No. 9",
+      "candidates": [
+        {
+          "key": "al-montgomery-2026-circuit-p9-mccord-tiffany",
+          "name": "Tiffany B. McCord",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    },
+    {
+      "office": "District Court Judge, Montgomery County, Place No. 1",
+      "candidates": [
+        {
+          "key": "al-montgomery-2026-district-p1-dunson-samarria",
+          "name": "Samarria Munnerlyn Dunson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    },
+    {
+      "office": "Montgomery County Sheriff",
+      "candidates": [
+        {
+          "key": "al-montgomery-2026-sheriff-cunningham-derrick",
+          "name": "Derrick Cunningham",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    },
+    {
+      "office": "Montgomery County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-montgomery-2026-revenue-commissioner-holland-allyson",
+          "name": "Allyson Holland",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Amendment 1",
+      "title": "Montgomery County: Montgomery City Council members in the Employees' Retirement System (Act 2025-181)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 relating to Montgomery County. It would authorize the members of the Montgomery City Council to participate in the Employees' Retirement System of Alabama.",
+      "yesMeans": "Members of the Montgomery City Council would be authorized to participate in the Employees' Retirement System of Alabama.",
+      "noMeans": "The constitution is not amended and this authorization for city council members is not added.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Montgomery-Sample.pdf"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,60 @@
+{
+  "state": "AL",
+  "county": "Tuscaloosa County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Tuscaloosa-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots",
+    "https://www.tcsoal.org/"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Tuscaloosa County sample ballot. Not shown because they depend on your district: Tuscaloosa County Board of Education Districts 2 and 4. The City of Tuscaloosa has no race or question on this ballot. Incumbent flags other than Sheriff are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 6th Judicial Circuit, Place No. 4",
+      "candidates": [
+        {
+          "key": "al-tuscaloosa-2026-circuit-p4-pruet-daniel",
+          "name": "Daniel F. Pruet",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Tuscaloosa-Sample.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 6th Judicial Circuit, Place No. 7",
+      "candidates": [
+        {
+          "key": "al-tuscaloosa-2026-circuit-p7-steverson-dennis",
+          "name": "Dennis Steverson, Sr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Tuscaloosa-Sample.pdf"
+    },
+    {
+      "office": "Tuscaloosa County Sheriff",
+      "candidates": [
+        {
+          "key": "al-tuscaloosa-2026-sheriff-abernathy-ron",
+          "name": "Ron Abernathy",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Tuscaloosa-Sample.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Amendment 1",
+      "title": "Tuscaloosa County: full-time municipal mayors in the Employees' Retirement System (Act 2026-377)",
+      "summary": "A local amendment to the Constitution of Alabama of 2022 that applies only to Tuscaloosa County. It would authorize the full-time mayors of municipalities in the county to participate in the Employees' Retirement System of Alabama under the same terms and conditions as other employees in that retirement system.",
+      "yesMeans": "Full-time mayors of municipalities in Tuscaloosa County would be authorized to participate in the Employees' Retirement System of Alabama.",
+      "noMeans": "The constitution is not amended and this authorization for full-time mayors is not added.",
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Tuscaloosa-Sample.pdf"
+    }
+  ],
+  "municipalities": {}
+}
