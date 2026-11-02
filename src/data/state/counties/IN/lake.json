@@ -1,0 +1,152 @@
+{
+  "state": "IN",
+  "county": "Lake County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots",
+    "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20172-H6%2004%20Act%2001-GENERAL.pdf",
+    "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20005-CAL%2014%20Act%2001-GENERAL.pdf",
+    "https://lakecountyin.gov/departments/clerk",
+    "https://lakecountyin.gov/departments/treasurer",
+    "https://lakecountyin.gov/departments/assessor",
+    "https://lakecountyin.gov/departments/prosecutor"
+  ],
+  "note": "Not shown: County Commissioner District 1 and County Council Districts 1-7, township trustee, township board and township assessor races, and school board races (including the School City of Hammond at-large seats). These depend on your district, township or school district, so check your sample ballot at lakecountyin.gov. Hammond and Gary city offices are not on the 2026 ballot (next elected in 2027). County Recorder, Coroner and Surveyor are not up in 2026. No countywide public question is on the ballot; the two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Lake is in the Court of Appeals Third District, which has no judge on the 2026 ballot.",
+  "contests": [
+    {
+      "office": "Prosecuting Attorney, 31st Judicial Circuit (Lake County)",
+      "candidates": [
+        {
+          "key": "in-lake-2026-prosecutor-carter-bernard",
+          "name": "Bernard A. Carter",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Lake County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-lake-2026-clerk-brown-mike",
+          "name": "Mike Brown",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "in-lake-2026-clerk-dallner-leslie",
+          "name": "Leslie Dallner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Lake County Auditor",
+      "candidates": [
+        {
+          "key": "in-lake-2026-auditor-pimentel-regina",
+          "name": "Regina (Gina) Pimentel",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-lake-2026-auditor-messler-charles",
+          "name": "Charles (Chuck) Messler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Lake County Treasurer",
+      "candidates": [
+        {
+          "key": "in-lake-2026-treasurer-petalas-john",
+          "name": "John E. Petalas",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "in-lake-2026-treasurer-deane-kevin",
+          "name": "Kevin B. Deane",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Lake County Sheriff",
+      "candidates": [
+        {
+          "key": "in-lake-2026-sheriff-williams-jerry",
+          "name": "Jerry Williams",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-lake-2026-sheriff-crane-david",
+          "name": "David K. Crane, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Lake County Assessor",
+      "candidates": [
+        {
+          "key": "in-lake-2026-assessor-spearman-latonya",
+          "name": "LaTonya Spearman",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Lake Superior Court, County Division Room Three - Judicial Retention: Judge Julie N. Cantrell (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-lake-2026-supret-cantrell-julie",
+          "name": "Julie N. Cantrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20172-H6%2004%20Act%2001-GENERAL.pdf"
+    },
+    {
+      "office": "Lake Superior Court, County Division Room One - Judicial Retention: Judge Nicholas J. Schiralli (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-lake-2026-supret-schiralli-nicholas",
+          "name": "Nicholas J. Schiralli",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20172-H6%2004%20Act%2001-GENERAL.pdf"
+    },
+    {
+      "office": "Lake Superior Court, Civil Division Room One - Judicial Retention: Judge John M. Sedia (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-lake-2026-supret-sedia-john",
+          "name": "John M. Sedia",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lakecountyin.gov/departments/voters/2026-ELECTION/2026-General-Election-Sample-Ballots/Pct%20172-H6%2004%20Act%2001-GENERAL.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

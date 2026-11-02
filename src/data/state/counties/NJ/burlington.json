@@ -1,0 +1,65 @@
+{
+  "state": "NJ",
+  "county": "Burlington County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.burlingtoncountynj.gov/DocumentCenter/View/25709/General-Election-Candidate-List---Partisan-Offices-PDF",
+    "https://www.burlingtoncountynj.gov/DocumentCenter/View/26096/Burlington-Samples-ALL-Gen26",
+    "https://www.burlingtoncountynj.gov/994/Candidates-Lists",
+    "https://www.burlingtoncountynj.gov/201/Board-of-County-Commissioners"
+  ],
+  "note": "There are no countywide public questions in Burlington County this year. Township council and committee races, Board of Education seats, fire district races, and municipal, school and fire district questions vary by town and are not shown here; Mount Holly's township council and Board of Education races are among these. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Surrogate",
+      "candidates": [
+        {
+          "key": "nj-burlington-2026-surrogate-mcpeak-dale",
+          "name": "Dale McPeak",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-burlington-2026-surrogate-carlin-brian",
+          "name": "Brian J. Carlin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.burlingtoncountynj.gov/DocumentCenter/View/25709/General-Election-Candidate-List---Partisan-Offices-PDF"
+    },
+    {
+      "office": "Members of the Board of County Commissioners",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "nj-burlington-2026-commissioner-abegg-joseph",
+          "name": "Joseph Abegg",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-burlington-2026-commissioner-melton-james",
+          "name": "James Melton",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-burlington-2026-commissioner-brolo-randy",
+          "name": "Randy Brolo",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-burlington-2026-commissioner-chebra-jonathan",
+          "name": "Jonathan Chebra",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.burlingtoncountynj.gov/DocumentCenter/View/25709/General-Election-Candidate-List---Partisan-Offices-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
