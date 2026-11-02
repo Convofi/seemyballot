@@ -1,7 +1,6 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react";
-import Image from "next/image";
 import type { District, LookupResult } from "@/lib/census";
 import FederalContests from "@/components/FederalContests";
 import FeedbackButton from "@/components/FeedbackButton";
@@ -337,16 +336,6 @@ function SiteFooter({ address }: { address?: string }) {
         </p>
         {/* A div, not a p: the feedback <dialog> can't live inside a paragraph. */}
         <div className="mt-1 flex flex-wrap items-center gap-x-4">
-          <a
-            href="https://convofi.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex min-h-11 items-center gap-1.5 text-ink-2 hover:text-ink"
-          >
-            Built by
-            <Image src="/convofi-icon.png" alt="ConvoFi" width={17} height={20} className="h-5 w-auto" />
-            <span aria-hidden="true">ConvoFi</span>
-          </a>
           <a
             href="https://github.com/Convofi/seemyballot"
             target="_blank"

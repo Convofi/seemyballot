@@ -44,7 +44,7 @@ const jsonLd = {
   name: "See My Ballot",
   url: "https://seemyballot.com",
   description,
-  publisher: { "@type": "Organization", name: "ConvoFi", url: "https://convofi.com" },
+  publisher: { "@type": "Organization", name: "See My Ballot", url: "https://seemyballot.com" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
