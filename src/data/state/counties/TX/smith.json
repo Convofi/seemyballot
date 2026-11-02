@@ -1,0 +1,212 @@
+{
+  "state": "TX",
+  "county": "Smith County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=10297&repo=r-927d42fb",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=9921&repo=r-927d42fb",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=9910&repo=r-927d42fb",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=9901&repo=r-927d42fb",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=9920&repo=r-927d42fb",
+    "https://www.smith-county.com/396/Current-Sample-Ballots",
+    "https://www.smith-county.com/233/Current-Election-Information",
+    "https://www.smith-county.com/232/Elected-Officials",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=9307&repo=r-927d42fb",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=10132&repo=r-927d42fb",
+    "https://portal.laserfiche.com/Portal/DocView.aspx?id=10697&repo=r-927d42fb"
+  ],
+  "note": "From Smith County Elections' November 3, 2026 publication sample ballot and precinct sample ballots (the county-level offices shown were confirmed on ballots from all four commissioner precincts: Pcts 100, 200, 300 and 400). Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1-5, U.S. House, State Senate, State House (Districts 5 and 6) and State Board of Education districts, and Smith County Emergency Services District No. 1 and No. 2 commissioner races. The Smith County Appraisal District board election and the City of Tyler District 1 special election were cancelled (unopposed candidates), so there is no Tyler item on the ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. The City of Arp special council election is shown for Arp. Terry Morrow is a declared write-in candidate for County Clerk (not printed on the ballot; party not stated, shown as Independent). Incumbent flags are set only where the county's Elected Officials page lists the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 12th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-coa12-chief-hoyle-brian",
+          "name": "Brian Hoyle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "Justice, 12th Court of Appeals District, Place 3 (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-coa12-p3-davis-michael",
+          "name": "Michael Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "District Judge, 241st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-dj241-gunter-debby",
+          "name": "Debby Gunter",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "District Judge, 321st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-dj321-wilson-robert",
+          "name": "Robert Wilson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-criminal-da-putman-jacob",
+          "name": "Jacob Putman",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-county-judge-franklin-neal",
+          "name": "Neal Franklin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-ccl1-ellis-jason",
+          "name": "Jason Ellis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-ccl2-maynard-sara",
+          "name": "Sara Maynard",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "Judge, County Court at Law No. 3",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-ccl3-white-clay",
+          "name": "Clay White",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-district-clerk-boynton-gaye",
+          "name": "Gaye Boynton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-county-clerk-phillips-karen",
+          "name": "Karen Bryant Phillips",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-smith-2026-county-clerk-morrow-terry",
+          "name": "Terry Morrow",
+          "party": "Independent",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-smith-2026-treasurer-rawlings-atonia",
+          "name": "Atonia Rawlings",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9912&repo=r-927d42fb"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Arp": {
+      "contests": [
+        {
+          "office": "City Council (unexpired term)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "tx-smith-2026-arp-council-darden-ashley",
+              "name": "Ashley Darden",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-smith-2026-arp-council-hines-angie",
+              "name": "Angie N. Hines",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-smith-2026-arp-council-stowers-kyle",
+              "name": "Kyle S. Stowers",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-smith-2026-arp-council-mcdonald-gary",
+              "name": "Gary McDonald",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://portal.laserfiche.com/Portal/DocView.aspx?id=9920&repo=r-927d42fb"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

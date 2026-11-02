@@ -1,0 +1,193 @@
+{
+  "state": "TX",
+  "county": "Ellis County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.elliscountytx.gov/DocumentCenter/View/23936",
+    "https://www.elliscountytx.gov/629/Upcoming-Elections",
+    "https://www.elliscountytx.gov/1401/For-the-November-3-2026-General-and-Spec",
+    "https://www.elliscountytx.gov/DocumentCenter/View/23942",
+    "https://www.elliscountytx.gov/DocumentCenter/View/6870",
+    "https://www.elliscountytx.gov/1394/Ellis-County-Appraisal-District-Candidat",
+    "https://www.elliscountytx.gov/DocumentCenter/View/24135",
+    "https://www.elliscountytx.gov/DocumentCenter/View/24177"
+  ],
+  "note": "From the Ellis County Elections Department's November 3, 2026 generic sample ballot, list of declared write-in candidates, and the city notices of election. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1-4, U.S. House, State Senate (Districts 2 and 22, plus the District 22 unexpired-term special election), State House and State Board of Education districts, Ellis County Emergency Services District No. 5 Proposition A, and Highland Lakes MUD No. 1C and Lakesong Municipal Management District No. 1 and No. 1-B items. The Ellis Appraisal District board election was cancelled (unopposed candidates), so it is not on the ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. The City of Waxahachie has no city contest or measure on this ballot; City of Midlothian Propositions A-E and City of Ennis Proposition A are shown for those cities. Incumbent flags are set only where the county's officials listing names the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 10th Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-coa10-p2-harris-lee",
+          "name": "Lee Harris",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "District Judge, 40th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-dj40-carroll-bob",
+          "name": "Bob Carroll",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "District Judge, 504th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-dj504-wilhelm-greg",
+          "name": "Greg Wilhelm",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-county-judge-raburn-kameron",
+          "name": "Kameron K. Raburn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-ccl1-chapman-jim",
+          "name": "Jim Chapman",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-ccl2-freisner-daniel",
+          "name": "Daniel Freisner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-district-clerk-zarate-jennifer",
+          "name": "Jennifer Zarate",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-county-clerk-valdez-krystal",
+          "name": "Krystal Valdez",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-ellis-2026-treasurer-hartley-lauri",
+          "name": "Lauri Hartley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Midlothian": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Street and road bonds ($102,300,000)",
+          "summary": "The ballot states: \"THIS IS A PROPERTY TAX INCREASE.\" It asks voters to authorize the City of Midlothian to issue $102,300,000 in bonds to design, build, rebuild, improve and expand streets, roads, sidewalks and thoroughfares, including related drainage, utility relocation, signals, lighting, traffic safety improvements and right-of-way, and to levy taxes sufficient to pay the principal of and interest on the bonds.",
+          "yesMeans": "The city may issue up to $102,300,000 in bonds for these projects and levy taxes to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.elliscountytx.gov/DocumentCenter/View/24135",
+          "moreInfo": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+        },
+        {
+          "id": "Proposition B",
+          "title": "Police substation bonds ($6,805,000)",
+          "summary": "The ballot states: \"THIS IS A PROPERTY TAX INCREASE.\" It asks voters to authorize the City of Midlothian to issue $6,805,000 in bonds to design, build, improve and equip a new police department substation, and to levy taxes sufficient to pay the principal of and interest on the bonds.",
+          "yesMeans": "The city may issue up to $6,805,000 in bonds for these projects and levy taxes to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.elliscountytx.gov/DocumentCenter/View/24135",
+          "moreInfo": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+        },
+        {
+          "id": "Proposition C",
+          "title": "Drainage and flood control bonds ($10,000,000)",
+          "summary": "The ballot states: \"THIS IS A PROPERTY TAX INCREASE.\" It asks voters to authorize the City of Midlothian to issue $10,000,000 in bonds for stormwater drainage and flood control improvements across the city, including dredging, channel improvements, utility relocation and land acquisition, and to levy taxes sufficient to pay the principal of and interest on the bonds.",
+          "yesMeans": "The city may issue up to $10,000,000 in bonds for these projects and levy taxes to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.elliscountytx.gov/DocumentCenter/View/24135",
+          "moreInfo": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+        },
+        {
+          "id": "Proposition D",
+          "title": "Existing parks, trails and recreation bonds ($47,260,000)",
+          "summary": "The ballot states: \"THIS IS A PROPERTY TAX INCREASE.\" It asks voters to authorize the City of Midlothian to issue $47,260,000 in bonds to design, build, improve, expand and equip existing parks, trails and recreational facilities, and to levy taxes sufficient to pay the principal of and interest on the bonds.",
+          "yesMeans": "The city may issue up to $47,260,000 in bonds for these projects and levy taxes to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.elliscountytx.gov/DocumentCenter/View/24135",
+          "moreInfo": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+        },
+        {
+          "id": "Proposition E",
+          "title": "New parks, trails and recreation bonds ($26,085,000)",
+          "summary": "The ballot states: \"THIS IS A PROPERTY TAX INCREASE.\" It asks voters to authorize the City of Midlothian to issue $26,085,000 in bonds to design, build, improve, expand and equip new parks, trails and recreational facilities, and to levy taxes sufficient to pay the principal of and interest on the bonds.",
+          "yesMeans": "The city may issue up to $26,085,000 in bonds for these projects and levy taxes to repay them.",
+          "noMeans": "The city may not issue these bonds.",
+          "source": "https://www.elliscountytx.gov/DocumentCenter/View/24135",
+          "moreInfo": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+        }
+      ]
+    },
+    "Ennis": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "Reauthorization of the local sales and use tax for street maintenance",
+          "summary": "Asks voters to reauthorize the City of Ennis local sales and use tax at the rate of one-quarter of one percent (.0025) to continue providing revenue for maintenance and repair of municipal streets. The tax expires on the fourth anniversary of the election unless it is reauthorized again.",
+          "yesMeans": "The quarter-cent sales tax for street maintenance and repair continues for four more years.",
+          "noMeans": "The quarter-cent sales tax for street maintenance and repair is not reauthorized.",
+          "source": "https://www.elliscountytx.gov/DocumentCenter/View/24177",
+          "moreInfo": "https://www.elliscountytx.gov/DocumentCenter/View/23936"
+        }
+      ]
+    }
+  }
+}
