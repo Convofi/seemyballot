@@ -1,0 +1,80 @@
+{
+  "state": "FL",
+  "county": "Brevard County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.votebrevard.gov/Election-Information/2026-General-Election-Sample-Ballots",
+    "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf",
+    "https://www.votebrevard.gov/Election-Information/2026-Amendments-and-Referenda",
+    "https://www.votebrevard.gov/Candidate-Information/2026-Candidates"
+  ],
+  "note": "Brevard County is in the Fifth District Court of Appeal. Not shown: County Commission District 1, School Board Districts 2 and 5 (single-member districts), Sebastian Inlet Tax District 5, Barefoot Bay Recreation District and community development district seats, and other cities' and towns' races and questions (Cape Canaveral, Cocoa, Cocoa Beach, Grant-Valkaria, Malabar, Melbourne, Melbourne Beach, Palm Shores, Rockledge, Satellite Beach, Titusville, West Melbourne). No Canaveral Port Authority, Soil and Water Conservation District, circuit judge or county court judge race, and no Palm Bay City Council race, appears on any of the 166 precinct sample ballots. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        { "key": "fl-brevard-2026-dca5-retain-harris-john", "name": "John M. Harris", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        { "key": "fl-brevard-2026-dca5-retain-makar-scott", "name": "Scott D. Makar", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        { "key": "fl-brevard-2026-dca5-retain-wallis-rand", "name": "F. Rand Wallis", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Brevard County Referendum",
+      "title": "Renewal of the Save Our Indian River Lagoon Half-Cent Sales Tax",
+      "summary": "Asks whether Brevard County should renew its existing Save Our Indian River Lagoon half-cent sales tax for ten years. The money would fund infrastructure, capital improvements, capital maintenance projects and programs to improve water quality and fish and wildlife habitat, remove muck, and reduce pollution in the lagoon. All revenue would go to a trust fund used only for those purposes, with citizen committee oversight and annual independent audits.",
+      "yesMeans": "The Save Our Indian River Lagoon half-cent sales tax is renewed for ten years.",
+      "noMeans": "The Save Our Indian River Lagoon half-cent sales tax is not renewed.",
+      "source": "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf",
+      "moreInfo": "https://www.votebrevard.gov/Election-Information/2026-Amendments-and-Referenda"
+    },
+    {
+      "id": "School Board Referendum (Millage)",
+      "title": "Renewal of Ad Valorem Millage to Sustain Increased Teacher Pay and Other Purposes",
+      "summary": "Asks whether the School Board should renew a one-mill property tax for four years. The money would sustain increased teacher and staff pay, fund technical training for students, and similar purposes, with funds shared with charter schools based on enrollment and spending reviewed by an independent citizens' oversight committee.",
+      "yesMeans": "The School Board's one-mill property tax is renewed for four years.",
+      "noMeans": "The School Board's one-mill property tax is not renewed.",
+      "source": "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf",
+      "moreInfo": "https://www.votebrevard.gov/Election-Information/2026-Amendments-and-Referenda"
+    },
+    {
+      "id": "School Board Referendum (Sales Surtax)",
+      "title": "Renewal of Half-Cent Sales Surtax for Critical School Facility, Security, and Technology Upgrades",
+      "summary": "Asks whether the half-cent school sales surtax approved by voters in 2014 and 2020 should be renewed for ten years. The money would continue school facility projects, school security improvements and technology upgrades, with revenue shared with charter schools based on enrollment and spending reviewed by an independent citizens' oversight committee.",
+      "yesMeans": "The half-cent school sales surtax is renewed for ten years.",
+      "noMeans": "The half-cent school sales surtax is not renewed.",
+      "source": "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf",
+      "moreInfo": "https://www.votebrevard.gov/Election-Information/2026-Amendments-and-Referenda"
+    }
+  ],
+  "municipalities": {
+    "Palm Bay": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Palm Bay Charter Amendment",
+          "title": "Charter Amendment Related to the Process for Filling Vacancies on the City Council",
+          "summary": "Would amend section 3.062 of the Palm Bay City Charter on City Council vacancies. If 12 months or less remain in the unexpired term, the remaining council members could fill the vacancy by appointment; if more than 12 months remain, the vacancy would be filled by election.",
+          "yesMeans": "Council vacancies would be filled by appointment when 12 months or less remain in the term, and by election when more than 12 months remain.",
+          "noMeans": "Section 3.062 of the City Charter is not amended and the current vacancy process stays in place.",
+          "source": "https://www.votebrevard.gov/Portals/Brevard/Documents/PreviousElections/2026GE/Sample%20Ballots/105-303.pdf",
+          "moreInfo": "https://www.votebrevard.gov/Election-Information/2026-Amendments-and-Referenda"
+        }
+      ]
+    }
+  }
+}

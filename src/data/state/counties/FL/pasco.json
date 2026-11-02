@@ -1,0 +1,131 @@
+{
+  "state": "FL",
+  "county": "Pasco County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://pascovotes.gov/elections/sample_ballots.php",
+    "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF",
+    "https://www.pascovotes.gov/Documents/Candidates/List%20Of%202026%20Candidates/Tot2026.pdf",
+    "https://pascovotes.gov/Documents/News/2026_nge_pas.pdf",
+    "https://www.pascovotes.gov/Documents/News/GEN26-REF_1.pdf",
+    "https://www.pascocountyfl.gov/government/county_commissioners/district_2.php",
+    "https://www.pasco.k12.fl.us/school_board"
+  ],
+  "note": "County Commission and School Board seats below are elected countywide; they appear on all 122 precinct sample ballots. Not shown: Pasco County Mosquito Control District Seat 2 (on the ballot only in the 43 precincts inside the district), and community development district seats. Not on the November ballot: County Commission District 4 (Lisa M. Yeager unopposed after the primary), County Court Judge Group 5 (Joseph F. Justice unopposed), School Board District 5 (decided in the August primary); no circuit judge race remains. No city race or question appears on any Pasco precinct sample ballot, including New Port Richey and Dade City. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner District 2 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-pasco-2026-bocc-d2-weightman-seth",
+          "name": "Seth Weightman",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "fl-pasco-2026-bocc-d2-vazquez-stephanie",
+          "name": "Stephanie C. Vazquez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Drew Atkinson? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pasco-2026-dca2-retain-atkinson-drew",
+          "name": "Drew Atkinson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Morris Silberman? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pasco-2026-dca2-retain-silberman-morris",
+          "name": "Morris Silberman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Daniel H. Sleet? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pasco-2026-dca2-retain-sleet-daniel",
+          "name": "Daniel H. Sleet",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Andrea Teves Smith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-pasco-2026-dca2-retain-smith-andrea",
+          "name": "Andrea Teves Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF"
+    },
+    {
+      "office": "School Board Member District 1 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-pasco-2026-school-board-d1-collura-gino",
+          "name": "Gino Collura",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-pasco-2026-school-board-d1-coward-kimberly",
+          "name": "Kimberly D. Coward",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF"
+    },
+    {
+      "office": "School Board Member District 3 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-pasco-2026-school-board-d3-geiger-matt",
+          "name": "Matt Geiger",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-pasco-2026-school-board-d3-ward-mollyana",
+          "name": "Mollyana Ward",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Referendum",
+      "title": "School Board of Pasco County Millage Election for Public School Students",
+      "summary": "Asks whether the School Board should continue levying an annual property tax (operating millage) of up to one mill from July 1, 2027, through June 30, 2031. The money would be used to recruit and retain teachers, bus drivers and non-administrator support employees and to enhance school safety, shared proportionately with public schools in the district as required by section 1011.71(9), Florida Statutes, with annual reporting to taxpayers.",
+      "yesMeans": "The School Board may continue the additional school operating property tax of up to one mill through June 30, 2031.",
+      "noMeans": "The additional school operating property tax is not continued beyond its current term.",
+      "source": "https://pascovotes.gov/Documents/Elections/Sample%20Ballots/Gen26/150-G001.PDF",
+      "moreInfo": "https://www.pascovotes.gov/Documents/News/GEN26-REF_1.pdf"
+    }
+  ],
+  "municipalities": {}
+}
