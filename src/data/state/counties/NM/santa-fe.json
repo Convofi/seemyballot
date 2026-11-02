@@ -1,0 +1,179 @@
+{
+  "state": "NM",
+  "county": "Santa Fe County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01",
+    "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf",
+    "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf"
+  ],
+  "note": "From the New Mexico Secretary of State's certified candidate list and the Santa Fe County Clerk's 2026 general election master ballot list; every county contest and county bond question shown is listed for all precincts. The four City of Santa Fe bond questions appear only on ballots inside the city. Not shown because they depend on where you live: County Commission Districts 1 and 3, U.S. House and State House districts, and any school or special-district questions. Incumbency is marked only for district judges standing for retention. Names appear as filed with the Secretary of State, shown here in standard capitalization. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        { "key": "nm-santafe-2026-sheriff-joye-paul", "name": "Paul Michael Joye", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        { "key": "nm-santafe-2026-assessor-barry-ivan", "name": "Ivan Barry", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        { "key": "nm-santafe-2026-probate-judge-jaeger-ami", "name": "Ami S Jaeger", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "District Court Judge, First Judicial District, Division 4",
+      "candidates": [
+        { "key": "nm-santafe-2026-district-judge-div4-thomas-denise", "name": "Denise Marie Thomas", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "District Court Judge, First Judicial District, Division 8",
+      "candidates": [
+        { "key": "nm-santafe-2026-district-judge-div8-martin-anastasia", "name": "Anastasia Rose Martin", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "Magistrate Judge, Division 1",
+      "candidates": [
+        { "key": "nm-santafe-2026-magistrate-div1-montoya-harry", "name": "Harry B Montoya", "party": "Other", "incumbent": false },
+        { "key": "nm-santafe-2026-magistrate-div1-roybal-michael", "name": "Michael R Roybal", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "Magistrate Judge, Division 2",
+      "candidates": [
+        { "key": "nm-santafe-2026-magistrate-div2-mascarenas-melissa", "name": "Melissa Y Mascarenas", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "Magistrate Judge, Division 3",
+      "candidates": [
+        { "key": "nm-santafe-2026-magistrate-div3-sanchez-maria", "name": "Maria M Sanchez", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "Magistrate Judge, Division 4",
+      "candidates": [
+        { "key": "nm-santafe-2026-magistrate-div4-sena-donita", "name": "Donita O Sena", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "District Court Judge retention, First Judicial District, Division 1: Francis J Mathew (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        { "key": "nm-santafe-2026-district-judge-retain-div1-mathew-francis", "name": "Francis J Mathew", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "District Court Judge retention, First Judicial District, Division 7: T Glenn Ellington (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        { "key": "nm-santafe-2026-district-judge-retain-div7-ellington-t-glenn", "name": "T Glenn Ellington", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    },
+    {
+      "office": "District Court Judge retention, First Judicial District, Division 10: Kathleen McGarry Ellenwood (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        { "key": "nm-santafe-2026-district-judge-retain-div10-ellenwood-kathleen", "name": "Kathleen McGarry Ellenwood", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=01"
+    }
+  ],
+  "measures": [
+    {
+      "id": "General Obligation Bond Question 1",
+      "title": "Santa Fe County Road Bonds",
+      "summary": "Asks whether Santa Fe County may issue up to $14,035,000 in general obligation bonds, repaid from property taxes. The money would be used to acquire, build, design, equip and improve roads within the county.",
+      "yesMeans": "The county may issue up to $14,035,000 in property-tax-backed bonds for roads.",
+      "noMeans": "The county may not issue these road bonds.",
+      "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+      "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+    },
+    {
+      "id": "General Obligation Bond Question 2",
+      "title": "Santa Fe County Water and Wastewater Bonds",
+      "summary": "Asks whether Santa Fe County may issue up to $6,500,000 in general obligation bonds, repaid from property taxes. The money would be used to acquire real property and needed water rights for, and to build, design, equip, rehabilitate and improve, water and wastewater projects within the county.",
+      "yesMeans": "The county may issue up to $6,500,000 in property-tax-backed bonds for water and wastewater projects.",
+      "noMeans": "The county may not issue these water and wastewater bonds.",
+      "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+      "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+    },
+    {
+      "id": "General Obligation Bond Question 3",
+      "title": "Santa Fe County Open Space, Trails and Parks Bonds",
+      "summary": "Asks whether Santa Fe County may issue up to $7,010,000 in general obligation bonds, repaid from property taxes. The money would be used to acquire, design, build, improve, equip and restore open space, trails and parks within the county.",
+      "yesMeans": "The county may issue up to $7,010,000 in property-tax-backed bonds for open space, trails and parks.",
+      "noMeans": "The county may not issue these open space, trails and parks bonds.",
+      "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+      "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+    },
+    {
+      "id": "General Obligation Bond Question 4",
+      "title": "Santa Fe County Fire Station Bonds",
+      "summary": "Asks whether Santa Fe County may issue up to $17,455,000 in general obligation bonds, repaid from property taxes. The money would be used to acquire real property for, and to build, design, equip, rehabilitate and improve, fire stations within the county.",
+      "yesMeans": "The county may issue up to $17,455,000 in property-tax-backed bonds for fire stations.",
+      "noMeans": "The county may not issue these fire station bonds.",
+      "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+      "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+    }
+  ],
+  "municipalities": {
+    "Santa Fe": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "General Obligation Street, Sidewalk, and Pedestrian Accessibility Bonds",
+          "title": "General Obligation Street, Sidewalk, and Pedestrian Accessibility Bonds",
+          "summary": "Asks whether the City of Santa Fe may issue up to $11,250,000 in general obligation bonds, repaid from property taxes. The money would be used to plan, design, build, rehabilitate, repair, replace and improve streets, sidewalks, curb ramps, pedestrian routes and related infrastructure within the city.",
+          "yesMeans": "The city may issue up to $11,250,000 in property-tax-backed bonds for streets, sidewalks and pedestrian access.",
+          "noMeans": "The city may not issue these street and sidewalk bonds.",
+          "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+          "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+        },
+        {
+          "id": "General Obligation Municipal Recreation Complex Soccer Valley Bonds",
+          "title": "General Obligation Municipal Recreation Complex Soccer Valley Bonds",
+          "summary": "Asks whether the City of Santa Fe may issue up to $4,500,000 in general obligation bonds, repaid from property taxes. The money would be used to plan, design, build, equip, furnish, improve and expand athletic fields and related public recreational facilities and infrastructure at the Municipal Recreation Complex Soccer Valley.",
+          "yesMeans": "The city may issue up to $4,500,000 in property-tax-backed bonds for the Municipal Recreation Complex Soccer Valley.",
+          "noMeans": "The city may not issue these Soccer Valley bonds.",
+          "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+          "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+        },
+        {
+          "id": "General Obligation SWAN Park Improvement Bonds",
+          "title": "General Obligation SWAN Park Improvement Bonds",
+          "summary": "Asks whether the City of Santa Fe may issue up to $4,250,000 in general obligation bonds, repaid from property taxes. The money would be used to plan, design, build, equip, furnish and improve a splash pad and related public recreational facilities and infrastructure at SWAN Park.",
+          "yesMeans": "The city may issue up to $4,250,000 in property-tax-backed bonds for SWAN Park improvements.",
+          "noMeans": "The city may not issue these SWAN Park bonds.",
+          "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+          "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+        },
+        {
+          "id": "General Obligation Midtown Capital Improvement Bonds",
+          "title": "General Obligation Midtown Capital Improvement Bonds",
+          "summary": "Asks whether the City of Santa Fe may issue up to $5,000,000 in general obligation bonds, repaid from property taxes. The money would be used to plan, design, prepare, demolish, build, renovate, equip, furnish, manage and improve public facilities, infrastructure, public spaces and other City-owned assets at the Midtown property.",
+          "yesMeans": "The city may issue up to $5,000,000 in property-tax-backed bonds for the Midtown property.",
+          "noMeans": "The city may not issue these Midtown bonds.",
+          "source": "https://www.santafecountynm.gov/uploads/documents/2026_General_Election_Amendments_and_Bond_Questions.pdf",
+          "moreInfo": "https://www.santafecountynm.gov/uploads/documents/GENERAL_2026-Master_Ballot_List.pdf"
+        }
+      ]
+    }
+  }
+}

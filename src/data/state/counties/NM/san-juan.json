@@ -1,0 +1,105 @@
+{
+  "state": "NM",
+  "county": "San Juan County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+  ],
+  "note": "From the New Mexico Secretary of State's certified candidate list for San Juan County. Not shown: any San Juan County, City of Farmington, school or special-district questions. The San Juan County Clerk's website blocked automated access on 2026-11-02, so no question is listed here rather than reconstructed from other sources; see your official sample ballot. Also not shown because they depend on where you live: County Commission Districts 1 and 2, State House districts and Public Education Commission District 5. Eleventh Judicial District races for judges who filed in McKinley County (Division 2, and the Division 7 retention question) are not listed for San Juan County by the Secretary of State and are not shown. Incumbency is marked only for judges standing for retention. Names appear as filed with the Secretary of State, shown here in standard capitalization. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-sheriff-christesen-kenneth", "name": "Kenneth W Christesen", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-assessor-kuhn-john", "name": "John D Kuhn", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-probate-judge-risley-gary", "name": "Gary Risley", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "District Court Judge, Eleventh Judicial District, Division 6",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-district-judge-div6-decker-brian", "name": "Brian D Decker", "party": "Republican", "incumbent": false },
+        { "key": "nm-sanjuan-2026-district-judge-div6-clani-washinawatok-brenna", "name": "Brenna Clani-Washinawatok", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "District Court Judge, Eleventh Judicial District, Division 8",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-district-judge-div8-wayne-stephen", "name": "Stephen M Wayne", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "Magistrate Judge, Division 1",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-magistrate-div1-bradford-russell", "name": "Russell L Bradford", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "Magistrate Judge, Division 2",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-magistrate-div2-charles-newton-eugenia", "name": "Eugenia Jean Charles Newton", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "Magistrate Judge, Division 3",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-magistrate-div3-tanner-cory", "name": "Cory Tanner", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "Magistrate Judge, Division 4",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-magistrate-div4-chase-trudy", "name": "Trudy M Chase", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "Magistrate Judge, Division 5",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-magistrate-div5-cole-erich", "name": "Erich F Cole", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "Magistrate Judge, Division 6",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-magistrate-div6-biel-stacey", "name": "Stacey D Biel", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "District Court Judge retention, Eleventh Judicial District, Division 1: Bradford J Dalley (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-district-judge-retain-div1-dalley-bradford", "name": "Bradford J Dalley", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    },
+    {
+      "office": "District Court Judge retention, Eleventh Judicial District, Division 4: Curtis R Gurley (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        { "key": "nm-sanjuan-2026-district-judge-retain-div4-gurley-curtis", "name": "Curtis R Gurley", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=16"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

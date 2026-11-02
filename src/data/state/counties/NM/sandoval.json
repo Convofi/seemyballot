@@ -1,0 +1,66 @@
+{
+  "state": "NM",
+  "county": "Sandoval County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29",
+    "https://www.sandovalcountynm.gov/countyclerk/bureau-of-elections/elections/ballot-questions/"
+  ],
+  "note": "From the New Mexico Secretary of State's certified candidate list for Sandoval County. Not shown: any county, City of Rio Rancho, school or special-district questions. On 2026-11-02 the Sandoval County Clerk's ballot questions page still showed only the 2025 local election, so no 2026 question is listed here rather than reconstructed from other sources; see your official sample ballot. Also not shown because they depend on where you live: County Commission Districts 1 and 3, and U.S. House and State House districts. Thirteenth Judicial District retention questions for judges who filed in Valencia and Cibola counties (Divisions 1 and 4) are not listed for Sandoval County by the Secretary of State and are not shown. Incumbency is marked only for the judge standing for retention. Names appear as filed with the Secretary of State, shown here in standard capitalization. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        { "key": "nm-sandoval-2026-sheriff-rodriguez-victor", "name": "Victor J Rodriguez", "party": "Republican", "incumbent": false },
+        { "key": "nm-sandoval-2026-sheriff-trujillo-john", "name": "John Paul Trujillo", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        { "key": "nm-sandoval-2026-assessor-griego-lawrence", "name": "Lawrence D Griego", "party": "Republican", "incumbent": false },
+        { "key": "nm-sandoval-2026-assessor-prairie-gerred", "name": "Gerred Prairie", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        { "key": "nm-sandoval-2026-probate-judge-tillman-donna", "name": "Donna Iven Tillman", "party": "Democratic", "incumbent": false },
+        { "key": "nm-sandoval-2026-probate-judge-torres-rebecca", "name": "Rebecca A Torres", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29"
+    },
+    {
+      "office": "Magistrate Judge, Division 1",
+      "candidates": [
+        { "key": "nm-sandoval-2026-magistrate-div1-maxwell-chavez-ann", "name": "Ann Marie Maxwell-Chavez", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29"
+    },
+    {
+      "office": "Magistrate Judge, Division 2",
+      "candidates": [
+        { "key": "nm-sandoval-2026-magistrate-div2-eichwald-f-kenneth", "name": "F Kenneth Eichwald", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29"
+    },
+    {
+      "office": "Magistrate Judge, Division 3",
+      "candidates": [
+        { "key": "nm-sandoval-2026-magistrate-div3-montano-baca-delilah", "name": "Delilah M Montano-Baca", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29"
+    },
+    {
+      "office": "District Court Judge retention, Thirteenth Judicial District, Division 7: Christopher George Perez (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        { "key": "nm-sandoval-2026-district-judge-retain-div7-perez-christopher", "name": "Christopher George Perez", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://candidateportal.servis.sos.state.nm.us/CandidateList.aspx?eid=2917&cty=29"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

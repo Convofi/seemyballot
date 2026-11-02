@@ -1,0 +1,22 @@
+{
+  "state": "HI",
+  "county": "Hawaii County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+    "https://elections.hawaii.gov/wp-content/uploads/2026-Candidates-Manual.pdf"
+  ],
+  "note": "No countywide office is on the November 3, 2026 ballot: the Mayor and Prosecuting Attorney are next elected in 2028, per the state Office of Elections 2026 Candidate's Manual. Not shown: Hawaii County Council district races (Districts 4, 5 and 6 are on the general election ballot), and state legislative and Office of Hawaiian Affairs contests. Proposed state constitutional amendments are statewide and not repeated here. The charter question title here is the short label used in the official voter guide; the full text is at hawaiicounty.gov/charteramendments. Check your official ballot for district contests.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Question 1",
+      "title": "Charter Amendment: County Auditor's Power to Employ",
+      "summary": "Would let the County Auditor hire a deputy and exercise the same powers over employees in the Auditor's office as executive-branch department heads have. The Deputy County Auditor could act when the County Auditor is not available and perform other duties the Auditor assigns.",
+      "yesMeans": "The County Auditor may hire a deputy and manage office staff with the same powers as executive department heads.",
+      "noMeans": "The Auditor's office continues without a deputy position and without these employment powers.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    }
+  ],
+  "municipalities": {}
+}

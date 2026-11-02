@@ -1,0 +1,256 @@
+{
+  "state": "HI",
+  "county": "Maui County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+    "https://elections.hawaii.gov/wp-content/uploads/2026-Candidates-Manual.pdf",
+    "https://mauicountyvotes.gov/charter-amendments"
+  ],
+  "note": "From the state Office of Elections 2026 General Election Voter Guide, which lists every candidate on the general election ballot. All nine Maui County Council seats are shown because Maui council members are elected countywide: the state's 2026 Candidate's Manual lists the seats as residency areas (candidates must live in the area) and requires nomination signatures from registered voters of the County of Maui, unlike the district-based Hawaii County Council. Incumbency is not marked because no official roster was checked. Not shown: state legislative and Office of Hawaiian Affairs contests. Proposed state constitutional amendments are statewide and not repeated here. Charter question titles are the short labels used in the official voter guide; the full text is at mauicountyvotes.gov. Check your official ballot.",
+  "contests": [
+    {
+      "office": "Mayor",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-mayor-sugimura-yuki-lei",
+          "name": "Yuki Lei Kashiwa Sugimura",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-mayor-bissen-richard",
+          "name": "Richard T. Bissen, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, East Maui residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-east-maui-carroll-claire",
+          "name": "Claire Kamalu Carroll",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-council-east-maui-sinenci-shane",
+          "name": "Shane Sinenci",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, West Maui residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-west-maui-paltin-tamara",
+          "name": "Tamara Akiko Maile Paltin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-council-west-maui-tillman-mark",
+          "name": "Mark Tillman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, Wailuku-Waihee-Waikapu residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-wailuku-lindsey-ashley",
+          "name": "Ashley Awakea Lindsey",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-council-wailuku-moniz-marvin",
+          "name": "Marvin Moniz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, Kahului residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-kahului-batangan-kauanoe",
+          "name": "Kauanoe Batangan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-council-kahului-kamekona-carol-lee",
+          "name": "Carol Lee Kamekona",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, South Maui residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-south-maui-cook-tom",
+          "name": "Tom Cook",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-council-south-maui-king-kelly",
+          "name": "Kelly Takaya King",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, Makawao-Haiku-Paia residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-makawao-chung-stevie",
+          "name": "Stevie Kathryn Chung",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-council-makawao-uu-hodgins-nohe",
+          "name": "Nohe U‘u-Hodgins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, Upcountry residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-upcountry-pahia-bobby",
+          "name": "Bobby Pahia",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-maui-2026-council-upcountry-yokouchi-jon",
+          "name": "Jon Masaru Yokouchi",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, Lanai residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-lanai-johnson-gabe",
+          "name": "Gabe Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council, Molokai residency seat (elected countywide)",
+      "candidates": [
+        {
+          "key": "hi-maui-2026-council-molokai-rawlins-fernandez-keani",
+          "name": "Keani Rawlins-Fernandez",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Question 1",
+      "title": "Charter Amendment: Planning commission review of the General Plan and land use ordinances",
+      "summary": "Would align the time the Council must wait before acting on General Plan revisions and land use ordinances with the deadlines a planning commission has to send its findings: 180 days after the final public hearing for General Plan revisions and 120 days for land use ordinances. It would also require the Planning Director to schedule a public hearing within 60 days on Council-initiated General Plan or land use changes. It would take effect January 2, 2027.",
+      "yesMeans": "Planning commission deadlines and the time before Council may act would match, and the Planning Director would have a deadline to schedule hearings.",
+      "noMeans": "Current planning commission deadlines and Council action time periods stay the same.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    },
+    {
+      "id": "Question 2",
+      "title": "Charter Amendment: Standardizing deadlines for voter initiative, recall, and charter amendment petitions",
+      "summary": "Would give the County Clerk 45 days to review the sufficiency of petitions for voter initiatives, recalls of elected officers or board and commission members, and Charter amendments, and 30 days to review supplemental initiative and recall petitions. Today the review periods differ by petition type. It would take effect January 1, 2027.",
+      "yesMeans": "The Clerk's petition review periods are standardized at 45 days, with 30 days for supplemental initiative and recall petitions.",
+      "noMeans": "The existing, differing petition review deadlines stay in place.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    },
+    {
+      "id": "Question 3",
+      "title": "Charter Amendment: Computation of time",
+      "summary": "Would set one rule for counting Charter deadlines: exclude the first day and include the last day, and if the last day falls on a Saturday, Sunday or holiday, extend the deadline to 4:30 p.m. on the next business day. The rule would not apply to deadlines set as specific dates or to vetoes and veto overrides. It would take effect January 1, 2027.",
+      "yesMeans": "Most Charter deadlines falling on a weekend or holiday move to the next business day.",
+      "noMeans": "Charter deadlines continue to be counted as written, even when they fall on a weekend or holiday.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    },
+    {
+      "id": "Question 4",
+      "title": "Charter Amendment: Processing of claims",
+      "summary": "Would require claims against the County for personal injury or property damage to be filed with the Director of Finance, or another person designated by ordinance, instead of with the County Clerk. It would take effect January 1, 2028.",
+      "yesMeans": "Injury and property damage claims against the County are filed with the Director of Finance or a person designated by ordinance.",
+      "noMeans": "Such claims continue to be filed with the County Clerk.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    },
+    {
+      "id": "Question 5",
+      "title": "Charter Amendment: Removing the English translation of the Hawai‘i State motto",
+      "summary": "Would remove the English translation that follows the Hawai‘i State motto, “Ua mau ke ea o ka ‘āina i ka pono,” in the Maui County Charter preamble, leaving only the Hawaiian-language phrase. It would take effect upon passage.",
+      "yesMeans": "The preamble keeps the Hawaiian-language motto without the English translation.",
+      "noMeans": "The preamble continues to include both the motto and its English translation.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    },
+    {
+      "id": "Question 6",
+      "title": "Charter Amendment: Emergency appropriations",
+      "summary": "Would let the County apply for a line of credit, with Council approval, instead of issuing emergency notes when there is not enough money to cover emergency appropriations. It would also clarify that money already placed in an emergency fund does not count toward the limit of 1% of the operating budget for emergency appropriations. It would take effect January 2, 2027.",
+      "yesMeans": "The County could use a line of credit instead of emergency notes, and emergency-fund money would not count toward the 1% limit.",
+      "noMeans": "The Charter continues to authorize emergency notes and does not address whether emergency-fund money counts toward the 1% limit.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    },
+    {
+      "id": "Question 7",
+      "title": "Charter Amendment: Independent Nomination Board",
+      "summary": "Would repeal the parts of the 2022 Charter amendment that created the Independent Nomination Board, which provides lists of nominees for County boards and commissions, the County Clerk, County Auditor, Corporation Counsel and Prosecuting Attorney. The Mayor and Council would again nominate and appoint to these positions without choosing from the Board's lists, and nomination deadlines and some board and commission procedures would change. It would take effect immediately.",
+      "yesMeans": "The Independent Nomination Board is dissolved and the Mayor and Council make these nominations and appointments without its lists.",
+      "noMeans": "The Independent Nomination Board and its nomination procedures stay in effect.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    },
+    {
+      "id": "Question 8",
+      "title": "Charter Amendment: Reappointment of members of the Board of Ethics",
+      "summary": "Would let the Mayor, with Council approval, reappoint members of the Board of Ethics for one successive term without the two-year waiting period that applies to most boards and commissions. It would take effect upon approval.",
+      "yesMeans": "Board of Ethics members could be reappointed for one consecutive term.",
+      "noMeans": "Board of Ethics members remain subject to the existing waiting period before reappointment.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+      "moreInfo": "https://mauicountyvotes.gov/charter-amendments"
+    }
+  ],
+  "municipalities": {}
+}
