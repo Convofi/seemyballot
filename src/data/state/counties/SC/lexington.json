@@ -1,0 +1,26 @@
+{
+  "state": "SC",
+  "county": "Lexington County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing for the November 3, 2026 Statewide General Election (active candidates filed for Lexington County). Not shown: the Lexington Soil and Water District Commission race (Kathryn Hensley and Brad Sease; the number of seats could not be confirmed from an official source), County Council Districts 2, 7, 8 and 9, school trustee seats for Lexington School Districts One through Five, the Hollow Creek watershed district, the Town of Irmo referendum, and State House and U.S. House districts. No countywide Lexington County question appears in the State Election Commission's referendum listing. Municipal contests and questions are not covered here because municipal filings are not in the state listing. Incumbent flags are not set because the county's officeholder pages could not be checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-lexington-2026-probate-judge-eckstrom-brian",
+          "name": "Brian Eckstrom",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
