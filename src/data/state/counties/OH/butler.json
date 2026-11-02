@@ -1,0 +1,146 @@
+{
+  "state": "OH",
+  "county": "Butler County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf",
+    "https://elections.bcohio.gov/2026/November/NovemberBallotList.pdf",
+    "https://elections.bcohio.gov/2026/November/Writeincandidates.pdf",
+    "https://elections.bcohio.gov/Documents/Campaigns/ElectedOfficials.pdf"
+  ],
+  "note": "In the 12th District Court of Appeals race for the term beginning 1/1/2027, the Board of Elections lists Matthew Byrne as withdrawn on 9/16/2026; Willa Concannon is the declared write-in candidate. State House districts, school district issues (Fairfield City Issue 1, Lakota Issue 2 and others), city and village issues (Oxford Issues 7 and 8, Trenton Issue 17, New Miami and College Corner), township police and fire district levies, and precinct local options are not shown here. Hamilton's mayor and council are elected in odd-numbered years, and no City of Hamilton issue is on this ballot. Check your official sample ballot for the items not shown.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 12th District (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-app12-2026-0101-concannon-willa",
+          "name": "Willa Concannon",
+          "party": "Nonpartisan",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/Writeincandidates.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 12th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-app12-2026-0209-hendrickson-robert",
+          "name": "Robert A. Hendrickson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-butler-2026-cpgen-0101-mcelfresh-jennifer",
+          "name": "Jennifer McElfresh",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/3/2027)",
+      "candidates": [
+        {
+          "key": "oh-butler-2026-cpgen-0103-haughey-daniel",
+          "name": "Daniel Haughey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-butler-2026-cpgen-0209-oster-michael",
+          "name": "Michael A. Oster, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile Division (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-butler-2026-juvenile-0102-niehaus-erik",
+          "name": "Erik D. Niehaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-butler-2026-probate-0209-holcomb-john",
+          "name": "John M. Holcomb",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    {
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "key": "oh-butler-2026-commissioner-miller-mike",
+          "name": "Mike Miller",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-butler-2026-commissioner-ryan-michael",
+          "name": "Michael V. Ryan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "oh-butler-2026-auditor-hines-amy",
+          "name": "Amy Hines",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-butler-2026-auditor-nix-nancy",
+          "name": "Nancy Nix",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 6",
+      "title": "Butler County – Renewal Mental Health Tax Levy (1 mill / 10 years)",
+      "summary": "Butler County asks voters to renew an existing property tax levy for mental health of 1 mill. The renewal would run for 10 years.",
+      "yesMeans": "The existing 1-mill mental health levy would be renewed for 10 years.",
+      "noMeans": "The existing 1-mill mental health levy would not be renewed.",
+      "source": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    }
+  ],
+  "municipalities": {}
+}
