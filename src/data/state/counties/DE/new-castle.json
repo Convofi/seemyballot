@@ -1,0 +1,51 @@
+{
+  "state": "DE",
+  "county": "New Castle County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
+    "https://elections.delaware.gov/candidates/candidatelist/genl_wcddt_2026.html",
+    "https://elections.delaware.gov/elections/general/sampleballots/GE2026/02-01.html"
+  ],
+  "note": "New Castle County Council seats are elected by district (Districts 1-6 are on the 2026 ballot) and are not shown here; check your sample ballot for your district. County Executive and County Council President are not on the 2026 ballot, and there are no countywide questions. Wilmington has no city offices or city questions on this ballot. No declared write-in candidates have filed for New Castle County offices.",
+  "contests": [
+    {
+      "office": "New Castle County Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "de-new-castle-2026-recorder-of-deeds-tackett-david",
+          "name": "David Tackett",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    },
+    {
+      "office": "New Castle County Register of Wills",
+      "candidates": [
+        {
+          "key": "de-new-castle-2026-register-of-wills-poppiti-ciro",
+          "name": "Ciro Poppiti",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    },
+    {
+      "office": "New Castle County Sheriff",
+      "candidates": [
+        {
+          "key": "de-new-castle-2026-sheriff-phillips-scott",
+          "name": "Scott Phillips",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

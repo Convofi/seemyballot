@@ -1,0 +1,128 @@
+{
+  "state": "NJ",
+  "county": "Union County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://unioncountyvotes.com/wp-content/uploads/2026/09/GENERAL-2026-CANDIDATE-LIST-9-3.pdf",
+    "https://unioncountyvotes.com/sample-ballots-for-the-november-3-2026-general-election/",
+    "https://ucnj.org/wp-content/uploads/2026/09/2026-UNION-GEN-samples-FORM-7.pdf",
+    "https://unioncountyvotes.com/elected-officials/"
+  ],
+  "note": "There are no countywide public questions in Union County this year. Elizabeth's ward council seats (Wards 1-6) and Board of Education race are not shown because they depend on your ward or are school races. Mayor, council and township committee races, Board of Education seats, and municipal or school questions in other towns vary by town and are not shown here. Check your official sample ballot for those.",
+  "contests": [
+    {
+      "office": "Sheriff (3-year term)",
+      "candidates": [
+        {
+          "key": "nj-union-2026-sheriff-corvelli-peter",
+          "name": "Peter Corvelli",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-union-2026-sheriff-napolitano-gerardo",
+          "name": "Gerardo Napolitano",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://unioncountyvotes.com/wp-content/uploads/2026/09/GENERAL-2026-CANDIDATE-LIST-9-3.pdf"
+    },
+    {
+      "office": "County Clerk (5-year term)",
+      "candidates": [
+        {
+          "key": "nj-union-2026-county-clerk-cooper-tai",
+          "name": "Tai Cooper",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nj-union-2026-county-clerk-diaz-jimmy",
+          "name": "Jimmy Diaz, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://unioncountyvotes.com/wp-content/uploads/2026/09/GENERAL-2026-CANDIDATE-LIST-9-3.pdf"
+    },
+    {
+      "office": "Members of Board of County Commissioners (3-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "nj-union-2026-commissioner-leon-lourdes",
+          "name": "Lourdes Leon",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-union-2026-commissioner-bodek-joseph",
+          "name": "Joseph C. Bodek",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-union-2026-commissioner-delisfort-michele",
+          "name": "Michele S. Delisfort",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-union-2026-commissioner-jakositz-cathy",
+          "name": "Cathy Jakositz",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-union-2026-commissioner-bacey-christopher",
+          "name": "Christopher G. Bacey",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-union-2026-commissioner-rodriguez-miguel",
+          "name": "Miguel A. Rodriguez",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://unioncountyvotes.com/wp-content/uploads/2026/09/GENERAL-2026-CANDIDATE-LIST-9-3.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Elizabeth": {
+      "contests": [
+        {
+          "office": "Elizabeth Council Member-at-Large (unexpired term)",
+          "candidates": [
+            {
+              "key": "nj-union-2026-elizabeth-council-at-large-gonzalez-lugo-georgette",
+              "name": "Georgette Gonzalez Lugo",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "nj-union-2026-elizabeth-council-at-large-alves-john",
+              "name": "John Alves",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://unioncountyvotes.com/wp-content/uploads/2026/09/GENERAL-2026-CANDIDATE-LIST-9-3.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Question",
+          "title": "Elizabeth Rent Control: $20 Annual Cap on Base Rent Increases",
+          "summary": "Amends Chapter 5.70.60 of the City of Elizabeth Municipal Code so that no landlord may request or receive a yearly base-rent increase of more than 3 percent or $20, whichever is less. According to the official interpretive statement, this restores a $20 annual dollar cap that was in the city's rent control ordinance in 2022 until the council amended it.",
+          "yesMeans": "Annual base-rent increases would be capped at 3 percent or $20, whichever is less.",
+          "noMeans": "The rent control ordinance stays as it is now, without the $20 annual cap.",
+          "source": "https://ucnj.org/wp-content/uploads/2026/09/2026-UNION-GEN-samples-FORM-7.pdf"
+        }
+      ]
+    }
+  }
+}

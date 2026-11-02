@@ -1,0 +1,75 @@
+{
+  "state": "MA",
+  "county": "Bristol County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.fallriverma.gov/Document%20Center/Departments/Elections/Official%20Specimen%20Ballot/Biennial%20State%20Election%20Ballot%20Style%20175%20(1B,%201C,%20WARDS%202,%203%20&%204,%205A).pdf",
+    "https://www.fallriverma.gov/departments/elections/voter___election_information_/official_specimen_ballot.php",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/stage:Primaries"
+  ],
+  "note": "Governor's Council, State Senate and State Representative districts are not shown here because none of them covers all of Bristol County. Bristol County Sheriff, Register of Deeds and Clerk of Courts are not on the 2026 ballot. The nine statewide questions are listed with statewide races, and no countywide question appears on the ballot. New Bedford's own election pages could not be reached, so no New Bedford city items are shown. Massachusetts cities elect their officers in odd years, but check your official sample ballot for any local question.",
+  "contests": [
+    {
+      "office": "District Attorney, Bristol District",
+      "candidates": [
+        {
+          "key": "ma-bristol-2026-district-attorney-aitken-seth",
+          "name": "Seth Thomas Aitken",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ma-bristol-2026-district-attorney-markey-christopher",
+          "name": "Christopher Matthew Markey",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.fallriverma.gov/Document%20Center/Departments/Elections/Official%20Specimen%20Ballot/Biennial%20State%20Election%20Ballot%20Style%20175%20(1B,%201C,%20WARDS%202,%203%20&%204,%205A).pdf"
+    },
+    {
+      "office": "Register of Probate, Bristol County",
+      "candidates": [
+        {
+          "key": "ma-bristol-2026-register-of-probate-hoye-thomas",
+          "name": "Thomas Cleary Hoye, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "ma-bristol-2026-register-of-probate-layden-melanie",
+          "name": "Melanie Patenaude Layden",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.fallriverma.gov/Document%20Center/Departments/Elections/Official%20Specimen%20Ballot/Biennial%20State%20Election%20Ballot%20Style%20175%20(1B,%201C,%20WARDS%202,%203%20&%204,%205A).pdf"
+    },
+    {
+      "office": "County Treasurer, Bristol County",
+      "candidates": [
+        {
+          "key": "ma-bristol-2026-county-treasurer-saunders-christopher",
+          "name": "Christopher T. Saunders",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.fallriverma.gov/Document%20Center/Departments/Elections/Official%20Specimen%20Ballot/Biennial%20State%20Election%20Ballot%20Style%20175%20(1B,%201C,%20WARDS%202,%203%20&%204,%205A).pdf"
+    },
+    {
+      "office": "County Commissioner, Bristol County",
+      "candidates": [
+        {
+          "key": "ma-bristol-2026-county-commissioner-saunders-john",
+          "name": "John Thomas Saunders",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.fallriverma.gov/Document%20Center/Departments/Elections/Official%20Specimen%20Ballot/Biennial%20State%20Election%20Ballot%20Style%20175%20(1B,%201C,%20WARDS%202,%203%20&%204,%205A).pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
