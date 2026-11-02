@@ -1,0 +1,77 @@
+{
+  "state": "IN",
+  "county": "Vanderburgh County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.evansvillegov.org/egov/apps/document/center.egov?view=item&id=11337",
+    "https://www.evansvillegov.org/egov/apps/document/center.egov?view=item&id=11336",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.evansvillegov.org/county/department/index.php?structureid=51",
+    "https://www.evansvillegov.org/county/topic/index.php?topicid=320&structureid=269"
+  ],
+  "note": "Contests are from the Vanderburgh County Election Office's 2026 general election candidate list and the Indiana Election Division's certified candidate list. Not shown: County Commissioner District 2, because Vanderburgh County does not post precinct sample ballots and we could not confirm that the whole county votes on it; County Council Districts 1-4, township trustee and township board races, and school board races (including the Vanderburgh School Board at-large and district seats). The county's public question list shows only the two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions, which appear on every Indiana ballot; no countywide public question is on the ballot. Vanderburgh is in the Court of Appeals First District, which has no judge on the 2026 ballot. Evansville city offices are not on the 2026 ballot (next elected in 2027). Incumbent status is marked only where the county's website confirms it. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Vanderburgh Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-vanderburgh-2026-superior-1-shively-les",
+          "name": "Les C. Shively",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.evansvillegov.org/egov/apps/document/center.egov?view=item&id=11337"
+    },
+    {
+      "office": "Prosecuting Attorney, 1st Judicial Circuit (Vanderburgh County)",
+      "candidates": [
+        {
+          "key": "in-vanderburgh-2026-prosecutor-moers-diana",
+          "name": "Diana L. Moers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.evansvillegov.org/egov/apps/document/center.egov?view=item&id=11337"
+    },
+    {
+      "office": "Vanderburgh County Auditor",
+      "candidates": [
+        {
+          "key": "in-vanderburgh-2026-auditor-bassemier-theresa",
+          "name": "Theresa R Bassemier",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.evansvillegov.org/egov/apps/document/center.egov?view=item&id=11337"
+    },
+    {
+      "office": "Vanderburgh County Sheriff",
+      "candidates": [
+        {
+          "key": "in-vanderburgh-2026-sheriff-robinson-noah",
+          "name": "Noah Robinson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.evansvillegov.org/egov/apps/document/center.egov?view=item&id=11337"
+    },
+    {
+      "office": "Vanderburgh County Assessor",
+      "candidates": [
+        {
+          "key": "in-vanderburgh-2026-assessor-fluty-bill",
+          "name": "Bill Fluty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.evansvillegov.org/egov/apps/document/center.egov?view=item&id=11337"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

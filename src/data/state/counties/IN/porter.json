@@ -1,0 +1,171 @@
+{
+  "state": "IN",
+  "county": "Porter County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 2 and County Council districts, township races, and school board races. We could not confirm from an official Porter County sample ballot whether the commissioner race is voted on countywide, because the county website blocked automated access; any Porter Superior Court retention questions and any countywide public question could not be verified either. Valparaiso city offices are not on the 2026 ballot (next elected in 2027). The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Porter is in the Court of Appeals Third District, which has no judge on the 2026 ballot. Incumbent status is not marked because the county's roster could not be reached. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Porter Circuit Court, 67th Judicial Circuit",
+      "candidates": [
+        {
+          "key": "in-porter-2026-circuit-buitendorp-rebecca",
+          "name": "Rebecca Lynn Buitendorp",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Porter Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-porter-2026-superior-1-fish-mike",
+          "name": "Mike Fish",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Porter Superior Court No. 4",
+      "candidates": [
+        {
+          "key": "in-porter-2026-superior-4-mccarthy-heather",
+          "name": "Heather A. McCarthy",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-porter-2026-superior-4-buckley-christopher",
+          "name": "Christopher A. Buckley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 67th Judicial Circuit (Porter County)",
+      "candidates": [
+        {
+          "key": "in-porter-2026-prosecutor-germann-gary",
+          "name": "Gary S. Germann",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-porter-2026-prosecutor-bennett-andrew",
+          "name": "Andrew L. Bennett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Porter County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-porter-2026-clerk-domer-barbara",
+          "name": "Barbara Domer",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-porter-2026-clerk-haney-jackie",
+          "name": "Jackie Haney",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Porter County Auditor",
+      "candidates": [
+        {
+          "key": "in-porter-2026-auditor-martin-karen",
+          "name": "Karen Martin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Porter County Recorder",
+      "candidates": [
+        {
+          "key": "in-porter-2026-recorder-bamesberger-leslie",
+          "name": "Leslie Nuss Bamesberger",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-porter-2026-recorder-miller-jon",
+          "name": "Jon Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Porter County Sheriff",
+      "candidates": [
+        {
+          "key": "in-porter-2026-sheriff-balon-jeffrey",
+          "name": "Jeffrey A. Balon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Porter County Coroner",
+      "candidates": [
+        {
+          "key": "in-porter-2026-coroner-wiencken-smith-julie",
+          "name": "Julie Wiencken-Smith",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-porter-2026-coroner-bowles-brian",
+          "name": "Brian Bowles",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Porter County Assessor",
+      "candidates": [
+        {
+          "key": "in-porter-2026-assessor-kingan-scott",
+          "name": "Scott J Kingan",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-porter-2026-assessor-neff-sue",
+          "name": "Sue Neff",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

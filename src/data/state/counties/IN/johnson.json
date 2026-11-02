@@ -1,0 +1,125 @@
+{
+  "state": "IN",
+  "county": "Johnson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://johnsoncounty.in.gov/department/division.php?structureid=77",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Contests are from the Johnson County Election Office's 2026 general election candidate list, which matches the Indiana Election Division's certified list. Not shown: County Commissioner District 2, because Johnson County does not post precinct sample ballots and we could not confirm that the whole county votes on it; County Council Districts 1-4, township trustee and township board races, town council races (such as Bargersville, Edinburgh and New Whiteland), and school board races. No sample ballot or public question list is posted on the county site, so any local public question could not be checked. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Johnson is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because the county's website does not list its officeholders. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Johnson Superior Court No. 2",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-superior-2-nugent-peter",
+          "name": "Peter D. Nugent",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Judge of the Johnson Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-superior-3-cummins-douglas",
+          "name": "Douglas Brian Cummins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Judge of the Johnson Superior Court No. 4",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-superior-4-clark-marla",
+          "name": "Marla Clark",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Prosecuting Attorney, 8th Judicial Circuit (Johnson County)",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-prosecutor-pinnick-jennifer",
+          "name": "Jennifer Kutruff Pinnick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Johnson County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-clerk-briggs-amy",
+          "name": "Amy B. Briggs",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Johnson County Auditor",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-auditor-alvey-elizabeth",
+          "name": "Elizabeth Ann Alvey",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Johnson County Recorder",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-recorder-wiser-angel",
+          "name": "Angel J. Wiser",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Johnson County Sheriff",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-sheriff-fisher-andrew",
+          "name": "Andrew M. Fisher",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    },
+    {
+      "office": "Johnson County Assessor",
+      "candidates": [
+        {
+          "key": "in-johnson-2026-assessor-watkins-mike",
+          "name": "Mike Watkins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://johnsoncounty.in.gov/egov/apps/document/center.egov?view=item&id=4871"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

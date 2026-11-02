@@ -1,0 +1,203 @@
+{
+  "state": "IN",
+  "county": "Tippecanoe County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL",
+    "https://www.tippecanoe.in.gov/DocumentCenter/View/54482/Fairfield-Sample-Ballots",
+    "https://www.tippecanoe.in.gov/815/Sample-Ballots",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.tippecanoe.in.gov/Directory.aspx"
+  ],
+  "note": "Contests are from Tippecanoe County's official precinct sample ballots; County Commissioner District 1 and the judge, Prosecutor and county office races appear on every ballot checked (all Fairfield Township precincts in Lafayette, and Jackson Township). Not shown because they depend on where you live: County Council districts, township trustee and township board races, school board races, and any school district questions. No countywide public question is on the ballots checked; the two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Lafayette city offices are not on the 2026 ballot (next elected in 2027). Incumbent status is marked only where the county's online directory confirms it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Tippecanoe Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-superior-1-mcdaniel-kevin",
+          "name": "Kevin McDaniel",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Judge of the Tippecanoe Superior Court No. 2",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-superior-2-wyatt-sarah",
+          "name": "Sarah M. Wyatt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Judge of the Tippecanoe Superior Court No. 4",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-superior-4-sandy-matt",
+          "name": "Matt Sandy",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Judge of the Tippecanoe Superior Court No. 5",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-superior-5-mcvey-kristen",
+          "name": "Kristen McVey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Judge of the Tippecanoe Superior Court No. 7",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-superior-7-moore-daniel",
+          "name": "Daniel J. Moore",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Prosecuting Attorney, 23rd Judicial Circuit (Tippecanoe County)",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-prosecutor-biss-jason",
+          "name": "Jason J. Biss",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Tippecanoe County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-clerk-benner-karan",
+          "name": "Karan Benner",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-tippecanoe-2026-clerk-sanders-carrie",
+          "name": "Carrie Sanders",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Tippecanoe County Auditor",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-auditor-grossman-eric",
+          "name": "Eric Grossman",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-tippecanoe-2026-auditor-weston-jennifer",
+          "name": "Jennifer Weston",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Tippecanoe County Recorder",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-recorder-casanova-monica",
+          "name": "Monica Casanova",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-tippecanoe-2026-recorder-martin-kristy",
+          "name": "Kristy Martin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Tippecanoe County Sheriff",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-sheriff-lehman-tom",
+          "name": "Tom Lehman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Tippecanoe County Assessor",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-assessor-butler-kaitlyn",
+          "name": "Kaitlyn Butler",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-tippecanoe-2026-assessor-hustedt-mai-anthony",
+          "name": "Anthony Hustedt-Mai",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    },
+    {
+      "office": "Tippecanoe County Commissioner, District 1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-commissioner-1-burniske-andrea",
+          "name": "Andrea E. Burniske",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-tippecanoe-2026-commissioner-1-roush-julie",
+          "name": "Julie Roush",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54482/Fairfield-Sample-Ballots"
+    },
+    {
+      "office": "Court of Appeals Judicial Retention - Second District (yes/no retention vote)",
+      "candidates": [
+        {
+          "key": "in-tippecanoe-2026-coa2-retain-kenworthy-dana",
+          "name": "Dana J. Kenworthy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.tippecanoe.in.gov/DocumentCenter/View/54483/Pct-0201-JACKSON-01-Act-01-1-GENERAL"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

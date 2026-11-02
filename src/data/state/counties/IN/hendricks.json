@@ -1,0 +1,118 @@
+{
+  "state": "IN",
+  "county": "Hendricks County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879",
+    "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12904",
+    "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12875",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.co.hendricks.in.us/commissioners",
+    "https://www.co.hendricks.in.us/department/index.php?structureid=20",
+    "https://www.co.hendricks.in.us/department/index.php?structureid=59",
+    "https://www.co.hendricks.in.us/department/index.php?structureid=33",
+    "https://www.co.hendricks.in.us/department/index.php?structureid=12",
+    "https://www.co.hendricks.in.us/department/index.php?structureid=29"
+  ],
+  "note": "Contests are from Hendricks County's official precinct sample ballots; County Commissioner District 1 and the judge, Prosecutor and county office races appear on ballots in different townships (Center Township in Danville and Guilford Township in Plainfield checked). Not shown because they depend on where you live: County Council districts, township trustee and township board races, town council wards (such as Danville and Plainfield), and school board races. No countywide public question is on the ballots checked; the two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Hendricks is in the Court of Appeals First District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is marked only where the county's office pages confirm it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Hendricks Circuit Court, 55th Judicial Circuit",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-circuit-rodebeck-aaron",
+          "name": "Aaron B. Rodebeck",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879"
+    },
+    {
+      "office": "Judge of the Hendricks Superior Court No. 2",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-superior-2-stuard-rhett",
+          "name": "Rhett M. Stuard",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879"
+    },
+    {
+      "office": "Prosecuting Attorney, 55th Judicial Circuit (Hendricks County)",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-prosecutor-delp-loren",
+          "name": "Loren P. Delp",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879"
+    },
+    {
+      "office": "Hendricks County Recorder",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-recorder-herzog-laura",
+          "name": "Laura Herzog",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879"
+    },
+    {
+      "office": "Hendricks County Sheriff",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-sheriff-sadler-jack",
+          "name": "Jack Sadler",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879"
+    },
+    {
+      "office": "Hendricks County Surveyor",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-surveyor-gaston-david",
+          "name": "David L Gaston",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879"
+    },
+    {
+      "office": "Hendricks County Assessor",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-assessor-lawson-nicole",
+          "name": "Nicole (Nicki) Lawson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12879"
+    },
+    {
+      "office": "Hendricks County Commissioner, District 1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-hendricks-2026-commissioner-1-gentry-robert",
+          "name": "Robert (Bob) L Gentry",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.hendricks.in.us/egov/apps/document/center.egov?view=item&id=12904"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

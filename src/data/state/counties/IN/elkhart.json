@@ -1,0 +1,141 @@
+{
+  "state": "IN",
+  "county": "Elkhart County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://www.in.gov/courts/news/2026/0827",
+    "https://www.in.gov/courts/appeals/districts"
+  ],
+  "note": "Not shown: County Commissioner District 1 and County Council districts, township races, town council races (such as Bristol), and school board races. We could not confirm from an official Elkhart County sample ballot whether the commissioner race is voted on countywide, because the county election website could not be reached; any Elkhart Superior or Circuit Court retention questions and any countywide public question could not be verified either. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Elkhart is in the Court of Appeals Third District, which has no judge on the 2026 ballot. Only county-level contests are shown for this county. Incumbent status is not marked because the county's roster could not be reached. Check your official sample ballot at indianavoters.in.gov.",
+  "contests": [
+    {
+      "office": "Judge of the Elkhart Superior Court No. 1",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-superior-1-osterday-kristine",
+          "name": "Kristine A. Osterday",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Elkhart Superior Court No. 3",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-superior-3-cataldo-teresa",
+          "name": "Teresa L. Cataldo",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Elkhart Superior Court No. 4",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-superior-4-bellin-elizabeth",
+          "name": "Elizabeth A. Bellin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Judge of the Elkhart Superior Court No. 5",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-superior-5-spataro-christopher",
+          "name": "Christopher J. (Chris) Spataro",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 34th Judicial Circuit (Elkhart County)",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-prosecutor-becker-vicki",
+          "name": "Vicki Elaine Becker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Elkhart County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-clerk-graham-megan",
+          "name": "Megan A Graham",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "in-elkhart-2026-clerk-pickens-patty",
+          "name": "Patty Pickens",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Elkhart County Auditor",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-auditor-jackson-tiara",
+          "name": "Tiara Jackson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Elkhart County Recorder",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-recorder-baker-kaala",
+          "name": "Kaala Baker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Elkhart County Sheriff",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-sheriff-culp-michael",
+          "name": "Michael D Culp",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Elkhart County Assessor",
+      "candidates": [
+        {
+          "key": "in-elkhart-2026-assessor-miller-tylan",
+          "name": "Tylan Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
