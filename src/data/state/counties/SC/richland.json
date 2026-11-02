@@ -1,0 +1,62 @@
+{
+  "state": "SC",
+  "county": "Richland County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing for the November 3, 2026 Statewide General Election (active candidates filed for Richland County). Not shown: the Richland Soil and Water District Commission race (Shawn Goff and Tim McSwain; the number of seats could not be confirmed from an official source), County Council Districts 1, 4, 5, 6 and 11, school board seats for Richland School Districts One, Two and Five and Districts 11 and 13, and State House and U.S. House districts. No Richland County ballot question appears in the State Election Commission's referendum listing. City of Columbia contests and questions are not covered here because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages could not be checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Solicitor, Circuit 5",
+      "candidates": [
+        {
+          "key": "sc-richland-2026-solicitor-5-gipson-byron",
+          "name": "Byron E Gipson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-richland-2026-probate-judge-mcculloch-amy",
+          "name": "Amy McCulloch",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "sc-richland-2026-auditor-brown-allen",
+          "name": "Allen Brown",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "sc-richland-2026-treasurer-dove-kendra",
+          "name": "Kendra L Dove",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

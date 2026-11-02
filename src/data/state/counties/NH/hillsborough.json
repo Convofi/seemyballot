@@ -1,0 +1,114 @@
+{
+  "state": "NH",
+  "county": "Hillsborough County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/Sample-Ballots",
+    "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%201%20Sample%20Ballot.pdf",
+    "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%209%20Sample%20Ballot.pdf"
+  ],
+  "note": "From the City of Manchester's official November 3, 2026 ward sample ballots; the county offices below are elected countywide. Brian Newcomb is printed as both the Republican and the Democratic nominee for Sheriff, so he is listed once here. Not shown: County Commissioner (elected by commissioner district), State Senate, State Representative and Executive Council districts, and questions in towns and cities other than Manchester (including Nashua). The statewide constitutional amendment question appears with the state ballot. Incumbent flags are not set because the county's officeholder pages could not be checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "nh-hillsborough-2026-sheriff-newcomb-brian",
+          "name": "Brian Newcomb",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%201%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "nh-hillsborough-2026-county-attorney-coughlin-john",
+          "name": "John J. Coughlin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nh-hillsborough-2026-county-attorney-bennett-travis",
+          "name": "Travis Bennett",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%201%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nh-hillsborough-2026-county-treasurer-maidment-christopher",
+          "name": "Christopher Maidment",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nh-hillsborough-2026-county-treasurer-cotton-beverly",
+          "name": "Beverly Cotton",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%201%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "Register of Deeds",
+      "candidates": [
+        {
+          "key": "nh-hillsborough-2026-register-of-deeds-hogan-dennis",
+          "name": "Dennis Hogan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nh-hillsborough-2026-register-of-deeds-crowell-mary-ann",
+          "name": "Mary Ann Crowell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%201%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "Register of Probate",
+      "candidates": [
+        {
+          "key": "nh-hillsborough-2026-register-of-probate-terrio-ross",
+          "name": "Ross W. Terrio",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nh-hillsborough-2026-register-of-probate-trisciani-june",
+          "name": "June Trisciani",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%201%20Sample%20Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Manchester": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question 2",
+          "title": "Manchester School District (SAU #37) Property Tax Growth Limit",
+          "summary": "A statutory question required by HB 1300 (Chapter 324, 2026) asking whether the City of Manchester should limit property tax growth for the Manchester School District (SAU #37) under RSA 32:5-i. If adopted for a two-year period, the local property tax levy could not grow beyond the prior year's amount adjusted for inflation and new construction, SAU central office spending could not exceed 6 percent of total school district appropriations, and bonded capital costs would be excluded from both limits. Per the ballot text, the caps apply only to SAU central office administrative operations, may be overridden as provided in RSA 32:5-i, and adoption requires a three-fifths (3/5) majority.",
+          "yesMeans": "The listed property tax growth and SAU central office spending limits are adopted for the Manchester School District for a two-year period.",
+          "noMeans": "These limits are not adopted.",
+          "source": "https://www.manchesternh.gov/Portals/2/Departments/city_clerk/elections/Sample%20Ballots/2026-11-03_Ward%201%20Sample%20Ballot.pdf",
+          "moreInfo": "https://www.manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/Sample-Ballots"
+        }
+      ]
+    }
+  }
+}
