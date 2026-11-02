@@ -1,0 +1,51 @@
+{
+  "state": "ME",
+  "county": "Androscoggin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.lewistonmaine.gov/117/Elections",
+    "https://www.lewistonmaine.gov/DocumentCenter/View/19668",
+    "https://www.lewistonmaine.gov/DocumentCenter/View/19676"
+  ],
+  "note": "From the State of Maine sample ballots for the November 3, 2026 General Election posted by the City of Lewiston (House Districts 93 and 96); the county contests print the same on both. Incumbency is not marked because the county's pages did not confirm the current officeholders. Not shown: County Commissioner (elected by district; not on these Lewiston ballots), State Senate and State Representative districts, and statewide referendum questions, which are listed with the state ballot. Lewiston and Auburn municipal offices and charter questions are on separate city ballots and are not shown. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of Probate, Androscoggin County",
+      "candidates": [
+        {
+          "key": "me-androscoggin-2026-judge-of-probate-dubois-michael",
+          "name": "Michael Dubois",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.lewistonmaine.gov/DocumentCenter/View/19668"
+    },
+    {
+      "office": "Sheriff, Androscoggin County",
+      "candidates": [
+        {
+          "key": "me-androscoggin-2026-sheriff-samson-eric",
+          "name": "Eric G. Samson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.lewistonmaine.gov/DocumentCenter/View/19668"
+    },
+    {
+      "office": "District Attorney, District 3",
+      "candidates": [
+        {
+          "key": "me-androscoggin-2026-da-mclean-neil",
+          "name": "Neil E. McLean, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.lewistonmaine.gov/DocumentCenter/View/19668"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

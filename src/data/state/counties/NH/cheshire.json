@@ -1,0 +1,77 @@
+{
+  "state": "NH",
+  "county": "Cheshire County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://keenenh.gov/city-clerk/elections-voting/",
+    "https://keenenh.gov/wp-content/uploads/2026/10/Keene-Ward-01.pdf",
+    "https://keenenh.gov/wp-content/uploads/2026/10/Keene-Ward-05.pdf",
+    "https://co.cheshire.nh.us/departments/sheriff/",
+    "https://co.cheshire.nh.us/departments/registry-of-deeds/"
+  ],
+  "note": "From the City of Keene's official November 3, 2026 ward sample ballots (Wards 1 and 5 checked); the county offices below are elected countywide and print the same in both wards. Eli Rivera (Sheriff) and D. Chris McLaughlin (County Attorney) are each printed as both the Democratic and the Republican nominee, so each is listed once here. Incumbent flags are set only where the county's own website names the officeholder. Not shown: County Commissioner (elected by commissioner district), State Senate, State Representative and Executive Council districts, and the ward-level school tax-cap question required by HB 1300. The statewide constitutional amendment question appears with the state ballot. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "nh-cheshire-2026-sheriff-rivera-eli",
+          "name": "Eli Rivera",
+          "party": "Other",
+          "incumbent": true
+        }
+      ],
+      "source": "https://keenenh.gov/wp-content/uploads/2026/10/Keene-Ward-01.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "nh-cheshire-2026-county-attorney-mclaughlin-d-chris",
+          "name": "D. Chris McLaughlin",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://keenenh.gov/wp-content/uploads/2026/10/Keene-Ward-01.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "nh-cheshire-2026-treasurer-wozmak-jack",
+          "name": "Jack Wozmak",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://keenenh.gov/wp-content/uploads/2026/10/Keene-Ward-01.pdf"
+    },
+    {
+      "office": "Register of Deeds",
+      "candidates": [
+        {
+          "key": "nh-cheshire-2026-register-of-deeds-tilton-anna",
+          "name": "Anna Z. Tilton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://keenenh.gov/wp-content/uploads/2026/10/Keene-Ward-01.pdf"
+    },
+    {
+      "office": "Register of Probate",
+      "candidates": [
+        {
+          "key": "nh-cheshire-2026-register-of-probate-laplante-jeremy",
+          "name": "Jeremy LaPlante",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://keenenh.gov/wp-content/uploads/2026/10/Keene-Ward-01.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,83 @@
+{
+  "state": "VT",
+  "county": "Rutland County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx",
+    "https://sos.vermont.gov/elections/election-info-resources/candidates/",
+    "https://www.rutlandcity.org/departments/clerks-office/elections-voting/",
+    "https://www.rutlandcity.org/wp-content/uploads/2026/09/11-3-2026-Ward-1-Sample-Ballot.pdf",
+    "https://www.rutlandcity.org/wp-content/uploads/2026/09/11-3-2026-Ward-4-Sample-Ballot.pdf"
+  ],
+  "note": "From the Vermont Secretary of State's 2026 general election candidate list and the City of Rutland's Ward 1 and Ward 4 sample ballots; the county offices print the same on both. Every county candidate was nominated by both major parties: Karl C. Anderson, Stephen P. Benard Sr, Kevin E. Geno, David J. Fox and Johnathan \"J.J.\" Bixby are printed as REP/DEM, and Ian C. Sullivan as DEM/REP. Each is listed here under the first party printed. Incumbency is not marked because no official roster was checked. Names are printed in capitals on the ballot and are shown here in standard capitalization. Not shown: State Senate and State Representative districts, town Justice of the Peace races, and the statewide constitutional proposals, which are listed with the state ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Probate Judge, Rutland Probate District",
+      "candidates": [
+        {
+          "key": "vt-rutland-2026-probate-judge-anderson-karl",
+          "name": "Karl C. Anderson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "Assistant Judge, Rutland County (vote for 2)",
+      "candidates": [
+        {
+          "key": "vt-rutland-2026-assistant-judge-benard-stephen",
+          "name": "Stephen P. Benard Sr",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "vt-rutland-2026-assistant-judge-geno-kevin",
+          "name": "Kevin E. Geno",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "State's Attorney, Rutland County",
+      "candidates": [
+        {
+          "key": "vt-rutland-2026-states-attorney-sullivan-ian",
+          "name": "Ian C. Sullivan",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "Sheriff, Rutland County",
+      "candidates": [
+        {
+          "key": "vt-rutland-2026-sheriff-fox-david",
+          "name": "David J. Fox",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "High Bailiff, Rutland County",
+      "candidates": [
+        {
+          "key": "vt-rutland-2026-high-bailiff-bixby-johnathan",
+          "name": "Johnathan \"J.J.\" Bixby",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
