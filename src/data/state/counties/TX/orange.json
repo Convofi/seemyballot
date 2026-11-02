@@ -1,0 +1,103 @@
+{
+  "state": "TX",
+  "county": "Orange County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.orange.tx.us/departments/electionsadministration/sampleballots",
+    "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%201%20Sample%20Ballot.pdf",
+    "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%202%20Sample%20Ballot.pdf",
+    "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf",
+    "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%204%20Sample%20Ballot.pdf",
+    "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Election%20Notice/Amended%20Notice%20of%20Election%201%20-%2011032026%20Signed.pdf",
+    "https://www.co.orange.tx.us/media/Elections/2025/Constitution%20Amendment%20Election%20-%20November%204%202025/Elected%20Officials/Elected%20Officials.pdf"
+  ],
+  "note": "From the Orange County Elections Administration's November 3, 2026 sample ballots (one per commissioner precinct; the county-level offices shown appear on each). Not shown because they depend on your precinct or district: County Commissioner and Justice of the Peace races, U.S. House, State Senate, State House and State Board of Education districts, the Little Cypress-Mauriceville CISD bond, Orange County ESD No. 2 and Orangefield ISD items. No City of Orange item appears on the sample ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's Elected Officials list names the candidate in that office (it lists the Treasurer as 'Christy Khoury'; the ballot prints 'Christy Khoury Roccaforte'). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 9th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-orange-2026-coa9-chief-golemon-scott",
+          "name": "Scott Golemon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "District Judge, 260th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-orange-2026-dj260-parkhurst-steven",
+          "name": "Steven Parkhurst",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-orange-2026-county-judge-gothia-john",
+          "name": "John Gothia",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law",
+      "candidates": [
+        {
+          "key": "tx-orange-2026-ccl-white-rogers-mandy",
+          "name": "Mandy White-Rogers",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-orange-2026-district-clerk-reed-anne",
+          "name": "Anne Reed",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-orange-2026-county-clerk-robertson-brandy",
+          "name": "Brandy Robertson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-orange-2026-treasurer-roccaforte-christy",
+          "name": "Christy Khoury Roccaforte",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.orange.tx.us/media/Elections/2026/General%20Election%20November%203%202026/Sample%20Ballot/Commissioner%20Pct%203%20Sample%20Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

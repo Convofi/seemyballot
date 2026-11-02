@@ -1,0 +1,150 @@
+{
+  "state": "TX",
+  "county": "Walker County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.walker.tx.us/department/division.php?structureid=140",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10552",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10553",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10554",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10555",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10556",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10557",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10558",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10559",
+    "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=8364"
+  ],
+  "note": "From the Walker County Elections Department's November 3, 2026 sample ballots. The county has posted 9 ballot styles so far (precincts 303, 304, 401, 403, 404 and 406), and the county-level offices shown appear on the styles reviewed. Ballots for the Huntsville-area precincts are not posted, so City of Huntsville items, if any, are not covered. Not shown because they depend on your precinct or district: County Commissioner and Justice of the Peace races, U.S. House, State Senate, State House and State Board of Education districts, and New Waverly ISD and City of New Waverly items. The Walker County Hospital District board election (vote for up to two) appears on every posted style, including the county-only ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's current Elected Officials list names the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 10th Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-coa10-p2-harris-lee",
+          "name": "Lee Harris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "District Judge, 278th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-dj278-sorensen-tracy",
+          "name": "Tracy Sorensen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-criminal-da-durham-will",
+          "name": "Will Durham",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-county-judge-christian-colt",
+          "name": "Colt Morgan Christian",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "Judge, County Court at Law",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-ccl-gaines-john",
+          "name": "John R. Gaines",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-district-clerk-woolley-leslie",
+          "name": "Leslie A. Woolley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-county-clerk-french-kari",
+          "name": "Kari A. French",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-walker-2026-treasurer-klawinsky-amy",
+          "name": "Amy Buckner Klawinsky",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    },
+    {
+      "office": "Walker County Hospital District Board of Managers",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "tx-walker-2026-hospital-board-batiste-donald",
+          "name": "Donald Batiste",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-walker-2026-hospital-board-bodner-natalie",
+          "name": "Natalie Bodner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-walker-2026-hospital-board-antwi-stephen",
+          "name": "Stephen Antwi",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-walker-2026-hospital-board-sapp-joe",
+          "name": "Joe Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.walker.tx.us/egov/apps/document/center.egov?view=item&id=10551"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

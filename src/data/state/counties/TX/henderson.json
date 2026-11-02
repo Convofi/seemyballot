@@ -1,0 +1,143 @@
+{
+  "state": "TX",
+  "county": "Henderson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.henderson-county.com/229/Sample-Ballots",
+    "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot",
+    "https://www.henderson-county.com/228/November-3-2026",
+    "https://www.henderson-county.com/DocumentCenter/View/1553/Henderson-County-Appraisal-District-Cancellation-of-Election",
+    "https://www.henderson-county.com/201/County-Attorney",
+    "https://www.henderson-county.com/204/County-Clerk",
+    "https://www.henderson-county.com/210/County-Treasurer",
+    "https://www.henderson-county.com/212/173rd-District-Court",
+    "https://www.henderson-county.com/215/County-Court-at-Law",
+    "https://www.henderson-county.com/216/County-Court-at-Law-2",
+    "https://www.henderson-county.com/220/District-Clerk"
+  ],
+  "note": "From the Henderson County Election Office's November 3, 2026 publication ballot, which lists every contest in the county and in the districts and cities holding joint elections with it. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precincts 1-5, U.S. House, State Senate and State House districts, and the city, school district and emergency services district items (e.g. Cities of Enchanted Oaks, Trinidad, Coffee City, Tool, Eustace and Gun Barrel City; Cross Roads, Brownsboro and Malakoff ISDs; Henderson County ESD No. 1). The Henderson County Appraisal District board election was cancelled. The City of Athens has no item on the ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's office pages name the candidate in that office; the County Judge page names no officeholder, and the 12th Court of Appeals candidates are not on a county roster. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 12th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-coa12-chief-hoyle-brian",
+          "name": "Brian Hoyle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "Justice, 12th Court of Appeals District, Place 3 (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-coa12-p3-davis-michael",
+          "name": "Michael Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "District Judge, 173rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-dj173-davis-clint",
+          "name": "Clint Davis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-county-judge-smith-mark",
+          "name": "Mark Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-ccl1-williams-scott",
+          "name": "Scott Williams",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-ccl2-perryman-nancy",
+          "name": "Nancy Adams Perryman",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "County Attorney (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-county-attorney-strawn-kenneth",
+          "name": "Kenneth Strawn",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-district-clerk-herriage-betty",
+          "name": "Betty Herriage",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-county-clerk-wright-mary",
+          "name": "Mary Margaret Wright",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-henderson-2026-treasurer-bynum-michael",
+          "name": "Michael Bynum",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.henderson-county.com/DocumentCenter/View/1523/Henderson-County-Publication-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
