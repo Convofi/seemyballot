@@ -1,0 +1,288 @@
+{
+  "state": "OH",
+  "county": "Summit County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf",
+    "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf",
+    "https://www.boe.ohio.gov/summit/c/election/20261103/90IssueSynopsisNov.pdf",
+    "https://www.boe.ohio.gov/summit/c/upload/Write-Ins_CandidateFilings.pdf",
+    "https://council.summitoh.net/",
+    "https://www.summitcpcourt.net/judges/",
+    "https://www.drcourt.org/",
+    "https://co.summitoh.net/juvenilecourt",
+    "https://summitohioprobate.com/"
+  ],
+  "note": "Not shown: legislative and congressional districts, the City of Hudson Ward 2 council seat, and city, village, township and school district issues outside Akron (including Barberton, Green, Hudson, Munroe Falls, Norton, Stow, Twinsburg, Boston Heights, Mogadore, Peninsula), the Stark County District Library levy, and precinct local-liquor-option questions (including Akron 4-F and 6-C). No county executive, other county officer or countywide issue is on this ballot. Akron has no city offices on this ballot. Check your official sample ballot for district and local items.",
+  "contests": [
+    {
+      "office": "County Council At-Large (vote for 3; term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-council-atlarge-barker-shane",
+          "name": "Shane R. Barker",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-council-atlarge-bollas-jonathon",
+          "name": "Jonathon D. Bollas",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-council-atlarge-chapman-john",
+          "name": "John Chapman",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-council-atlarge-dickinson-erin",
+          "name": "Erin Dickinson",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-summit-2026-council-atlarge-donofrio-john",
+          "name": "John A. Donofrio",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "oh-summit-2026-council-atlarge-walters-elizabeth",
+          "name": "Elizabeth Walters",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 9th District (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-app9-0209-curtin-cynthia",
+          "name": "Cynthia Curtin",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-app9-0209-sutton-betty",
+          "name": "Betty Sutton",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 9th District (unexpired term ending 2/9/2029)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-app9-unexp2029-galonski-tavia",
+          "name": "Tavia Galonski",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-app9-unexp2029-manning-nathan",
+          "name": "Nathan Manning",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/2/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-cpgen-0102-nemer-tania",
+          "name": "Tania Nemer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-cpgen-0102-obrien-tammy",
+          "name": "Tammy O'Brien",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/3/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-cpgen-0103-mclaughlin-kelly",
+          "name": "Kelly L. McLaughlin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/5/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-cpgen-0105-mccarty-alison",
+          "name": "Alison McCarty",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-summit-2026-cpgen-0105-perry-job",
+          "name": "Job Esau Perry",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 1/6/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-cpgen-0106-makra-kate",
+          "name": "Kate A. Makra",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-cpgen-0106-rowlands-mary-margaret",
+          "name": "Mary Margaret Rowlands",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-cpgen-0209-croce-christine",
+          "name": "Christine L. Croce",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-summit-2026-cpgen-0209-galonski-john",
+          "name": "John Galonski",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 5/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-cpgen-0501-darwal-joe",
+          "name": "Joe Darwal",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-cpgen-0501-malek-oldfield-joy",
+          "name": "Joy Malek Oldfield",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Juvenile Division (term beginning 1/1/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-juvenile-0101-jones-amy",
+          "name": "Amy Corrigall Jones",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-juvenile-0101-lombardi-david",
+          "name": "David Lombardi",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division (term beginning 1/4/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-cpdr-0104-cook-katarina",
+          "name": "Katarina Cook",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "oh-summit-2026-cpdr-0104-dean-lisa",
+          "name": "Lisa Dean",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        {
+          "key": "oh-summit-2026-probate-0209-elliott-steve",
+          "name": "Steve Elliott",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "oh-summit-2026-probate-0209-stevenson-diana",
+          "name": "Diana Stevenson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Akron": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Issue 11",
+          "title": "Akron – Proposed Charter Amendment: Section 101b (Residential Rental Deposits and Fees)",
+          "summary": "Would add Section 101b to the Akron charter. Property owners or operators would have to let tenants pay security deposits for residential rentals over three or six months and would have to tell tenants and prospective tenants about that right. It would ban fees, charges, deposits or other payments before a rental agreement is signed, and would make failing to give the notice, or collecting a rental application fee, a criminal offense.",
+          "yesMeans": "Section 101b is added: tenants may pay security deposits over three or six months, and pre-lease fees and application fees are banned.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf",
+          "moreInfo": "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf"
+        },
+        {
+          "id": "Issue 12",
+          "title": "Akron – Proposed Charter Amendment: Section 100a (Anti-Discrimination Protections)",
+          "summary": "Would add Section 100a to the Akron charter, placing the city's existing codified anti-discrimination protections in the charter. With exceptions for sex offenders and arson offenders, owners and operators could not refuse to rent to, or do a real estate transaction with, a person because of criminal history such as arrests, convictions or incarceration. It would give the Akron Civil Rights Commission jurisdiction over all real estate discrimination claims arising in Akron and require City Council to pass implementing legislation within 90 days.",
+          "yesMeans": "Section 100a is added, making criminal history a protected class for housing and real estate transactions, with the listed exceptions.",
+          "noMeans": "The charter is not changed.",
+          "source": "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf",
+          "moreInfo": "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf"
+        },
+        {
+          "id": "Issue 13",
+          "title": "Akron – Proposed Charter Amendment: Section 68a (Police Oversight Board and Independent Police Auditor)",
+          "summary": "Would amend Section 68a of the Akron charter on the citizens' police oversight board. City Council would appoint fewer members, and the board would choose one-third of its own members from a list prepared by a committee of members of a \"qualifying civil rights organization.\" It would set procedures and deadlines for the Mayor, Police Chief and City Council to respond to recommendations of the Office of the Independent Police Auditor, and would authorize that office to subpoena records and compel testimony from private citizens and public employees.",
+          "yesMeans": "Section 68a is amended to change how the oversight board is chosen and to give the Independent Police Auditor subpoena power and response deadlines.",
+          "noMeans": "Section 68a stays as it is.",
+          "source": "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf",
+          "moreInfo": "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf"
+        }
+      ]
+    }
+  }
+}

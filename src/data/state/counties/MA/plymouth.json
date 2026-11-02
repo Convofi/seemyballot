@@ -1,0 +1,43 @@
+{
+  "state": "MA",
+  "county": "Plymouth County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.wareham.gov/DocumentCenter/View/9210/November-3-2026-State-Election-Official-Specimen-Ballot-PDF",
+    "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026/stage:Primaries"
+  ],
+  "note": "Governor's Council, State Senate and State Representative districts are not shown because they do not cover all of Plymouth County. Regional school committee seats are not shown. The Sheriff, Register of Deeds and Clerk of Courts are not on the 2026 ballot. Brockton has no city offices on this state election ballot; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races and any local questions.",
+  "contests": [
+    {
+      "office": "District Attorney, Plymouth District",
+      "candidates": [
+        { "key": "ma-plymouth-2026-da-cruz-timothy", "name": "Timothy J. Cruz", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.wareham.gov/DocumentCenter/View/9210/November-3-2026-State-Election-Official-Specimen-Ballot-PDF"
+    },
+    {
+      "office": "Register of Probate, Plymouth County",
+      "candidates": [
+        { "key": "ma-plymouth-2026-register-of-probate-mcdonough-matthew", "name": "Matthew Joseph McDonough", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.wareham.gov/DocumentCenter/View/9210/November-3-2026-State-Election-Official-Specimen-Ballot-PDF"
+    },
+    {
+      "office": "County Treasurer, Plymouth County",
+      "candidates": [
+        { "key": "ma-plymouth-2026-county-treasurer-obrien-thomas", "name": "Thomas J. O'Brien", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.wareham.gov/DocumentCenter/View/9210/November-3-2026-State-Election-Official-Specimen-Ballot-PDF"
+    },
+    {
+      "office": "County Commissioner, Plymouth County",
+      "candidates": [
+        { "key": "ma-plymouth-2026-county-commissioner-nyman-rhonda", "name": "Rhonda L. Nyman", "party": "Democratic", "incumbent": false },
+        { "key": "ma-plymouth-2026-county-commissioner-obrien-anthony", "name": "Anthony Thomas O'Brien, Sr.", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.wareham.gov/DocumentCenter/View/9210/November-3-2026-State-Election-Official-Specimen-Ballot-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

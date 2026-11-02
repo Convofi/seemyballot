@@ -1,0 +1,284 @@
+{
+  "state": "CA",
+  "county": "Santa Barbara County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://sbcvote.com/SampleballotandpollplaceLookup/ballots/bt000099.pdf",
+    "https://www.countyofsb.org/asset/7c6fb4a3-0c1e-4cbe-b382-b906599d7977",
+    "https://www.countyofsb.org/asset/1c1115e9-7446-48b3-9cea-5ad1eb88b2e6",
+    "https://www.countyofsb.org/asset/29ae4f0e-3b88-46a9-b8fd-95bd58bf2c53",
+    "https://www.countyofsb.org/list-of-local-measures-on-ballot",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "Not shown: Board of Supervisors (elected by district; the 5th District is on the ballot), Santa Maria City Council Districts 1 (short term), 3 and 4, Santa Barbara City Council Districts 4, 5 and 6, offices in other cities (Buellton, Carpinteria, Goleta, Guadalupe, Lompoc and Solvang, including their mayor contests), County Board of Education trustee areas, school and community college boards, special districts, congressional and legislative districts, and school, college, special-district and other city measures (D2026 through J2026). No Sheriff, District Attorney or other countywide office or Superior Court judge is on the November ballot, and there is no countywide measure. Statewide races and the Supreme Court retention are on the California statewide list. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division One — retain Michelle C. Kim? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div1-kim-michelle",
+          "name": "Michelle C. Kim",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division One — retain Gregory J. Weingart? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div1-weingart-gregory",
+          "name": "Gregory J. Weingart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Two — retain Anne Richardson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div2-richardson-anne",
+          "name": "Anne Richardson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Two — retain Steve Goorvitch? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div2-goorvitch-steve",
+          "name": "Steve Goorvitch",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, Second District, Division Three — retain Rashida A. Adams? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div3-adams-rashida",
+          "name": "Rashida A. Adams",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Three — retain Mark Hanasono? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div3-hanasono-mark",
+          "name": "Mark Hanasono",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, Second District, Division Four — retain Helen Zukin? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div4-zukin-helen",
+          "name": "Helen Zukin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Four — retain Nicholas Daum? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div4-daum-nicholas",
+          "name": "Nicholas Daum",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Four — retain Audra M. Mori? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div4-mori-audra",
+          "name": "Audra M. Mori",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Four — retain Armen Tamzarian? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div4-tamzarian-armen",
+          "name": "Armen Tamzarian",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, Second District, Division Five — retain Brian M. Hoffstadt? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div5-hoffstadt-brian",
+          "name": "Brian M. Hoffstadt",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, Second District, Division Six — retain Tari L. Cody? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div6-cody-tari",
+          "name": "Tari L. Cody",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Six — retain Kenneth R. Yegan? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div6-yegan-kenneth",
+          "name": "Kenneth R. Yegan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, Second District, Division Seven — retain Gonzalo C. Martinez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div7-martinez-gonzalo",
+          "name": "Gonzalo C. Martinez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Seven — retain Natalie Stone? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div7-stone-natalie",
+          "name": "Natalie Stone",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Eight — retain John Wiley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div8-wiley-john",
+          "name": "John Wiley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Eight — retain Matthew A. Scherb? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div8-scherb-matthew",
+          "name": "Matthew A. Scherb",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Second District, Division Eight — retain Victor G. Viramontes? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-santa-barbara-2026-coa2-div8-viramontes-victor",
+          "name": "Victor G. Viramontes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Santa Maria": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Measure C2026",
+          "title": "City of Santa Maria General Services",
+          "summary": "Adds a one-half cent local sales (transactions and use) tax in the City of Santa Maria, on top of the existing one-cent Measure U tax, until ended by voters. It is a general tax; the City estimates about $13,000,000 a year for general city services such as parks and recreation, the aquatic center, library, youth programs, and roads and streets, with annual independent audits reviewed by the City Council.",
+          "yesMeans": "Santa Maria adds a one-half cent sales tax for general city services until voters end it.",
+          "noMeans": "The additional one-half cent sales tax is not adopted.",
+          "source": "https://sbcvote.com/SampleballotandpollplaceLookup/ballots/bt000099.pdf",
+          "moreInfo": "https://www.countyofsb.org/list-of-local-measures-on-ballot"
+        }
+      ]
+    },
+    "Santa Barbara": {
+      "contests": [
+        {
+          "office": "Mayor, City of Santa Barbara",
+          "candidates": [
+            {
+              "key": "ca-santa-barbara-2026-sb-mayor-sims-moten-wendy",
+              "name": "Wendy Sims-Moten",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-santa-barbara-2026-sb-mayor-friedman-eric",
+              "name": "Eric Friedman",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-santa-barbara-2026-sb-mayor-kilrain-matt",
+              "name": "Matt Kilrain",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-santa-barbara-2026-sb-mayor-sneddon-kristen",
+              "name": "Kristen W. Sneddon",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.countyofsb.org/asset/7c6fb4a3-0c1e-4cbe-b382-b906599d7977"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

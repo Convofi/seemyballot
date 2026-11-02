@@ -1,0 +1,227 @@
+{
+  "state": "WA",
+  "county": "Spokane County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=32&p=XX",
+    "https://www.courts.wa.gov/court_dir/orgs/291.html",
+    "https://www.courts.wa.gov/appellate_trial_courts/bios/?fa=atc_bios.home&folderID=div3",
+    "https://cp.spokanecounty.org/elections/results.aspx"
+  ],
+  "note": "Not shown: Spokane County Commissioner Districts 2 and 4, Public Utility District No. 1 Commissioner #2, legislative and congressional districts, and school district, fire district and town/city propositions (Liberty Lake, Rockford, Spangle). No Spokane County Superior Court positions and no countywide Spokane County measures are on this ballot. The City of Spokane has no city offices or city measures on this ballot. Check your official sample ballot for district items.",
+  "contests": [
+    {
+      "office": "Spokane County Assessor",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-assessor-konis-tom",
+          "name": "Tom Konis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County Auditor",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-auditor-gee-callie",
+          "name": "Callie Gee",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-spokane-2026-auditor-cathcart-michael",
+          "name": "Michael Cathcart",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County Clerk",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-clerk-lucas-dave",
+          "name": "Dave Lucas",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-spokane-2026-clerk-robison-elliot",
+          "name": "Elliot Robison",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-prosecutor-mccollam-preston",
+          "name": "Preston McCollam",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-spokane-2026-prosecutor-tarkenton-danny",
+          "name": "Danny Tarkenton",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-sheriff-nowels-john",
+          "name": "John F. Nowels",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-treasurer-volz-mike",
+          "name": "Mike Volz",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Court of Appeals, Division 3, District 1, Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-app3d1-2026-pos2-staab-tracy",
+          "name": "Tracy Arlene Staab",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 1",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos1-johnson-patrick",
+          "name": "Patrick T Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 2",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos2-valerien-mike",
+          "name": "Mike (Michael) Valerien",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-spokane-2026-district-court-pos2-crull-deanna",
+          "name": "Deanna Kathleen Crull",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 3",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos3-zappone-jenny",
+          "name": "Jenny Zappone",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 4",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos4-ulrich-nicholas",
+          "name": "Nicholas Ulrich",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-spokane-2026-district-court-pos4-addams-michael",
+          "name": "Michael R Addams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 5",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos5-fassbender-jennifer",
+          "name": "Jennifer L. Fassbender",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 6",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos6-biviano-andrew",
+          "name": "Andrew Biviano",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 7",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos7-maurer-aimee",
+          "name": "Aimee N. Maurer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    },
+    {
+      "office": "Spokane County District Court Judge Position No. 8",
+      "candidates": [
+        {
+          "key": "wa-spokane-2026-district-court-pos8-leland-richard",
+          "name": "Richard M. Leland",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=32"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
