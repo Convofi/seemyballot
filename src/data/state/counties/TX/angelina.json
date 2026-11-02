@@ -1,0 +1,170 @@
+{
+  "state": "TX",
+  "county": "Angelina County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.angelinacounty.net/elections/",
+    "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf",
+    "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/notice_of_general_election_110326.pdf",
+    "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/order_of_cancellation_for_CAD_110326.pdf",
+    "https://www.angelinacounty.net/cc/",
+    "https://www.angelinacounty.net/ccl1/",
+    "https://www.angelinacounty.net/ccl2/",
+    "https://www.angelinacounty.net/cojudge/",
+    "https://www.angelinacounty.net/da/",
+    "https://www.angelinacounty.net/districtclerk/",
+    "https://www.angelinacounty.net/districtcourt159/",
+    "https://www.angelinacounty.net/districtcourt217/",
+    "https://www.angelinacounty.net/tax/",
+    "https://www.angelinacounty.net/treasurer/"
+  ],
+  "note": "From the Angelina County Elections Office's November 3, 2026 sample ballots (all 40 precinct ballots in one document; the county-level offices shown appear on every precinct ballot). Not shown because they depend on your precinct or district: County Commissioner Precincts 1 (unexpired term), 2 and 4, Justice of the Peace races, U.S. House, State Senate, State House and State Board of Education districts. The Angelina County Appraisal District board election was cancelled (order of cancellation). No City of Lufkin, school or special-district item appears on the sample ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's office pages name the candidate in that office; the 12th Court of Appeals candidates are not on a county roster and are marked non-incumbent. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 12th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-coa12-chief-hoyle-brian",
+          "name": "Brian Hoyle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "Justice, 12th Court of Appeals District, Place 3 (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-coa12-p3-davis-michael",
+          "name": "Michael Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "District Judge, 159th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-dj159-kassaw-todd",
+          "name": "Todd Kassaw",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "District Judge, 217th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-dj217-skillern-kristi",
+          "name": "Kristi Skillern",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "District Attorney, 159th Judicial District (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-da159-wren-amy",
+          "name": "Amy Wren",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-county-judge-wright-keith",
+          "name": "Keith Wright",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-ccl1-register-joe",
+          "name": "Joe Lee Register",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-ccl2-cassels-jimmy",
+          "name": "Jimmy Cassels",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-district-clerk-moore-meagan",
+          "name": "Meagan Moore",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-county-clerk-fincher-amy",
+          "name": "Amy Fincher",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "County Tax Assessor-Collector (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-tax-assessor-collier-terri",
+          "name": "Terri Collier",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-angelina-2026-treasurer-brewer-jill",
+          "name": "Jill Brewer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.angelinacounty.net/files/pdf/elections/pdf/2026/110326/sample_ballots_110326.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

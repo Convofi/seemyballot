@@ -1,0 +1,130 @@
+{
+  "state": "TX",
+  "county": "Bowie County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.bowiecounty.org/1239/Elections",
+    "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada",
+    "https://www.bowiecounty.org/DocumentCenter/View/1919/List-of-Delclared-Write-in-Candidates-November-2026",
+    "https://www.bowiecounty.org/DocumentCenter/View/1712/Notice-of-Joint-General-Election-1132026",
+    "https://www.bowiecounty.org/DocumentCenter/View/2070/2026-132-ORD-Canceling-GE-110326-W3W5-signed",
+    "https://www.bowiecounty.org/1213/County-Court-at-Law",
+    "https://www.bowiecounty.org/1215/County-Judge",
+    "https://www.bowiecounty.org/1216/County-Treasurer",
+    "https://www.bowiecounty.org/1233/District-Clerk",
+    "https://www.bowiecounty.org/1237/102nd-District-Court"
+  ],
+  "note": "From the Bowie County Elections Office's November 3, 2026 combined sample ballot, which shows every contest in the county and marks which precincts vote on each. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justice of the Peace Precinct 1 Place 2 and Precincts 2, 3 and 5, and the U.S. House (Districts 1 and 4), State Senate and State House districts. No city, school or special-district item appears on the combined ballot. The City of Texarkana cancelled its Ward 3 and Ward 5 council elections (unopposed candidates). Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's office pages name the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 6th Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-coa6-p3-van-cleef-charles",
+          "name": "Charles Van Cleef",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "District Judge, 102nd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-dj102-addison-jeff",
+          "name": "Jeff M. Addison",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-criminal-da-crisp-kelley",
+          "name": "Kelley Crisp",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-county-judge-davis-josh",
+          "name": "Josh Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "Judge, County Court at Law",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-ccl-henry-craig",
+          "name": "Craig Henry",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-district-clerk-caraway-lori",
+          "name": "Lori Caraway",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-county-clerk-petty-tina",
+          "name": "Tina Petty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "County Tax Assessor-Collector (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-tax-assessor-mcentire-trina",
+          "name": "Trina McEntire",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-bowie-2026-treasurer-burns-donna",
+          "name": "Donna Burns",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.bowiecounty.org/DocumentCenter/View/1907/1132026-COMBINED-SAMPLE-BALLOT-Papeleta-de-muestra-combinada"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

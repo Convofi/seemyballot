@@ -1,0 +1,226 @@
+{
+  "state": "TX",
+  "county": "Hunt County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.huntcounty.net/page/electionsampleballots",
+    "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf",
+    "https://www.huntcounty.net/upload/page/0143/docs/Pct%20215B%20Sample.pdf",
+    "https://www.huntcounty.net/upload/page/0143/docs/Pct%20426%20Sample.pdf",
+    "https://www.huntcounty.net/page/electionnotices",
+    "https://www.huntcounty.net/upload/page/0142/2026/Order%20of%20Election%20for%20Hunt%20County%20Appraisal%20District.pdf",
+    "https://www.huntcounty.net/page/countyattorney",
+    "https://www.huntcounty.net/page/countyjudge",
+    "https://www.huntcounty.net/page/districtclerk",
+    "https://www.huntcounty.net/page/countytreasurer"
+  ],
+  "note": "From the Hunt County Elections Office's November 3, 2026 precinct sample ballots (all 39 posted precinct ballots; the county-level offices and Hunt County Appraisal District board places shown appear on every one). Not shown because they depend on your precinct or district: County Commissioner Precinct 1 (unexpired term) and other commissioner seats, Justice of the Peace races, U.S. House, State Senate and State House districts, the Bland ISD tax ratification proposition, City of Union Valley and Town of Poetry propositions, and other city, school and special-district items. The City of Greenville has no item on the sample ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's office pages name the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-coa5-p3-kolodoski-matthew",
+          "name": "Matthew Kolodoski",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hunt-2026-coa5-p3-reichek-amanda",
+          "name": "Amanda Reichek",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-coa5-p6-smith-ben",
+          "name": "Ben Smith",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hunt-2026-coa5-p6-purdy-monica",
+          "name": "Monica Purdy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "Justice, 5th Court of Appeals District, Place 8",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-coa5-p8-wysocki-ashley",
+          "name": "Ashley Wysocki",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hunt-2026-coa5-p8-plumlee-andrea",
+          "name": "Andrea D. Plumlee",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "Justice, 6th Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-coa6-p3-van-cleef-charles",
+          "name": "Charles Van Cleef",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "District Judge, 196th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-dj196-perrone-christina",
+          "name": "Christina Wade Perrone",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-county-judge-hutchins-mark",
+          "name": "Mark Hutchins",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-ccl1-renshaw-david",
+          "name": "David Renshaw",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "County Attorney (unexpired term)",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-county-attorney-hollis-elisha",
+          "name": "Elisha Hollis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-district-clerk-spradling-susan",
+          "name": "Susan Spradling",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-county-clerk-wineinger-kelly",
+          "name": "Kelly Wineinger",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-treasurer-turner-brittni",
+          "name": "Brittni Turner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "Hunt County Appraisal District Board of Directors, Place 1",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-cad-p1-dennehy-michael",
+          "name": "Michael Dennehy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hunt-2026-cad-p1-barrett-james",
+          "name": "James Barrett",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "Hunt County Appraisal District Board of Directors, Place 2",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-cad-p2-bench-david",
+          "name": "David Bench",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hunt-2026-cad-p2-edwards-marlon",
+          "name": "Marlon Buck Edwards",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    },
+    {
+      "office": "Hunt County Appraisal District Board of Directors, Place 3",
+      "candidates": [
+        {
+          "key": "tx-hunt-2026-cad-p3-owsley-james",
+          "name": "James D. Owsley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "tx-hunt-2026-cad-p3-love-roland",
+          "name": "Roland Love",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.huntcounty.net/upload/page/0143/docs/Pct%20101%20Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
