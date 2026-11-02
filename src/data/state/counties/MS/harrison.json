@@ -10,9 +10,11 @@
     "https://courts.ms.gov/trialcourts/circuitcourt/circuitcourt.php",
     "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
     "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf",
-    "https://courts.ms.gov/appellatecourts/coa/coajudges.php"
+    "https://courts.ms.gov/appellatecourts/coa/coajudges.php",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm"
   ],
-  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown here are the judicial seats every Harrison County voter votes on, from the Secretary of State's official sample ballot: Court of Appeals District 5 (all of Harrison County), 8th Chancery District and 2nd Circuit District (Hancock, Harrison and Stone counties, elected districtwide). Not shown: County Court judge races and any county, Gulfport or Biloxi questions. The Harrison County site was behind a bot wall, so the county's own sample ballot could not be checked. Check your official sample ballot. Incumbent flags come from the Mississippi Judiciary's judge rosters.",
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown here are the judicial seats every Harrison County voter votes on, from the Secretary of State's official sample ballot: Court of Appeals District 5 (all of Harrison County), 8th Chancery District (Hancock and Harrison counties under the 2025 redistricting law, effective January 2027) and 2nd Circuit District (Hancock, Harrison and Stone counties), both elected districtwide. Not shown: County Court judge races and any county, Gulfport or Biloxi questions. The Harrison County site was behind a bot wall, so the county's own sample ballot could not be checked. Check your official sample ballot. Incumbent flags come from the Mississippi Judiciary's judge rosters.",
   "contests": [
     {
       "office": "Court of Appeals Judge, District 5, Position 1",
