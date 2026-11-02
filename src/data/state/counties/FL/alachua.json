@@ -1,0 +1,95 @@
+{
+  "state": "FL",
+  "county": "Alachua County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=alachua",
+    "https://alachuacounty.us/news/Article/Pages/Highlights-from-the-October-14,-2025-County-Commission-Meeting.aspx",
+    "https://alachuacounty.us/Depts/BOCC/Pages/BOCC.aspx",
+    "https://www.sbac.edu/board",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Candidates are from the Alachua County Supervisor of Elections candidate listing (candidates still active for November after the August primary); the Supervisor's website blocks automated access, so the sample ballot could not be checked and names are shown as filed. County Commissioners and School Board members are elected countywide but must live in their district. Not on the November ballot: County Commission District 2, School Board Districts 3 and 5, County Court Judge Groups 3 and 5, Gainesville Mayor and City Commission Districts 2, 3 and 4 (all decided earlier). Not shown: Alachua County and City of Gainesville ballot questions, including any charter amendment on how county commissioners are elected (could not be verified because the Supervisor of Elections site blocks automated access), other cities' races and questions, and community development district seats. Check your official sample ballot. The School Board district seat on the ballot is not shown because it could not be confirmed from an official source that the whole county votes on it.",
+  "contests": [
+    {
+      "office": "County Commission District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-alachua-2026-bocc-d4-cornell-ken",
+          "name": "Ken Cornell",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "fl-alachua-2026-bocc-d4-baines-dewayne",
+          "name": "Dewayne Baines",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=alachua"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Joseph Lewis Jr.? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-alachua-2026-dca1-retain-lewis-joseph",
+          "name": "Joseph Lewis Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Rachel Nordby? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-alachua-2026-dca1-retain-nordby-rachel",
+          "name": "Rachel Nordby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Tim Osterhaus? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-alachua-2026-dca1-retain-osterhaus-tim",
+          "name": "Tim Osterhaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Clay Roberts? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-alachua-2026-dca1-retain-roberts-clay",
+          "name": "Clay Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Raymond Treadwell? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-alachua-2026-dca1-retain-treadwell-raymond",
+          "name": "Raymond Treadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

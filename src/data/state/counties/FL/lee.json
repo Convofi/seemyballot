@@ -1,0 +1,114 @@
+{
+  "state": "FL",
+  "county": "Lee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lee",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lee&el=35",
+    "https://www.capecoral.gov/departments/city_clerk/city_elections.php",
+    "https://www.capecoral.gov/Documents/Departments/City%20Clerk/2026%20MUNICIPAL%20Candidate%20List.pdf?t=202606221313590",
+    "https://www.capecoral.gov/government/city_council/index.php",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "The Lee County Supervisor of Elections website (lee.vote) and the county government website could not be reached, so this is built from the Supervisor of Elections' candidate filing records and City of Cape Coral pages; sample ballots were not checked. Not shown: County Commission Districts 2 and 4 and School Board Districts 4 and 5, because their countywide or district-only voting could not be confirmed from an official page; any county or city referendum or charter question (none could be verified); Fort Myers Beach Town Council; and fire, mosquito control, library and community development district seats. Cape Coral candidate names follow the Supervisor of Elections listing; the printed ballot may differ slightly (for example, the city's qualifying list shows Richard E Erickson, David Newton and Thomas Shadrach). The state candidate list shows no 6th District Court of Appeal retention and no contested 20th Circuit judge race this November. Check your official sample ballot at lee.vote.",
+  "contests": [
+    {
+      "office": "Supervisor of Elections",
+      "candidates": [
+        {
+          "key": "fl-lee-2026-soe-persons-mulicka-jenna",
+          "name": "Jenna Persons-Mulicka",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-lee-2026-soe-vignieri-chris",
+          "name": "Chris Vignieri",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lee"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Cape Coral": {
+      "contests": [
+        {
+          "office": "Cape Coral Mayor",
+          "candidates": [
+            {
+              "key": "fl-lee-2026-capecoral-mayor-cohen-adkinson-lisa",
+              "name": "Lisa Cohen-Adkinson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-lee-2026-capecoral-mayor-erickson-rick",
+              "name": "Rick Erickson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lee&el=35"
+        },
+        {
+          "office": "Cape Coral Council Member District 1 (elected citywide)",
+          "candidates": [
+            {
+              "key": "fl-lee-2026-capecoral-council-d1-newton-dave",
+              "name": "Dave Newton",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-lee-2026-capecoral-council-d1-shadrach-tom",
+              "name": "Tom Shadrach",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lee&el=35"
+        },
+        {
+          "office": "Cape Coral Council Member District 4 (elected citywide)",
+          "candidates": [
+            {
+              "key": "fl-lee-2026-capecoral-council-d4-nelson-lastra-jennifer",
+              "name": "Jennifer Nelson Lastra",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "fl-lee-2026-capecoral-council-d4-vargas-james",
+              "name": "James Vargas",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lee&el=35"
+        },
+        {
+          "office": "Cape Coral Council Member District 6 (elected citywide)",
+          "candidates": [
+            {
+              "key": "fl-lee-2026-capecoral-council-d6-king-liza",
+              "name": "Liza King",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-lee-2026-capecoral-council-d6-warren-annette",
+              "name": "Annette Warren",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lee&el=35"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

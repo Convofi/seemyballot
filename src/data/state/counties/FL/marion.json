@@ -1,0 +1,50 @@
+{
+  "state": "FL",
+  "county": "Marion County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=marion"
+  ],
+  "note": "Partial ballot: only the 5th District Court of Appeal retention questions are shown. The Marion County Supervisor of Elections, Marion County government, Marion County Public Schools and City of Ocala websites block automated access, so no sample ballot could be checked. Not shown because we could not confirm from an official source whether every county voter votes on them: County Commission District 4 (Jeff Bairstow, plus write-in Leonard Michael Racioppi), School Board District 4 (Mike Mills, Brigitte Smith), School Board District 5 (Donald \"Donny\" Barber, Sarah James) and Soil and Water Conservation District 5 (Deborah A. Edwards, Vivi Serena). Also not shown: City of Belleview and City of Dunnellon races. County and City of Ocala referenda could not be checked because the Supervisor of Elections site blocks automated access. The county candidate list shows no City of Ocala race this November. Check your official sample ballot at votemarion.gov.",
+  "contests": [
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-marion-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-marion-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-marion-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

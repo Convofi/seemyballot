@@ -1,0 +1,39 @@
+{
+  "state": "WI",
+  "county": "Outagamie County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.outagamie.gov/files/assets/county/v/2/county-clerk/documents/elections/2026/11032026-general-election/outagamie-county-summary-zero-reporting-11-03-2026.pdf",
+    "https://www.outagamie.gov/Our-County/County-Clerk/Elections/Outagamie-County-Election-Results",
+    "https://www.outagamie.gov/Our-County/County-Clerk/County-Board-Information/Directory-of-Public-Officials"
+  ],
+  "note": "Contests are taken from the Outagamie County Clerk's pre-election (zero) summary report for the November 3, 2026 general election, which lists every contest programmed on the county's ballots. Outagamie County Executive, County Board and City of Appleton offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. No countywide or City of Appleton referendum is on the ballot. Not shown: school district referenda (Seymour, West De Pere, Pulaski and Little Chute Area school districts), which depend on your school district. Appleton voters living in the Calumet or Winnebago County parts of the city get that county's offices instead. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Outagamie County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-outagamie-2026-sheriff-kriewaldt-clint",
+          "name": "Clint C. Kriewaldt",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.outagamie.gov/files/assets/county/v/2/county-clerk/documents/elections/2026/11032026-general-election/outagamie-county-summary-zero-reporting-11-03-2026.pdf"
+    },
+    {
+      "office": "Outagamie County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-outagamie-2026-clerkcircuit-leith-diane",
+          "name": "Diane Leith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.outagamie.gov/files/assets/county/v/2/county-clerk/documents/elections/2026/11032026-general-election/outagamie-county-summary-zero-reporting-11-03-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

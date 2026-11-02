@@ -1,0 +1,35 @@
+{
+  "state": "FL",
+  "county": "Polk County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=polk",
+    "https://www.polkfl.gov/wp-content/uploads/2024/11/ADA_Polk-County-Charter-as-Amended-11.5.2024-ADA-version.pdf",
+    "https://www.polkfl.gov/about/board-of-county-commissioners/",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Built from the Supervisor of Elections' official candidate list; the Supervisor of Elections website (polkelections.gov) blocks automated access, so the sample ballot could not be checked. County commissioners are elected by all voters of the county under the Polk County Charter. Not shown: School Board District 3 runoff (Victor Sims, Kate Wallace), because whether School Board seats are voted countywide could not be confirmed from an official page. Not on the November ballot: County Commission District 2 and School Board Districts 5, 6 and 7 (decided in August) and County Judge Groups 6, 7 and 9. The Florida Division of Elections list shows no 6th District Court of Appeal retention question and no contested 10th Circuit judge race. Also not shown: any county, city or special-district referendum, which could not be verified because the Supervisor of Elections site could not be reached; the City of Lakeland holds its own elections in odd-numbered years. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-polk-2026-bocc-d4-arroyo-omar",
+          "name": "Omar Arroyo",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-polk-2026-bocc-d4-gresham-elisha",
+          "name": "Elisha Gresham",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=polk"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,59 @@
+{
+  "state": "FL",
+  "county": "Osceola County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=osceola",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN",
+    "https://www.osceola.org/files/assets/county/v/1/government/policies/osceola-home-rule-charter.pdf",
+    "https://www.kissimmee.gov/My-Government/City-Departments-Offices/City-Manager/City-Clerk/Elections-Information",
+    "https://www.kissimmee.gov/My-Government/City-Commission/Current-City-Commissioners"
+  ],
+  "note": "Built from the Supervisor of Elections' official candidate list and the Florida Division of Elections candidate list; the Supervisor of Elections website (voteosceola.gov) blocks automated access, so the sample ballot could not be checked. Not shown: County Commission Districts 2 and 4 (since 2007 commissioners are elected by single-member district voters only). Not on the November ballot: School Board Districts 1 and 3 (decided in August) and 4 and 5 (unopposed), and County Judge Groups 1, 3 and 4 (unopposed). The Florida Division of Elections list shows no 6th District Court of Appeal retention question. Also not shown: St. Cloud City Council Seat 5, community development district seats, and any county, city or special-district referendum, which could not be verified because the Supervisor of Elections site could not be reached. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Circuit Judge, 9th Judicial Circuit, Group 1",
+      "candidates": [
+        {
+          "key": "fl-osceola-2026-circuit-g1-hampton-johnson-temika",
+          "name": "Temika Hampton-Johnson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-osceola-2026-circuit-g1-hart-charles",
+          "name": "Charles Hart",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Kissimmee": {
+      "contests": [
+        {
+          "office": "Kissimmee City Commissioner, Seat 4 (runoff)",
+          "candidates": [
+            {
+              "key": "fl-osceola-2026-kissimmee-commission-seat4-jeffers-tiffany",
+              "name": "Tiffany Jeffers",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-osceola-2026-kissimmee-commission-seat4-martinez-janette",
+              "name": "Janette Martinez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.kissimmee.gov/My-Government/City-Departments-Offices/City-Manager/City-Clerk/Elections-Information"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

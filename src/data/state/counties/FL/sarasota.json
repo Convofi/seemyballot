@@ -1,0 +1,118 @@
+{
+  "state": "FL",
+  "county": "Sarasota County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sarasota",
+    "https://www.sarasotaclerk.com/Records/Board-Records/Sarasota-County-Charter",
+    "https://sarasotacountyschools.net/domain/1179",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Candidates are from the Sarasota County Supervisor of Elections candidate listing (candidates still active for November after the August primary); the Supervisor's website blocks automated access, so the sample ballot could not be checked and names are shown as filed. School Board and Charter Review Board seats are elected countywide; County Commissioners are elected by single-member district, so County Commission District 4 is not shown. Not on the November ballot: County Commission District 2, School Board Districts 4 and 5, County Court Judge Group 4, Charter Review Board Districts 1 and 2, and Hospital Board seats (all decided in August). Not shown: Sarasota County and City of North Port ballot questions (could not be verified because the Supervisor of Elections site blocks automated access), North Port City Commission Districts 4 and 5 (elected citywide, but the qualified candidate list could not be retrieved), City of Sarasota and City of Venice races, and community development district seats. Check your official sample ballot. The School Board district seat on the ballot is not shown because it could not be confirmed from an official source that the whole county votes on it.",
+  "contests": [
+    {
+      "office": "Charter Review Board District 3 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-sarasota-2026-crb-d3-adams-chip",
+          "name": "Chip Adams",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-sarasota-2026-crb-d3-tate-jim",
+          "name": "Jim Tate",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sarasota"
+    },
+    {
+      "office": "Charter Review Board District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-sarasota-2026-crb-d4-collins-taylor",
+          "name": "Taylor T. Collins",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-sarasota-2026-crb-d4-williams-robin",
+          "name": "Robin Williams",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sarasota"
+    },
+    {
+      "office": "Charter Review Board District 5 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-sarasota-2026-crb-d5-halstead-erin",
+          "name": "Erin Halstead",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-sarasota-2026-crb-d5-kale-andrea",
+          "name": "Andrea Doria Kale",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sarasota"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Drew Atkinson? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-sarasota-2026-dca2-retain-atkinson-drew",
+          "name": "Drew Atkinson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Morris Silberman? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-sarasota-2026-dca2-retain-silberman-morris",
+          "name": "Morris Silberman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Daniel H. Sleet? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-sarasota-2026-dca2-retain-sleet-daniel",
+          "name": "Daniel H. Sleet",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "2nd District Court of Appeal — retain Judge Andrea Teves Smith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-sarasota-2026-dca2-retain-smith-andrea",
+          "name": "Andrea Teves Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

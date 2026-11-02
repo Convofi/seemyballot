@@ -1,0 +1,51 @@
+{
+  "state": "WI",
+  "county": "Winnebago County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.oshkoshwi.gov/CityClerk/Elections/Type-B-D-Notice.pdf",
+    "https://www.oshkoshwi.gov/CityClerk/Elections/Type-C-Notice-of-Referenda.pdf",
+    "https://www.oshkoshwi.gov/CityClerk/Elections/"
+  ],
+  "note": "Contests are from the Winnebago County Clerk's Notice of General Election and Sample Ballots for November 3, 2026 (the edition covering Oshkosh, Omro and the western towns), posted by the City of Oshkosh Clerk. The Winnebago County website could not be reached, so incumbency is not marked. Winnebago County Executive, County Board and City of Oshkosh offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The notice shows no countywide or City of Oshkosh referendum. Not shown: school district referenda, such as the Ripon Area School District question, which depend on your school district. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Winnebago County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-winnebago-2026-sheriff-rice-darin",
+          "name": "Darin M. Rice",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wi-winnebago-2026-sheriff-rippl-jason",
+          "name": "Jason W. Rippl",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wi-winnebago-2026-sheriff-falesnik-danielle",
+          "name": "Danielle Falesnik",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.oshkoshwi.gov/CityClerk/Elections/Type-B-D-Notice.pdf"
+    },
+    {
+      "office": "Winnebago County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-winnebago-2026-clerkcircuit-bongers-desiree",
+          "name": "Desiree Bongers",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.oshkoshwi.gov/CityClerk/Elections/Type-B-D-Notice.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

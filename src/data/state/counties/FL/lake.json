@@ -1,0 +1,95 @@
+{
+  "state": "FL",
+  "county": "Lake County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=lake",
+    "https://www.clermontfl.gov/179/Elections",
+    "https://www.clermontfl.gov/CivicAlerts.aspx?AID=367",
+    "https://www.clermontfl.gov/160/City-Council"
+  ],
+  "note": "Partial ballot. The Lake County Supervisor of Elections, Lake County government and Lake County Schools websites block automated access, so no sample ballot could be checked. Not shown because we could not confirm from an official source whether every county voter votes on them: County Commission District 2 (Sean M. Parks, plus write-ins Jose Elias-Torres and Leighton Powers), County Commission District 4 (Leslie Campione, Egor Emery, plus write-in Tommie Powers) and School Board Member District 1 (Pat Kelley, plus write-in James Smith). Also not shown: Avalon Groves and other community development district seats. Uncontested seats (County Judge Group 3, School Board Districts 3 and 5, North Lake County Hospital Board seats) do not appear on the ballot. County and city referenda could not be checked because the Supervisor of Elections site blocks automated access. Clermont City Council Seat 1 (Alison Strange) was unopposed and is not on the ballot. Check your official sample ballot at lakevotes.gov.",
+  "contests": [
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-lake-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-lake-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-lake-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Clermont": {
+      "contests": [
+        {
+          "office": "Clermont City Council Seat 3",
+          "candidates": [
+            {
+              "key": "fl-lake-2026-clermont-council-seat3-fumasi-joe",
+              "name": "Joe Fumasi",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-lake-2026-clermont-council-seat3-murry-tim",
+              "name": "Tim Murry",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.clermontfl.gov/179/Elections"
+        },
+        {
+          "office": "Clermont City Council Seat 5",
+          "candidates": [
+            {
+              "key": "fl-lake-2026-clermont-council-seat5-gonzalez-michael",
+              "name": "Michael Gonzalez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-lake-2026-clermont-council-seat5-petersen-william",
+              "name": "William \"Bill\" Petersen",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.clermontfl.gov/179/Elections"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
