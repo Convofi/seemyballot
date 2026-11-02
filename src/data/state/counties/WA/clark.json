@@ -1,0 +1,278 @@
+{
+  "state": "WA",
+  "county": "Clark County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://clark.wa.gov/elections/november-3-2026-general-special-election",
+    "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+    "https://clark.wa.gov/media/document/235041",
+    "https://clark.wa.gov/district-court/judges"
+  ],
+  "note": "Not shown: Clark County Council Districts 1, 2 and 5, PUD No. 1 Commissioner District 3, legislative and congressional districts, and school district measures (Battle Ground School District Proposition No. 11). No Superior Court or City of Vancouver contests or measures are on this ballot. Check your official sample ballot for district items.",
+  "contests": [
+    {
+      "office": "Clark County Assessor",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-assessor-van-nortwick-peter",
+          "name": "Peter Van Nortwick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "wa-clark-2026-assessor-thoune-tyler",
+          "name": "Tyler Thoune",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County Auditor",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-auditor-quiring-obrien-eileen",
+          "name": "Eileen Quiring O'Brien",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-clark-2026-auditor-kelly-mitchell",
+          "name": "Mitchell Kelly",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County Clerk",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-clerk-weber-scott",
+          "name": "Scott G Weber",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-clark-2026-clerk-shapiro-rachel",
+          "name": "Rachel Shapiro",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-prosecutor-smith-laurel",
+          "name": "Laurel Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-sheriff-horch-john",
+          "name": "John Horch",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-treasurer-topper-alishia",
+          "name": "Alishia Topper",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County District Court Judge Department No. 1",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-districtcourt-dept1-parcher-kristen",
+          "name": "Kristen L. Parcher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County District Court Judge Department No. 2",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-districtcourt-dept2-sleight-chad",
+          "name": "Chad E. Sleight",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County District Court Judge Department No. 3",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-districtcourt-dept3-smith-james",
+          "name": "James B. Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County District Court Judge Department No. 4 (Short & Full Four Year Term)",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-districtcourt-dept4-lopez-leslie",
+          "name": "Leslie A. Lopez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County District Court Judge Department No. 5 (Short & Full Four Year Term)",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-districtcourt-dept5-peyton-megan",
+          "name": "Megan D. Peyton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    },
+    {
+      "office": "Clark County District Court Judge Department No. 6",
+      "candidates": [
+        {
+          "key": "wa-clark-2026-districtcourt-dept6-bartlett-abigail",
+          "name": "Abigail E. Bartlett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposed Charter Amendment No. 19",
+      "title": "Concerning a Limitation on Consecutive Terms for County Council Members",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-20), this amendment to the Clark County Home Rule Charter would limit County Council members to three consecutive terms, with eligibility restored after one full term out of office.",
+      "yesMeans": "Approved: County Council members are limited to three consecutive terms.",
+      "noMeans": "Rejected: No consecutive-term limit is added for County Council members.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 20",
+      "title": "Concerning a Revised Budget Transparency Process",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-10), this amendment to the Clark County Home Rule Charter would set a new timeline for submitting budget information and for presenting and adopting the Clark County budget, earlier than the dates in chapter 36.40 RCW.",
+      "yesMeans": "Approved: The Charter sets an earlier budget submission, presentation and adoption timeline.",
+      "noMeans": "Rejected: The budget timeline continues to follow state law dates.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 21",
+      "title": "Concerning Revised Council Powers Regarding Boards and Commissions",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-23), this amendment to the Clark County Home Rule Charter would give the County Council authority, concurrent with the County Manager, to nominate members to all boards and commissions except the Ethics Review Commission.",
+      "yesMeans": "Approved: The Council may nominate members to boards and commissions alongside the County Manager.",
+      "noMeans": "Rejected: Nomination authority for boards and commissions stays as it is now.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 22",
+      "title": "Concerning a Clarification of Nonpartisan Office Elections",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-01), this amendment to the Clark County Home Rule Charter would clarify that when two or fewer candidates file for a county race, the race skips the Primary and goes directly to the General Election. Nonpartisan county elections would follow state nonpartisan election procedures and occur in even-numbered years.",
+      "yesMeans": "Approved: County races with two or fewer candidates skip the Primary, and nonpartisan county elections follow state procedures in even years.",
+      "noMeans": "Rejected: The Charter's nonpartisan election provisions are not changed.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 23",
+      "title": "Concerning a Required Annual Report Publication by the County Manager",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-24), this amendment to the Clark County Home Rule Charter would require the County Manager to present to the Council in a public meeting, and publish broadly, an annual statement of the County's fiscal and government affairs and other reports the Council requests, and to present an annual budget and budget message in a public meeting.",
+      "yesMeans": "Approved: The County Manager must publicly present and publish an annual fiscal report and budget message.",
+      "noMeans": "Rejected: These County Manager reporting requirements are not added.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 24",
+      "title": "Concerning a Requirement for a Housing Impact Analysis",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-07), this amendment to the Clark County Home Rule Charter would require the County to publish a Housing Impact Analysis before adopting any ordinance reasonably likely to have a direct and material impact on residential housing capacity, density, permitting, subdivision or parking requirements, or residential construction costs.",
+      "yesMeans": "Approved: The County must publish a Housing Impact Analysis before adopting such ordinances.",
+      "noMeans": "Rejected: No Housing Impact Analysis requirement is added.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 25",
+      "title": "Concerning the Requirement of Supermajority Approval by Council for County Taxes",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-08), this amendment to the Clark County Home Rule Charter would require a two-thirds Council vote, after January 1, 2027, for any new councilmanic tax or tax increase. It would not apply to fees, rates, charges, special assessments, or existing taxes and their renewals that do not raise the rate.",
+      "yesMeans": "Approved: New or increased councilmanic county taxes require a two-thirds Council vote.",
+      "noMeans": "Rejected: Councilmanic taxes continue to need only the current approval threshold.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 26",
+      "title": "Concerning the Initiative, Mini-Initiative, and Referenda Process",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-40), this amendment to the Clark County Home Rule Charter would lower the signatures needed for initiatives and referendums from 10% to 8%, remove the requirement to calculate signatures from votes cast in unincorporated areas, let initiatives without enough signatures possibly become mini-initiatives, and allow the Auditor's Office limited use of statistical sampling to verify signatures.",
+      "yesMeans": "Approved: Signature requirements fall to 8% and the other initiative and referendum process changes take effect.",
+      "noMeans": "Rejected: The current initiative and referendum process stays.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "Proposed Charter Amendment No. 27",
+      "title": "Concerning Legislative Branch Performance Audits",
+      "summary": "Proposed by the Clark County Charter Review Commission (Resolution No. 26-14), this amendment to the Clark County Home Rule Charter would allow the County Council to conduct or commission performance and program audits of County programs and operations, and would require the Council to establish by ordinance an independent county auditing process within the legislative branch.",
+      "yesMeans": "Approved: The Council may conduct performance audits and must create an independent auditing process.",
+      "noMeans": "Rejected: No legislative-branch performance audit provision is added.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "County Proposition No. 12",
+      "title": "Bonds for Public Safety and Criminal Justice Capital Infrastructure",
+      "summary": "Placed on the ballot by the Clark County Council (Resolution 2026-07-08). It would let the County acquire, build, remodel and equip public safety and criminal justice facilities, including remodeling and expanding the Clark County Jail and courtrooms and a new or remodeled Sheriff's Office headquarters, by issuing up to $366,204,000 in general obligation bonds maturing within 31 years. The bonds would be repaid with annual excess property taxes on all taxable property in the county.",
+      "yesMeans": "The County may issue up to $366,204,000 in bonds for these facilities, repaid by an excess property tax levy.",
+      "noMeans": "The bonds and the excess property tax levy are not authorized.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    },
+    {
+      "id": "County Proposition No. 13",
+      "title": "Levy Lid Lift for Public Safety and Criminal Justice Services",
+      "summary": "Placed on the ballot by the Clark County Council (Resolution 2026-07-09). It would fund public safety and criminal justice services, including more corrections deputies, sheriff deputies and prosecuting attorney staff, by authorizing a maximum regular property tax levy of $1.15 per $1,000 of assessed value for collection in 2027, about $0.44 more than in 2026. The 2027 amount would be the base for later levy limits, and qualifying persons are exempt under RCW 84.36.381.",
+      "yesMeans": "The County's regular property tax levy may rise to $1.15 per $1,000 of assessed value in 2027 for these services.",
+      "noMeans": "The levy lid lift is not approved, and the County's regular levy stays under existing limits.",
+      "source": "https://clark.wa.gov/sites/default/files/media/document/2026-08/november_3_2026_general_election-sample_ballot.pdf",
+      "moreInfo": "https://clark.wa.gov/media/document/235041"
+    }
+  ],
+  "municipalities": {}
+}

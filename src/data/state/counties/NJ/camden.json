@@ -1,0 +1,48 @@
+{
+  "state": "NJ",
+  "county": "Camden County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.camdencounty.com/service/voting-and-elections/sample-ballots/",
+    "https://www.camdencounty.com/wp-content/elections/general2026/Sample-Ballots/CAMDEN_W1.pdf",
+    "https://www.camdencounty.com/your-government/"
+  ],
+  "note": "Municipal offices, Board of Education seats, and municipal or school public questions vary by address and are not shown here. County Clerk, Sheriff and Surrogate are not on the November 2026 Camden County ballot. The City of Camden has no city offices or city public questions on this ballot; its Board of Education race is not shown. Check your official sample ballot for local races.",
+  "contests": [
+    {
+      "office": "Members of the Board of County Commissioners (vote for two)",
+      "candidates": [
+        {
+          "key": "nj-camden-2026-commissioner-stone-robert",
+          "name": "Robert Stone",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "nj-camden-2026-commissioner-cappelli-louis",
+          "name": "Louis Cappelli, Jr.",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "nj-camden-2026-commissioner-young-jonathan",
+          "name": "Jonathan Young",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.camdencounty.com/wp-content/elections/general2026/Sample-Ballots/CAMDEN_W1.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Question",
+      "title": "Camden County Open Space, Recreation, and Farmland and Historic Preservation Trust Fund levy increase",
+      "summary": "Asks whether Camden County should raise the annual levy for its Open Space, Recreation, and Farmland and Historic Preservation Trust Fund from two cents to three cents per $100 of total county equalized real property valuation. The money could be used only to acquire, develop and maintain land to protect water quality (including the Cooper River) and drinking water sources, protect and restore natural areas, provide parks, and pay debt service on related borrowing. The official explanatory statement says it would cost the average homeowner $1.83 per month, with public disclosure of spending and an annual public audit.",
+      "yesMeans": "The County's open space trust fund levy rises from two cents to three cents per $100 of equalized property value.",
+      "noMeans": "The open space trust fund levy stays at two cents per $100 of equalized property value.",
+      "source": "https://www.camdencounty.com/wp-content/elections/general2026/Sample-Ballots/CAMDEN_W1.pdf"
+    }
+  ],
+  "municipalities": {}
+}
