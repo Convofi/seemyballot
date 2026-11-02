@@ -1,0 +1,31 @@
+{
+  "state": "CT",
+  "verifiedAt": "2026-11-02",
+  "county": "Naugatuck Valley Planning Region",
+  "sources": [
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/waterbury_sample.pdf",
+    "https://www.ctprobate.gov/courts/waterbury-probate-court"
+  ],
+  "note": "Connecticut has no county government, so there are no region-wide offices or measures. Only City of Waterbury items are shown; Waterbury's November 2026 sample ballot has no Registrar of Voters race and no local ballot question. The Waterbury Probate District also includes Wolcott. Other towns in the Naugatuck Valley Planning Region elect their own Judge of Probate by probate district and may have Registrar of Voters races or local questions; check your town's official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Waterbury": {
+      "contests": [
+        {
+          "office": "Judge of Probate, Waterbury Probate District",
+          "candidates": [
+            {
+              "key": "ct-naugatuck-valley-2026-probate-waterbury-vaccarelli-matthew",
+              "name": "Matthew P. Vaccarelli",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/waterbury_sample.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

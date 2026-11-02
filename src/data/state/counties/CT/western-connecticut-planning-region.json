@@ -1,0 +1,162 @@
+{
+  "state": "CT",
+  "verifiedAt": "2026-11-02",
+  "county": "Western Connecticut Planning Region",
+  "sources": [
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/stamford_sample_updated_ada.pdf",
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/danbury_sample_new_ada.pdf",
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/norwalk_sample.pdf",
+    "https://www.ctprobate.gov/courts/stamford-probate-court",
+    "https://www.ctprobate.gov/courts/danbury-probate-court",
+    "https://www.ctprobate.gov/courts/norwalk-wilton-probate-court",
+    "https://www.stamfordpublicschools.org/board-of-education",
+    "https://www.danbury-ct.gov/Directory.aspx?did=47",
+    "https://www.norwalkct.gov/Directory.aspx?did=46"
+  ],
+  "note": "Connecticut has no county government, so there are no region-wide offices or measures. Only City of Stamford, City of Danbury and City of Norwalk items are shown. Stamford's November 2026 sample ballot has a city-wide Board of Education race but no Registrar of Voters race and no local question; Norwalk's has no local question. Regan Allan also appears on the Independent Party line and Jose Tejeda on the Independent Party line in Stamford. Other towns in the region elect their own Judge of Probate by probate district and may have Registrar of Voters races or local questions; check your town's official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Stamford": {
+      "contests": [
+        {
+          "office": "Judge of Probate, Stamford Probate District (City of Stamford)",
+          "candidates": [
+            {
+              "key": "ct-western-connecticut-2026-probate-stamford-fox-gerald",
+              "name": "Gerald Fox, III",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/stamford_sample_updated_ada.pdf"
+        },
+        {
+          "office": "Board of Education (Stamford)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "ct-western-connecticut-2026-boe-stamford-george-andy",
+              "name": "Andy George",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "ct-western-connecticut-2026-boe-stamford-koc-gabriela",
+              "name": "Gabriela Koc",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "ct-western-connecticut-2026-boe-stamford-allan-regan",
+              "name": "Regan Allan",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "ct-western-connecticut-2026-boe-stamford-tejeda-jose",
+              "name": "Jose Tejeda",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/stamford_sample_updated_ada.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Danbury": {
+      "contests": [
+        {
+          "office": "Judge of Probate, Danbury Probate District (City of Danbury)",
+          "candidates": [
+            {
+              "key": "ct-western-connecticut-2026-probate-danbury-dasilva-joseph",
+              "name": "Joseph DaSilva, Jr.",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "ct-western-connecticut-2026-probate-danbury-defeo-christina",
+              "name": "Christina DeFeo",
+              "party": "Republican",
+              "incumbent": false
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/danbury_sample_new_ada.pdf"
+        },
+        {
+          "office": "Registrar of Voters (Danbury)",
+          "candidates": [
+            {
+              "key": "ct-western-connecticut-2026-registrar-danbury-bielizna-joan",
+              "name": "Joan G. Bielizna",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "ct-western-connecticut-2026-registrar-danbury-doran-mary-ann",
+              "name": "Mary Ann Doran",
+              "party": "Republican",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/danbury_sample_new_ada.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Question 1",
+          "title": "Charter revision: four-year terms for municipal elected offices",
+          "summary": "Asks whether to revise the Danbury City Charter, as recommended by the Charter Revision Commission and approved by the City Council, so that all municipal elected offices (including Mayor, Town Clerk, Treasurer, City Council, Zoning Commission, Zoning Commission Alternates and Constable) have four-year terms starting with the November 2027 municipal election. It also revises Board of Education terms as set out in Section 2.2.A(c)(1) of the proposed revised charter.",
+          "yesMeans": "A yes vote approves four-year terms for Danbury's municipal elected offices beginning with the November 2027 election and the revised Board of Education terms.",
+          "noMeans": "A no vote keeps the current terms of office under the existing charter.",
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/danbury_sample_new_ada.pdf"
+        },
+        {
+          "id": "Question 2",
+          "title": "Charter revision: all other proposed revisions",
+          "summary": "Asks whether to approve all other proposed revisions to the Danbury City Charter recommended by the Charter Revision Commission and approved by the City Council. The full revisions are published on the City of Danbury website and described in explanatory text issued by the Town Clerk.",
+          "yesMeans": "A yes vote approves the other proposed charter revisions.",
+          "noMeans": "A no vote rejects the other proposed charter revisions.",
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/danbury_sample_new_ada.pdf"
+        }
+      ]
+    },
+    "Norwalk": {
+      "contests": [
+        {
+          "office": "Judge of Probate, Norwalk-Wilton Probate District",
+          "candidates": [
+            {
+              "key": "ct-western-connecticut-2026-probate-norwalk-stern-douglas",
+              "name": "Douglas Stern",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/norwalk_sample.pdf"
+        },
+        {
+          "office": "Registrar of Voters (Norwalk)",
+          "candidates": [
+            {
+              "key": "ct-western-connecticut-2026-registrar-norwalk-wells-stuart",
+              "name": "Stuart W. Wells III",
+              "party": "Democratic",
+              "incumbent": true
+            },
+            {
+              "key": "ct-western-connecticut-2026-registrar-norwalk-christopher-diana",
+              "name": "Diana Paladino Christopher",
+              "party": "Republican",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/norwalk_sample.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

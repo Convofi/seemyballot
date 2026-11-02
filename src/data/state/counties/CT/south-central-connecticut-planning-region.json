@@ -1,0 +1,31 @@
+{
+  "state": "CT",
+  "verifiedAt": "2026-11-02",
+  "county": "South Central Connecticut Planning Region",
+  "sources": [
+    "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/new_haven_sample_ada.pdf",
+    "https://www.ctprobate.gov/courts/new-haven-probate-court"
+  ],
+  "note": "Connecticut has no county government, so there are no region-wide offices or measures. Only City of New Haven items are shown; New Haven's November 2026 sample ballot has no Registrar of Voters race and no local ballot question. Other towns in the South Central Connecticut Planning Region elect their own Judge of Probate by probate district and may have Registrar of Voters races or local questions; check your town's official sample ballot.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "New Haven": {
+      "contests": [
+        {
+          "office": "Judge of Probate, New Haven Probate District (City of New Haven)",
+          "candidates": [
+            {
+              "key": "ct-south-central-2026-probate-new-haven-carchia-americo",
+              "name": "Americo R. Carchia",
+              "party": "Democratic",
+              "incumbent": true
+            }
+          ],
+          "source": "https://portal.ct.gov/-/media/sots/electionservices/town_ballots/2026/nov-ada-2026/new_haven_sample_ada.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
