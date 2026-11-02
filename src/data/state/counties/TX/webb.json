@@ -1,0 +1,214 @@
+{
+  "state": "TX",
+  "county": "Webb County",
+  "verifiedAt": "2026-11-01",
+  "sources": [
+    "https://www.webbcountytx.gov/714/Paper-Sample-Ballots",
+    "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01",
+    "https://www.webbcountytx.gov/DocumentCenter/View/11798/154-06",
+    "https://www.webbcountytx.gov/DocumentCenter/View/11829/278-01",
+    "https://www.webbcountytx.gov/DocumentCenter/View/11817/371-01",
+    "https://www.webbcountytx.gov/DocumentCenter/View/11792/465-01",
+    "https://www.webbcountytx.gov/291/Elections"
+  ],
+  "note": "From the Webb County Elections Department's November 3, 2026 precinct sample ballots (scanned images; checked across city and rural precincts). Not shown here because they depend on your precinct or district: County Commissioner (Precincts 2 and 4), Justice of the Peace (Precinct 1, Place 2; Precinct 2, Places 1 and 2; Precinct 4), Laredo City Council Districts (1, 2, 3 and 6), Laredo College Board of Trustees Positions 7, 8 and 9 (not on ballots outside the college district), U.S. House, State Senate and State House districts, and school district races. Incumbent flags are not set because the sample ballots do not mark incumbents. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Chief Justice, 4th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-coa4-chief-richardson-bert",
+          "name": "Bert Richardson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-webb-2026-coa4-chief-arteaga-antonia",
+          "name": "Antonia \"Toni\" Arteaga",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "District Judge, 49th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-dist-49-lopez-joe",
+          "name": "Joe Lopez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "District Judge, 111th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-dist-111-dominguez-jesus",
+          "name": "Jesus \"Chuy\" Dominguez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-county-judge-garza-jerry",
+          "name": "Jerry Garza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-ccl-1-martinez-mendoza-leticia",
+          "name": "Leticia Martinez Mendoza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-ccl-2-villarreal-victor",
+          "name": "Victor Villarreal",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-district-clerk-degollado-esther",
+          "name": "Esther Degollado",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-county-clerk-romanos-oscar",
+          "name": "Oscar \"Weebo\" Romanos",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-webb-2026-county-clerk-ibarra-margie",
+          "name": "Margie Ramirez Ibarra",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-webb-2026-treasurer-pena-liza",
+          "name": "Liza Janette Pena",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-webb-2026-treasurer-rangel-esteban",
+          "name": "Esteban Rangel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Laredo": {
+      "contests": [
+        {
+          "office": "Mayor",
+          "candidates": [
+            {
+              "key": "tx-webb-2026-laredo-mayor-trevino-victor",
+              "name": "Victor D. Trevino",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-webb-2026-laredo-mayor-gonzalez-jd",
+              "name": "JD Gonzalez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-webb-2026-laredo-mayor-garza-jorge",
+              "name": "Jorge A. Garza",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-webb-2026-laredo-mayor-casso-poncho",
+              "name": "Poncho Casso",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-webb-2026-laredo-mayor-cigarroa-alyssa",
+              "name": "Alyssa Cigarroa",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+        },
+        {
+          "office": "Municipal Court Judge, Position 1",
+          "candidates": [
+            {
+              "key": "tx-webb-2026-laredo-muni-judge-1-chu-nathan",
+              "name": "Nathan Henry Chu",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-webb-2026-laredo-muni-judge-1-morales-rudy",
+              "name": "Rudy Morales III",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Proposition 1",
+          "title": "City of Laredo Non-Binding Election",
+          "summary": "A non-binding advisory question asking whether the City of Laredo should support efforts to expand pediatric hospital services in the Laredo-Webb County community and encourage Webb County to evaluate the options available under Texas law. The result is advisory and does not by itself change any law or spending.",
+          "yesMeans": "Voters advise that the city should support expanding pediatric hospital services and encourage Webb County to evaluate its options under Texas law.",
+          "noMeans": "Voters advise against the city taking that position.",
+          "source": "https://www.webbcountytx.gov/DocumentCenter/View/11743/123-01"
+        }
+      ]
+    }
+  }
+}
