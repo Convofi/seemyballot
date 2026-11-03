@@ -1,0 +1,141 @@
+{
+  "state": "CA",
+  "county": "Yolo County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://ace.yolocounty.gov/395/County",
+    "https://ace.yolocounty.gov/423/Municipal-City",
+    "https://ace.yolocounty.gov/407/Local-Measures",
+    "https://ace.yolocounty.gov/417/Measure-W---City-of-Davis",
+    "https://ace.yolocounty.gov/419/Measure-Y---City-of-Woodland",
+    "https://ace.yolocounty.gov/418/Measure-Z---City-of-Woodland",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "From Yolo County Elections' November 3, 2026 county and city candidate pages and local measures page. No countywide office or Superior Court seat is on the November ballot (the only county runoff is Supervisor District 3). Not shown: County Supervisor District 3, Davis City Council Districts 1 and 4, Woodland City Council Districts 1 and 3, West Sacramento and Winters council seats, County Board of Education and school and special district seats, Measure X (hotel tax voted on only in unincorporated areas), Measure B (Winters Joint Unified) and Measure H (Los Rios Community College SFID No. 1), and U.S. House, State Senate and Assembly districts. Statewide races and the Supreme Court retentions are on the California statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Administrative Presiding Justice, Court of Appeal, Third District — retain Laurie Earl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-yolo-2026-coa3-earl-laurie",
+          "name": "Laurie Earl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Lauri Damrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-yolo-2026-coa3-damrell-lauri",
+          "name": "Lauri Damrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain David B. Sapp? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-yolo-2026-coa3-sapp-david",
+          "name": "David B. Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Stacy Boulware Eurie? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-yolo-2026-coa3-eurie-stacy",
+          "name": "Stacy Boulware Eurie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Jonathan Renner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-yolo-2026-coa3-renner-jonathan",
+          "name": "Jonathan Renner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Aimee A. Feinberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-yolo-2026-coa3-feinberg-aimee",
+          "name": "Aimee A. Feinberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Shama Mesiwala? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-yolo-2026-coa3-mesiwala-shama",
+          "name": "Shama Mesiwala",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Davis": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Measure W",
+          "title": "City of Davis Measure W (Willowgrove General Plan amendment)",
+          "summary": "Asks whether to adopt Resolution No. 26-052 amending the Davis General Plan to change the Willowgrove property, about 232 acres, from agricultural to urban land use designations and to set baseline project features. Per the City Attorney's impartial analysis, the project would allow 1,250 homes, including at least 250 deed-restricted affordable units, plus a community park, neighborhood retail and an agricultural buffer, and annexation of the site into the city could then proceed.",
+          "yesMeans": "The General Plan is amended to allow the Willowgrove development with its baseline project features.",
+          "noMeans": "The Willowgrove property keeps its agricultural designation.",
+          "source": "https://ace.yolocounty.gov/417/Measure-W---City-of-Davis",
+          "moreInfo": "https://ace.yolocounty.gov/407/Local-Measures"
+        }
+      ]
+    },
+    "Woodland": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Measure Y",
+          "title": "City of Woodland Sales Tax Measure",
+          "summary": "Asks whether Woodland should add a one-cent (1%) transactions and use (sales) tax, providing about $16 million a year, until ended by voters. Per the City Attorney's impartial analysis, it is a general tax that goes into the city's general fund for any lawful city purpose; the ballot question lists roads, police and fire protection, parks and trails, and public spaces.",
+          "yesMeans": "Woodland adds a one-cent sales tax with no end date.",
+          "noMeans": "The one-cent sales tax is not added.",
+          "source": "https://ace.yolocounty.gov/419/Measure-Y---City-of-Woodland",
+          "moreInfo": "https://ace.yolocounty.gov/407/Local-Measures"
+        },
+        {
+          "id": "Measure Z",
+          "title": "City of Woodland Measure (Urban Limit Line service extensions)",
+          "summary": "Amends the General Plan policy that voters adopted as Measure A in 2006, which bars the city from extending public services beyond its Urban Limit Line. The change would let the city extend sewer, water and recycled water service to existing commercial facilities on parcels within one mile of the line that were operating on or before November 3, 2026; it would not apply to new commercial or any residential development, and each extension would still need City Council approval.",
+          "yesMeans": "The city may extend sewer and water service to qualifying existing commercial properties near the Urban Limit Line.",
+          "noMeans": "The current ban on extending services beyond the Urban Limit Line stays as it is.",
+          "source": "https://ace.yolocounty.gov/418/Measure-Z---City-of-Woodland",
+          "moreInfo": "https://ace.yolocounty.gov/407/Local-Measures"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "state": "CA",
+  "county": "Shasta County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+    "https://www.cityofredding.gov/government/departments/city_clerk/elections/index.php",
+    "https://www.cityofredding.gov/Document%20Center/Departments/City%20Clerk/Election/2026%20Public%20Info%20Releasable%20Official%20Candidate%20Log.pdf",
+    "https://www.cityofredding.gov/government/departments/city_council/index.php"
+  ],
+  "note": "The Shasta County Elections Office's candidate and measure list could not be checked (its website blocks automated access), so this list may be missing county offices, Superior Court seats, and county or city measures. Check your official sample ballot. Shown: Third District Court of Appeal retention questions from the Secretary of State's certified list, and Redding City Council (vote for three, elected at large) and City Clerk from the Redding City Clerk's official candidate log; names are as written in that log and may be printed slightly differently on the ballot. Not shown: any Redding measures, other cities, school and special districts, and congressional and legislative districts. Statewide races and measures are on the California statewide list.",
+  "contests": [
+    {
+      "office": "Administrative Presiding Justice, Court of Appeal, Third District — retain Laurie Earl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-shasta-2026-coa3-earl-laurie",
+          "name": "Laurie Earl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Lauri Damrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-shasta-2026-coa3-damrell-lauri",
+          "name": "Lauri Damrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain David B. Sapp? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-shasta-2026-coa3-sapp-david",
+          "name": "David B. Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Stacy Boulware Eurie? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-shasta-2026-coa3-eurie-stacy",
+          "name": "Stacy Boulware Eurie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Jonathan Renner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-shasta-2026-coa3-renner-jonathan",
+          "name": "Jonathan Renner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Aimee A. Feinberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-shasta-2026-coa3-feinberg-aimee",
+          "name": "Aimee A. Feinberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Shama Mesiwala? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-shasta-2026-coa3-mesiwala-shama",
+          "name": "Shama Mesiwala",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Redding": {
+      "contests": [
+        {
+          "office": "Redding City Council (vote for 3)",
+          "candidates": [
+            {
+              "key": "ca-shasta-2026-redding-council-audette-tenessa",
+              "name": "Tenessa Audette",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-mezzano-mark",
+              "name": "Mark Mezzano",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-miller-rebecca",
+              "name": "Rebecca Anne Miller",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-munns-jack",
+              "name": "Jack Munns",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-prosperi-christina",
+              "name": "Christina Prosperi",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-rebollar-joana",
+              "name": "Joana Rebollar",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-saulsbury-paul",
+              "name": "Paul Saulsbury",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-sloan-elise",
+              "name": "Elise Ramirez Sloan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-shasta-2026-redding-council-wenham-russ",
+              "name": "Russ Wenham",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.cityofredding.gov/Document%20Center/Departments/City%20Clerk/Election/2026%20Public%20Info%20Releasable%20Official%20Candidate%20Log.pdf"
+        },
+        {
+          "office": "Redding City Clerk",
+          "candidates": [
+            {
+              "key": "ca-shasta-2026-redding-clerk-tipton-sharlene",
+              "name": "Sharlene Tipton",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.cityofredding.gov/Document%20Center/Departments/City%20Clerk/Election/2026%20Public%20Info%20Releasable%20Official%20Candidate%20Log.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

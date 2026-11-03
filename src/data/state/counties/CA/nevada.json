@@ -1,0 +1,166 @@
+{
+  "state": "CA",
+  "county": "Nevada County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.nevadacountyca.gov/4283/November-3-2026-Candidate-Filings",
+    "https://nevadacountyca.gov/4266/Local-Offices-Up-for-Election-Nov-3-2026",
+    "https://www.nevadacountyca.gov/DocumentCenter/View/70241/Notice-of-Election-Nov-2026",
+    "https://www.nevadacountyca.gov/4249/November-3-2026-General-Election",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "From Nevada County Elections' list of local contests qualified for the November 3, 2026 ballot, its notice of election and measures page. No county office, Superior Court seat or countywide measure is on the November ballot. Not shown: County Board of Education, school, community college, fire, hospital, airport, utility, irrigation and recreation district seats, Measure M (Pleasant Ridge Union School District), Measure P (Tahoe Truckee Unified) and Measure Q (City of Nevada City), and U.S. House, State Senate and Assembly districts. Statewide races and the Supreme Court retentions are on the California statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Administrative Presiding Justice, Court of Appeal, Third District — retain Laurie Earl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-nevada-2026-coa3-earl-laurie",
+          "name": "Laurie Earl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Lauri Damrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-nevada-2026-coa3-damrell-lauri",
+          "name": "Lauri Damrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain David B. Sapp? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-nevada-2026-coa3-sapp-david",
+          "name": "David B. Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Stacy Boulware Eurie? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-nevada-2026-coa3-eurie-stacy",
+          "name": "Stacy Boulware Eurie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Jonathan Renner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-nevada-2026-coa3-renner-jonathan",
+          "name": "Jonathan Renner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Aimee A. Feinberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-nevada-2026-coa3-feinberg-aimee",
+          "name": "Aimee A. Feinberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Shama Mesiwala? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-nevada-2026-coa3-mesiwala-shama",
+          "name": "Shama Mesiwala",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Grass Valley": {
+      "contests": [
+        {
+          "office": "Grass Valley City Council (vote for 2)",
+          "candidates": [
+            {
+              "key": "ca-nevada-2026-grass-valley-council-beesley-scott",
+              "name": "Scott Beesley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-nevada-2026-grass-valley-council-wright-paul",
+              "name": "Paul Wright",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-nevada-2026-grass-valley-council-branstrom-bob",
+              "name": "Bob Branstrom",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-nevada-2026-grass-valley-council-peevey-edward",
+              "name": "Edward Peevey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.nevadacountyca.gov/4283/November-3-2026-Candidate-Filings"
+        }
+      ],
+      "measures": []
+    },
+    "Truckee": {
+      "contests": [
+        {
+          "office": "Truckee Town Council (vote for 3)",
+          "candidates": [
+            {
+              "key": "ca-nevada-2026-truckee-council-klovstad-anna",
+              "name": "Anna Klovstad",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-nevada-2026-truckee-council-toups-jason",
+              "name": "Jason Toups",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-nevada-2026-truckee-council-polivy-david",
+              "name": "David Polivy",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.nevadacountyca.gov/4283/November-3-2026-Candidate-Filings"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

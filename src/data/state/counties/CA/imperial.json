@@ -1,0 +1,278 @@
+{
+  "state": "CA",
+  "county": "Imperial County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.imperialcounty.org/current-election-activities/",
+    "https://elections.imperialcounty.org/wp-content/uploads/2026/08/CandidateStatus_Website-1-17.pdf",
+    "https://elections.imperialcounty.org/wp-content/uploads/2026/07/NoticeOfElection_2026GeneralElection.pdf",
+    "https://elections.imperialcounty.org/wp-content/uploads/2026/08/MeasureS_PublicSafety-1.pdf",
+    "https://elections.imperialcounty.org/wp-content/uploads/2026/07/MeasureT_ElCentro_Tax.pdf",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "From the Imperial County Registrar of Voters' candidate status list, notice of election and ballot measure documents for November 3, 2026. No countywide office or Superior Court seat is on the November ballot (the county runoffs are Supervisor Districts 1 and 5). Not shown: Board of Supervisors Districts 1 and 5, County Board of Education and community college trustee areas, school, water, utility, healthcare and community services district seats, council and clerk races in Brawley, Calexico, Calipatria, Holtville, Imperial and Westmorland, Measure N (Imperial Valley Healthcare District parcel tax), Measure O (Calexico), school bond Measures P, Q and R, and U.S. House, State Senate and Assembly districts. Statewide races and the Supreme Court retentions are on the California statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Eran M. Bermudez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div1-bermudez-eran",
+          "name": "Eran M. Bermudez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Jose S. Castillo? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div1-castillo-jose",
+          "name": "Jose S. Castillo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Truc T. Do? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div1-do-truc",
+          "name": "Truc T. Do",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — elect Lisa Rodriguez? (yes/no; currently a San Diego County Superior Court Judge)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div1-rodriguez-lisa",
+          "name": "Lisa Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain David M. Rubin? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div1-rubin-david",
+          "name": "David M. Rubin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain William S. Dato? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div1-dato-william",
+          "name": "William S. Dato",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division One — retain Julia C. Kelety? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div1-kelety-julia",
+          "name": "Julia C. Kelety",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Two — retain Corey G. Lee? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div2-lee-corey",
+          "name": "Corey G. Lee",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Two — retain Michael J. Raphael? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div2-raphael-michael",
+          "name": "Michael J. Raphael",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, Fourth District, Division Three — retain Joanne Motoike? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div3-motoike-joanne",
+          "name": "Joanne Motoike",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Nathan R. Scott? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div3-scott-nathan",
+          "name": "Nathan R. Scott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Juliet O. Macaulay? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div3-macaulay-juliet",
+          "name": "Juliet O. Macaulay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Martha K. Gooding? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div3-gooding-martha",
+          "name": "Martha K. Gooding",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Thomas A. Delaney? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div3-delaney-thomas",
+          "name": "Thomas A. Delaney",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Fourth District, Division Three — retain Deborah C. Servino? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-imperial-2026-coa4-div3-servino-deborah",
+          "name": "Deborah C. Servino",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure S",
+      "title": "Imperial County Public Safety Sales and Use Tax Initiative",
+      "summary": "Asks whether to add a half-cent sales and use tax throughout Imperial County, including the cities, for 20 years, generating about $20 million a year. Per County Counsel's impartial analysis, the money goes into a Public Safety Fund limited to building and maintaining public safety facilities such as fire stations, law enforcement facilities and a coroner's facility, buying fire safety vehicles and equipment, and related costs, with a 7-member citizens' oversight committee and annual audits. It was placed on the ballot by voter petition.",
+      "yesMeans": "A half-cent sales tax for public safety is added countywide for 20 years.",
+      "noMeans": "The half-cent sales tax is not added.",
+      "source": "https://elections.imperialcounty.org/wp-content/uploads/2026/08/MeasureS_PublicSafety-1.pdf",
+      "moreInfo": "https://elections.imperialcounty.org/current-election-activities/"
+    }
+  ],
+  "municipalities": {
+    "El Centro": {
+      "contests": [
+        {
+          "office": "El Centro City Council (vote for 2)",
+          "candidates": [
+            {
+              "key": "ca-imperial-2026-elcentro-council-carter-sonia",
+              "name": "Sonia Carter",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-imperial-2026-elcentro-council-chavoya-ramon",
+              "name": "Ramon Chavoya",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-imperial-2026-elcentro-council-jackson-jason",
+              "name": "Jason Jackson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-imperial-2026-elcentro-council-lopez-rick",
+              "name": "Rick Lopez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-imperial-2026-elcentro-council-rodriguez-peter",
+              "name": "Peter Rodriguez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-imperial-2026-elcentro-council-munoz-armando",
+              "name": "Armando Munoz",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-imperial-2026-elcentro-council-morales-michael",
+              "name": "Michael A. Morales",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-imperial-2026-elcentro-council-minor-luis",
+              "name": "Luis Minor",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://elections.imperialcounty.org/wp-content/uploads/2026/08/CandidateStatus_Website-1-17.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Measure T",
+          "title": "El Centro Public Safety/City Services Measure",
+          "summary": "Asks whether El Centro should add a new half-cent (0.5%) sales tax on top of its existing 0.5% city sales tax, for a total city rate of 1%, until ended by voters. Per the City Attorney's impartial analysis, it is a general tax raising about $8.4 million a year that goes into the city's general fund for any city purpose, with annual independent audits; the ballot question lists 911 response, police, fire and paramedics, streets, parks, homelessness and youth, senior and library programs.",
+          "yesMeans": "El Centro adds a half-cent sales tax with no end date.",
+          "noMeans": "The added half-cent sales tax is not approved.",
+          "source": "https://elections.imperialcounty.org/wp-content/uploads/2026/07/MeasureT_ElCentro_Tax.pdf",
+          "moreInfo": "https://elections.imperialcounty.org/current-election-activities/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "state": "CA",
+  "county": "El Dorado County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.eldoradocounty.ca.gov/files/assets/county/v/29/documents/government/elections/20261103/candidate-information/cfmcfmr009_nominationlist.pdf",
+    "https://www.eldoradocounty.ca.gov/County-Government/Elections/Local-Measures-for-El-Dorado-County",
+    "https://www.eldoradocounty.ca.gov/files/assets/county/v/2/documents/government/elections/20261103/vip-complete-booklet.pdf",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "From El Dorado County Elections' qualified candidate list for November 3, 2026, its local measures page, and the county voter information pamphlet. No countywide office or Superior Court seat is on the November ballot (the only county runoff is Supervisor District 4). Not shown: County Supervisor District 4, County Board of Education Trustee Areas 1 and 2, community college, school, community services, fire, irrigation and utility district seats, district and zone-of-benefit measures (A, H, J, K, L, M, N, P, Q, R), and U.S. House, State Senate and Assembly districts. Statewide races and the Supreme Court retentions are on the California statewide list. El Dorado Hills is unincorporated, so only county items are shown there. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Administrative Presiding Justice, Court of Appeal, Third District — retain Laurie Earl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-el-dorado-2026-coa3-earl-laurie",
+          "name": "Laurie Earl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Lauri Damrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-el-dorado-2026-coa3-damrell-lauri",
+          "name": "Lauri Damrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain David B. Sapp? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-el-dorado-2026-coa3-sapp-david",
+          "name": "David B. Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Stacy Boulware Eurie? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-el-dorado-2026-coa3-eurie-stacy",
+          "name": "Stacy Boulware Eurie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Jonathan Renner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-el-dorado-2026-coa3-renner-jonathan",
+          "name": "Jonathan Renner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Aimee A. Feinberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-el-dorado-2026-coa3-feinberg-aimee",
+          "name": "Aimee A. Feinberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Shama Mesiwala? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-el-dorado-2026-coa3-mesiwala-shama",
+          "name": "Shama Mesiwala",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure S",
+      "title": "The El Dorado County Emergency Preparedness, Healthcare Access, and Wildfire Prevention Initiative",
+      "summary": "Asks whether to add a 3/8% special sales tax throughout El Dorado County, including Placerville and South Lake Tahoe, for 30 years, providing about $13 million a year. Per County Counsel's impartial analysis, the money is dedicated to local hospital facilities, fire agencies and wildfire-prevention nonprofits under set percentages, with an independent citizens' oversight committee and annual audits. It was placed on the ballot by voter petition.",
+      "yesMeans": "A 3/8% sales tax for hospitals, fire protection and emergency response is added countywide for 30 years.",
+      "noMeans": "The 3/8% sales tax is not added.",
+      "source": "https://www.eldoradocounty.ca.gov/County-Government/Elections/Local-Measures-for-El-Dorado-County",
+      "moreInfo": "https://www.eldoradocounty.ca.gov/files/assets/county/v/2/documents/government/elections/20261103/vip-complete-booklet.pdf"
+    }
+  ],
+  "municipalities": {
+    "Placerville": {
+      "contests": [
+        {
+          "office": "Placerville City Council (vote for 3)",
+          "candidates": [
+            {
+              "key": "ca-el-dorado-2026-placerville-council-stevenson-spencer",
+              "name": "Spencer Stevenson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-placerville-council-carr-terri",
+              "name": "Terri Carr",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-placerville-council-clerici-john",
+              "name": "John Clerici",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-el-dorado-2026-placerville-council-windle-tony",
+              "name": "Tony Windle",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-placerville-council-quirk-evan",
+              "name": "Evan Quirk",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-placerville-council-thomas-dennis",
+              "name": "Dennis Thomas",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-placerville-council-briggs-sean",
+              "name": "Sean Briggs",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.eldoradocounty.ca.gov/files/assets/county/v/29/documents/government/elections/20261103/candidate-information/cfmcfmr009_nominationlist.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "South Lake Tahoe": {
+      "contests": [
+        {
+          "office": "South Lake Tahoe City Council (vote for 3)",
+          "candidates": [
+            {
+              "key": "ca-el-dorado-2026-slt-council-miller-gantt",
+              "name": "Gantt W. Miller",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-gonzalez-erika",
+              "name": "Erika Gonzalez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-ohaire-kelly",
+              "name": "Kelly O'Haire",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-ramaha-pino-dina",
+              "name": "Dina Ramaha-Pino",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-boen-dyna",
+              "name": "Dyna Boen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-piliae-nick",
+              "name": "Nick Piliae",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-williams-douglas",
+              "name": "Douglas Williams",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-morales-veronica",
+              "name": "Veronica Morales",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-friedrich-john",
+              "name": "John Friedrich",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-xistra-aimi",
+              "name": "Aimi Xistra",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-horgan-heather",
+              "name": "Heather Horgan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-robbins-scott",
+              "name": "Scott Robbins",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-council-mccracken-grant",
+              "name": "Grant McCracken",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.eldoradocounty.ca.gov/files/assets/county/v/29/documents/government/elections/20261103/candidate-information/cfmcfmr009_nominationlist.pdf"
+        },
+        {
+          "office": "South Lake Tahoe City Clerk",
+          "candidates": [
+            {
+              "key": "ca-el-dorado-2026-slt-clerk-davis-michelle",
+              "name": "Michelle Elaine Davis",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-el-dorado-2026-slt-clerk-bannister-brandi",
+              "name": "Brandi Bannister",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.eldoradocounty.ca.gov/files/assets/county/v/29/documents/government/elections/20261103/candidate-information/cfmcfmr009_nominationlist.pdf"
+        },
+        {
+          "office": "South Lake Tahoe City Treasurer",
+          "candidates": [
+            {
+              "key": "ca-el-dorado-2026-slt-treasurer-olivo-david",
+              "name": "David W. Olivo",
+              "party": "Nonpartisan",
+              "incumbent": true
+            }
+          ],
+          "source": "https://www.eldoradocounty.ca.gov/files/assets/county/v/29/documents/government/elections/20261103/candidate-information/cfmcfmr009_nominationlist.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
