@@ -1,0 +1,110 @@
+{
+  "state": "IL",
+  "county": "Edgar County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://il-edgar.pollresults.net/",
+    "https://edgarcountyillinois.com/notice-of-general-election/"
+  ],
+  "note": "Contests are from Edgar County's official election results site for November 3, 2026 (linked from the County Clerk's website), which lists each race with the number of precincts that vote on it; all races below are on all 31 Edgar County precincts. No specimen ballot was posted online, so incumbency is not marked for county offices. Not shown: County Board districts 2-6, Regional Superintendent of Schools (Edgar voters are split among the Clark-Coles-Cumberland-Douglas-Edgar-Moultrie-Shelby, Champaign-Ford and Vermilion regional offices by school district), Congress and state legislature. No countywide or City of Paris question appears. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Edgar County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-clerk-griffin-august",
+          "name": "August H. Griffin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    },
+    {
+      "office": "Edgar County Treasurer",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-treasurer-robertson-stephanie",
+          "name": "Stephanie Robertson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    },
+    {
+      "office": "Edgar County Sheriff",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-sheriff-wilson-rich",
+          "name": "Rich D. Wilson II",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District (vacancy of the Hon. Thomas M. Welch)",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-appellate-sholar-amy",
+          "name": "Amy E. Sholar",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Appellate Court, 4th Judicial District — retain Judge James A. Knecht? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-retain-appellate-knecht-james",
+          "name": "James A. Knecht",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-retain-appellate-barberis-john",
+          "name": "John B. Barberis, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 5th Judicial Circuit — retain Judge Mitchell Shick? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-retain-circuit-shick-mitchell",
+          "name": "Mitchell Shick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 5th Judicial Circuit — retain Judge Thomas M. O'Shaughnessy? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-edgar-2026-retain-circuit-o-shaughnessy-thomas",
+          "name": "Thomas M. O'Shaughnessy",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-edgar.pollresults.net/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

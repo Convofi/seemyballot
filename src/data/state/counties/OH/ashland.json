@@ -1,0 +1,26 @@
+{
+  "state": "OH",
+  "county": "Ashland County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.boe.ohio.gov/ashland/c/upload/Election_CandidateList.pdf",
+    "https://www.boe.ohio.gov/ashland/"
+  ],
+  "note": "Partial. From the Ashland County Board of Elections' Official Candidate List for the 2026 General Election, which does not print party labels. Also on every Ashland County ballot but not shown here because their party labels could not be confirmed from an official source: County Commissioner (full term commencing 1/1/2027; candidates Sandy Bally and Brandon Carpenter) and County Auditor (full term commencing 3/8/2027; candidate Cindy Funk). The Court of Appeals, 5th District seat is also not shown because the county's sample ballots could not be reached, and county issues could not be checked because no issues list was posted online. City of Ashland offices are elected in 2027. Not shown: state legislative and congressional districts, and township, village and school district issues. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "candidates": [
+        {
+          "key": "oh-ashland-2026-probate-kellogg-karen",
+          "name": "Karen DeSanto Kellogg",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.boe.ohio.gov/ashland/c/upload/Election_CandidateList.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

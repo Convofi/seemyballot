@@ -1,0 +1,57 @@
+{
+  "state": "WI",
+  "county": "Chippewa County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.chippewacountywi.gov/DocumentCenter/View/4944/2026-General-Election-Spreadsheet-PDF",
+    "https://www.chippewacountywi.gov/DocumentCenter/View/4809/2026-Partisan-Primary-Election-Spreadsheet-Canvassed-PDF",
+    "https://www.chippewacountywi.gov/241"
+  ],
+  "note": "Contests are from the Chippewa County Clerk's November 3, 2026 general election results spreadsheet, which lists each contest on Chippewa County ballots; party labels are from the County Clerk's canvassed August 11, 2026 partisan primary results. Incumbency is not marked because the county's roster was not checked. No countywide referendum and no City of Chippewa Falls contest or referendum is on this ballot. Not shown: Congress, State Senate and Assembly districts, the Bloomer School District referendum and the City of Eau Claire referendum (for Chippewa County wards of Eau Claire). Each depends on a district the address lookup cannot resolve. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Chippewa County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-chippewa-2026-sheriff-hakes-travis",
+          "name": "Travis Hakes",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.chippewacountywi.gov/DocumentCenter/View/4944/2026-General-Election-Spreadsheet-PDF"
+    },
+    {
+      "office": "Chippewa County Coroner",
+      "candidates": [
+        {
+          "key": "wi-chippewa-2026-coroner-patten-ronald",
+          "name": "Ronald Patten",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.chippewacountywi.gov/DocumentCenter/View/4944/2026-General-Election-Spreadsheet-PDF"
+    },
+    {
+      "office": "Chippewa County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-chippewa-2026-clerkcircuit-liedl-nate",
+          "name": "Nate Liedl",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wi-chippewa-2026-clerkcircuit-lee-jennifer",
+          "name": "Jennifer Kragness Lee",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.chippewacountywi.gov/DocumentCenter/View/4944/2026-General-Election-Spreadsheet-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

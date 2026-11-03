@@ -1,0 +1,171 @@
+{
+  "state": "IL",
+  "county": "Moultrie County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://il-moultrie.pollresults.net/",
+    "https://www.moultriecountyil.gov/departments/election_voting/index.php"
+  ],
+  "note": "Contests are from Moultrie County's official election results site for November 3, 2026 (linked from the County Clerk's election pages), which lists each race with the number of precincts that vote on it; all races below are on all 16 Moultrie County precincts. The county's specimen ballot page had no ballot posted, so incumbency is not marked for county offices. County Board members are elected at large (vote for 5). Not shown: Regional Superintendent of Schools (Moultrie voters are split between the Clark-Coles-Cumberland-Douglas-Edgar-Moultrie-Shelby and Macon-Piatt regional offices by school district), Congress and state legislature. No countywide or City of Sullivan question appears. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Moultrie County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-clerk-qualls-linda",
+          "name": "Linda S. Qualls",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Moultrie County Treasurer",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-treasurer-helmuth-stephanie",
+          "name": "Stephanie L. Helmuth",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Moultrie County Sheriff",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-sheriff-carroll-gary",
+          "name": "Gary D. Carroll",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Moultrie County Board Member, At Large (vote for 5)",
+      "seats": 5,
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-board-atlarge-graven-kenny",
+          "name": "Kenny Graven",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-moultrie-2026-board-atlarge-wilhelm-aaron",
+          "name": "Aaron Wilhelm",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-moultrie-2026-board-atlarge-phelps-travis",
+          "name": "Travis Phelps",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-moultrie-2026-board-atlarge-roe-joshua",
+          "name": "Joshua Roe",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-moultrie-2026-board-atlarge-wallis-joseph",
+          "name": "Joseph L Wallis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District (vacancy of the Hon. Thomas M. Welch)",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-appellate-sholar-amy",
+          "name": "Amy E. Sholar",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Appellate Court, 4th Judicial District — retain Judge James A. Knecht? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-retain-appellate-knecht-james",
+          "name": "James A. Knecht",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Appellate Court, 5th Judicial District — retain Judge John B. Barberis, Jr.? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-retain-appellate-barberis-john",
+          "name": "John B. Barberis, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Robert C. \"R.C.\" Bollinger? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-retain-circuit-bollinger-robert",
+          "name": "Robert C. \"R.C.\" Bollinger",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Jason M. Bohm? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-retain-circuit-bohm-jason",
+          "name": "Jason M. Bohm",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Dana Rhoades? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-retain-circuit-rhoades-dana",
+          "name": "Dana Rhoades",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 6th Judicial Circuit — retain Judge Ramona M. Sullivan? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-moultrie-2026-retain-circuit-sullivan-ramona",
+          "name": "Ramona M. Sullivan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-moultrie.pollresults.net/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

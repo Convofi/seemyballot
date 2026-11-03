@@ -1,0 +1,45 @@
+{
+  "state": "WI",
+  "county": "Calumet County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.calumetcounty.org/DocumentCenter/View/11893/Sample-Ballots",
+    "https://www.calumetcounty.org/DocumentCenter/View/11895/20261103-Type-B-Notice-signed",
+    "https://www.calumetcounty.org/139/Elections"
+  ],
+  "note": "From the Calumet County Clerk's sample ballots for the November 3, 2026 general election (published with the Type B Notice of Election). Both county contests appear on every Calumet County ballot style. Incumbency is not marked because the county's roster was not checked. No countywide referendum and no City of Chilton contest or question is on the ballot. Not shown: Congress, State Senate and Assembly districts, and school district referenda. Each depends on a district the address lookup cannot resolve. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Calumet County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-calumet-2026-sheriff-bowe-brett",
+          "name": "Brett Bowe",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wi-calumet-2026-sheriff-sablich-nick",
+          "name": "Nick Sablich",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.calumetcounty.org/DocumentCenter/View/11893/Sample-Ballots"
+    },
+    {
+      "office": "Calumet County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-calumet-2026-clerkcircuit-bembenek-kayla",
+          "name": "Kayla Bembenek",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.calumetcounty.org/DocumentCenter/View/11893/Sample-Ballots"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

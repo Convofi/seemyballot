@@ -1,0 +1,86 @@
+{
+  "state": "IL",
+  "county": "Boone County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://il-boone.pollresults.net/",
+    "https://www.boonecountyil.gov/government/departments/clerk___recorder/voting_options/index.php"
+  ],
+  "note": "Contests are from Boone County's official election night results site for November 3, 2026 (linked from the County Clerk & Recorder's voter information page), which lists each race with the number of precincts that vote on it; all races below are on all 37 Boone County precincts. No specimen ballot was posted online, so incumbency is not marked for county offices. Not shown: three countywide advisory questions (Cap and Lower Property Tax, Restore Local Zoning Authority, and Limit on School Administrative Costs), because their official ballot wording was not available online; County Board districts 1-3; 17th Circuit 1st and 2nd Subcircuit judge vacancies; Regional Superintendent of Schools (Boone voters are split among the Boone-Winnebago, DeKalb and McHenry regional offices by school district); Congress and state legislature; and the Boone County Fire District No. 5 dissolution question. No City of Belvidere question appears. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Boone County Clerk and Recorder",
+      "candidates": [
+        {
+          "key": "il-boone-2026-clerk-ohlsen-amy",
+          "name": "Amy E Ohlsen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-boone.pollresults.net/"
+    },
+    {
+      "office": "Boone County Treasurer",
+      "candidates": [
+        {
+          "key": "il-boone-2026-treasurer-newport-curtis",
+          "name": "Curtis P. Newport",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-boone.pollresults.net/"
+    },
+    {
+      "office": "Boone County Sheriff",
+      "candidates": [
+        {
+          "key": "il-boone-2026-sheriff-yunk-scott",
+          "name": "Scott Yunk",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://il-boone.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 17th Judicial Circuit — retain Judge Lisa R. Fabiano? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-boone-2026-retain-circuit-fabiano-lisa",
+          "name": "Lisa R. Fabiano",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-boone.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 17th Judicial Circuit — retain Judge Gwyn Gulley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-boone-2026-retain-circuit-gulley-gwyn",
+          "name": "Gwyn Gulley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-boone.pollresults.net/"
+    },
+    {
+      "office": "Judge of the Circuit Court, 17th Judicial Circuit — retain Judge Ronald J. White? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-boone-2026-retain-circuit-white-ronald",
+          "name": "Ronald J. White",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://il-boone.pollresults.net/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

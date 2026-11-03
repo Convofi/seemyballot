@@ -1,0 +1,39 @@
+{
+  "state": "WI",
+  "county": "Manitowoc County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://clevelandwi.gov/wp-content/uploads/2026/10/2026-11-3-Type-B-Notice-For-Fall-Cleveland-18-FONT.pdf",
+    "https://manitowoccountywi.gov/wp-content/uploads/2026/06/2026-Fall-Partisan-Election-Candidate-Tracker.pdf",
+    "https://manitowoccountywi.gov/departments/county-clerk/election-information/"
+  ],
+  "note": "Contests are from the Notice of General Election and Sample Ballot for November 3, 2026 posted by the Village of Cleveland Clerk, which reprints the Manitowoc County offices on the ballot. Incumbency is from the Manitowoc County Clerk's final candidate tracking report (6/2/2026), which lists only these two county offices for the fall election. The sample ballot shows no countywide referendum. City of Manitowoc items could not be checked because no City of Manitowoc sample ballot was found online. Not shown: Congress, State Senate and Assembly districts, and school district and municipal referenda. Each depends on a district the address lookup cannot resolve. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Manitowoc County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-manitowoc-2026-sheriff-hartwig-daniel",
+          "name": "Daniel L. Hartwig",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clevelandwi.gov/wp-content/uploads/2026/10/2026-11-3-Type-B-Notice-For-Fall-Cleveland-18-FONT.pdf"
+    },
+    {
+      "office": "Manitowoc County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-manitowoc-2026-clerkcircuit-linderud-angela",
+          "name": "Angela L.P. Linderud",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://clevelandwi.gov/wp-content/uploads/2026/10/2026-11-3-Type-B-Notice-For-Fall-Cleveland-18-FONT.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

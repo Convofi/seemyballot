@@ -1,0 +1,104 @@
+{
+  "state": "IL",
+  "county": "Knox County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://cms2.revize.com/revize/knoxcounty/Specimen%20Ballot%20-%20GE2026.pdf",
+    "https://www.knoxcountyil.gov/departments/county_clerk/elections_information/index.php"
+  ],
+  "note": "From the Knox County Clerk & Recorder's certified specimen ballot for the November 3, 2026 General Election. Scott G. Erickson is marked incumbent because he certifies the ballot as Knox County Clerk & Recorder. Elections inside the City of Galesburg are run by the Galesburg City Election Commission; the countywide contests below are the same there, but Galesburg city questions, if any, could not be checked. Not shown: County Board Districts 4 and 5, Regional Superintendent of Schools (Knox voters are split among the Henderson-Knox-Mercer-Warren, Bureau-Henry-Stark, Fulton-Hancock-McDonough-Schuyler and Peoria County regional offices by school district), Congress and state legislature, and the Elmwood CUSD #322 transportation tax question. There is no countywide referendum. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Knox County Clerk & Recorder",
+      "candidates": [
+        {
+          "key": "il-knox-2026-clerk-erickson-scott",
+          "name": "Scott G. Erickson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "il-knox-2026-clerk-henrikson-johan",
+          "name": "Johan Henrikson",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cms2.revize.com/revize/knoxcounty/Specimen%20Ballot%20-%20GE2026.pdf"
+    },
+    {
+      "office": "Knox County Treasurer",
+      "candidates": [
+        {
+          "key": "il-knox-2026-treasurer-walters-jerrie",
+          "name": "Jerrie Ann Walters",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-knox-2026-treasurer-davis-robin",
+          "name": "Robin E. Davis",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cms2.revize.com/revize/knoxcounty/Specimen%20Ballot%20-%20GE2026.pdf"
+    },
+    {
+      "office": "Knox County Sheriff",
+      "candidates": [
+        {
+          "key": "il-knox-2026-sheriff-harlan-jack",
+          "name": "Jack C Harlan Jr",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cms2.revize.com/revize/knoxcounty/Specimen%20Ballot%20-%20GE2026.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 9th Judicial Circuit (vacancy of the Hon. Raymond A. Cavanaugh)",
+      "candidates": [
+        {
+          "key": "il-knox-2026-circuit-bryant-carissa",
+          "name": "Carissa Bryant",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "il-knox-2026-circuit-long-chad",
+          "name": "Chad M Long",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://cms2.revize.com/revize/knoxcounty/Specimen%20Ballot%20-%20GE2026.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 9th Judicial Circuit — retain Judge David L. Vancil, Jr.? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-knox-2026-retain-circuit-vancil-david",
+          "name": "David L. Vancil, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cms2.revize.com/revize/knoxcounty/Specimen%20Ballot%20-%20GE2026.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 9th Judicial Circuit — retain Judge Andrew J. Doyle? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-knox-2026-retain-circuit-doyle-andrew",
+          "name": "Andrew J. Doyle",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://cms2.revize.com/revize/knoxcounty/Specimen%20Ballot%20-%20GE2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

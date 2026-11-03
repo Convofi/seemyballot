@@ -1,0 +1,130 @@
+{
+  "state": "IN",
+  "county": "Steuben County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://cms2.revize.com/revize/steubencountyin/2026%20PRIMARY%20SHORT.pdf",
+    "https://www.co.steuben.in.us/government/elected_officials.php",
+    "https://www.co.steuben.in.us/departments/clerk/election_results.php"
+  ],
+  "note": "Candidates are from the Indiana Election Division's certified candidate list (9/22/2026); ballot spellings follow Steuben County's official 2026 primary results. The County Commissioner North District seat is voted on countywide (it drew about as many primary votes as the countywide offices). Incumbency is from the county's elected-officials page. No Steuben County sample ballot was posted online. Not shown: County Council Districts 1-4, township trustee and township board races, town council races, and school board races, which depend on where you live. Angola city offices are elected in odd years. No countywide public question was found; the two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Steuben is in the Court of Appeals Third District, which has no judge on the 2026 ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Steuben Superior Court",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-superior-musser-travis",
+          "name": "Travis B. Musser",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Prosecuting Attorney, 85th Judicial Circuit (Steuben County)",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-prosecutor-quinn-tracy",
+          "name": "Tracy R. Quinn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Steuben County Circuit Court Clerk",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-clerk-herbert-michelle",
+          "name": "Michelle (Shelley) Herbert",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Steuben County Auditor",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-auditor-johnson-kelli",
+          "name": "Kelli Wilder Johnson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "in-steuben-2026-auditor-huntley-alexis",
+          "name": "Alexis Huntley",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Steuben County Recorder",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-recorder-myers-linda",
+          "name": "Linda S Myers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Steuben County Sheriff",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-sheriff-emerick-christopher",
+          "name": "Christopher RL Emerick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Steuben County Surveyor",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-surveyor-ridenour-colt",
+          "name": "Colt L Ridenour",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Steuben County Assessor",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-assessor-anderson-kimberly",
+          "name": "Kimberly K Anderson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    },
+    {
+      "office": "Steuben County Commissioner, North District (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-steuben-2026-commissioner-north-laughlin-andy",
+          "name": "Andy Laughlin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

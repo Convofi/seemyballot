@@ -1,0 +1,40 @@
+{
+  "state": "WI",
+  "county": "Marinette County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.marinettecountywi.gov/i/f/files/County%20Clerk/Type%20B%20Notice%20for%20General%20Election%20PT.pdf",
+    "https://www.marinettecountywi.gov/i/f/files/County%20Clerk/SAMPLE%20BALLOT%20-%20Mar_-%20Type%20B%20Notice.pdf",
+    "https://www.marinettecountywi.gov/i/f/files/County%20Clerk/Type%20C%20Notice%20for%20Ref%20-%20November%202026%20General%20Election_Final(1).pdf",
+    "https://www.marinettecountywi.gov/departments/county-clerk/-election-information/"
+  ],
+  "note": "From the Marinette County Clerk's Type B Notice of General Election and sample ballot (City of Marinette, Wards 7 & 8) and the Type C referendum notice for November 3, 2026. Incumbency is not marked because the county's roster was not checked. The Type C notice lists only the three statewide constitutional questions, so there is no countywide referendum, and the City of Marinette sample ballot shows no city contest or question. Not shown: Congress and Assembly districts, and school district referenda such as the Marinette School District bond question. Each depends on a district the address lookup cannot resolve. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Marinette County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-marinette-2026-sheriff-miller-randy",
+          "name": "Randy P. Miller",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.marinettecountywi.gov/i/f/files/County%20Clerk/SAMPLE%20BALLOT%20-%20Mar_-%20Type%20B%20Notice.pdf"
+    },
+    {
+      "office": "Marinette County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-marinette-2026-clerkcircuit-brazeau-carrie",
+          "name": "Carrie Brazeau",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.marinettecountywi.gov/i/f/files/County%20Clerk/SAMPLE%20BALLOT%20-%20Mar_-%20Type%20B%20Notice.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

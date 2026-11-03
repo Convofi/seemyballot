@@ -1,0 +1,228 @@
+{
+  "state": "MN",
+  "county": "Otter Tail County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/local.txt",
+    "https://electionresultsfiles.sos.mn.gov/20261103/BallotQuestions.txt",
+    "https://ottertailcounty.gov/department/sheriff/",
+    "https://ottertailcounty.gov/department/county-attorney/"
+  ],
+  "note": "Candidates are from the Minnesota Secretary of State's county and judicial district candidate files for November 3, 2026; the Sheriff and County Attorney races are on all 91 Otter Tail County precincts. The county's Sheriff page lists Barry Fitzgibbons as the current Sheriff, so the Sheriff seat has no incumbent running; its County Attorney page lists Michelle Eldien as County Attorney. The Secretary of State's files do not mark judicial incumbents, so judges are not marked. Not shown: County Commissioner Districts 2 and 4, Soil and Water Conservation District supervisors (East and West Otter Tail districts), school board members and school district questions, and city and township offices. No countywide ballot question is listed, and no City of Fergus Falls contest or question appears in the Secretary of State's local files. Supreme Court and Court of Appeals seats appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-sheriff-reinbold-reed",
+          "name": "Reed Reinbold",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mn-otter-tail-2026-sheriff-frost-terry",
+          "name": "Terry Frost",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-attorney-eldien-michelle",
+          "name": "Michelle Marie Eldien",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/cntyRaceQuestions.txt"
+    },
+    {
+      "office": "Judge 2 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge2-leeser-michael",
+          "name": "Michael Leeser",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 8 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge8-engelking-matthew",
+          "name": "Matthew E. Engelking",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 9 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge9-lawson-michelle",
+          "name": "Michelle Winkis Lawson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 11 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge11-pearson-andrew",
+          "name": "Andrew Pearson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 12 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge12-miller-kevin",
+          "name": "Kevin M. Miller",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 13 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge13-clark-michelle",
+          "name": "Michelle Clark",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 14 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge14-lester-meriel",
+          "name": "Meriel Lester",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 15 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge15-tvedten-ole",
+          "name": "Ole Tvedten",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 21 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge21-raupp-robert",
+          "name": "Robert J. Raupp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 22 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge22-clark-doug",
+          "name": "Doug Clark",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 24 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge24-schmidt-karl",
+          "name": "Karl L. Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 26 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge26-herzing-mark",
+          "name": "Mark J. Herzing",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 27 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge27-merkins-tammy",
+          "name": "Tammy L. Merkins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 28 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge28-wetzel-antoinette",
+          "name": "Antoinette C. Wetzel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    },
+    {
+      "office": "Judge 30 - District Court, 7th Judicial District",
+      "candidates": [
+        {
+          "key": "mn-otter-tail-2026-judge30-rosenfeldt-jade",
+          "name": "Jade M. Rosenfeldt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://electionresultsfiles.sos.mn.gov/20261103/judicialdst.txt"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

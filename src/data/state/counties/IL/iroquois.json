@@ -1,0 +1,105 @@
+{
+  "state": "IL",
+  "county": "Iroquois County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf",
+    "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/11-2026-Notice-of-General-Election.pdf",
+    "https://iroquoiscountyil.gov/county-clerk/elections"
+  ],
+  "note": "From the Iroquois County Clerk's certified specimen ballot and Notice of General Election for November 3, 2026. Breein B. Suver is marked incumbent because she certifies the ballot as Iroquois County Clerk. Not shown: County Board Districts 1-4, Regional Superintendent of Schools (Iroquois voters are split among the Champaign-Ford, DeWitt-Livingston-Logan-McLean, Iroquois-Kankakee and Vermilion regional offices by school district), Congress and state legislature, and the Central CUSD No. 4 board-membership referendum (Ashkum, Chebanse, Iroquois and Milks Grove precincts only). There is no countywide referendum and no City of Watseka question. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "Iroquois County Clerk",
+      "candidates": [
+        {
+          "key": "il-iroquois-2026-clerk-suver-breein",
+          "name": "Breein B. Suver",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf"
+    },
+    {
+      "office": "Iroquois County Treasurer",
+      "candidates": [
+        {
+          "key": "il-iroquois-2026-treasurer-bakken-jamie",
+          "name": "Jamie Lee Bakken",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf"
+    },
+    {
+      "office": "Iroquois County Sheriff",
+      "candidates": [
+        {
+          "key": "il-iroquois-2026-sheriff-perzee-clinton",
+          "name": "Clinton J. Perzee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf"
+    },
+    {
+      "office": "Judge of the Appellate Court, 3rd Judicial District (vacancy of the Hon. Mary W. McDade)",
+      "candidates": [
+        {
+          "key": "il-iroquois-2026-appellate-o-connell-margaret",
+          "name": "Margaret \"Peggy\" O'Connell",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "il-iroquois-2026-appellate-helland-jason",
+          "name": "Jason A. Helland",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 21st Judicial Circuit — retain Judge Michael Sabol? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-iroquois-2026-retain-circuit-sabol-michael",
+          "name": "Michael Sabol",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 21st Judicial Circuit — retain Judge William S. Dickenson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-iroquois-2026-retain-circuit-dickenson-william",
+          "name": "William S. Dickenson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf"
+    },
+    {
+      "office": "Judge of the Circuit Court, 21st Judicial Circuit — retain Judge Lindsay Parkhurst? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "il-iroquois-2026-retain-circuit-parkhurst-lindsay",
+          "name": "Lindsay Parkhurst",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://iroquoiscountyil.gov/wp-content/uploads/2026/09/SPECIMENBALLOT_Style1_English_8.5x14_Paper.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
