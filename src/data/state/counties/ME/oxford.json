@@ -1,0 +1,80 @@
+{
+  "state": "ME",
+  "county": "Oxford County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://bethelmaine.org/uploads/bethel-sample-ballot.pdf",
+    "https://bethelmaine.org/news/sample-ballots-for-upcoming-general-election"
+  ],
+  "note": "From the State of Maine sample ballot for the November 3, 2026 General Election posted by the Town of Bethel (Style No. 45, which also covers Byron, Hanover, Milton Twp, Roxbury and Rumford). The posted copy is hand-marked 'Draft'. The Town of Paris had not posted a November sample ballot. Savannah Leah Sessions is printed as Unenrolled and is shown here as Independent. Incumbency is not marked because no official county roster was checked. Not shown: County Commissioner (elected by district), State Senate and State Representative districts, and statewide referendum questions, which are listed with the state ballot. Town offices and local questions are on separate town ballots. Check your town's official sample ballot.",
+  "contests": [
+    {
+      "office": "County Treasurer, Oxford County",
+      "candidates": [
+        {
+          "key": "me-oxford-2026-treasurer-davis-christopher",
+          "name": "Christopher J. Davis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "me-oxford-2026-treasurer-sessions-savannah",
+          "name": "Savannah Leah Sessions",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://bethelmaine.org/uploads/bethel-sample-ballot.pdf"
+    },
+    {
+      "office": "Register of Deeds, Oxford County",
+      "candidates": [
+        {
+          "key": "me-oxford-2026-register-of-deeds-crockett-cherri",
+          "name": "Cherri Lee Crockett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://bethelmaine.org/uploads/bethel-sample-ballot.pdf"
+    },
+    {
+      "office": "Sheriff, Oxford County",
+      "candidates": [
+        {
+          "key": "me-oxford-2026-sheriff-brown-justin",
+          "name": "Justin M. Brown",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "me-oxford-2026-sheriff-holland-timothy",
+          "name": "Timothy Holland",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "me-oxford-2026-sheriff-wainwright-christopher",
+          "name": "Christopher R. Wainwright",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://bethelmaine.org/uploads/bethel-sample-ballot.pdf"
+    },
+    {
+      "office": "District Attorney, District 3",
+      "candidates": [
+        {
+          "key": "me-oxford-2026-district-attorney-mclean-neil",
+          "name": "Neil E. McLean, Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://bethelmaine.org/uploads/bethel-sample-ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

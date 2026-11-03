@@ -1,0 +1,130 @@
+{
+  "state": "ND",
+  "county": "Sargent County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298",
+    "https://vip.sos.nd.gov/WhereToVote.aspx?tab=AddressandVotingTimes&ptlPKID=7&ptlhPKID=50",
+    "https://www.ndcourts.gov/district-court/district-court-judges",
+    "https://www.sargentnd.com/departments.php"
+  ],
+  "note": "From the North Dakota Secretary of State's official sample ballot for Sargent County (District 28). Addresses in Forman and Milnor return the same ballot, so these contests are countywide. Sargent County commissioners are elected at large; vote for up to three. North Dakota does not mark incumbents on the ballot; incumbent flags come from Sargent County's department pages (auditor, state's attorney, treasurer/recorder/clerk, sheriff and the board of commissioners) and the Supreme Court's Southeast District roster. Also on every county ballot: a choice of County Official Newspaper (The Sargent County Teller is the only name printed). There is no countywide or City of Forman measure; statewide measures appear with the state ballot. School district items depend on your school district and are not shown. Check your official sample ballot at vip.sos.nd.gov.",
+  "contests": [
+    {
+      "office": "Judge of the District Court No. 1 (Unexpired 4-Year Term), Southeast Judicial District",
+      "candidates": [
+        {
+          "key": "nd-sargent-2026-district-court-1-shockman-james",
+          "name": "James T Shockman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298"
+    },
+    {
+      "office": "County Commissioner (vote for up to three)",
+      "candidates": [
+        {
+          "key": "nd-sargent-2026-commissioner-creech-auston",
+          "name": "Auston Creech",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-sargent-2026-commissioner-anderson-wade",
+          "name": "Wade Anderson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nd-sargent-2026-commissioner-ruch-richard",
+          "name": "Richard Ruch",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-sargent-2026-commissioner-johnson-scott",
+          "name": "Scott A Johnson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "nd-sargent-2026-commissioner-mahrer-michael",
+          "name": "Michael Mahrer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-sargent-2026-commissioner-bopp-lyle",
+          "name": "Lyle R Bopp",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "nd-sargent-2026-auditor-bopp-tia",
+          "name": "Tia Bopp",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298"
+    },
+    {
+      "office": "County State's Attorney",
+      "candidates": [
+        {
+          "key": "nd-sargent-2026-states-attorney-pfau-jayne",
+          "name": "Jayne Lewandowski Pfau",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298"
+    },
+    {
+      "office": "County Treasurer/Recorder/Clerk of District Court",
+      "candidates": [
+        {
+          "key": "nd-sargent-2026-treasurer-recorder-clerk-yagow-cindy",
+          "name": "Cindy Yagow",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nd-sargent-2026-sheriff-paeper-travis",
+          "name": "Travis A. Paeper",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298"
+    },
+    {
+      "office": "Supervisor, Soil Conservation District",
+      "candidates": [
+        {
+          "key": "nd-sargent-2026-soil-conservation-ladwig-adam",
+          "name": "Adam Nikolas Ladwig",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=101298"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

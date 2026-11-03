@@ -1,0 +1,231 @@
+{
+  "state": "NE",
+  "county": "Nance County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf",
+    "https://nancecountyne.gov/2026/09/17/2026-general-notice-of-election/",
+    "https://nancecountyne.gov/county-board/",
+    "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf"
+  ],
+  "note": "From the Nance County Clerk's certified 2026 Notice of General Election. No one filed for County Surveyor. Not shown because they depend on where you live: Legislature District 34 and State Board of Education District 6; Central Community College District 5; Central Platte and Lower Loup NRD, Polk County Rural, Southern and Nebraska Public Power District, Twin Loups Reclamation District and Educational Service Unit seats; school boards; Village of Belgrade and township boards; and the Genoa Airport Authority (no filings). Statewide measures appear with the state ballot. Incumbent flags come from Nance County's office pages and County Board roster; retention judges are sitting judges. Check your sample ballot through the Nebraska Voter Information Lookup.",
+  "contests": [
+    {
+      "office": "Nance County Assessor",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-assessor-zoucha-megan",
+          "name": "Megan Zoucha",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "Nance County Attorney",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-county-attorney-wetovick-rodney",
+          "name": "Rodney Wetovick",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "Nance County Clerk",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-county-clerk-chlopek-adrian",
+          "name": "Adrian Chlopek",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "Nance County Sheriff",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-sheriff-bakewell-ben",
+          "name": "Ben Bakewell",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "Nance County Board of Supervisors (vote for up to four)",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-supervisor-voichoskie-bob",
+          "name": "Bob Voichoskie",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ne-nance-2026-supervisor-nelson-darren",
+          "name": "Darren J. Nelson",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ne-nance-2026-supervisor-cornwell-timothy",
+          "name": "Timothy C. Cornwell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "ne-nance-2026-supervisor-crouse-steve",
+          "name": "Steve Crouse",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "Nance County Treasurer",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-treasurer-malander-ronda",
+          "name": "Ronda Malander",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Thomas E. Stine? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-retain-workers-comp-stine-thomas",
+          "name": "Thomas E. Stine",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Dirk V. Block? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-retain-workers-comp-block-dirk",
+          "name": "Dirk V. Block",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    },
+    {
+      "office": "County Court, District Five — retain Judge Denise Kracl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-nance-2026-retain-county-court-kracl-denise",
+          "name": "Denise Kracl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Fullerton": {
+      "contests": [
+        {
+          "office": "Mayor of Fullerton",
+          "candidates": [
+            {
+              "key": "ne-nance-2026-fullerton-mayor-rieken-kc",
+              "name": "KC Rieken",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+        },
+        {
+          "office": "Fullerton City Council (vote for up to three)",
+          "candidates": [
+            {
+              "key": "ne-nance-2026-fullerton-council-lane-riley",
+              "name": "Riley Lane",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-nance-2026-fullerton-council-mach-art",
+              "name": "Art Mach",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-nance-2026-fullerton-council-monroe-mark",
+              "name": "Mark Monroe",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-nance-2026-fullerton-council-dubas-kevin",
+              "name": "Kevin W. Dubas Sr.",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-nance-2026-fullerton-council-milby-matt",
+              "name": "Matt Milby",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Genoa": {
+      "contests": [
+        {
+          "office": "Mayor of Genoa",
+          "candidates": [
+            {
+              "key": "ne-nance-2026-genoa-mayor-elm-josh",
+              "name": "Josh Elm",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+        },
+        {
+          "office": "Genoa City Council (vote for up to two)",
+          "candidates": [
+            {
+              "key": "ne-nance-2026-genoa-council-seier-dwain",
+              "name": "Dwain A. Seier",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-nance-2026-genoa-council-olson-liz",
+              "name": "Liz Olson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://nancecountyne.gov/wp-content/uploads/sites/40/2026/09/NOTICE-Notice-of-General-Election-2026.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "state": "VT",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx",
+    "https://sos.vermont.gov/elections/election-info-resources/candidates/",
+    "https://www.montpelier-vt.org/162/City-Clerk",
+    "https://www.montpelier-vt.org/DocumentCenter/View/12992/140-MONTPELIER"
+  ],
+  "note": "From the Vermont Secretary of State's 2026 general election candidate list and the City of Montpelier's sample ballot (Washington-4). Michelle Donnelly, Marc Poulin and Shawn McManis were nominated by both major parties and are printed as DEM/REP; each is listed here under the first party printed. Incumbency is not marked because no official roster was checked. Names are printed in capitals on the ballot and are shown here in standard capitalization. Not shown: State Senate and State Representative districts, other towns' Justice of the Peace races, the Central Vermont Career Center School District bond and lease articles (a separate ballot in member towns), and the two statewide constitutional proposals, which are listed with the state ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Probate Judge, Washington Probate District",
+      "candidates": [
+        {
+          "key": "vt-washington-2026-probate-judge-gallitano-andrea",
+          "name": "Andrea Gallitano",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "Assistant Judge, Washington County (vote for 2)",
+      "candidates": [
+        {
+          "key": "vt-washington-2026-assistant-judge-dielensnyder-anne",
+          "name": "Anne Dielensnyder",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "vt-washington-2026-assistant-judge-gates-daniel",
+          "name": "Daniel Gates",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "vt-washington-2026-assistant-judge-jones-leah",
+          "name": "Leah Murphy Jones",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "vt-washington-2026-assistant-judge-nelson-ture",
+          "name": "Ture Nelson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "State's Attorney, Washington County",
+      "candidates": [
+        {
+          "key": "vt-washington-2026-states-attorney-donnelly-michelle",
+          "name": "Michelle Donnelly",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "Sheriff, Washington County",
+      "candidates": [
+        {
+          "key": "vt-washington-2026-sheriff-poulin-marc",
+          "name": "Marc Poulin",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    },
+    {
+      "office": "High Bailiff, Washington County",
+      "candidates": [
+        {
+          "key": "vt-washington-2026-high-bailiff-mcmanis-shawn",
+          "name": "Shawn McManis",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://outside.vermont.gov/dept/sos/Elections_Division/election_info_resources/candidates/2026_general_election_qualified_candidates.xlsx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Montpelier": {
+      "contests": [
+        {
+          "office": "Justice of the Peace, City of Montpelier (vote for up to 15)",
+          "candidates": [
+            {
+              "key": "vt-washington-2026-montpelier-jp-abdelnour-thomas",
+              "name": "Thomas Abdelnour",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-ball-elaine",
+              "name": "Elaine Ball",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-bate-dona",
+              "name": "Dona Bate",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-brown-cary",
+              "name": "Cary Brown",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-cheney-kimberly",
+              "name": "Kimberly \"Kim\" B. Cheney",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-guertin-page",
+              "name": "Page Guertin",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-jakubauskas-lynne",
+              "name": "Lynne Jakubauskas",
+              "party": "Independent",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-krueger-mary",
+              "name": "Mary \"Rosie\" Rose Krueger",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-lewis-valerie",
+              "name": "Valerie Lewis",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-mccann-kate",
+              "name": "Kate McCann",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-mccullough-john",
+              "name": "John J. McCullough III",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-newman-judith",
+              "name": "Judith Newman",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-patt-avram",
+              "name": "Avram Patt",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-rich-anne",
+              "name": "Anne Rich",
+              "party": "Democratic",
+              "incumbent": false
+            },
+            {
+              "key": "vt-washington-2026-montpelier-jp-wild-ron",
+              "name": "Ron Wild",
+              "party": "Democratic",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.montpelier-vt.org/DocumentCenter/View/12992/140-MONTPELIER"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

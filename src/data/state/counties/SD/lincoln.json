@@ -1,0 +1,37 @@
+{
+  "state": "SD",
+  "county": "Lincoln County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.lincolncountysd.gov/DocumentCenter/View/1989/Sample-Ballot-2026-PDF",
+    "https://www.lincolncountysd.gov/159/Elections"
+  ],
+  "note": "From the Lincoln County Auditor's 2026 general election publication (sample) ballot. No county office or countywide question is on the Lincoln County general election ballot: under South Dakota law, county candidates left unopposed after the primary do not appear on the general election ballot, and no Second Circuit judge is up this year. Legislative District 6, 12, 13 and 16 races depend on where you live. Statewide constitutional amendments appear with the state ballot. The City of Canton commissioner race is shown for Canton addresses. Check your sample ballot at lincolncountysd.gov.",
+  "contests": [],
+  "measures": [],
+  "municipalities": {
+    "Canton": {
+      "contests": [
+        {
+          "office": "Canton City Commissioner (5-year term)",
+          "candidates": [
+            {
+              "key": "sd-lincoln-2026-canton-city-commissioner-skiles-chad",
+              "name": "Chad Skiles",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "sd-lincoln-2026-canton-city-commissioner-garbers-paul",
+              "name": "Paul Garbers",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.lincolncountysd.gov/DocumentCenter/View/1989/Sample-Ballot-2026-PDF"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

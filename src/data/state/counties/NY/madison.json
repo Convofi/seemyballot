@@ -1,0 +1,43 @@
+{
+  "state": "NY",
+  "county": "Madison County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.madisoncounty.ny.gov/DocumentCenter/View/33582/1-Town-of-Lenox_1_----S",
+    "https://www.madisoncounty.ny.gov/DocumentCenter/View/33589/2-City-of-Oneida_1_----S",
+    "https://www.madisoncounty.ny.gov/DocumentCenter/View/33590/2-Town-of-DeRuyter_1_----S",
+    "https://www.madisoncounty.ny.gov/3291/Sample-Ballots",
+    "https://www.madisoncounty.ny.gov/171/Treasurer"
+  ],
+  "note": "From the Madison County Board of Elections' 2026 General Election sample ballots (Town of Lenox, City of Oneida and Town of DeRuyter checked). County Treasurer is the only countywide office on the ballot; no State Supreme Court seat or countywide proposition appears. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly (122nd and 131st Districts), and town and village offices and propositions. The incumbent Treasurer listed on the county's website is not on the ballot. Check your town's sample ballot at madisoncounty.ny.gov.",
+  "contests": [
+    {
+      "office": "Madison County Treasurer",
+      "candidates": [
+        {
+          "key": "ny-madison-2026-treasurer-cavanagh-mary",
+          "name": "Mary B. Cavanagh",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.madisoncounty.ny.gov/DocumentCenter/View/33582/1-Town-of-Lenox_1_----S"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Oneida": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Oneida Proposal One",
+          "title": "City of Oneida sewer collection system bond",
+          "summary": "Asks whether to approve the Oneida Common Council's July 7, 2026 bond resolution authorizing reconstruction of the city's sewer collection system at a maximum estimated cost of $3,000,000. The city would issue up to $3,000,000 in serial bonds maturing over no more than forty years, backed by the city's faith and credit.",
+          "yesMeans": "The city may issue up to $3,000,000 in bonds to reconstruct its sewer collection system.",
+          "noMeans": "The bond resolution is not approved.",
+          "source": "https://www.madisoncounty.ny.gov/DocumentCenter/View/33589/2-City-of-Oneida_1_----S"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "state": "NE",
+  "county": "Adams County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf",
+    "https://adamscountyne.gov/images/PDFS/Clerks/NoticeofGenElection.pdf",
+    "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_List_of_Judges_Who_Filed_for_Retention_List_8.3.26.pdf",
+    "https://adamscountyne.gov/county-clerk"
+  ],
+  "note": "From the Adams County Clerk's 2026 General Election sample ballot and Notice of General Election. No one filed for County Surveyor. Not shown because they depend on your district: County Commissioner Districts 1, 3, 5 and 7; Legislature and State Board of Education districts; Central Community College, Little Blue and Upper Big Blue NRD, Dawson and Nebraska Public Power District and Educational Service Unit seats; school boards and the Doniphan-Trumbull school bond; City of Hastings council wards 1-4; and village boards. Statewide measures appear with the state ballot. Incumbent flags come from Adams County's office pages (the County Clerk signed the notice); retention judges are sitting judges. Check your sample ballot at adamscountyne.gov.",
+  "contests": [
+    {
+      "office": "Adams County Assessor",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-assessor-jarzynka-jake",
+          "name": "Jake Jarzynka",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Adams County Attorney",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-county-attorney-daiss-donna",
+          "name": "Donna Fegler Daiss",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Adams County Clerk",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-county-clerk-thomas-ramona",
+          "name": "Ramona R. Thomas",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Adams County Clerk of the District Court",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-clerk-district-court-bauer-amanda",
+          "name": "Amanda L. Bauer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Adams County Register of Deeds",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-register-of-deeds-morrow-byron",
+          "name": "Byron J. Morrow",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Adams County Sheriff",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-sheriff-mauck-kevin",
+          "name": "Kevin Mauck",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Adams County Treasurer",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-treasurer-long-virginia",
+          "name": "Virginia Long",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Dirk V. Block? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-retain-workers-comp-block-dirk",
+          "name": "Dirk V. Block",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Thomas E. Stine? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-retain-workers-comp-stine-thomas",
+          "name": "Thomas E. Stine",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "District Court, District Ten — retain Judge Morgan R. Farquhar? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-retain-district-court-farquhar-morgan",
+          "name": "Morgan R. Farquhar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    },
+    {
+      "office": "County Court, District Ten — retain Judge Michael P. Burns? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-adams-2026-retain-county-court-burns-michael",
+          "name": "Michael P. Burns",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://adamscountyne.gov/images/PDFS/Clerks/Sample_Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

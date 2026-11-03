@@ -1,0 +1,73 @@
+{
+  "state": "NY",
+  "county": "Columbia County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.columbiacountyny.com/",
+    "https://drive.google.com/file/d/1ZQ5HcRv1t8oRmK8qKu9tyyqKCCKmuJDP/view",
+    "https://elections.columbiacountyny.com/ge26-sample-ballots",
+    "https://drive.google.com/file/d/19N-gpt3ECWm3HSGqWmsOt4BWuP2yXbY7/view",
+    "https://www.columbiacountyny.gov/285/County-Clerk-DMV"
+  ],
+  "note": "From the Columbia County Board of Elections' GE26 candidate list and its 2026 General Election sample ballots (City of Hudson, 2nd Ward ballot checked). Only Peter J. Doty is nominated for County Coroner, though voters may choose up to two. Both Supreme Court candidates appear only on the Democratic line. Not shown because they depend on your district, town or ward: Representative in Congress (19th District), State Senate, Member of Assembly (106th and 107th Districts), City of Hudson ward supervisors, and town offices and propositions. There is no countywide proposition. The County Clerk incumbent flag comes from the county's County Clerk page. Check your official sample ballot at elections.columbiacountyny.com.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 3rd Judicial District (vote for up to two)",
+      "candidates": [
+        {
+          "key": "ny-columbia-2026-supreme-court-3rd-joyce-amy",
+          "name": "Amy E. Joyce",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-columbia-2026-supreme-court-3rd-sober-jennifer",
+          "name": "Jennifer G. Sober",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/19N-gpt3ECWm3HSGqWmsOt4BWuP2yXbY7/view"
+    },
+    {
+      "office": "Columbia County Clerk",
+      "candidates": [
+        {
+          "key": "ny-columbia-2026-county-clerk-tanner-holly",
+          "name": "Holly C. Tanner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1ZQ5HcRv1t8oRmK8qKu9tyyqKCCKmuJDP/view"
+    },
+    {
+      "office": "Columbia County Coroner (vote for up to two)",
+      "candidates": [
+        {
+          "key": "ny-columbia-2026-coroner-doty-peter",
+          "name": "Peter J. Doty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://drive.google.com/file/d/1ZQ5HcRv1t8oRmK8qKu9tyyqKCCKmuJDP/view"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Hudson": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposal One, City of Hudson",
+          "title": "Increase the City of Hudson's annual contribution to the Hudson Area Association Library",
+          "summary": "Asks whether the City of Hudson's annual contribution to the operating budget of the Hudson Area Association Library should be increased from $400,000 to $450,000.",
+          "yesMeans": "The city's yearly contribution to the library's operating budget rises to $450,000.",
+          "noMeans": "The city's yearly contribution stays at $400,000.",
+          "source": "https://drive.google.com/file/d/19N-gpt3ECWm3HSGqWmsOt4BWuP2yXbY7/view"
+        }
+      ]
+    }
+  }
+}

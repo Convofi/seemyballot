@@ -1,0 +1,331 @@
+{
+  "state": "WY",
+  "county": "Johnson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots",
+    "https://drive.google.com/file/d/1SqNCDZMbKU89fdsfQZlptIe-cMvCRRer/view",
+    "https://www.johnsoncowy.gov/departments/commission-members",
+    "https://www.johnsoncowy.gov/departments/clerk"
+  ],
+  "note": "From the Johnson County Clerk's 2026 sample general election ballots for all 16 precincts; every item shown here appears on all of them. County commissioners are elected countywide; vote for up to two. No district judge is up for retention in Johnson County this year; the Supreme Court and Chancery Court retention questions and Initiative Proposition Number One appear with the state ballot. Not shown because they depend on where you live: House District 40 and other legislative seats, Clear Creek and Powder River Conservation District seats, and the Johnson County School District #1 board. Incumbent flags come from Johnson County's department pages. Check your precinct's sample ballot at johnsoncowy.gov.",
+  "contests": [
+    {
+      "office": "Johnson County Commissioner (vote for up to two)",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-commissioner-shelley-jeff",
+          "name": "Jeff Shelley",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "wy-johnson-2026-commissioner-novotny-bill",
+          "name": "Bill Novotny",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Johnson County Coroner",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-coroner-sullivan-shawn",
+          "name": "Shawn M. Sullivan",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Johnson County Attorney",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-county-attorney-ruby-tucker",
+          "name": "Tucker J. Ruby",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Johnson County Sheriff",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-sheriff-keeler-adrian",
+          "name": "Adrian Keeler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Johnson County Clerk",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-county-clerk-rodriguez-becky",
+          "name": "Becky Rodriguez",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Johnson County Treasurer",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-treasurer-borgialli-brittnee",
+          "name": "Brittnee Borgialli",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-treasurer-case-manna",
+          "name": "Manna Dudley Case",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Johnson County Assessor",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-assessor-esponda-stephen",
+          "name": "Stephen Esponda",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Johnson County Clerk of District Court",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-clerk-district-court-rhoads-paige",
+          "name": "Paige Rhoads",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Cemetery District Trustee (vote for up to three)",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-cemetery-trustee-camino-sheila",
+          "name": "Sheila Camino",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-cemetery-trustee-goddard-luke",
+          "name": "Luke Goddard",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-cemetery-trustee-graves-liz",
+          "name": "Liz Graves",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Hospital District Trustee (vote for up to three)",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-hospital-trustee-kozisek-alecia",
+          "name": "Alecia Kozisek",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-hospital-trustee-wilson-mark",
+          "name": "Mark K. Wilson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-hospital-trustee-griffith-rich",
+          "name": "Rich Griffith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-hospital-trustee-hagge-danielle",
+          "name": "Danielle Hagge",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-hospital-trustee-holt-thomas",
+          "name": "Thomas Holt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Rural Health Care District Trustee (vote for up to three)",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-rural-health-trustee-michelena-adam",
+          "name": "Adam Michelena",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-rural-health-trustee-schueler-mark",
+          "name": "Mark Schueler",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-rural-health-trustee-wampole-courtnee",
+          "name": "Courtnee Wampole",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Senior Citizen Service District Trustee (vote for up to three)",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-senior-district-trustee-buffington-karen",
+          "name": "Karen Buffington",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-senior-district-trustee-fraley-margaret",
+          "name": "Margaret R. Fraley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-johnson-2026-senior-district-trustee-wilson-mark",
+          "name": "Mark A. Wilson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "office": "Senior Citizen Service District Trustee, Unexpired 2-Year Term",
+      "candidates": [
+        {
+          "key": "wy-johnson-2026-senior-district-trustee-unexpired-nation-kay",
+          "name": "Kay Nation",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Proposition #1",
+      "title": "One percent (1%) Specific Purpose Sales and Use Tax: Old Barnum Road and Barber Street, Town of Kaycee",
+      "summary": "Asks whether Johnson County may impose an additional one percent specific purpose sales and use tax to raise $280,000 for planning, engineering and construction to improve the driving surface and drainage of Old Barnum Road and Barber Street from Nolan Avenue to Park Avenue in the Town of Kaycee. Each of the three specific purpose propositions stands alone and needs a majority of the votes cast on it.",
+      "yesMeans": "The county may collect the additional 1% sales tax to fund this Kaycee street project.",
+      "noMeans": "This project will not be funded by the additional 1% sales tax.",
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "id": "Proposition #2",
+      "title": "One percent (1%) Specific Purpose Sales and Use Tax: North Burritt street reconstruction, City of Buffalo",
+      "summary": "Asks whether Johnson County may impose an additional one percent specific purpose sales and use tax to raise $5,748,696.71 for planning, engineering and construction to reconstruct and pave North Burritt from Fort Street to Watkins Avenue in the City of Buffalo, including curb and gutter, sidewalk, water main and sewer main. Each of the three specific purpose propositions stands alone and needs a majority of the votes cast on it.",
+      "yesMeans": "The county may collect the additional 1% sales tax to fund this Buffalo street project.",
+      "noMeans": "This project will not be funded by the additional 1% sales tax.",
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "id": "Proposition #3",
+      "title": "One percent (1%) Specific Purpose Sales and Use Tax: Rock Creek Road and Johnson Creek Road",
+      "summary": "Asks whether Johnson County may impose an additional one percent specific purpose sales and use tax to raise $5,000,000 for planning, engineering and construction to improve and add safety upgrades to 5.3 miles of Rock Creek Road and Johnson Creek Road, from the east side of Interstate 90 west to French Creek Road. Each of the three specific purpose propositions stands alone and needs a majority of the votes cast on it.",
+      "yesMeans": "The county may collect the additional 1% sales tax to fund this road project.",
+      "noMeans": "This project will not be funded by the additional 1% sales tax.",
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    },
+    {
+      "id": "Johnson County Senior Citizen Service District",
+      "title": "Continue the Senior Citizen Service District levy of up to 1 mill",
+      "summary": "Asks whether the Johnson County Senior Citizen Service District may continue to impose a levy of up to 1 mill on the taxable property in the district.",
+      "yesMeans": "The district may continue its property tax levy of up to 1 mill.",
+      "noMeans": "The district may not continue this levy.",
+      "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+    }
+  ],
+  "municipalities": {
+    "Buffalo": {
+      "contests": [
+        {
+          "office": "Mayor of Buffalo",
+          "candidates": [
+            {
+              "key": "wy-johnson-2026-buffalo-mayor-hancock-bob",
+              "name": "Bob Hancock",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "wy-johnson-2026-buffalo-mayor-schrader-shane",
+              "name": "Shane James Schrader",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+        },
+        {
+          "office": "Buffalo City Council (vote for up to two)",
+          "candidates": [
+            {
+              "key": "wy-johnson-2026-buffalo-council-camino-myra",
+              "name": "Myra Camino",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "wy-johnson-2026-buffalo-council-cope-jeffrey",
+              "name": "Jeffrey Cope",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "wy-johnson-2026-buffalo-council-rucki-craig",
+              "name": "Craig Rucki",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "wy-johnson-2026-buffalo-council-wilson-heather",
+              "name": "Heather Wilson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.johnsoncowy.gov/posts/2026-sample-election-ballots"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

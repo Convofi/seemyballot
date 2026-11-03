@@ -1,0 +1,273 @@
+{
+  "state": "NE",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf",
+    "https://www.washingtoncountyne.gov/election-commissioner",
+    "https://www.washingtoncountyne.gov/offices-and-officials",
+    "https://www.votedouglascounty-ne.gov/elected_officials.aspx"
+  ],
+  "note": "From the Washington County Clerk/Election Commissioner's 2026 Notice of General Election. Not shown because they depend on your district: County Board of Supervisors Districts 2, 4 and 6; Legislature District 16; Metropolitan Community College District 3; Learning Community Subcouncil 1; Burt County Public Power District and Educational Service Unit 2 and 3 seats; school boards and the Arlington Public Schools bond; City of Blair council wards; and village offices. Statewide measures appear with the state ballot. Incumbent flags come from Washington County's Offices & Officials page (and the Douglas County Election Commission's roster for the MCC at-large seat); retention judges are sitting judges. Check your sample ballot through the Nebraska Voter Information Lookup.",
+  "contests": [
+    {
+      "office": "Washington County Assessor",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-assessor-andreasen-robin",
+          "name": "Robin Andreasen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Washington County Attorney",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-county-attorney-vander-schaaf-scott",
+          "name": "M. Scott Vander Schaaf",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Washington County Clerk",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-county-clerk-sullivan-barbara",
+          "name": "Barbara Sullivan",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Washington County Clerk of the District Court",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-clerk-district-court-dean-amber",
+          "name": "Amber R. Dean",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Washington County Register of Deeds",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-register-of-deeds-hoden-arron",
+          "name": "Arron W. Hoden",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Washington County Sheriff",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-sheriff-willis-kevin",
+          "name": "Kevin Willis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Washington County Surveyor",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-surveyor-tinkham-gary",
+          "name": "Gary Tinkham",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Washington County Treasurer",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-treasurer-olsen-renee",
+          "name": "Renee A. Olsen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Metropolitan Community College Board of Governors, At Large",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-mcc-at-large-dupree-kristen",
+          "name": "Kristen DuPree",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "ne-washington-2026-mcc-at-large-anderson-paul",
+          "name": "Paul Anderson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Dirk V. Block? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-retain-workers-comp-block-dirk",
+          "name": "Dirk V. Block",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Thomas E. Stine? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-retain-workers-comp-stine-thomas",
+          "name": "Thomas E. Stine",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "District Court, District Six — retain Judge Geoffrey Hall? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-retain-district-court-hall-geoffrey",
+          "name": "Geoffrey Hall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "County Court, District Six — retain Judge Thomas J. Klein? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-retain-county-court-klein-thomas",
+          "name": "Thomas J. Klein",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    },
+    {
+      "office": "County Court, District Six — retain Judge Sara E. Bauer? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-washington-2026-retain-county-court-bauer-sara",
+          "name": "Sara E. Bauer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Blair": {
+      "contests": [
+        {
+          "office": "Mayor of Blair",
+          "candidates": [
+            {
+              "key": "ne-washington-2026-blair-mayor-rump-mindy",
+              "name": "Mindy Rump",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+        },
+        {
+          "office": "City of Blair Airport Authority, At Large (six-year term; vote for two)",
+          "candidates": [
+            {
+              "key": "ne-washington-2026-blair-airport-authority-rump-martin",
+              "name": "Martin Rump",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-washington-2026-blair-airport-authority-johnson-david",
+              "name": "David E. Johnson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+        }
+      ],
+      "measures": []
+    },
+    "Fort Calhoun": {
+      "contests": [
+        {
+          "office": "Mayor of Fort Calhoun",
+          "candidates": [
+            {
+              "key": "ne-washington-2026-fort-calhoun-mayor-prieksat-bob",
+              "name": "Bob Prieksat",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+        },
+        {
+          "office": "Fort Calhoun City Council (vote for up to two)",
+          "candidates": [
+            {
+              "key": "ne-washington-2026-fort-calhoun-council-schuler-nick",
+              "name": "Nick Schuler",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-washington-2026-fort-calhoun-council-gochanour-mark",
+              "name": "Mark Gochanour",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-washington-2026-fort-calhoun-council-sevener-paul",
+              "name": "Paul Sevener Jr",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-washington-2026-fort-calhoun-council-lewis-clint",
+              "name": "Clint Lewis",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.washingtoncountyne.gov/_files/ugd/ac3a10_b59f7937249b4f4c9ec781f90dece45e.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
