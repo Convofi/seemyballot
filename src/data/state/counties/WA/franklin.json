@@ -1,0 +1,140 @@
+{
+  "state": "WA",
+  "county": "Franklin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=11&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Franklin County. Party is the candidate's stated preference. Incumbent flags are not set because we could not check an official roster. Not shown: County Commissioner District 3 (the Secretary of State lists it under the commission district, not countywide), Port of Pasco Commissioner District 3, Franklin PUD Commissioner District 2, legislative and congressional districts, and Franklin County Fire Protection District No. 3 Proposition No. 1, which depend on where you live. No countywide Franklin County measure and no City of Pasco office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 3, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-app3d2-pos1-hill-tyson",
+          "name": "Tyson R. Hill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County Assessor",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-assessor-hollingsworth-chris",
+          "name": "Chris Hollingsworth",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-franklin-2026-assessor-rosenau-john",
+          "name": "John A Rosenau",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County Auditor",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-auditor-beaton-matt",
+          "name": "Matt Beaton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County Clerk",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-clerk-ochoa-ruby",
+          "name": "Ruby Ochoa",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County Coroner",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-coroner-mcgary-curtis",
+          "name": "Curtis McGary",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-prosecutor-sant-shawn",
+          "name": "Shawn P. Sant",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-sheriff-huber-monty",
+          "name": "Monty Huber",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-franklin-2026-sheriff-lee-christopher",
+          "name": "Christopher (Chris) Lee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-treasurer-koelzer-josie",
+          "name": "Josie Koelzer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    },
+    {
+      "office": "Franklin County District Court Judge",
+      "candidates": [
+        {
+          "key": "wa-franklin-2026-district-court-nguyen-michael",
+          "name": "Michael Nguyen",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-franklin-2026-district-court-orosco-trinity",
+          "name": "Trinity Orosco",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=11"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

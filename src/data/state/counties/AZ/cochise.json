@@ -1,0 +1,92 @@
+{
+  "state": "AZ",
+  "county": "Cochise County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.cochise.az.gov/652/2026-Candidate-Information",
+    "https://www.cochise.az.gov/DocumentCenter/View/28419",
+    "https://www.cochise.az.gov/DocumentCenter/View/28239",
+    "https://www.cochise.az.gov/426/Superior-Court-Divisions",
+    "https://www.cochise.az.gov/179/Clerk-of-the-Superior-Court",
+    "https://www.cochise.az.gov/498/Recorder"
+  ],
+  "note": "From Cochise County Elections' 2026 candidate information page, official write-in and withdrawn candidate list, and full text insert. Cochise County elects its Superior Court judges, and each division on this ballot has one candidate. The Recorder seat is for a 2-year term. Incumbent flags come from the Superior Court Divisions, Clerk of the Superior Court and Recorder pages on cochise.az.gov. Not shown: Justice of the Peace and Constable precincts, school boards and school budget overrides (Bisbee Unified, Palominas Elementary, St. David Unified), fire, water and hospital district races and questions, and city races and propositions in Bisbee, Tombstone and Huachuca City, which depend on where you live. Sierra Vista also elects a mayor and city council on this ballot, but the City of Sierra Vista website blocks automated access and the county does not post the candidate list, so those races are not shown. No countywide measure is on this ballot. Court of Appeals retention questions are not shown because the county has not posted a sample ballot. Statewide races, Arizona Supreme Court retention and statewide propositions are on the Arizona statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Cochise County Recorder (2-year term)",
+      "candidates": [
+        {
+          "key": "az-cochise-2026-recorder-cloud-billy",
+          "name": "Billy Cloud",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cochise.az.gov/652/2026-Candidate-Information"
+    },
+    {
+      "office": "Clerk of the Superior Court",
+      "candidates": [
+        {
+          "key": "az-cochise-2026-clerk-hunley-amy",
+          "name": "Amy Hunley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cochise.az.gov/652/2026-Candidate-Information"
+    },
+    {
+      "office": "Judge of the Superior Court, Division I",
+      "candidates": [
+        {
+          "key": "az-cochise-2026-supct-div1-larson-joel",
+          "name": "Joel Larson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cochise.az.gov/652/2026-Candidate-Information"
+    },
+    {
+      "office": "Judge of the Superior Court, Division II",
+      "candidates": [
+        {
+          "key": "az-cochise-2026-supct-div2-champagne-deana",
+          "name": "Deana Champagne",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cochise.az.gov/652/2026-Candidate-Information"
+    },
+    {
+      "office": "Judge of the Superior Court, Division III",
+      "candidates": [
+        {
+          "key": "az-cochise-2026-supct-div3-thorn-david",
+          "name": "David Thorn",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.cochise.az.gov/652/2026-Candidate-Information"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Sierra Vista": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question 408",
+          "title": "Sierra Vista General Plan, Vista 2040",
+          "summary": "Asks Sierra Vista voters to ratify the Vista 2040 General Plan, adopted by the City Council on June 11, 2026, as the city's new long-range plan and policies to guide future growth and development. The ballot language states that the plan will not change current zoning or increase taxes.",
+          "yesMeans": "The Vista 2040 General Plan would be approved as Sierra Vista's general plan.",
+          "noMeans": "The Vista 2040 General Plan would not be approved, and Sierra Vista would keep the general plan approved in 2014 (Vista 2030).",
+          "source": "https://www.cochise.az.gov/DocumentCenter/View/28239"
+        }
+      ]
+    }
+  }
+}

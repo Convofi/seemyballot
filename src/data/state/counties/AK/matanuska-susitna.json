@@ -1,0 +1,159 @@
+{
+  "state": "AK",
+  "county": "Matanuska-Susitna Borough",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf",
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD3.pdf",
+    "https://www.elections.alaska.gov/doc/maps/2023-precincts/HD30_May2023Final_Maps.pdf"
+  ],
+  "note": "From the Alaska Division of Elections' official sample ballots for House Districts 27 and 30 in the Third Judicial District. Every Matanuska-Susitna Borough voter is in the Third Judicial District and votes on the same superior and district court retention questions; the Fourth Judicial District part of House District 30 is the Denali Borough precincts (Anderson-Clear, Cantwell, Denali Park, Healy). Each judge on a retention ballot is the sitting judge. Mat-Su Borough assembly, mayor and borough propositions, and city offices in Palmer and Wasilla, are decided in the October local election, not on this ballot. Not shown: State House and Senate districts. Supreme Court Justice Jude Pate's retention and Ballot Measures 2 and 3 are statewide and not repeated here. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Laura Hartz? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-hartz-laura",
+          "name": "Laura Hartz",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Yvonne Lamoureux? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-lamoureux-yvonne",
+          "name": "Yvonne Lamoureux",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Kelly J. Lawson? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-lawson-kelly",
+          "name": "Kelly J. Lawson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Jack R. McKenna? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-mckenna-jack",
+          "name": "Jack R. McKenna",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge David A. Nesbett? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-nesbett-david",
+          "name": "David A. Nesbett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Christina Rankin? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-rankin-christina",
+          "name": "Christina Rankin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Christina L. Reigh \"Tina\"? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-reigh-christina",
+          "name": "Christina L. Reigh \"Tina\"",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Ian Wheeles? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-wheeles-ian",
+          "name": "Ian Wheeles",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Jonathan A. Woodman? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-superior-retain-woodman-jonathan",
+          "name": "Jonathan A. Woodman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "District Court, Third Judicial District: retain Judge Chris Darnall? (Yes/No retention vote, 4-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-district-retain-darnall-chris",
+          "name": "Chris Darnall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "District Court, Third Judicial District: retain Judge Martin C. Fallon? (Yes/No retention vote, 4-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-district-retain-fallon-martin",
+          "name": "Martin C. Fallon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    },
+    {
+      "office": "District Court, Third Judicial District: retain Judge Shawn D. Traini? (Yes/No retention vote, 4-year term)",
+      "candidates": [
+        {
+          "key": "ak-matanuska-susitna-2026-district-retain-traini-shawn",
+          "name": "Shawn D. Traini",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD27-JD3.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

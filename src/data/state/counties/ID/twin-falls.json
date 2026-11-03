@@ -1,0 +1,111 @@
+{
+  "state": "ID",
+  "county": "Twin Falls County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://twinfallscounty.org/election/sample_ballots/",
+    "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf",
+    "https://twinfallscounty.org/wp-content/uploads/LD-25-TF-Sample-Ballot.pdf",
+    "https://twinfallscounty.org/wp-content/uploads/Voter-Pamphlet-Twin-Falls-County-Nov-2026-Final-2.pdf",
+    "https://twinfallscounty.org/commissioners/",
+    "https://twinfallscounty.org/assessor/",
+    "https://twinfallscounty.org/coroner/",
+    "https://twinfallscounty.org/clerk/",
+    "https://twinfallscounty.org/treasurer-2/"
+  ],
+  "note": "From Twin Falls County's official sample ballots for Legislative Districts 24 and 25, which list the same county offices. Twin Falls County commissioners must live in their district but are voted on by the whole county. Incumbent flags come from the county's own office pages: Suzanne Hawkins (District 2 commissioner), Kristina Glascock, Bradford Wills and Will Carson hold those offices now; the current District 1 commissioner (Brent Reinke) and Treasurer (Becky Petersen) are not running. Not shown: College of Southern Idaho Trustee Zones 1 and 5, legislative districts, and school district supplemental levies (Twin Falls School District No. 411, Buhl, Hansen), which depend on where you live. Sheriff and Prosecuting Attorney are not on the November 2026 ballot. No City of Twin Falls office or measure is on this ballot (Idaho cities elect officers in odd years). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Twin Falls County Commissioner, District 1 (4-year term; elected countywide)",
+      "candidates": [
+        {
+          "key": "id-twinfalls-2026-commissioner-d1-tverdy-scott",
+          "name": "Scott Tverdy",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "id-twinfalls-2026-commissioner-d1-tubbs-kirk",
+          "name": "Kirk Tubbs",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf"
+    },
+    {
+      "office": "Twin Falls County Commissioner, District 2 (2-year term; elected countywide)",
+      "candidates": [
+        {
+          "key": "id-twinfalls-2026-commissioner-d2-hawkins-suzanne",
+          "name": "Suzanne \"Suzie\" Hawkins",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf"
+    },
+    {
+      "office": "Twin Falls County Clerk of the District Court",
+      "candidates": [
+        {
+          "key": "id-twinfalls-2026-clerk-glascock-kristina",
+          "name": "Kristina Glascock",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf"
+    },
+    {
+      "office": "Twin Falls County Treasurer",
+      "candidates": [
+        {
+          "key": "id-twinfalls-2026-treasurer-gier-amanda",
+          "name": "Amanda P Gier",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf"
+    },
+    {
+      "office": "Twin Falls County Assessor",
+      "candidates": [
+        {
+          "key": "id-twinfalls-2026-assessor-wills-bradford",
+          "name": "Bradford Wills",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf"
+    },
+    {
+      "office": "Twin Falls County Coroner",
+      "candidates": [
+        {
+          "key": "id-twinfalls-2026-coroner-carson-will",
+          "name": "Will Carson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf"
+    },
+    {
+      "office": "Magistrate Judge, Twin Falls County, 5th Judicial District: retain Magistrate Jennifer Bergin? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "id-twinfalls-2026-magistrate-bergin-jennifer",
+          "name": "Jennifer Bergin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://twinfallscounty.org/wp-content/uploads/LD24-Gen-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,232 @@
+{
+  "state": "MT",
+  "county": "Gallatin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.gallatinmt.gov/DocumentCenter/View/2724",
+    "https://www.gallatinmt.gov/DocumentCenter/View/2423",
+    "https://www.gallatinmt.gov/216/History-of-Elected-Officials-in-Gallatin"
+  ],
+  "note": "From Gallatin County Elections' 2026 General sample ballots (all 68 ballot styles list the same county contests) and the county candidate list. Gallatin County commissioners must live in their district but are voted on by the whole county. Ryan Finn (Commissioner District 3) and John Garrett Grimm (Sheriff/Coroner) are filed write-in candidates; their names are not printed on the ballot. Incumbent flags come from the county's History of Elected Officials page; the District 3 seat was left vacant when Scott MacFarlane resigned, and the page does not list Colter Metcalf, so he is not marked incumbent. Not shown: State House and Senate districts and the five school bond elections, which depend on where you live. Supreme Court Justice #4 and the statewide ballot issues (CI-132, CI-133, I-194) are on the Montana statewide list. The Bozeman charter questions appear only on ballots for addresses inside the City of Bozeman. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 18th Judicial District, Department 2: retain Judge Rienne H. McElyea? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-district-court-18-dept2-retain-mcelyea-rienne",
+          "name": "Rienne H McElyea",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Commissioner, District 1 (6-year term; elected countywide)",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-commissioner-d1-brown-zach",
+          "name": "Zach Brown",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "mt-gallatin-2026-commissioner-d1-hill-daniel",
+          "name": "Daniel Hill",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Commissioner, District 3 (unexpired 4-year term; elected countywide)",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-commissioner-d3-metcalf-colter",
+          "name": "Colter Metcalf",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mt-gallatin-2026-commissioner-d3-finn-ryan",
+          "name": "Ryan Finn",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Clerk & Recorder/Surveyor",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-clerk-recorder-blank-roger",
+          "name": "Roger Blank",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mt-gallatin-2026-clerk-recorder-semerad-eric",
+          "name": "Eric Semerad",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Sheriff/Coroner",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-sheriff-springer-dan",
+          "name": "Dan Springer",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "mt-gallatin-2026-sheriff-grimm-john",
+          "name": "John Garrett Grimm",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Attorney",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-attorney-cromwell-audrey",
+          "name": "Audrey Cromwell",
+          "party": "Democratic",
+          "incumbent": true
+        },
+        {
+          "key": "mt-gallatin-2026-attorney-salo-jordan",
+          "name": "Jordan P. Salo",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Superintendent of Schools",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-superintendent-nielson-john",
+          "name": "John Nielson",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Auditor",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-auditor-therrien-jill",
+          "name": "Jill Therrien",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Gallatin County Treasurer/Assessor",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-treasurer-assessor-ball-stephen",
+          "name": "Stephen Ball",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mt-gallatin-2026-treasurer-assessor-horton-maureen",
+          "name": "Maureen Horton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Justice of the Peace, Department 1: retain Judge Rick West? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-jp-dept1-retain-west-rick",
+          "name": "Rick West",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    },
+    {
+      "office": "Justice of the Peace, Department 2: retain Judge Bryan Adams? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "mt-gallatin-2026-jp-dept2-retain-adams-bryan",
+          "name": "Bryan Adams",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Nonpartisan Elections for Gallatin County Officials",
+      "title": "Nonpartisan elections for Gallatin County officials",
+      "summary": "Asks whether elections for Gallatin County's elected officials should change from partisan to nonpartisan. The offices now elected on a partisan basis are County Commissioners, County Attorney, Clerk of District Court/Public Administrator, Clerk and Recorder/Surveyor, Sheriff/Coroner, Treasurer/Assessor, Auditor, and Superintendent of Schools.",
+      "yesMeans": "Elections for these Gallatin County offices would be held on a nonpartisan basis.",
+      "noMeans": "Elections for these Gallatin County offices would stay partisan.",
+      "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+    }
+  ],
+  "municipalities": {
+    "Bozeman": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposed Amendments to the Existing Charter Form of Government",
+          "title": "City of Bozeman: existing charter or amended charter",
+          "summary": "Voters choose between keeping Bozeman's existing charter, established in 2006, and adopting an amended charter proposed by the City of Bozeman Local Government Study Commission in 2026. Three separate sub-options on the ballot apply only if the amended charter is adopted.",
+          "yesMeans": "A vote FOR the amended charter supports adopting the charter proposed by the 2026 Local Government Study Commission.",
+          "noMeans": "A vote FOR the existing charter supports keeping the charter established in 2006.",
+          "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+        },
+        {
+          "id": "City of Bozeman Sub-Option 1",
+          "title": "Amended charter sub-option: size of the commission",
+          "summary": "If the amended charter is adopted, this sets the size of the city commission. Voters choose between the existing four members plus the mayor and an expanded six members plus the mayor.",
+          "yesMeans": "A vote FOR the Expanded System supports a commission of six members and the mayor.",
+          "noMeans": "A vote FOR the Existing System supports a commission of four members and the mayor.",
+          "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+        },
+        {
+          "id": "City of Bozeman Sub-Option 2",
+          "title": "Amended charter sub-option: residency requirements of commissioners",
+          "summary": "If the amended charter is adopted, this decides whether commissioners stay at-large or must live in a ward. Voters choose between commissioners who may live anywhere in the city and commissioners who must reside in the ward they represent.",
+          "yesMeans": "A vote FOR Commissioners Elected by Wards supports requiring each commissioner to live in the ward they represent.",
+          "noMeans": "A vote FOR the Existing System supports at-large commissioners who may live anywhere in Bozeman.",
+          "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+        },
+        {
+          "id": "City of Bozeman Sub-Option 3",
+          "title": "Amended charter sub-option: method of electing commissioners if wards are approved",
+          "summary": "If the amended charter and a ward system are approved, this decides who votes for each ward commissioner. Voters choose between election by all voters in the city and election only by voters registered within the ward.",
+          "yesMeans": "A vote FOR Elected by Voters Residing Within the Ward supports letting only that ward's voters elect its commissioner.",
+          "noMeans": "A vote FOR Elected By all Voters supports having every city voter elect each commissioner.",
+          "source": "https://www.gallatinmt.gov/DocumentCenter/View/2724"
+        }
+      ]
+    }
+  }
+}

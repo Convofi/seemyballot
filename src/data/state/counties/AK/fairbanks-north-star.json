@@ -1,0 +1,62 @@
+{
+  "state": "AK",
+  "county": "Fairbanks North Star Borough",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD34-JD4.pdf",
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD30-JD4.pdf"
+  ],
+  "note": "From the Alaska Division of Elections' official sample ballot for House District 34 in the Fourth Judicial District; the Fourth District ballot for House District 30 lists the same retention questions. Every Fairbanks North Star Borough voter is in the Fourth Judicial District. Each judge on a retention ballot is the sitting judge. Borough assembly, mayor and borough propositions, and City of Fairbanks and North Pole offices, are decided in the October local election, not on this ballot. Not shown: State House and Senate districts. Supreme Court Justice Jude Pate's retention and Ballot Measures 2 and 3 are statewide and not repeated here. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Superior Court, Fourth Judicial District: retain Judge Nathaniel Peters? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-fairbanks-north-star-2026-superior-retain-peters-nathaniel",
+          "name": "Nathaniel Peters",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD34-JD4.pdf"
+    },
+    {
+      "office": "Superior Court, Fourth Judicial District: retain Judge Kirk Schwalm? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-fairbanks-north-star-2026-superior-retain-schwalm-kirk",
+          "name": "Kirk Schwalm",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD34-JD4.pdf"
+    },
+    {
+      "office": "Superior Court, Fourth Judicial District: retain Judge Amy K. Welch? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-fairbanks-north-star-2026-superior-retain-welch-amy",
+          "name": "Amy K. Welch",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD34-JD4.pdf"
+    },
+    {
+      "office": "District Court, Fourth Judicial District: retain Judge Benjamin A. Seekins? (Yes/No retention vote, 4-year term)",
+      "candidates": [
+        {
+          "key": "ak-fairbanks-north-star-2026-district-retain-seekins-benjamin",
+          "name": "Benjamin A. Seekins",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD34-JD4.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

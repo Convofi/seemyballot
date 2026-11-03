@@ -1,0 +1,183 @@
+{
+  "state": "ND",
+  "county": "Burleigh County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925",
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98911",
+    "https://www.ndcourts.gov/district-court/district-court-judges"
+  ],
+  "note": "From the North Dakota Secretary of State's official sample ballot for Bismarck precinct 35-02 (Good Shepherd). The ballot for a Wing precinct (14-02) lists the same county contests, so they are countywide. Burleigh County commissioners are elected at large; vote for up to three. North Dakota does not mark incumbents on the ballot. The five district judges are on the Supreme Court's current South Central District roster. Incumbency for the county offices could not be confirmed from an official county roster, so they are not marked. Also on every county ballot: a choice of County Official Newspaper (The Bismarck Tribune is the only name printed). School district measures (including the Bismarck Public School District No. 1 bond, Measure No. 1) depend on your school district and are not shown. There is no countywide or City of Bismarck measure. Check your official sample ballot at vip.sos.nd.gov.",
+  "contests": [
+    {
+      "office": "Judge of the District Court No. 2 (Unexpired 4-Year Term), South Central Judicial District",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-district-court-2-lofgren-jackson",
+          "name": "Jackson Lofgren",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "Judge of the District Court No. 6, South Central Judicial District",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-district-court-6-weiler-bobbi",
+          "name": "Bobbi Weiler",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "Judge of the District Court No. 7, South Central Judicial District",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-district-court-7-storbakken-bonnie",
+          "name": "Bonnie L Storbakken",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "Judge of the District Court No. 8, South Central Judicial District",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-district-court-8-hill-james",
+          "name": "James S Hill",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "Judge of the District Court No. 10, South Central Judicial District",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-district-court-10-nesvig-pamela",
+          "name": "Pamela Nesvig",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "County Commissioner (elected at large; vote for up to three)",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-commissioner-small-james",
+          "name": "James (Jim) Small",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-burleigh-2026-commissioner-munson-wayne",
+          "name": "Wayne Munson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-burleigh-2026-commissioner-wagner-mark",
+          "name": "Mark Wagner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-burleigh-2026-commissioner-lacoe-kay",
+          "name": "Kay LaCoe",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-burleigh-2026-commissioner-schwab-steve",
+          "name": "Steve Schwab",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-burleigh-2026-commissioner-splonskowski-mark",
+          "name": "Mark Splonskowski",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-auditor-mcmonagle-marla",
+          "name": "Marla McMonagle",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "nd-burleigh-2026-auditor-larson-thomas",
+          "name": "Thomas Larson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "County State's Attorney",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-states-attorney-lawyer-julie",
+          "name": "Julie Lawyer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "County Recorder",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-recorder-hanson-missy",
+          "name": "Missy Hanson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-sheriff-carvell-elliot",
+          "name": "Elliot Carvell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    },
+    {
+      "office": "Supervisor, Burleigh County Soil Conservation District",
+      "candidates": [
+        {
+          "key": "nd-burleigh-2026-soil-conservation-anderson-lyndon",
+          "name": "Lyndon Anderson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=98925"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,141 @@
+{
+  "state": "MT",
+  "county": "Flathead County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971",
+    "https://flatheadcounty.gov/download_file/view/4869f052-0137-4c9b-8867-b79b1ca64992/971",
+    "https://flatheadcounty.gov/department-directory/election/election-current",
+    "https://flatheadcounty.gov/department-directory/commissioners-office",
+    "https://flatheadcounty.gov/department-directory/attorney",
+    "https://flatheadcounty.gov/department-directory/schools"
+  ],
+  "note": "From Flathead County Elections' 2026 General Election publication ballot and county candidate list. Montana county commissioners are nominated by district and elected by the whole county. Incumbent flags come from the county's department pages (Commissioner District 1, County Attorney and Superintendent of Schools); the Sheriff/Coroner and Treasurer/Assessor pages do not name an officeholder, so those candidates are not marked. No 11th Judicial District court seat is on this ballot. Not shown: State House and Senate districts and Public Service Commissioner District 5, which depend on where you live. Supreme Court Justice #4 and the statewide ballot issues (CI-132, CI-133, I-194) are on the Montana statewide list. No City of Kalispell office or measure is on this ballot; the Columbia Falls plan-of-government question appears only for Columbia Falls voters. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Flathead County Commissioner, District 1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-commissioner-d1-abell-brad",
+          "name": "Brad Abell",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "mt-flathead-2026-commissioner-d1-dugan-nathan",
+          "name": "Nathan Dugan",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    },
+    {
+      "office": "Flathead County Clerk & Recorder/Surveyor",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-clerk-recorder-sterling-sheena",
+          "name": "Sheena Sterling",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    },
+    {
+      "office": "Flathead County Sheriff/Coroner",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-sheriff-heino-brian",
+          "name": "Brian Heino",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    },
+    {
+      "office": "Flathead County Attorney",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-attorney-ahner-travis",
+          "name": "Travis R. Ahner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    },
+    {
+      "office": "Flathead County Superintendent of Schools",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-superintendent-stolfus-marcia",
+          "name": "Marcia Stolfus",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    },
+    {
+      "office": "Flathead County Treasurer/Assessor",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-treasurer-assessor-haverkorn-tricia",
+          "name": "Tricia Haverkorn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    },
+    {
+      "office": "Justice of the Peace, Dept 1: retain Judge Eric S. Hummel? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-jp-dept1-retain-hummel-eric",
+          "name": "Eric S. Hummel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    },
+    {
+      "office": "Justice of the Peace, Dept 2",
+      "candidates": [
+        {
+          "key": "mt-flathead-2026-jp-dept2-ream-angela",
+          "name": "Angela Ream",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mt-flathead-2026-jp-dept2-wenz-tim",
+          "name": "Tim Wenz",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Columbia Falls": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Columbia Falls Proposed Change to the Existing Plan of Government",
+          "title": "City of Columbia Falls: self-governing powers",
+          "summary": "The Columbia Falls Local Government Study Commission proposes moving the city from general-governing powers to self-governing powers. Under general-governing powers the city may use only powers specifically permitted by state law; under self-governing powers it could exercise any power not prohibited by state law, and it keeps all current powers.",
+          "yesMeans": "A vote FOR Self-Governing Powers supports giving Columbia Falls authority to exercise any power not prohibited by state law.",
+          "noMeans": "A vote FOR the existing General Governing Powers keeps the city limited to powers specifically permitted by state law.",
+          "source": "https://flatheadcounty.gov/download_file/view/207f8a5b-c2b4-4b19-be65-d18113e13f4b/971",
+          "moreInfo": "https://flatheadcounty.gov/download_file/view/f3982ae3-1104-4f87-9b84-3d8b71adfd52/971"
+        }
+      ]
+    }
+  }
+}

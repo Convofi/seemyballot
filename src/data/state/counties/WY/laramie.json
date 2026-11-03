@@ -1,0 +1,301 @@
+{
+  "state": "WY",
+  "county": "Laramie County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf",
+    "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/school-conservation-and-fire-district-candidates-general.pdf",
+    "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/laramie-county-2026-general-election-test-deck-results-september-28.pdf",
+    "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/2026-general-proclamation-laramie-county-final.pdf",
+    "https://www.laramiecountywy.gov/Public-Notices/NOTICE-OF-LODGING-TAX-ELECTION",
+    "https://www.wyocourts.gov/court/district-court-1st-judicial-district-laramie-county/",
+    "https://www.wyocourts.gov/court/circuit-court-of-the-1st-judicial-district-laramie-county-state-of-wyoming-cheyenne/"
+  ],
+  "note": "From the Laramie County Clerk's final 2026 general election candidate rosters, general election proclamation and official test deck report. The test deck shows which contests appear on every Laramie County ballot; the contests here are those. Laramie County commissioners are elected at large; vote for up to three. Judicial retention names are from the test deck, with full names from the Wyoming Judicial Branch's First Judicial District court pages; each is the sitting judge. Incumbency for the county offices is not marked because the county roster does not show it. Not shown: Cheyenne City Council Wards 1-3, Pine Bluffs mayor and council, Laramie County School District #1 and #2 trustees, Chugwater Fire District director, and state legislative districts, which depend on where you live. No City of Cheyenne citywide office or measure is on this ballot. Wyoming Supreme Court and Chancery Court retentions and Proposed Initiative Proposition Number One are statewide and not repeated here. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court, First Judicial District: retain Judge Robin S. Cooley? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-district-court-retain-cooley-robin",
+          "name": "Robin S. Cooley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/laramie-county-2026-general-election-test-deck-results-september-28.pdf"
+    },
+    {
+      "office": "District Court, First Judicial District: retain Judge Nathaniel S. Hibben? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-district-court-retain-hibben-nathaniel",
+          "name": "Nathaniel S. Hibben",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/laramie-county-2026-general-election-test-deck-results-september-28.pdf"
+    },
+    {
+      "office": "Circuit Court, First Judicial District: retain Judge Sean C. Chambers? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-circuit-court-retain-chambers-sean",
+          "name": "Sean C. Chambers",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/laramie-county-2026-general-election-test-deck-results-september-28.pdf"
+    },
+    {
+      "office": "Circuit Court, First Judicial District: retain Judge Timothy J. Forwood? (Yes/No retention vote)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-circuit-court-retain-forwood-timothy",
+          "name": "Timothy J. Forwood",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/laramie-county-2026-general-election-test-deck-results-september-28.pdf"
+    },
+    {
+      "office": "Laramie County Commissioner (elected at large; vote for up to three)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-commissioner-ketcham-jess",
+          "name": "Jess E. Ketcham",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-commissioner-malm-gunnar",
+          "name": "Gunnar Malm",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-commissioner-thompson-troy",
+          "name": "Troy Thompson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-commissioner-cabot-barbara",
+          "name": "Barbara Cabot",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-commissioner-davis-lynne",
+          "name": "Lynne K. Davis",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Coroner",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-coroner-reid-rebecca",
+          "name": "Rebecca Reid",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "District Attorney",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-district-attorney-hackl-sylvia",
+          "name": "Sylvia Lee Hackl",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Sheriff",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-sheriff-kozak-brian",
+          "name": "Brian Kozak",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-sheriff-cozad-robin",
+          "name": "Robin Cozad",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Clerk",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-clerk-tinney-misty",
+          "name": "Misty Tinney",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Treasurer",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-treasurer-wood-trista",
+          "name": "Trista Wood",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Assessor",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-assessor-ernst-todd",
+          "name": "Todd A Ernst",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "Clerk of District Court",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-clerk-district-court-sanchez-diane",
+          "name": "Diane Sanchez",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/final-county-offices-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Community College Board of Trustees (vote for up to three)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-lccc-trustee-bechtel-michael",
+          "name": "Michael Bechtel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-lccc-trustee-emmons-kathy",
+          "name": "Kathy Emmons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-lccc-trustee-guille-kenneth",
+          "name": "Kenneth Guille",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-lccc-trustee-kelly-joe",
+          "name": "Joe Kelly",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-lccc-trustee-meuli-larry",
+          "name": "R. Larry Meuli",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-lccc-trustee-rumpf-troy",
+          "name": "Troy Rumpf",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/school-conservation-and-fire-district-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Conservation District, Rural Board Member (4-year term; vote for up to two)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-conservation-rural-4yr-crowder-jason",
+          "name": "Jason Crowder",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-conservation-rural-4yr-harding-kiel",
+          "name": "Kiel W Harding",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-conservation-rural-4yr-harding-melissa",
+          "name": "Melissa Harding",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-conservation-rural-4yr-lerwick-monte",
+          "name": "Monte Lerwick",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wy-laramie-2026-conservation-rural-4yr-wickham-brent",
+          "name": "Brent Wickham",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/school-conservation-and-fire-district-candidates-general.pdf"
+    },
+    {
+      "office": "Laramie County Conservation District, Rural Board Member (unexpired 2-year term)",
+      "candidates": [
+        {
+          "key": "wy-laramie-2026-conservation-rural-2yr-rundell-ford",
+          "name": "Ford Rundell",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/candidate-rosters/2026/school-conservation-and-fire-district-candidates-general.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Laramie County 1% Sales & Use Tax",
+      "title": "Renewal of the one percent general-purpose sales and use tax",
+      "summary": "Asks whether the Laramie County Commissioners may renew a one percent (1%) sales and use tax within the county under W.S. 39-15-204. The revenue would be used as general revenue.",
+      "yesMeans": "The county could continue the 1% general-purpose sales and use tax.",
+      "noMeans": "The county would not be authorized to renew the 1% general-purpose sales and use tax.",
+      "source": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/2026-general-proclamation-laramie-county-final.pdf"
+    },
+    {
+      "id": "Laramie County Lodging Tax",
+      "title": "Renewal of the two percent lodging tax",
+      "summary": "Asks whether Laramie County may renew a lodging tax of two percent (2%) on the price paid for sleeping accommodations for guests in hotels, motels, tourist courts, trailer parks, campgrounds, dude ranches, short-term condominiums and similar establishments, under W.S. 39-15-204(a)(ii).",
+      "yesMeans": "The county could continue the 2% tax on lodging.",
+      "noMeans": "The county would not be authorized to renew the 2% lodging tax.",
+      "source": "https://www.laramiecountywy.gov/Public-Notices/NOTICE-OF-LODGING-TAX-ELECTION",
+      "moreInfo": "https://www.laramiecountywy.gov/files/assets/public/v/1/clerk/documents/2026-general-proclamation-laramie-county-final.pdf"
+    }
+  ],
+  "municipalities": {}
+}
