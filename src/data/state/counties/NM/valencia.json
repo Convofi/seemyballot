@@ -1,0 +1,179 @@
+{
+  "state": "NM",
+  "county": "Valencia County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.valencia.nm.us/DocumentCenter/View/43441",
+    "https://www.co.valencia.nm.us/239/Bureau-of-Elections"
+  ],
+  "note": "From the Valencia County Clerk's 2026 General Election Notice of Election, which lists the offices, qualified candidates and questions on the county's ballot. The New Mexico Secretary of State's candidate portal was offline for maintenance on 2026-11-03. Not shown because they depend on where you live: County Commission Districts 1 and 3, U.S. House districts 1, 2 and 3, State House districts 7, 8, 49 and 69, and the Public Education Commission district. Statewide races, Supreme Court and Court of Appeals retention, constitutional amendments and state bond questions appear with the New Mexico statewide ballot. The county seat, Los Lunas, has no village contest or question on this notice. Incumbency is marked only for judges standing for retention. Names appear as printed in the notice. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-sheriff-montano-alan",
+          "name": "Alan Fredrick Montano",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-valencia-2026-sheriff-rowland-joseph",
+          "name": "Joseph Eugene Rowland",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-assessor-leyba-torres",
+          "name": "Torres G Leyba",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-valencia-2026-assessor-casias-burgandy",
+          "name": "Burgandy Bree Casias",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-probate-judge-rael-pedro",
+          "name": "Pedro Rael",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-valencia-2026-probate-judge-wallace-wendy",
+          "name": "Wendy Emily Wallace",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "Magistrate Judge, Division 1",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-magistrate-div1-tafoya-miles",
+          "name": "Miles Ross Tafoya",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "Magistrate Judge, Division 2",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-magistrate-div2-chavez-john",
+          "name": "John R Chavez",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "Magistrate Judge, Division 3",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-magistrate-div3-rivenburgh-rorik",
+          "name": "Rorik S Rivenburgh",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-valencia-2026-magistrate-div3-montano-eric",
+          "name": "Eric Montano",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "District Court Judge retention, Thirteenth Judicial District, Division 1: James Lawrence Sanchez (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-district-judge-retain-div1-sanchez-james",
+          "name": "James Lawrence Sanchez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "District Court Judge retention, Thirteenth Judicial District, Division 4: Amanda Connie Sanchez Villalobos (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-district-judge-retain-div4-sanchez-villalobos-amanda",
+          "name": "Amanda Connie Sanchez Villalobos",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "office": "District Court Judge retention, Thirteenth Judicial District, Division 7: Christopher George Perez (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-valencia-2026-district-judge-retain-div7-perez-christopher",
+          "name": "Christopher George Perez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County Bond Question 1",
+      "title": "Valencia County Sheriff and Fire Facilities Bonds",
+      "summary": "Asks whether Valencia County may issue up to $1,000,000 in general obligation bonds, repaid from property taxes. The money would be used to build, renovate, furnish and otherwise improve buildings for sheriff and fire department facilities.",
+      "yesMeans": "The county may issue up to $1,000,000 in property-tax-backed bonds for sheriff and fire department buildings.",
+      "noMeans": "The county may not issue these bonds for sheriff and fire department buildings.",
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "id": "County Bond Question 2",
+      "title": "Valencia County Road Bonds",
+      "summary": "Asks whether Valencia County may issue up to $4,000,000 in general obligation bonds, repaid from property taxes. The money would be used to build, rehabilitate and otherwise improve public roads, including buying capital equipment for those projects.",
+      "yesMeans": "The county may issue up to $4,000,000 in property-tax-backed bonds for public roads.",
+      "noMeans": "The county may not issue these bonds for public roads.",
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "id": "County Bond Question 3",
+      "title": "Valencia County Parks and Recreation Bonds",
+      "summary": "Asks whether Valencia County may issue up to $2,000,000 in general obligation bonds, repaid from property taxes. The money would be used to build, equip, renovate and improve park and recreational facilities, including public parks, splash pads, sports fields, open space, bike paths, Bosque lands and trails.",
+      "yesMeans": "The county may issue up to $2,000,000 in property-tax-backed bonds for park and recreational facilities.",
+      "noMeans": "The county may not issue these bonds for park and recreational facilities.",
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    },
+    {
+      "id": "County Bond Question 4",
+      "title": "Valencia County Community Center Bonds",
+      "summary": "Asks whether Valencia County may issue up to $2,000,000 in general obligation bonds, repaid from property taxes. The money would be used to build, equip, renovate and improve county-owned community centers, including those for families, youth and senior citizens.",
+      "yesMeans": "The county may issue up to $2,000,000 in property-tax-backed bonds for county-owned community centers.",
+      "noMeans": "The county may not issue these bonds for county-owned community centers.",
+      "source": "https://www.co.valencia.nm.us/DocumentCenter/View/43441"
+    }
+  ],
+  "municipalities": {}
+}

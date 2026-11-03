@@ -1,0 +1,119 @@
+{
+  "state": "NM",
+  "county": "Otero County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://co.otero.nm.us/DocumentCenter/View/10361",
+    "https://co.otero.nm.us/225/Clerk"
+  ],
+  "note": "From the Otero County Clerk's 2026 General Election super sample ballot, which shows every contest and question on any Otero County ballot. The New Mexico Secretary of State's candidate portal was offline for maintenance on 2026-11-03. Not shown because they depend on where you live: County Commission Districts 1 and 2, U.S. House districts 1 and 2, State Senate District 33, State House districts 51, 53, 54 and 56, and Public Education Commission District 7. No City of Alamogordo contest or question appears on the ballot. Statewide races, Supreme Court and Court of Appeals contests and retention, constitutional amendments and state bond questions appear with the New Mexico statewide ballot. Incumbency is marked only for judges standing for retention. Names appear as printed on the sample ballot, shown here in standard capitalization. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-sheriff-martinez-geraldine",
+          "name": "Geraldine Yazza Martinez",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-assessor-bowman-james",
+          "name": "James M Bowman",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-probate-judge-suggs-jessica",
+          "name": "Jessica Lynn Suggs",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    },
+    {
+      "office": "District Court Judge, Twelfth Judicial District, Division 2",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-district-judge-div2-willard-lori",
+          "name": "Lori L Willard",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    },
+    {
+      "office": "Magistrate Judge, Division 1",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-magistrate-div1-secrest-john",
+          "name": "John Robinson Secrest, III",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    },
+    {
+      "office": "Magistrate Judge, Division 2",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-magistrate-div2-cutts-joseph",
+          "name": "Joseph W Cutts",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    },
+    {
+      "office": "District Court Judge retention, Twelfth Judicial District, Division 1: Stephen P Ochoa (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-district-judge-retain-div1-ochoa-stephen",
+          "name": "Stephen P Ochoa",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    },
+    {
+      "office": "District Court Judge retention, Twelfth Judicial District, Division 4: Angie K Schneider (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-otero-2026-district-judge-retain-div4-schneider-angie",
+          "name": "Angie K Schneider",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Local Economic Development Act GRT Question",
+      "title": "Otero County Local Economic Development Act Gross Receipts Tax",
+      "summary": "Asks whether Otero County should impose a countywide local option gross receipts tax of one-eighth of one percent (0.125%, or 12.5 cents per $100 of taxable gross receipts) under the Local Economic Development Act. The revenue would be dedicated to economic development plans and projects, with arts and cultural districts, cultural facilities and retail businesses among the qualifying uses.",
+      "yesMeans": "Otero County would impose a 0.125% gross receipts tax dedicated to economic development projects.",
+      "noMeans": "Otero County would not impose this 0.125% gross receipts tax.",
+      "source": "https://co.otero.nm.us/DocumentCenter/View/10361"
+    }
+  ],
+  "municipalities": {}
+}

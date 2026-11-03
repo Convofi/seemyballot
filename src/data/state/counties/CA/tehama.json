@@ -1,0 +1,158 @@
+{
+  "state": "CA",
+  "county": "Tehama County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.tehama.gov/government/departments/elections/",
+    "https://www.tehama.gov/wp-content/uploads/2026/09/cfmcfmr009_nominationlist.pdf",
+    "https://www.tehama.gov/wp-content/uploads/2026/07/Offices-Up-for-Election-11.3.2026-1.pdf",
+    "https://www.tehama.gov/wp-content/uploads/2026/08/Impartial-Analysis-Tehama-County-Measure-E.pdf",
+    "https://www.tehama.gov/wp-content/uploads/2026/08/Impartial-Analysis-City-Clerk-andTreasurer-2-1.pdf",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "From the Tehama County Elections final qualified candidate list, its list of offices on the November 3, 2026 ballot, and the county's posted measure documents. No county office or Superior Court seat is on the November ballot. Third District Court of Appeal retention questions come from the Secretary of State's certified list. Red Bluff City Council (vote for three) is listed by the county without districts. Not shown because they depend on where you live: City of Corning mayor and council, City of Tehama council, Measure C (Shasta-Tehama-Trinity Joint Community College District bond), Measure G (Los Molinos Elementary bond), Measure H (Red Bluff Joint Union High School District bond), school and special district seats, and U.S. House and Assembly districts. Statewide races, Supreme Court retention and state propositions are on the California statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Administrative Presiding Justice, Court of Appeal, Third District — retain Laurie Earl? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-tehama-2026-coa3-earl-laurie",
+          "name": "Laurie Earl",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Lauri Damrell? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-tehama-2026-coa3-damrell-lauri",
+          "name": "Lauri Damrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain David B. Sapp? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-tehama-2026-coa3-sapp-david",
+          "name": "David B. Sapp",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Stacy Boulware Eurie? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-tehama-2026-coa3-eurie-stacy",
+          "name": "Stacy Boulware Eurie",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Jonathan Renner? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-tehama-2026-coa3-renner-jonathan",
+          "name": "Jonathan Renner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Aimee A. Feinberg? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-tehama-2026-coa3-feinberg-aimee",
+          "name": "Aimee A. Feinberg",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, Third District — retain Shama Mesiwala? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-tehama-2026-coa3-mesiwala-shama",
+          "name": "Shama Mesiwala",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Measure E",
+      "title": "Tehama County Charter Amendment: Board of Supervisors Salary",
+      "summary": "Amends the Tehama County Charter to set each county supervisor's annual salary at the California hourly minimum wage times 2,080 hours, starting January 1, 2027. The current charter salary is $1,045 a month ($12,540 a year), last raised by voters in 1989; at the current $16.90 minimum wage the new salary would be $35,152 a year. The salary would rise automatically with the state minimum wage and could otherwise be changed only by voters.",
+      "yesMeans": "Supervisors' salary would be set at the state minimum wage times 2,080 hours and rise automatically with it.",
+      "noMeans": "Supervisors' salary would stay at $1,045 per month as set in the County Charter.",
+      "source": "https://www.tehama.gov/wp-content/uploads/2026/08/Impartial-Analysis-Tehama-County-Measure-E.pdf",
+      "moreInfo": "https://www.tehama.gov/government/departments/elections/"
+    }
+  ],
+  "municipalities": {
+    "Red Bluff": {
+      "contests": [
+        {
+          "office": "Red Bluff City Council (vote for 3)",
+          "candidates": [
+            {
+              "key": "ca-tehama-2026-red-bluff-council-white-marcella",
+              "name": "Marcella White",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ca-tehama-2026-red-bluff-council-pope-cassandre",
+              "name": "Cassandre \"Cassie\" Pope",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-tehama-2026-red-bluff-council-deiters-kris",
+              "name": "Kris Deiters",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-tehama-2026-red-bluff-council-ellis-william",
+              "name": "William Ahmad Ellis",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.tehama.gov/wp-content/uploads/2026/09/cfmcfmr009_nominationlist.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Measure D",
+          "title": "City of Red Bluff Appointed City Clerk and City Treasurer",
+          "summary": "Asks whether Red Bluff's City Clerk and City Treasurer should become positions appointed by the City Council instead of elected by voters. If approved, the Council could set professional qualifications and hire, manage and remove the Clerk and Treasurer, could delegate the appointment to the City Manager, and the officeholders would no longer need to live or be registered to vote in the city. The change would take effect when the current terms end in November 2028, or earlier if either office becomes vacant.",
+          "yesMeans": "Red Bluff's City Clerk and City Treasurer would become appointed positions.",
+          "noMeans": "Red Bluff's City Clerk and City Treasurer would continue to be elected by voters.",
+          "source": "https://www.tehama.gov/wp-content/uploads/2026/08/Impartial-Analysis-City-Clerk-andTreasurer-2-1.pdf",
+          "moreInfo": "https://www.tehama.gov/government/departments/elections/"
+        }
+      ]
+    }
+  }
+}

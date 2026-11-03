@@ -1,0 +1,108 @@
+{
+  "state": "NM",
+  "county": "Lea County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.leacounty.gov/1386/2026-GENERAL-ELECTION-SAMPLE-BALLOTS",
+    "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+  ],
+  "note": "From the Lea County Clerk's 2026 General Election precinct sample ballots; the contests and question shown appear on all 61 precinct sample ballots. The New Mexico Secretary of State's candidate portal was offline for maintenance on 2026-11-03. Not shown because they depend on where you live: Magistrate Judge Divisions 1-4 (each elected by its own division in Lea County), County Commission districts, U.S. House and State House and Senate districts. Statewide races, Supreme Court and Court of Appeals retention, constitutional amendments and state bond questions appear with the New Mexico statewide ballot. No city contest or question appears on any precinct sample ballot. Incumbency is marked only for judges standing for retention. Names appear as printed on the sample ballot, shown here in standard capitalization. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, Fifth Judicial District, Division 5",
+      "candidates": [
+        {
+          "key": "nm-lea-2026-district-judge-div5-riordan-eileen",
+          "name": "Eileen P Riordan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nm-lea-2026-sheriff-rhoads-mark",
+          "name": "Mark Timothy Rhoads",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nm-lea-2026-assessor-benge-ava",
+          "name": "Ava Benge",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "nm-lea-2026-probate-judge-goad-sandra",
+          "name": "Sandra Kay Goad",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+    },
+    {
+      "office": "District Court Judge retention, Fifth Judicial District, Division 1: David E Finger (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-lea-2026-district-judge-retain-div1-finger-david",
+          "name": "David E Finger",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+    },
+    {
+      "office": "District Court Judge retention, Fifth Judicial District, Division 7: Michael Harold Stone (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-lea-2026-district-judge-retain-div7-stone-michael",
+          "name": "Michael Harold Stone",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+    },
+    {
+      "office": "District Court Judge retention, Fifth Judicial District, Division 10: Dustin Kelly Hunter (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-lea-2026-district-judge-retain-div10-hunter-dustin",
+          "name": "Dustin Kelly Hunter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Lea County Defense Fund Gross Receipts Tax",
+      "title": "Lea County Defense Fund Gross Receipts Tax",
+      "summary": "Asks whether Lea County should impose a county gross receipts tax of 0.01% (one-hundredth of one percent). The revenue would go to a defense fund to protect and defend against what the ballot calls unconstitutional state government overreach, including actions that infringe on the right to keep and bear arms under the U.S. and New Mexico constitutions.",
+      "yesMeans": "Lea County would impose a 0.01% county gross receipts tax to fund this defense fund.",
+      "noMeans": "Lea County would not impose this 0.01% gross receipts tax.",
+      "source": "https://www.leacounty.gov/DocumentCenter/View/6576/Sample-LEA_PCT009",
+      "moreInfo": "https://www.leacounty.gov/1386/2026-GENERAL-ELECTION-SAMPLE-BALLOTS"
+    }
+  ],
+  "municipalities": {}
+}

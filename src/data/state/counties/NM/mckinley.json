@@ -1,0 +1,176 @@
+{
+  "state": "NM",
+  "county": "McKinley County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-",
+    "https://www.co.mckinley.nm.us/491/2026-General-Election"
+  ],
+  "note": "From the McKinley County Clerk's 2026 General Election Notice of Election, which lists the offices, candidates and questions on the county's ballot. The New Mexico Secretary of State's candidate portal was offline for maintenance on 2026-11-03. Not shown because they depend on where you live: County Commission Districts 1 and 2, U.S. House districts 2 and 3, State House districts 5, 6, 9 and 69, Public Education Commission District 5, and the University of New Mexico Gallup Branch Community College District bond question (up to $10,000,000), which is a special-district question. No countywide question and no City of Gallup contest or question appears on the notice. Statewide races, Supreme Court and Court of Appeals contests and retention, constitutional amendments and state bond questions appear with the New Mexico statewide ballot. Incumbency is marked only for judges standing for retention. Names appear as printed in the notice. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-sheriff-maiorano-james",
+          "name": "James Maiorano, III",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-mckinley-2026-sheriff-shirley-jeremy",
+          "name": "Jeremy S Shirley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "County Assessor",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-assessor-becenti-edward",
+          "name": "Edward Becenti, Jr",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-probate-judge-martinez-monica",
+          "name": "Monica Martinez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "District Court Judge, Eleventh Judicial District, Division 2",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-district-judge-div2-keeler-bradley",
+          "name": "Bradley Lyle Keeler",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "District Court Judge, Eleventh Judicial District, Division 6",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-district-judge-div6-clani-washinawatok-brenna",
+          "name": "Brenna Clani-Washinawatok",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-mckinley-2026-district-judge-div6-decker-brian",
+          "name": "Brian D Decker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "District Court Judge, Eleventh Judicial District, Division 8",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-district-judge-div8-wayne-stephen",
+          "name": "Stephen M Wayne",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "Magistrate Judge, Division 1",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-magistrate-div1-garnenez-rochelle",
+          "name": "Rochelle Garnenez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "Magistrate Judge, Division 2",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-magistrate-div2-yazzie-virginia",
+          "name": "Virginia A Yazzie",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "Magistrate Judge, Division 3",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-magistrate-div3-calderon-raymond",
+          "name": "Raymond D Calderon",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "nm-mckinley-2026-magistrate-div3-hester-steve",
+          "name": "Steve C Hester",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "District Court Judge retention, Eleventh Judicial District, Division 1: Bradford J Dalley (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-district-judge-retain-div1-dalley-bradford",
+          "name": "Bradford J Dalley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "District Court Judge retention, Eleventh Judicial District, Division 4: Curtis R Gurley (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-district-judge-retain-div4-gurley-curtis",
+          "name": "Curtis R Gurley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    },
+    {
+      "office": "District Court Judge retention, Eleventh Judicial District, Division 7: Douglas W Decker (Yes/No vote to retain; 57% Yes needed)",
+      "candidates": [
+        {
+          "key": "nm-mckinley-2026-district-judge-retain-div7-decker-douglas",
+          "name": "Douglas W Decker",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.mckinley.nm.us/DocumentCenter/View/4053/2026-GENERAL-ELECTION-NOTICE-"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

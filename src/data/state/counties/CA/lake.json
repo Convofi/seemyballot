@@ -1,0 +1,179 @@
+{
+  "state": "CA",
+  "county": "Lake County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.lakecountyca.gov/1964/November-3-2026-General-District-Electio",
+    "https://www.lakecountyca.gov/DocumentCenter/View/17329",
+    "https://www.lakecountyca.gov/DocumentCenter/View/17513",
+    "https://www.cityoflakeport.com/elections/index.php",
+    "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+  ],
+  "note": "From the Lake County Registrar of Voters' November 3, 2026 election page, its list of elective offices to be filled, and its posted candidate lists and local measures. No countywide office, Superior Court seat or countywide measure is on the November ballot. First District Court of Appeal retention questions come from the Secretary of State's certified list. Lakeport City Council (two seats, elected citywide) is from the City of Lakeport's official candidate list. Not shown because they depend on where you live: City of Clearlake council and Measure D (Clearlake), Middletown Unified Measure C, school, fire, water and other special district seats, and U.S. House, State Senate and Assembly districts. Statewide races, Supreme Court retention and state propositions are on the California statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Monique Langhorne Wilson? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div1-wilson-monique",
+          "name": "Monique Langhorne Wilson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Charles A. Smiley? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div1-smiley-charles",
+          "name": "Charles A. Smiley",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division One — retain Kathleen M. Banke? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div1-banke-kathleen",
+          "name": "Kathleen M. Banke",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Two — retain Therese M. Stewart? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div2-stewart-therese",
+          "name": "Therese M. Stewart",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Two — retain Tara M. Desautels? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div2-desautels-tara",
+          "name": "Tara M. Desautels",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Ioana Petrou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div3-petrou-ioana",
+          "name": "Ioana Petrou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Three — retain Victor A. Rodriguez? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div3-rodriguez-victor",
+          "name": "Victor A. Rodriguez",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Presiding Justice, Court of Appeal, First District, Division Four — retain Tracie L. Brown? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div4-brown-tracie",
+          "name": "Tracie L. Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Danny Y. Chou? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div5-chou-danny",
+          "name": "Danny Y. Chou",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Mark Simons? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div5-simons-mark",
+          "name": "Mark Simons",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    },
+    {
+      "office": "Associate Justice, Court of Appeal, First District, Division Five — retain Gordon Burns? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ca-lake-2026-coa1-div5-burns-gordon",
+          "name": "Gordon Burns",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Lakeport": {
+      "contests": [
+        {
+          "office": "Lakeport City Council (vote for 2)",
+          "candidates": [
+            {
+              "key": "ca-lake-2026-lakeport-council-disney-brandon",
+              "name": "Brandon Disney",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-lake-2026-lakeport-council-mattina-stacey",
+              "name": "Stacey Mattina",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ca-lake-2026-lakeport-council-porter-carl",
+              "name": "Carl Ross Porter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.lakecountyca.gov/DocumentCenter/View/17513"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

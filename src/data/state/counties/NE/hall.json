@@ -1,0 +1,247 @@
+{
+  "state": "NE",
+  "county": "Hall County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf",
+    "https://www.hallcountyne.gov/Documents/Departments/Election%20Commission/Sample%20Ballots/26GNEHALL_7_PUB.pdf",
+    "https://www.hallcountyne.gov/departments/election_commission/sample_ballots.php"
+  ],
+  "note": "From the Hall County Election Commissioner's 2026 Notice of General Election and sample ballot. Not shown because they depend on where you live: County Commissioner Districts 1, 3, 5 and 7; Legislature Districts 34 and 41 and State Board of Education District 6; Central Community College District 4; Central Platte and Lower Loup NRD, Dawson and Nebraska Public Power District and Educational Service Unit seats; school boards and the Doniphan-Trumbull school bond; Grand Island City Council wards 1-5, Wood River City Council and village boards. Statewide races and measures appear with the Nebraska statewide ballot. Incumbency is marked only for judges standing for retention. Check your sample ballot at hallcountyne.gov.",
+  "contests": [
+    {
+      "office": "Hall County Attorney",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-county-attorney-klein-marty",
+          "name": "Marty Klein",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Clerk",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-county-clerk-conley-marla",
+          "name": "Marla J. Conley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Assessor/Register of Deeds",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-assessor-stanard-darrel",
+          "name": "Darrel L. Stanard",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Treasurer",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-treasurer-verplank-alaina",
+          "name": "Alaina Verplank",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Sheriff",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-sheriff-berlie-josh",
+          "name": "Josh Berlie",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Clerk of the District Court",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-clerk-district-court-poppen-jennifer",
+          "name": "Jennifer Poppen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Surveyor",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-surveyor-peters-scott",
+          "name": "Scott A. Peters",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Airport Authority Board (vote for up to two)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-airport-authority-schmit-reggie",
+          "name": "Reggie Schmit",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ne-hall-2026-airport-authority-victor-timothy",
+          "name": "Timothy Victor",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Hall County Weed Board (vote for up to two)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-weed-board-foster-wayne",
+          "name": "Wayne E. Foster",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ne-hall-2026-weed-board-markham-kelly",
+          "name": "Kelly Markham",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ne-hall-2026-weed-board-binfield-mitchell",
+          "name": "Mitchell S. Binfield",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Dirk V. Block? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-retain-workers-comp-block-dirk",
+          "name": "Dirk V. Block",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "Nebraska Workers' Compensation Court — retain Judge Thomas E. Stine? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-retain-workers-comp-stine-thomas",
+          "name": "Thomas E. Stine",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "District Court, District Nine — retain Judge John H. Marsh? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-retain-district-court-marsh-john",
+          "name": "John H. Marsh",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "District Court, District Nine — retain Judge Patrick M. Lee? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-retain-district-court-lee-patrick",
+          "name": "Patrick M. Lee",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "County Court, District Nine — retain Judge Alfred E. Corey III? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-retain-county-court-corey-alfred",
+          "name": "Alfred E. Corey III",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    },
+    {
+      "office": "County Court, District Nine — retain Judge Bryan S. McQuay? (yes/no retention)",
+      "candidates": [
+        {
+          "key": "ne-hall-2026-retain-county-court-mcquay-bryan",
+          "name": "Bryan S. McQuay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Weed Board Dissolution",
+      "title": "Hall County Weed Board Dissolution",
+      "summary": "Asks whether the Hall County Weed District Board should be dissolved. If it is, the Hall County Board of Commissioners would take over the weed board's duties and authority.",
+      "yesMeans": "The Hall County Weed District Board would be dissolved and the County Board of Commissioners would carry out its duties.",
+      "noMeans": "The Hall County Weed District Board would continue to exist and carry out its duties.",
+      "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf",
+      "moreInfo": "https://www.hallcountyne.gov/Documents/Departments/Election%20Commission/Sample%20Ballots/26GNEHALL_7_PUB.pdf"
+    }
+  ],
+  "municipalities": {
+    "Grand Island": {
+      "contests": [
+        {
+          "office": "Mayor of the City of Grand Island",
+          "candidates": [
+            {
+              "key": "ne-hall-2026-grand-island-mayor-oneill-ryan",
+              "name": "Ryan J. O'Neill",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ne-hall-2026-grand-island-mayor-reed-jimmy",
+              "name": "Jimmy Reed",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.hallcountyne.gov/GN26%20NOTICE%20OF%20GENERAL%20ELECTION%20.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}
