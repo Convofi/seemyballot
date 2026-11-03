@@ -1,0 +1,89 @@
+{
+  "state": "MI",
+  "county": "Clinton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.clinton-county.org/DocumentCenter/View/10054/Candidate-Listing-64",
+    "https://www.clinton-county.org/DocumentCenter/View/10055/unofficial-proposal-list",
+    "https://www.clinton-county.org/DocumentCenter/View/10085/Clinton-County-1132026-proof-ballots"
+  ],
+  "note": "From the Clinton County Clerk's official candidate list (10/5/2026), official proposal list and proof ballots for November 3, 2026. The contests below appear on every Clinton County ballot style (the St. Johns City Commission on every St. Johns ballot). No Clinton County executive or row offices and no Probate Court seat are on this ballot, and there is no countywide proposal and no City of St. Johns proposal. Not shown: County Commissioner districts, State House and Senate districts, Lansing and Montcalm Community College trustees, school board members, other city, village and township offices, and city, township, village, school and library proposals (including the St. Johns Public Schools bond proposal). Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-clinton-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-clinton-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-clinton-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clinton-county.org/DocumentCenter/View/10054/Candidate-Listing-64"
+    },
+    {
+      "office": "Judge of Circuit Court, 29th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-clinton-2026-circuit-inc-schlegel-shannon",
+          "name": "Shannon L.W. Schlegel",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clinton-county.org/DocumentCenter/View/10054/Candidate-Listing-64"
+    },
+    {
+      "office": "Judge of District Court, 65A District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-clinton-2026-district65a-inc-stevens-andrew",
+          "name": "Andrew M. Stevens",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.clinton-county.org/DocumentCenter/View/10054/Candidate-Listing-64"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "St. Johns": {
+      "contests": [
+        {
+          "office": "St. Johns City Commission (4-year term; vote for 2)",
+          "seats": 2,
+          "candidates": [
+            {
+              "key": "mi-clinton-2026-stjohns-commission-hyzer-chris",
+              "name": "Chris Hyzer",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-clinton-2026-stjohns-commission-kudwa-dave",
+              "name": "Dave Kudwa",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.clinton-county.org/DocumentCenter/View/10054/Candidate-Listing-64"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

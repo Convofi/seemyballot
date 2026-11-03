@@ -1,0 +1,147 @@
+{
+  "state": "MI",
+  "county": "Benzie County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.benzieco.net/Nov%203,%202026%20Official%20Candidate%20Listing.pdf",
+    "https://www.benzieco.net/Nov%203%202026%20Official%20Proposal%20List.pdf",
+    "https://www.benzieco.net/government/county_clerk.php"
+  ],
+  "note": "From the Benzie County Clerk's official candidate list (10/20/2026) and official proposal list for November 3, 2026. No Benzie County executive or row offices, no Probate Court seat and no 85th District Court seat are on this ballot. The Village of Beulah partial-term trustee seat (ending 12/01/2028) has no candidates on the ballot. Not shown: County Commissioner (6th District, partial term), State House and Senate districts, township offices, library boards, school board members, other village offices, and township, village and school proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Benzie County Road Commissioner (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-benzie-2026-roadcomm-rosa-bob",
+          "name": "Bob Rosa",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.benzieco.net/Nov%203,%202026%20Official%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-benzie-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-benzie-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-benzie-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.benzieco.net/Nov%203,%202026%20Official%20Candidate%20Listing.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 19th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-benzie-2026-circuit-inc-thompson-david",
+          "name": "David A. Thompson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.benzieco.net/Nov%203,%202026%20Official%20Candidate%20Listing.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Animal Control Services Program Millage Proposal",
+      "title": "Animal Control Services Program Millage",
+      "summary": "Would raise Benzie County's property tax limit by up to 0.21 mill ($0.21 per $1,000 of taxable value) for five years, 2026 through 2030, to fund the County Animal Control Services Program. If levied in full, it would raise an estimated $423,347 in the first year. Part of the money may be captured by the Frankfort Downtown Development Authority, the Benzie County Brownfield Authority and the Honor Corridor Improvement Authority.",
+      "yesMeans": "Benzie County could levy up to 0.21 mill for animal control services from 2026 through 2030.",
+      "noMeans": "Benzie County could not levy this millage for animal control services.",
+      "source": "https://www.benzieco.net/Nov%203%202026%20Official%20Proposal%20List.pdf"
+    },
+    {
+      "id": "Drug Enforcement Program Operating Millage Proposal",
+      "title": "Drug Enforcement Program Operating Millage",
+      "summary": "Would continue a property tax previously approved by Benzie County voters, raising the tax limit by up to 0.1 mill ($0.10 per $1,000 of taxable value) for five years, 2026 through 2030. The money funds the Traverse Narcotics Team and other drug enforcement and awareness programs that include Benzie County. If levied in full, it would raise an estimated $201,594 in the first year, part of which local development authorities may capture.",
+      "yesMeans": "Benzie County could continue to levy up to 0.1 mill for drug enforcement programs from 2026 through 2030.",
+      "noMeans": "Benzie County could not levy this millage for drug enforcement programs.",
+      "source": "https://www.benzieco.net/Nov%203%202026%20Official%20Proposal%20List.pdf"
+    },
+    {
+      "id": "Separate Tax Limitation Proposal",
+      "title": "Separate Tax Limitation",
+      "summary": "Would set separate property tax limits for 2027 and 2028, or until voters change them, for the County of Benzie and the townships and intermediate school district in the county. The total could not exceed 4.95 mills: 3.77 mills for the county, 1.00 mill for townships and 0.18 mill for the intermediate school district.",
+      "yesMeans": "Separate tax limits totaling 4.95 mills would be set for the county, townships and intermediate school district for 2027-2028.",
+      "noMeans": "These separate tax limits would not be set.",
+      "source": "https://www.benzieco.net/Nov%203%202026%20Official%20Proposal%20List.pdf"
+    }
+  ],
+  "municipalities": {
+    "Beulah": {
+      "contests": [
+        {
+          "office": "Village of Beulah President (2-year term)",
+          "candidates": [
+            {
+              "key": "mi-benzie-2026-beulah-president-vandeperre-jeri",
+              "name": "Jeri L. VanDePerre",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.benzieco.net/Nov%203,%202026%20Official%20Candidate%20Listing.pdf"
+        },
+        {
+          "office": "Village of Beulah Trustee (4-year term; vote for 3)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "mi-benzie-2026-beulah-trustee-hook-dan",
+              "name": "Dan Hook",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-benzie-2026-beulah-trustee-mclean-jennifer",
+              "name": "Jennifer L. McLean",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-benzie-2026-beulah-trustee-popour-edward",
+              "name": "Edward Popour",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-benzie-2026-beulah-trustee-szwed-mitchell",
+              "name": "Mitchell Szwed",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.benzieco.net/Nov%203,%202026%20Official%20Candidate%20Listing.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Village of Beulah Proposal",
+          "title": "Reduction in the Number of Village Council Trustees",
+          "summary": "Asks voters to approve Ordinance No. 2026-004, adopted May 26, 2026, which reduces the number of Village of Beulah Council trustees from six to four.",
+          "yesMeans": "The Village of Beulah Council would have four trustees instead of six.",
+          "noMeans": "The Village of Beulah Council would keep six trustees.",
+          "source": "https://www.benzieco.net/Nov%203%202026%20Official%20Proposal%20List.pdf"
+        }
+      ]
+    }
+  }
+}

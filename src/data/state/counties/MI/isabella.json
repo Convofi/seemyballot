@@ -1,0 +1,139 @@
+{
+  "state": "MI",
+  "county": "Isabella County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.isabellacounty.org/wp-content/uploads/2026/09/Isabella-November-2026-PROOFS-FINAL-APPROVED.pdf",
+    "https://www.isabellacounty.org/departments/county-clerk/services/general-election-information/"
+  ],
+  "note": "From the Isabella County Clerk's final approved proof ballots for November 3, 2026. The county contests below appear on all 58 Isabella County ballot styles, and the City of Mt. Pleasant items on every Mt. Pleasant ballot. Incumbency is marked only for the district judge, whose ballot line says Incumbent Position; the county's ballots do not mark incumbents for other offices. No Isabella County executive or row offices, no Probate Court seat, no 21st Circuit Court seat and no countywide proposal are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, Mid Michigan College trustees and the Mid Michigan College charter millage proposal (the college district does not cover all of the county), school board members, township and village offices, and township, village and school proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Isabella County Road Commissioner",
+      "candidates": [
+        {
+          "key": "mi-isabella-2026-roadcomm-livermore-dave",
+          "name": "Dave Livermore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.isabellacounty.org/wp-content/uploads/2026/09/Isabella-November-2026-PROOFS-FINAL-APPROVED.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-isabella-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-isabella-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-isabella-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.isabellacounty.org/wp-content/uploads/2026/09/Isabella-November-2026-PROOFS-FINAL-APPROVED.pdf"
+    },
+    {
+      "office": "Judge of District Court, 76th District, Incumbent Position",
+      "candidates": [
+        {
+          "key": "mi-isabella-2026-district76-inc-janes-eric",
+          "name": "Eric R. Janes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.isabellacounty.org/wp-content/uploads/2026/09/Isabella-November-2026-PROOFS-FINAL-APPROVED.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Mount Pleasant": {
+      "contests": [
+        {
+          "office": "Mt. Pleasant City Commissioner (vote for 4)",
+          "seats": 4,
+          "candidates": [
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-alsager-mary",
+              "name": "Mary L. Alsager",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-bailey-justin",
+              "name": "Justin Bailey",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-garada-firras",
+              "name": "Firras Garada",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-hahn-sue",
+              "name": "Sue Hahn",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-kostrzewa-michael",
+              "name": "Michael C. Kostrzewa",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-rollins-grace",
+              "name": "Grace Rollins",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-skalitzky-ryon",
+              "name": "Ryon Skalitzky",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-triezenberg-seth",
+              "name": "Seth Triezenberg",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-isabella-2026-mtpleasant-commission-wingard-boomer",
+              "name": "Boomer Wingard",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.isabellacounty.org/wp-content/uploads/2026/09/Isabella-November-2026-PROOFS-FINAL-APPROVED.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Proposed Easement for Consumers Energy on City Park Property and Property Within the Chippewa River Corridor",
+          "title": "Consumers Energy Easement on City Park Property",
+          "summary": "Asks whether the City of Mt. Pleasant may grant Consumers Energy a permanent utility easement, under Article II, Sections 16(E) and 16(F) of the City Charter, to relocate, build, operate and maintain electric lines on a single line of poles along the north side of West Broadway Avenue. The easement includes vegetation management rights reaching about 80 feet into the southern parts of Nelson Park and Riverside Cemetery and 40 feet into the northern part of Mill Pond Park.",
+          "yesMeans": "The city could grant Consumers Energy the permanent easement on this park and river corridor property.",
+          "noMeans": "The city could not grant this easement.",
+          "source": "https://www.isabellacounty.org/wp-content/uploads/2026/09/Isabella-November-2026-PROOFS-FINAL-APPROVED.pdf"
+        }
+      ]
+    }
+  }
+}

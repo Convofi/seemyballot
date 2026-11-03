@@ -1,0 +1,70 @@
+{
+  "state": "MI",
+  "county": "Livingston County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://milivcounty.gov/wp-content/uploads/Candidate-Filings-November-2026.pdf",
+    "https://milivcounty.gov/wp-content/uploads/City-of-Howell-Precinct-1.pdf",
+    "https://milivcounty.gov/elections/polling-locations/"
+  ],
+  "note": "From the Livingston County Clerk's official candidate list (updated 10/26/2026) and the county's precinct sample ballots. No Livingston County executive or row offices, no probate judge race and no countywide proposals are on this ballot; the City of Howell sample ballots carry no city offices or city proposals. The 53rd District Court judge appears on sample ballots across the county. Not shown: State House and Senate districts, community college trustees (Lansing, Mott, Oakland), school board members and school proposals (including Howell Public Schools), village and township offices, and township, village and library proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-livingston-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-livingston-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-livingston-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://milivcounty.gov/wp-content/uploads/Candidate-Filings-November-2026.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 44th Circuit, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-livingston-2026-circuit-noninc-lyke-kristina",
+          "name": "Kristina S. Lyke",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-livingston-2026-circuit-noninc-banfield-andrea",
+          "name": "Andrea Banfield",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://milivcounty.gov/wp-content/uploads/Candidate-Filings-November-2026.pdf"
+    },
+    {
+      "office": "Judge of District Court, 53rd District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-livingston-2026-district53-inc-bain-daniel",
+          "name": "Daniel Bain",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://milivcounty.gov/wp-content/uploads/Candidate-Filings-November-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

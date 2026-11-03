@@ -1,0 +1,173 @@
+{
+  "state": "MI",
+  "county": "Saginaw County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.saginawcounty.com/media/vw2j3hj5/unofficial-saginaw-county-november-2026-candidate-list.pdf",
+    "https://www.saginawcounty.com/media/bfbnpj0n/november-3-2026-saginaw-county-notice-of-election-v1.pdf",
+    "https://www.saginawcounty.com/departments/county-clerk/elections/2026-november-general-election/"
+  ],
+  "note": "From the Saginaw County Clerk's candidate and proposal listing (which the county titles unofficial, updated 10/31/2026) and the county's official Notice of Election. No Saginaw County executive or row offices are on this ballot. Not shown: 70th District Court, 2nd Division judges (Elian E.H. Fichtner and A.T. Frank, incumbents) because the division does not cover the whole county; State House and Senate districts; Delta College trustees (elected by county seat); school board members; Frankenmuth, Zilwaukee and other city, village and township offices; River Rapids District Library and township library boards; and village, township, school and intermediate school district proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-saginaw-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-saginaw-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-saginaw-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saginawcounty.com/media/vw2j3hj5/unofficial-saginaw-county-november-2026-candidate-list.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 10th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-saginaw-2026-circuit-inc-trice-manvel",
+          "name": "Manvel Trice III",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saginawcounty.com/media/vw2j3hj5/unofficial-saginaw-county-november-2026-candidate-list.pdf"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-saginaw-2026-probate-inc-meter-barbara",
+          "name": "Barbara L. Meter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.saginawcounty.com/media/vw2j3hj5/unofficial-saginaw-county-november-2026-candidate-list.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Saginaw County Proposal 26-4",
+      "title": "Saginaw County 9-1-1 Authority Millage Renewal Proposal",
+      "summary": "Would renew Saginaw County's property tax of up to 0.28 mill ($0.28 per $1,000 of taxable value) for 2028 through 2037. The money pays for replacing outdated fire, police and emergency medical radio equipment and other 9-1-1 Central Dispatch equipment, and for continuing operations of the Saginaw County 9-1-1 Authority. The first-year levy is estimated to raise $2,031,015.",
+      "yesMeans": "Saginaw County would continue levying up to 0.28 mill for 9-1-1 dispatch for 2028 through 2037.",
+      "noMeans": "The 9-1-1 Authority millage would not be renewed.",
+      "source": "https://www.saginawcounty.com/media/bfbnpj0n/november-3-2026-saginaw-county-notice-of-election-v1.pdf"
+    }
+  ],
+  "municipalities": {
+    "Saginaw": {
+      "contests": [
+        {
+          "office": "City Council Member (4-year term)",
+          "seats": 4,
+          "candidates": [
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-balls-michael",
+              "name": "Michael D. Balls",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-barnett-jeanette",
+              "name": "Jeanette Barnett",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-garcia-priscilla",
+              "name": "Priscilla Garcia",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-hammond-carly",
+              "name": "Carly Rose Hammond",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-johnson-bob",
+              "name": "Bob Johnson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-moore-brenda",
+              "name": "Brenda F. Moore",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-price-melvin",
+              "name": "Melvin Price Jr.",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-sledge-charles",
+              "name": "Charles Anthony Sledge",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-weidinger-rachel",
+              "name": "Rachel Weidinger",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-full-young-tobias",
+              "name": "Tobias Young",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.saginawcounty.com/media/vw2j3hj5/unofficial-saginaw-county-november-2026-candidate-list.pdf"
+        },
+        {
+          "office": "City Council Member (partial term ending 12/1/2028)",
+          "candidates": [
+            {
+              "key": "mi-saginaw-2026-saginaw-council-partial-allen-charles",
+              "name": "Charles Allen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-saginaw-2026-saginaw-council-partial-olivarez-maximilian",
+              "name": "Maximilian Olivarez",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.saginawcounty.com/media/vw2j3hj5/unofficial-saginaw-county-november-2026-candidate-list.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Saginaw Proposal 1",
+          "title": "Proposed City Charter Amendment to Section 45",
+          "summary": "Section 45 of the Saginaw city charter limits the city property tax rate to the lesser of 7.5 mills or the rate needed to raise the same revenue the city received in fiscal year 1978-1979 ($3,828,778), and allows a temporary 3 mill additional tax for a declared emergency. The amendment would remove the cap on the total dollar amount of revenue that may be levied, while keeping the other provisions, including the number of mills that may be levied.",
+          "yesMeans": "The charter's cap on the total dollar amount of property tax revenue would be removed; the millage limits would stay.",
+          "noMeans": "The charter's limit tied to 1978-1979 revenue would remain in place.",
+          "source": "https://www.saginawcounty.com/media/bfbnpj0n/november-3-2026-saginaw-county-notice-of-election-v1.pdf"
+        }
+      ]
+    }
+  }
+}

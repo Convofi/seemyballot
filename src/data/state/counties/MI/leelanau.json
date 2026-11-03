@@ -1,0 +1,130 @@
+{
+  "state": "MI",
+  "county": "Leelanau County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.leelanau.gov/Documents/CLERK/Elections/NOTICE%20OF%20REGISTRATION%20NOVEMBER%202026.pdf",
+    "https://app.enhancedvoting.com/results/public/leelanau-county-mi/elections/20261103_LeelanauNovember2026General",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.leelanau.gov/departments/clerk/election_results.php"
+  ],
+  "note": "From the Leelanau County Clerk's Notice of Registration for the November 3, 2026 General Election, which lists the offices and proposals on the ballot, and the county's official election results site (linked from the Clerk's election results page), which lists every contest with the number of precincts that vote on it; those below are on all 13 precincts (the Suttons Bay village trustees on the Village of Suttons Bay ballot). Judges are marked incumbent from the Michigan Bureau of Elections candidate report. No Probate Court or 86th District Court seat is on this ballot. Not shown: State House and Senate districts, township offices, other village offices, school board members, and township, village and City of Traverse City proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Leelanau County Road Commissioner",
+      "candidates": [
+        {
+          "key": "mi-leelanau-2026-roadcomm-black-melvin",
+          "name": "Melvin Black",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://app.enhancedvoting.com/results/public/leelanau-county-mi/elections/20261103_LeelanauNovember2026General"
+    },
+    {
+      "office": "Leelanau County Drain Commissioner (partial term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "mi-leelanau-2026-drain-burns-kristy",
+          "name": "Kristy Anne Burns",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mi-leelanau-2026-drain-lautner-melinda",
+          "name": "Melinda C. Lautner",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mi-leelanau-2026-drain-lodge-tim",
+          "name": "Tim Lodge",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://app.enhancedvoting.com/results/public/leelanau-county-mi/elections/20261103_LeelanauNovember2026General"
+    },
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-leelanau-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-leelanau-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-leelanau-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://app.enhancedvoting.com/results/public/leelanau-county-mi/elections/20261103_LeelanauNovember2026General"
+    },
+    {
+      "office": "Judge of Circuit Court, 13th Circuit, Incumbent Position",
+      "candidates": [
+        {
+          "key": "mi-leelanau-2026-circuit-inc-elsenheimer-kevin",
+          "name": "Kevin A. Elsenheimer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://app.enhancedvoting.com/results/public/leelanau-county-mi/elections/20261103_LeelanauNovember2026General"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Bay Area Transportation Authority Millage Proposal",
+      "title": "Bay Area Transportation Authority Millage Renewal",
+      "summary": "Would let the Bay Area Transportation Authority for Grand Traverse and Leelanau Counties levy up to 0.4589 mill ($0.46 per $1,000 of taxable value) each year for seven years, 2028 through 2034. This renews a 0.4788 mill levy that the Headlee Amendment reduced to 0.4589 mill. The money funds public transportation capital and operating costs and transportation for seniors and people with disabilities, with an estimated $6,041,755 in the first year, part of which local development and brownfield authorities capture.",
+      "yesMeans": "The Bay Area Transportation Authority could continue levying up to 0.4589 mill from 2028 through 2034.",
+      "noMeans": "The Bay Area Transportation Authority could not levy this renewal millage.",
+      "source": "https://www.leelanau.gov/Documents/CLERK/Elections/NOTICE%20OF%20REGISTRATION%20NOVEMBER%202026.pdf",
+      "moreInfo": "https://app.enhancedvoting.com/results/public/leelanau-county-mi/elections/20261103_LeelanauNovember2026General"
+    }
+  ],
+  "municipalities": {
+    "Suttons Bay": {
+      "contests": [
+        {
+          "office": "Village of Suttons Bay Trustee (vote for 3)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "mi-leelanau-2026-suttonsbay-trustee-bahle-karl",
+              "name": "Karl Bahle",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-leelanau-2026-suttonsbay-trustee-hylwa-rich",
+              "name": "Rich Hylwa",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-leelanau-2026-suttonsbay-trustee-newcomb-dillon",
+              "name": "Dillon Newcomb",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://app.enhancedvoting.com/results/public/leelanau-county-mi/elections/20261103_LeelanauNovember2026General"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

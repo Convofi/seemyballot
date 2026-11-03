@@ -1,0 +1,115 @@
+{
+  "state": "MI",
+  "county": "Eaton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302",
+    "https://www.eatoncounty.org/161/Circuit-Court",
+    "https://www.eatoncounty.org/239/Elections",
+    "https://www.eatoncounty.org/DocumentCenter/View/10690/City--Village--Dist-Library-Candidates-Nov-2026",
+    "https://www.eatoncounty.org/DocumentCenter/View/9519/EATRAN-Proposal",
+    "https://www.eatoncounty.org/DocumentCenter/View/10653"
+  ],
+  "note": "Judicial races are from the Michigan Bureau of Elections statewide candidate report (Eaton County is in the 3rd Court of Appeals District under MCL 600.302 and is the 56th Circuit). County proposals and City of Charlotte offices are from the Eaton County Clerk's November 3, 2026 election page and documents. No Eaton County executive or row offices and no probate judge race are on this ballot. Not shown: 56A District Court judges (Adrianne K. Van Langevelde, incumbent, 6-year term; Reid S. Felsing, incumbent, partial term ending 1/1/2029), because the part of the City of Lansing in Eaton County is in Lansing's own district court and the address lookup cannot tell the two apart; County Commissioner districts; State House and Senate districts; Charlotte City Council districts; school board members; Eaton Rapids, Grand Ledge, Olivet, Potterville, village, township and district library offices; and city, township, village, library and school proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-eaton-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-eaton-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 56th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-eaton-2026-circuit-inc-morton-kelly",
+          "name": "Kelly E. Morton",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Eaton County Transportation Authority (EATRAN) Millage Renewal and Restoration Authorization Question",
+      "title": "EATRAN Millage Renewal and Restoration",
+      "summary": "Would renew Eaton County's public transportation tax at 0.2493 mill and restore 0.0007 mill lost to rollbacks, for a total of up to 0.25 mill ($0.25 per $1,000 of taxable value) for 2027 through 2031. The money is for public transportation by the Eaton County Transportation Authority (EATRAN), including service for elderly and disabled riders. The 2027 levy is estimated to raise about $1,309,743, of which about $24,754 may go to local development and brownfield authorities.",
+      "yesMeans": "Eaton County could levy up to 0.25 mill for EATRAN public transportation for 2027 through 2031.",
+      "noMeans": "The EATRAN millage would not be renewed and restored for 2027 through 2031.",
+      "source": "https://www.eatoncounty.org/DocumentCenter/View/9519/EATRAN-Proposal"
+    },
+    {
+      "id": "Local Roads and Streets Preservation and Improvement Millage Proposal",
+      "title": "Local Roads and Streets Preservation and Improvement Millage",
+      "summary": "Would authorize Eaton County to levy a new property tax of up to 1.5 mills ($1.50 per $1,000 of taxable value) for 2026 through 2035. The money would pay for preservation, maintenance, drainage, culvert and bridge repairs and other improvements to paved and gravel county local roads in the townships, including dust control twice a year on gravel roads, and for improving city and village streets. The 2026 levy is estimated to raise $7,843,350, shared among the Eaton County Road Commission and the county's cities and villages, with about $151,612 possibly going to local development and brownfield authorities.",
+      "yesMeans": "Eaton County could levy up to 1.5 mills for local roads and city and village streets for 2026 through 2035.",
+      "noMeans": "The new roads and streets millage would not be levied.",
+      "source": "https://www.eatoncounty.org/DocumentCenter/View/10653"
+    }
+  ],
+  "municipalities": {
+    "Charlotte": {
+      "contests": [
+        {
+          "office": "Mayor (partial term ending 12/1/2028)",
+          "candidates": [
+            {
+              "key": "mi-eaton-2026-charlotte-mayor-chin-joseph",
+              "name": "Joseph Chin Jr",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-eaton-2026-charlotte-mayor-fullerton-kevin",
+              "name": "Kevin Fullerton",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.eatoncounty.org/DocumentCenter/View/10690/City--Village--Dist-Library-Candidates-Nov-2026"
+        },
+        {
+          "office": "Council Member At-Large (4-year term)",
+          "candidates": [
+            {
+              "key": "mi-eaton-2026-charlotte-council-at-large-full-christensen-jeffrey",
+              "name": "Jeffrey A Christensen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.eatoncounty.org/DocumentCenter/View/10690/City--Village--Dist-Library-Candidates-Nov-2026"
+        },
+        {
+          "office": "Council Member At-Large (partial term ending 12/1/2028)",
+          "candidates": [
+            {
+              "key": "mi-eaton-2026-charlotte-council-at-large-partial-brummette-justin",
+              "name": "Justin Brummette",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.eatoncounty.org/DocumentCenter/View/10690/City--Village--Dist-Library-Candidates-Nov-2026"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

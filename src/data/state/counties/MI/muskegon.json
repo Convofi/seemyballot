@@ -1,0 +1,118 @@
+{
+  "state": "MI",
+  "county": "Muskegon County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://co.muskegon.mi.us/DocumentCenter/View/21864",
+    "https://co.muskegon.mi.us/DocumentCenter/View/21865",
+    "https://gis.muskegoncountygis.com/elections/202611/ballots/61-24-02.pdf",
+    "https://co.muskegon.mi.us/1460/Sample-Ballots"
+  ],
+  "note": "From the Muskegon County Clerk's candidate list (titled unofficial, updated 10/31/2026), proposal list and precinct sample ballots. No Muskegon County executive or row offices are on this ballot, and no City of Muskegon offices or proposals appear on the city's sample ballots. The 60th District Court and Muskegon Community College trustee races appear on sample ballots in both the City of Muskegon and Montague. Not shown: County Commissioner districts, State House and Senate districts, school board members (including Muskegon Public Schools), Montague, North Muskegon, Roosevelt Park and other city, village and township offices, and township, village, library and school proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-muskegon-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-muskegon-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://co.muskegon.mi.us/DocumentCenter/View/21864"
+    },
+    {
+      "office": "Judge of Circuit Court, 14th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-muskegon-2026-circuit-inc-hoogstra-kathy",
+          "name": "Kathy Hoogstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://co.muskegon.mi.us/DocumentCenter/View/21864"
+    },
+    {
+      "office": "Judge of District Court, 60th District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-muskegon-2026-district60-inc-hoopes-maria",
+          "name": "Maria Ladas Hoopes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-muskegon-2026-district60-inc-mathes-paula",
+          "name": "Paula Baker Mathes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://co.muskegon.mi.us/DocumentCenter/View/21864"
+    },
+    {
+      "office": "Muskegon Community College Board of Trustees Member (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-muskegon-2026-mcc-trustee-conrad-kelley",
+          "name": "Kelley L. Conrad",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-muskegon-2026-mcc-trustee-cook-shon",
+          "name": "Shon Anne Cook",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-muskegon-2026-mcc-trustee-frye-nancy",
+          "name": "Nancy Frye",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-muskegon-2026-mcc-trustee-helmer-greg",
+          "name": "Greg Helmer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-muskegon-2026-mcc-trustee-moore-kathy",
+          "name": "Kathy Moore",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-muskegon-2026-mcc-trustee-robere-christine",
+          "name": "Christine Jewell Robere",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.muskegon.mi.us/DocumentCenter/View/21864"
+    }
+  ],
+  "measures": [
+    {
+      "id": "County of Muskegon Parks and Recreation Millage Proposal",
+      "title": "Parks and Recreation Millage Proposal",
+      "summary": "Would authorize Muskegon County to levy a new property tax of up to 0.50 mill ($0.50 per $1,000 of taxable value) for 2026 through 2035 to acquire, develop, improve, operate, maintain and preserve parks, recreational facilities, trails, greenways, natural areas and public access sites. Up to 30% of the money may be distributed to local governments in the county for the same purposes. The first-year levy is estimated to raise about $3,625,000, of which about $132,000 may be captured by local development and brownfield authorities.",
+      "yesMeans": "Muskegon County could levy a new tax of up to 0.50 mill for parks and recreation for 2026 through 2035.",
+      "noMeans": "The new parks and recreation millage would not be levied.",
+      "source": "https://co.muskegon.mi.us/DocumentCenter/View/21865"
+    }
+  ],
+  "municipalities": {}
+}

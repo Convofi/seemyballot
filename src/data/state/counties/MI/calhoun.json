@@ -1,0 +1,168 @@
+{
+  "state": "MI",
+  "county": "Calhoun County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://elections.calhouncountymi.gov/November2026/",
+    "https://www.calhouncountymi.gov/departments/clerk_and_register_of_deeds/elections.php",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-8118"
+  ],
+  "note": "Contests and candidates are from Calhoun County's official election results site, set up for the November 3, 2026 election before results, which lists every contest on Calhoun ballots. The 10th District Court covers all of Calhoun County (MCL 600.8118). No countywide proposals and no City of Battle Creek proposals are on this ballot, and there is no probate judge race. Not shown: Kellogg and Kalamazoo Valley Community College trustees (their districts do not cover the whole county), County Commissioner districts, State House and Senate districts, Battle Creek City Commissioner wards (1 to 5), school board members (including Battle Creek Public Schools), Albion, Marshall and Springfield city offices, village and township offices and library boards, and city, village and school proposals outside Battle Creek. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "County Treasurer (partial term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "mi-calhoun-2026-treasurer-spurr-nat",
+          "name": "Nat Spurr",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mi-calhoun-2026-treasurer-weaver-melinda",
+          "name": "Melinda S. Weaver",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.calhouncountymi.gov/November2026/"
+    },
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-calhoun-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-calhoun-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.calhouncountymi.gov/November2026/"
+    },
+    {
+      "office": "Judge of Circuit Court, 37th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-calhoun-2026-circuit-inc-lincoln-sarah",
+          "name": "Sarah S. Lincoln",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.calhouncountymi.gov/November2026/"
+    },
+    {
+      "office": "Judge of District Court, 10th District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-calhoun-2026-district10-inc-beardslee-paul",
+          "name": "Paul K. Beardslee",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-calhoun-2026-district10-inc-richardson-michelle",
+          "name": "Michelle L. Richardson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://elections.calhouncountymi.gov/November2026/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Battle Creek": {
+      "contests": [
+        {
+          "office": "Mayor",
+          "candidates": [
+            {
+              "key": "mi-calhoun-2026-battle-creek-mayor-behnke-mark",
+              "name": "Mark A. Behnke",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-mayor-gray-lynn",
+              "name": "Lynn Ward Gray",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-mayor-smith-tino",
+              "name": "Tino W. Smith",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://elections.calhouncountymi.gov/November2026/"
+        },
+        {
+          "office": "City Commissioner at Large",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-bredehoft-jackson",
+              "name": "Jackson D. Bredehoft",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-davenport-carole",
+              "name": "Carole L. Davenport",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-fullerton-connie",
+              "name": "Connie Lowe Fullerton",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-harris-joe",
+              "name": "Joe Harris",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-herring-boonikka",
+              "name": "Boonikka M. Herring",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-katsarsky-smith-paige",
+              "name": "Paige Katsarsky-Smith",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-smith-autumn",
+              "name": "Autumn Smith",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-calhoun-2026-battle-creek-commissioner-at-large-sofia-sherry",
+              "name": "Sherry L. Sofia",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://elections.calhouncountymi.gov/November2026/"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "state": "MI",
+  "county": "Emmet County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://results.enr.clarityelections.com/MI/Emmet/127403/",
+    "https://www.emmetcounty.org/government/elections.php",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+  ],
+  "note": "Contests are from Emmet County's official election results site for November 3, 2026 (linked from the County Clerk's elections page), which lists every contest with the number of precincts that vote on it; those below are on all 22 Emmet County precincts (the Petoskey mayor on all 4 Petoskey precincts). Judges are marked incumbent from the Michigan Bureau of Elections candidate report. North Central Michigan College and Char-Em ISD trustees are on every Emmet County ballot. Not shown: the North Central Michigan College Millage Renewal Proposal, which is on every ballot, because its official ballot language was not available online from the county; County Commissioner districts; State House and Senate districts; Petoskey City Council wards 1 and 3; school board members; township, other city and village offices; and township, library and school proposals. No Emmet County executive or row offices, no Probate Court seat and no 57th Circuit Court seat are on this ballot. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-emmet-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-emmet-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-emmet-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Emmet/127403/"
+    },
+    {
+      "office": "Judge of District Court, 90th District, Incumbent Position",
+      "candidates": [
+        {
+          "key": "mi-emmet-2026-district90-inc-lasher-angela",
+          "name": "Angela J. Lasher",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Emmet/127403/"
+    },
+    {
+      "office": "North Central Michigan College Board of Trustees Member (vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-emmet-2026-ncmc-trustee-adams-thomas",
+          "name": "Thomas S. Adams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-emmet-2026-ncmc-trustee-kromm-jason",
+          "name": "Jason D. Kromm",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-emmet-2026-ncmc-trustee-pretty-keith",
+          "name": "Keith A. Pretty",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-emmet-2026-ncmc-trustee-sommers-mark",
+          "name": "Mark E. Sommers",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-emmet-2026-ncmc-trustee-wong-traci",
+          "name": "Traci Wong",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Emmet/127403/"
+    },
+    {
+      "office": "Char-Em ISD Board of Education Trustee (vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-emmet-2026-charem-isd-jason-mary",
+          "name": "Mary Jason",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-emmet-2026-charem-isd-shooks-greg",
+          "name": "Greg Shooks",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-emmet-2026-charem-isd-wonnacott-shawn",
+          "name": "Shawn R. Wonnacott",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://results.enr.clarityelections.com/MI/Emmet/127403/"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Petoskey": {
+      "contests": [
+        {
+          "office": "Mayor, City of Petoskey",
+          "candidates": [
+            {
+              "key": "mi-emmet-2026-petoskey-mayor-murphy-john",
+              "name": "John Murphy",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://results.enr.clarityelections.com/MI/Emmet/127403/"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

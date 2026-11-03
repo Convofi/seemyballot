@@ -1,0 +1,106 @@
+{
+  "state": "MI",
+  "county": "Midland County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://midlandcountymi.gov/corecode/uploads/document6/uploaded_pdfs/corecode/November%202026%20For%20Web_1342.pdf",
+    "https://midlandcountymi.gov/clerk-elections",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+  ],
+  "note": "From the Midland County Clerk's November 3, 2026 ballots; each contest below appears on every Midland County ballot style. Judges are marked incumbent from the Michigan Bureau of Elections candidate report. Delta College trustees are elected district-wide, so every Midland County voter votes on the Bay County, Midland County and Saginaw County seats. No Midland County executive or row offices, no Probate Court seat and no countywide proposal are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, Midland County ESA board (not on every ballot), City of Midland Council wards, school board members, township offices, and school and local proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-midland-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-midland-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-midland-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://midlandcountymi.gov/corecode/uploads/document6/uploaded_pdfs/corecode/November%202026%20For%20Web_1342.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 42nd Circuit, Incumbent Position",
+      "candidates": [
+        {
+          "key": "mi-midland-2026-circuit-inc-beale-michael",
+          "name": "Michael J. Beale",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://midlandcountymi.gov/corecode/uploads/document6/uploaded_pdfs/corecode/November%202026%20For%20Web_1342.pdf"
+    },
+    {
+      "office": "Judge of District Court, 75th District, Incumbent Position",
+      "candidates": [
+        {
+          "key": "mi-midland-2026-district75-inc-carpenter-michael",
+          "name": "Michael D. Carpenter",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://midlandcountymi.gov/corecode/uploads/document6/uploaded_pdfs/corecode/November%202026%20For%20Web_1342.pdf"
+    },
+    {
+      "office": "Delta College Board of Trustees Member, Bay County seat",
+      "candidates": [
+        {
+          "key": "mi-midland-2026-delta-bay-middleton-diane",
+          "name": "Diane Marie Middleton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://midlandcountymi.gov/corecode/uploads/document6/uploaded_pdfs/corecode/November%202026%20For%20Web_1342.pdf"
+    },
+    {
+      "office": "Delta College Board of Trustees Member, Midland County seat",
+      "candidates": [
+        {
+          "key": "mi-midland-2026-delta-midland-moultrup-chris",
+          "name": "Chris Moultrup",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://midlandcountymi.gov/corecode/uploads/document6/uploaded_pdfs/corecode/November%202026%20For%20Web_1342.pdf"
+    },
+    {
+      "office": "Delta College Board of Trustees Member, Saginaw County seat",
+      "candidates": [
+        {
+          "key": "mi-midland-2026-delta-saginaw-baldwin-arshen",
+          "name": "Arshen Baldwin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-midland-2026-delta-saginaw-azelton-bill",
+          "name": "Bill Azelton",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://midlandcountymi.gov/corecode/uploads/document6/uploaded_pdfs/corecode/November%202026%20For%20Web_1342.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

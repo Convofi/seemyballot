@@ -1,0 +1,106 @@
+{
+  "state": "MI",
+  "county": "Monroe County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.monroe.mi.us/DocumentCenter/View/6219",
+    "https://www.co.monroe.mi.us/DocumentCenter/View/6215",
+    "https://www.co.monroe.mi.us/409/Elections"
+  ],
+  "note": "From the Monroe County Clerk's unofficial general election candidate list (updated 9/1/2026) and ballot proposal list. Monroe County is in the 1st Court of Appeals District. No countywide proposals are on this ballot, and the county's lists include no City of Monroe offices or proposals. Not shown: County Commissioner districts, State House and Senate districts, school board members, Luna Pier, Milan, village and township offices, and township, village and school proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Drain Commissioner (partial term expiring 12/01/2028)",
+      "candidates": [
+        {
+          "key": "mi-monroe-2026-drain-partial-morse-jenna",
+          "name": "Jenna Morse",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.monroe.mi.us/DocumentCenter/View/6219"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-monroe-2026-app1-inc-bazzi-mariam",
+          "name": "Mariam Saad Bazzi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-monroe-2026-app1-inc-letica-anica",
+          "name": "Anica Letica",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-monroe-2026-app1-inc-murray-christopher",
+          "name": "Christopher M. Murray",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.monroe.mi.us/DocumentCenter/View/6219"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-monroe-2026-app1-partial-lievense-andrew",
+          "name": "Andrew J. Lievense",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.monroe.mi.us/DocumentCenter/View/6219"
+    },
+    {
+      "office": "Judge of Circuit Court, 38th Circuit, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-monroe-2026-circuit-noninc-beaudry-lauren",
+          "name": "Lauren K. Beaudry",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-monroe-2026-circuit-noninc-zagorski-maria",
+          "name": "Maria Zagorski",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.monroe.mi.us/DocumentCenter/View/6219"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-monroe-2026-probate-inc-sweeney-cheryl",
+          "name": "Cheryl R. Sweeney",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.monroe.mi.us/DocumentCenter/View/6219"
+    },
+    {
+      "office": "Judge of District Court, 1st District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-monroe-2026-district1-inc-brown-michael",
+          "name": "Michael Brown",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.monroe.mi.us/DocumentCenter/View/6219"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,139 @@
+{
+  "state": "MI",
+  "county": "Grand Traverse County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates",
+    "https://www.gtcountymi.gov/DocumentCenter/View/25821/2026-PROPOSALS",
+    "https://www.gtcountymi.gov/256/Elections",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-514"
+  ],
+  "note": "Local offices and proposals are from the Grand Traverse County Clerk's November 3, 2026 candidate and proposal list; judicial races are from the Michigan Bureau of Elections statewide candidate report (Grand Traverse County is in the 4th Court of Appeals District under MCL 600.302 and the 13th Circuit under MCL 600.514). No Grand Traverse County executive or row offices, no probate or district judge race, and no Traverse City offices are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, school board members (Traverse City Area and Kingsley Area Public Schools), township offices and the Peninsula Township Library Board, Fife Lake and Kingsley village offices, and township proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-grand-traverse-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-grand-traverse-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-grand-traverse-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 13th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-grand-traverse-2026-circuit-inc-elsenheimer-kevin",
+          "name": "Kevin A. Elsenheimer",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Northwestern Michigan College Board Member",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-grand-traverse-2026-nmc-full-warner-ken",
+          "name": "Ken Warner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-grand-traverse-2026-nmc-full-horne-pam",
+          "name": "Pam Horne",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-grand-traverse-2026-nmc-full-lundquist-jody",
+          "name": "Jody Lundquist",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates"
+    },
+    {
+      "office": "Northwestern Michigan College Board Member (partial term ending 12/31/2028)",
+      "candidates": [
+        {
+          "key": "mi-grand-traverse-2026-nmc-partial-nittolo-holly",
+          "name": "Holly Hack Nittolo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Bay Area Transportation Authority Millage Proposal",
+      "title": "Bay Area Transportation Authority Millage Proposal",
+      "summary": "Would renew the Bay Area Transportation Authority's property tax for Grand Traverse and Leelanau Counties at up to 0.4589 mill (about $0.46 per $1,000 of taxable value) for 2028 through 2034. The original 0.4788 mill was reduced to 0.4589 mill by the Headlee Amendment. The money funds public transportation capital and operating costs and transportation services for seniors and people with disabilities; first-year revenue is estimated at about $6,041,755, part of which goes to local development and brownfield authorities.",
+      "yesMeans": "BATA could keep levying up to 0.4589 mill for public transportation for 2028 through 2034.",
+      "noMeans": "The BATA millage would not be renewed for 2028 through 2034.",
+      "source": "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates"
+    },
+    {
+      "id": "911 Public Safety Call Answering and Dispatch Services System Surcharge Ballot Proposal",
+      "title": "911 Dispatch Services System Surcharge",
+      "summary": "Would authorize Grand Traverse County to charge landline, wireless and internet phone service users in the county up to $3.00 per month per device from July 1, 2027 through June 30, 2037. The money may be used only for facility, equipment, maintenance and operating costs of the county's 911 call answering and dispatch services. The current charge of $2.50 could rise by up to $0.50 per device per month.",
+      "yesMeans": "Grand Traverse County could charge up to $3.00 per device per month for 911 services from July 2027 through June 2037.",
+      "noMeans": "The county would not be authorized to charge up to $3.00 per month for 911 services for that period.",
+      "source": "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates"
+    },
+    {
+      "id": "Renewal and Restoration Proposal for the Grand Traverse Conservation District Millage",
+      "title": "Grand Traverse Conservation District Millage Renewal and Restoration",
+      "summary": "Would renew the Grand Traverse Conservation District tax, now 0.0932 mill after rollbacks, and restore it to the original 0.1 mill ($0.10 per $1,000 of taxable value) for 2026 through 2035. The money supports district operations, including help to landowners and farmers to protect natural resources, soil and water, invasive species control, Boardman-Ottaway River restoration and education at the Boardman River Nature Center. It is estimated to raise $871,492 in 2026, part of which may be captured by local development and brownfield authorities.",
+      "yesMeans": "Grand Traverse County would levy up to 0.1 mill for the Conservation District for 2026 through 2035.",
+      "noMeans": "The Conservation District millage would not be renewed and restored.",
+      "source": "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates"
+    },
+    {
+      "id": "Grand Traverse County Trails Millage",
+      "title": "Grand Traverse County Trails Millage",
+      "summary": "Would authorize Grand Traverse County to levy a new tax of up to 0.3 mill ($0.30 per $1,000 of taxable value) for 2026 through 2031. The money would pay to maintain, develop, improve, administer and expand recreation and transportation trails in the county. It is estimated to raise $2,635,012 in 2026, part of which may be captured by local development and brownfield authorities.",
+      "yesMeans": "Grand Traverse County could levy a new tax of up to 0.3 mill for trails for 2026 through 2031.",
+      "noMeans": "The new trails millage would not be levied.",
+      "source": "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates"
+    }
+  ],
+  "municipalities": {
+    "Traverse City": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City Proposal 1",
+          "title": "Traverse City Downtown Development Authority TIF Plan Amendment and Extension",
+          "summary": "The Traverse City charter requires voter approval before the city creates, amends or extends a tax increment financing (TIF) plan. This asks whether the Downtown Development Authority's Infrastructure First Development and TIF Plan should be amended and extended for 20 years, from January 1, 2028 through December 31, 2047. The district boundaries would stay the same, with an estimated total capture of $139,959,327.",
+          "yesMeans": "The Downtown Development Authority's TIF plan would be amended and extended through December 31, 2047.",
+          "noMeans": "The TIF plan would not be amended and extended.",
+          "source": "https://www.gtcountymi.gov/DocumentCenter/View/25783/General-Election-2026-Candidates"
+        }
+      ]
+    }
+  }
+}

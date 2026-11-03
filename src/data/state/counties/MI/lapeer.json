@@ -1,0 +1,71 @@
+{
+  "state": "MI",
+  "county": "Lapeer County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-541",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-8136"
+  ],
+  "note": "Judicial races are from the Michigan Bureau of Elections statewide candidate report. Under state law Lapeer County is in the 4th Court of Appeals District (MCL 600.302), is the 40th Judicial Circuit (MCL 600.541) and is the whole 71A District Court district (MCL 600.8136). The Lapeer County Clerk's website posts no November 2026 candidate or proposal list, so county offices, countywide proposals and City of Lapeer items could not be checked and may be missing. Not shown: County Commissioner districts, State House and Senate districts, school board members, city, village and township offices, and city, township, village, library and school proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-lapeer-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-lapeer-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-lapeer-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 40th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-lapeer-2026-circuit-inc-hodges-mike",
+          "name": "Mike Hodges",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 71A District, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-lapeer-2026-district71a-noninc-richardson-david",
+          "name": "David N. Richardson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-lapeer-2026-district71a-noninc-salayko-maureen",
+          "name": "Maureen Flanigan Salayko",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

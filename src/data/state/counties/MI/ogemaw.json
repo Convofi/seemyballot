@@ -1,0 +1,130 @@
+{
+  "state": "MI",
+  "county": "Ogemaw County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf",
+    "https://www.ocmi.us/elections/",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+  ],
+  "note": "From the Ogemaw County Clerk's final proof ballots for November 3, 2026; each item below appears on all 22 Ogemaw County ballot styles (the West Branch city offices on the City of West Branch ballot). Judges are marked incumbent from the Michigan Bureau of Elections candidate report. No Ogemaw County row offices, no Probate Court seat and no 34th Circuit Court seat are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, Kirtland Community College and C.O.O.R. Intermediate School District board members (not on every ballot), school board members, township and other city offices, and the West Branch-Rose City Area Schools operating millage and other local proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Ogemaw County Road Commissioner",
+      "candidates": [
+        {
+          "key": "mi-ogemaw-2026-roadcomm-sheltrown-van",
+          "name": "Van Sheltrown",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mi-ogemaw-2026-roadcomm-wangler-chad",
+          "name": "Chad Wangler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-ogemaw-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ogemaw-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-ogemaw-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf"
+    },
+    {
+      "office": "Judge of District Court, 82nd District, Incumbent Position",
+      "candidates": [
+        {
+          "key": "mi-ogemaw-2026-district82-inc-beebe-mary",
+          "name": "Mary A. Beebe",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Road Millage Proposal",
+      "title": "Ogemaw County Road Millage",
+      "summary": "Would let Ogemaw County levy up to 1 mill ($1.00 per $1,000 of taxable value) on all taxable property in the county for five years, 2026 through 2030, only for local and primary road and bridge maintenance and repair in the townships, the City of West Branch, the City of Rose City and the Village of Prescott. If levied in full it would raise an estimated $1,238,997 in the first year, paid to the County Road Commission and those cities and village; part may go to the West Branch city and township downtown development authorities.",
+      "yesMeans": "Ogemaw County could levy up to 1 mill for road and bridge maintenance from 2026 through 2030.",
+      "noMeans": "Ogemaw County could not levy this road millage.",
+      "source": "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf"
+    },
+    {
+      "id": "Children Assessment Services Millage Proposal",
+      "title": "Children Assessment Services Millage",
+      "summary": "Would raise Ogemaw County's property tax limit by up to 0.05 mill ($0.05 per $1,000 of taxable value) for five years, 2026 through 2030. The money would provide trauma therapy, medical care, forensic interviews, family advocacy and prevention services for county residents who have experienced physical abuse, sexual abuse or neglect. If levied in full it would raise an estimated $61,949 in the first year; part may go to the West Branch city and township downtown development authorities.",
+      "yesMeans": "Ogemaw County could levy up to 0.05 mill for children's assessment services from 2026 through 2030.",
+      "noMeans": "Ogemaw County could not levy this millage.",
+      "source": "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf"
+    }
+  ],
+  "municipalities": {
+    "West Branch": {
+      "contests": [
+        {
+          "office": "Mayor, City of West Branch",
+          "candidates": [
+            {
+              "key": "mi-ogemaw-2026-westbranch-mayor-frechette-paul",
+              "name": "Paul A. Frechette",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf"
+        },
+        {
+          "office": "City of West Branch Council Member (vote for 3)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "mi-ogemaw-2026-westbranch-council-adair-carol",
+              "name": "Carol Adair",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-ogemaw-2026-westbranch-council-sheltrown-julie",
+              "name": "Julie A. Sheltrown",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-ogemaw-2026-westbranch-council-zimmerman-cathy",
+              "name": "Cathy A. Zimmerman",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.ocmi.us/wp-content/uploads/Ogemaw-November-2026-PROOF-V2D-FINAL.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

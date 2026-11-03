@@ -1,0 +1,97 @@
+{
+  "state": "MI",
+  "county": "Bay County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.baycountymi.gov/Documents/Departments/Clerk/Elections/Election%20Notices/November%203,%202026%20Official%20Candidates%20&%20Proposals.pdf",
+    "https://www.baycountymi.gov/departments/clerk/elections/election_notices.php",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-8139"
+  ],
+  "note": "From the Bay County Clerk's official candidate and proposal list for November 3, 2026 (dated 9/15/2026). The 74th District Court covers all of Bay County (MCL 600.8139). No Bay County executive or row offices and no probate judge race are on this ballot, and Bay City has only ward commissioner races. Not shown: the 75th District Court judge listed for part of the county (Michael D. Carpenter, incumbent); Delta College trustees; County Commissioner districts; State House and Senate districts; Bay City commissioner wards (1, 3, 5, 7, 9); school board members (including Bay City Public Schools); Auburn, Essexville, Pinconning and township offices, the Kawkawlin Township recall and metro water district boards; and school and intermediate school district proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Road Commissioner (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-bay-2026-road-commissioner-jordan-bill",
+          "name": "Bill Jordan",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "mi-bay-2026-road-commissioner-gray-steven",
+          "name": "Steven J. Gray",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.baycountymi.gov/Documents/Departments/Clerk/Elections/Election%20Notices/November%203,%202026%20Official%20Candidates%20&%20Proposals.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-bay-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-bay-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-bay-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.baycountymi.gov/Documents/Departments/Clerk/Elections/Election%20Notices/November%203,%202026%20Official%20Candidates%20&%20Proposals.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 18th Circuit, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-bay-2026-circuit-noninc-huber-michael",
+          "name": "Michael Huber",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.baycountymi.gov/Documents/Departments/Clerk/Elections/Election%20Notices/November%203,%202026%20Official%20Candidates%20&%20Proposals.pdf"
+    },
+    {
+      "office": "Judge of District Court, 74th District, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-bay-2026-district74-noninc-perry-james",
+          "name": "James A. Perry",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-bay-2026-district74-noninc-jean-brian",
+          "name": "Brian H. Jean",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.baycountymi.gov/Documents/Departments/Clerk/Elections/Election%20Notices/November%203,%202026%20Official%20Candidates%20&%20Proposals.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Bay County Proposal: Library Millage Renewal",
+      "title": "Library Millage Renewal",
+      "summary": "Would authorize Bay County to levy up to 1.7399 mills ($1.7399 per $1,000 of taxable value) for 2026 through 2031. It renews a library millage that expired in 2025. The money is for operating, maintaining and equipping the Bay County Library System and other library purposes; the first-year levy is estimated to raise about $6,690,559.",
+      "yesMeans": "Bay County could levy up to 1.7399 mills for the Bay County Library System for 2026 through 2031.",
+      "noMeans": "The library millage, which expired in 2025, would not be renewed.",
+      "source": "https://www.baycountymi.gov/Documents/Departments/Clerk/Elections/Election%20Notices/November%203,%202026%20Official%20Candidates%20&%20Proposals.pdf"
+    }
+  ],
+  "municipalities": {}
+}

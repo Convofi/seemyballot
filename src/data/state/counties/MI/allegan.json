@@ -1,0 +1,83 @@
+{
+  "state": "MI",
+  "county": "Allegan County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-549",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-8127"
+  ],
+  "note": "Judicial races are from the Michigan Bureau of Elections statewide candidate report. Under state law Allegan County is in the 3rd Court of Appeals District (MCL 600.302), is the whole 48th Judicial Circuit (MCL 600.549) and is the whole 57th District Court district (MCL 600.8127). The Allegan County Clerk's website could not be reached, so county offices, countywide proposals and City of Allegan items could not be checked and may be missing. Not shown: County Commissioner districts, State House and Senate districts, community college trustees, school board members, city, village and township offices, and city, township, village, library and school proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-allegan-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-allegan-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 48th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-allegan-2026-circuit-inc-antkoviak-matt",
+          "name": "Matt Antkoviak",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 57th District, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-allegan-2026-district57-noninc-slais-timothy",
+          "name": "Timothy Slais",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-allegan-2026-district57-noninc-wolf-heidi",
+          "name": "Heidi L. Wolf",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 57th District, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-allegan-2026-district57-partial-burnett-christopher",
+          "name": "Christopher E. Burnett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-allegan-2026-district57-partial-siver-tom",
+          "name": "Tom Siver",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

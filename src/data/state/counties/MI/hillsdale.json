@@ -1,0 +1,83 @@
+{
+  "state": "MI",
+  "county": "Hillsdale County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://hillsdalecounty.gov/images/elections/Candidate_Lists/November_3_2026_List_of_Candidates_and_Proposals.pdf",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302"
+  ],
+  "note": "County contests are from the Hillsdale County Clerk's November 3, 2026 list of candidates and proposals (updated 10/24/2026). Court of Appeals candidates are from the Michigan Bureau of Elections candidate report; Hillsdale County is in the Court of Appeals 1st District under MCL 600.302. The 1st Circuit Court incumbent-position seat was removed from the ballot after the incumbent's death. No Hillsdale County executive or row offices, no Probate Court seat and no countywide proposal are on this ballot, and the City of Hillsdale elects its officers in odd years. Not shown: County Commissioner districts, State House and Senate districts, school board members, township and village offices, and township and school proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Hillsdale County Road Commissioner (6-year term; vote for 2)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-hillsdale-2026-roadcomm-leininger-gary",
+          "name": "Gary A. Leininger",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mi-hillsdale-2026-roadcomm-wickham-wesley",
+          "name": "Wesley Wickham",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hillsdalecounty.gov/images/elections/Candidate_Lists/November_3_2026_List_of_Candidates_and_Proposals.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-hillsdale-2026-app1-inc-bazzi-mariam",
+          "name": "Mariam Saad Bazzi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-hillsdale-2026-app1-inc-letica-anica",
+          "name": "Anica Letica",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-hillsdale-2026-app1-inc-murray-christopher",
+          "name": "Christopher M. Murray",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-hillsdale-2026-app1-partial-lievense-andrew",
+          "name": "Andrew J. Lievense",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 2B District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-hillsdale-2026-district2b-inc-stiverson-megan",
+          "name": "Megan R.M. Stiverson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://hillsdalecounty.gov/images/elections/Candidate_Lists/November_3_2026_List_of_Candidates_and_Proposals.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

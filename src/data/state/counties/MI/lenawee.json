@@ -1,0 +1,101 @@
+{
+  "state": "MI",
+  "county": "Lenawee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.electionlenawee.com/app/download/14987887430/Official+Candidate+Listing+November+3%2C+2026+General+Election.pdf?t=1788871974",
+    "https://www.electionlenawee.com/app/download/14987887730/Official+Proposal+Listing+November+3%2C+2026+General.pdf?t=1788871977",
+    "https://www.electionlenawee.com/candidate-proposal-listing/",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-8112"
+  ],
+  "note": "From the Lenawee County Clerk's official candidate listing (dated 9/8/2026) and official proposal listing for November 3, 2026. The 2A District Court covers all of Lenawee County (MCL 600.8112). No Lenawee County executive or row offices, no probate judge race and no countywide proposals are on this ballot, and the lists include no City of Adrian offices or proposals. Not shown: County Commissioner districts, State House and Senate districts, school board members (including Adrian Public Schools), Hudson and Tecumseh city offices, village and township offices, district library boards, and township, village and school proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Road Commissioner (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-lenawee-2026-road-commissioner-full-slusarski-mike",
+          "name": "Mike Slusarski",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.electionlenawee.com/app/download/14987887430/Official+Candidate+Listing+November+3%2C+2026+General+Election.pdf?t=1788871974"
+    },
+    {
+      "office": "Road Commissioner (partial term ending 12/31/2030)",
+      "candidates": [
+        {
+          "key": "mi-lenawee-2026-road-commissioner-partial-brown-todd",
+          "name": "Todd J. Brown",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.electionlenawee.com/app/download/14987887430/Official+Candidate+Listing+November+3%2C+2026+General+Election.pdf?t=1788871974"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-lenawee-2026-app1-inc-bazzi-mariam",
+          "name": "Mariam Saad Bazzi",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-lenawee-2026-app1-inc-letica-anica",
+          "name": "Anica Letica",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-lenawee-2026-app1-inc-murray-christopher",
+          "name": "Christopher M. Murray",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.electionlenawee.com/app/download/14987887430/Official+Candidate+Listing+November+3%2C+2026+General+Election.pdf?t=1788871974"
+    },
+    {
+      "office": "Judge of Court of Appeals, 1st District, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-lenawee-2026-app1-partial-lievense-andrew",
+          "name": "Andrew J. Lievense",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.electionlenawee.com/app/download/14987887430/Official+Candidate+Listing+November+3%2C+2026+General+Election.pdf?t=1788871974"
+    },
+    {
+      "office": "Judge of Circuit Court, 39th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-lenawee-2026-circuit-inc-olsaver-michael",
+          "name": "Michael R. Olsaver",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.electionlenawee.com/app/download/14987887430/Official+Candidate+Listing+November+3%2C+2026+General+Election.pdf?t=1788871974"
+    },
+    {
+      "office": "Judge of District Court, 2A District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-lenawee-2026-district2a-inc-morgan-todd",
+          "name": "Todd M. Morgan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.electionlenawee.com/app/download/14987887430/Official+Candidate+Listing+November+3%2C+2026+General+Election.pdf?t=1788871974"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

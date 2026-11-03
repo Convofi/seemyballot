@@ -1,0 +1,127 @@
+{
+  "state": "MI",
+  "county": "Van Buren County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://app.enhancedvoting.com/results/public/van-buren-county-mi/November2026",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://media.vanburencountymi.gov/2026/08/Website-Candidates-Nov-1.xlsx",
+    "https://media.vanburencountymi.gov/2026/09/Proposals-website.pdf",
+    "https://vanburencountymi.gov/departments/departments-offices/clerk/elections/"
+  ],
+  "note": "Contests are from Van Buren County's official election results site for November 3, 2026, which lists every contest with the number of precincts that vote on it; those below are on all 31 Van Buren County precincts (the Village of Paw Paw contests on both Paw Paw precincts). Judicial candidates and incumbency are from the Michigan Bureau of Elections candidate report; village candidates are from the County Clerk's local candidate list. The County Surveyor contest has no candidates on the ballot. No Van Buren County executive or row offices, no Probate Court seat and no countywide proposal are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, school board members, city, township and other village offices, library boards, and township, village and school proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot for district contests.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term; vote for 2)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-van-buren-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-van-buren-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 36th Circuit, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-van-buren-2026-circuit-noninc-ward-kelly",
+          "name": "Kelly Ward",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 7th District, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-van-buren-2026-district7-noninc-keeley-rachel",
+          "name": "Rachel Keeley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Paw Paw": {
+      "contests": [
+        {
+          "office": "Village of Paw Paw Trustee (4-year term; vote for 3)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-elsner-walter",
+              "name": "Walter Elsner",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-hellwege-edward",
+              "name": "Edward R. Hellwege",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-kolosar-vangalder-kim",
+              "name": "Kim Kolosar-VanGalder",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-pioch-michael",
+              "name": "Michael Pioch",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-wheatley-robert",
+              "name": "Robert Wheatley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-wioskowski-pat",
+              "name": "Pat Wioskowski",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://media.vanburencountymi.gov/2026/08/Website-Candidates-Nov-1.xlsx"
+        },
+        {
+          "office": "Village of Paw Paw Trustee (partial term)",
+          "candidates": [
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-partial-mccarthy-michael",
+              "name": "Michael K. McCarthy",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-van-buren-2026-pawpaw-trustee-partial-craddock-douglas",
+              "name": "Douglas Craddock",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://media.vanburencountymi.gov/2026/08/Website-Candidates-Nov-1.xlsx"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

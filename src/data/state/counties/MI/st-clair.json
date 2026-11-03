@@ -1,0 +1,149 @@
+{
+  "state": "MI",
+  "county": "St. Clair County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://stclaircountyclerk.org/Public/File/november_2026_candidate_list_pdf",
+    "https://stclaircountyclerk.org/Public/File/web_november_2026_proposals_pdf",
+    "https://stclaircountyclerk.org/Page/Elections_2026_Election_Information"
+  ],
+  "note": "From the St. Clair County Clerk's candidate list (titled unofficial) and November 2026 proposal list. No St. Clair County executive or row offices and no countywide proposals are on this ballot, and the proposal list has no City of Port Huron proposals. Not shown: County Commissioner District 5 partial term and other commissioner districts, State House and Senate districts, school board members (including Port Huron Area Schools), Algonac, Marine City, Marysville, Memphis, St. Clair, Yale and other city, village and township offices, and township, city, village, library and school proposals outside Port Huron. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term)",
+      "seats": 3,
+      "candidates": [
+        {
+          "key": "mi-st-clair-2026-app4-inc-kelly-michael",
+          "name": "Michael J. Kelly",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-st-clair-2026-app4-inc-maldonado-allie",
+          "name": "Allie Greenleaf Maldonado",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-st-clair-2026-app4-inc-rick-michelle",
+          "name": "Michelle M. Rick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stclaircountyclerk.org/Public/File/november_2026_candidate_list_pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 31st Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-st-clair-2026-circuit-inc-damman-daniel",
+          "name": "Daniel A. Damman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stclaircountyclerk.org/Public/File/november_2026_candidate_list_pdf"
+    },
+    {
+      "office": "Judge of Probate Court, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-st-clair-2026-probate-inc-deegan-jennifer",
+          "name": "Jennifer Deegan",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stclaircountyclerk.org/Public/File/november_2026_candidate_list_pdf"
+    },
+    {
+      "office": "Judge of District Court, 72nd District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-st-clair-2026-district72-inc-armstrong-mona",
+          "name": "Mona S. Armstrong",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://stclaircountyclerk.org/Public/File/november_2026_candidate_list_pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Port Huron": {
+      "contests": [
+        {
+          "office": "Mayor (2-year term)",
+          "candidates": [
+            {
+              "key": "mi-st-clair-2026-port-huron-mayor-ashford-anita",
+              "name": "Anita R. Ashford",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-st-clair-2026-port-huron-mayor-lewandowski-alan",
+              "name": "Alan Lewandowski",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-st-clair-2026-port-huron-mayor-mcculloch-tim",
+              "name": "Tim McCulloch",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://stclaircountyclerk.org/Public/File/november_2026_candidate_list_pdf"
+        },
+        {
+          "office": "City Council (4-year term)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "mi-st-clair-2026-port-huron-council-belyea-jack",
+              "name": "Jack K. Belyea",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-st-clair-2026-port-huron-council-devoogd-gregg",
+              "name": "Gregg DeVoogd",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-st-clair-2026-port-huron-council-farquhar-brian",
+              "name": "Brian Farquhar",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-st-clair-2026-port-huron-council-mcduffie-amir",
+              "name": "Amir McDuffie",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-st-clair-2026-port-huron-council-mosurak-robert",
+              "name": "Robert L. Mosurak",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-st-clair-2026-port-huron-council-pemberton-jeff",
+              "name": "Jeff Pemberton",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://stclaircountyclerk.org/Public/File/november_2026_candidate_list_pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

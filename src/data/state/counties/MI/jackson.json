@@ -1,0 +1,165 @@
+{
+  "state": "MI",
+  "county": "Jackson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Home/GetObject?ObjectName=mcl-600-302",
+    "https://www.mijackson.org/DocumentCenter/View/23809/Jackson-County-Official-Candidate-List-November-3--2026",
+    "https://www.mijackson.org/DocumentCenter/View/23810/Jackson-County-November-3-2026-Write-In-Memo",
+    "https://www.mijackson.org/DocumentCenter/View/23565/Jackson-County-Central-Dispatch-Proposition-for-9-1-1-System-Funding",
+    "https://www.mijackson.org/DocumentCenter/View/23562/City-of-Jackson-Charter-Amendment-Proposal",
+    "https://www.mijackson.org/358/Election-Candidates-Proposals"
+  ],
+  "note": "Judicial races are from the Michigan Bureau of Elections statewide candidate report (Jackson County is in the 3rd Court of Appeals District under MCL 600.302; the county's courts are the 4th Circuit and the 12th District Court). City of Jackson offices, write-ins and proposals are from the Jackson County Clerk's November 2026 candidate list, write-in memo and proposal documents. No Jackson County executive or row offices and no probate judge race are on this ballot. Not shown: County Commissioner districts, State House and Senate districts, Jackson City Council wards, school board members (including Jackson Public Schools), village and township offices, and township, village and school proposals. Each depends on a district the address lookup cannot resolve. Statewide races, including the Michigan Supreme Court, are on the Michigan statewide list. Check your official sample ballot for district contests and proposals.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "mi-jackson-2026-app3-inc-boonstra-mark",
+          "name": "Mark T. Boonstra",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-jackson-2026-app3-inc-korobkin-daniel",
+          "name": "Daniel S. Korobkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 4th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-jackson-2026-circuit-inc-mcbain-john",
+          "name": "John G. McBain Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 4th Circuit, Incumbent Position (partial term ending 1/1/2031)",
+      "candidates": [
+        {
+          "key": "mi-jackson-2026-circuit-partial-bates-allison",
+          "name": "Allison L. Bates",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 12th District, Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-jackson-2026-district12-inc-hughes-nicole",
+          "name": "Nicole Hughes",
+          "party": "Nonpartisan",
+          "incumbent": true
+        },
+        {
+          "key": "mi-jackson-2026-district12-inc-lyons-george",
+          "name": "George D. Lyons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 12th District, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        {
+          "key": "mi-jackson-2026-district12-noninc-hopkins-jared",
+          "name": "Jared L. Hopkins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "mi-jackson-2026-district12-noninc-mcgee-stormie",
+          "name": "Stormie Rae McGee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Jackson County Central Dispatch Proposition for 9-1-1 System Funding",
+      "title": "Central Dispatch Proposition for 9-1-1 System Funding",
+      "summary": "Jackson County may now charge landline, wireless and internet phone service users in the county up to $1.50 per month for 9-1-1. This would replace that with a charge of up to $3.00 per month starting July 1, 2027, used only for 9-1-1 call answering and dispatch services, including facilities, equipment, maintenance and operating costs. Part of the added money would buy new portable radios for the police and fire first responders dispatched through the system.",
+      "yesMeans": "Jackson County could raise the 9-1-1 charge on phone service users to up to $3.00 per month starting July 1, 2027.",
+      "noMeans": "The 9-1-1 charge would stay at up to $1.50 per month.",
+      "source": "https://www.mijackson.org/DocumentCenter/View/23565/Jackson-County-Central-Dispatch-Proposition-for-9-1-1-System-Funding"
+    }
+  ],
+  "municipalities": {
+    "Jackson": {
+      "contests": [
+        {
+          "office": "Mayor (2-year term)",
+          "candidates": [
+            {
+              "key": "mi-jackson-2026-jackson-mayor-dobies-derek",
+              "name": "Derek J. Dobies",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-jackson-2026-jackson-mayor-wilson-john",
+              "name": "John Wilson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-jackson-2026-jackson-mayor-myers-woodard-trent",
+              "name": "Trent Allan Myers-Woodard",
+              "party": "Nonpartisan",
+              "incumbent": false,
+              "writeIn": true
+            }
+          ],
+          "source": "https://www.mijackson.org/DocumentCenter/View/23809/Jackson-County-Official-Candidate-List-November-3--2026"
+        },
+        {
+          "office": "City Treasurer (partial term ending 11/30/2028)",
+          "candidates": [
+            {
+              "key": "mi-jackson-2026-jackson-treasurer-hammontree-david",
+              "name": "David R. Hammontree",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "mi-jackson-2026-jackson-treasurer-muntin-nanette",
+              "name": "Nanette Muntin",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.mijackson.org/DocumentCenter/View/23809/Jackson-County-Official-Candidate-List-November-3--2026"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Jackson Charter Amendment Proposal - Sections 5.3, 7.1, 7.4, 7.10, and 11.5 - City Treasurer",
+          "title": "Charter Amendment: City Treasurer",
+          "summary": "The Jackson City Treasurer is now elected citywide. This charter amendment would make the treasurer a position appointed by the City Council, effective December 1, 2028, when the current treasurer's term ends. The appointee would serve at the pleasure of the City Council.",
+          "yesMeans": "Starting December 1, 2028, the City Council would appoint the City Treasurer instead of voters electing one.",
+          "noMeans": "The City Treasurer would remain an elected office.",
+          "source": "https://www.mijackson.org/DocumentCenter/View/23562/City-of-Jackson-Charter-Amendment-Proposal"
+        }
+      ]
+    }
+  }
+}
