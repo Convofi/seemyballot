@@ -1,0 +1,99 @@
+{
+  "state": "TX",
+  "county": "Nacogdoches County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.nacogdochesco.gov/197/Current-Election-Information",
+    "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots",
+    "https://www.nacogdochesco.gov/DocumentCenter/View/242/2026-November-3rd---Order-of-Election"
+  ],
+  "note": "From the Nacogdoches County Elections Office's November 3, 2026 sample ballots for all six ballot styles (names are printed in capitals on the ballot and shown here in title case). Not shown because they depend on your precinct or district: Justice of the Peace races, U.S. House, State Senate, State House and State Board of Education districts. No City of Nacogdoches contests or measures appear on the posted ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are not set. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 12th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-nacogdoches-2026-coa12-chief-hoyle-brian",
+          "name": "Brian Hoyle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots"
+    },
+    {
+      "office": "Justice, 12th Court of Appeals District, Place 3 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "tx-nacogdoches-2026-coa12-p3-davis-michael",
+          "name": "Michael Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-nacogdoches-2026-county-judge-bentley-chris",
+          "name": "Chris Bentley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots"
+    },
+    {
+      "office": "Judge, County Court-at-Law",
+      "candidates": [
+        {
+          "key": "tx-nacogdoches-2026-ccl-sinz-john",
+          "name": "John A. \"Jack\" Sinz",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-nacogdoches-2026-district-clerk-cammack-loretta",
+          "name": "Loretta Cammack",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-nacogdoches-2026-county-clerk-yates-sandy",
+          "name": "Sandy Yates",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-nacogdoches-2026-treasurer-pedersen-devin",
+          "name": "Devin Pedersen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.nacogdochesco.gov/DocumentCenter/View/332/2026-November-3rd---Sample-Ballots"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

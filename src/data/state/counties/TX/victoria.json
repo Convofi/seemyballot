@@ -1,0 +1,151 @@
+{
+  "state": "TX",
+  "county": "Victoria County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.victoriacountytx.gov/231/November-3-General-Election",
+    "https://www.victoriacountytx.gov/DocumentCenter/View/2467",
+    "https://www.victoriacountytx.gov/DocumentCenter/View/2468",
+    "https://www.victoriacountytx.gov/DocumentCenter/View/2469",
+    "https://www.victoriacountytx.gov/DocumentCenter/View/2470",
+    "https://www.victoriacountytx.gov/DocumentCenter/View/2478",
+    "https://www.victoriacountytx.gov/directory.aspx"
+  ],
+  "note": "From the Victoria County Elections Office's four November 3, 2026 sample ballots, which together cover every voting precinct. Not shown because they depend on your precinct or district: County Commissioner (Precincts 2 and 4) and Justice of the Peace (Precincts 1-4), U.S. House, State Senate, State House and State Board of Education districts. The Victoria Central Appraisal District, Victoria County Groundwater Conservation District and several school board elections were cancelled because candidates were unopposed. No City of Victoria contests or measures appear on the posted ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's staff directory lists the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 13th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-coa13-p6-silva-clarissa",
+          "name": "Clarissa Silva",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-victoria-2026-coa13-p6-ball-john",
+          "name": "John Ball",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "District Judge, 267th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-dist-267-bauknight-julie",
+          "name": "Julie C Bauknight",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "District Judge, 377th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-dist-377-garza-eli",
+          "name": "Eli Garza",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-da-johnson-constance",
+          "name": "Constance Filley Johnson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-county-judge-zeller-ben",
+          "name": "Ben Zeller",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-ccl1-ernst-travis",
+          "name": "Travis H. Ernst",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "Judge, County Court at Law No. 2",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-ccl2-gilliam-daniel",
+          "name": "Daniel Gilliam",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-district-clerk-plummer-kim",
+          "name": "Kim Plummer",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-county-clerk-easley-heidi",
+          "name": "Heidi Easley",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-victoria-2026-treasurer-foster-paige",
+          "name": "Paige Foster",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "tx-victoria-2026-treasurer-youngblood-patricia",
+          "name": "Patricia Youngblood",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.victoriacountytx.gov/DocumentCenter/View/2467"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

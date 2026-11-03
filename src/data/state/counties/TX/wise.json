@@ -1,0 +1,112 @@
+{
+  "state": "TX",
+  "county": "Wise County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.wise.tx.us/315/Elections",
+    "https://www.co.wise.tx.us/DocumentCenter/View/7932",
+    "https://www.co.wise.tx.us/DocumentCenter/View/7944",
+    "https://www.co.wise.tx.us/directory.aspx"
+  ],
+  "note": "From the Wise County Elections Administrator's composite November 3, 2026 sample ballot (the county's scanned PDF; names read from the image). Not shown because they depend on your precinct or district: U.S. House (Districts 13 and 26), State House District 64, State Board of Education, County Commissioner Precinct 2, Justice of the Peace (Precincts 1-4), City of Paradise council places, Poolville ISD trustees, and Wise County Emergency Services District No. 3 Proposition A (sales and use tax). No City of Decatur contests or measures appear on the sample ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's staff directory lists the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-coa2-p2-taylor-chris",
+          "name": "Chris Taylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    },
+    {
+      "office": "Justice, 2nd Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-coa2-p7-walker-brian",
+          "name": "Brian Walker",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    },
+    {
+      "office": "District Judge, 271st Judicial District",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-dist-271-lloyd-andrew",
+          "name": "Andrew Lloyd",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-county-judge-clark-j-d",
+          "name": "J.D. Clark",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    },
+    {
+      "office": "Judge, County Court at Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-ccl1-lowery-greg",
+          "name": "Greg Lowery",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-district-clerk-biggerstaff-loucrecia",
+          "name": "Loucrecia Biggerstaff",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-county-clerk-tuma-blanca",
+          "name": "Blanca Tuma",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-wise-2026-treasurer-hudson-katherine",
+          "name": "Katherine Canova Hudson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.wise.tx.us/DocumentCenter/View/7932"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,111 @@
+{
+  "state": "TX",
+  "county": "Starr County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.starr.tx.us/page/Elections.2026",
+    "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf",
+    "https://www.co.starr.tx.us/upload/page/0119/2026/Order%20of%20Election%20Nov-3-2026%20approved.pdf"
+  ],
+  "note": "From the Starr County Elections Administration's November 3, 2026 sample ballots for all 14 precincts (a scanned PDF; names read from the image). Not shown because they depend on your precinct or district: County Commissioner (Precincts 2 and 4) and Justice of the Peace races, U.S. House, State Senate and State House districts, and San Isidro ISD and Rio Grande City CISD trustee elections. No City of Rio Grande City contests or measures appear on the posted ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are not set. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 4th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-starr-2026-coa4-chief-richardson-bert",
+          "name": "Bert Richardson",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-starr-2026-coa4-chief-arteaga-antonia",
+          "name": "Antonia \"Toni\" Arteaga",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf"
+    },
+    {
+      "office": "District Judge, 229th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-starr-2026-dist-229-garza-baldemar",
+          "name": "Baldemar \"Balde\" Garza",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-starr-2026-county-judge-villarreal-joel",
+          "name": "Joel Villarreal",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-starr-2026-county-judge-benavidez-rose",
+          "name": "Rose Benavidez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law",
+      "candidates": [
+        {
+          "key": "tx-starr-2026-ccl-rodriguez-orlando",
+          "name": "Orlando Rodriguez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-starr-2026-district-clerk-velasquez-orlando",
+          "name": "Orlando Velasquez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-starr-2026-county-clerk-gonzalez-humberto",
+          "name": "Humberto \"Bert\" Gonzalez Jr.",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-starr-2026-treasurer-gonzalez-romeo",
+          "name": "Romeo Gonzalez",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.starr.tx.us/upload/page/0119/2026/Sample%20ballots.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

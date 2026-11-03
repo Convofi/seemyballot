@@ -1,0 +1,123 @@
+{
+  "state": "TX",
+  "county": "Van Zandt County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.vanzandtcounty.org/page/vanzandt.Elections",
+    "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf",
+    "https://www.vanzandtcounty.org/upload/page/12440/2026/county_general.pdf"
+  ],
+  "note": "From the Van Zandt County Elections Office's composite November 3, 2026 sample ballot (names are printed in capitals on the ballot and shown here in title case). Not shown because they depend on your precinct or district: County Commissioner (Precincts 2 and 4) and Justice of the Peace (Precincts 1-4), U.S. House, State Senate, State House and State Board of Education districts, the eight Van Zandt County Assistance District sales-tax propositions (each covers only part of the county), Van Zandt County ESD No. 2 sales tax, and Martin's Mill ISD and Brownsboro ISD trustees. No City of Canton contests or measures appear on the sample ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are not set. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 12th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-coa12-chief-hoyle-brian",
+          "name": "Brian Hoyle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "Justice, 12th Court of Appeals District, Place 3 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-coa12-p3-davis-michael",
+          "name": "Michael Davis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "District Judge, 294th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-dist-294-martin-chris",
+          "name": "Chris Martin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-da-schmidt-richard",
+          "name": "Richard A Schmidt",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-county-judge-reese-andy",
+          "name": "Andy Reese",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-ccl-wintters-joshua",
+          "name": "Joshua Wintters",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-district-clerk-wilson-karen",
+          "name": "Karen Wilson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-county-clerk-strickland-susan",
+          "name": "Susan Strickland",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-van-zandt-2026-treasurer-edwards-kenny",
+          "name": "Kenny Edwards",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.vanzandtcounty.org/upload/page/12440/2026/2026_Sample_Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,136 @@
+{
+  "state": "TX",
+  "county": "San Patricio County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.sanpatriciocountytx.gov/page/elections.current",
+    "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf",
+    "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20126.pdf",
+    "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Order%20of%20Election%20November%202026.pdf"
+  ],
+  "note": "From the San Patricio County Elections Department's November 3, 2026 precinct sample ballots (all 22 posted ballot styles reviewed; ballot names are printed in capitals and shown here in title case). Not shown because they depend on your precinct or district: County Commissioner and Justice of the Peace races, U.S. House, State House and State Board of Education districts, Gregory-Portland ISD and Skidmore-Tynan ISD propositions, and City of Taft council wards and Proposition A. No City of Sinton contests or measures appear on the posted ballots. The San Patricio County Groundwater Conservation District election was cancelled. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are not set. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 13th Court of Appeals District, Place 6",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-coa13-p6-silva-clarissa",
+          "name": "Clarissa Silva",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-san-patricio-2026-coa13-p6-ball-john",
+          "name": "John Ball",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "District Judge, 36th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-dist-36-bauer-starr",
+          "name": "Starr Bauer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "District Judge, 156th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-dist-156-bauer-boyd",
+          "name": "Boyd Bauer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-county-judge-krebs-david",
+          "name": "David R. Krebs",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "Judge, County Court-at-Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-ccl1-welborn-elizabeth",
+          "name": "Elizabeth Welborn",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-district-clerk-marks-heather",
+          "name": "Heather B. Marks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-county-clerk-walls-colette",
+          "name": "Colette Walls",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-san-patricio-2026-county-clerk-alaniz-gonzales-gracie",
+          "name": "Gracie Alaniz-Gonzales",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-treasurer-garcia-april",
+          "name": "April Garcia",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "tx-san-patricio-2026-surveyor-petrus-julius",
+          "name": "Julius Petrus",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sanpatriciocountytx.gov/upload/page/0125/2026/General%20Election/Sample%20Ballots/Sample%20101%20102%20107%20123.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

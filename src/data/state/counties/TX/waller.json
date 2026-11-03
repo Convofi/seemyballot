@@ -1,0 +1,177 @@
+{
+  "state": "TX",
+  "county": "Waller County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.waller.tx.us/page/2026%20County%20and%20Entity%20Elections",
+    "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf",
+    "https://www.co.waller.tx.us/upload/page/0286/2026%20Order%20of%20General%20Election.pdf"
+  ],
+  "note": "From the Waller County Elections Department's all-precinct specimen ballot for November 3, 2026 (names are printed in capitals on the ballot and shown here in title case). Not shown because they depend on your precinct or district: County Commissioner (Precincts 2 and 4) and Justice of the Peace (Precincts 1-4), U.S. House, State Senate, State House and State Board of Education districts, Waller County Appraisal District director elections (held by district), Royal ISD trustees, Waller County Assistance District Nos. 1-3 sales-tax propositions, and municipal utility district elections. No City of Hempstead contests or measures appear on the specimen ballot. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are not set. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 14th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-coa14-chief-jewell-kevin",
+          "name": "Kevin Jewell",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-waller-2026-coa14-chief-landau-sarah",
+          "name": "Sarah Beth Landau",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "Justice, 14th Court of Appeals District, Place 7",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-coa14-p7-wise-ken",
+          "name": "Ken Wise",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-waller-2026-coa14-p7-demond-william",
+          "name": "William Demond",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-coa1-p3-frankfort-todd",
+          "name": "Todd Frankfort",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-waller-2026-coa1-p3-rivas-molloy-veronica",
+          "name": "Veronica Rivas-Molloy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 4 (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-coa1-p4-gunn-david",
+          "name": "David Gunn",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-waller-2026-coa1-p4-countiss-julie",
+          "name": "Julie Countiss",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "Justice, 1st Court of Appeals District, Place 5",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-coa1-p5-caird-jessica",
+          "name": "Jessica Caird",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-waller-2026-coa1-p5-guerra-amy",
+          "name": "Amy Guerra",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-da-whittmore-sean",
+          "name": "Sean G Whittmore",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-county-judge-beckendorff-justin",
+          "name": "Justin Glenn Beckendorff",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "Judge, County Court-at-Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-ccl1-dodson-bennett",
+          "name": "Bennett R Dodson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-district-clerk-pirkle-liz",
+          "name": "Liz Pirkle",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-county-clerk-hollan-debbie",
+          "name": "Debbie Hollan",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-waller-2026-treasurer-beaty-joan",
+          "name": "Joan Beaty",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.waller.tx.us/upload/page/0286/Specimen.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

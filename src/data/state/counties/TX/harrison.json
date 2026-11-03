@@ -1,0 +1,116 @@
+{
+  "state": "TX",
+  "county": "Harrison County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.harrisoncountytexas.gov/page/Elections-2026",
+    "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+  ],
+  "note": "From the Harrison County Elections Administration's November 3, 2026 sample ballots for all six ballot styles (a scanned PDF; names read from the image). Not shown because they depend on your precinct or district: Justice of the Peace races, Harleton ISD trustees and New Diana ISD items. U.S. House District 1, State Senate District 1, State House District 7 and State Board of Education District 9 appear on the posted ballots but are district races covered elsewhere. No City of Marshall contests or measures appear on the posted ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are not set. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 6th Court of Appeals District, Place 3",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-coa6-p3-cleef-charles",
+          "name": "Charles Van Cleef",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    },
+    {
+      "office": "Criminal District Attorney",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-da-hood-madison",
+          "name": "Madison Hood",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-county-judge-sims-chad",
+          "name": "Chad Sims",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    },
+    {
+      "office": "Judge, County Court at Law",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-ccl-black-joe",
+          "name": "Joe Black",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-district-clerk-griffis-sherry",
+          "name": "Sherry Griffis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-county-clerk-henigan-heather",
+          "name": "Heather Henigan",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "tx-harrison-2026-county-clerk-harden-leashondria",
+          "name": "LeaShondria Y. Harden",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    },
+    {
+      "office": "County Tax Assessor-Collector",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-tax-assessor-cook-elizabeth",
+          "name": "Elizabeth Cook",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-harrison-2026-treasurer-rushing-sherry",
+          "name": "Sherry Rushing",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.harrisoncountytexas.gov/upload/page/0127/NOV%203,%202026/SAMPLE%20BALLOTS%2011%203%2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
