@@ -1,0 +1,38 @@
+{
+  "state": "MA",
+  "county": "Hampshire County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.easthamptonma.gov/DocumentCenter/View/10730/Easthampton-November-3-2026-State-Election-Sample-Ballot",
+    "https://www.easthamptonma.gov/164/Elections-Voting"
+  ],
+  "note": "From the City of Easthampton's posted official November 3, 2026 State Election ballot; these county contests print the same countywide. Governor's Council, State Senate and State Representative districts are not shown because they do not cover all of Hampshire County. Regional school committee seats and any town or district questions are also not shown. Hampshire County has no county commissioners (county government was abolished), and the Sheriff, Register of Deeds and Clerk of Courts are not on the 2026 ballot. Northampton and Amherst city or town questions, if any, are not shown because we could not read their ballots; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "District Attorney, Northwestern District",
+      "candidates": [
+        {
+          "key": "ma-hampshire-2026-da-sullivan-david",
+          "name": "David E. Sullivan",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.easthamptonma.gov/DocumentCenter/View/10730/Easthampton-November-3-2026-State-Election-Sample-Ballot"
+    },
+    {
+      "office": "Register of Probate, Hampshire County",
+      "candidates": [
+        {
+          "key": "ma-hampshire-2026-register-of-probate-ames-mark",
+          "name": "Mark Smith Ames",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.easthamptonma.gov/DocumentCenter/View/10730/Easthampton-November-3-2026-State-Election-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,61 @@
+{
+  "state": "ME",
+  "county": "Penobscot County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://old-town.org/vertical/sites/%7BF7FABD96-D29C-4681-A9ED-8F3156759DC9%7D/uploads/Sample_Ballot_General_Election-_Old_Town.pdf",
+    "https://old-town.org/election",
+    "https://www.penobscot-county.net/government/elected_officials/penobscot_county_sheriff.php",
+    "https://www.penobscot-county.net/government/elected_officials/penobscot_county_treasurer.php",
+    "https://www.penobscot-county.net/government/elected_officials/register_of_deeds.php"
+  ],
+  "note": "From the State of Maine sample ballot for the November 3, 2026 General Election posted by the City of Old Town; these county contests and the county referendum question print the same countywide. Incumbents are confirmed on Penobscot County's Elected Officials pages, which list Chris Almy as District Attorney and Zachary Brandmeir as Judge of Probate (neither is on this ballot). Not shown: County Commissioner (elected by district), State Senate and State Representative districts, and statewide referendum questions (listed with the state ballot). Bangor city offices and any Bangor or other municipal or school questions are not shown because we could not check a Bangor ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of Probate, Penobscot County",
+      "candidates": [
+        { "key": "me-penobscot-2026-judge-of-probate-seaney-beth", "name": "Beth L. Seaney", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://old-town.org/vertical/sites/%7BF7FABD96-D29C-4681-A9ED-8F3156759DC9%7D/uploads/Sample_Ballot_General_Election-_Old_Town.pdf"
+    },
+    {
+      "office": "County Treasurer, Penobscot County",
+      "candidates": [
+        { "key": "me-penobscot-2026-treasurer-mower-glenn", "name": "Glenn E. Mower", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://old-town.org/vertical/sites/%7BF7FABD96-D29C-4681-A9ED-8F3156759DC9%7D/uploads/Sample_Ballot_General_Election-_Old_Town.pdf"
+    },
+    {
+      "office": "Register of Deeds, Penobscot County",
+      "candidates": [
+        { "key": "me-penobscot-2026-register-of-deeds-bulay-susan", "name": "Susan F. Bulay", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://old-town.org/vertical/sites/%7BF7FABD96-D29C-4681-A9ED-8F3156759DC9%7D/uploads/Sample_Ballot_General_Election-_Old_Town.pdf"
+    },
+    {
+      "office": "Sheriff, Penobscot County",
+      "candidates": [
+        { "key": "me-penobscot-2026-sheriff-morton-troy", "name": "Troy J. Morton", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://old-town.org/vertical/sites/%7BF7FABD96-D29C-4681-A9ED-8F3156759DC9%7D/uploads/Sample_Ballot_General_Election-_Old_Town.pdf"
+    },
+    {
+      "office": "District Attorney, Prosecutorial District 5",
+      "candidates": [
+        { "key": "me-penobscot-2026-da-lynds-chelsea", "name": "Chelsea R. Lynds", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://old-town.org/vertical/sites/%7BF7FABD96-D29C-4681-A9ED-8F3156759DC9%7D/uploads/Sample_Ballot_General_Election-_Old_Town.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Referendum Question",
+      "title": "Relocation of the Penobscot County Correctional Facility",
+      "summary": "Asks whether the Penobscot County Commissioners should be authorized, as required under Title 30-A, section 122 of Maine law, to relocate the county correctional facility and any related buildings to a site outside the county seat.",
+      "yesMeans": "The County Commissioners are authorized to relocate the county correctional facility and related buildings to a site outside the county seat.",
+      "noMeans": "The County Commissioners are not given this authorization.",
+      "source": "https://old-town.org/vertical/sites/%7BF7FABD96-D29C-4681-A9ED-8F3156759DC9%7D/uploads/Sample_Ballot_General_Election-_Old_Town.pdf"
+    }
+  ],
+  "municipalities": {}
+}

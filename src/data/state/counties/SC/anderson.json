@@ -1,0 +1,21 @@
+{
+  "state": "SC",
+  "county": "Anderson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Anderson County) and referendum listing for the November 3, 2026 Statewide General Election. No Solicitor (10th Circuit), Sheriff, Auditor or Treasurer race is in the listing for this election. Not shown: the Soil and Water District Commission race (Alex Kostik; the number of seats could not be confirmed from an official source), County Council Districts 1 through 7, Board of Education Districts 1, 3, 4, 5 and 6, School District 1 through 5 trustee seats (including the District 2, 3 and 5 at-large seats), the Big Creek, Broadmouth Creek, Brushy Creek and Three and Twenty watershed districts, the Piedmont Public Service Area fire commission, the Homeland Park Water and Sewer District, and State House and U.S. House districts. No Anderson County ballot question appears in the referendum listing. City of Anderson contests are not covered because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages could not confirm them. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        { "key": "sc-anderson-2026-probate-judge-foster-j-t", "name": "J T Foster", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,70 @@
+{
+  "state": "NH",
+  "county": "Grafton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://lebanonnh.gov/1006/Sample-Ballots",
+    "https://lebanonnh.gov/DocumentCenter/View/24679",
+    "https://lebanonnh.gov/DocumentCenter/View/24678",
+    "https://lebanonnh.gov/DocumentCenter/View/24680",
+    "https://grafton-county.com/elected-officials/"
+  ],
+  "note": "From the City of Lebanon's official November 3, 2026 ward sample ballots (Wards 1, 2 and 3 checked); the county offices below are elected countywide and print the same in each ward. Jillian E. Myers is printed as both the Republican and the Democratic nominee for Sheriff, so she is listed once here. Incumbent flags are set where the county's Elected Officials page names the officeholder; that page does not list a Register of Probate. Not shown: County Commissioner (elected by commissioner district), State Senate, State Representative and Executive Council districts, and school tax-cap questions in towns other than Lebanon (including Hanover). The statewide constitutional amendment question appears with the state ballot. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        { "key": "nh-grafton-2026-sheriff-myers-jillian", "name": "Jillian E. Myers", "party": "Other", "incumbent": true }
+      ],
+      "source": "https://lebanonnh.gov/DocumentCenter/View/24679"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        { "key": "nh-grafton-2026-county-attorney-bjelobrk-matthew", "name": "Matthew D. Bjelobrk", "party": "Republican", "incumbent": false },
+        { "key": "nh-grafton-2026-county-attorney-hornick-martha", "name": "Martha Ann Hornick", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://lebanonnh.gov/DocumentCenter/View/24679"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        { "key": "nh-grafton-2026-treasurer-dear-brian", "name": "Brian Dear", "party": "Republican", "incumbent": false },
+        { "key": "nh-grafton-2026-treasurer-cryans-michael", "name": "Michael J. Cryans", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://lebanonnh.gov/DocumentCenter/View/24679"
+    },
+    {
+      "office": "Register of Deeds",
+      "candidates": [
+        { "key": "nh-grafton-2026-register-of-deeds-monahan-kelley", "name": "Kelley Jean Monahan", "party": "Republican", "incumbent": true },
+        { "key": "nh-grafton-2026-register-of-deeds-choate-brie", "name": "Brie Choate", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lebanonnh.gov/DocumentCenter/View/24679"
+    },
+    {
+      "office": "Register of Probate",
+      "candidates": [
+        { "key": "nh-grafton-2026-register-of-probate-modjeska-sharon", "name": "Sharon Modjeska", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lebanonnh.gov/DocumentCenter/View/24679"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Lebanon": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Question 2",
+          "title": "Lebanon School District (SAU #88) Property Tax Growth Limit",
+          "summary": "A statutory question required by HB 1300 (Chapter 324, 2026) asking whether the City of Lebanon should limit property tax growth for the Lebanon School District (SAU #88) under RSA 32:5-i. If adopted for a two-year period, the local property tax levy could not grow beyond the prior year's amount adjusted for inflation and new construction, SAU central office spending could not exceed 6 percent of total school district appropriations, and bonded capital costs would be excluded from both limits. Per the ballot text, the caps apply only to SAU central office administrative operations, may be overridden as provided in RSA 32:5-i, and adoption requires a three-fifths (3/5) majority.",
+          "yesMeans": "The listed property tax growth and SAU central office spending limits are adopted for the Lebanon School District for a two-year period.",
+          "noMeans": "These limits are not adopted.",
+          "source": "https://lebanonnh.gov/DocumentCenter/View/24679",
+          "moreInfo": "https://lebanonnh.gov/1006/Sample-Ballots"
+        }
+      ]
+    }
+  }
+}

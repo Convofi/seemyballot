@@ -1,0 +1,38 @@
+{
+  "state": "MA",
+  "county": "Berkshire County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.townofgb.org/DocumentCenter/View/4814/Specimen-Ballot-11326",
+    "https://www.townofgb.org/277/Town-Clerk"
+  ],
+  "note": "From the Town of Great Barrington's posted Official Specimen Ballot for the November 3, 2026 State Election; these county contests print the same countywide. Governor's Council, State Senate and State Representative districts are not shown because they do not cover all of Berkshire County. Regional school committee seats and any town questions are also not shown. Berkshire County has no county commissioners (county government was abolished), and the Sheriff, Register of Deeds and Clerk of Courts are not on the 2026 ballot. Pittsfield city questions, if any, are not shown because we could not find a posted Pittsfield ballot; the nine statewide questions are listed with statewide races. Check your official sample ballot for district races and local questions.",
+  "contests": [
+    {
+      "office": "District Attorney, Berkshire District",
+      "candidates": [
+        {
+          "key": "ma-berkshire-2026-da-shugrue-timothy",
+          "name": "Timothy J. Shugrue",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.townofgb.org/DocumentCenter/View/4814/Specimen-Ballot-11326"
+    },
+    {
+      "office": "Register of Probate, Berkshire County",
+      "candidates": [
+        {
+          "key": "ma-berkshire-2026-register-of-probate-ferris-kenneth",
+          "name": "Kenneth Paul Ferris",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.townofgb.org/DocumentCenter/View/4814/Specimen-Ballot-11326"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

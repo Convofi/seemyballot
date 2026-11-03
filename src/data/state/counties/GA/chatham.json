@@ -1,0 +1,23 @@
+{
+  "state": "GA",
+  "county": "Chatham County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://cms.chathamcountyga.gov/api/assets/elections-website/64985a67-cce4-4146-a8dd-52587318e5f2/call-for-election-tax-referendum-11-3-2026.pdf?version=0",
+    "https://cms.chathamcountyga.gov/api/assets/elections-website/d53839ad-a87d-4936-accf-5f1d40ec1730/call-for-election-sccpss-november-3-2026.pdf?version=0",
+    "https://elections.chathamcountyga.gov/"
+  ],
+  "note": "From the Chatham County Board of Elections' special election notices for November 3, 2026. The Board does not post a composite sample ballot, and the Georgia Secretary of State's site could not be reached, so county candidate races (if any are on your ballot) are not shown here; check your sample ballot on Georgia's My Voter Page. Also not shown because it depends on your district: the special election for Savannah-Chatham County Public School System Board Member, District 2, along with County Commission, state legislative and U.S. House districts. No City of Savannah race or question is listed by the Board for this election. The three statewide constitutional amendments are statewide questions.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "Chatham County Special Election",
+      "title": "Chatham County School Board Ad Valorem Tax Referendum",
+      "summary": "Asks whether to approve a state act amending the adjusted base year assessed value homestead exemption from Chatham County and City of Savannah School District taxes for educational purposes. Under the act, the adjusted base year assessed value of a homestead could not increase above the homestead's assessed value in tax year 2025.",
+      "yesMeans": "The act is approved and the base year value used for the school tax homestead exemption is capped at the homestead's 2025 assessed value.",
+      "noMeans": "The act is not approved and the school tax homestead exemption is not changed by it.",
+      "source": "https://cms.chathamcountyga.gov/api/assets/elections-website/64985a67-cce4-4146-a8dd-52587318e5f2/call-for-election-tax-referendum-11-3-2026.pdf?version=0"
+    }
+  ],
+  "municipalities": {}
+}

@@ -1,0 +1,49 @@
+{
+  "state": "NY",
+  "county": "Schenectady County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.schenectadycountyny.gov/sites/default/files/2026-10/SAMPLE%20BALLOTS%20GE26.pdf",
+    "https://www.schenectadycountyny.gov/elections/sample-ballot"
+  ],
+  "note": "From the Schenectady County Board of Elections' November 3, 2026 sample ballots for every town and the City of Schenectady; County Clerk and the Supreme Court contest print the same on all of them. New York uses fusion voting: each candidate is listed once under their main party. Cara M. Ackerley and the four Republican Supreme Court candidates also appear on the Conservative line, and Justin R. Chaires also appears on the Working Families line. Rachael Ward appears only on the Conservative line and is shown as Other. The Board's ballots show no county or City of Schenectady propositions. Not shown because they depend on your district or town: Representative in Congress, State Senate, Member of Assembly, and town offices (Town Supervisor, Town Justice and others). Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 4th Judicial District",
+      "seats": 4,
+      "candidates": [
+        { "key": "ny-schenectady-2026-supreme-court-wanner-bradley", "name": "Bradley M. Wanner", "party": "Democratic", "incumbent": false },
+        { "key": "ny-schenectady-2026-supreme-court-clark-christine", "name": "Christine M. Clark", "party": "Democratic", "incumbent": false },
+        { "key": "ny-schenectady-2026-supreme-court-buchanan-tom", "name": "Tom Buchanan", "party": "Republican", "incumbent": false },
+        { "key": "ny-schenectady-2026-supreme-court-ellis-john", "name": "John T. Ellis", "party": "Republican", "incumbent": false },
+        { "key": "ny-schenectady-2026-supreme-court-hogan-kate", "name": "Kate Hogan", "party": "Republican", "incumbent": false },
+        { "key": "ny-schenectady-2026-supreme-court-massey-keith", "name": "Keith S. Massey, Jr.", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.schenectadycountyny.gov/sites/default/files/2026-10/SAMPLE%20BALLOTS%20GE26.pdf"
+    },
+    {
+      "office": "Schenectady County Clerk",
+      "candidates": [
+        { "key": "ny-schenectady-2026-county-clerk-ackerley-cara", "name": "Cara M. Ackerley", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.schenectadycountyny.gov/sites/default/files/2026-10/SAMPLE%20BALLOTS%20GE26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Schenectady": {
+      "contests": [
+        {
+          "office": "Schenectady City Council Member (vote for one)",
+          "candidates": [
+            { "key": "ny-schenectady-2026-city-council-chaires-justin", "name": "Justin R. Chaires", "party": "Democratic", "incumbent": false },
+            { "key": "ny-schenectady-2026-city-council-ibrahim-sarojanie", "name": "Sarojanie Ibrahim", "party": "Republican", "incumbent": false },
+            { "key": "ny-schenectady-2026-city-council-ward-rachael", "name": "Rachael Ward", "party": "Other", "incumbent": false }
+          ],
+          "source": "https://www.schenectadycountyny.gov/sites/default/files/2026-10/SAMPLE%20BALLOTS%20GE26.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

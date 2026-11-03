@@ -1,0 +1,31 @@
+{
+  "state": "NY",
+  "county": "Rensselaer County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.rensco.com/DocumentCenter/View/7039/TROY-PDF",
+    "https://www.rensco.com/DocumentCenter/View/7053/BERLIN-PDF",
+    "https://www.rensco.com/692/Sample-Ballots"
+  ],
+  "note": "From the Rensselaer County Board of Elections' November 3, 2026 sample ballots (City of Troy and Town of Berlin checked); the Supreme Court and District Attorney contests print the same on both. Both are Democrats running without a second party line. The City of Troy ballot has no city offices or propositions. Not shown because they depend on your district or town: Representative in Congress (19th and 20th Districts), State Senate, Member of Assembly, and town offices (Town Supervisor, Town Clerk, Tax Collector, Superintendent of Highways and others). Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 3rd Judicial District",
+      "seats": 2,
+      "candidates": [
+        { "key": "ny-rensselaer-2026-supreme-court-joyce-amy", "name": "Amy E. Joyce", "party": "Democratic", "incumbent": false },
+        { "key": "ny-rensselaer-2026-supreme-court-sober-jennifer", "name": "Jennifer G. Sober", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.rensco.com/DocumentCenter/View/7039/TROY-PDF"
+    },
+    {
+      "office": "Rensselaer County District Attorney",
+      "candidates": [
+        { "key": "ny-rensselaer-2026-da-donnelly-mary-pat", "name": "Mary Pat Donnelly", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.rensco.com/DocumentCenter/View/7039/TROY-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
