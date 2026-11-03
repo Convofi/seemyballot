@@ -1,0 +1,22 @@
+{
+  "state": "GA",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.jeffersoncountyga.gov/DocumentCenter/View/1147/SPLOST-2028-Notice-of-Election-20260828",
+    "https://www.jeffersoncountyga.gov/443/Sample-Ballot"
+  ],
+  "note": "Shown is the countywide one percent SPLOST question from the Jefferson County Notice of Election. Candidate races are not shown: the Jefferson County Board of Elections' sample ballot page had no ballot posted and no official 2026 qualified-candidate list could be found, so county offices (including County Commission districts and Board of Education seats) and judicial races could not be verified. The SPLOST question's ballot label is not shown in the notice. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page) for the full list of races.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "SPLOST",
+      "title": "Special one percent sales and use tax (SPLOST 2028)",
+      "summary": "Asks whether to impose a special one percent sales and use tax across all of Jefferson County for up to six years to raise an estimated $14,000,000 for county and city capital projects. About $7.7 million would go to Jefferson County (roads, public safety, fire equipment, solid waste and landfill, parks, government buildings and vehicles, industrial parks, and Hospital Authority facility improvements), with the rest divided among Avera, Bartow, Louisville, Stapleton, Wadley and Wrens for city projects such as public safety equipment, utilities, streets, parks and buildings.",
+      "yesMeans": "A one percent special purpose sales and use tax would be imposed in Jefferson County for up to six years to fund the listed county and city projects.",
+      "noMeans": "The special purpose sales and use tax would not be imposed.",
+      "source": "https://www.jeffersoncountyga.gov/DocumentCenter/View/1147/SPLOST-2028-Notice-of-Election-20260828"
+    }
+  ],
+  "municipalities": {}
+}

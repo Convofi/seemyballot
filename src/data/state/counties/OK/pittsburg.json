@@ -1,0 +1,31 @@
+{
+  "state": "OK",
+  "county": "Pittsburg County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://hosting.okelections.gov/electionlist.html"
+  ],
+  "note": "Oklahoma prints only contested races: the special election for County Sheriff (unexpired term) is the only countywide race on the November 3, 2026 Pittsburg County ballot according to the State Election Board's list. Not shown: a Pittsburg County proposition and a City of McAlester proposition, which the State Election Board lists without their ballot wording; no official ballot language for either could be found, so check your sample ballot for them. Also not shown: County Commissioner District 3 and any school district or other local questions, which depend on a district the address lookup cannot resolve. Incumbent flags are not set because the state list does not identify incumbents. Check your official sample ballot at the OK Voter Portal.",
+  "contests": [
+    {
+      "office": "County Sheriff (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ok-pittsburg-2026-sheriff-mcclendon-frankie",
+          "name": "Frankie McClendon",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "ok-pittsburg-2026-sheriff-cox-bobby",
+          "name": "Bobby Cox",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

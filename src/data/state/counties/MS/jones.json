@@ -1,0 +1,73 @@
+{
+  "state": "MS",
+  "county": "Jones County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/appellatecourts/coa/coajudges.php",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown are the judicial seats every Jones County voter votes on, from the Secretary of State's official statewide sample ballot: the 19th Chancery District (Greene, Jones and Wayne counties under the 2025 redistricting law SB 2768, effective January 2027) and the 18th Circuit District (George, Greene, Jones and Wayne counties under HB 1544, effective January 2027), both elected districtwide. Not shown because it depends on where you live: Court of Appeals District 4, Position 2 (David McCarty), which only the part of Jones County in District 4 votes on; the rest of the county is in District 3, which has no race. Also not shown: any County Court, Justice Court, school board, county or Laurel items; the Jones County Circuit Clerk's own sample ballot was not checked. Incumbent flags come from the Mississippi Judiciary's judge rosters; Chancery Place 2 and Circuit Place 2 are new seats, and Dal Williamson is listed as the current 18th Circuit judge. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chancery Court Judge, 19th Chancery District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-jones-2026-chancery-p1-sharp-jerry",
+          "name": "Jerry D. Sharp",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 19th Chancery District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-jones-2026-chancery-p2-clay-kathryn",
+          "name": "Kathryn Dickerson Clay",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 18th Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-jones-2026-circuit-p1-thompson-brad",
+          "name": "Brad R. Thompson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-jones-2026-circuit-p1-tiebauer-eric",
+          "name": "Eric Tiebauer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 18th Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-jones-2026-circuit-p2-hurt-darryl",
+          "name": "Darryl A. Hurt Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

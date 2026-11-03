@@ -1,0 +1,135 @@
+{
+  "state": "MO",
+  "county": "Pemiscot County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf",
+    "https://www.pemiscotcounty.org/elections.php",
+    "https://www.pemiscotcounty.org/directory.php"
+  ],
+  "note": "From the Pemiscot County Clerk's November 3, 2026 sample ballots. The county offices and associate circuit judge races below are printed on four of the six ballot styles; two styles (2 and 4) show only State Auditor, U.S. House and State House, and the sample ballots do not say which voters receive them. Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Not shown because they depend on where you live: U.S. House District 8, State House Districts 149 and 150, and the Pemiscot County R-III and Cooter R-IV school district consolidation propositions. No county or City of Caruthersville questions are on these ballots. Incumbent flags come from the county's office directory; Steve Horton is listed there as Prosecuting Attorney, so Ryan Dicus is not marked incumbent. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Circuit Judge, Division 2",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-assoc-circuit-div2-carter-bill",
+          "name": "Bill Carter",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 3",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-assoc-circuit-div3-currie-keith",
+          "name": "W. Keith Currie",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Presiding Commissioner of the County Commission",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-presiding-commissioner-cartee-mark",
+          "name": "Mark Cartee",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-circuit-clerk-hillhouse-tonya",
+          "name": "Tonya Hillhouse",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Clerk of the County Commission",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-county-clerk-treece-pam",
+          "name": "Pam Treece",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-recorder-gordon-amanda",
+          "name": "Amanda Littleton Gordon",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-prosecuting-attorney-dicus-ryan",
+          "name": "Ryan Dicus",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-collector-price-rhonda",
+          "name": "Rhonda Parkinson Price",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Treasurer",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-treasurer-faulkner-susan",
+          "name": "Susan Tillman Faulkner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Southern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-pemiscot-2026-retain-appeals-hamner-matthew",
+          "name": "Matthew P. Hamner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.pemiscotcounty.org/cmsAdmin/uploads/2/pemiscot-samples-2-sides.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

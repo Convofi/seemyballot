@@ -1,0 +1,91 @@
+{
+  "state": "MS",
+  "county": "Forrest County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/appellatecourts/coa/coajudges.php",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown are the judicial seats every Forrest County voter votes on, from the Secretary of State's official statewide sample ballot: Court of Appeals District 5 (all of Forrest County), the 13th Chancery District (Forrest, Perry and Stone counties under the 2025 redistricting law SB 2768, effective January 2027) and the 12th Circuit District (Forrest and Perry counties), all elected districtwide. Not shown: any County Court, Justice Court, school board, county or Hattiesburg items; the Forrest County Circuit Clerk's own sample ballot was not checked. Incumbent flags come from the Mississippi Judiciary's judge rosters. Sheila Havard Smallwood is currently a 10th Chancery District chancellor, but the 13th District seats are new to Forrest County, so no chancery candidate is marked incumbent. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals Judge, District 5, Position 1",
+      "candidates": [
+        {
+          "key": "ms-forrest-2026-coa-d5-p1-lawrence-anthony",
+          "name": "Anthony 'Tony' Lawrence",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 13th Chancery District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-forrest-2026-chancery-p1-smallwood-sheila",
+          "name": "Sheila Havard Smallwood",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 13th Chancery District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-forrest-2026-chancery-p2-schmidt-george",
+          "name": "George Schmidt",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-forrest-2026-chancery-p2-smallwood-john",
+          "name": "John D. Smallwood",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-forrest-2026-chancery-p2-vaughn-zachary",
+          "name": "Zachary Monroe Vaughn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 12th Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-forrest-2026-circuit-p1-reed-michael",
+          "name": "T. Michael Reed",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 12th Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-forrest-2026-circuit-p2-curry-wes",
+          "name": "Wes Curry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

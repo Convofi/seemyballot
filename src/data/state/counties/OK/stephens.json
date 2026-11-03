@@ -1,0 +1,31 @@
+{
+  "state": "OK",
+  "county": "Stephens County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://hosting.okelections.gov/electionlist.html"
+  ],
+  "note": "Oklahoma prints only contested races: no Stephens County offices and no countywide propositions are on the November 3, 2026 Stephens County ballot according to the State Election Board's list. The District Judge race below covers Judicial District 5 (Comanche, Cotton, Jefferson and Stephens counties). Duncan has no city-wide items on this ballot. Not shown: any school district or other local questions. Check your official sample ballot at the OK Voter Portal.",
+  "contests": [
+    {
+      "office": "District Judge, District 5, Office 1 (nonpartisan)",
+      "candidates": [
+        {
+          "key": "ok-stephens-2026-district-judge-office1-west-neil",
+          "name": "Neil West",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ok-stephens-2026-district-judge-office1-galbraith-christine",
+          "name": "Christine Galbraith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

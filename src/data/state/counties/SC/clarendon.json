@@ -1,0 +1,56 @@
+{
+  "state": "SC",
+  "county": "Clarendon County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Clarendon County) and referendum listing for the November 3, 2026 Statewide General Election. The Solicitor race covers the 3rd Judicial Circuit (Clarendon, Lee, Sumter and Williamsburg counties). Not shown: the Soil and Water District Commission race (David Richburg and Kevin Ross; the number of seats could not be confirmed from an official source), County Council Districts 1, 2 and 3, School Board Districts 2, 4, 6 and 8, and State House and U.S. House districts. No Clarendon County ballot question appears in the referendum listing. Municipal contests, including Manning's, are not covered because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages were not checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Solicitor, 3rd Judicial Circuit",
+      "candidates": [
+        {
+          "key": "sc-clarendon-2026-solicitor-bell-lester",
+          "name": "Lester M Gill Bell Jr",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "sc-clarendon-2026-auditor-herbert-kimberly",
+          "name": "Kimberly Herbert",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "sc-clarendon-2026-auditor-pringle-patricia",
+          "name": "Patricia Pringle",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "sc-clarendon-2026-treasurer-evans-matt",
+          "name": "Matt Evans",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

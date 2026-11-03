@@ -1,0 +1,50 @@
+{
+  "state": "AL",
+  "county": "Randolph County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Randolph-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Randolph County sample ballot. Not shown because they depend on your district: Randolph County Board of Education Districts 3 and 4, State Senate District 13, State House District 37 and U.S. House District 3. The four statewide amendments are statewide questions; no local amendment or Town of Wedowee item is on this ballot. Incumbent flags are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Randolph County Sheriff",
+      "candidates": [
+        {
+          "key": "al-randolph-2026-sheriff-grant-donnie",
+          "name": "Donnie Grant Jr.",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Randolph-Sample.pdf"
+    },
+    {
+      "office": "Randolph County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-randolph-2026-revenue-commissioner-jarrett-shasta",
+          "name": "Shasta McCain Jarrett",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Randolph-Sample.pdf"
+    },
+    {
+      "office": "Randolph County Coroner",
+      "candidates": [
+        {
+          "key": "al-randolph-2026-coroner-sparks-terry",
+          "name": "Terry L. Sparks",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Randolph-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

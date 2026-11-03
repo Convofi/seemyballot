@@ -1,0 +1,146 @@
+{
+  "state": "MO",
+  "county": "Audrain County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://audraincounty.org/s/Audrain-Publication-110326.pdf",
+    "https://audraincounty.org/elected-officials"
+  ],
+  "note": "From the Audrain County Clerk's November 3, 2026 Notice of Election and sample ballot. Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Not shown: U.S. House District 6, State Senate District 18 and State House District 43. The sample ballot lists no county or City of Mexico questions. Incumbent flags come from the county's elected-officials page; Lisa Smith is listed there as County Clerk, so she is not marked incumbent for Treasurer, and the Associate Circuit Judge is not listed there, so no incumbent is marked for that race. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Circuit Judge",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-assoc-circuit-judge-young-melissa",
+          "name": "Melissa Buckman Young",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-presiding-commissioner-winders-alan",
+          "name": "Alan Winders",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-county-clerk-lierheimer-heather",
+          "name": "Heather Lierheimer",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Circuit Clerk",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-circuit-clerk-miller-meagan",
+          "name": "Meagan Miller",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-recorder-allen-teresa",
+          "name": "Teresa L. Allen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Treasurer",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-treasurer-smith-lisa",
+          "name": "Lisa Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-prosecuting-attorney-shellabarger-jacob",
+          "name": "Jacob W Shellabarger",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "County Collector",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-collector-lecount-amy",
+          "name": "Amy LeCount",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-retain-coa-ed-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-retain-coa-ed-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-audrain-2026-retain-coa-ed-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://audraincounty.org/s/Audrain-Publication-110326.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

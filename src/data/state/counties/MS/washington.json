@@ -1,0 +1,43 @@
+{
+  "state": "MS",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/appellatecourts/coa/coajudges.php",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. Shown are the judicial seats every Washington County voter votes on, from the Secretary of State's official statewide sample ballot: Court of Appeals District 2 (all of Washington County) and Chancery Subdistrict 9-1, which under the 2025 redistricting law SB 2768 (effective January 2027) consists of all of Washington and Humphreys counties. Not shown because it depends on where you live: 4th Circuit District judge races (Subdistricts 4-2, 4-3 and 4-4 each cover only some Washington County precincts). Also not shown: any County Court, Justice Court, school board, county or Greenville items; the Washington County Circuit Clerk's own sample ballot was not checked. Incumbent flags come from the Mississippi Judiciary's judge rosters. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals Judge, District 2, Position 1",
+      "candidates": [
+        {
+          "key": "ms-washington-2026-coa-d2-p1-mcdonald-deborah",
+          "name": "Deborah A. McDonald",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, Chancery Subdistrict 9-1",
+      "candidates": [
+        {
+          "key": "ms-washington-2026-chancery-9-1-richard-bennie",
+          "name": "Bennie L. Richard",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,212 @@
+{
+  "state": "KY",
+  "county": "Casey County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+  ],
+  "note": "Countywide items are those the Casey County sample ballot (published by the Kentucky Secretary of State) marks for All Precincts. City of Liberty items are marked for all three Liberty precincts (A, B and C). Not shown because they depend on your district: Magistrate and Constable (1st-4th Magisterial Districts), Casey County Board of Education 2nd, 3rd and 4th Educational Districts, and State Representative District 54 and U.S. House District 1. Constitutional Amendment 1 is a statewide question. Incumbent flags are not marked because no official roster was checked. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Property Valuation Administrator",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-pva-johnson-brad",
+          "name": "Brad Johnson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "County Judge/Executive",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-judge-executive-cravens-don",
+          "name": "Don Cravens",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "County Attorney",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-county-attorney-frazier-mckinzee",
+          "name": "McKinzee Frazier",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-county-clerk-woodrum-bart",
+          "name": "Bart Woodrum",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-sheriff-combs-chad",
+          "name": "Chad Combs",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "Jailer",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-jailer-woodrum-mike",
+          "name": "Mike Woodrum",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-coroner-brown-michael",
+          "name": "Michael W. Brown",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "County Surveyor",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-surveyor-brown-brandon",
+          "name": "Brandon Brown",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "Justice of the Supreme Court, 3rd Supreme Court District",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-supreme-court-d3-lambert-debra",
+          "name": "Debra Hembree Lambert",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 3rd Appellate District, 2nd Division (Unexpired Term)",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-coa-d3-div2-lay-greg",
+          "name": "Greg Lay",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    },
+    {
+      "office": "District Judge, 29th Judicial District",
+      "candidates": [
+        {
+          "key": "ky-casey-2026-district-judge-29-loy-michael",
+          "name": "Michael Loy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Liberty": {
+      "contests": [
+        {
+          "office": "Mayor, City of Liberty",
+          "candidates": [
+            {
+              "key": "ky-casey-2026-liberty-mayor-haddad-sam",
+              "name": "Sam Haddad",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+        },
+        {
+          "office": "City Council, City of Liberty (vote for up to six)",
+          "seats": 6,
+          "candidates": [
+            {
+              "key": "ky-casey-2026-liberty-council-barlow-ben",
+              "name": "Ben Barlow",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-casey-2026-liberty-council-bowmer-larry",
+              "name": "Larry F. Bowmer",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-casey-2026-liberty-council-allen-robert",
+              "name": "Robert Lewis Allen",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-casey-2026-liberty-council-barlow-bill",
+              "name": "Bill Barlow",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-casey-2026-liberty-council-beeler-brian",
+              "name": "Brian K. Beeler",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-casey-2026-liberty-council-turner-nicholas",
+              "name": "Nicholas Turner",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ky-casey-2026-liberty-council-elmore-adam",
+              "name": "Adam Elmore",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://web.sos.ky.gov/ballots/CASEY%202026G.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

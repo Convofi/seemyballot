@@ -1,0 +1,154 @@
+{
+  "state": "MO",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf",
+    "https://www.washcoclerkmo.gov/candidates-issues-results/",
+    "https://www.washingtoncountymo.us/county-commissioners/",
+    "https://www.washingtoncountymo.us/county-clerk/",
+    "https://www.washingtoncountymo.us/circuit-clerk/",
+    "https://www.washingtoncountymo.us/recorder-of-deeds/",
+    "https://www.washingtoncountymo.us/treasurer/",
+    "https://www.washingtoncountymo.us/prosecuting-attorney/",
+    "https://www.washingtoncountymo.us/collector/",
+    "https://www.washingtoncountymo.us/associate-circuit-court-judge/"
+  ],
+  "note": "Countywide items are those printed on all four ballot styles in the Washington County Clerk's November 3, 2026 sample ballots. Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Not shown because they depend on where you live: Second District Commissioner (2-year unexpired term; Lynn Portell), State House Districts 118 and 144, and U.S. House District 3. No county or City of Potosi questions are on these ballots. Incumbent flags come from the county's officeholder pages. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Circuit Judge, Division 8",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-assoc-circuit-div8-dorsett-tony",
+          "name": "Tony Dorsett",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-presiding-commissioner-sansegraw-david",
+          "name": "David Sansegraw",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-county-clerk-allen-jeanette",
+          "name": "Jeanette \"Jenny\" Allen",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Circuit Clerk",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-circuit-clerk-gum-ashley",
+          "name": "Ashley Drummond Gum",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-recorder-miner-jamie",
+          "name": "Jamie Miner",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Treasurer",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-treasurer-robinson-john",
+          "name": "John M. Robinson III",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-prosecuting-attorney-jones-john",
+          "name": "John I Jones, IV",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Collector",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-collector-richards-kris",
+          "name": "Kris Richards",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-retain-appeals-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-retain-appeals-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-washington-2026-retain-appeals-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.washcoclerkmo.gov/wp-content/uploads/2026/10/Nov-3-2026-Sample-Ballots.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

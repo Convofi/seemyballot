@@ -1,0 +1,84 @@
+{
+  "state": "SC",
+  "county": "Cherokee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=742&searchType=Default"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Cherokee County) and referendum listing for the November 3, 2026 Statewide General Election. Not shown: the Soil and Water District Commission race (Sarah Allen and Stephanie Senchantixay; the number of seats could not be confirmed from an official source), County Council Districts 2, 5 and 7, the Thicketty Creek Watershed Conservation District, the Antioch and Grassy Pond fire district referendums, and State House and U.S. House districts. Municipal contests, including Gaffney's, are not covered because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages were not checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Sheriff",
+      "candidates": [
+        {
+          "key": "sc-cherokee-2026-sheriff-blanton-brian",
+          "name": "Brian Opie Blanton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-cherokee-2026-probate-judge-queen-joshua",
+          "name": "Joshua L Queen",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Clerk of Court",
+      "candidates": [
+        {
+          "key": "sc-cherokee-2026-clerk-of-court-mcbee-brandy",
+          "name": "Brandy W McBee",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Coroner",
+      "candidates": [
+        {
+          "key": "sc-cherokee-2026-coroner-fowler-dennis",
+          "name": "Dennis G Fowler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "sc-cherokee-2026-auditor-layton-christina",
+          "name": "Christina Layton",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Cherokee County Alcohol Referendum",
+      "title": "Cherokee County Alcohol Referendum",
+      "summary": "Asks whether the South Carolina Department of Revenue may issue temporary permits in Cherokee County, for up to twenty-four hours, allowing bona fide nonprofit organizations and licensed on-premises businesses to possess, sell and serve alcoholic liquors by the drink. It also asks whether beer and wine may be sold at permitted off-premises locations without regard to the days or hours of sale.",
+      "yesMeans": "Temporary 24-hour liquor-by-the-drink permits could be issued in Cherokee County, and permitted stores could sell beer and wine without day or hour limits.",
+      "noMeans": "These temporary permits would not be authorized in Cherokee County, and current limits on the days and hours of beer and wine sales would stay in place.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=742&searchType=Default"
+    }
+  ],
+  "municipalities": {}
+}
