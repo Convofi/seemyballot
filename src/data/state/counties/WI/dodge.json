@@ -1,0 +1,40 @@
+{
+  "state": "WI",
+  "county": "Dodge County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.dodge.wi.gov/fs/resource-manager/view/83a5d437-e622-4319-8efb-18e92a39f3e1",
+    "https://www.co.dodge.wi.gov/fs/resource-manager/view/64f4a615-6a39-4143-8c21-ac0814179e70",
+    "https://www.co.dodge.wi.gov/fs/resource-manager/view/d506ec7d-c45e-4d44-aff8-830db379effc",
+    "https://www.co.dodge.wi.gov/government/county-clerk/elections-voting"
+  ],
+  "note": "Contests are from the Dodge County Clerk's list of races and candidates for the November 3, 2026 general election; incumbents are marked on the clerk's county office candidate tracking sheet. Dodge County Board and city offices (including Juneau and Beaver Dam) are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The county's list shows no countywide or city referendum. Not shown: the Markesan, Mayville and Oconomowoc Area school district referenda, which depend on your school district. Voters in the parts of Waupun, Hartford, Watertown, Columbus and other municipalities that lie outside Dodge County get that other county's offices instead. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Dodge County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-dodge-2026-sheriff-schmidt-dale",
+          "name": "Dale J. Schmidt",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.dodge.wi.gov/fs/resource-manager/view/83a5d437-e622-4319-8efb-18e92a39f3e1"
+    },
+    {
+      "office": "Dodge County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-dodge-2026-clerkcircuit-enright-kelly",
+          "name": "Kelly Enright",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.dodge.wi.gov/fs/resource-manager/view/83a5d437-e622-4319-8efb-18e92a39f3e1"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

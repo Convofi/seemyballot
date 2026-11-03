@@ -1,0 +1,41 @@
+{
+  "state": "WI",
+  "county": "Washington County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.westbendwi.gov/clerk/Sample%20Ballots/D1%20Wards%201,%203%20-%20Ballot%204132.pdf",
+    "https://www.westbendwi.gov/clerk/Notices/2026%20General%20Election%20Notice%20of%20Referendum.pdf",
+    "https://www.westbendwi.gov/city_clerk/sample_ballots.php",
+    "https://www.washcowisco.gov/UserFiles/Servers/Server_16227954/File/1County%20Candidates%20-%202026.pdf",
+    "https://www.washcowisco.gov/departments/county_clerk/election/"
+  ],
+  "note": "Contests are from the November 3, 2026 official sample ballot for the City of West Bend (Washington County) and the Washington County Clerk's 2026 fall candidate listing, which marks both candidates as incumbents. Washington County Executive, County Board and City of West Bend offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The Washington County Clerk's Notice of Referendum Election lists only the three statewide constitutional questions, so there is no countywide or City of West Bend referendum. Not shown: school district referenda, which depend on your school district. Voters in the part of Hartford that lies in Dodge County get Dodge County's offices instead. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Washington County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-washington-2026-sheriff-schulteis-martin",
+          "name": "Martin R. Schulteis",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.westbendwi.gov/clerk/Sample%20Ballots/D1%20Wards%201,%203%20-%20Ballot%204132.pdf"
+    },
+    {
+      "office": "Washington County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-washington-2026-clerkcircuit-coykendall-sherry",
+          "name": "Sherry Coykendall",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.westbendwi.gov/clerk/Sample%20Ballots/D1%20Wards%201,%203%20-%20Ballot%204132.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

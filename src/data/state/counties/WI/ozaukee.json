@@ -1,0 +1,41 @@
+{
+  "state": "WI",
+  "county": "Ozaukee County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.ozaukee.wi.us/DocumentCenter/View/26672/County-Candidates-2026",
+    "https://www.co.ozaukee.wi.us/DocumentCenter/View/27768/November-3-2026---Summary-11-2026---Summary",
+    "https://www.co.ozaukee.wi.us/DocumentCenter/View/27769/November-3-2026---Municipality",
+    "https://www.co.ozaukee.wi.us/DocumentCenter/View/26675/Registered-Write-ins-November-2026",
+    "https://www.ozaukeecounty.gov/162/Election-Information"
+  ],
+  "note": "Candidates are from the Ozaukee County Clerk's list of county partisan candidates for fall 2026, which marks incumbents; party labels are from the county's pre-election report by municipality. The county's pre-election summary report for November 3, 2026 lists every programmed contest, and it shows no countywide or City of Port Washington referendum. Ozaukee County Board and City of Port Washington offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. Not shown: the Fox Point-Bayside school district referendum, which depends on your school district. Voters in the parts of Bayside and Newburg that lie outside Ozaukee County get that other county's offices instead. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Ozaukee County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-ozaukee-2026-sheriff-knowles-christy",
+          "name": "Christy N. Knowles",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.ozaukee.wi.us/DocumentCenter/View/26672/County-Candidates-2026"
+    },
+    {
+      "office": "Ozaukee County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-ozaukee-2026-clerkcircuit-mueller-connie",
+          "name": "Connie L. Mueller",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.ozaukee.wi.us/DocumentCenter/View/26672/County-Candidates-2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

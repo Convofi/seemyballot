@@ -1,0 +1,40 @@
+{
+  "state": "WI",
+  "county": "Marathon County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.marathoncitywi.gov/wp-content/uploads/2026/09/11.3.26-General-Election-Sample-Ballot.pdf",
+    "https://www.marathoncitywi.gov/wp-content/uploads/2026/09/Type-B-Notice-of-General-Election.pdf",
+    "https://www.marathoncitywi.gov/wp-content/uploads/2026/09/Type-C-Notice-of-General-Election-Referendum.pdf",
+    "https://www.marathoncitywi.gov/government/public-notices/election-notices/"
+  ],
+  "note": "Contests are from the Marathon County Clerk's Notice of General Election (Type B) and sample ballot for November 3, 2026, and the county's Notice of Referendum (Type C), as posted by the Village of Marathon City. The Marathon County and City of Wausau websites could not be reached, so incumbency is not marked. Marathon County Board and City of Wausau offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The county's referendum notice lists only the three statewide constitutional questions, so there is no countywide referendum. City of Wausau referenda could not be checked. Not shown: school district referenda, which depend on your school district. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Marathon County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-marathon-2026-sheriff-billeb-chad",
+          "name": "Chad D. Billeb",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.marathoncitywi.gov/wp-content/uploads/2026/09/11.3.26-General-Election-Sample-Ballot.pdf"
+    },
+    {
+      "office": "Marathon County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-marathon-2026-clerkcircuit-schremp-kelly",
+          "name": "Kelly Schremp",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.marathoncitywi.gov/wp-content/uploads/2026/09/11.3.26-General-Election-Sample-Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

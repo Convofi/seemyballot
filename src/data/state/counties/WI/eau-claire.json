@@ -1,0 +1,56 @@
+{
+  "state": "WI",
+  "county": "Eau Claire County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/FINAL%20ECCountyClerkElection_2026-11-02_ROP_2ndProof_20261019.pdf",
+    "https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/all%20Referendum%20for%20Website.pdf",
+    "https://www.eauclairecounty.gov/departments/county_clerk/elections/index.php",
+    "https://www.eauclairecounty.gov/departments/sheriff/index.php",
+    "https://www.eauclairecounty.gov/departments/clerk_of_courts/index.php"
+  ],
+  "note": "Contests are from the Eau Claire County Clerk's Notice of General Election and Referendum and Sample Ballots for November 3, 2026. Eau Claire County Board and City of Eau Claire offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The notice shows no countywide referendum. City of Eau Claire voters in Wards 16, 40, 41 and 64 live in Chippewa County and get Chippewa County's Sheriff, Coroner and Clerk of Circuit Court races instead of the Eau Claire County races shown here. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Eau Claire County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-eau-claire-2026-sheriff-riewestahl-dave",
+          "name": "Dave Riewestahl",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/FINAL%20ECCountyClerkElection_2026-11-02_ROP_2ndProof_20261019.pdf"
+    },
+    {
+      "office": "Eau Claire County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-eau-claire-2026-clerkcircuit-norberg-cherie",
+          "name": "Cherie Norberg",
+          "party": "Democratic",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/FINAL%20ECCountyClerkElection_2026-11-02_ROP_2ndProof_20261019.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Eau Claire": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Eau Claire Question",
+          "title": "Citizens' Advisory Healthcare Action Committee",
+          "summary": "Asks whether to enact an ordinance, proposed by citizen petition, creating Chapter 2.53 of the City of Eau Claire Code of Ordinances. The ordinance would create a seven-member, unpaid Citizens' Advisory Healthcare Action Committee to research healthcare affordability and access, hold at least two public meetings each year, and give nonbinding recommendations to the City Council. The committee would file a Healthcare Action Plan by September 15 of every even-numbered year.",
+          "yesMeans": "The ordinance is adopted and the city creates the Citizens' Advisory Healthcare Action Committee.",
+          "noMeans": "The ordinance is not adopted and no such committee is created.",
+          "source": "https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/FINAL%20ECCountyClerkElection_2026-11-02_ROP_2ndProof_20261019.pdf",
+          "moreInfo": "https://www.eauclairecounty.gov/Documents/Departments/Elected%20Offices/County%20Clerk/Elections/all%20Referendum%20for%20Website.pdf"
+        }
+      ]
+    }
+  }
+}

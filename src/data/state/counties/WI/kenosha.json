@@ -1,0 +1,45 @@
+{
+  "state": "WI",
+  "county": "Kenosha County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.pleasantprairiewi.gov/UserFiles/Servers/Server_6079530/File/Village%20Departments/PLEASANT%20PRAIRIE%20SAMPLES.pdf",
+    "https://www.pleasantprairiewi.gov/UserFiles/Servers/Server_6079530/File/Village%20Departments/Village%20Clerk/2026/AMENDED%2018pt%20-%2010-30-2026%20Type%20C%20Notice%20for%20Ref%20for%20November%202026%20General%20Election_Question%203%20Update.pdf",
+    "https://www.pleasantprairiewi.gov/departments/village_clerk/election_notices"
+  ],
+  "note": "Contests are from the November 3, 2026 official sample ballots for the Village of Pleasant Prairie (Kenosha County), and the Kenosha County Clerk's Notice of Referendum (Type C), both posted by the Pleasant Prairie Village Clerk. The Kenosha County and City of Kenosha websites could not be reached, so incumbency is not marked. Kenosha County Executive, County Board and City of Kenosha offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The county's referendum notice lists only the three statewide constitutional questions, so there is no countywide referendum. City of Kenosha referenda could not be checked. Not shown: school district referenda, which depend on your school district. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Kenosha County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-kenosha-2026-sheriff-zoerner-david",
+          "name": "David W. Zoerner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pleasantprairiewi.gov/UserFiles/Servers/Server_6079530/File/Village%20Departments/PLEASANT%20PRAIRIE%20SAMPLES.pdf"
+    },
+    {
+      "office": "Kenosha County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-kenosha-2026-clerkcircuit-rodriguez-zach",
+          "name": "Zach Rodriguez",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wi-kenosha-2026-clerkcircuit-sheffler-brian",
+          "name": "Brian M. Sheffler",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.pleasantprairiewi.gov/UserFiles/Servers/Server_6079530/File/Village%20Departments/PLEASANT%20PRAIRIE%20SAMPLES.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

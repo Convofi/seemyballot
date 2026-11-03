@@ -1,0 +1,38 @@
+{
+  "state": "WI",
+  "county": "La Crosse County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://greenfieldlaxwi.gov/assets/files/2026/08/hc3-samp.pdf",
+    "https://greenfieldlaxwi.gov/community/elections/"
+  ],
+  "note": "Contests are from the official November 3, 2026 sample ballot posted by the Town of Greenfield Clerk (La Crosse County). The La Crosse County website could not be reached, so incumbency is not marked and City of La Crosse ballots could not be checked for a city referendum. La Crosse County Board and City of La Crosse offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The sample ballot shows no countywide referendum. Not shown: school district referenda, such as the Westby Area School District question, which depend on your school district, and any City of La Crosse question. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "La Crosse County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-la-crosse-2026-sheriff-siegel-john",
+          "name": "John C. Siegel",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://greenfieldlaxwi.gov/assets/files/2026/08/hc3-samp.pdf"
+    },
+    {
+      "office": "La Crosse County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-la-crosse-2026-clerkcircuit-pedretti-tammy",
+          "name": "Tammy Pedretti",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://greenfieldlaxwi.gov/assets/files/2026/08/hc3-samp.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

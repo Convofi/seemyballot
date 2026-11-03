@@ -1,0 +1,45 @@
+{
+  "state": "WI",
+  "county": "Walworth County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.walworth.wi.us/DocumentCenter/View/20544/Vote-for-One--Candidates-for-CongressionalLegisState-110326",
+    "https://www.co.walworth.wi.us/198/elections",
+    "https://www.co.walworth.wi.us/directory.aspx"
+  ],
+  "note": "Contests are from the Walworth County Clerk's listing of candidates for congressional, legislative, state and Walworth County offices to be voted on at the November 3, 2026 general election. Walworth County Board and City of Elkhorn offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. The listing shows no countywide or City of Elkhorn referendum. Not shown: school district referenda (Delavan-Darien, Whitewater Unified, Williams Bay, Palmyra-Eagle Area and Geneva Joint No. 4 Woods School), which depend on your school district. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Walworth County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-walworth-2026-sheriff-hausner-tom",
+          "name": "Tom Hausner",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wi-walworth-2026-sheriff-keller-csaba",
+          "name": "Csaba Keller",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.walworth.wi.us/DocumentCenter/View/20544/Vote-for-One--Candidates-for-CongressionalLegisState-110326"
+    },
+    {
+      "office": "Walworth County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-walworth-2026-clerkcircuit-jacobs-michele",
+          "name": "Michele Jacobs",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.walworth.wi.us/DocumentCenter/View/20544/Vote-for-One--Candidates-for-CongressionalLegisState-110326"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

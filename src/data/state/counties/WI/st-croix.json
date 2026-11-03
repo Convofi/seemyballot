@@ -1,0 +1,53 @@
+{
+  "state": "WI",
+  "county": "St. Croix County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sccwi.gov/DocumentCenter/View/12044/SCC-General-Election-and-Sample-Ballot-10-28-26",
+    "https://www.sccwi.gov/1035/Election-Information-Results",
+    "https://www.sccwi.gov/Directory.aspx?did=56"
+  ],
+  "note": "Contests are from the St. Croix County Clerk's Notice of General Election and Sample Ballots for November 3, 2026. St. Croix County Board and City of Hudson offices are elected in spring, and County Clerk, Treasurer, Register of Deeds and District Attorney are not on this ballot. There is no countywide referendum. Not shown: the Town of Hudson levy referendum and the Glenwood City and Somerset school district referenda, which depend on your town or school district. Voters in the parts of River Falls, Spring Valley and other municipalities that lie outside St. Croix County get that other county's offices instead. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "St. Croix County Sheriff",
+      "candidates": [
+        {
+          "key": "wi-st-croix-2026-sheriff-knudson-scott",
+          "name": "Scott Knudson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sccwi.gov/DocumentCenter/View/12044/SCC-General-Election-and-Sample-Ballot-10-28-26"
+    },
+    {
+      "office": "St. Croix County Clerk of Circuit Court",
+      "candidates": [
+        {
+          "key": "wi-st-croix-2026-clerkcircuit-kittel-kathy",
+          "name": "Kathy A. Kittel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sccwi.gov/DocumentCenter/View/12044/SCC-General-Election-and-Sample-Ballot-10-28-26"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Hudson": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Hudson Referendum",
+          "title": "City of Hudson: Exceed the State Levy Limit for Fire Department Staffing",
+          "summary": "State law limits the City of Hudson's 2027 levy increase to 0.872%, a levy of $13,335,657. This question asks whether the city may instead raise its levy by 9.698%, to $14,628,943, to add 9 full-time fire staff and pay ongoing Hudson Fire Department expenses. The $1,293,285.68 increase would continue in each year after.",
+          "yesMeans": "The Common Council may exceed the state levy limit by $1,293,285.68 a year on an ongoing basis to add full-time Hudson Fire Department staff and fund the department.",
+          "noMeans": "The city stays within the state levy limit and the fire department continues to be staffed as it is now, relying on on-call firefighters.",
+          "source": "https://www.sccwi.gov/DocumentCenter/View/12044/SCC-General-Election-and-Sample-Ballot-10-28-26"
+        }
+      ]
+    }
+  }
+}
