@@ -1,0 +1,182 @@
+{
+  "state": "WA",
+  "county": "Chelan County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=04&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Chelan County. Party is the candidate's stated preference ('GOP' shown as Republican). County Commissioner District 2 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Chelan County PUD Commissioner District 1 and District B, legislative and congressional districts, the City of Cashmere Proposition No. 1 and the Wenatchee School District No. 246 Proposition No. 1, which depend on where you live. No countywide Chelan County measure and no City of Wenatchee office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 3, District 3, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-app3d3-pos1-murphy-megan",
+          "name": "Megan K. Murphy",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Assessor",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-assessor-port-britini",
+          "name": "Britini Port",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-chelan-2026-assessor-cornelius-wes",
+          "name": "Wes Cornelius",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Auditor",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-auditor-brett-brian",
+          "name": "Brian Brett",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-chelan-2026-auditor-cappell-brandt",
+          "name": "Brandt Cappell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Clerk",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-clerk-arechiga-sandra",
+          "name": "Sandra Arechiga",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-chelan-2026-clerk-young-marty",
+          "name": "Marty Young",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Commissioner, District No. 2 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-commissioner-d-2-smith-shon",
+          "name": "Shon D. Smith",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-chelan-2026-commissioner-d-2-strand-clint",
+          "name": "Clint Strand",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Coroner",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-coroner-crowe-earl",
+          "name": "Earl J. Crowe",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-prosecuting-attorney-sealby-robert",
+          "name": "Robert W. Sealby",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-sheriff-morrison-mike",
+          "name": "Mike Morrison",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-chelan-2026-sheriff-langlow-stan",
+          "name": "Stan Langlow",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-treasurer-viall-richard",
+          "name": "Richard (Rick) Viall",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-chelan-2026-treasurer-miller-doug",
+          "name": "Doug Miller",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County District Court Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-district-court-pos-1-volyn-jon",
+          "name": "Jon Volyn",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    },
+    {
+      "office": "Chelan County District Court Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-chelan-2026-district-court-pos-2-blackmon-allen",
+          "name": "Allen F. Blackmon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=04"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

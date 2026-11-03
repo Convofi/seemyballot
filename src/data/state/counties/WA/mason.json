@@ -1,0 +1,173 @@
+{
+  "state": "WA",
+  "county": "Mason County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=23&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Mason County. Party is the candidate's stated preference; 'Labor Democrat' is shown as Other. County Commissioner District No. 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: PUD No. 1 and PUD No. 3 Commissioner District 2, legislative and congressional districts, the Timberland Regional Library District levy lid lift, and the Pioneer School District 402, Southside School District 42 and McCleary School District No. 65 measures, which depend on where you live. No countywide Mason County measure and no City of Shelton office is on this ballot; the City of Shelton transportation sales tax proposition is shown. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 2, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-app2d2-pos1-price-erik",
+          "name": "Erik D. Price",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Assessor",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-assessor-mclean-patti",
+          "name": "Patti McLean",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Auditor",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-auditor-ingwaldson-tamra",
+          "name": "Tamra 'Tam' Ingwaldson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-mason-2026-auditor-duenkel-steve",
+          "name": "Steve Duenkel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Clerk",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-clerk-rhodes-charles",
+          "name": "Charles G. Rhodes",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-mason-2026-clerk-clark-tammy",
+          "name": "Tammy Clark",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-commissioner-d-3-gutierrez-miguel",
+          "name": "Miguel Gutierrez",
+          "party": "Other",
+          "incumbent": false
+        },
+        {
+          "key": "wa-mason-2026-commissioner-d-3-blush-george",
+          "name": "George Blush",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Coroner",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-coroner-taylor-jaime",
+          "name": "Jaime Taylor",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-prosecuting-attorney-dorcy-michael",
+          "name": "Michael Dorcy",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-sheriff-spurling-ryan",
+          "name": "Ryan Spurling",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-treasurer-pearson-brittany",
+          "name": "Brittany A Pearson",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-mason-2026-treasurer-lewis-randy",
+          "name": "Randy Lewis",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    },
+    {
+      "office": "Mason County District Court Judge",
+      "candidates": [
+        {
+          "key": "wa-mason-2026-district-court-steele-george",
+          "name": "George Alan Steele",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Shelton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "Sales and Use Tax for Transportation Improvements",
+          "summary": "Under Resolution 1450-0726, the sales and use tax collected in the City of Shelton for transportation would rise from two-tenths of one percent (0.2%) to three-tenths of one percent (0.3%) for ten years. The money could be used only for street and pedestrian maintenance, repair and construction projects in the city's transportation programs, or to repay debt for transportation improvements. The tax is paid by anyone making a taxable purchase in the city.",
+          "yesMeans": "The transportation sales tax in Shelton would rise to 0.3% for ten years.",
+          "noMeans": "The transportation sales tax in Shelton would stay at its current 0.2% rate.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23#/measure/7384",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=23"
+        }
+      ]
+    }
+  }
+}

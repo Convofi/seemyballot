@@ -1,0 +1,164 @@
+{
+  "state": "MO",
+  "county": "St. Francois County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf",
+    "https://www.sfcgov.org/2026/09/21/sample-ballot-november-3-2026/"
+  ],
+  "note": "From the St. Francois County Clerk's November 3, 2026 sample ballot and notice of election. Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. The sample ballot lists no county or City of Farmington questions. Incumbent flags are not set for county offices because we did not check an official roster; each appeals judge on a retention ballot is the sitting judge. Not shown: U.S. House District 8 and State House Districts 116 and 117, which depend on where you live. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Circuit Judge, 24th Circuit, Division IV",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-assoc-circuit-judge-div4-king-patrick",
+          "name": "Patrick L. King",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, 24th Circuit, Division V",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-assoc-circuit-judge-div5-smith-todd",
+          "name": "Todd T Smith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-presiding-commissioner-scism-kent",
+          "name": "Kent Scism",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-st-francois-2026-presiding-commissioner-young-bill",
+          "name": "Bill Young",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-county-clerk-engler-kevin",
+          "name": "Kevin Engler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Circuit Clerk",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-circuit-clerk-bone-kristina",
+          "name": "Kristina Bone",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-recorder-graf-jay",
+          "name": "Jay Graf",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-prosecuting-attorney-dudley-blake",
+          "name": "Blake Dudley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "County Collector",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-collector-usery-angie",
+          "name": "Angie K Usery",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-auditor-seiberlich-louie",
+          "name": "Louie Seiberlich",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-appeals-ed-retain-lay-virginia",
+          "name": "Virginia W. Lay",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-appeals-ed-retain-navarro-mckelvey-rebeca",
+          "name": "Rebeca Navarro-McKelvey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Eastern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-st-francois-2026-appeals-ed-retain-quigless-angela",
+          "name": "Angela Turner Quigless",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sfcgov.org/download/clerk/elections/Sample-Ballot-General-Election-November-3-2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

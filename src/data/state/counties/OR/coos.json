@@ -1,0 +1,99 @@
+{
+  "state": "OR",
+  "county": "Coos County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://co.coos.or.us/november-3-2026-general-election",
+    "https://co.coos.or.us/files/2d02ac0e6/City+Certification+-+Coquille.pdf"
+  ],
+  "note": "From Coos County Elections' November 3, 2026 General Election page (county candidates and local measures) and the City of Coquille's certification of city candidates. County offices are nonpartisan. No Coos County commissioner race is listed for this election. Incumbent flags are not set because we did not check an official roster. Not shown: U.S. House Districts 2 and 4, State Representative Districts 1 and 9, Central Lincoln People's Utility District and Coos Soil & Water Conservation District directors, offices in other cities, and the City of Bandon (6-231), City of Coos Bay (6-230) and City of North Bend (6-232) measures, which depend on where you live. No countywide Coos County measure and no City of Coquille measure is on this ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Coos County Clerk",
+      "candidates": [
+        {
+          "key": "or-coos-2026-clerk-brecke-julie",
+          "name": "Julie A Brecke",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.coos.or.us/november-3-2026-general-election"
+    },
+    {
+      "office": "Coos County Sheriff",
+      "candidates": [
+        {
+          "key": "or-coos-2026-sheriff-kinnaird-m",
+          "name": "M A Kinnaird",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-coos-2026-sheriff-fabrizio-gabe",
+          "name": "Gabe Fabrizio",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://co.coos.or.us/november-3-2026-general-election"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Coquille": {
+      "contests": [
+        {
+          "office": "Coquille Mayor (2-year term)",
+          "candidates": [
+            {
+              "key": "or-coos-2026-coquille-mayor-flaherty-sam",
+              "name": "Sam Flaherty",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-coos-2026-coquille-mayor-simonetti-kathryn",
+              "name": "Kathryn Simonetti",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://co.coos.or.us/files/2d02ac0e6/City+Certification+-+Coquille.pdf"
+        },
+        {
+          "office": "Coquille City Council (4-year term, vote for 3)",
+          "seats": 3,
+          "candidates": [
+            {
+              "key": "or-coos-2026-coquille-council-frasier-paul",
+              "name": "Paul Frasier",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-coos-2026-coquille-council-martin-claire",
+              "name": "Claire Martin",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-coos-2026-coquille-council-teel-jo",
+              "name": "Jo Teel",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "or-coos-2026-coquille-council-bready-scott",
+              "name": "Scott Bready",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://co.coos.or.us/files/2d02ac0e6/City+Certification+-+Coquille.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

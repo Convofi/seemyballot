@@ -1,0 +1,159 @@
+{
+  "state": "AK",
+  "county": "Anchorage Municipality",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf",
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD9-JD3.pdf",
+    "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD24-JD3.pdf"
+  ],
+  "note": "From the Alaska Division of Elections' official sample ballots for House Districts 9, 17 and 24 in the Third Judicial District, which list the same superior and district court retention questions. All of the Municipality of Anchorage is in the Third Judicial District. Each judge on a retention ballot is the sitting judge. Anchorage Assembly, mayor, school board and municipal bond propositions are decided in the April municipal election; the sample ballots show no Anchorage municipal item on this ballot, so there is no city section. Not shown: State House and Senate districts. Supreme Court Justice Jude Pate's retention and Ballot Measures 2 and 3 are statewide and not repeated here. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Laura Hartz? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-hartz-laura",
+          "name": "Laura Hartz",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Yvonne Lamoureux? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-lamoureux-yvonne",
+          "name": "Yvonne Lamoureux",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Kelly J. Lawson? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-lawson-kelly",
+          "name": "Kelly J. Lawson",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Jack R. McKenna? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-mckenna-jack",
+          "name": "Jack R. McKenna",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge David A. Nesbett? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-nesbett-david",
+          "name": "David A. Nesbett",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Christina Rankin? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-rankin-christina",
+          "name": "Christina Rankin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Christina L. Reigh \"Tina\"? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-reigh-christina",
+          "name": "Christina L. Reigh \"Tina\"",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Ian Wheeles? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-wheeles-ian",
+          "name": "Ian Wheeles",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "Superior Court, Third Judicial District: retain Judge Jonathan A. Woodman? (Yes/No retention vote, 6-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-superior-retain-woodman-jonathan",
+          "name": "Jonathan A. Woodman",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "District Court, Third Judicial District: retain Judge Chris Darnall? (Yes/No retention vote, 4-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-district-retain-darnall-chris",
+          "name": "Chris Darnall",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "District Court, Third Judicial District: retain Judge Martin C. Fallon? (Yes/No retention vote, 4-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-district-retain-fallon-martin",
+          "name": "Martin C. Fallon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    },
+    {
+      "office": "District Court, Third Judicial District: retain Judge Shawn D. Traini? (Yes/No retention vote, 4-year term)",
+      "candidates": [
+        {
+          "key": "ak-anchorage-2026-district-retain-traini-shawn",
+          "name": "Shawn D. Traini",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.elections.alaska.gov/election/2026/General/SampleBallots/HD17-JD3.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

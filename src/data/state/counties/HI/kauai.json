@@ -1,0 +1,132 @@
+{
+  "state": "HI",
+  "county": "Kauai County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf",
+    "https://elections.hawaii.gov/wp-content/uploads/2026-Candidates-Manual.pdf"
+  ],
+  "note": "From the state Office of Elections 2026 General Election Voter Guide, which lists every candidate on the general election ballot, and the 2026 Candidate's Manual, which lists the Kauai Mayor (4-year term) and seven County Council seats (2-year terms, all elected countywide; vote for up to 7) as the Kauai County offices on this ballot. County offices are nonpartisan. Incumbency is not marked because no official roster was checked. The voter guide does not number the charter question; its ballot number may differ. Kauai County has no incorporated cities, so there is no city section. Not shown: state legislative and Office of Hawaiian Affairs contests. Proposed state constitutional amendments are statewide and not repeated here. The County of Kauai website (kauai.gov/Charter) blocked our access, so we used the state voter guide's text. Check your official ballot.",
+  "contests": [
+    {
+      "office": "Mayor",
+      "candidates": [
+        {
+          "key": "hi-kauai-2026-mayor-carvalho-bernard",
+          "name": "Bernard Carvalho, Jr.",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-mayor-rapozo-mel",
+          "name": "Mel Rapozo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    },
+    {
+      "office": "County Council (at large, vote for up to 7)",
+      "seats": 7,
+      "candidates": [
+        {
+          "key": "hi-kauai-2026-council-applegate-paul",
+          "name": "Paul Noboru Applegate",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-correa-michelle",
+          "name": "Michelle Kaleiohi Correa",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-coots-mike",
+          "name": "Mike Coots",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-bulosan-addison",
+          "name": "Addison Bulosan",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-decosta-billy",
+          "name": "Billy D. DeCosta",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-kaiminaauao-keola",
+          "name": "Keola Kaiminaauao",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-holland-fern",
+          "name": "Fern Anuenue Holland",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-kaneshiro-arryl",
+          "name": "Arryl J. Kaneshiro",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-martin-umi",
+          "name": "Umi Martin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-mattos-john",
+          "name": "John H. (Scooby) Mattos",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-ozaki-todd",
+          "name": "Todd R. Ozaki",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-rapozo-cheree",
+          "name": "Cheree Rapozo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-shigemoto-taylor",
+          "name": "Taylor H. Shigemoto",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "hi-kauai-2026-council-smith-dane",
+          "name": "Dane Smith",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Charter Amendment",
+      "title": "Relating to Zoning Board of Appeals",
+      "summary": "Would amend the Kauai County Charter to remove all references to a Zoning Board of Appeals, which was added in 2016 but has never been used. Appeals from Planning Commission decisions would continue to be heard by the Planning Commission or Hearings Officers, as they are now.",
+      "yesMeans": "The Zoning Board of Appeals is removed from the Kauai County Charter.",
+      "noMeans": "The Charter keeps the Zoning Board of Appeals as an option for hearing Planning Commission appeals.",
+      "source": "https://elections.hawaii.gov/wp-content/uploads/VoterGuide_2026_General_English.pdf"
+    }
+  ],
+  "municipalities": {}
+}

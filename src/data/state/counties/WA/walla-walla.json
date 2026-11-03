@@ -1,0 +1,170 @@
+{
+  "state": "WA",
+  "county": "Walla Walla County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=36&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Walla Walla County. Party is the candidate's stated preference. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: legislative and congressional districts, the Dixie School District No. 101 Proposition 1 and the Prescott Joint Park and Recreation District Proposition No. 1, which depend on where you live. No countywide Walla Walla County measure and no City of Walla Walla office or measure is on this ballot. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 3, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-app3d2-pos1-hill-tyson",
+          "name": "Tyson R. Hill",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Assessor",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-assessor-burres-byron",
+          "name": "Byron Burres",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Auditor",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-auditor-park-sheryl",
+          "name": "Sheryl R. Park",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-walla-walla-2026-auditor-reeves-tim",
+          "name": "Tim Reeves",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Clerk",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-clerk-renwick-becky",
+          "name": "Becky Renwick",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-commissioner-d-3-fulmer-gunner",
+          "name": "Gunner Fulmer",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-walla-walla-2026-commissioner-d-3-woody-troy",
+          "name": "Troy Woody",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Coroner",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-coroner-greenwood-richard",
+          "name": "Richard Greenwood",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-prosecuting-attorney-acosta-gabriel",
+          "name": "Gabriel Acosta",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-sheriff-schram-richard",
+          "name": "Richard Schram",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-walla-walla-2026-sheriff-daschofsky-ashley",
+          "name": "Ashley Daschofsky",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-treasurer-heimbigner-gordon",
+          "name": "Gordon R Heimbigner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County District Court Judge (Full Time)",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-district-court-full-time-hawkins-jared",
+          "name": "Jared N. Hawkins",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    },
+    {
+      "office": "Walla Walla County District Court Judge (Part Time)",
+      "candidates": [
+        {
+          "key": "wa-walla-walla-2026-district-court-part-time-holce-nicholas",
+          "name": "Nicholas Holce",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-walla-walla-2026-district-court-part-time-carman-wagner-janelle",
+          "name": "Janelle Carman-Wagner",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=36"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

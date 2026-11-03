@@ -1,0 +1,47 @@
+{
+  "state": "OR",
+  "county": "Klamath County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.klamathcounty.org/692/Election-Calendar-Candidates",
+    "https://www.klamathcounty.org/DocumentCenter/View/63824/November-3-2026-pdf",
+    "https://www.klamathcounty.org/DocumentCenter/View/39475/County-Summary-Certified-Report-pdf",
+    "https://www.klamathcounty.org/DocumentCenter/View/2313",
+    "https://www.klamathcounty.org/680/Measures"
+  ],
+  "note": "From Klamath County Elections' candidate filings for the November 3, 2026 General Election, the voters' pamphlet the county posts for this election, and the county's certified May 19, 2026 primary results. County offices are nonpartisan. Commissioner Position 2 (Steve Bitzer) and Assessor (Nathan Bigby) were decided at the May primary with a majority, so they are not on this ballot. Incumbent flags are not set: the certified May report shows Rochelle Long as County Clerk, and she is not a candidate; we did not check a roster for Treasurer. Not shown: State Representative Districts 55 and 56, Klamath Falls City Council Wards 3, 4 and 5 (elected by ward; Klamath Falls has no citywide office or measure this election), offices in other cities, and Chemult Rural Fire Protection District Measure 18-145, which depend on where you live. No countywide Klamath County measure is on this ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Klamath County Clerk",
+      "candidates": [
+        {
+          "key": "or-klamath-2026-clerk-palcovich-sally-ann",
+          "name": "Sally-Ann Palcovich",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-klamath-2026-clerk-jackson-rejeana",
+          "name": "Rejeana Jackson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.klamathcounty.org/692/Election-Calendar-Candidates"
+    },
+    {
+      "office": "Klamath County Treasurer",
+      "candidates": [
+        {
+          "key": "or-klamath-2026-treasurer-noel-vickie",
+          "name": "Vickie Noel",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.klamathcounty.org/692/Election-Calendar-Candidates"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

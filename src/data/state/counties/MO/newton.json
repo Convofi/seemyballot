@@ -1,0 +1,140 @@
+{
+  "state": "MO",
+  "county": "Newton County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf",
+    "https://www.ncclerk.org/electionsvoters/"
+  ],
+  "note": "From the Newton County Clerk's November 3, 2026 sample ballots (seven ballot styles, all carrying the county offices shown here). Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Incumbent flags are not set for county offices because we did not check an official roster; the appeals judge on a retention ballot is the sitting judge. Not shown because they depend on where you live: County Commissioner District #2 (2-year unexpired term), U.S. House District 7, State Senate District 32, State House Districts 159 and 160, City of Diamond Proposition 1, Sarcoxie Rural Fire Protection District Proposition 3 and Seneca Area Fire Protection District Proposition 2. The sample ballots list no countywide or City of Neosho question. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Circuit Judge, Division III",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-assoc-circuit-judge-div3-skouby-jacob",
+          "name": "Jacob Skouby",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division IV",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-assoc-circuit-judge-div4-rhoades-christine",
+          "name": "Christine Rhoades",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Presiding Commissioner of the County Commission",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-presiding-commissioner-bridges-mark",
+          "name": "Mark Bridges",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-newton-2026-presiding-commissioner-lindstedt-martin",
+          "name": "Martin \"Mad Dog\" Lindstedt",
+          "party": "Libertarian",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-circuit-clerk-merrell-shayla",
+          "name": "Shayla Merrell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Clerk of the County Commission",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-county-clerk-owens-tami",
+          "name": "Tami (Renfro) Owens",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-recorder-childers-jenny",
+          "name": "Jenny Cullers Childers",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-prosecuting-attorney-lynch-william",
+          "name": "William Lynch",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-collector-crawford-jessica",
+          "name": "Jessica Crawford",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Auditor",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-auditor-major-matt",
+          "name": "Matt Major",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Southern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-newton-2026-appeals-sd-retain-hamner-matthew",
+          "name": "Matthew P. Hamner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.ncclerk.org/wp-content/uploads/2026/09/SAMPLEBALLOTSNEWTONCONOVGEN2026.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

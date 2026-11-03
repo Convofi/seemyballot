@@ -1,0 +1,167 @@
+{
+  "state": "MO",
+  "county": "Cole County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot",
+    "https://www.colecounty.org/441/Sample-Ballots",
+    "https://www.colecounty.org/419/Elected-Officials"
+  ],
+  "note": "From the Cole County Clerk's November 3, 2026 combined sample ballot and notice of election. The 19th Judicial Circuit is Cole County alone, so its judges are elected countywide. Missouri Supreme Court retention, State Auditor and statewide amendments/propositions are shown in the Missouri state section. Incumbent flags come from the county's elected-officials page; Mike Bernskoetter (Presiding Commissioner), Dave Griffith (County Clerk) and Joseph Shetler (Associate Circuit Judge, Division 6) are not listed there as the current officeholders. Not shown: U.S. House District 3, State Senate District 6 and State House Districts 59 and 60, which depend on where you live. No countywide Cole County question is on the ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Circuit Judge, 19th Circuit, Division 2",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-circuit-judge-div2-green-daniel",
+          "name": "Daniel Green",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "Circuit Judge, 19th Circuit, Division 3",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-circuit-judge-div3-walker-cotton",
+          "name": "Cotton Walker",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "Associate Circuit Judge, 19th Circuit, Division 6",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-assoc-circuit-judge-div6-shetler-joseph",
+          "name": "Joseph Shetler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-presiding-commissioner-bernskoetter-mike",
+          "name": "Mike Bernskoetter",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "mo-cole-2026-presiding-commissioner-steck-chuck",
+          "name": "Chuck Steck",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-county-clerk-griffith-dave",
+          "name": "Dave Griffith",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "Circuit Clerk",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-circuit-clerk-eichholz-mark",
+          "name": "Mark Eichholz",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-recorder-ridgeway-judy",
+          "name": "Judy K Ridgeway",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-prosecuting-attorney-thompson-locke",
+          "name": "Locke Thompson",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "County Collector",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-collector-vincent-larry",
+          "name": "Larry Vincent",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-auditor-moore-jay",
+          "name": "Jay Moore",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Western District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-cole-2026-appeals-wd-retain-hardwick-lisa",
+          "name": "Lisa White Hardwick",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Jefferson City": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition 1",
+          "title": "City of Jefferson Proposition 1 (citywide sales tax for public safety)",
+          "summary": "The City of Jefferson would impose a citywide sales tax of one-quarter of one percent (0.25%). The money would be used to improve public safety in the city.",
+          "yesMeans": "Jefferson City would add a 0.25% citywide sales tax for public safety.",
+          "noMeans": "Jefferson City would not add this 0.25% public safety sales tax.",
+          "source": "https://www.colecounty.org/DocumentCenter/View/14428/November-3-2026-Cole-County-Combined-Sample-Ballot"
+        }
+      ]
+    }
+  }
+}

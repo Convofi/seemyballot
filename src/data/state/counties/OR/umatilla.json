@@ -1,0 +1,58 @@
+{
+  "state": "OR",
+  "county": "Umatilla County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.umatillacounty.gov/departments/elections/general-election/contest-and-candidate-listing-for-the-november-3-2026-general-election",
+    "https://www.umatillacounty.gov/fileadmin/user_upload/Elections/Results/2026/Primary/May/results.pdf"
+  ],
+  "note": "From Umatilla County Elections' contest and candidate listing for the November 3, 2026 General Election. Umatilla County commissioner positions are numbered countywide positions and the race is nonpartisan. Incumbent flags are not set because we did not check an official roster. Pendleton's city council seats were decided at the May 19, 2026 primary, so Pendleton has only Measure 30-177 on this ballot. Not shown: State Representative Districts 57 and 58, Soil & Water Conservation District directors, Umatilla County Fire District #1 Measure 30-175, Pilot Rock Fire District Measure 30-176, City of Hermiston Measure 30-178, and offices in other cities, which depend on where you live. No countywide Umatilla County measure is on this ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Umatilla County Commissioner, Position 1",
+      "candidates": [
+        {
+          "key": "or-umatilla-2026-commissioner-pos-1-timmons-celinda",
+          "name": "Celinda A Timmons",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "or-umatilla-2026-commissioner-pos-1-antoniello-eddy",
+          "name": "Eddy J Antoniello",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.umatillacounty.gov/departments/elections/general-election/contest-and-candidate-listing-for-the-november-3-2026-general-election"
+    },
+    {
+      "office": "Umatilla County Commissioner, Position 2",
+      "candidates": [
+        {
+          "key": "or-umatilla-2026-commissioner-pos-2-shafer-john",
+          "name": "John Shafer",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.umatillacounty.gov/departments/elections/general-election/contest-and-candidate-listing-for-the-november-3-2026-general-election"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Pendleton": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Measure 30-177",
+          "title": "Local Option Levy for Fire and Ambulance Operations",
+          "summary": "Pendleton Fire and Ambulance would levy $1.29 per $1,000 of assessed value for five years beginning in 2027-28, raising about $1.62 million a year. The money would pay for six firefighter/paramedics, a mechanic, a fire prevention inspector and a data analyst/grant writer, plus fire and medical equipment and supplies. The ballot notes the measure may cause property taxes to increase more than three percent.",
+          "yesMeans": "Pendleton would levy $1.29 per $1,000 of assessed value for five years for fire and ambulance services.",
+          "noMeans": "This five-year fire and ambulance levy would not be imposed.",
+          "source": "https://www.umatillacounty.gov/departments/elections/general-election/contest-and-candidate-listing-for-the-november-3-2026-general-election"
+        }
+      ]
+    }
+  }
+}

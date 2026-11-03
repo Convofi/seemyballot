@@ -1,0 +1,203 @@
+{
+  "state": "WA",
+  "county": "Grays Harbor County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14",
+    "https://voter.votewa.gov/elections/voterguide.ashx?e=899&la=en&c=14&p=XX"
+  ],
+  "note": "From the Washington Secretary of State's online voter guide for Grays Harbor County. Party is the candidate's stated preference; 'States No Party Preference' is shown as Independent and 'Practical Democrat' as Other. County Commissioner District 3 is listed by the Secretary of State with the countywide county offices (nominated by district, elected countywide in the general election). Incumbent flags are not set because we did not check an official roster. Not shown: Grays Harbor PUD Commissioner District 3, legislative and congressional districts, the Timberland Regional Library District levy lid lift, the McCleary School District No. 65 bonds, and the Fire Protection District No. 1 and No. 2 levies, which depend on where you live. No countywide Grays Harbor County measure and no City of Montesano office is on this ballot; the City of Montesano Proposition No. 1 is shown. Supreme Court races appear with the statewide races. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals, Division 2, District 2, Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-app2d2-pos1-price-erik",
+          "name": "Erik D. Price",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Assessor",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-assessor-lindgren-dan",
+          "name": "Dan Lindgren",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grays-harbor-2026-assessor-nuxoll-josh",
+          "name": "Josh Nuxoll",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Auditor",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-auditor-paull-charlee",
+          "name": "Charlee Paull",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grays-harbor-2026-auditor-joyce-brielle",
+          "name": "Brielle S Joyce",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Clerk",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-clerk-foster-kym",
+          "name": "Kym Foster",
+          "party": "Other",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Commissioner, District No. 3 (elected countywide)",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-commissioner-d-3-sturgeon-stan",
+          "name": "Stan Sturgeon",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grays-harbor-2026-commissioner-d-3-streifel-jr",
+          "name": "JR Streifel",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Coroner",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-coroner-kelley-george",
+          "name": "George J Kelley",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-prosecuting-attorney-walker-jason",
+          "name": "Jason F. Walker",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grays-harbor-2026-prosecuting-attorney-crawford-daniel",
+          "name": "Daniel Crawford",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Sheriff",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-sheriff-wallace-darrin",
+          "name": "Darrin E. Wallace",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grays-harbor-2026-sheriff-welter-edward",
+          "name": "Edward Welter",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County Treasurer",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-treasurer-hill-shawn",
+          "name": "Shawn D. Hill",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grays-harbor-2026-treasurer-cormier-wes",
+          "name": "Wes Cormier",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County District Court Judge Position 1",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-district-court-pos-1-vingo-andrea",
+          "name": "Andrea Vingo",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    },
+    {
+      "office": "Grays Harbor County District Court Judge Position 2",
+      "candidates": [
+        {
+          "key": "wa-grays-harbor-2026-district-court-pos-2-mistachkin-david",
+          "name": "David Mistachkin",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "wa-grays-harbor-2026-district-court-pos-2-valentine-megan",
+          "name": "Megan Valentine",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Montesano": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition No. 1",
+          "title": "Levy to Maintain Essential Services, Public Safety and Emergency Services, Operations and Capital Improvements",
+          "summary": "Under Ordinance No. 1679, the City of Montesano would renew and raise its regular property tax levy to a total rate of up to $3.22 per $1,000 of assessed value for collection beginning in 2027. The 2026 levy amount would be used to recalculate later levy limits for up to six years, with an annual 5% limit factor. The added money would fund current service levels in the General Fund and public safety and emergency services.",
+          "yesMeans": "Montesano could levy up to $3.22 per $1,000 of assessed value starting in 2027 to fund city services and public safety.",
+          "noMeans": "Montesano's property tax levy would not be raised to $3.22 per $1,000 under this measure.",
+          "source": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14#/measure/7377",
+          "moreInfo": "https://voter.votewa.gov/genericvoterguide.aspx?e=899&c=14"
+        }
+      ]
+    }
+  }
+}
