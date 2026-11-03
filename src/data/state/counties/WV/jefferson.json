@@ -1,0 +1,40 @@
+{
+  "state": "WV",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Jefferson%20261103%20General%20-%2014inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://www.jeffersoncountywv.org/county-government/elected-officials/prosecuting-attorney"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Jefferson County precinct; every precinct votes on the same county contests. Both County Commission seats are elected countywide; each candidate must live in the magisterial district named for the seat, and no more than one commissioner may live in any magisterial district. Incumbency for Prosecuting Attorney is from the county's Prosecuting Attorney page. There is no countywide levy and no City of Charles Town contest on this ballot. The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Jefferson County Commissioner, Harpers Ferry District",
+      "candidates": [
+        { "key": "wv-jefferson-2026-county-commissioner-harpers-ferry-majdi-pasha", "name": "Pasha Majdi", "party": "Republican", "incumbent": false },
+        { "key": "wv-jefferson-2026-county-commissioner-harpers-ferry-johnson-lanae", "name": "Lanae Johnson", "party": "Democratic", "incumbent": false },
+        { "key": "wv-jefferson-2026-county-commissioner-harpers-ferry-jackson-tricia", "name": "Tricia Jackson", "party": "Other", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Jefferson%20261103%20General%20-%2014inch.pdf"
+    },
+    {
+      "office": "Jefferson County Commissioner, Kabletown District",
+      "candidates": [
+        { "key": "wv-jefferson-2026-county-commissioner-kabletown-stolipher-steve", "name": "Steve Stolipher", "party": "Republican", "incumbent": false },
+        { "key": "wv-jefferson-2026-county-commissioner-kabletown-reagan-mary", "name": "Mary Mickey Reagan", "party": "Democratic", "incumbent": false },
+        { "key": "wv-jefferson-2026-county-commissioner-kabletown-lutz-danny", "name": "Danny Lutz", "party": "Other", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Jefferson%20261103%20General%20-%2014inch.pdf"
+    },
+    {
+      "office": "Jefferson County Prosecuting Attorney (unexpired term)",
+      "candidates": [
+        { "key": "wv-jefferson-2026-prosecuting-attorney-unexp-ward-adam", "name": "Adam J Ward", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Jefferson%20261103%20General%20-%2014inch.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,48 @@
+{
+  "state": "WV",
+  "county": "Harrison County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Harrison%20261103%20General%20-%2017inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://www.harrisoncountywv.com/commissioners.html"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Harrison County precinct; every precinct votes on the same county contests and the two special levies. The County Commission seat is elected countywide, but no more than one commissioner may live in any magisterial district. There is no City of Clarksburg contest on this ballot. The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Harrison County Circuit Clerk (unexpired term)",
+      "candidates": [
+        { "key": "wv-harrison-2026-circuit-clerk-unexp-johnson-steve", "name": "Steve Johnson", "party": "Republican", "incumbent": false },
+        { "key": "wv-harrison-2026-circuit-clerk-unexp-cornelius-doug", "name": "Doug Cornelius", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Harrison%20261103%20General%20-%2017inch.pdf"
+    },
+    {
+      "office": "Harrison County Commissioner",
+      "candidates": [
+        { "key": "wv-harrison-2026-county-commissioner-howe-martin", "name": "Martin Howe", "party": "Republican", "incumbent": false },
+        { "key": "wv-harrison-2026-county-commissioner-thomas-susan", "name": "Susan Thomas", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Harrison%20261103%20General%20-%2017inch.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Special Levy Election – Historical Preservation Alliance",
+      "title": "Additional levy to fund the Historical Preservation Alliance",
+      "summary": "Authorizes an additional Harrison County property tax levy for the fiscal years beginning July 1, 2027 through July 1, 2030 to fund the Historical Preservation Alliance: $100,000 the first year, rising to $109,272 in the fourth year. Rates are about 0.06 to 0.07 cents per $100 on Class I property, 0.12 to 0.14 cents on Class II and 0.24 to 0.28 cents on Class III and IV. Funds may go to operating costs, building and equipment upkeep, tourism and historic preservation, and matching funds, and the Alliance must account quarterly to the County Commission.",
+      "yesMeans": "The additional levy for the Historical Preservation Alliance would be collected for four fiscal years.",
+      "noMeans": "The additional levy for the Historical Preservation Alliance would not be collected.",
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Harrison%20261103%20General%20-%2017inch.pdf"
+    },
+    {
+      "id": "Special Levy Election – Community Health Organizations, Libraries and County Special Projects",
+      "title": "Continued funding levy for community health organizations, Lowe, Southern Area and Nutter Fort public libraries, and Harrison County special projects",
+      "summary": "Authorizes additional Harrison County levies for the fiscal years beginning July 1, 2027 through July 1, 2030 for continued funding of community health organizations ($880,000 the first year), the Lowe, Southern Area and Nutter Fort public libraries ($10,000 each the first year) and Harrison County special projects ($450,000 the first year), totaling $1,360,000 the first year and rising to $1,486,108 in the fourth. Rates are about 0.88 to 0.96 cents per $100 on Class I property, 1.76 to 1.92 cents on Class II and 3.52 cents and up on Class III and IV. If funds are not needed for these purposes, the County Commission may use them for general county operations.",
+      "yesMeans": "The levy for community health organizations, the three libraries and county special projects would be collected for four fiscal years.",
+      "noMeans": "This levy would not be collected.",
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Harrison%20261103%20General%20-%2017inch.pdf"
+    }
+  ],
+  "municipalities": {}
+}

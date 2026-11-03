@@ -1,0 +1,61 @@
+{
+  "state": "OH",
+  "county": "Athens County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0030__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/athens/cnm.aspx"
+  ],
+  "note": "From the Athens County Board of Elections' official sample ballots; incumbency is from the Board's elected-officials roster. No City of Athens contest or city issue is on this ballot; Issue 2 (Athens City School District income tax renewal) is a school district issue and is not shown. Not shown: state legislative and congressional districts, and village, township and school district issues. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 4th District (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-athens-2026-app4-0209-fountain-jayme", "name": "Jayme Hartley Fountain", "party": "Republican", "incumbent": false },
+        { "key": "oh-athens-2026-app4-0209-grace-todd", "name": "Todd L. Grace", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-athens-2026-cpgen-0209-lang-patrick", "name": "Patrick Lang", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-athens-2026-probate-juvenile-0209-saunders-zachary", "name": "Zachary Lane Saunders", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-athens-2026-commissioner-0101-brown-autumn", "name": "Autumn Brown", "party": "Democratic", "incumbent": false },
+        { "key": "oh-athens-2026-commissioner-0101-smith-sarah", "name": "Sarah Danielle Smith", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        { "key": "oh-athens-2026-auditor-davidson-jill", "name": "Jill A. Davidson", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 7",
+      "title": "Athens County Tax Levy – Health Department (additional)",
+      "summary": "An additional tax for Athens County to maintain and operate the Athens City-County Health Department. The county auditor estimates it will collect $1,520,051 a year at up to 1 mill, or $35 for each $100,000 of market value, for 10 years starting in 2026, first due in 2027.",
+      "yesMeans": "The new 1-mill health department levy would be approved for 10 years.",
+      "noMeans": "The new health department levy would not be approved.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/athens/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

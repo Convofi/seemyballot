@@ -1,0 +1,60 @@
+{
+  "state": "OH",
+  "county": "Pickaway County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/pickaway/cnm.aspx"
+  ],
+  "note": "From the Pickaway County Board of Elections' official sample ballots; incumbency is from the Board's elected-officials roster, which lists Shelly R. Harsha as the Common Pleas Juvenile & Probate judge whose term ends 2/8/2027 (the ballot titles the contest 'Judge of the Court of Common Pleas'). The Board does not number local issues. No City of Circleville contest or city issue is on this ballot. Not shown: state legislative and congressional districts, and village, township, fire/ambulance district and school district issues. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 4th District",
+      "candidates": [
+        { "key": "oh-pickaway-2026-app4-fountain-jayme", "name": "Jayme Hartley Fountain", "party": "Republican", "incumbent": false },
+        { "key": "oh-pickaway-2026-app4-grace-todd", "name": "Todd L. Grace", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-pickaway-2026-cp-0209-harsha-shelly", "name": "Shelly R. Harsha", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-pickaway-2026-commissioner-0101-wippel-jay", "name": "Jay H. Wippel", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        { "key": "oh-pickaway-2026-auditor-washburn-brad", "name": "Brad Washburn", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    },
+    {
+      "office": "Coroner (unexpired term ending 12/31/2028)",
+      "candidates": [
+        { "key": "oh-pickaway-2026-coroner-unexp-cotton-brad", "name": "Brad Cotton", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Pickaway County Park District Proposed Tax Levy (Renewal and Increase)",
+      "title": "Pickaway County Park District tax levy (renewal of 0.5 mill and increase of 0.25 mill)",
+      "summary": "Renews a 0.5-mill tax and adds 0.25 mill for the Pickaway County Park District, to maintain existing facilities, expand and develop new trails and parks, and help cities, villages and townships in the county improve their parks and trails. The county auditor estimates the 0.75-mill total will collect $1,466,613 a year, or $20 for each $100,000 of market value, for 10 years starting in 2027, first due in 2028.",
+      "yesMeans": "The park district levy would be renewed and increased to 0.75 mill for 10 years.",
+      "noMeans": "The park district levy would not be renewed or increased.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/pickaway/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

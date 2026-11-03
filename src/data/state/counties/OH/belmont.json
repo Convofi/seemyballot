@@ -1,0 +1,83 @@
+{
+  "state": "OH",
+  "county": "Belmont County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0001__1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/belmont/cnm.aspx"
+  ],
+  "note": "From the Belmont County Board of Elections' official sample ballots; incumbency is from the Board's elected-officials roster. The Board does not number these county issues. No City of St. Clairsville contest or city issue is on this ballot (the St. Clairsville Public Library levy is a library district issue and is not shown). Not shown: state legislative and congressional districts, and village, township, library and school district issues. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 7th District (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-belmont-2026-app7-0209-johnson-molly", "name": "Molly K. Johnson", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 7th District (term beginning 2/10/2027)",
+      "candidates": [
+        { "key": "oh-belmont-2026-app7-0210-hanni-mark", "name": "Mark Anthony Hanni", "party": "Republican", "incumbent": false },
+        { "key": "oh-belmont-2026-app7-0210-rudzik-katherine", "name": "Katherine Rudzik", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-belmont-2026-cpgen-0101-flanagan-kevin", "name": "Kevin Flanagan", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-belmont-2026-cpgen-0209-berhalter-chris", "name": "Chris Berhalter", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate Division (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-belmont-2026-probate-0209-davies-albert", "name": "Albert E. Davies", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-belmont-2026-commissioner-0101-defelice-dominic", "name": "Dominic DeFelice", "party": "Republican", "incumbent": false },
+        { "key": "oh-belmont-2026-commissioner-0101-shaffer-franklin", "name": "Franklin Cecil Shaffer Jr.", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        { "key": "oh-belmont-2026-auditor-meyer-josh", "name": "Josh Meyer", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Belmont County Proposed Tax Levy (Renewal and Decrease) – Senior Services",
+      "title": "Belmont County senior services tax levy (renewal and decrease)",
+      "summary": "Renews part of an existing Belmont County levy, at a reduced rate not exceeding 0.75 mill, for senior services and facilities, including transportation, nutrition and in-home services for elderly residents. The county auditor estimates it will collect $1,410,000 a year, or $15 for each $100,000 of market value, for 5 years starting in 2027, first due in 2028.",
+      "yesMeans": "The senior services levy would continue at up to 0.75 mill for 5 more years.",
+      "noMeans": "This senior services levy would not be renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    },
+    {
+      "id": "Belmont County Proposed Tax Levy (Renewal) – 911 Emergency Radio Communications",
+      "title": "Belmont County 911 public safety emergency radio communications tax levy (renewal)",
+      "summary": "Renews a Belmont County tax to fund the county's 911 public safety emergency radio communications system and equipment used by police, fire, EMS and the emergency management agency, including radios, radio infrastructure, dispatch consoles, pagers, mobile data computers and next-generation 911 equipment, maintenance and operations (not salaries). The county auditor estimates it will collect $1,675,000 a year at up to 0.75 mill, or $22 for each $100,000 of market value, for 5 years starting in 2027, first due in 2028.",
+      "yesMeans": "The 911 emergency radio communications levy would continue for 5 more years.",
+      "noMeans": "The 911 emergency radio communications levy would not be renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/belmont/getballot.aspx?elect=20261103G&prsid=0020__1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

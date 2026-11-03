@@ -1,0 +1,27 @@
+{
+  "state": "KS",
+  "county": "Reno County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+  ],
+  "note": "Partial. From the Kansas Secretary of State's 2026 General Election candidate list. Reno County makes up the 27th Judicial District, which elects district judges on a partisan ballot; both races shown have one candidate. The Reno County website blocked automated access, so its notice of election and sample ballot could not be checked: countywide and City of Hutchinson ballot questions could not be confirmed and none are shown. Not shown because they depend on where you live: County Commission districts, Kansas House and State Board of Education districts, township offices, and city, school and special-district questions. Check your official sample ballot at myvoteinfo.voteks.org.",
+  "contests": [
+    {
+      "office": "District Court Judge, 27th Judicial District, Division 1",
+      "candidates": [
+        { "key": "ks-reno-2026-27th-judge-div1-dower-thomas", "name": "Thomas A. \"Tad\" Dower", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    },
+    {
+      "office": "District Court Judge, 27th Judicial District, Division 3",
+      "candidates": [
+        { "key": "ks-reno-2026-27th-judge-div3-gilligan-daniel", "name": "Daniel D. Gilligan", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

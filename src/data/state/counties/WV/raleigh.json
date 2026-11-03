@@ -1,0 +1,29 @@
+{
+  "state": "WV",
+  "county": "Raleigh County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Raleigh%20261103%20General%20-14inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://raleighcounty.gov/meet-the-commissioners/"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Raleigh County precinct; every precinct votes on the same county contests. The County Commission seat is elected countywide, but no more than one commissioner may live in any magisterial district. Incumbency for the commission seat is from the county's Meet the Commissioners page. There is no countywide levy and no City of Beckley contest on this ballot. The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Raleigh County Commissioner",
+      "candidates": [
+        { "key": "wv-raleigh-2026-county-commissioner-duckworth-greg", "name": "Greg Duckworth", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Raleigh%20261103%20General%20-14inch.pdf"
+    },
+    {
+      "office": "Raleigh County Prosecuting Attorney (unexpired term)",
+      "candidates": [
+        { "key": "wv-raleigh-2026-prosecuting-attorney-unexp-lefler-christopher", "name": "Christopher Lefler", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Raleigh%20261103%20General%20-14inch.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

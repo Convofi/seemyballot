@@ -1,0 +1,22 @@
+{
+  "state": "WV",
+  "county": "Wood County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Wood%20261103%20General%20-%2014inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://woodcountywv.com/county-offices/commission/county-commissioners/"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Wood County precinct; every precinct votes on the same county contest. The County Commission seat is elected countywide, but no more than one commissioner may live in any magisterial district. There is no countywide levy and no City of Parkersburg contest on this ballot (a Town of North Hills municipal election appears only on that town's ballot). The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Wood County Commissioner",
+      "candidates": [
+        { "key": "wv-wood-2026-county-commissioner-woodyard-rick", "name": "Rick Woodyard", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Wood%20261103%20General%20-%2014inch.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

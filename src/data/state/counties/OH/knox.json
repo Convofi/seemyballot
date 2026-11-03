@@ -1,0 +1,53 @@
+{
+  "state": "OH",
+  "county": "Knox County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/knox/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/knox/getballot.aspx?elect=20261103G&prsid=015___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/knox/cnm.aspx"
+  ],
+  "note": "From the Knox County Board of Elections' official sample ballots; incumbency is from the Board's elected-officials roster, which lists Jay Walter Nixon as the Common Pleas Probate/Juvenile judge whose term ends 2/8/2027 (the ballot titles the contest 'Judge of the Court of Common Pleas'). The Board does not number local issues. No City of Mount Vernon contest or city issue is on this ballot; the Mount Vernon City School District income tax is a school district issue and is not shown. Not shown: state legislative and congressional districts, and village, township and school district issues. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 5th District (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-knox-2026-app5-0209-george-matthew", "name": "Matthew George", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/knox/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-knox-2026-cp-0209-nixon-jay", "name": "Jay Walter Nixon", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/knox/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-knox-2026-commissioner-0101-pursel-bill", "name": "Bill Pursel", "party": "Republican", "incumbent": true },
+        { "key": "oh-knox-2026-commissioner-0101-rogers-chuck", "name": "Chuck Rogers", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/knox/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        { "key": "oh-knox-2026-auditor-thorne-sarah", "name": "Sarah Thorne", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/knox/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Knox County Proposed Tax Levy (Renewal) – Senior Citizens Services",
+      "title": "Knox County senior citizens services tax levy (renewal)",
+      "summary": "Renews a Knox County tax to provide or maintain senior citizens services or facilities for Knox County senior citizens. The county auditor estimates it will collect $1,155,031 a year at up to 0.79 mill, or $28 for each $100,000 of market value, for 5 years starting in 2027, first due in 2028.",
+      "yesMeans": "The senior citizens services levy would continue for 5 more years.",
+      "noMeans": "The senior citizens services levy would not be renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/knox/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

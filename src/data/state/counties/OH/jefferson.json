@@ -1,0 +1,83 @@
+{
+  "state": "OH",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=060___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/jefferson/cnm.aspx"
+  ],
+  "note": "From the Jefferson County Board of Elections' official sample ballots; incumbency is from the Board's elected-officials roster. No City of Steubenville contest or city issue is on this ballot. Not shown: state legislative and congressional districts; Issues 5 and 6 (Jefferson County Joint Vocational School levy renewals, a school district issue); and village, township and local school district issues. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 7th District (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-jefferson-2026-app7-0209-johnson-molly", "name": "Molly K. Johnson", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Appeals, 7th District (term beginning 2/10/2027)",
+      "candidates": [
+        { "key": "oh-jefferson-2026-app7-0210-hanni-mark", "name": "Mark Anthony Hanni", "party": "Republican", "incumbent": false },
+        { "key": "oh-jefferson-2026-app7-0210-rudzik-katherine", "name": "Katherine Rudzik", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-jefferson-2026-commissioner-0101-nemeth-brent", "name": "Brent G. Nemeth", "party": "Democratic", "incumbent": false },
+        { "key": "oh-jefferson-2026-commissioner-0101-timmons-eric", "name": "Eric Timmons", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        { "key": "oh-jefferson-2026-auditor-conn-ej", "name": "E. J. Conn", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-jefferson-2026-cpgen-0101-miller-michelle", "name": "Michelle Garcia Miller", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-jefferson-2026-cpgen-0209-bednar-michael", "name": "Michael C. Bednar", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-jefferson-2026-probate-juvenile-0209-noble-frank", "name": "Frank W. Noble, Jr.", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue 8",
+      "title": "Jefferson County proposed tax levy (renewal) – developmental disabilities",
+      "summary": "Renews a Jefferson County tax for community programs and services authorized by the county Board of Developmental Disabilities and for acquiring, building, renovating, financing, maintaining and operating developmental disabilities facilities. The county auditor estimates it will collect $2,141,041 a year at up to 1.7 mills, or $19 for each $100,000 of market value, for 10 years starting in 2027, first due in 2028.",
+      "yesMeans": "The developmental disabilities levy would continue for 10 more years.",
+      "noMeans": "The developmental disabilities levy would not be renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "id": "Issue 9",
+      "title": "Jefferson County proposed tax levy (renewal) – 9-1-1 system",
+      "summary": "Renews a Jefferson County tax to fund the operation of the county 9-1-1 system. The county auditor estimates it will collect $2,482,785 a year at up to 1.5 mills, or $35 for each $100,000 of market value, for 5 years starting in 2027, first due in 2028.",
+      "yesMeans": "The 9-1-1 system levy would continue for 5 more years.",
+      "noMeans": "The 9-1-1 system levy would not be renewed.",
+      "source": "https://lookup.boe.ohio.gov/vtrapp/jefferson/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "municipalities": {}
+}

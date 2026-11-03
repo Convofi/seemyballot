@@ -1,0 +1,64 @@
+{
+  "state": "OH",
+  "county": "Union County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=01____1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/union/cnm.aspx"
+  ],
+  "note": "From the Union County Board of Elections' official sample ballots; incumbency is from the Board's elected-officials roster. No countywide issue is on this ballot. Not shown: state legislative and congressional districts, and village, township, fire/EMS district and school district issues (such as the Northern Union County Joint Fire and EMS District levy). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 3rd District (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-union-2026-app3-0209-miller-mark", "name": "Mark C. Miller", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, General Division (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-union-2026-cpgen-0209-phillips-david", "name": "David Phillips", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Divisions (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-union-2026-probate-juvenile-0209-rodger-rick", "name": "Rick Rodger", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-union-2026-commissioner-0101-bailey-shaun", "name": "Shaun M. Bailey", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        { "key": "oh-union-2026-auditor-weaver-andrea", "name": "Andrea L. Weaver", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Marysville": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "City of Marysville Proposed Charter Amendment (By Petition)",
+          "title": "To enact Article IV, Section 4.03, Referendum Petition, of the Charter of the City of Marysville",
+          "summary": "This citizen-petition amendment would add a section to the Marysville city charter on referendum petitions. People filing a referendum petition on a city ordinance would no longer have to first file a certified copy of the ordinance with the Director of Finance before circulating it. A referendum petition would need signatures from ten percent of the number of city electors who voted for governor in the most recent governor's election and would be filed with the Director of Finance.",
+          "yesMeans": "Section 4.03 on referendum petitions would be added to the Marysville charter.",
+          "noMeans": "The charter would not be changed, and current referendum petition rules would stay in place.",
+          "source": "https://lookup.boe.ohio.gov/vtrapp/union/getballot.aspx?elect=20261103G&prsid=30____1&bpty=X"
+        }
+      ]
+    }
+  }
+}

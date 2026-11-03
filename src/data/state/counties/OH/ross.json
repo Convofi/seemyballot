@@ -1,0 +1,58 @@
+{
+  "state": "OH",
+  "county": "Ross County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lookup.boe.ohio.gov/vtrapp/ross/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/ross/getballot.aspx?elect=20261103G&prsid=050___1&bpty=X",
+    "https://lookup.boe.ohio.gov/vtrapp/ross/cnm.aspx"
+  ],
+  "note": "From the Ross County Board of Elections' official sample ballots; incumbency is from the Board's elected-officials roster. No countywide issue is on this ballot. The Chillicothe City School District income tax is not shown because the school district's boundaries differ from the city's. Not shown: state legislative and congressional districts, and village, township and school district issues. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Court of Appeals, 4th District (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-ross-2026-app4-0209-fountain-jayme", "name": "Jayme Hartley Fountain", "party": "Republican", "incumbent": false },
+        { "key": "oh-ross-2026-app4-0209-grace-todd", "name": "Todd L. Grace", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ross/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Divisions (term beginning 2/9/2027)",
+      "candidates": [
+        { "key": "oh-ross-2026-probate-juvenile-0209-marks-jeffrey", "name": "Jeffrey C. Marks", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ross/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Commissioner (term beginning 1/1/2027)",
+      "candidates": [
+        { "key": "oh-ross-2026-commissioner-0101-pinkerton-david", "name": "David S. Pinkerton", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ross/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        { "key": "oh-ross-2026-auditor-lehner-jeff", "name": "Jeff Lehner", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://lookup.boe.ohio.gov/vtrapp/ross/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Chillicothe": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Chillicothe City Proposed Municipal Income Tax",
+          "title": "Chillicothe City Proposed Municipal Income Tax (0.2% for streets)",
+          "summary": "Asks whether to pass a City of Chillicothe ordinance levying a 0.2 percent tax on income. The money would be used only for street paving, repairs and improvements.",
+          "yesMeans": "The 0.2 percent city income tax for street paving, repairs and improvements would be passed.",
+          "noMeans": "The 0.2 percent city income tax for streets would not be passed.",
+          "source": "https://lookup.boe.ohio.gov/vtrapp/ross/getballot.aspx?elect=20261103G&prsid=001___1&bpty=X"
+        }
+      ]
+    }
+  }
+}

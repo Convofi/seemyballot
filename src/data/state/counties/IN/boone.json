@@ -1,0 +1,92 @@
+{
+  "state": "IN",
+  "county": "Boone County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "https://boonecounty.in.gov/offices/clerk/election-information/",
+    "https://boonecounty.in.gov/offices/superior-court-I/",
+    "https://boonecounty.in.gov/offices/superior-court-II/",
+    "https://boonecounty.in.gov/offices/assessor/",
+    "https://boonecounty.in.gov/offices/surveyor/",
+    "https://boonecounty.in.gov/offices/clerk/"
+  ],
+  "note": "From the Boone County Clerk's sample ballots for all precincts and the Indiana Election Division's certified candidate list (9/22/2026). The County Commissioner District 1 seat appears on every precinct's ballot, so it is voted on countywide. Incumbency is from the county's office pages; it is marked only where the page names the candidate as the current officeholder. Not shown: County Council Districts 1-4, township trustee and township board races, town offices, school board races, and school corporation referendum questions, which depend on where you live. Public Question #3 (City of Lebanon police headquarters) appears only on City of Lebanon ballots. The two statewide constitutional questions and the Court of Appeals retention questions appear on every Indiana ballot. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Boone Superior Court, No. 1",
+      "candidates": [
+        { "key": "in-boone-2026-superior-1-kincaid-matthew", "name": "Matthew C. Kincaid", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    },
+    {
+      "office": "Judge of the Boone Superior Court, No. 2",
+      "candidates": [
+        { "key": "in-boone-2026-superior-2-morris-thomas", "name": "Thomas Kenneth (T.K.) Morris", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney, 20th Judicial Circuit (Boone County)",
+      "candidates": [
+        { "key": "in-boone-2026-prosecutor-eastwood-kent", "name": "Kent T. Eastwood", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    },
+    {
+      "office": "Boone County Circuit Court Clerk",
+      "candidates": [
+        { "key": "in-boone-2026-clerk-bruder-lisa", "name": "Lisa L. Bruder", "party": "Republican", "incumbent": true },
+        { "key": "in-boone-2026-clerk-white-monica", "name": "Monica Leigh White", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    },
+    {
+      "office": "Boone County Sheriff",
+      "candidates": [
+        { "key": "in-boone-2026-sheriff-harris-anthony", "name": "Anthony (Tony) Harris", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    },
+    {
+      "office": "Boone County Surveyor",
+      "candidates": [
+        { "key": "in-boone-2026-surveyor-cunningham-carol", "name": "Carol Cunningham", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    },
+    {
+      "office": "Boone County Assessor",
+      "candidates": [
+        { "key": "in-boone-2026-assessor-lasley-jennifer", "name": "Jennifer Lasley", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    },
+    {
+      "office": "Boone County Commissioner, District 1",
+      "candidates": [
+        { "key": "in-boone-2026-commissioner-d1-plunkett-jason", "name": "Jason Alan Plunkett", "party": "Republican", "incumbent": false },
+        { "key": "in-boone-2026-commissioner-d1-brennan-robert", "name": "Robert D. (Bob) Brennan", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Lebanon": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Public Question #3",
+          "title": "City of Lebanon police headquarters capital referendum",
+          "summary": "Asks whether the City of Lebanon may increase property taxes paid to the city for up to 20 years to pay for designing, building and equipping a new police headquarters, including buying related land and related improvements. Principal debt would be no more than $52,165,000, with financing costs of no more than an additional $35,918,413, and the maximum annual tax amount could not exceed $4,454,550. The ballot estimates that the annual tax bill for a median $250,000 home would rise by $216 per year.",
+          "yesMeans": "The city may raise property taxes for up to 20 years to fund a new police headquarters.",
+          "noMeans": "The city may not raise property taxes through this referendum for a new police headquarters.",
+          "source": "https://boonecounty.in.gov/wp-content/uploads/2026/09/INBOOG26_AllPcts_InfinityS-1.pdf"
+        }
+      ]
+    }
+  }
+}
