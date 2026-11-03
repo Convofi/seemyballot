@@ -1,0 +1,35 @@
+{
+  "state": "AR",
+  "county": "White County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://whitecounty.ar.gov/_files/ugd/f1ffd5_f5d03a4310554c4c9978646f770299d8.docx?dn=NEW%20NOTICE%20OF%20ELECTION.docx"
+  ],
+  "note": "White County's notice of election lists only contested races; all other races are unopposed and are not shown. Sheriff is the only contested county office. Not shown because they depend on your district or ward: Justice of the Peace District 1, Searcy City Council Ward 1 Position 2 and Ward 3 Position 2 (the notice does not say whether these are voted on city-wide), and other cities' races. The notice lists no countywide or City of Searcy ballot question. Incumbent flags are not set because the notice does not identify incumbents. Check your official sample ballot at VoterView.",
+  "contests": [
+    {
+      "office": "White County Sheriff",
+      "candidates": [
+        { "key": "ar-white-2026-sheriff-edwards-clayton", "name": "Clayton Edwards", "party": "Republican", "incumbent": false },
+        { "key": "ar-white-2026-sheriff-betts-dusty", "name": "Dusty Betts", "party": "Independent", "incumbent": false }
+      ],
+      "source": "https://whitecounty.ar.gov/_files/ugd/f1ffd5_f5d03a4310554c4c9978646f770299d8.docx?dn=NEW%20NOTICE%20OF%20ELECTION.docx"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Searcy": {
+      "contests": [
+        {
+          "office": "Searcy City Clerk",
+          "candidates": [
+            { "key": "ar-white-2026-searcy-clerk-centola-tommy", "name": "Tommy Centola", "party": "Nonpartisan", "incumbent": false },
+            { "key": "ar-white-2026-searcy-clerk-hodnett-angel", "name": "Angel Hodnett", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://whitecounty.ar.gov/_files/ugd/f1ffd5_f5d03a4310554c4c9978646f770299d8.docx?dn=NEW%20NOTICE%20OF%20ELECTION.docx"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

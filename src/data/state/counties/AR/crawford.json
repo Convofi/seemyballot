@@ -1,0 +1,36 @@
+{
+  "state": "AR",
+  "county": "Crawford County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://crawford-county-elections.org/site/images/user-files/notice-of-election-26-general.pdf",
+    "https://crawford-county-elections.org/site/images/user-files/26gcrawf_sample-ballot.pdf",
+    "https://crawford-county-elections.org/2026-general/",
+    "https://crawford-county-elections.org/elected-officials/"
+  ],
+  "note": "Crawford County's ballot groups unopposed candidates into a single \"Unopposed Candidates\" vote without naming them. Unopposed this year and not printed: County Judge (Chris Keith), Assessor (Sandra Heiner), County Clerk (Stacey Shelly), Coroner (Chris Price), Treasurer (Daniel Watson), Sheriff (Daniel Perry) and Tax Collector (Kevin Pixley). Circuit Clerk is the only county office printed on the ballot. In Van Buren, the Treasurer, City Attorney and City Council seats are unopposed and not printed. Not shown because they depend on your district: Justices of the Peace (contested in Districts 1, 4, 7 and 8), constables, other cities' races, and the City of Alma 1% gross receipts tax question. There is no countywide ballot question. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Crawford County Circuit Clerk",
+      "candidates": [
+        { "key": "ar-crawford-2026-circuit-clerk-blount-baker-sharon", "name": "Sharon Blount-Baker", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://crawford-county-elections.org/site/images/user-files/26gcrawf_sample-ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Van Buren": {
+      "contests": [
+        {
+          "office": "Van Buren Mayor",
+          "candidates": [
+            { "key": "ar-crawford-2026-van-buren-mayor-hurst-joe", "name": "Joe Hurst", "party": "Nonpartisan", "incumbent": true }
+          ],
+          "source": "https://crawford-county-elections.org/site/images/user-files/26gcrawf_sample-ballot.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

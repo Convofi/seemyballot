@@ -1,0 +1,21 @@
+{
+  "state": "OK",
+  "county": "Garfield County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://hosting.okelections.gov/electionlist.html"
+  ],
+  "note": "Oklahoma prints only contested races: no Garfield County offices and no countywide propositions are on the November 3, 2026 Garfield County ballot according to the State Election Board's list. The District Judge race below covers Judicial District 4; the State Election Board lists it on the ballot in Blaine, Garfield, Grant and Kingfisher counties. Enid has no city-wide items on this ballot. Not shown: any school district or other local questions. Incumbent flags are not set because the state list does not identify incumbents. Check your official sample ballot at the OK Voter Portal.",
+  "contests": [
+    {
+      "office": "District Judge, District 4, Office 2 (nonpartisan)",
+      "candidates": [
+        { "key": "ok-garfield-2026-district-judge-office2-edwards-eric", "name": "Eric Edwards", "party": "Nonpartisan", "incumbent": false },
+        { "key": "ok-garfield-2026-district-judge-office2-woodward-paul", "name": "Paul K. Woodward", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
