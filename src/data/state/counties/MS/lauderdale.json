@@ -1,0 +1,111 @@
+{
+  "state": "MS",
+  "county": "Lauderdale County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.lauderdalecounty.org/wp-content/uploads/2026/08/Qualifying-candidates-08202026170313.jpg",
+    "https://www.lauderdalecounty.org/candidate-field-set-for-county-elections/",
+    "https://www.lauderdalecounty.org/candidate-qualifying-open-for-special-elections/",
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm"
+  ],
+  "note": "Mississippi elects most county offices in odd years, so this November 2026 ballot is federal and judicial, plus a special election for Circuit Clerk. From Lauderdale County's official list of qualified candidates and the Secretary of State's statewide sample ballot: the 12th Chancery District (Clarke and Lauderdale counties) and the 10th Circuit District (Clarke, Kemper and Lauderdale counties under HB 1544, effective January 2027), both elected districtwide; the two Lauderdale County Court seats; and the Circuit Clerk special election, which the county says every voter will see. The winner serves until December 31, 2027. The county's list does not number the two County Court seats, so they are shown by incumbent. No Court of Appeals seat is shown because Lauderdale County is in Court of Appeals District 3, which has no race on the statewide sample ballot. Not shown because only voters in that district see them: Justice Court Judge District 2 special election (LaBaron Hedgemon, Kevin Richardson) and School Board District 5 (Olivia Leann Vick, Michael Wilson). No Meridian city races are on this ballot. Incumbent flags come from the Mississippi Judiciary's judge rosters and the county's statement that the two County Court judges are seeking reelection. The county's own precinct sample ballot was not found online. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chancery Court Judge, 12th Chancery District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-lauderdale-2026-chancery-p1-terry-austin",
+          "name": "Austin C. Terry",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 12th Chancery District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-lauderdale-2026-chancery-p2-rainey-amanda",
+          "name": "Amanda Trawick Rainey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 10th Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-lauderdale-2026-circuit-p1-wright-charles",
+          "name": "Charles W. Wright Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 10th Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-lauderdale-2026-circuit-p2-bailey-robert",
+          "name": "Robert T. 'Bo' Bailey",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf"
+    },
+    {
+      "office": "Lauderdale County Court Judge (seat held by Veldore Young-Graham)",
+      "candidates": [
+        {
+          "key": "ms-lauderdale-2026-county-court-young-graham-veldore",
+          "name": "Veldore Young-Graham",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.lauderdalecounty.org/wp-content/uploads/2026/08/Qualifying-candidates-08202026170313.jpg"
+    },
+    {
+      "office": "Lauderdale County Court Judge (seat held by Lisa Howell)",
+      "candidates": [
+        {
+          "key": "ms-lauderdale-2026-county-court-howell-lisa",
+          "name": "Lisa Howell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.lauderdalecounty.org/wp-content/uploads/2026/08/Qualifying-candidates-08202026170313.jpg"
+    },
+    {
+      "office": "Lauderdale County Circuit Clerk (Special Election)",
+      "candidates": [
+        {
+          "key": "ms-lauderdale-2026-circuit-clerk-houston-kim",
+          "name": "Kim Houston",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-lauderdale-2026-circuit-clerk-tate-jeff",
+          "name": "Jeff Tate",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.lauderdalecounty.org/wp-content/uploads/2026/08/Qualifying-candidates-08202026170313.jpg"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,75 @@
+{
+  "state": "FL",
+  "county": "Monroe County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=monroe",
+    "https://enrarchive.electionsfl.org/MON/4006/Summary/",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "The Monroe County Supervisor of Elections website (votemonroeflkeys.gov) blocks automated access, so the official sample ballot was not checked. Built from the Supervisor's candidate listing, the August 18 primary results and the state judicial candidate list. Every county race was settled before November: County Commission District 2 (Michelle Lincoln won the August Republican primary) and District 4 (David Rice, unopposed), County Judge Group 2 (Kevin McCarthy, elected in August), School Board Districts 1, 4 and 5, Mosquito Control Board Districts 2 and 5, and Key West Utility Board seats. 16th Judicial Circuit judges were unopposed. Key West's mayor was elected in August. Not shown because only some voters see them: the Key Largo Wastewater District seat and any Key West City Commission runoff. County and city referenda could not be checked and are not shown. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "3rd District Court of Appeal — retain Judge Kansas R. Gooden? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-monroe-2026-dca3-retain-gooden-kansas",
+          "name": "Kansas R. Gooden",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Monica Gordo? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-monroe-2026-dca3-retain-gordo-monica",
+          "name": "Monica Gordo",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Fleur Jeannine Lobree? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-monroe-2026-dca3-retain-lobree-fleur",
+          "name": "Fleur Jeannine Lobree",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Thomas Logue? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-monroe-2026-dca3-retain-logue-thomas",
+          "name": "Thomas Logue",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "3rd District Court of Appeal — retain Judge Bronwyn Catherine Miller? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-monroe-2026-dca3-retain-miller-bronwyn",
+          "name": "Bronwyn Catherine Miller",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

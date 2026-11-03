@@ -1,0 +1,134 @@
+{
+  "state": "MS",
+  "county": "Lamar County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf",
+    "https://www.sos.ms.gov/content/documents/Elections/2026/Sample%20Ballot%209-9-26.pdf",
+    "https://courts.ms.gov/appellatecourts/coa/coadistricts.php",
+    "https://courts.ms.gov/appellatecourts/coa/coajudges.php",
+    "https://courts.ms.gov/trialcourts/chancerycourt/chanjud.pdf",
+    "https://courts.ms.gov/trialcourts/circuitcourt/cirjud.pdf",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/SB/2700-2799/SB2768SG.htm",
+    "https://billstatus.ls.state.ms.us/documents/2025/html/HB/1500-1599/HB1544SG.htm"
+  ],
+  "note": "Mississippi elects county offices in odd years, so this November 2026 ballot is federal and judicial. From Lamar County's official sample ballot: Court of Appeals District 5 (all of Lamar County), the 10th Chancery District (Lamar, Marion, Pearl River and Walthall counties under SB 2768, effective January 2027), the 15th Circuit District (Jefferson Davis, Lamar, Marion, Pearl River and Walthall counties under HB 1544), and the Lamar County Court judge, all elected by every voter in the county. Not shown because only voters in that district see them: School Board District D special election (Alan Hartfield, Ben Smith) and School Board District E (Jennie Hensarling). No Purvis city races are on this ballot. Incumbent flags come from the Mississippi Judiciary's judge rosters; the County Court judge is not marked because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Court of Appeals Judge, District 5, Position 1",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-coa-d5-p1-lawrence-anthony",
+          "name": "Anthony 'Tony' Lawrence",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 10th Chancery District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-chancery-p1-porter-renee",
+          "name": "Renee McBride Porter",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 10th Chancery District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-chancery-p2-sheldon-rhea",
+          "name": "Rhea Hudson Sheldon",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 10th Chancery District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-chancery-p3-kellar-tara",
+          "name": "Tara Kellar",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Chancery Court Judge, 10th Chancery District, Place 4",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-chancery-p4-smith-chad",
+          "name": "Chad Smith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 15th Circuit District, Place 1",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-circuit-p1-touchstone-brad",
+          "name": "Brad A. Touchstone",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 15th Circuit District, Place 2",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-circuit-p2-bruhl-ryan",
+          "name": "Ryan Bruhl",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "ms-lamar-2026-circuit-p2-harrell-prentiss",
+          "name": "Prentiss G. Harrell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Circuit Court Judge, 15th Circuit District, Place 3",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-circuit-p3-lumpkin-richelle",
+          "name": "Richelle Lumpkin",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    },
+    {
+      "office": "Lamar County Court Judge",
+      "candidates": [
+        {
+          "key": "ms-lamar-2026-county-court-parker-joseph",
+          "name": "Joseph 'Jop' Parker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://lamarcountyms.gov/ms/wp-content/uploads/2026/09/Sample_Ballot_2Pgs.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

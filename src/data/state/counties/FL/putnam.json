@@ -1,0 +1,78 @@
+{
+  "state": "FL",
+  "county": "Putnam County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=putnam",
+    "https://www.voteputnamflorida.gov/election_information/offices_up_for_election.php",
+    "https://www.voteputnamflorida.gov/Official%202026%20General%20Notice%20of%20Election_English%20.pdf",
+    "https://www.voteputnamflorida.gov/Documents/Election%20Information/Election%20Results/2026/Primary/OFFICIAL%20RESULTS%20ElectionSummaryReportRPT.pdf",
+    "https://www.voteputnamflorida.gov/elected_officials/county.php",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Built from the Putnam County Supervisor of Elections' candidate listing, offices-up-for-election page, official August 18 primary results and elected-officials roster, plus the state judicial candidate list; sample ballots are offered only through a personal voter lookup, so they were not checked. County commissioners are elected countywide: in the August Republican primary for District 4, every Republican in the county could vote, and Larry Harvey defeated Joseph \"Joey\" Agner. Not on the November ballot: County Commission District 2 (Leota Wilkinson, unopposed), School Board Districts 1, 4 and 5 (unopposed), and all 7th Judicial Circuit seats (unopposed). Not shown: Palatka City Commission Groups 2 and 4 (Jamaad C. Batts, Sr. and James Norwood, Jr.; Justin Campbell and Breanna Pierce), because whether they are elected citywide could not be confirmed (the Palatka mayor's race was decided in August); Pomona Park mayor; and Soil and Water Conservation District seats. County and city referenda could not be checked and are not shown. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner, District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-putnam-2026-commission-d4-harvey-larry",
+          "name": "Larry Harvey",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "fl-putnam-2026-commission-d4-florence-joshua",
+          "name": "Joshua Florence",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "fl-putnam-2026-commission-d4-burckhard-ronald",
+          "name": "Ronald Burckhard",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=putnam"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-putnam-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-putnam-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-putnam-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
