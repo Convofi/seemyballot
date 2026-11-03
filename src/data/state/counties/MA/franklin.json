@@ -1,0 +1,44 @@
+{
+  "state": "MA",
+  "county": "Franklin County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://montague-ma.gov/files/11-03-2026_Specimen_Ballot.pdf",
+    "https://montague-ma.gov/p/1641/November-3-2026-State-Election"
+  ],
+  "note": "From the Town of Montague's posted official specimen ballot for the November 3, 2026 State Election; the contests below are labeled Franklin County or Northwestern District and print the same countywide. The Sheriff race is to fill a vacancy. Jon J. Hall is printed as Unenrolled and Gary Edward Gagnon with the designation Independent; both are shown as Independent. Jane M. Peirce is printed with no party or designation. Only David E. Sullivan is marked 'Candidate for Re-election' on the ballot. Not shown because they depend on your town or district: Representative in Congress, Governor's Councillor, State Senate and State Representative districts, and any town questions. The City of Greenfield has no city offices or questions on this ballot that we could verify (its city elections are held separately), and the nine statewide questions are listed with the state ballot. Check your town's official sample ballot.",
+  "contests": [
+    {
+      "office": "District Attorney, Northwestern District",
+      "candidates": [
+        { "key": "ma-franklin-2026-da-sullivan-david", "name": "David E. Sullivan", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://montague-ma.gov/files/11-03-2026_Specimen_Ballot.pdf"
+    },
+    {
+      "office": "Register of Probate, Franklin County",
+      "candidates": [
+        { "key": "ma-franklin-2026-register-of-probate-graves-daniel", "name": "Daniel Francis Graves", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://montague-ma.gov/files/11-03-2026_Specimen_Ballot.pdf"
+    },
+    {
+      "office": "Sheriff, Franklin County (to fill vacancy)",
+      "candidates": [
+        { "key": "ma-franklin-2026-sheriff-streeter-lori", "name": "Lori M. Streeter", "party": "Democratic", "incumbent": false },
+        { "key": "ma-franklin-2026-sheriff-gagnon-gary", "name": "Gary Edward Gagnon", "party": "Independent", "incumbent": false },
+        { "key": "ma-franklin-2026-sheriff-hall-jon", "name": "Jon J. Hall", "party": "Independent", "incumbent": false }
+      ],
+      "source": "https://montague-ma.gov/files/11-03-2026_Specimen_Ballot.pdf"
+    },
+    {
+      "office": "Franklin Regional Council of Governments Executive Committee",
+      "candidates": [
+        { "key": "ma-franklin-2026-frcog-executive-committee-peirce-jane", "name": "Jane M. Peirce", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://montague-ma.gov/files/11-03-2026_Specimen_Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

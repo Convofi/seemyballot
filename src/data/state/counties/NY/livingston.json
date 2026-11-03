@@ -1,0 +1,28 @@
+{
+  "state": "NY",
+  "county": "Livingston County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.livingstoncountyny.gov/685/Sample-Ballots",
+    "https://www.livingstoncountyny.gov/DocumentCenter/View/24458/Geneseo",
+    "https://www.livingstoncountyny.gov/DocumentCenter/View/24472/Avon",
+    "https://www.livingstoncountyny.gov/DocumentCenter/View/22775/Offices-up-GE-26"
+  ],
+  "note": "From the Livingston County Board of Elections' official November 3, 2026 General Election sample ballots (Towns of Geneseo and Avon checked) and its list of offices up in the 2026 General Election. County Coroner is the only county office on the 2026 ballot, and it prints the same on both ballots. The Board's list names Roger A. King as the current officeholder, so Michael J. Williams is not marked as the incumbent. There is no Supreme Court contest in the 7th Judicial District this year, no countywide proposition, and no Village of Geneseo offices on the November ballot. Not shown because they depend on your town or district: Representative in Congress (24th District), State Senate (54th District), Member of Assembly, and town offices such as Town Justice, Supervisor, Clerk and Highway Superintendent, and any town propositions. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Livingston County Coroner",
+      "candidates": [
+        {
+          "key": "ny-livingston-2026-coroner-williams-michael",
+          "name": "Michael J. Williams",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.livingstoncountyny.gov/DocumentCenter/View/24458/Geneseo"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

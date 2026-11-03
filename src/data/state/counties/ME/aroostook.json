@@ -1,0 +1,29 @@
+{
+  "state": "ME",
+  "county": "Aroostook County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.houlton-maine.com/news/2026/10/02/november-3-2026-election/",
+    "https://www.houlton-maine.com/wp-content/uploads/2026/10/State-Sample-Ballot.pdf",
+    "https://www.houlton-maine.com/wp-content/uploads/2026/10/Updated-State-Declared-Write-In-List.pdf"
+  ],
+  "note": "From the State of Maine sample ballot for the November 3, 2026 General Election posted by the Town of Houlton (Style No. 159, which also covers Linneus, Ludlow, New Limerick and Oakfield), and the state's list of declared write-in candidates (updated 10/15/26) posted with it. No candidate is printed on the ballot for County Treasurer; Leigh S. Smith (Republican, Mapleton) is a declared write-in candidate for that office, so voters must write the name in. District Attorney District 8 covers Aroostook County. Incumbency is not marked because no official county roster was checked. Not shown because they depend on your district: Register of Deeds (Northern and Southern Districts), County Commissioner and Charter Commission (by commissioner district), State Senate and State Representative districts. Statewide referendum questions are listed with the state ballot. Town offices and local questions are on separate town ballots. Check your town's official sample ballot.",
+  "contests": [
+    {
+      "office": "County Treasurer, Aroostook County",
+      "candidates": [
+        { "key": "me-aroostook-2026-treasurer-smith-leigh", "name": "Leigh S. Smith", "party": "Republican", "incumbent": false, "writeIn": true }
+      ],
+      "source": "https://www.houlton-maine.com/wp-content/uploads/2026/10/Updated-State-Declared-Write-In-List.pdf"
+    },
+    {
+      "office": "District Attorney, District 8",
+      "candidates": [
+        { "key": "me-aroostook-2026-district-attorney-wells-puckett-kari", "name": "Kari Ann Wells-Puckett", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.houlton-maine.com/wp-content/uploads/2026/10/State-Sample-Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

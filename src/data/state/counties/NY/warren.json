@@ -1,0 +1,68 @@
+{
+  "state": "NY",
+  "county": "Warren County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.warrencountyny.gov/boe",
+    "https://www.warrencountyny.gov/sites/default/files/boe/docs/sampleballots/CITY_OF_GLENS_FALLS_1-1-10-14-ED-_NP_-ALL.pdf",
+    "https://www.warrencountyny.gov/sites/default/files/boe/docs/sampleballots/QUEENSBURY_1-1-10-8-ED-_NP_-ALL.pdf",
+    "https://www.warrencountyny.gov/sites/default/files/boe/election/2026/ELECTED%20OFFICIALS%20WARREN%20COUNTY%202026%20UPDATE%203.pdf"
+  ],
+  "note": "From the Warren County Board of Elections' official November 3, 2026 General Election sample ballots (City of Glens Falls Ward 1 and Town of Queensbury checked); the county contests print the same on both. New York uses fusion voting: each candidate is listed once under their main party. Tom Buchanan, John T. Ellis, Kate Hogan, Keith S. Massey Jr, Ted Wilson and Larry Elmen also appear on the Conservative line. Only two candidates (both Republican) are nominated for County Coroner. Incumbent flags come from the Board's 2026 list of Warren County elected officials; Larry Elmen holds the Glens Falls City Court seat by interim appointment. There is no countywide proposition. Not shown because they depend on your town or district: Representative in Congress (21st District), State Senate, Member of Assembly, town and village offices, and the Crandall Library budget question in the towns. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 4th Judicial District (vote for up to four)",
+      "seats": 4,
+      "candidates": [
+        { "key": "ny-warren-2026-supreme-court-4th-wanner-bradley", "name": "Bradley M. Wanner", "party": "Democratic", "incumbent": false },
+        { "key": "ny-warren-2026-supreme-court-4th-clark-christine", "name": "Christine M. Clark", "party": "Democratic", "incumbent": false },
+        { "key": "ny-warren-2026-supreme-court-4th-buchanan-tom", "name": "Tom Buchanan", "party": "Republican", "incumbent": false },
+        { "key": "ny-warren-2026-supreme-court-4th-ellis-john", "name": "John T. Ellis", "party": "Republican", "incumbent": false },
+        { "key": "ny-warren-2026-supreme-court-4th-hogan-kate", "name": "Kate Hogan", "party": "Republican", "incumbent": false },
+        { "key": "ny-warren-2026-supreme-court-4th-massey-keith", "name": "Keith S. Massey Jr", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.warrencountyny.gov/sites/default/files/boe/docs/sampleballots/CITY_OF_GLENS_FALLS_1-1-10-14-ED-_NP_-ALL.pdf"
+    },
+    {
+      "office": "Warren County Family Court Judge",
+      "candidates": [
+        { "key": "ny-warren-2026-family-court-judge-wilson-ted", "name": "Ted Wilson", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.warrencountyny.gov/sites/default/files/boe/docs/sampleballots/CITY_OF_GLENS_FALLS_1-1-10-14-ED-_NP_-ALL.pdf"
+    },
+    {
+      "office": "Warren County Coroner (vote for up to two)",
+      "seats": 2,
+      "candidates": [
+        { "key": "ny-warren-2026-coroner-keil-lynn", "name": "Lynn Keil", "party": "Republican", "incumbent": true },
+        { "key": "ny-warren-2026-coroner-goedert-connie", "name": "Connie Goedert", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.warrencountyny.gov/sites/default/files/boe/docs/sampleballots/CITY_OF_GLENS_FALLS_1-1-10-14-ED-_NP_-ALL.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Glens Falls": {
+      "contests": [
+        {
+          "office": "Glens Falls City Court Judge",
+          "candidates": [
+            { "key": "ny-warren-2026-glens-falls-city-court-judge-pilatzke-brian", "name": "Brian D. Pilatzke", "party": "Democratic", "incumbent": false },
+            { "key": "ny-warren-2026-glens-falls-city-court-judge-elmen-larry", "name": "Larry Elmen", "party": "Republican", "incumbent": true }
+          ],
+          "source": "https://www.warrencountyny.gov/sites/default/files/boe/docs/sampleballots/CITY_OF_GLENS_FALLS_1-1-10-14-ED-_NP_-ALL.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Proposal One",
+          "title": "Crandall Library Budget, City of Glens Falls",
+          "summary": "Asks City of Glens Falls voters to approve the proposed 2027 budget of the Crandall Public Library District, which totals $6,186,608 and is partly funded by the municipalities in the Library District. The share to be raised by a property tax on real property in the City of Glens Falls is $941,030.",
+          "yesMeans": "The Crandall Public Library District's proposed 2027 budget is approved, including the $941,030 share raised from Glens Falls property.",
+          "noMeans": "The Crandall Public Library District's proposed 2027 budget is not approved by Glens Falls voters.",
+          "source": "https://www.warrencountyny.gov/sites/default/files/boe/docs/sampleballots/CITY_OF_GLENS_FALLS_1-1-10-14-ED-_NP_-ALL.pdf"
+        }
+      ]
+    }
+  }
+}

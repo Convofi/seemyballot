@@ -1,0 +1,36 @@
+{
+  "state": "NY",
+  "county": "Sullivan County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.sullivanny.gov/Departments/Elections",
+    "https://www.sullivanny.gov/sites/default/files/departments/boe/Sullivan%20County%20GE26%20Ballot%20Certification%20for%20website.pdf",
+    "https://www.sullivanny.gov/sites/default/files/departments/boe/Accessible%202026%20General%20Ballot%20Certification%209.17.2026.pdf",
+    "https://www.sullivanny.gov/Departments/Elections/SampleBallots",
+    "https://www.sullivanny.gov/sites/default/files/departments/boe/Sample_Ballots_2026_GE/Town%20of%20Thompson.pdf"
+  ],
+  "note": "From the Sullivan County Board of Elections' certification for the November 3, 2026 General Election (dated September 9, 2026), the State Board's certification posted by the county, and the county's 2026 General Election sample ballot for the Town of Thompson, which includes the Village of Monticello. The county certification lists no county offices and no countywide proposition, and no Village of Monticello offices or propositions. Both Supreme Court candidates appear only on the Democratic line. Not shown because they depend on your town or district: Representative in Congress (19th District), State Senate, Member of Assembly, and town offices and propositions (for example Town of Thompson Supervisor and Council Member, and the Town of Fallsburg proposition). Incumbent flags are not set because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice of the Supreme Court, 3rd Judicial District (vote for up to two)",
+      "seats": 2,
+      "candidates": [
+        {
+          "key": "ny-sullivan-2026-supreme-court-3rd-joyce-amy",
+          "name": "Amy E. Joyce",
+          "party": "Democratic",
+          "incumbent": false
+        },
+        {
+          "key": "ny-sullivan-2026-supreme-court-3rd-sober-jennifer",
+          "name": "Jennifer G. Sober",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sullivanny.gov/sites/default/files/departments/boe/Sample_Ballots_2026_GE/Town%20of%20Thompson.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
