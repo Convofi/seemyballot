@@ -1,0 +1,53 @@
+{
+  "state": "LA",
+  "county": "Lafourche Parish",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://voterportal.sos.la.gov/candidateinquiry",
+    "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=30&parishName=LAFOURCHE",
+    "https://voterportal.sos.la.gov/SampleBallot"
+  ],
+  "note": "From the Louisiana Secretary of State's candidate list and sample ballots for all 72 Lafourche Parish precincts; the 17th Judicial District Court Division D race is the only parish item on every precinct ballot. Unopposed candidates were declared elected and do not appear on the ballot: District Attorney (Kristine Russell), 17th Judicial District Court Divisions A, B, C and E, Thibodaux City Court judge, School Board Districts 1-4 and 6-9, Thibodaux Council Districts A and C, and most Justices of the Peace and all Constables. Lafourche Parish Council seats are not on this ballot. Not shown because they depend on where you live: School Board District 5; Thibodaux Council District B; Justice of the Peace, 1st Justice of the Peace Court; Thibodaux City Court marshal (on the ballot within the court's jurisdiction, which does not match city limits); and the Hospital Service District No. 2 millage renewal. 'No Party' candidates are shown as Independent. Incumbency is not marked because the official list does not indicate it. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Judge, 17th Judicial District Court, Division D",
+      "candidates": [
+        { "key": "la-lafourche-2026-judge-div-d-brooks-beau", "name": "Beau Brooks", "party": "Republican", "incumbent": false },
+        { "key": "la-lafourche-2026-judge-div-d-savage-lantz", "name": "Lantz Savage", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=30&parishName=LAFOURCHE"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Thibodaux": {
+      "contests": [
+        {
+          "office": "Thibodaux Mayor",
+          "candidates": [
+            { "key": "la-lafourche-2026-thibodaux-mayor-clement-kevin", "name": "Kevin Clement", "party": "Republican", "incumbent": false },
+            { "key": "la-lafourche-2026-thibodaux-mayor-snow-shawn", "name": "Shawn Snow", "party": "Republican", "incumbent": false }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=30&parishName=LAFOURCHE"
+        },
+        {
+          "office": "Thibodaux Councilman at Large, Seat D",
+          "candidates": [
+            { "key": "la-lafourche-2026-thibodaux-council-seat-d-naquin-michael", "name": "Michael \"Mike\" Naquin", "party": "Republican", "incumbent": false },
+            { "key": "la-lafourche-2026-thibodaux-council-seat-d-toups-john", "name": "John W. Toups", "party": "Republican", "incumbent": false }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=30&parishName=LAFOURCHE"
+        },
+        {
+          "office": "Thibodaux Councilman at Large, Seat E",
+          "candidates": [
+            { "key": "la-lafourche-2026-thibodaux-council-seat-e-mire-chad", "name": "Chad J. Mire", "party": "Independent", "incumbent": false },
+            { "key": "la-lafourche-2026-thibodaux-council-seat-e-tolbert-burnell", "name": "Burnell Tolbert", "party": "Democratic", "incumbent": false }
+          ],
+          "source": "https://voterportal.sos.la.gov/CandidateInquiry/ParishCandidate/Export?electionId=344&electionDate=11/03/2026&parishId=30&parishName=LAFOURCHE"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

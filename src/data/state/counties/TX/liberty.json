@@ -1,0 +1,126 @@
+{
+  "state": "TX",
+  "county": "Liberty County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.co.liberty.tx.us/page/liberty.elections.2026-11-03",
+    "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf",
+    "https://www.co.liberty.tx.us/upload/page/12682/City%20of%20Liberty%20Notice%20of%20Special%20Election%2011-3-2026.pdf"
+  ],
+  "note": "From the Liberty County Elections Department's November 3, 2026 sample ballots (all 31 ballot styles); every county race below is uncontested. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justices of the Peace, U.S. House, State Senate, State House and State Board of Education districts, school district races (e.g. Tarkington ISD), and fresh water supply district and municipal management district items (e.g. Hull FWSD, Bayou Belle MMD No. 1, Liberty Grand MUD No. 1 and 1A). Other cities' items are not covered. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. Incumbent flags are set only where the county's office pages name the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Chief Justice, 9th Court of Appeals District",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-coa9-chief-golemon-scott",
+          "name": "Scott Golemon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "District Judge, 75th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-dj75-chandler-james",
+          "name": "James \"JD\" Chandler",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "District Judge, 253rd Judicial District",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-dj253-fitzgerald-josh",
+          "name": "Josh Fitzgerald",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-county-judge-knight-jay",
+          "name": "Jay Knight",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "Judge, County Court-at-Law No. 1",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-ccl1-chambers-thomas",
+          "name": "Thomas A. \"Tommy\" Chambers",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-district-clerk-wiley-dolores",
+          "name": "Dolores Wiley",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-county-clerk-chambers-lee",
+          "name": "Lee Haidusek Chambers",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-liberty-2026-treasurer-harris-kim",
+          "name": "Kim Harris",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Liberty": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Proposition A",
+          "title": "City of Liberty Proposition A",
+          "summary": "Asks City of Liberty voters to terminate the Liberty Community Development Corporation and abolish its existing one-half of one percent (0.5%) sales and use tax for the promotion and development of new and expanded business enterprises. In its place, the city would adopt a local sales and use tax at a rate of one and one-half percent (1.5%). The ballot states this would result in no change to the total sales tax rate.",
+          "yesMeans": "The Liberty Community Development Corporation and its 0.5% sales tax would end, and the city's own local sales tax would be set at 1.5%, with no change to the total sales tax rate.",
+          "noMeans": "The Liberty Community Development Corporation and its 0.5% sales tax for business development would continue, and the city's local sales tax rate would not change.",
+          "source": "https://www.co.liberty.tx.us/upload/page/12682/Liberty%20County%20Sample%20Ballots.pdf",
+          "moreInfo": "https://www.co.liberty.tx.us/upload/page/12682/City%20of%20Liberty%20Notice%20of%20Special%20Election%2011-3-2026.pdf"
+        }
+      ]
+    }
+  }
+}

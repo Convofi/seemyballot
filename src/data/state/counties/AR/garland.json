@@ -1,0 +1,118 @@
+{
+  "state": "AR",
+  "county": "Garland County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/2026g_notice_of_election.pdf",
+    "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/2026_general_sample_ballots_all.pdf",
+    "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/local_issues.pdf",
+    "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/2026g_candidates_not_on_ballot.pdf",
+    "https://www.garlandcountyvote.org/2026-ballot-issues.html"
+  ],
+  "note": "Unopposed county candidates do not appear on the ballot and are certified as elected: County Judge (Bo Robertson), County Clerk (Sarah Smith), Treasurer (Glenda Dunn), Tax Collector (Nikki Griffith-Radley), Assessor (Shannon Sharp) and Coroner (Justin Nicklas). Not shown because they depend on your district: Justices of the Peace (contested in Districts 1, 2, 3, 4, 5, 6, 8 and 11), constables, Hot Springs Board of Directors Districts 2, 4 and 5, Fountain Lake School Board Position 5 runoff, and North Garland County Water. Other cities' races and questions (Mountain Pine, Diamondhead annexation) are also not shown. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Garland County Sheriff",
+      "candidates": [
+        {
+          "key": "ar-garland-2026-sheriff-macmillan-jim",
+          "name": "Jim Macmillan",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "ar-garland-2026-sheriff-mccormick-mike",
+          "name": "Mike McCormick",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/2026g_notice_of_election.pdf"
+    },
+    {
+      "office": "Garland County Circuit Clerk",
+      "candidates": [
+        {
+          "key": "ar-garland-2026-circuit-clerk-womble-hughes-kristie",
+          "name": "Kristie Womble-Hughes",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/2026g_notice_of_election.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Issue No. 5",
+      "title": "Library Millage",
+      "summary": "An initiated measure asking voters to approve a 0.9 mill property tax on all taxable real and personal property in Garland County. The tax would be pledged to repay bonds of up to $34,800,000 to acquire, build and equip land and capital improvements for the public libraries run by the Garland County Library Board.",
+      "yesMeans": "A 0.9 mill county property tax would be levied to repay up to $34.8 million in library bonds.",
+      "noMeans": "The 0.9 mill library tax would not be levied and the library bonds would not be issued.",
+      "source": "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/local_issues.pdf",
+      "moreInfo": "https://www.garlandcountyvote.org/2026-ballot-issues.html"
+    },
+    {
+      "id": "Issue No. 6",
+      "title": "0.625% County Road Tax Renewal (Referred Ordinance No. O-26-07)",
+      "summary": "Asks voters to continue Garland County's existing 0.625% countywide sales and use tax to pay for improvements to existing roads, streets, bridges, sidewalks, drainage and related structures. Net collections would be divided per capita between the county and its cities. The tax would run from July 1, 2027, through June 30, 2032.",
+      "yesMeans": "The existing 0.625% county sales and use tax for roads would continue from July 1, 2027, through June 30, 2032.",
+      "noMeans": "The 0.625% county road sales and use tax would not be continued past its current term.",
+      "source": "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/local_issues.pdf",
+      "moreInfo": "https://www.garlandcountyvote.org/2026-ballot-issues.html"
+    }
+  ],
+  "municipalities": {
+    "Hot Springs": {
+      "contests": [
+        {
+          "office": "Hot Springs Mayor",
+          "candidates": [
+            {
+              "key": "ar-garland-2026-hot-springs-mayor-mccabe-pat",
+              "name": "Pat McCabe",
+              "party": "Nonpartisan",
+              "incumbent": true
+            },
+            {
+              "key": "ar-garland-2026-hot-springs-mayor-broadbent-charlie",
+              "name": "Charlie Broadbent",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-garland-2026-hot-springs-mayor-wemette-deb",
+              "name": "Deb Wemette",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-garland-2026-hot-springs-mayor-beard-elmer",
+              "name": "Elmer Beard",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-garland-2026-hot-springs-mayor-capaci-eric",
+              "name": "Eric Capaci",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/2026g_notice_of_election.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Issue No. 7",
+          "title": "Sunday Alcohol Sales",
+          "summary": "An initiated measure asking Hot Springs voters whether to allow the sale of alcoholic beverages for off-premise consumption on Sundays within the city between 10:00 a.m. and midnight, as authorized by law.",
+          "yesMeans": "Stores in Hot Springs could sell alcohol for off-premise consumption on Sundays from 10:00 a.m. to midnight.",
+          "noMeans": "Sunday sales of alcohol for off-premise consumption would not be authorized in Hot Springs.",
+          "source": "https://www.garlandcountyvote.org/uploads/6/3/0/4/63045401/local_issues.pdf",
+          "moreInfo": "https://www.garlandcountyvote.org/2026-ballot-issues.html"
+        }
+      ]
+    }
+  }
+}

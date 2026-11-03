@@ -1,0 +1,27 @@
+{
+  "state": "AR",
+  "county": "Faulkner County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.votefaulknerar.gov/wp-content/uploads/2026/09/26GFAULK_Publication-Ballot.pdf",
+    "https://www.votefaulknerar.gov/wp-content/uploads/2026/09/Notice-of-Election-website.pdf",
+    "https://www.votefaulknerar.gov/upcoming-elections/"
+  ],
+  "note": "Faulkner County's ballot lists contested county races by name and groups other unopposed candidates into a single \"Unopposed Candidates\" vote, without naming them; those unopposed offices are not shown here. Circuit Clerk is the only countywide office printed on the publication ballot. Not shown because they depend on your district: Justices of the Peace (contested in Districts 4, 6, 8, 9, 10 and 12), Conway City Council races (Ward 1 Position 2, Ward 3 Position 2, Ward 4 Position 2, and the special election for Ward 2 Position 1), Conway Public Schools Zone 3, other cities' races, and the Greenbrier Fire Department dues question. There is no countywide or City of Conway ballot question. Check your official sample ballot at VoterView.",
+  "contests": [
+    {
+      "office": "Faulkner County Circuit Clerk",
+      "candidates": [
+        {
+          "key": "ar-faulkner-2026-circuit-clerk-eastham-nancy",
+          "name": "Nancy R. Eastham",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votefaulknerar.gov/wp-content/uploads/2026/09/26GFAULK_Publication-Ballot.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

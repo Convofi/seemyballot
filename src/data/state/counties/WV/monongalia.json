@@ -1,0 +1,39 @@
+{
+  "state": "WV",
+  "county": "Monongalia County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Monongalia%20261103%20General%20-%2017inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://www.monongaliacounty.gov/commission/commissioner___staff/index.php"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Monongalia County precinct; every precinct votes on the same county contests and levy. County Commission and Board of Education seats are elected countywide, with per-district residency limits printed on the ballot. There is no City of Morgantown contest on this ballot. The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Monongalia County Commissioner",
+      "candidates": [
+        { "key": "wv-monongalia-2026-county-commissioner-lytle-ronald", "name": "Ronald Lytle", "party": "Republican", "incumbent": false },
+        { "key": "wv-monongalia-2026-county-commissioner-knight-julie", "name": "Julie A Knight", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Monongalia%20261103%20General%20-%2017inch.pdf"
+    },
+    {
+      "office": "Monongalia County Board of Education (unexpired term, nonpartisan)",
+      "candidates": [
+        { "key": "wv-monongalia-2026-board-of-education-devono-frank", "name": "Frank D Devono Sr", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Monongalia%20261103%20General%20-%2017inch.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Monongalia County Commission Additional Levy",
+      "title": "Monongalia County Commission Special Election to Authorize Additional Levy (Emergency Medical Services)",
+      "summary": "Authorizes a Monongalia County Commission additional property tax levy for emergency medical services for the four fiscal years beginning July 1, 2027. The money would pay for equipment and other capital improvements and part of operating and maintenance expenses, about $5,345,131 a year and $21,380,524 over the term. The rates are 2.40 cents (Class I), 4.80 cents (Class II) and 9.60 cents (Classes III and IV) per $100 of assessed value.",
+      "yesMeans": "The county would levy the additional property tax for emergency medical services for fiscal years 2027 through 2030.",
+      "noMeans": "The additional emergency medical services levy would not be authorized.",
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Monongalia%20261103%20General%20-%2017inch.pdf"
+    }
+  ],
+  "municipalities": {}
+}

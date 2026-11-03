@@ -1,0 +1,166 @@
+{
+  "state": "TX",
+  "county": "Coryell County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://coryellcountytax.com/sample-ballots/",
+    "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf",
+    "https://coryellcountytax.com/wp-content/uploads/2026/09/308.pdf",
+    "https://coryellcountytax.com/wp-content/uploads/2025/10/county-elected-official-information-2025.pdf"
+  ],
+  "note": "From the Coryell County Elections Office (Tax Assessor-Collector) November 3, 2026 sample ballots for all 16 precincts and their ballot styles; every county race below is uncontested. Not shown because they depend on your precinct or district: County Commissioner Precincts 2 and 4, Justices of the Peace, U.S. House, State Senate, State House and State Board of Education districts, and City of Oglesby items. No Copperas Cove city items appear on the county's sample ballots. Statewide races and the 15th Court of Appeals (statewide district) are on the Texas statewide list. The City of Gatesville council seats are designated by ward, but all three appear on every City of Gatesville ballot style, so they are listed citywide. Incumbent flags are set only where the county's elected-officials list names the candidate in that office. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Justice, 10th Court of Appeals District, Place 2",
+      "candidates": [
+        {
+          "key": "tx-coryell-2026-coa10-p2-harris-lee",
+          "name": "Lee Harris",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf"
+    },
+    {
+      "office": "District Judge, 440th Judicial District",
+      "candidates": [
+        {
+          "key": "tx-coryell-2026-dj440-kinsey-grant",
+          "name": "Grant Kinsey",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf"
+    },
+    {
+      "office": "County Judge",
+      "candidates": [
+        {
+          "key": "tx-coryell-2026-county-judge-erwin-rob",
+          "name": "Rob Erwin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf"
+    },
+    {
+      "office": "Judge, County Court-at-Law",
+      "candidates": [
+        {
+          "key": "tx-coryell-2026-ccl-lee-john",
+          "name": "John R. Lee",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf"
+    },
+    {
+      "office": "District Clerk",
+      "candidates": [
+        {
+          "key": "tx-coryell-2026-district-clerk-moore-becky",
+          "name": "Becky Moore",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "tx-coryell-2026-county-clerk-newton-jennifer",
+          "name": "Jennifer Newton",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf"
+    },
+    {
+      "office": "County Treasurer",
+      "candidates": [
+        {
+          "key": "tx-coryell-2026-treasurer-mcfarlin-randi",
+          "name": "Randi McFarlin",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/101.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Gatesville": {
+      "contests": [
+        {
+          "office": "Gatesville Mayor",
+          "candidates": [
+            {
+              "key": "tx-coryell-2026-gatesville-mayor-corona-leo",
+              "name": "Leo Corona",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-coryell-2026-gatesville-mayor-rainer-meredith",
+              "name": "Meredith Rainer",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/308.pdf"
+        },
+        {
+          "office": "Gatesville City Council, Ward 1, Place 2",
+          "candidates": [
+            {
+              "key": "tx-coryell-2026-gatesville-council-w1p2-salter-jon",
+              "name": "Jon Salter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/308.pdf"
+        },
+        {
+          "office": "Gatesville City Council, Ward 2, Place 4",
+          "candidates": [
+            {
+              "key": "tx-coryell-2026-gatesville-council-w2p4-cuevas-buddy",
+              "name": "Buddy Cuevas",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "tx-coryell-2026-gatesville-council-w2p4-shields-jason",
+              "name": "Jason Shields",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/308.pdf"
+        },
+        {
+          "office": "Gatesville City Council, Ward 2, Place 6",
+          "candidates": [
+            {
+              "key": "tx-coryell-2026-gatesville-council-w2p6-westbrook-kalinda",
+              "name": "Kalinda Westbrook",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://coryellcountytax.com/wp-content/uploads/2026/09/308.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

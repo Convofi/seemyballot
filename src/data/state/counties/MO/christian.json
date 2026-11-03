@@ -1,0 +1,136 @@
+{
+  "state": "MO",
+  "county": "Christian County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf",
+    "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-2-4.pdf",
+    "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-3-3.pdf",
+    "https://www.christiancountymo.gov/offices/county-clerk/sample-ballots/"
+  ],
+  "note": "From the Christian County Clerk's official sample ballots for all three November 3, 2026 ballot styles; every county item below appears on all three. All county races are uncontested. Missouri Supreme Court retention, statewide offices and statewide amendments/propositions are shown in the Missouri state section. Not shown: U.S. House and state House districts (138, 139, 140). There are no county or city ballot questions, and no Ozark or Nixa city items, on this ballot. Incumbent flags come from the county's office pages (County Clerk, Recorder of Deeds, Auditor); other candidates are not marked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Associate Circuit Judge, Division 3",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-assoc-circuit-judge-div3-ward-steven",
+          "name": "Steven Ward",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "Associate Circuit Judge, Division 4",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-assoc-circuit-judge-div4-bacon-doug",
+          "name": "Doug Bacon",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "Presiding Commissioner",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-presiding-commissioner-taylor-jered",
+          "name": "Jered Taylor",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "County Clerk",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-county-clerk-brumfield-paula",
+          "name": "Paula Brumfield",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "Clerk of the Circuit Court",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-circuit-clerk-barnett-stillings-barbara",
+          "name": "Barbara Barnett-Stillings",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "Recorder of Deeds",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-recorder-hall-kelly",
+          "name": "Kelly Blunt Hall",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-prosecutor-avila-kristen",
+          "name": "Kristen Tuohy Avila",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "Collector of Revenue",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-collector-snyder-chris",
+          "name": "Chris Snyder",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-auditor-dent-amy",
+          "name": "Amy Dent",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    },
+    {
+      "office": "Judge of the Missouri Court of Appeals, Southern District (retention: vote yes or no on whether to retain)",
+      "candidates": [
+        {
+          "key": "mo-christian-2026-retain-appeals-sd-hamner-matthew",
+          "name": "Matthew P. Hamner",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.christiancountymo.gov/wp-content/uploads/SAMPLE-BT-1-5.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

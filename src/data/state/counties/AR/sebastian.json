@@ -1,0 +1,144 @@
+{
+  "state": "AR",
+  "county": "Sebastian County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.sebastiancountyar.gov/Portals/0/Content/Election/2026/2026%20Nov%203%20Notice%20of%20General%20Election.pdf",
+    "https://www.sebastiancountyar.gov/Elections/Election-Details",
+    "https://www.sebastiancountyar.gov/Departments/County-Clerk/Election-Info/2026NovSampleBallots"
+  ],
+  "note": "Unopposed county candidates do not appear by name; the ballot has a single \"All Unopposed Candidates\" vote. Unopposed this year: County Judge (Steve Hotz), Sheriff (Wyatt W. McIntyre), County Clerk (Sharon Brooks), Treasurer/Collector (Lora Lea Rice), Assessor (Zach Johnson) and Coroner (Jackie C. Davis). Circuit Clerk is the only county office printed on the ballot. Not shown because they depend on your district: Justices of the Peace (contested in Districts 2, 5, 7, 10 and 11), constables, and city ward or alderman races. Fort Smith Director At-Large Position 7 (Neal Martin) is unopposed and not on the ballot. Other cities' races and the Central City and Lavaca sales tax questions are also not shown. There is no countywide ballot question. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Sebastian County Circuit Clerk",
+      "candidates": [
+        {
+          "key": "ar-sebastian-2026-circuit-clerk-hassett-susie",
+          "name": "Susie Hassett",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.sebastiancountyar.gov/Portals/0/Content/Election/2026/2026%20Nov%203%20Notice%20of%20General%20Election.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Fort Smith": {
+      "contests": [
+        {
+          "office": "Fort Smith Mayor",
+          "candidates": [
+            {
+              "key": "ar-sebastian-2026-fort-smith-mayor-deer-nataylia",
+              "name": "Nataylia Deer",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-mayor-mckinney-shayne",
+              "name": "Shayne McKinney",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-mayor-powers-yvette",
+              "name": "Yvette C. Powers",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-mayor-williams-daniel",
+              "name": "Daniel Williams",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-mayor-harrison-sara",
+              "name": "Sara Harrison",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-mayor-catsavis-christina",
+              "name": "Christina Catsavis",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-mayor-kemp-lee",
+              "name": "Lee Kemp",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.sebastiancountyar.gov/Portals/0/Content/Election/2026/2026%20Nov%203%20Notice%20of%20General%20Election.pdf"
+        },
+        {
+          "office": "Fort Smith City Director, At-Large Position 5",
+          "candidates": [
+            {
+              "key": "ar-sebastian-2026-fort-smith-director-pos5-radhakrishnan-molly",
+              "name": "Molly Radhakrishnan",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-director-pos5-cadelli-krystal",
+              "name": "Krystal Cadelli",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-director-pos5-morton-lavon",
+              "name": "Lavon Morton",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-director-pos5-cunningham-quinton",
+              "name": "Quinton Cunningham",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.sebastiancountyar.gov/Portals/0/Content/Election/2026/2026%20Nov%203%20Notice%20of%20General%20Election.pdf"
+        },
+        {
+          "office": "Fort Smith City Director, At-Large Position 6",
+          "candidates": [
+            {
+              "key": "ar-sebastian-2026-fort-smith-director-pos6-millspaugh-casey",
+              "name": "Casey Millspaugh",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-director-pos6-trumbly-brian",
+              "name": "Brian Trumbly",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "ar-sebastian-2026-fort-smith-director-pos6-nevin-carl",
+              "name": "Carl Nevin",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.sebastiancountyar.gov/Portals/0/Content/Election/2026/2026%20Nov%203%20Notice%20of%20General%20Election.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Fort Smith Special Election",
+          "title": "A Proposition to Organize the City of Fort Smith, Arkansas Under the Mayor-Council Form of Municipal Government",
+          "summary": "Asks Fort Smith voters whether the City of Fort Smith should be organized under the mayor-council form of municipal government. Voters mark FOR or AGAINST the proposition.",
+          "yesMeans": "Fort Smith would be reorganized under the mayor-council form of government.",
+          "noMeans": "Fort Smith would not be reorganized under the mayor-council form and would keep its current form of government.",
+          "source": "https://www.sebastiancountyar.gov/Portals/0/Content/Election/2026/2026%20Nov%203%20Notice%20of%20General%20Election.pdf"
+        }
+      ]
+    }
+  }
+}

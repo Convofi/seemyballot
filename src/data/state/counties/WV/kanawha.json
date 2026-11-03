@@ -1,0 +1,98 @@
+{
+  "state": "WV",
+  "county": "Kanawha County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://www.charlestonwv.gov/government/city-council",
+    "https://www.charlestonwv.gov/"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Kanawha County precinct. Not shown because they depend on your district or city: Charleston City Council ward seats, and the municipal ballots of South Charleston, Chesapeake and other towns. The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Kanawha County Commissioner",
+      "candidates": [
+        { "key": "wv-kanawha-2026-county-commissioner-page-jared", "name": "Jared Page", "party": "Republican", "incumbent": false },
+        { "key": "wv-kanawha-2026-county-commissioner-monroe-paul", "name": "Paul Monroe", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+    },
+    {
+      "office": "Magistrate, Division 6 (unexpired term, nonpartisan)",
+      "candidates": [
+        { "key": "wv-kanawha-2026-magistrate-div6-richmond-board-andrea", "name": "Andrea Richmond-Board", "party": "Nonpartisan", "incumbent": false },
+        { "key": "wv-kanawha-2026-magistrate-div6-workman-paris", "name": "Paris Workman", "party": "Nonpartisan", "incumbent": false },
+        { "key": "wv-kanawha-2026-magistrate-div6-whittington-earl", "name": "Earl Whittington", "party": "Nonpartisan", "incumbent": false },
+        { "key": "wv-kanawha-2026-magistrate-div6-quinn-nick", "name": "Nick Quinn", "party": "Nonpartisan", "incumbent": false },
+        { "key": "wv-kanawha-2026-magistrate-div6-willis-wm-bolts", "name": "Wm. Bolts Willis", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Kanawha County Board of Education Additional Levies (Schools)",
+      "title": "The Board of Education of the County of Kanawha: Election to Authorize Renewal of Additional Levies",
+      "summary": "Renews the Kanawha County Board of Education's additional (excess) property tax levy for the five fiscal years beginning July 1, 2029. The money pays general school expenses in four listed areas: instruction, student services and operations; educator and employee salaries and benefits; facilities, safety, maintenance and technology; and athletics and extracurricular activities. The maximum rates are 21.91 cents (Class I), 43.82 cents (Class II) and 87.64 cents (Classes III and IV) per $100 of assessed value, and no levy funds may go to public charter schools.",
+      "yesMeans": "The school excess levy would continue for the fiscal years beginning July 1, 2029 through July 1, 2033.",
+      "noMeans": "The school excess levy would not be renewed for those years.",
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+    },
+    {
+      "id": "Kanawha County Board of Education Additional Levies (Public Libraries)",
+      "title": "The Board of Education of the County of Kanawha: Election to Authorize Renewal of Additional Levies (Support for Public Libraries in Kanawha County)",
+      "summary": "Renews an additional property tax levy collected through the Kanawha County Board of Education to partially fund public libraries, $3,183,675 a year for the five fiscal years beginning July 1, 2030. The money goes to the Kanawha County Public Library system ($2,912,108), South Charleston Public Library ($221,902) and Nitro Public Library ($49,665). The maximum rates are 1.04 cents (Class I), 2.08 cents (Class II) and 4.16 cents (Classes III and IV) per $100 of assessed value.",
+      "yesMeans": "The library levy would continue for the fiscal years beginning July 1, 2030 through July 1, 2034.",
+      "noMeans": "The library levy would not be renewed for those years.",
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+    }
+  ],
+  "municipalities": {
+    "Charleston": {
+      "contests": [
+        {
+          "office": "Charleston Mayor",
+          "candidates": [
+            { "key": "wv-kanawha-2026-charleston-mayor-hunt-brian", "name": "Brian Hunt", "party": "Republican", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-mayor-goodwin-amy", "name": "Amy Goodwin", "party": "Democratic", "incumbent": true }
+          ],
+          "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+        },
+        {
+          "office": "Charleston Treasurer",
+          "candidates": [
+            { "key": "wv-kanawha-2026-charleston-treasurer-adams-ben", "name": "Ben Adams", "party": "Democratic", "incumbent": false }
+          ],
+          "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+        },
+        {
+          "office": "Charleston Municipal Judge",
+          "candidates": [
+            { "key": "wv-kanawha-2026-charleston-municipal-judge-smith-matt", "name": "Matt Smith", "party": "Democratic", "incumbent": false }
+          ],
+          "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+        },
+        {
+          "office": "Charleston City Council At Large",
+          "seats": 6,
+          "candidates": [
+            { "key": "wv-kanawha-2026-charleston-council-at-large-pack-will", "name": "Will Pack", "party": "Republican", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-parks-daron", "name": "Da'Ron \"Scooby\" Parks", "party": "Republican", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-joseph-fred", "name": "Fred Joseph", "party": "Republican", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-white-lisa-samples", "name": "Lisa Samples White", "party": "Republican", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-smith-patricia", "name": "Patricia A. Smith", "party": "Republican", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-pepper-emmett", "name": "Emmett Pepper", "party": "Democratic", "incumbent": true },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-pharr-jennifer", "name": "Jennifer Pharr", "party": "Democratic", "incumbent": true },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-salango-patrick", "name": "Patrick Salango", "party": "Democratic", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-bodie-linda", "name": "Linda Bodie", "party": "Democratic", "incumbent": false },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-cook-caitlin", "name": "Caitlin Cook", "party": "Democratic", "incumbent": true },
+            { "key": "wv-kanawha-2026-charleston-council-at-large-taylor-shawn", "name": "Shawn Taylor", "party": "Democratic", "incumbent": true }
+          ],
+          "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Kanawha%20261103%20General%20-%2017inch.pdf"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

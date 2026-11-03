@@ -1,0 +1,48 @@
+{
+  "state": "WV",
+  "county": "Berkeley County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Berkeley%20261103%20General%20-14inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://www.berkeleywv.org/160/County-Commission"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Berkeley County precinct; every precinct votes on the same county contests. County Commission and Board of Education seats are elected countywide, but no more than one commissioner may live in any magisterial district, and the Board of Education has per-district limits printed on the ballot. There is no countywide levy and no City of Martinsburg contest on this ballot. The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 27th Judicial Circuit, Division 4 (unexpired term, nonpartisan)",
+      "candidates": [
+        { "key": "wv-berkeley-2026-circuit-judge-27-div4-kinser-joe", "name": "Joe Kinser", "party": "Nonpartisan", "incumbent": false },
+        { "key": "wv-berkeley-2026-circuit-judge-27-div4-stephens-richard", "name": "Richard D. Stephens", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Berkeley%20261103%20General%20-14inch.pdf"
+    },
+    {
+      "office": "Magistrate, Division 5 (unexpired term, nonpartisan)",
+      "candidates": [
+        { "key": "wv-berkeley-2026-magistrate-div5-belaj-eri", "name": "Eri Belaj", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Berkeley%20261103%20General%20-14inch.pdf"
+    },
+    {
+      "office": "Berkeley County Commissioner",
+      "seats": 2,
+      "candidates": [
+        { "key": "wv-berkeley-2026-county-commissioner-whitacre-james", "name": "James \"Jim\" Whitacre", "party": "Republican", "incumbent": true },
+        { "key": "wv-berkeley-2026-county-commissioner-gochenour-eddie", "name": "Eddie Gochenour", "party": "Republican", "incumbent": true },
+        { "key": "wv-berkeley-2026-county-commissioner-lansdowne-z", "name": "Z Lansdowne", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Berkeley%20261103%20General%20-14inch.pdf"
+    },
+    {
+      "office": "Berkeley County Board of Education (nonpartisan)",
+      "candidates": [
+        { "key": "wv-berkeley-2026-board-of-education-wright-damon", "name": "Damon Wright", "party": "Nonpartisan", "incumbent": false },
+        { "key": "wv-berkeley-2026-board-of-education-mccaulley-robert", "name": "Robert McCaulley", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Berkeley%20261103%20General%20-14inch.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

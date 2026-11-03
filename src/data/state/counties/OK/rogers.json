@@ -1,0 +1,21 @@
+{
+  "state": "OK",
+  "county": "Rogers County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://hosting.okelections.gov/electionlist.html"
+  ],
+  "note": "Oklahoma prints only contested races: County Assessor is the only countywide race on the November 3, 2026 Rogers County ballot according to the State Election Board's list, and there are no countywide propositions. Not shown: County Commissioner District 3, the Verdigris Fire board election, the City of Tulsa hotel tax proposition (Tulsa residents of Rogers County only), and any school district or other local questions. Each depends on a district the address lookup cannot resolve. Claremore has no city-wide items on this ballot. Check your official sample ballot at the OK Voter Portal.",
+  "contests": [
+    {
+      "office": "Rogers County Assessor",
+      "candidates": [
+        { "key": "ok-rogers-2026-county-assessor-carter-lane", "name": "Lane A. Carter", "party": "Republican", "incumbent": false },
+        { "key": "ok-rogers-2026-county-assessor-nolan-aimee", "name": "Aimee Nolan", "party": "Independent", "incumbent": false }
+      ],
+      "source": "https://hosting.okelections.gov/electionlist.html"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

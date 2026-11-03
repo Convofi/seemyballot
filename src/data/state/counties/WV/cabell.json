@@ -1,0 +1,31 @@
+{
+  "state": "WV",
+  "county": "Cabell County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Cabell%20261103%20General%20-%2014inch.pdf",
+    "https://apps.sos.wv.gov/elections/SampleBallots",
+    "https://www.cabellcounty.org/government/county_commission/index.php"
+  ],
+  "note": "From the Secretary of State's posted sample ballots for every Cabell County precinct; every precinct votes on the same county contests. The County Commission seat is elected countywide, but no more than one commissioner may live in any magisterial district. There is no countywide levy and no City of Huntington contest on this ballot. The statewide constitutional amendment and the legislative races are shown elsewhere. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Family Court Judge, 6th Judicial Circuit, Division 2 (unexpired term, nonpartisan)",
+      "candidates": [
+        { "key": "wv-cabell-2026-family-court-judge-6-div2-kontos-miller-eleni", "name": "Eleni Kontos-Miller", "party": "Nonpartisan", "incumbent": false },
+        { "key": "wv-cabell-2026-family-court-judge-6-div2-harbour-paula", "name": "Paula Harbour", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Cabell%20261103%20General%20-%2014inch.pdf"
+    },
+    {
+      "office": "Cabell County Commissioner",
+      "candidates": [
+        { "key": "wv-cabell-2026-county-commissioner-mandt-john", "name": "John Mandt Jr.", "party": "Republican", "incumbent": true },
+        { "key": "wv-cabell-2026-county-commissioner-rumbaugh-tia", "name": "Tia \"Fix\" Rumbaugh", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://apps.sos.wv.gov/elections/2026GeneralSampleBallots/SAMPLE%20-%20WV%20Cabell%20261103%20General%20-%2014inch.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

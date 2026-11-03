@@ -1,0 +1,192 @@
+{
+  "state": "IN",
+  "county": "Vigo County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf",
+    "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/pierson_a_gen.pdf",
+    "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/sugar_creek_f_gen.pdf",
+    "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/summary_candidate_office_20261008_083600am.pdf",
+    "https://www.everyvotevigocounty.com/2026-sample-ballots.html",
+    "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx"
+  ],
+  "note": "From the Vigo County Election Board's official precinct sample ballots (Terre Haute First-A, Fourth-B and Seventh-C; Pierson-A; Sugar Creek-F) and its certified candidate report. The Superior Court, Prosecutor, county office, County Commissioner District 1 and all four Vigo County School Board seats appear on every ballot checked, in the city and in rural townships. School board candidates shown with no party printed on the ballot are listed as Nonpartisan. Not shown because they depend on where you live: County Council Districts 1-4 and township trustee, assessor and board races. No countywide public question is on the ballot, and Terre Haute city offices are not on the 2026 ballot. The two statewide constitutional questions and the Court of Appeals (Fourth and Fifth District) and Tax Court retention questions appear on every Indiana ballot. Incumbent status is not marked because no official roster was checked. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "Judge of the Vigo Superior Court, Division 2",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-superior-court-2-reddy-lakshmi",
+          "name": "Lakshmi (Lucky) Reddy",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Judge of the Vigo Superior Court, Division 5",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-superior-court-5-roberts-robert",
+          "name": "Robert E. (Rob) Roberts",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-vigo-2026-superior-court-5-sheehan-matthew",
+          "name": "Matthew Anthony Sheehan",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Prosecuting Attorney, 43rd Judicial Circuit (Vigo County)",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-prosecutor-modesitt-terry",
+          "name": "Terry R. Modesitt",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-vigo-2026-prosecutor-vaughn-johnny",
+          "name": "Johnny E Vaughn",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County Sheriff",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-sheriff-ellis-steve",
+          "name": "Steve (Top Guns) Ellis",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-vigo-2026-sheriff-fell-derek",
+          "name": "Derek Fell",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County Surveyor",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-surveyor-allen-bruce",
+          "name": "Bruce W. Allen",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County Assessor",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-assessor-gardner-kevin",
+          "name": "Kevin Gardner",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County Commissioner, District 1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-commissioner-d1-clinkenbeard-mark",
+          "name": "Mark A. Clinkenbeard",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-vigo-2026-commissioner-d1-morales-lynn",
+          "name": "Lynn Ann Morales",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County School Board, District 1-1 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-school-board-d1-1-nattkemper-chase",
+          "name": "Chase C. Nattkemper",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "in-vigo-2026-school-board-d1-1-holman-imer",
+          "name": "Imer Damar Holman",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "in-vigo-2026-school-board-d1-1-labella-carey",
+          "name": "Carey Labella",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County School Board, District 2 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-school-board-d2-norris-jenny",
+          "name": "Jenny Norris",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County School Board, District 4 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-school-board-d4-warner-ken",
+          "name": "Ken Warner",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    },
+    {
+      "office": "Vigo County School Board, District 5 (elected countywide)",
+      "candidates": [
+        {
+          "key": "in-vigo-2026-school-board-d5-burger-rick",
+          "name": "Rick Burger",
+          "party": "Independent",
+          "incumbent": false
+        },
+        {
+          "key": "in-vigo-2026-school-board-d5-scott-rosemarie",
+          "name": "Rosemarie Scott",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.everyvotevigocounty.com/uploads/1/3/3/5/133510834/1a_gen.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
