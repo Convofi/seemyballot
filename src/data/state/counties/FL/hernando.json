@@ -1,0 +1,114 @@
+{
+  "state": "FL",
+  "county": "Hernando County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=hernando",
+    "https://www.hernandocounty.us/county-government/board-of-county-commissioners/",
+    "https://www.cityofbrooksville.us/266/City-Council",
+    "https://www.hernandoschools.org/school-board",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "The Hernando County Supervisor of Elections website (hernandovotes.gov) blocks automated access, so no sample ballot could be checked; candidates are from the Supervisor of Elections' candidate filing records (candidates still active for November) and names are shown as filed. County commissioners are elected countywide by the voters at large and must live in their district. Not shown: School Board District 5 runoff (Kara Leigh Champion, Susan Duval), because we could not confirm from an official page that the whole county votes on it; Sterling Hill community development district seat. County and city referenda could not be verified. Not on the November ballot: County Commission District 2, School Board Districts 1 and 3, County Judge and Brooksville City Council Seat 5 (decided earlier or unopposed). Check your official sample ballot at hernandovotes.gov.",
+  "contests": [
+    {
+      "office": "County Commission District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-hernando-2026-bocc-d4-holcomb-jeff",
+          "name": "Jeff Holcomb",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-hernando-2026-bocc-d4-bigelow-donald",
+          "name": "Donald Bigelow",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=hernando"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-hernando-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-hernando-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-hernando-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Brooksville": {
+      "contests": [
+        {
+          "office": "Brooksville City Council Member Seat 1",
+          "candidates": [
+            {
+              "key": "fl-hernando-2026-brooksville-council-s1-erhard-betty",
+              "name": "Betty Erhard",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-hernando-2026-brooksville-council-s1-watson-robert",
+              "name": "Robert D. Watson",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=hernando"
+        },
+        {
+          "office": "Brooksville City Council Member Seat 4",
+          "candidates": [
+            {
+              "key": "fl-hernando-2026-brooksville-council-s4-hodges-noah",
+              "name": "Noah Hodges",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-hernando-2026-brooksville-council-s4-mccoskrie-jennifer",
+              "name": "Jennifer McCoskrie",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=hernando"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

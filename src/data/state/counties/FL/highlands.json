@@ -1,0 +1,55 @@
+{
+  "state": "FL",
+  "county": "Highlands County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.votehighlands.gov/",
+    "https://irp.cdn-website.com/661caccf/files/uploaded/2026GEN_SAMPLE_AP_1-2-4A-16A.pdf",
+    "https://irp.cdn-website.com/661caccf/files/uploaded/2026GEN_SAMPLE_PCTS2N-25.pdf",
+    "https://irp.cdn-website.com/661caccf/files/uploaded/2026GEN_SAMPLE_SNL_4D-25D.pdf",
+    "https://irp.cdn-website.com/661caccf/files/uploaded/Highlands+County+Notice+of+Elections+2026+v1.pdf",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=highlands",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Built from all three official 2026 General Election sample ballot styles posted by the Supervisor of Elections (Avon Park precincts 1, 2, 4A, 16A; Sun 'N Lake precincts 4D and 25D; all other precincts). School Board Districts 1 and 5 appear on every style, so every county voter votes on them. Not on the November ballot: County Commission Districts 2 and 4, School Board District 4 and County Judge (decided earlier or unopposed). Highlands County is in the 6th District Court of Appeal, and the state candidate list shows no 6th District Court of Appeal retention this November; no contested 10th Circuit judge race remains. No county referendum and no Sebring race or question appears on any sample ballot. Not shown: Avon Park Mayor, Avon Park City Council and the Avon Park charter amendment (Avon Park voters only), and the Sun 'N Lake Improvement District Board of Supervisors seat (Sun 'N Lake precincts only). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "School Board District 1 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-highlands-2026-school-board-d1-jonsten-james",
+          "name": "James Jonsten",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-highlands-2026-school-board-d1-pritchett-kari",
+          "name": "Kari Gurganus Pritchett",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://irp.cdn-website.com/661caccf/files/uploaded/2026GEN_SAMPLE_PCTS2N-25.pdf"
+    },
+    {
+      "office": "School Board District 5 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-highlands-2026-school-board-d5-brown-gary",
+          "name": "Gary Brown",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-highlands-2026-school-board-d5-tuck-andy",
+          "name": "Andy Tuck",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://irp.cdn-website.com/661caccf/files/uploaded/2026GEN_SAMPLE_PCTS2N-25.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

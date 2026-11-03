@@ -1,0 +1,86 @@
+{
+  "state": "FL",
+  "county": "Walton County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://votewalton.gov/sample-ballots/",
+    "https://votewalton.gov/wp-content/uploads/2026/09/2026-GEN-Sample-Ballot-Mailer-FINAL-8.5x11-v4.pdf",
+    "https://votewalton.gov/event/general-election/",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=walton",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "From the Supervisor of Elections' countywide sample ballot for the General Election. County Commission Districts 2 (Warren Whitaker) and 4 (Jim Bagby) are printed on the ballot with a write-in line, but the Supervisor of Elections says the write-in candidates withdrew, so both are deemed elected and those races are not shown. Not shown: South Walton Fire District Seat 4 (only for voters inside the district) and congressional districts. Not on the November ballot: School Board Districts 2, 3 and 5 and County Judge (decided earlier or unopposed). No city race or question appears on the sample ballot, including DeFuniak Springs. Check your official sample ballot at votewalton.gov.",
+  "contests": [
+    {
+      "office": "1st District Court of Appeal — retain Judge Joseph Lewis Jr.? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-walton-2026-dca1-retain-lewis-joseph",
+          "name": "Joseph Lewis Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votewalton.gov/wp-content/uploads/2026/09/2026-GEN-Sample-Ballot-Mailer-FINAL-8.5x11-v4.pdf"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Rachel Nordby? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-walton-2026-dca1-retain-nordby-rachel",
+          "name": "Rachel Nordby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votewalton.gov/wp-content/uploads/2026/09/2026-GEN-Sample-Ballot-Mailer-FINAL-8.5x11-v4.pdf"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Tim Osterhaus? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-walton-2026-dca1-retain-osterhaus-tim",
+          "name": "Tim Osterhaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votewalton.gov/wp-content/uploads/2026/09/2026-GEN-Sample-Ballot-Mailer-FINAL-8.5x11-v4.pdf"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Clay Roberts? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-walton-2026-dca1-retain-roberts-clay",
+          "name": "Clay Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votewalton.gov/wp-content/uploads/2026/09/2026-GEN-Sample-Ballot-Mailer-FINAL-8.5x11-v4.pdf"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Raymond Treadwell? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-walton-2026-dca1-retain-treadwell-raymond",
+          "name": "Raymond Treadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://votewalton.gov/wp-content/uploads/2026/09/2026-GEN-Sample-Ballot-Mailer-FINAL-8.5x11-v4.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "School District Referendum",
+      "title": "Walton County School District Referendum",
+      "summary": "Asks whether the Walton County School District should continue its current one-half mill property tax (ad valorem millage) for the fiscal years beginning July 1, 2027, and ending June 30, 2031. The money would pay operating expenses to recruit and retain teachers, preserve extracurricular programs, and provide instructional materials and technology.",
+      "yesMeans": "The school district may continue the current one-half mill property tax through June 30, 2031.",
+      "noMeans": "The one-half mill property tax is not continued beyond its current term.",
+      "source": "https://votewalton.gov/wp-content/uploads/2026/09/2026-GEN-Sample-Ballot-Mailer-FINAL-8.5x11-v4.pdf"
+    }
+  ],
+  "municipalities": {}
+}

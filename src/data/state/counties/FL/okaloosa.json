@@ -1,0 +1,75 @@
+{
+  "state": "FL",
+  "county": "Okaloosa County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=okaloosa",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=okaloosa&el=223",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Built from the Okaloosa County Supervisor of Elections candidate listing (candidates still active for November) and the state judicial candidate list; the Supervisor of Elections website could not be reached, so sample ballots were not checked. County and city referenda could not be verified and are not shown. Not shown: School Board District 1 special election (Jerry Buckman, JD Peacock), School Board District 3 (Linda Evanchyk, Mitch Reed) and School Board District 5 (Brett Hinely, Cynthia West), because it could not be confirmed from an official page whether the whole county votes on them; Fort Walton Beach City Council (ten candidates: Brandon Bishop, Schuyler Black, Steve Caldarelli, Tyler Capelotti, Gloria DeBerry, Denise Dierker, Glen Guarin, Jeffrey Pendleton, Matthew Turpin, T. Payne Walker), because the number of seats being filled could not be confirmed from an official page; Crestview and Destin council races; and the Bluewater MSBU seat. Not on the November ballot: County Commission Districts 2 and 4 and County Court Judge Groups 2 and 3 (unopposed). Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "1st District Court of Appeal — retain Judge Joseph Lewis Jr.? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-okaloosa-2026-dca1-retain-lewis-joseph",
+          "name": "Joseph Lewis Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Rachel Nordby? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-okaloosa-2026-dca1-retain-nordby-rachel",
+          "name": "Rachel Nordby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Tim Osterhaus? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-okaloosa-2026-dca1-retain-osterhaus-tim",
+          "name": "Tim Osterhaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Clay Roberts? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-okaloosa-2026-dca1-retain-roberts-clay",
+          "name": "Clay Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Raymond Treadwell? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-okaloosa-2026-dca1-retain-treadwell-raymond",
+          "name": "Raymond Treadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

@@ -1,0 +1,137 @@
+{
+  "state": "FL",
+  "county": "Citrus County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.votecitrus.gov/190/Sample-Ballots",
+    "https://www.votecitrus.gov/DocumentCenter/View/1914/General---November-3-2026---All-precincts-except-105-PDF",
+    "https://www.votecitrus.gov/DocumentCenter/View/1915/General---November-3-2026---Precinct-105---City-of-Crystal-River-PDF",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=citrus",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "From the Supervisor of Elections' two General Election sample ballots (all precincts except 105, and Precinct 105, City of Crystal River); every contest below is on both. Not on the November ballot: County Commission Districts 2 and 4 and School Board Districts 1, 3 and 5 (decided in the August primary or unopposed). No county referendum appears on either sample ballot, and no Inverness city race or question appears. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-citrus-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votecitrus.gov/DocumentCenter/View/1914/General---November-3-2026---All-precincts-except-105-PDF"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-citrus-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votecitrus.gov/DocumentCenter/View/1914/General---November-3-2026---All-precincts-except-105-PDF"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-citrus-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.votecitrus.gov/DocumentCenter/View/1914/General---November-3-2026---All-precincts-except-105-PDF"
+    },
+    {
+      "office": "Citrus County Community Charitable Foundation Seat 2",
+      "candidates": [
+        {
+          "key": "fl-citrus-2026-charitable-foundation-s2-dixon-phyllis",
+          "name": "Phyllis Dixon",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-citrus-2026-charitable-foundation-s2-haendiges-heather",
+          "name": "Heather Haendiges",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votecitrus.gov/DocumentCenter/View/1914/General---November-3-2026---All-precincts-except-105-PDF"
+    },
+    {
+      "office": "Mosquito Control Board Seat 1",
+      "candidates": [
+        {
+          "key": "fl-citrus-2026-mosquito-s1-brooks-james",
+          "name": "James Brooks",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-citrus-2026-mosquito-s1-green-arthur",
+          "name": "Arthur \"AJ\" Green",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-citrus-2026-mosquito-s1-thompson-tyler",
+          "name": "Tyler Thompson",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votecitrus.gov/DocumentCenter/View/1914/General---November-3-2026---All-precincts-except-105-PDF"
+    },
+    {
+      "office": "Mosquito Control Board Seat 3",
+      "candidates": [
+        {
+          "key": "fl-citrus-2026-mosquito-s3-adams-joe",
+          "name": "Joe Adams",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-citrus-2026-mosquito-s3-fountain-greg",
+          "name": "Greg Fountain",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.votecitrus.gov/DocumentCenter/View/1914/General---November-3-2026---All-precincts-except-105-PDF"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Crystal River": {
+      "contests": [
+        {
+          "office": "Crystal River City Council Member Seat 2",
+          "candidates": [
+            {
+              "key": "fl-citrus-2026-crystalriver-council-s2-hastings-mindi",
+              "name": "Mindi Hastings",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-citrus-2026-crystalriver-council-s2-reynolds-jack",
+              "name": "Jack P. Reynolds",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.votecitrus.gov/DocumentCenter/View/1915/General---November-3-2026---Precinct-105---City-of-Crystal-River-PDF"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

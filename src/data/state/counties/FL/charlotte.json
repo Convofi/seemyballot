@@ -1,0 +1,34 @@
+{
+  "state": "FL",
+  "county": "Charlotte County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=charlotte",
+    "https://www.charlottecountyfl.gov/core/fileparse.php/242/urlt/charter.pdf",
+    "https://www.charlottecountyfl.gov/commission-office/",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "The Charlotte County Supervisor of Elections website blocks automated access, so the sample ballot could not be checked; this is built from the Supervisor of Elections' candidate filing records (candidates still active for November after the August primary), and names are shown as filed. County commissioners are elected countywide under the Charlotte County Home Rule Charter. County and city referenda could not be verified, including any Charlotte County or City of Punta Gorda ballot question. Not shown: Punta Gorda City Council (its candidates are not in the Supervisor's listing and could not be verified), School Board District 1 (Cara Marie Reynolds is the only remaining qualified candidate and her listing could not be checked against a ballot), Charlotte County Airport Authority Districts 2 and 4 (one qualified candidate each; countywide voting not confirmed), and community development district seats. Not on the November ballot: County Commission District 2 and School Board District 4 (decided earlier). Charlotte County is in the 6th District Court of Appeal, and the state candidate list shows no 6th District Court of Appeal retention and no contested 20th Circuit judge race this November. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-charlotte-2026-bocc-d4-amontree-kim",
+          "name": "Kim Amontree",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-charlotte-2026-bocc-d4-melton-michael",
+          "name": "Michael Melton",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=charlotte"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

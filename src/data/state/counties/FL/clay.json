@@ -1,0 +1,76 @@
+{
+  "state": "FL",
+  "county": "Clay County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=clay",
+    "https://clayelections.gov/election-information/offices-up-for-election-in-2026/",
+    "https://clayelections.gov/wp-content/uploads/2025/04/Clay-County-Home-Rule-Charter.pdf",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Built from the Clay County Supervisor of Elections candidate listing (candidates still active for November after the August primary) and the state judicial candidate list; precinct sample ballots are offered only through a personal voter lookup, so they were not checked. County and city referenda, including any charter amendment, could not be verified and are not shown. Not shown: County Commissioner District 2 (Leroy Edwards, Democratic; Lolita Smoak, Republican), because under the Clay County Home Rule Charter each commissioner is elected only by voters in that district; and community development district seats. Not on the November ballot: County Commission District 4 and School Board Districts 1, 4 and 5 (decided earlier), and Soil and Water Conservation District seats (all unopposed). No Green Cove Springs race appears in the Supervisor's November candidate listing. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "1st District Court of Appeal — retain Judge Joseph Lewis Jr.? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-clay-2026-dca1-retain-lewis-joseph",
+          "name": "Joseph Lewis Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Rachel Nordby? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-clay-2026-dca1-retain-nordby-rachel",
+          "name": "Rachel Nordby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Tim Osterhaus? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-clay-2026-dca1-retain-osterhaus-tim",
+          "name": "Tim Osterhaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Clay Roberts? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-clay-2026-dca1-retain-roberts-clay",
+          "name": "Clay Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Raymond Treadwell? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-clay-2026-dca1-retain-treadwell-raymond",
+          "name": "Raymond Treadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

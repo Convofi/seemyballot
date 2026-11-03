@@ -1,0 +1,101 @@
+{
+  "state": "FL",
+  "county": "Nassau County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=nassau",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=nassau&el=48",
+    "https://votenassaufl.gov/offices-up-for-election",
+    "https://www.fbfl.us/175/Elections",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Built from the Nassau County Supervisor of Elections candidate listings, the City of Fernandina Beach elections page and the state judicial candidate list; sample ballots are offered only through a personal voter lookup, so they were not checked. County and city referenda could not be verified and are not shown. Not on the November ballot: County Commission Districts 2 and 4, School Board Districts 1, 3 and 5, County Court Judge Group 1, Fernandina Beach Commission Seats 4 and 5, and Ocean, Highway and Port Authority and Soil and Water Conservation seats (all decided earlier or unopposed). Not shown: Amelia Island Mosquito Control Group 2 (Todd Nuckols, Debby Portier), Town of Hilliard Council, and community development district seats. Fernandina Beach mayoral names follow the Supervisor's listing; the city lists C. Genece Minshew. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "1st District Court of Appeal — retain Judge Joseph Lewis Jr.? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-nassau-2026-dca1-retain-lewis-joseph",
+          "name": "Joseph Lewis Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Rachel Nordby? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-nassau-2026-dca1-retain-nordby-rachel",
+          "name": "Rachel Nordby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Tim Osterhaus? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-nassau-2026-dca1-retain-osterhaus-tim",
+          "name": "Tim Osterhaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Clay Roberts? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-nassau-2026-dca1-retain-roberts-clay",
+          "name": "Clay Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Raymond Treadwell? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-nassau-2026-dca1-retain-treadwell-raymond",
+          "name": "Raymond Treadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Fernandina Beach": {
+      "contests": [
+        {
+          "office": "Fernandina Beach Mayor",
+          "candidates": [
+            {
+              "key": "fl-nassau-2026-fernandinabeach-mayor-minshew-genece",
+              "name": "Genece Minshew",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-nassau-2026-fernandinabeach-mayor-poynter-timothy",
+              "name": "Timothy M. Poynter",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=nassau&el=48"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

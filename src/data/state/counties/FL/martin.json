@@ -1,0 +1,79 @@
+{
+  "state": "FL",
+  "county": "Martin County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.martinvotes.gov/election-information/sample-ballots/",
+    "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=martin",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "From the Martin County Supervisor of Elections' composite general election sample ballot, which marks precinct-only races with asterisks and states that all other races are countywide. The School Board races below are on every Martin County ballot. Not shown: State House Districts 85 and 86, Town of Sewall's Point Commissioner (Precinct 10 only) and Town of Ocean Breeze Mayor (part of Precinct 4). Not on the November ballot: County Commission Districts 2 and 4 and School Board District 3 (decided in the August primary). No county referendum and no City of Stuart commission race appears on the sample ballot. The two City of Stuart questions are shown for Stuart addresses. Check your official sample ballot at MartinVotes.gov.",
+  "contests": [
+    {
+      "office": "4th District Court of Appeal — retain Judge Alan O. Forst? (yes/no merit retention)",
+      "candidates": [{ "key": "fl-martin-2026-dca4-retain-forst-alan", "name": "Alan O. Forst", "party": "Nonpartisan", "incumbent": true }],
+      "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Mark W. Klingensmith? (yes/no merit retention)",
+      "candidates": [{ "key": "fl-martin-2026-dca4-retain-klingensmith-mark", "name": "Mark W. Klingensmith", "party": "Nonpartisan", "incumbent": true }],
+      "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Johnathan D. Lott? (yes/no merit retention)",
+      "candidates": [{ "key": "fl-martin-2026-dca4-retain-lott-johnathan", "name": "Johnathan D. Lott", "party": "Nonpartisan", "incumbent": true }],
+      "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Shannon K. Shaw? (yes/no merit retention)",
+      "candidates": [{ "key": "fl-martin-2026-dca4-retain-shaw-shannon", "name": "Shannon K. Shaw", "party": "Nonpartisan", "incumbent": true }],
+      "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Caroline Cahill Shepherd? (yes/no merit retention)",
+      "candidates": [{ "key": "fl-martin-2026-dca4-retain-shepherd-caroline", "name": "Caroline Cahill Shepherd", "party": "Nonpartisan", "incumbent": true }],
+      "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+    },
+    {
+      "office": "School Board Member District 1 (countywide)",
+      "candidates": [
+        { "key": "fl-martin-2026-school-board-d1-roberts-christia", "name": "Christia Li Roberts", "party": "Nonpartisan", "incumbent": false },
+        { "key": "fl-martin-2026-school-board-d1-white-cherie", "name": "Cherie White", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+    },
+    {
+      "office": "School Board Member District 4 (countywide)",
+      "candidates": [
+        { "key": "fl-martin-2026-school-board-d4-anderson-anthony", "name": "Anthony \"Tony\" Anderson", "party": "Nonpartisan", "incumbent": false },
+        { "key": "fl-martin-2026-school-board-d4-pritchett-amy", "name": "Amy B. Pritchett", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Stuart": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Stuart City Charter Amendment",
+          "title": "Sale or Lease of City Property Containing Recreational Ballfields Must Be Approved by Referendum Vote",
+          "summary": "Adds a provision to the Stuart City Charter barring the City Commission from selling, conveying or leasing for more than one year (including renewal options) any city-owned real property containing recreational ballfields unless voters first approve it in a public referendum. The referendum would follow the charter's Section 9.04 procedures used for vacating public streets or abandoning right-of-way.",
+          "yesMeans": "The charter will require voter approval before the city sells or leases for more than a year any city property containing recreational ballfields.",
+          "noMeans": "The charter is not changed, and no referendum is required for such sales or leases.",
+          "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+        },
+        {
+          "id": "City of Stuart Referendum",
+          "title": "Rescind Prior Referendum Requiring Commercial Leasing of Parcel Adjoining City Property Fronting Tidally Influenced Waters",
+          "summary": "Asks whether the city should rescind the November 8, 2011, referendum requirement to lease an undeveloped 1.97-acre commercial parcel fronting US-1 opposite North River Shores Boulevard, whose lease was to fund maintenance of the Haney Creek Preserve. If rescinded, the parcel may be converted to conservation and added to the Haney Creek Preserve.",
+          "yesMeans": "The 2011 leasing requirement is rescinded, so the 1.97-acre parcel may be added to the Haney Creek Preserve as conservation land.",
+          "noMeans": "The 2011 requirement to lease the parcel commercially stays in place.",
+          "source": "https://www.martinvotes.gov/wp-content/uploads/2026/09/Vicki-Davis-2026-General-Sample-Ballot-WEB-1.pdf"
+        }
+      ]
+    }
+  }
+}

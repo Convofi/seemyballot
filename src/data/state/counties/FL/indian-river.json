@@ -1,0 +1,77 @@
+{
+  "state": "FL",
+  "county": "Indian River County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=indianriver",
+    "https://www.voteindianriver.gov/campaigns/candidates/offices_up_for_election.php",
+    "https://www.voteindianriver.gov/public_notices/legal_notice.php",
+    "https://www.voteindianriver.gov/Documents/Voter%20Guides/MASTER%202026%20Indian%20River%20Voter%20Guide%20-English.pdf",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "The Indian River County Supervisor of Elections offers sample ballots only through a personal voter lookup, so this is built from the Supervisor's candidate filing records and the state judicial candidate list; county and city referenda could not be verified. Not shown, because an official page confirming that the whole county votes on them could not be found: County Commission District 2 (Robert (Robbie) D. Hardingham, Democratic; Jennifer Pippin, Republican; Nicole Paradiso, write-in) and District 4 (Marc Jaffe, Democratic; Deryl Byron Loar, Republican); also Indian River Mosquito Control District Seat 2, Hospital District, Soil and Water Conservation District, and Sebastian Inlet District seats. Not on the November ballot: School Board Districts 1, 2 and 4 (decided in the August primary). The Supervisor's voter guide lists no Vero Beach, Sebastian or Fellsmere municipal election in November 2026. Check your official sample ballot at VoteIndianRiver.gov.",
+  "contests": [
+    {
+      "office": "4th District Court of Appeal — retain Judge Alan O. Forst? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-indian-river-2026-dca4-retain-forst-alan",
+          "name": "Alan O. Forst",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Mark W. Klingensmith? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-indian-river-2026-dca4-retain-klingensmith-mark",
+          "name": "Mark W. Klingensmith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Johnathan D. Lott? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-indian-river-2026-dca4-retain-lott-johnathan",
+          "name": "Johnathan D. Lott",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Shannon K. Shaw? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-indian-river-2026-dca4-retain-shaw-shannon",
+          "name": "Shannon K. Shaw",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "4th District Court of Appeal — retain Judge Caroline Cahill Shepherd? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-indian-river-2026-dca4-retain-shepherd-caroline",
+          "name": "Caroline Cahill Shepherd",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

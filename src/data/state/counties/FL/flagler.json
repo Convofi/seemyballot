@@ -1,0 +1,176 @@
+{
+  "state": "FL",
+  "county": "Flagler County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf",
+    "https://www.flaglerelections.gov/Elections/2026-General-Election",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=flagler&el=41",
+    "https://www.flaglercounty.gov/Government/Board-of-County-Commissioners",
+    "https://www.palmcoast.gov/council",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "Built from the Supervisor of Elections' official sample ballot, which shows the ballot for the entire county and marks city-only and district-only items. County Commission Districts 2 and 4 and School Board District 4 appear without any residency restriction, so every county voter votes on them. Leann Pennington faces a qualified write-in candidate (Denise \"Woody\" Calderwood) in District 4. Not on the November ballot: County Commission seats other than Districts 2 and 4, School Board Districts 1 and 2, and Palm Coast Council District 3 (decided earlier). Not shown: the City of Flagler Beach charter amendment on the Ocean Palm Golf Course deed restriction (Flagler Beach voters only), and Deer Run and Grand Haven community development district seats. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "County Commissioner District 2 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-flagler-2026-bocc-d2-pontieri-theresa",
+          "name": "Theresa Pontieri",
+          "party": "Republican",
+          "incumbent": false
+        },
+        {
+          "key": "fl-flagler-2026-bocc-d2-royer-raymond",
+          "name": "Raymond Royer",
+          "party": "Independent",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+    },
+    {
+      "office": "County Commissioner District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-flagler-2026-bocc-d4-pennington-leann",
+          "name": "Leann Pennington",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "key": "fl-flagler-2026-bocc-d4-calderwood-denise",
+          "name": "Denise \"Woody\" Calderwood",
+          "party": "Other",
+          "incumbent": false,
+          "writeIn": true
+        }
+      ],
+      "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-flagler-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-flagler-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-flagler-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+    },
+    {
+      "office": "School Board District 4 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-flagler-2026-school-board-d4-chong-christy",
+          "name": "Christy Chong",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-flagler-2026-school-board-d4-tucker-trevor",
+          "name": "Trevor Tucker",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Palm Coast": {
+      "contests": [
+        {
+          "office": "Palm Coast City Council Member District 2 (elected citywide)",
+          "candidates": [
+            {
+              "key": "fl-flagler-2026-palmcoast-council-d2-amaral-antonio",
+              "name": "Antonio \"Tony\" Amaral Jr.",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-flagler-2026-palmcoast-council-d2-duarte-jeani",
+              "name": "Jeani Duarte",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+        },
+        {
+          "office": "Palm Coast City Council Member District 4 (elected citywide)",
+          "candidates": [
+            {
+              "key": "fl-flagler-2026-palmcoast-council-d4-galery-dylana",
+              "name": "Dylana \"Dee\" Galery",
+              "party": "Nonpartisan",
+              "incumbent": false
+            },
+            {
+              "key": "fl-flagler-2026-palmcoast-council-d4-shelley-darlene",
+              "name": "Darlene Shelley",
+              "party": "Nonpartisan",
+              "incumbent": false
+            }
+          ],
+          "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "City of Palm Coast Charter Amendment 1",
+          "title": "Amending Article IV, Section (7) of City Charter Regarding Removal of Council Members or Mayor",
+          "summary": "Amends the city charter's standards for forfeiture and suspension of the Mayor and City Council members. It defines ethics violations by reference to Florida law, adds meeting attendance requirements, and lets the City Council, after three formal censures, petition the Governor to suspend or remove a council member for neglect of duty or malfeasance.",
+          "yesMeans": "The charter's forfeiture and suspension standards for the Mayor and council members are expanded as described.",
+          "noMeans": "The charter's current forfeiture and suspension standards stay as they are.",
+          "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+        },
+        {
+          "id": "City of Palm Coast Charter Amendment 2",
+          "title": "Amending City Charter Article IV (7)(e) Procedures for Filling City Council Vacancies and Special Elections",
+          "summary": "Revises how City Council vacancies are filled. If a vacancy occurs with more than 18 months left in the term, a special election must be held within 90 days; if a vacancy occurs within 60 days or less of a general election, a special election must be called within 90 days after that general election.",
+          "yesMeans": "The charter's council vacancy and special election procedures are revised as described.",
+          "noMeans": "The charter's current vacancy procedures stay as they are.",
+          "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+        },
+        {
+          "id": "City of Palm Coast Charter Amendment 3",
+          "title": "Amending the City Charter to Increase City Council's Unfunded Contracting Authority to $30,000,000.00",
+          "summary": "Raises the City Council's authority to enter unfunded multi-year or lease-purchase contracts without a referendum from $15,000,000 to $30,000,000 and extends the allowed term from 36 months to 30 years. Contracts above these limits would still need voter approval, and the $30,000,000 threshold would be adjusted each year for inflation (CPI).",
+          "yesMeans": "The council's unfunded contracting limit rises to $30,000,000 (inflation-adjusted) with terms up to 30 years before a referendum is required.",
+          "noMeans": "The current $15,000,000 and 36-month limits on unfunded contracts stay in place.",
+          "source": "https://www.flaglerelections.gov/files/assets/elections/v/1/documents/election-notices/2026/2026-general-sample-ballot-mailing.pdf"
+        }
+      ]
+    }
+  }
+}

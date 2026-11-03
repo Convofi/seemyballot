@@ -1,0 +1,130 @@
+{
+  "state": "FL",
+  "county": "Bay County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=bay",
+    "https://www.bayvotesfl.gov/elections/offices-up-for-election/",
+    "https://bay-soe.s3.amazonaws.com/uploads/2026/05/22120812/16453-School-Board-Snapshot.pdf",
+    "https://www.bayvotesfl.gov/announcements/notice-of-election-general/",
+    "https://www.panamacity.gov/m/newsflash/home/detail/806",
+    "https://www.panamacity.gov/DocumentCenter/View/12195",
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+  ],
+  "note": "The Bay County Supervisor of Elections offers sample ballots only through a personal voter lookup, so no sample ballot was checked; candidates are from the Supervisor of Elections' candidate filing records (candidates still active for November) and names are shown as filed. School Board members are elected at large, per the Supervisor of Elections' qualifying sheet. County referenda could not be verified; Panama City's three charter amendments are from the city's official ballot language, linked by the Supervisor of Elections. Not on the November ballot: County Commission Districts 2 and 4, School Board Districts 2 and 5 and County Judge Groups 1 and 4 (decided earlier). Not shown: Callaway, Panama City Beach and Lynn Haven races and questions, and Lake Powell community development district seats. Check your official sample ballot at bayvotesfl.gov.",
+  "contests": [
+    {
+      "office": "School Board Member District 3 (countywide)",
+      "candidates": [
+        {
+          "key": "fl-bay-2026-school-board-d3-haley-john",
+          "name": "Dr. John L. Haley",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "key": "fl-bay-2026-school-board-d3-moore-christopher",
+          "name": "Christopher Moore",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=bay"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Joseph Lewis Jr.? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-bay-2026-dca1-retain-lewis-joseph",
+          "name": "Joseph Lewis Jr.",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Rachel Nordby? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-bay-2026-dca1-retain-nordby-rachel",
+          "name": "Rachel Nordby",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Tim Osterhaus? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-bay-2026-dca1-retain-osterhaus-tim",
+          "name": "Tim Osterhaus",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Clay Roberts? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-bay-2026-dca1-retain-roberts-clay",
+          "name": "Clay Roberts",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "1st District Court of Appeal — retain Judge Raymond Treadwell? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-bay-2026-dca1-retain-treadwell-raymond",
+          "name": "Raymond Treadwell",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {
+    "Panama City": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "Charter Amendment 1",
+          "title": "Charter Review Advisory Board Recommendations to Amend Charter - Terms and Qualifications of Commissioners; Election Dates",
+          "summary": "Changes the Mayor's term from 2 to 4 years and clarifies the qualifications to be Mayor or Commissioner. Moves city elections to the state and federal primary and general election dates, moving the next city election from 2027 to 2028, and provides that competitive races put two candidates on the November ballot.",
+          "yesMeans": "The city charter is amended to lengthen the Mayor's term to 4 years and move city elections to the state and federal election dates.",
+          "noMeans": "The Mayor's term and city election dates stay as they are.",
+          "source": "https://www.panamacity.gov/DocumentCenter/View/12195",
+          "moreInfo": "https://www.panamacity.gov/m/newsflash/home/detail/806"
+        },
+        {
+          "id": "Charter Amendment 2",
+          "title": "Charter Review Advisory Board Recommendations to Amend Charter - Charter Officers",
+          "summary": "Changes the office of City Clerk-Collector to City Comptroller, moves City Clerk duties to the City Manager and treasurer duties to the City Comptroller, and eliminates a public hearing for removal of the City Manager. Requires the City Comptroller, City Attorney and City Manager to be electors in the city and provides for the City Manager to appoint a lead administrator of police and fire services.",
+          "yesMeans": "The city charter is amended to make these changes to the city's charter officers.",
+          "noMeans": "The city's charter officer provisions stay as they are.",
+          "source": "https://www.panamacity.gov/DocumentCenter/View/12195",
+          "moreInfo": "https://www.panamacity.gov/m/newsflash/home/detail/806"
+        },
+        {
+          "id": "Charter Amendment 3",
+          "title": "Charter Review Advisory Board Recommendations to Amend Charter - Clerical Revisions; Require 10-year Charter Review",
+          "summary": "Removes charter articles or sections superseded by state or federal law, such as police, fire, finance, taxation, bonds, public utilities, streets and purchasing, and adds compliance with anti-discrimination laws. Extends the time to fill commission vacancies, provides for acting charter officers and procedural rules, makes clarifying wording changes, and requires a charter review every 10 years.",
+          "yesMeans": "The city charter is amended with these clarifying revisions and a required charter review every 10 years.",
+          "noMeans": "The charter keeps its current provisions and has no required 10-year review.",
+          "source": "https://www.panamacity.gov/DocumentCenter/View/12195",
+          "moreInfo": "https://www.panamacity.gov/m/newsflash/home/detail/806"
+        }
+      ]
+    }
+  }
+}

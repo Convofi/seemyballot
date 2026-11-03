@@ -1,0 +1,50 @@
+{
+  "state": "FL",
+  "county": "Sumter County",
+  "verifiedAt": "2026-11-02",
+  "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN",
+    "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter"
+  ],
+  "note": "The Sumter County Supervisor of Elections website blocks automated access, so the sample ballot could not be checked; this shows only the 5th District Court of Appeal retention questions from the state candidate list. County and city referenda could not be verified. The Supervisor of Elections' candidate listing shows no county commission or school board race left for November (all decided earlier or unopposed), and Wildwood City Commission Groups 1, 2 and 4 each have a single qualified candidate. Not shown: City of Bushnell Mayor and Seat 5, and Center Hill, Coleman and Webster seats (other cities, not verified against a ballot), and community development district seats. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "5th District Court of Appeal — retain Judge John M. Harris? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-sumter-2026-dca5-retain-harris-john",
+          "name": "John M. Harris",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge Scott D. Makar? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-sumter-2026-dca5-retain-makar-scott",
+          "name": "Scott D. Makar",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    },
+    {
+      "office": "5th District Court of Appeal — retain Judge F. Rand Wallis? (yes/no merit retention)",
+      "candidates": [
+        {
+          "key": "fl-sumter-2026-dca5-retain-wallis-rand",
+          "name": "F. Rand Wallis",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeGroup=JUD&StatusCode=ALL&cantype=STA&FormsButton1=RUN"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
