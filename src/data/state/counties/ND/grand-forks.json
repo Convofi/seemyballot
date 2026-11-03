@@ -1,0 +1,80 @@
+{
+  "state": "ND",
+  "county": "Grand Forks County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298",
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100303",
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100309",
+    "https://vip.sos.nd.gov/WhereToVote.aspx?tab=AddressandVotingTimes&ptlPKID=7&ptlhPKID=50",
+    "https://www.ndcourts.gov/district-court/district-court-judges"
+  ],
+  "note": "From the North Dakota Secretary of State's official sample ballot for Grand Forks precinct 18-08. Ballots for Larimore (20-11) and Northwood (20-13) addresses list the same county contests, so they are countywide. Grand Forks County commissioners are elected at large. North Dakota does not mark incumbents on the ballot. The three district judges are on the Supreme Court's current Northeast Central District roster. Incumbency for the county offices could not be confirmed because Grand Forks County's website blocks automated access, so they are not marked. Also on every county ballot: a choice of County Official Newspaper (the Grand Forks Herald is the only name printed). No countywide or City of Grand Forks measure is on the ballot. Not shown: State House and Senate districts and any school or park district items, which depend on where you live. Check your official sample ballot at vip.sos.nd.gov.",
+  "contests": [
+    {
+      "office": "Judge of the District Court No. 2 (Unexpired 4-Year Term), Northeast Central Judicial District",
+      "candidates": [
+        { "key": "nd-grand-forks-2026-district-court-2-sandberg-theodore", "name": "Theodore T Sandberg", "party": "Nonpartisan", "incumbent": true },
+        { "key": "nd-grand-forks-2026-district-court-2-kyte-sarah", "name": "Sarah M Kyte", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    },
+    {
+      "office": "Judge of the District Court No. 5, Northeast Central Judicial District",
+      "candidates": [
+        { "key": "nd-grand-forks-2026-district-court-5-mccarthy-jason", "name": "M Jason McCarthy", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    },
+    {
+      "office": "Judge of the District Court No. 6 (Unexpired 4-Year Term), Northeast Central Judicial District",
+      "candidates": [
+        { "key": "nd-grand-forks-2026-district-court-6-venhuizen-kristi", "name": "Kristi Pettit Venhuizen", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    },
+    {
+      "office": "County Commissioner (Unexpired 2-Year Term; elected at large)",
+      "candidates": [
+        { "key": "nd-grand-forks-2026-commissioner-unexp-mccoy-mitch", "name": "Mitch McCoy", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nd-grand-forks-2026-commissioner-unexp-hodny-tony", "name": "Tony Hodny", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    },
+    {
+      "office": "County Commissioner (elected at large; vote for up to three)",
+      "seats": 3,
+      "candidates": [
+        { "key": "nd-grand-forks-2026-commissioner-koldenthibert-debra", "name": "Debra (Deb) Kolden-Thibert", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nd-grand-forks-2026-commissioner-krauseneck-andrew", "name": "Andrew Krauseneck", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nd-grand-forks-2026-commissioner-rustad-mark", "name": "Mark Rustad", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nd-grand-forks-2026-commissioner-duray-rachel", "name": "Rachel Duray", "party": "Nonpartisan", "incumbent": false },
+        { "key": "nd-grand-forks-2026-commissioner-hagen-kimberly", "name": "Kimberly Hagen", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    },
+    {
+      "office": "County State's Attorney",
+      "candidates": [
+        { "key": "nd-grand-forks-2026-states-attorney-wamstad-haley", "name": "Haley Wamstad", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        { "key": "nd-grand-forks-2026-sheriff-schneider-andy", "name": "Andy Schneider", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    },
+    {
+      "office": "Supervisor, Grand Forks County Soil Conservation District",
+      "candidates": [
+        { "key": "nd-grand-forks-2026-soil-conservation-clemetson-jeff", "name": "Jeff Clemetson", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=100298"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

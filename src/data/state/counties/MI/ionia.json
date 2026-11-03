@@ -1,0 +1,39 @@
+{
+  "state": "MI",
+  "county": "Ionia County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://ioniacounty.org/wp-content/uploads/elections/2026/11/20261103-Local-Candidates.pdf",
+    "https://ioniacounty.org/departments-officials/county-clerk/elections/election-results/",
+    "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-302"
+  ],
+  "note": "From the Ionia County Clerk's November 3, 2026 local candidate list. Judges marked incumbent are marked (I) on that list. Ionia County is in the Court of Appeals 3rd District under MCL 600.302. No Ionia County executive or row offices are on this ballot, and the City of Ionia council seats are elected by ward. The county clerk did not post a proposal list, so no countywide proposal is shown; check your sample ballot for proposals. Not shown: County Commissioner District 3 (partial term), State House and Senate districts, City of Ionia council wards, township and village offices, school boards, community college trustees (Grand Rapids, Lansing and Montcalm community colleges each cover only part of the county), and local proposals. Each depends on where you live. Check your official sample ballot at mi.gov/vote.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District (6-year term; vote for 2)",
+      "seats": 2,
+      "candidates": [
+        { "key": "mi-ionia-2026-app3-boonstra-mark", "name": "Mark T. Boonstra", "party": "Nonpartisan", "incumbent": true },
+        { "key": "mi-ionia-2026-app3-korobkin-daniel", "name": "Daniel S. Korobkin", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://ioniacounty.org/wp-content/uploads/elections/2026/11/20261103-Local-Candidates.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 8th Circuit (6-year term)",
+      "candidates": [
+        { "key": "mi-ionia-2026-circuit8-sternisha-ed", "name": "Ed Sternisha", "party": "Nonpartisan", "incumbent": false },
+        { "key": "mi-ionia-2026-circuit8-shearer-lori", "name": "Lori J. Shearer", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://ioniacounty.org/wp-content/uploads/elections/2026/11/20261103-Local-Candidates.pdf"
+    },
+    {
+      "office": "Judge of District Court, 64A District (6-year term)",
+      "candidates": [
+        { "key": "mi-ionia-2026-district64a-voet-raymond", "name": "Raymond Peter Voet", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://ioniacounty.org/wp-content/uploads/elections/2026/11/20261103-Local-Candidates.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

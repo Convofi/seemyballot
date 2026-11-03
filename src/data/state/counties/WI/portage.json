@@ -1,0 +1,30 @@
+{
+  "state": "WI",
+  "county": "Portage County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web",
+    "https://www.co.portage.wi.gov/DocumentCenter/View/6815/Candidate-Registration-Tracking-November-2026-462026",
+    "https://www.co.portage.wi.gov/DocumentCenter/View/7384/Type-A-Notice-of-Referendum_November-2026-General-Election",
+    "https://www.co.portage.wi.gov/Directory.aspx"
+  ],
+  "note": "From the Portage County Clerk's November 3, 2026 sample ballots; all 39 ballot styles list the same two county offices. Lisa M. Roth is marked incumbent from the county staff directory, which lists her as Clerk of Circuit Court; the directory lists Joshua Ostrowski as Undersheriff, not Sheriff, so he is not marked incumbent. No countywide referendum and no City of Stevens Point office or referendum is on the ballot. Not shown: Congress, State Senate and Assembly districts, and school district referenda (such as Tomorrow River). Each depends on where you live. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Portage County Sheriff",
+      "candidates": [
+        { "key": "wi-portage-2026-sheriff-ostrowski-joshua", "name": "Joshua R. Ostrowski", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web"
+    },
+    {
+      "office": "Portage County Clerk of Circuit Court",
+      "candidates": [
+        { "key": "wi-portage-2026-clerkcircuit-roth-lisa", "name": "Lisa M. Roth", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.co.portage.wi.gov/DocumentCenter/View/7365/2026-General-Election-Sample-Ballot---web"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

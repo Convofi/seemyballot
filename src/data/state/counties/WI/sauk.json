@@ -1,0 +1,38 @@
+{
+  "state": "WI",
+  "county": "Sauk County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.sauk.wi.us/sites/default/files/fileattachments/county_clerk/page/119667/2026novcandidatelisting.pdf",
+    "https://www.co.sauk.wi.us/countyclerk/election-candidates-results",
+    "https://www.co.sauk.wi.us/clerkofcourts"
+  ],
+  "note": "From the Sauk County Clerk's November 3, 2026 candidate listing. Carrie A. Wastlick is marked incumbent from the Clerk of Courts page on the county site; the county site does not name the current Sheriff or Coroner, so those candidates are not marked. The listing shows no countywide referendum and no City of Baraboo office or referendum. Not shown: Congress (Districts 2 and 3), Assembly Districts 40 and 41, and school district referenda (Hillsboro, Reedsburg, Wisconsin Dells, Wonewoc-Union Center). Each depends on where you live. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Sauk County Sheriff",
+      "candidates": [
+        { "key": "wi-sauk-2026-sheriff-burch-matt", "name": "Matt Burch", "party": "Republican", "incumbent": false },
+        { "key": "wi-sauk-2026-sheriff-jesberger-ryan", "name": "Ryan P. Jesberger", "party": "Democratic", "incumbent": false }
+      ],
+      "source": "https://www.co.sauk.wi.us/sites/default/files/fileattachments/county_clerk/page/119667/2026novcandidatelisting.pdf"
+    },
+    {
+      "office": "Sauk County Coroner",
+      "candidates": [
+        { "key": "wi-sauk-2026-coroner-skrabel-don", "name": "Don Skrabel", "party": "Republican", "incumbent": false },
+        { "key": "wi-sauk-2026-coroner-giddings-amber", "name": "Amber Giddings", "party": "Independent", "incumbent": false }
+      ],
+      "source": "https://www.co.sauk.wi.us/sites/default/files/fileattachments/county_clerk/page/119667/2026novcandidatelisting.pdf"
+    },
+    {
+      "office": "Sauk County Clerk of Circuit Court",
+      "candidates": [
+        { "key": "wi-sauk-2026-clerkcircuit-wastlick-carrie", "name": "Carrie A. Wastlick", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.co.sauk.wi.us/sites/default/files/fileattachments/county_clerk/page/119667/2026novcandidatelisting.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

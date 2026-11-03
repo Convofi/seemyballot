@@ -1,0 +1,36 @@
+{
+  "state": "WI",
+  "county": "Wood County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://elections.woodcountywi.gov/Results?ElectionId=17",
+    "https://www.woodcountywi.gov/Departments/Sheriff/",
+    "https://www.woodcountywi.gov/Departments/Coroner/"
+  ],
+  "note": "From the Wood County Clerk's official election results page for the November 3, 2026 General Election, set up before polls closed; the three county offices below are on all 50 Wood County reporting units. Sheriff Shawn Becker and Coroner David Patton are marked incumbent from the county's Sheriff and Coroner pages; the county site does not name the current Clerk of Circuit Court, so that candidate is not marked. No countywide referendum and no City of Wisconsin Rapids office or referendum is on the ballot. Not shown: Congress (Districts 3 and 7), State Senate and Assembly districts, the Marshfield Area Municipal Court judge, and town referenda (Auburndale, Grand Rapids). Each depends on where you live. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Wood County Sheriff",
+      "candidates": [
+        { "key": "wi-wood-2026-sheriff-becker-shawn", "name": "Shawn Becker", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://elections.woodcountywi.gov/Results?ElectionId=17"
+    },
+    {
+      "office": "Wood County Coroner",
+      "candidates": [
+        { "key": "wi-wood-2026-coroner-patton-david", "name": "David A. Patton", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://elections.woodcountywi.gov/Results?ElectionId=17"
+    },
+    {
+      "office": "Wood County Clerk of Circuit Court",
+      "candidates": [
+        { "key": "wi-wood-2026-clerkcircuit-stimac-kimberly", "name": "Kimberly A. Stimac", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://elections.woodcountywi.gov/Results?ElectionId=17"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

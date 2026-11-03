@@ -1,0 +1,88 @@
+{
+  "state": "MI",
+  "county": "Shiawassee County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf",
+    "https://shiawassee.net/wp-content/uploads/2026/09/OfficialCandidateListNov2026Gen.pdf",
+    "https://shiawassee.net/wp-content/uploads/2026/09/OfficialProposalListNov2026Gen.pdf",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+  ],
+  "note": "From the Shiawassee County Clerk's November 3, 2026 ballot proofs; every contest and the county proposal below appear on all 67 Shiawassee County ballot styles. Judges are marked incumbent from the Michigan Bureau of Elections candidate report (incumbent-position seats). The ballot does not mark incumbency for the Road Commissioner race. No Shiawassee County executive or row offices, no Probate or District Court seat and no other countywide proposal are on this ballot. The City of Corunna (county seat) has one precinct, so its mayor race and charter amendments are on every Corunna ballot. Not shown: Corunna City Council ward seats, County Commissioner districts, State House and Senate districts, township, village and school board offices, community college seats on some ballots, and township, village and school proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot at mi.gov/vote.",
+  "contests": [
+    {
+      "office": "Shiawassee County Road Commissioner",
+      "candidates": [
+        { "key": "mi-shiawassee-2026-roadcomm-olson-emily", "name": "Emily S. Olson", "party": "Democratic", "incumbent": false },
+        { "key": "mi-shiawassee-2026-roadcomm-oberry-dave", "name": "Dave O'Berry", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+    },
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        { "key": "mi-shiawassee-2026-app4-inc-kelly-michael", "name": "Michael J. Kelly", "party": "Nonpartisan", "incumbent": true },
+        { "key": "mi-shiawassee-2026-app4-inc-maldonado-allie", "name": "Allie Greenleaf Maldonado", "party": "Nonpartisan", "incumbent": true },
+        { "key": "mi-shiawassee-2026-app4-inc-rick-michelle", "name": "Michelle M. Rick", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 35th Circuit, Incumbent Position",
+      "candidates": [
+        { "key": "mi-shiawassee-2026-circuit35-inc-stewart-matthew", "name": "Matthew J. Stewart", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Senior Citizen Services Millage Renewal Proposal",
+      "title": "Senior Citizen Services Millage Renewal Proposal",
+      "summary": "Would renew Shiawassee County's senior citizen services property tax at up to 0.4942 mill ($0.4942 per $1,000 of taxable value), the rolled-back rate of a previously voted 0.5 mill, for five years, 2026 through 2030. The money funds senior citizen services in Shiawassee County. The first-year levy is estimated to raise $1,370,677, and part of it may go to local downtown development and brownfield authorities as required by law.",
+      "yesMeans": "Shiawassee County could continue levying up to 0.4942 mill for senior citizen services for 2026 through 2030.",
+      "noMeans": "The senior citizen services millage would not be renewed.",
+      "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+    }
+  ],
+  "municipalities": {
+    "Corunna": {
+      "contests": [
+        {
+          "office": "Mayor, City of Corunna",
+          "candidates": [
+            { "key": "mi-shiawassee-2026-corunna-mayor-leduc-wayne", "name": "Wayne LeDuc", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+        }
+      ],
+      "measures": [
+        {
+          "id": "Charter Amendment 4.2",
+          "title": "An Amendment To The City Of Corunna Charter Such That The City Of Corunna Shall Be Elected At-Large Rather Than By Separate Wards As Terms Expire",
+          "summary": "Would amend Section 4.2 of the Corunna City Charter so that, instead of electing one council member from each ward to a four-year term at each regular city election, the city elects three council members to four-year terms without ward residency requirements. The change takes effect as current terms expire.",
+          "yesMeans": "Corunna City Council members would be elected at large instead of by ward as terms expire.",
+          "noMeans": "Corunna City Council members would continue to be elected by ward.",
+          "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+        },
+        {
+          "id": "Charter Amendment 5.2 (d)",
+          "title": "An Amendment To The City Of Corunna Charter Such That The City Of Corunna Council Shall Have A Quorum Based On The Majority Of Seats Filled Rather Than Four (4) Members Of Council",
+          "summary": "Would amend Section 5.2(d) of the Corunna City Charter. A quorum of the city council would be a majority of the council members then holding office, instead of a fixed four members.",
+          "yesMeans": "A Corunna City Council quorum would be a majority of the members then in office.",
+          "noMeans": "A Corunna City Council quorum would remain four members.",
+          "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+        },
+        {
+          "id": "Gender Neutral Ballot Language",
+          "title": "Gender Neutral Ballot Language",
+          "summary": "Would amend Chapters III through IX of the City of Corunna Charter to replace gender-specific terms with gender-neutral terms. The stated purpose is to make clear that the charter applies equally to all persons regardless of gender.",
+          "yesMeans": "The Corunna City Charter would be changed to use gender-neutral terms.",
+          "noMeans": "The Corunna City Charter's current wording would stay as it is.",
+          "source": "https://shiawassee.net/wp-content/uploads/2026/09/Shiawassee-November-2026-PROOFS-V2C-002.pdf"
+        }
+      ]
+    }
+  }
+}

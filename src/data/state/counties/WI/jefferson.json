@@ -1,0 +1,29 @@
+{
+  "state": "WI",
+  "county": "Jefferson County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.jeffersoncountywi.gov/County%20Clerk/Elections/November%202026%20Sample%20Ballots.pdf",
+    "https://www.jeffersoncountywi.gov/County%20Clerk/Elections/November%202026%20Nomination%20Papers.xlsx",
+    "https://www.jeffersoncountywi.gov/county_clerk/elections/index.php"
+  ],
+  "note": "From the Jefferson County Clerk's November 3, 2026 sample ballots; every ballot style lists the same two county offices. Incumbency is from the county clerk's nomination paper tracking sheet, which names each candidate as the current incumbent. No countywide referendum is on the ballot, and the City of Jefferson ballot has no city office or city referendum. Not shown: Congress, State Senate and Assembly districts, and school district referenda (Fort Atkinson, Whitewater, Palmyra-Eagle, Oconomowoc, Lake Mills and others). Each depends on where you live. Check your official sample ballot at myvote.wi.gov.",
+  "contests": [
+    {
+      "office": "Jefferson County Sheriff",
+      "candidates": [
+        { "key": "wi-jefferson-2026-sheriff-maze-travis", "name": "Travis Maze", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.jeffersoncountywi.gov/County%20Clerk/Elections/November%202026%20Sample%20Ballots.pdf"
+    },
+    {
+      "office": "Jefferson County Clerk of Circuit Court",
+      "candidates": [
+        { "key": "wi-jefferson-2026-clerkcircuit-hamreincha-cindy", "name": "Cindy R. Hamre Incha", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.jeffersoncountywi.gov/County%20Clerk/Elections/November%202026%20Sample%20Ballots.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

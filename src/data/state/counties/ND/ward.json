@@ -1,0 +1,54 @@
+{
+  "state": "ND",
+  "county": "Ward County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99234",
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99239",
+    "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99245",
+    "https://vip.sos.nd.gov/WhereToVote.aspx?tab=AddressandVotingTimes&ptlPKID=7&ptlhPKID=50",
+    "https://www.co.ward.nd.us/Directory.aspx"
+  ],
+  "note": "From the North Dakota Secretary of State's official sample ballot for Minot precinct 03-04. Ballots for Berthold (04-06) and Ryder (04-08) addresses list the same county contests, so they are countywide. Ward County commissioners are elected at large; vote for up to two. North Dakota does not mark incumbents on the ballot; John Fjeldahl and Jason Olson (County Commissioners) and Robert Roed (Sheriff) are marked incumbent from the Ward County staff directory, which does not name the State's Attorney. No district judge race is on the Ward County ballot. Also on every county ballot: a choice of County Official Newspaper (The Minot Daily News or The Kenmare News). No countywide or City of Minot measure is on the ballot. Not shown: State House and Senate districts and any school or park district items, which depend on where you live. Check your official sample ballot at vip.sos.nd.gov.",
+  "contests": [
+    {
+      "office": "County Commissioner (elected at large; vote for up to two)",
+      "seats": 2,
+      "candidates": [
+        { "key": "nd-ward-2026-commissioner-fjeldahl-john", "name": "John Fjeldahl", "party": "Nonpartisan", "incumbent": true },
+        { "key": "nd-ward-2026-commissioner-olson-jason", "name": "Jason T. Olson", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99234"
+    },
+    {
+      "office": "County State's Attorney",
+      "candidates": [
+        { "key": "nd-ward-2026-states-attorney-schultz-andrew", "name": "Andrew J Schultz", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99234"
+    },
+    {
+      "office": "County Sheriff",
+      "candidates": [
+        { "key": "nd-ward-2026-sheriff-roed-bob", "name": "Bob Roed", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99234"
+    },
+    {
+      "office": "Supervisor, Ward County Soil Conservation District",
+      "candidates": [
+        { "key": "nd-ward-2026-soil-conservation-bock-jessica", "name": "Jessica Bock", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99234"
+    },
+    {
+      "office": "Director, Garrison Diversion Conservancy District",
+      "candidates": [
+        { "key": "nd-ward-2026-garrison-diversion-walter-alan", "name": "Alan M. Walter", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://vip.sos.nd.gov/BallotViewer.aspx?docID=99234"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

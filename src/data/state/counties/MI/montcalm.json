@@ -1,0 +1,97 @@
+{
+  "state": "MI",
+  "county": "Montcalm County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.montcalm.us/DocumentCenter/View/6224",
+    "https://www.montcalm.us/DocumentCenter/View/6255",
+    "https://www.montcalm.us/DocumentCenter/View/6273",
+    "https://www.montcalm.us/DocumentCenter/View/6297",
+    "https://www.montcalm.us/950/November-3-2026-General-Election"
+  ],
+  "note": "From the Montcalm County Clerk's official candidate listing (as of Sept 8, 2026), official list of proposals, and November 3, 2026 General Election Notice, which says the Commission on Aging millage is on the ballot in all Montcalm County precincts. Judges marked incumbent are marked (I) on the county list; the list does not mark incumbency for county offices. The City of Stanton (county seat) offices are listed without wards. Not shown: County Commissioner District 4 (partial term), Montcalm Community College trustees (the county list does not say the college district covers every precinct), State House and Senate districts, township and village offices, school board members, and the Winfield Township, Central Montcalm and Tri County Area Schools proposals. Each depends on a district the address lookup cannot resolve. Check your official sample ballot at mi.gov/vote.",
+  "contests": [
+    {
+      "office": "Montcalm County Treasurer (partial term ending 12/31/2028)",
+      "candidates": [
+        { "key": "mi-montcalm-2026-treasurer-wakeley-ashley", "name": "Ashley Wakeley", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+    },
+    {
+      "office": "Montcalm County Road Commissioner (6-year term)",
+      "candidates": [
+        { "key": "mi-montcalm-2026-roadcomm-christensen-mark", "name": "Mark L. Christensen", "party": "Republican", "incumbent": false },
+        { "key": "mi-montcalm-2026-roadcomm-roose-steven", "name": "Steven Roose", "party": "Independent", "incumbent": false }
+      ],
+      "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+    },
+    {
+      "office": "Judge of Court of Appeals, 3rd District (6-year term; vote for 2)",
+      "seats": 2,
+      "candidates": [
+        { "key": "mi-montcalm-2026-app3-boonstra-mark", "name": "Mark T. Boonstra", "party": "Nonpartisan", "incumbent": true },
+        { "key": "mi-montcalm-2026-app3-korobkin-daniel", "name": "Daniel S. Korobkin", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+    },
+    {
+      "office": "Judge of Circuit Court, 8th Circuit (6-year term)",
+      "candidates": [
+        { "key": "mi-montcalm-2026-circuit8-sternisha-ed", "name": "Ed Sternisha", "party": "Nonpartisan", "incumbent": false },
+        { "key": "mi-montcalm-2026-circuit8-shearer-lori", "name": "Lori J. Shearer", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+    },
+    {
+      "office": "Judge of District Court, 64B District (6-year term)",
+      "candidates": [
+        { "key": "mi-montcalm-2026-district64b-eggleston-adam", "name": "Adam James Eggleston", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Montcalm County Proposal",
+      "title": "Commission on Aging Millage Renewal",
+      "summary": "Would renew Montcalm County's property tax of 0.45 mill ($0.45 per $1,000 of taxable value) for four years, 2027 through 2030, to fund the Montcalm County Commission on Aging for senior citizen services. The first-year levy is estimated to raise $1,346,510.71. Part of the millage may be captured by downtown development authorities in Edmore, Crystal Township, Howard City, Lakeview and Greenville.",
+      "yesMeans": "Montcalm County would continue the 0.45 mill Commission on Aging tax for 2027 through 2030.",
+      "noMeans": "The Commission on Aging millage would not be renewed.",
+      "source": "https://www.montcalm.us/DocumentCenter/View/6255",
+      "moreInfo": "https://www.montcalm.us/DocumentCenter/View/6273"
+    }
+  ],
+  "municipalities": {
+    "Stanton": {
+      "contests": [
+        {
+          "office": "Mayor, City of Stanton (2-year term)",
+          "candidates": [
+            { "key": "mi-montcalm-2026-stanton-mayor-mcgill-jacky", "name": "Jacky McGill", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+        },
+        {
+          "office": "Commissioner, City of Stanton (2-year term; vote for 3)",
+          "seats": 3,
+          "candidates": [
+            { "key": "mi-montcalm-2026-stanton-comm-basom-jane", "name": "Jane E. Basom", "party": "Nonpartisan", "incumbent": false },
+            { "key": "mi-montcalm-2026-stanton-comm-holloway-ray", "name": "Ray Holloway", "party": "Nonpartisan", "incumbent": false },
+            { "key": "mi-montcalm-2026-stanton-comm-kuhn-tamara", "name": "Tamara Kuhn", "party": "Nonpartisan", "incumbent": false },
+            { "key": "mi-montcalm-2026-stanton-comm-vanholstyn-steve", "name": "Steve VanHolstyn", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+        },
+        {
+          "office": "Commissioner, City of Stanton (partial term ending 12/01/2027)",
+          "candidates": [
+            { "key": "mi-montcalm-2026-stanton-comm-partial-rich-eric", "name": "Eric Rich", "party": "Nonpartisan", "incumbent": false }
+          ],
+          "source": "https://www.montcalm.us/DocumentCenter/View/6224"
+        }
+      ],
+      "measures": []
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "state": "MI",
+  "county": "Marquette County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.co.marquette.mi.us/ElectionInfo/2026/Nov2026/GeneralElectionNoticeNov2026.pdf",
+    "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-302",
+    "https://www.co.marquette.mi.us/departments/county_clerk/electionnotices.php"
+  ],
+  "note": "The offices on the ballot are from the Marquette County Clerk's November 3, 2026 General Election Notice, which lists the Court of Appeals, 25th Circuit Court and 96th District Court judges for the whole county. The county did not post a candidate list or sample ballot, so candidate names and incumbency are from the Michigan Bureau of Elections official candidate listing. Marquette County is in the Court of Appeals 4th District under MCL 600.302. The notice lists no Marquette County executive or row offices, no countywide proposal, and no City of Marquette office or proposal. Not shown: County Commissioner Districts 1 and 3, the 109th State House district, township offices in Champion, Ewing, Forsyth, Humboldt, Marquette, Negaunee, Powell, Turin and Wells townships, school boards, the Negaunee Township community center board, and township, city (Ishpeming) and school proposals. Each depends on where you live. Check your official sample ballot at mi.gov/vote.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 4th District, Incumbent Position (6-year term; vote for 3)",
+      "seats": 3,
+      "candidates": [
+        { "key": "mi-marquette-2026-app4-inc-kelly-michael", "name": "Michael J. Kelly", "party": "Nonpartisan", "incumbent": true },
+        { "key": "mi-marquette-2026-app4-inc-maldonado-allie", "name": "Allie Greenleaf Maldonado", "party": "Nonpartisan", "incumbent": true },
+        { "key": "mi-marquette-2026-app4-inc-rick-michelle", "name": "Michelle M. Rick", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of Circuit Court, 25th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        { "key": "mi-marquette-2026-circuit25-inc-wiese-matt", "name": "Matt Wiese", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    },
+    {
+      "office": "Judge of District Court, 96th District, Non-Incumbent Position (6-year term)",
+      "candidates": [
+        { "key": "mi-marquette-2026-district96-crowley-patrick", "name": "Patrick J. Crowley", "party": "Nonpartisan", "incumbent": false },
+        { "key": "mi-marquette-2026-district96-swajanen-derek", "name": "Derek G. Swajanen", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

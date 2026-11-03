@@ -1,0 +1,83 @@
+{
+  "state": "MT",
+  "county": "Cascade County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification",
+    "https://www.cascadecountymt.gov/DocumentCenter/View/8147/2026-General-Election-State-Candidate-Certification",
+    "https://www.cascadecountymt.gov/692/2026-Federal-General-Election-Informatio",
+    "https://www.cascadecountymt.gov/Directory.aspx",
+    "https://www.cascadecountymt.gov/175/Commission-Office",
+    "https://archive.legmt.gov/bills/mca/title_0070/chapter_0040/part_0210/section_0040/0070-0040-0210-0040.html"
+  ],
+  "note": "From Cascade County Elections' certified local candidate list (August 20, 2026) and the state candidate certification for Cascade County. The county did not post sample ballots online. Under MCA 7-4-2104 the District 2 commissioner must live in District 2 but is elected by the whole county. Incumbent flags come from the county staff directory and Commission Office page (Sheriff Jesse Slaughter, County Attorney Josh Racki, Treasurer Diane Heikkila, Public Administrator Gerry Boland; the current District 2 commissioner, James L. Larson, is not running). Lynn DeRoche is listed in the directory as an election specialist, not the Clerk and Recorder, so she is not marked. Justice of the Peace incumbency could not be confirmed. Withdrawn candidates (Rina Fontana Moore, Cayle Halberg) are left out, and the High Plains Conservation District election was canceled. The county election page lists only the three statewide ballot issues, so no countywide or City of Great Falls measure is shown. Not shown: State House and Senate districts and any school or special district items, which depend on where you live. Supreme Court Justice #4 and the statewide ballot issues are on the Montana statewide list. Check your official sample ballot.",
+  "contests": [
+    {
+      "office": "District Court Judge, 8th Judicial District, Department 4: retain Judge John W. Parker? (Yes/No retention vote)",
+      "candidates": [
+        { "key": "mt-cascade-2026-district-court-8-dept4-retain-parker-john", "name": "John W Parker", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8147/2026-General-Election-State-Candidate-Certification"
+    },
+    {
+      "office": "Cascade County Commissioner, District 2 (elected countywide)",
+      "candidates": [
+        { "key": "mt-cascade-2026-commissioner-d2-bessette-barbara", "name": "Barbara Bessette", "party": "Democratic", "incumbent": false },
+        { "key": "mt-cascade-2026-commissioner-d2-lynch-tom", "name": "Tom Lynch", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    },
+    {
+      "office": "Cascade County Clerk & Recorder/Auditor/Surveyor",
+      "candidates": [
+        { "key": "mt-cascade-2026-clerk-recorder-deroche-lynn", "name": "Lynn DeRoche", "party": "Republican", "incumbent": false }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    },
+    {
+      "office": "Cascade County Sheriff/Coroner",
+      "candidates": [
+        { "key": "mt-cascade-2026-sheriff-slaughter-jesse", "name": "Jesse Slaughter", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    },
+    {
+      "office": "Cascade County Attorney",
+      "candidates": [
+        { "key": "mt-cascade-2026-county-attorney-racki-joshua", "name": "Joshua Racki", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    },
+    {
+      "office": "Cascade County Public Administrator",
+      "candidates": [
+        { "key": "mt-cascade-2026-public-administrator-boland-gerald", "name": "Gerald W. Boland", "party": "Democratic", "incumbent": true }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    },
+    {
+      "office": "Cascade County Treasurer/Superintendent of Schools",
+      "candidates": [
+        { "key": "mt-cascade-2026-treasurer-heikkila-diane", "name": "Diane Heikkila", "party": "Republican", "incumbent": true }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    },
+    {
+      "office": "Justice of the Peace, Department 1",
+      "candidates": [
+        { "key": "mt-cascade-2026-jp1-bebbington-brian", "name": "Brian Bebbington", "party": "Nonpartisan", "incumbent": false },
+        { "key": "mt-cascade-2026-jp1-polich-robert", "name": "Robert Polich", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    },
+    {
+      "office": "Justice of the Peace, Department 2",
+      "candidates": [
+        { "key": "mt-cascade-2026-jp2-fagenstrom-steven", "name": "Steven Fagenstrom", "party": "Nonpartisan", "incumbent": false }
+      ],
+      "source": "https://www.cascadecountymt.gov/DocumentCenter/View/8146/2026-Federal-General-County-Candidate-Certification"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

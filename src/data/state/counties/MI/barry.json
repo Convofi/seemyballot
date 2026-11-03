@@ -1,0 +1,31 @@
+{
+  "state": "MI",
+  "county": "Barry County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.barrycounty.org/Candidate%20Listing%209-2-26.pdf",
+    "https://www.barrycounty.org/November%20NOTICE%20OF%20ELECTION.pdf",
+    "https://www.barrycounty.org/departments_and_officials/officials/county_clerk/elections.php"
+  ],
+  "note": "From the Barry County Clerk's November 3, 2026 candidate and proposal listing and Notice of Election. The notice lists no Barry County offices and no countywide proposal; the countywide contests are the judicial races below. Judges marked incumbent are marked (I) on the county list. City of Hastings council seats are elected by ward, and no candidate filed for the Hastings Board of Review seat. Not shown: State House and Senate districts, Hastings council wards, township and village offices, community college and school board members, and the Hastings Area School System bond, Allegan Area ESA millages and Baltimore Township proposal. Each depends on where you live. Check your official sample ballot at mi.gov/vote.",
+  "contests": [
+    {
+      "office": "Judge of Court of Appeals, 3rd District, Incumbent Position (6-year term; vote for 2)",
+      "seats": 2,
+      "candidates": [
+        { "key": "mi-barry-2026-app3-inc-boonstra-mark", "name": "Mark T. Boonstra", "party": "Nonpartisan", "incumbent": true },
+        { "key": "mi-barry-2026-app3-inc-korobkin-daniel", "name": "Daniel S. Korobkin", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.barrycounty.org/Candidate%20Listing%209-2-26.pdf"
+    },
+    {
+      "office": "Judge of Circuit Court, 5th Circuit, Incumbent Position (6-year term)",
+      "candidates": [
+        { "key": "mi-barry-2026-circuit5-inc-alspaugh-vicky", "name": "Vicky L. Alspaugh", "party": "Nonpartisan", "incumbent": true }
+      ],
+      "source": "https://www.barrycounty.org/Candidate%20Listing%209-2-26.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}
