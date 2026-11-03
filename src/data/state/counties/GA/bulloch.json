@@ -1,0 +1,25 @@
+{
+  "state": "GA",
+  "county": "Bulloch County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://bullochcounty.net/wp-content/uploads/2026/09/2026-Nov-3-General-Special-Election_Sample_Ballot-FINAL-SLJ.pdf"
+  ],
+  "note": "From the Bulloch County Board of Elections and Registration sample ballot, which marks incumbents with (I). Not shown because they depend on your district: County Commission District 1 Seat B and District 2 Seats B and D, the City of Statesboro special election for City Council District 2, State House Districts 158, 159 and 160, State Senate District 4 and U.S. House District 12. No countywide referendum or citywide Statesboro item is on this ballot. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Bulloch County Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-bulloch-2026-soilwater-cartee-romaine",
+          "name": "Romaine Cartee",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "source": "https://bullochcounty.net/wp-content/uploads/2026/09/2026-Nov-3-General-Special-Election_Sample_Ballot-FINAL-SLJ.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

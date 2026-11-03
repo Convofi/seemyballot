@@ -1,0 +1,62 @@
+{
+  "state": "AL",
+  "county": "Autauga County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf",
+    "https://www.sos.alabama.gov/alabama-votes/2026-general-election-sample-ballots"
+  ],
+  "note": "Countywide items are those printed on every ballot style in the official Autauga County sample ballot. Not shown because they depend on your district: State House Districts 42, 69 and 88, State Senate District 30 and U.S. House District 6. The four statewide amendments are statewide questions; no local amendment or City of Prattville item is on this ballot. Incumbents are not marked because the ballot does not identify incumbents. Check your official sample ballot for district races.",
+  "contests": [
+    {
+      "office": "Circuit Court Judge, 19th Judicial Circuit, Place No. 5",
+      "candidates": [
+        {
+          "key": "al-autauga-2026-circuit-p5-carter-carol",
+          "name": "Carol Cook Carter",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+    },
+    {
+      "office": "Autauga County Sheriff",
+      "candidates": [
+        {
+          "key": "al-autauga-2026-sheriff-harrell-mark",
+          "name": "Mark B. Harrell",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+    },
+    {
+      "office": "Autauga County Revenue Commissioner",
+      "candidates": [
+        {
+          "key": "al-autauga-2026-revenue-commissioner-evans-kathy",
+          "name": "Kathy Evans",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+    },
+    {
+      "office": "Autauga County Coroner",
+      "candidates": [
+        {
+          "key": "al-autauga-2026-coroner-barber-buster",
+          "name": "Buster Barber",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.sos.alabama.gov/sites/default/files/sample-ballots/2026/gen/Autauga-Sample.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

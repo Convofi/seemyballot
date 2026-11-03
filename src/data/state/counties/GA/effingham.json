@@ -1,0 +1,47 @@
+{
+  "state": "GA",
+  "county": "Effingham County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.effinghamcounty.org/DocumentCenter/View/8791",
+    "https://www.effinghamcounty.org/DocumentCenter/View/8554/SPLOST-Special-Purpose-Local-Option-Sales-And-Use-Tax",
+    "https://www.effinghamcounty.org/DocumentCenter/View/8555/Local-Homeowners-Incentive-Adjustment-Program",
+    "https://www.effinghamcounty.org/DocumentCenter/View/8553/City-of-Springfields-Referendum",
+    "https://www.effinghamcounty.org/248/Elections-Registration"
+  ],
+  "note": "From the Effingham County Board of Elections and Registration call for election and the published referendum notices. The county did not post a composite sample ballot or certified candidate list, so county contests are not shown: check your official sample ballot (Georgia My Voter Page) for county commission, board of education and any other local races, the City of Springfield municipal election, and state legislative and U.S. House districts. The three statewide constitutional amendments are statewide questions.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "1% SPLOST Election",
+      "title": "Effingham County special purpose local option sales tax (SPLOST)",
+      "summary": "Asks whether to reimpose a one percent special purpose local option sales and use tax in Effingham County for up to six years to raise an estimated $200,000,000. The money would fund county capital projects (public buildings, recreation, roads and bridges, vehicles and equipment, drainage and technology) and capital projects in the cities of Guyton, Rincon and Springfield. Approval also authorizes the county to issue up to $100,000,000 in general obligation debt repaid from the tax.",
+      "yesMeans": "The 1% SPLOST would be reimposed for up to six years, and the county could issue up to $100 million in debt backed by it.",
+      "noMeans": "The 1% SPLOST would not be reimposed and the related debt would not be authorized.",
+      "source": "https://www.effinghamcounty.org/DocumentCenter/View/8554/SPLOST-Special-Purpose-Local-Option-Sales-And-Use-Tax"
+    },
+    {
+      "id": "Local Homeowner's Incentive Adjustment Program",
+      "title": "Effingham County local homeowner's incentive adjustment program (House Bill 439)",
+      "summary": "Asks whether Effingham County should establish a local homeowner's incentive adjustment program under House Bill 439 and Chapter 89A of Title 36 of the Official Code of Georgia. The program's stated purpose is to reduce the tax burden on qualified homesteads in Effingham County. If approved, it takes effect for the county's next fiscal year.",
+      "yesMeans": "Effingham County would establish the homeowner's incentive adjustment program to reduce taxes on qualified homesteads.",
+      "noMeans": "Effingham County would not establish the program.",
+      "source": "https://www.effinghamcounty.org/DocumentCenter/View/8555/Local-Homeowners-Incentive-Adjustment-Program"
+    }
+  ],
+  "municipalities": {
+    "Springfield": {
+      "contests": [],
+      "measures": [
+        {
+          "id": "House Bill 1560",
+          "title": "City of Springfield redevelopment powers",
+          "summary": "Asks whether to approve House Bill 1560 (2026), which would let the City of Springfield exercise all powers under Georgia's Redevelopment Powers Law. These include carrying out community redevelopment, creating tax allocation districts and issuing tax allocation bonds.",
+          "yesMeans": "The Act takes effect and Springfield may use redevelopment powers, including tax allocation districts and bonds.",
+          "noMeans": "The Act does not take effect and is repealed on January 1 following the election.",
+          "source": "https://www.effinghamcounty.org/DocumentCenter/View/8553/City-of-Springfields-Referendum"
+        }
+      ]
+    }
+  }
+}

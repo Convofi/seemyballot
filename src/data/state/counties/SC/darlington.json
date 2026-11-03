@@ -1,0 +1,36 @@
+{
+  "state": "SC",
+  "county": "Darlington County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumSearch?electionId=22596",
+    "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=775&searchType=Default"
+  ],
+  "note": "From the South Carolina Election Commission's candidate listing (active candidates for Darlington County) and referendum listing for the November 3, 2026 Statewide General Election. The School District of Darlington County covers the whole county, so its bond question is shown at the county level. Not shown: the Soil and Water District Commission race (Gregory Dayne Brown and William W Kirven IV; the number of seats could not be confirmed from an official source), County Council Districts 2, 4, 6 and 8, School Board Districts 1, 3, 5 and 7, and State House and U.S. House districts. Municipal contests, including the City of Darlington's, are not covered because municipal filings are not in the state listing. Incumbent flags are not set because the county's own officeholder pages were not checked. Check your official sample ballot for the full list.",
+  "contests": [
+    {
+      "office": "Probate Judge",
+      "candidates": [
+        {
+          "key": "sc-darlington-2026-probate-judge-robinson-jeff",
+          "name": "Jeff Robinson",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596"
+    }
+  ],
+  "measures": [
+    {
+      "id": "Board of Education Bond Referendum",
+      "title": "School District of Darlington County general obligation bonds",
+      "summary": "Asks whether the Darlington County Board of Education may issue up to $250,000,000 in general obligation bonds of the School District of Darlington County. The money would pay for a new Hartsville High School, a new Spaulding Middle School, a new Darlington Elementary School, and safety, security and other upgrades to school district facilities, plus related costs such as technology and land.",
+      "yesMeans": "The school board could borrow up to $250 million through bonds for the listed school construction and upgrades.",
+      "noMeans": "The school board would not be authorized to issue these bonds.",
+      "source": "https://vrems.scvotes.sc.gov/Candidate/ReferendumDetail?referendumId=775&searchType=Default"
+    }
+  ],
+  "municipalities": {}
+}

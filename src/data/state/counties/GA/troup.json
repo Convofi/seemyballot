@@ -1,0 +1,39 @@
+{
+  "state": "GA",
+  "county": "Troup County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://www.troupcountyga.gov/Documents/Departments/Elections/Sample%20Ballots%20NOV%202026/Broad%20St_.pdf",
+    "https://www.troupcountyga.gov/Documents/Departments/Elections/Sample%20Ballots%20NOV%202026/Mountville_.pdf",
+    "https://www.troupcountyga.gov/services/assistance/elections_registration/index.php"
+  ],
+  "note": "From the Troup County Elections and Registration combined sample ballots posted by polling place, which mark incumbents with (I); the items shown appear on the ballots checked for both a City of LaGrange and a rural precinct. Not shown because they depend on your district: County Commission District 5, the City of LaGrange special election for City Council District 2C, State House Districts 136, 137 and 138, State Senate District 29 and U.S. House District 3. No countywide or citywide question is on these ballots. The three statewide constitutional amendments are statewide questions. Check your official sample ballot (Georgia My Voter Page).",
+  "contests": [
+    {
+      "office": "Troup County Commission Chairperson",
+      "candidates": [
+        {
+          "key": "ga-troup-2026-commission-chair-loftin-april",
+          "name": "April Loftin",
+          "party": "Republican",
+          "incumbent": false
+        }
+      ],
+      "source": "https://www.troupcountyga.gov/Documents/Departments/Elections/Sample%20Ballots%20NOV%202026/Broad%20St_.pdf"
+    },
+    {
+      "office": "Roosevelt Soil and Water Conservation District Supervisor",
+      "candidates": [
+        {
+          "key": "ga-troup-2026-soilwater-keith-joel",
+          "name": "Joel David Keith",
+          "party": "Nonpartisan",
+          "incumbent": true
+        }
+      ],
+      "source": "https://www.troupcountyga.gov/Documents/Departments/Elections/Sample%20Ballots%20NOV%202026/Broad%20St_.pdf"
+    }
+  ],
+  "measures": [],
+  "municipalities": {}
+}

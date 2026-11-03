@@ -1,0 +1,22 @@
+{
+  "state": "GA",
+  "county": "Spalding County",
+  "verifiedAt": "2026-11-03",
+  "sources": [
+    "https://spaldingcountyelections.com/wp-content/uploads/2026/08/RESOLUTION-CORRECTED-WITH-BOER-CHAIR-SIGNATURE.pdf",
+    "https://spaldingcountyelections.com/press-releases-notices/"
+  ],
+  "note": "From the Spalding County Board of Elections and Voter Registration notice of special purpose sales and use tax election. The elections office did not post a composite sample ballot or certified candidate list (its press release points voters to the Georgia My Voter Page), so county contests are not shown: check your official sample ballot for county commission, board of education and any other local races, and state legislative and U.S. House districts. The three statewide constitutional amendments are statewide questions.",
+  "contests": [],
+  "measures": [
+    {
+      "id": "County 1% Sales and Use Tax",
+      "title": "Spalding County special purpose local option sales tax (SPLOST)",
+      "summary": "Asks whether to impose a special one percent sales and use tax in Spalding County for up to 24 calendar quarters to raise an estimated $134,000,000 for capital projects. County projects include roads, bridges, sidewalks and trails, park maintenance, a new E911 facility and NextGen 911 software, fire truck debt reduction, building renovations, solid waste and storm water equipment, and sewer expansion; the City of Griffin and City of Orchard Hill would also fund fire stations, public safety, transportation and park projects. Approval also authorizes the City of Griffin to issue up to $20,000,000 in general obligation debt for its share of the projects.",
+      "yesMeans": "The 1% sales tax would be imposed beginning April 1, 2027, for up to six years, and Griffin could issue up to $20 million in related debt.",
+      "noMeans": "The 1% sales tax would not be imposed and the Griffin debt would not be authorized.",
+      "source": "https://spaldingcountyelections.com/wp-content/uploads/2026/08/RESOLUTION-CORRECTED-WITH-BOER-CHAIR-SIGNATURE.pdf"
+    }
+  ],
+  "municipalities": {}
+}
